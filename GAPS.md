@@ -1,4 +1,4 @@
-# Measures without text — 111th Congress
+# What this repository does not hold — 111th Congress
 
 155 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
@@ -6,7 +6,7 @@ this repository.
 
 This is an upstream gap, not a build failure. It is heavily
 concentrated in the older Congresses: govinfo's coverage of bill text
-thins out before the 111th, and House organising resolutions -- electing
+thins out before the 111th, and House organizing resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
@@ -180,3 +180,192 @@ Congress.
 | `S.Res. 517` | A resolution in support and recognition of National Train Day, May 8, 2010. |
 | `S.Res. 610` | A resolution recognizing the 40th anniversary of the Cumbres and Toltec Scenic Railroad. |
 | `S.Res. 700` | A resolution to provide for the approval of final regulations issued by the Office of Compliance to implement the Veterans Employment Opportunities Act of 1998 that apply to the Senate and employees of the Senate. |
+
+## Roll-call votes taken after the last published text
+
+174 roll calls were taken later than the most recent
+dated text version of their measure, so there is no commit for them to
+sit on. Every record in this repository is the record *as of* the version
+it accompanies -- see the caveat in the README -- and a vote cannot be
+written onto text that predates it.
+
+This is a limit of the shape of this repository, not an upstream gap and
+not a build failure. The votes themselves are published; they are listed
+here with the address the chamber serves them from.
+
+| Measure | Vote | When |
+|---|---|---|
+| `hconres-248` | House 111-2-98 | 2010-03-10, after the last version committed (2010-03-04) |
+| `hconres-301` | House 111-2-473 | 2010-07-27, after the last version committed (2010-07-22) |
+| `hr-1` | House 111-1-54 | 2009-02-10, after the last version committed (2009-01-29) |
+| `hr-1` | House 111-1-68 | 2009-02-13, after the last version committed (2009-01-29) |
+| `hr-1` | House 111-1-69 | 2009-02-13, after the last version committed (2009-01-29) |
+| `hr-1` | House 111-1-70 | 2009-02-13, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-33 | 2009-02-03, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-34 | 2009-02-03, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-35 | 2009-02-03, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-36 | 2009-02-03, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-37 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-38 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-39 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-40 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-41 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-42 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-43 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-44 | 2009-02-04, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-45 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-46 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-47 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-48 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-49 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-50 | 2009-02-05, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-51 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-52 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-53 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-54 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-55 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-56 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-57 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-58 | 2009-02-06, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-59 | 2009-02-09, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-60 | 2009-02-10, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-61 | 2009-02-10, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-63 | 2009-02-13, after the last version committed (2009-01-29) |
+| `hr-1` | Senate 111-1-64 | 2009-02-13, after the last version committed (2009-01-29) |
+| `hr-12` | House 111-1-7 | 2009-01-09, after the last version committed (2009-01-06) |
+| `hr-12` | House 111-1-8 | 2009-01-09, after the last version committed (2009-01-06) |
+| `hr-1575` | House 111-1-178 | 2009-04-01, after the last version committed (2009-03-24) |
+| `hr-1752` | House 111-1-681 | 2009-07-30, after the last version committed (2009-06-19) |
+| `hr-1886` | House 111-1-331 | 2009-06-11, after the last version committed (2009-06-02) |
+| `hr-1886` | House 111-1-332 | 2009-06-11, after the last version committed (2009-06-02) |
+| `hr-1886` | House 111-1-333 | 2009-06-11, after the last version committed (2009-06-02) |
+| `hr-2990` | House 111-1-433 | 2009-06-24, after the last version committed (2009-06-23) |
+| `hr-3538` | House 111-2-11 | 2010-01-20, after the last version committed (2010-01-19) |
+| `hr-3590` | House 111-2-165 | 2010-03-21, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-353 | 2009-11-21, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-355 | 2009-12-03, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-356 | 2009-12-03, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-357 | 2009-12-03, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-358 | 2009-12-03, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-359 | 2009-12-04, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-360 | 2009-12-04, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-361 | 2009-12-04, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-362 | 2009-12-04, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-363 | 2009-12-05, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-364 | 2009-12-05, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-365 | 2009-12-06, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-366 | 2009-12-06, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-367 | 2009-12-07, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-368 | 2009-12-07, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-369 | 2009-12-08, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-370 | 2009-12-08, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-375 | 2009-12-15, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-376 | 2009-12-15, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-377 | 2009-12-15, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-378 | 2009-12-15, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-379 | 2009-12-16, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-385 | 2009-12-21, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-386 | 2009-12-22, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-387 | 2009-12-22, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-388 | 2009-12-22, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-389 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-390 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-391 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-392 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-393 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-394 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-395 | 2009-12-23, after the last version committed (2009-10-13) |
+| `hr-3590` | Senate 111-1-396 | 2009-12-24, after the last version committed (2009-10-13) |
+| `hr-4823` | House 111-2-538 | 2010-09-23, after the last version committed (2010-09-16) |
+| `hr-4855` | House 111-2-360 | 2010-06-15, after the last version committed (2010-03-16) |
+| `hr-5110` | House 111-2-537 | 2010-09-23, after the last version committed (2010-09-16) |
+| `hr-5116` | House 111-2-659 | 2010-12-21, after the last version committed (2010-06-29) |
+| `hr-5131` | House 111-2-532 | 2010-09-22, after the last version committed (2010-09-16) |
+| `hr-5281` | Senate 111-2-278 | 2010-12-18, after the last version committed (2010-12-08) |
+| `hr-5325` | House 111-2-277 | 2010-05-19, after the last version committed (2010-05-18) |
+| `hr-5486` | House 111-2-362 | 2010-06-15, after the last version committed (2010-06-09) |
+| `hr-5486` | House 111-2-363 | 2010-06-15, after the last version committed (2010-06-09) |
+| `hr-5510` | House 111-2-655 | 2010-12-17, after the last version committed (2010-06-10) |
+| `hr-5851` | House 111-2-505 | 2010-07-30, after the last version committed (2010-07-26) |
+| `hr-5851` | House 111-2-506 | 2010-07-30, after the last version committed (2010-07-26) |
+| `hr-5987` | House 111-2-611 | 2010-12-08, after the last version committed (2010-07-30) |
+| `hr-6419` | House 111-2-579 | 2010-11-18, after the last version committed (2010-11-17) |
+| `hr-6495` | House 111-2-616 | 2010-12-08, after the last version committed (2010-12-03) |
+| `hres-56` | House 111-1-28 | 2009-01-22, after the last version committed (2009-01-13) |
+| `hres-305` | House 111-1-176 | 2009-04-01, after the last version committed (2009-03-31) |
+| `hres-699` | House 111-2-84 | 2010-03-04, after the last version committed (2009-07-30) |
+| `hres-989` | House 111-2-341 | 2010-06-09, after the last version committed (2009-12-16) |
+| `hres-1031` | House 111-2-102 | 2010-03-11, after the last version committed (2010-03-04) |
+| `hres-1031` | House 111-2-103 | 2010-03-11, after the last version committed (2010-03-04) |
+| `hres-1031` | House 111-2-104 | 2010-03-11, after the last version committed (2010-03-04) |
+| `hres-1031` | House 111-2-105 | 2010-03-11, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-260 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-261 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-262 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-263 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-264 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1031` | Senate 111-2-265 | 2010-12-08, after the last version committed (2010-03-04) |
+| `hres-1125` | House 111-2-191 | 2010-03-25, after the last version committed (2010-03-12) |
+| `s-22` | House 111-1-117 | 2009-03-11, after the last version committed (2009-01-15) |
+| `s-841` | House 111-2-640 | 2010-12-16, after the last version committed (2009-04-21) |
+| `s-987` | House 111-2-645 | 2010-12-16, after the last version committed (2010-12-02) |
+| `s-1390` | Senate 111-1-231 | 2009-07-16, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-232 | 2009-07-16, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-233 | 2009-07-16, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-234 | 2009-07-20, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-235 | 2009-07-21, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-236 | 2009-07-21, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-237 | 2009-07-22, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-238 | 2009-07-22, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-239 | 2009-07-22, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-240 | 2009-07-23, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-241 | 2009-07-23, after the last version committed (2009-07-02) |
+| `s-1390` | Senate 111-1-242 | 2009-07-23, after the last version committed (2009-07-02) |
+| `s-1776` | Senate 111-1-325 | 2009-10-21, after the last version committed (2009-10-14) |
+| `s-3153` | Senate 111-2-106 | 2010-03-25, after the last version committed (2010-03-23) |
+| `s-3167` | House 111-2-629 | 2010-12-14, after the last version committed (2010-12-08) |
+| `s-3217` | Senate 111-2-130 | 2010-05-05, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-131 | 2010-05-05, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-132 | 2010-05-06, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-133 | 2010-05-06, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-135 | 2010-05-06, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-136 | 2010-05-06, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-137 | 2010-05-11, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-138 | 2010-05-11, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-139 | 2010-05-11, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-140 | 2010-05-11, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-141 | 2010-05-12, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-142 | 2010-05-12, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-143 | 2010-05-12, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-144 | 2010-05-12, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-145 | 2010-05-12, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-146 | 2010-05-13, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-147 | 2010-05-13, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-148 | 2010-05-13, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-149 | 2010-05-13, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-150 | 2010-05-13, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-151 | 2010-05-17, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-152 | 2010-05-17, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-153 | 2010-05-18, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-154 | 2010-05-18, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-155 | 2010-05-18, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-156 | 2010-05-18, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-157 | 2010-05-18, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-158 | 2010-05-19, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-159 | 2010-05-19, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-160 | 2010-05-20, after the last version committed (2010-04-29) |
+| `s-3217` | Senate 111-2-161 | 2010-05-20, after the last version committed (2010-04-29) |
+| `s-3454` | Senate 111-2-238 | 2010-09-21, after the last version committed (2010-06-04) |
+| `s-3454` | Senate 111-2-270 | 2010-12-09, after the last version committed (2010-06-04) |
+| `s-3628` | Senate 111-2-220 | 2010-07-27, after the last version committed (2010-07-22) |
+| `s-3628` | Senate 111-2-240 | 2010-09-23, after the last version committed (2010-07-22) |
+| `s-3772` | Senate 111-2-249 | 2010-11-17, after the last version committed (2010-09-14) |
+| `s-3816` | Senate 111-2-242 | 2010-09-28, after the last version committed (2010-09-22) |
+| `s-3985` | Senate 111-2-267 | 2010-12-08, after the last version committed (2010-11-30) |
+| `s-3991` | Senate 111-2-266 | 2010-12-08, after the last version committed (2010-12-01) |
+| `s-3992` | Senate 111-2-268 | 2010-12-09, after the last version committed (2010-12-01) |
+| `sconres-31` | House 111-1-464 | 2009-06-26, after the last version committed (2009-06-25) |
+| `sjres-5` | Senate 111-1-5 | 2009-01-15, after the last version committed (2009-01-13) |
+| `sjres-26` | Senate 111-2-184 | 2010-06-10, after the last version committed (2010-06-07) |
+| `sjres-30` | Senate 111-2-239 | 2010-09-23, after the last version committed (2010-09-22) |
+| `sjres-39` | Senate 111-2-244 | 2010-09-29, after the last version committed (2010-09-28) |
