@@ -369,3 +369,30 @@ here with the address the chamber serves them from.
 | `sjres-26` | Senate 111-2-184 | 2010-06-10, after the last version committed (2010-06-07) |
 | `sjres-30` | Senate 111-2-239 | 2010-09-23, after the last version committed (2010-09-22) |
 | `sjres-39` | Senate 111-2-244 | 2010-09-29, after the last version committed (2010-09-28) |
+
+## What the derived amendment execution could not do
+
+89,407 amendatory instructions were read from the measures in this
+repository, and **1,579 of them (1.8%) were
+carried out**. Each measure's `derived/amendments.md` holds its own,
+with the reason beside every one that was not.
+
+This is not a build failure and it is not going to improve much. A bill
+is a list of instructions *about* law, and most of them refer to the law
+by structure — *strike subsection (k)* — so the words being removed are
+in the US Code and not in the bill. Nothing here guesses them. An
+instruction is carried out only where the bill states both the text
+removed and the text inserted, so the result follows from the bill alone
+and can be checked against it.
+
+| Why an instruction was not carried out | Instructions |
+|---|---|
+| the bill names no machine-readable US Code section | 83,472 |
+| the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill | 2,961 |
+| the bill quotes the text inserted but describes where it goes | 699 |
+| the bill quotes the text struck but describes what replaces it | 687 |
+| the bill quotes text on both sides, but not as a single substitution this could carry out | 9 |
+
+Counted on each measure's last committed version. An instruction
+usually survives from the introduced text to the enrolled one, so
+counting every version would report the same instruction several times.
