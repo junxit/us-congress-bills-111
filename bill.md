@@ -1,0 +1,299 @@
+---
+legis-num: H. RES. 5
+congress: 111th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 5
+
+> Adopting rules for the One Hundred Eleventh Congress.
+
+That the Rules of the House of Representatives of the One Hundred Tenth Congress, including applicable provisions of law or concurrent resolution that constituted rules of the House at the end of the One Hundred Tenth Congress, are adopted as the Rules of the House of Representatives of the One Hundred Eleventh Congress, with amendments to the standing rules as provided in section 2, and with other orders as provided in sections 3, 4, and 5.
+
+## § 2. Changes to the Standing Rules
+
+- **(a)** *Inspector General Audits* Amend clause 6(c)(1) of rule II to read as follows:
+- **(b)** *Homeland Security* In clause 3(g) of rule X, designate the existing text as subparagraph (1) and add thereafter the following new subparagraph:
+- **(c)** *Additional Functions of the Committee on House Administration* In clause 4(d)(1) of rule X—
+  - **(1)** redesignate subdivisions (B) and (C) as subdivisions (C) and (D) and insert after subdivision (A) the following new subdivision:
+  - **(2)** in subdivision (D) (as redesignated) strike “(B)” and insert “(C)”.
+- **(d)** *Terms of Committee Chairmen* In clause 5 of rule X—
+  - **(1)** amend paragraph (a)(2)(C) to read as follows:
+  - **(2)** in paragraph (c)—
+    - **(A)** strike the designation of subparagraph (1); and
+    - **(B)** strike subparagraph (2).
+- **(e)** *Calendar Wednesday*
+  - **(1)** In clause 6 of rule XV—
+    - **(A)** in paragraph (a)—
+      - **(i)** strike “the committees” and insert “those committees”; and
+      - **(ii)** strike “unless two-thirds” and all that follows and insert “whose chair, or other member authorized by the committee, has announced to the House a request for such call on the preceding legislative day.’’; and
+    - **(B)** strike paragraphs (c), (d), and (f) (and redesignate paragraph (e) as paragraph (c)).
+  - **(2)** In clause 6(c) of rule XIII, strike subparagraph (1) and the designation “(2)”.
+- **(f)** *Postponement Authority* In clause 1 of rule XIX, add the following new paragraph:
+- **(g)** *Instructions in the Motion to Recommit* In clause 2(b) of rule XIX—
+  - **(1)** designate the existing sentence as subparagraph (1);
+  - **(2)** in subparagraph (1) (as so designated)—
+    - **(A)** strike “if”; and
+    - **(B)** strike “includes instructions, it”; and
+  - **(3)** add the following new subparagraph at the end:
+- **(h)** *Conduct of Votes* In clause 2(a) of rule XX, strike “A record vote by electronic device shall not be held open for the sole purpose of reversing the outcome of such vote.”.
+- **(i)** *General Appropriation Conference Reports* In clause 9 of rule XXI—
+  - **(1)** insert after paragraph (a) the following new paragraph (and redesignate succeeding paragraphs accordingly):
+  - **(2)** in paragraph (c) (as redesignated)—
+    - **(A)** in the first sentence, after “paragraph (a)” insert “or (b)”; and
+    - **(B)** amend the second sentence to read as follows:
+      > As disposition of a point of order under this paragraph or paragraph (b), the Chair shall put the question of consideration with respect to the rule or order or conference report, as applicable.
+
+- **(j)** *Paygo*
+  - **(1)** Amend clause 10 of rule XXI to read as follows:
+  - **(2)** In clause 7 of rule XXI, strike “the period comprising the current fiscal year and the five fiscal years beginning with the fiscal year that ends in the following calendar year or the period comprising the current fiscal year and the ten fiscal years beginning with the fiscal year that ends in the following calendar year” and insert “period described in clause 10(a)”.
+- **(k)** *Disclosure by Members of Employment Negotiations* In clause 1 of rule XXVII, strike “until after his or her successor has been elected,”.
+- **(l)** *Gender Neutrality*
+  - **(1)** In the standing rules—
+    - **(A)** strike “chairman” each place it appears and insert “chair”; and
+    - **(B)** strike “Chairman” each place it appears and insert “Chair” (except in clause 4(a)(1)(B) of rule X).
+  - **(2)** In rule I—
+    - **(A)** in clause 1 strike “his”;
+    - **(B)** in clause 7, strike “his” and insert “such”;
+    - **(C)** in clause 8—
+      - **(i)** in paragraph (b)(1) strike “his”; and
+      - **(ii)** in paragraph (b)(3)(B), strike “his election and whenever he deems” and insert “the election of the Speaker and whenever”; and
+    - **(D)** in clause 12—
+      - **(i)** in paragraph (c) strike “he” and insert “the Speaker”; and
+      - **(ii)** in paragraph (d) strike “his opinion” and insert “the opinion of the Speaker”.
+  - **(3)** In rule II—
+    - **(A)** in clause 1—
+      - **(i)** strike “his office” and insert “the office”;
+      - **(ii)** strike “his knowledge and ability” and insert “the knowledge and ability of the officer”; and
+      - **(iii)** strike “his department” and insert “the department concerned”;
+    - **(B)** in clause 2—
+      - **(i)** in paragraph (b) strike “he is required to make” and insert “required to be made by such officer”;
+      - **(ii)** in paragraph (g) strike “his temporary absence or disability” and insert “the temporary absence or disability of the Clerk”; and
+      - **(iii)** in paragraph (i)(1) strike “Whenever the Clerk is acting as a supervisory authority over such staff, he” and insert “When acting as a supervisory authority over such staff, the Clerk”; and
+    - **(C)** in clause 3—
+      - **(i)** in paragraph (a) strike “him” and insert “the Sergeant-at-Arms”;
+      - **(ii)** in paragraph (b) strike “him” and insert “the Sergeant-at-Arms”;
+      - **(iii)** in paragraph (c) strike “his employees” and insert “employees of the office of the Sergeant-at-Arms”; and
+      - **(iv)** in paragraph (d)—
+        - **(I)** strike “; and” and insert “and,”; and
+        - **(II)** strike “he”.
+  - **(4)** In rule III—
+    - **(A)** in clause 1 strike “he has” and insert “having”; and
+    - **(B)** in clause 2(a)—
+      - **(i)** strike “his vote” and insert “the vote of such Member”; and
+      - **(ii)** strike “his presence” and insert “the presence of such Member”.
+  - **(5)** In rule IV—
+    - **(A)** in clause 4(a) strike “he or she” and insert “such individual”; and
+    - **(B)** in clause 6(b) strike “his family” and insert “the family of such individual”.
+  - **(6)** In rule V—
+    - **(A)** strike “administer a system subject to his direction and control” each place it appears and insert “administer, direct, and control a system”;
+    - **(B)** strike “he” each place it appears and insert “the Speaker”; and
+    - **(C)** in clause 3 strike “his” and insert “the”.
+  - **(7)** In rule VI, strike “he” each place it appears and insert “the Speaker”.
+  - **(8)** In clause 7 of rule VII, strike “his office” each place it appears and insert “the office of the Clerk”.
+  - **(9)** In clause 6(b) of rule VIII, strike “he” and insert “the Speaker”.
+  - **(10)** In clause 2(a)(1) of rule IX, strike “his” and insert “an”.
+  - **(11)** In rule X—
+    - **(A)** in clause 4(f)(1), strike “President submits his budget” and insert “submission of the budget by the President”;
+    - **(B)** in clause 5—
+      - **(i)** in paragraph (a)(4)—
+        - **(I)** strike “his designee” each place it appears and insert “a designee”; and
+        - **(II)** strike “his respective party” each place it appears and insert “the respective party of such individual”;
+      - **(ii)** in paragraph (b)(1) strike “he was”; and
+      - **(iii)** in paragraph (c) strike “chairmanship” and insert “chair”;
+    - **(C)** in clause 8—
+      - **(i)** strike “his expenses” each place it appears and insert “the expenses of such individual”; and
+      - **(ii)** strike “he” each place it appears;
+    - **(D)** in clause 10(a) strike “he is”; and
+    - **(E)** in clause 11—
+      - **(i)** in paragraph (a)(3) strike “member of his leadership staff to assist him in his capacity ” and insert “respective leadership staff member to assist in the capacity of the Speaker or Minority Leader”;
+      - **(ii)** in paragraph (e)(1) strike “his employment or contractual agreement” and insert “the employment or contractual agreement of such employee or person”; and
+      - **(iii)** in paragraph (g)(2)—
+        - **(I)** in subdivision (B)—
+          - **(aa)** strike “he” and insert “the President”; and
+          - **(bb)** strike “his”; and
+        - **(II)** in subdivision (C) strike “his”.
+  - **(12)** In rule XI—
+    - **(A)** in clause 2—
+      - **(i)** in paragraph (c)(1) strike “he” and insert “the chair”; and
+      - **(ii)** in paragraph (k)(9) strike “his testimony” and insert “the testimony of such witness”;
+    - **(B)** in clause 3—
+      - **(i)** in paragraph (a) strike “his duties or the discharge of his responsibilities” each place it appears and insert “the duties or the discharge of the responsibilities of such individual”;
+      - **(ii)** in paragraph (b)—
+        - **(I)** in subparagraph (2)(B) strike “he” and insert “such Member, Delegate, or Resident Commissioner”; and
+        - **(II)** in subparagraph (5) strike “disqualify himself” and insert “seek disqualification”;
+      - **(iii)** in paragraph (g)—
+        - **(I)** in subparagraph (1)(B) strike “he is”;
+        - **(II)** in subparagraph (1)(E) strike “his or her employment or duties with the committee” and insert “the employment or duties with the committee of such individual”; and
+        - **(III)** in subparagraph (4)—
+          - **(aa)** strike “his or her personal staff” and insert “the respective personal staff of the chair or ranking minority member”; and
+          - **(bb)** strike “he” and insert “the chair or ranking minority member”;
+      - **(iv)** in paragraph (p)—
+        - **(I)** in subparagraph (2) strike “his counsel” and insert “the counsel of the respondent”;
+        - **(II)** in subparagraph (4)—
+          - **(aa)** strike “his or her counsel” and insert “the counsel of the respondent”; and
+          - **(bb)** strike “his counsel” and insert “the counsel of the respondent”;
+        - **(III)** in subparagraph (7) strike “his counsel” and insert “the counsel of a respondent”; and
+        - **(IV)** in subparagraph (8) strike “him” and insert “the respondent”; and
+      - **(v)** in paragraph (q) strike “his or her” and insert “the”.
+  - **(13)** In rule XII—
+    - **(A)** in clause 2(c)(1) strike “he” and insert “the Speaker”; and
+    - **(B)** in clause 3 strike “he shall endorse his name” and insert “the Member, Delegate, or Resident Commissioner shall sign it”.
+  - **(14)** In clause 6(d) of rule XIII, strike “his”.
+  - **(15)** In clause 4(c)(1) of rule XVI strike “his discretion” and insert “the discretion of the Speaker”.
+  - **(16)** In rule XVII—
+    - **(A)** in clause 1(a) strike “himself to “Mr. Speaker” ” and insert “the Speaker”;
+    - **(B)** in clause 6 strike “his discretion” and insert “the discretion of the Chair”; and
+    - **(C)** in clause 9 strike “he” each place it appears and insert “such individual”.
+  - **(17)** In clause 6 of rule XVIII, strike “he” each place it appears and insert “the Chair”.
+  - **(18)** In rule XX—
+    - **(A)** in clause 5—
+      - **(i)** in paragraph (b) strike “him” and insert “the Sergeant-at-Arms”;
+      - **(ii)** in paragraph (c)(3)(B)(I) strike “his” and insert “a”; and
+      - **(iii)** in paragraph (d) strike “he” and insert “the Speaker”; and
+    - **(B)** in clause 6(b)—
+      - **(i)** strike “he” and insert “the Member”; and
+      - **(ii)** strike “his” and insert “such”.
+  - **(19)** In clause 7(c)(1) of rule XXII, strike “his”.
+  - **(20)** In rule XXIII—
+    - **(A)** in clause 1 strike “conduct himself” and insert “behave”;
+    - **(B)** in clause 3—
+      - **(i)** strike “his beneficial interest” and insert “the beneficial interest of such individual”; and
+      - **(ii)** strike “his position” and insert “the position of such individual”;
+    - **(C)** in clause 6—
+      - **(i)** in paragraph (a)—
+        - **(I)** strike “his campaign funds” and insert “the campaign funds of such individual”; and
+        - **(II)** strike “his personal funds” and insert “the personal funds of such individual”; and
+      - **(ii)** in paragraph (c) strike “his campaign account” and insert “a campaign accounts of such individual”;
+    - **(D)** in clause 8—
+      - **(i)** in paragraph (a) strike “he” and insert “such employee”; and
+      - **(ii)** in paragraph (c)—
+        - **(I)** in subparagraph (1)(A) after “his spouse” insert “the spouse of such individual”; and
+        - **(II)** in subparagraph (1)(B) strike “his spouse” and insert “the spouse of such employee”;
+    - **(E)** in clause 10—
+      - **(i)** strike “he is a” and insert “such individual is a”;
+      - **(ii)** strike “his innocence” and insert “the innocence of such Member”; and
+      - **(iii)** strike “he is reelected” and insert “the Member is reelected”; and
+    - **(F)** in clause 12(b)—
+      - **(i)** strike “advises his employing authority” and insert “advises the employing authority of such employee”; and
+      - **(ii)** strike “from his” and insert “from such”; and
+    - **(G)** in clause 15 strike “his or her family member” each place it appears and insert “a family member of a Member, Delegate, or Resident Commissioner”.
+  - **(21)** In rule XXIV—
+    - **(A)** in clause 1—
+      - **(i)** in paragraph (a) strike “his use” and insert “the use of such individual”; and
+      - **(ii)** in paragraph (b)(1) strike “his principal campaign committee” and insert “the principal campaign committee of such individual”;
+    - **(B)** in clause 7 strike “he was”;
+    - **(C)** in clause 8 strike “he is” and insert “such individual is”; and
+    - **(D)** in clause 10 strike “he was” and insert “such individual was”.
+  - **(22)** In rule XXV—
+    - **(A)** in clause 2(b) strike “his name” and insert “the name of such individual”;
+    - **(B)** in clause 4—
+      - **(i)** in paragraph (c) strike “his residence or principal place of employment” and insert “the residence or principal place of employment of such individual”; and
+      - **(ii)** in paragraph (d)(1)—
+        - **(I)** in subdivision (B) strike “he” and insert “such individual”;
+        - **(II)** in subdivision (C) strike “him” and insert “such individual”; and
+        - **(III)** in subdivision (D)—
+          - **(aa)** strike “he or his family” and insert “such individual or the family of such individual”; and
+          - **(bb)** strike “him” and insert “such individual”;
+    - **(C)** in clause 5—
+      - **(i)** strike “his official position” each place it appears and insert “the official position of such individual”;
+      - **(ii)** strike “his actual knowledge” each place it appears and insert “the actual knowledge of such individual”;
+      - **(iii)** strike “his duties” each place it appears and insert “the duties of such individual”;
+      - **(iv)** in paragraph (a)(3)(D)(ii)(I) strike “his relationship” and insert “the relationship of such individual”; and
+      - **(v)** in paragraph (a)(3)(G)(i) strike “his spouse” and insert “the spouse of such individual”;
+    - **(D)** in clause 6—
+      - **(i)** strike “he acts” and insert “acting”; and
+      - **(ii)** strike “he is”; and
+    - **(E)** in clause 8 strike “his or her” and insert “the”.
+  - **(23)** In clause 1 of rule XXVI, strike “him” and insert “the Clerk”.
+  - **(24)** In clause 2 of rule XXVII, strike “he or she” and insert “such individual”.
+  - **(25)** In clause 2 of rule XXIX, strike “the masculine gender include the feminine” and insert “one gender include the other”.
+- **(m)** *Technical and Codifying Changes*
+  - **(1)** In clause 2(h) of rule II, strike “not in session” and insert in lieu thereof “in recess or adjournment”.
+  - **(2)** In clause 4(b) of rule IV, strike “regulations that exempt” and insert in lieu thereof “regulations to carry out this rule including regulations that exempt”.
+  - **(3)** In clause 5(c) of rule X—
+    - **(A)** strike “temporary absence of the chairman” and insert in lieu thereof “absence of the member serving as chair”; and
+    - **(B)** strike “permanent”.
+  - **(4)** In clause 7(e) of rule X, strike “signed by” and all that follows, and insert in lieu thereof “signed by the ranking member of the committee as it was constituted at the expiration of the preceding Congress who is a member of the majority party in the present Congress.”.
+  - **(5)** In clause 8(a) of rule X, strike “clauses 6 and 8” and insert in lieu thereof “clause 6”.
+  - **(6)** In clause 2(a) of rule XIII—
+    - **(A)** in subparagraph (1), strike “as privileged”; and
+    - **(B)** in subparagraph (2), insert “(other than those filed as privileged)” after “reported adversely”.
+  - **(7)** In clause 5(c)(3) of rule XX, strike “clause 5(a) of rule XX” and insert “paragraph (a)”.
+  - **(8)** In clause 6(c) of rule XX, after “yeas and nays” insert “ordered under this clause”.
+  - **(9)** In clause 7(c)(3) of rule XXII, strike “motion meets” and insert in lieu thereof “proponent meets”.
+  - **(10)** In clause 1(b)(2) of rule XXIV, strike “office space, furniture, or equipment, and” and insert in lieu thereof “office space, office furniture, office equipment, or”.
+  - **(11)** In clause 5(i)(2) of rule XXV, strike “paragraph (1)(A)” and insert “subparagraph (1)(A)”.
+
+## § 3. Separate Orders
+
+- **(a)** *Budget Matters*
+  - **(1)** During the One Hundred Eleventh Congress, references in section 306 of the Congressional Budget Act of 1974 to a resolution shall be construed in the House of Representatives as references to a joint resolution.
+  - **(2)** During the One Hundred Eleventh Congress, in the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under section 303 of the Congressional Budget Act of 1974 shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
+  - **(3)** During the One Hundred Eleventh Congress, a provision in a bill or joint resolution, or in an amendment thereto or a conference report thereon, that establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations shall not be considered as providing new entitlement authority within the meaning of the Congressional Budget Act of 1974.
+  - **(4)**
+    - **(A)** During the One Hundred Eleventh Congress, except as provided in subsection (C), a motion that the Committee of the Whole rise and report a bill to the House shall not be in order if the bill, as amended, exceeds an applicable allocation of new budget authority under section 302(b) of the Congressional Budget Act of 1974, as estimated by the Committee on the Budget.
+    - **(B)** If a point of order under subsection (A) is sustained, the Chair shall put the question: “Shall the Committee of the Whole rise and report the bill to the House with such amendments as may have been adopted notwithstanding that the bill exceeds its allocation of new budget authority under section 302(b) of the Congressional Budget Act of 1974?”. Such question shall be debatable for 10 minutes equally divided and controlled by a proponent of the question and an opponent but shall be decided without intervening motion.
+    - **(C)** Subsection (A) shall not apply—
+      - **(i)** to a motion offered under clause 2(d) of rule XXI; or
+      - **(ii)** after disposition of a question under subsection (B) on a given bill.
+    - **(D)** If a question under subsection (B) is decided in the negative, no further amendment shall be in order except—
+      - **(i)** one proper amendment, which shall be debatable for 10 minutes equally divided and controlled by the proponent and an opponent, shall not be subject to amendment, and shall not be subject to a demand for division of the question in the House or in the Committee of the Whole; and
+      - **(ii)** pro forma amendments, if offered by the chair or ranking minority member of the Committee on Appropriations or their designees, for the purpose of debate.
+- **(b)** *Certain Subcommittees* Notwithstanding clause 5(d) of rule X, during the One Hundred Eleventh Congress—
+  - **(1)** the Committee on Armed Services may have not more than seven subcommittees;
+  - **(2)** the Committee on Foreign Affairs may have not more than seven subcommittees; and
+  - **(3)** the Committee on Transportation and Infrastructure may have not more than six subcommittees.
+- **(c)** *Exercise Facilities for Former Members* During the One Hundred Eleventh Congress—
+  - **(1)** The House of Representatives may not provide access to any exercise facility which is made available exclusively to Members and former Members, officers and former officers of the House of Representatives, and their spouses to any former Member, former officer, or spouse who is a lobbyist registered under the Lobbying Disclosure Act of 1995 or any successor statute or agent of a foreign principal as defined in clause 5 of rule XXV. For purposes of this section, the term Member includes a Delegate or Resident Commissioner to the Congress.
+  - **(2)** The Committee on House Administration shall promulgate regulations to carry out this subsection.
+- **(d)** *Numbering of Bills* In the One Hundred Eleventh Congress, the first 10 numbers for bills (H.R. 1 through H.R. 10) shall be reserved for assignment by the Speaker.
+- **(e)** *Medicare Cost Containment* Section 803 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 shall not apply during the One Hundred Eleventh Congress.
+
+## § 4. Committees, Commissions, and House Offices
+
+- **(a)** *Select Committee on Energy Independence and Global Warming*
+  - **(1)** *Establishment; Composition*
+    - **(A)** *establishment* There is hereby established a Select Committee on Energy Independence and Global Warming (hereinafter in this section referred to as the “select committee”).
+    - **(B)** *composition* The select committee shall be composed of 15 members appointed by the Speaker, of whom 6 shall be appointed on the recommendation of the Minority Leader. The Speaker shall designate one member of the select committee as its chair. A vacancy in the membership of the select committee shall be filled in the same manner as the original appointment.
+  - **(2)** *Jurisdiction; Functions*
+    - **(A)** *legislative jurisdiction* The select committee shall not have legislative jurisdiction and shall have no authority to take legislative action on any bill or resolution.
+    - **(B)** *investigative jurisdiction* The sole authority of the select committee shall be to investigate, study, make findings, and develop recommendations on policies, strategies, technologies and other innovations, intended to reduce the dependence of the United States on foreign sources of energy and achieve substantial and permanent reductions in emissions and other activities that contribute to climate change and global warming.
+  - **(3)** *Procedure*
+    - **(A)** Except as specified in paragraph (2), the select committee shall have the authorities and responsibilities of, and shall be subject to the same limitations and restrictions as, a standing committee of the House, and shall be deemed a committee of the House for all purposes of law or rule.
+    - **(B)**
+      - **(i)** Rules X and XI shall apply to the select committee where not inconsistent with this resolution.
+      - **(ii)** Service on the select committee shall not count against the limitations in clause 5(b)(2) of rule X.
+  - **(4)** *Funding* To enable the select committee to carry out the purposes of this section—
+    - **(A)** the select committee may use the services of staff of the House; and
+    - **(B)** the select committee shall be eligible for interim funding pursuant to clause 7 of rule X.
+  - **(5)** *Reporting* The select committee may report to the House from time to time the results of its investigations and studies, together with such detailed findings and recommendations as it may deem advisable. All such reports shall be submitted to the House by December 31, 2010.
+- **(b)** *House Democracy Assistance Commission* House Resolution 24, One Hundred Tenth Congress, shall apply in the One Hundred Eleventh Congress in the same manner as such resolution applied in the One Hundred Tenth Congress.
+- **(c)** *Tom Lantos Human Rights Commission* Sections 1 through 7 of House Resolution 1451, One Hundred Tenth Congress, shall apply in the One Hundred Eleventh Congress in the same manner as such provisions applied in the One Hundred Tenth Congress, except that—
+  - **(1)** the Tom Lantos Human Rights Commission may, in addition to collaborating closely with other professional staff members of the Committee on Foreign Affairs, collaborate closely with professional staff members of other relevant committees; and
+  - **(2)** the resources of the Committee on Foreign Affairs which the Commission may use shall include all resources which the Committee is authorized to obtain from other offices of the House of Representatives.
+- **(d)** *Office of Congressional Ethics* Section 1 of House Resolution 895, One Hundred Tenth Congress, shall apply in the One Hundred Eleventh Congress in the same manner as such provision applied in the One Hundred Tenth Congress, except that the Office of Congressional Ethics shall be treated as a standing committee of the House for purposes of section 202(i) of the Legislative Reorganization Act of 1946 (2 U.S.C. 72a(i)).
+- **(e)** *Empanelling Investigative Subcommittee of the Committee on Standards of Official Conduct* The text of House Resolution 451, One Hundred Tenth Congress, shall apply in the One Hundred Eleventh Congress in the same manner as such provision applied in the One Hundred Tenth Congress.
+- **(f)** *Continuing Authorities for the Committee on the Judiciary and the Office of General Counsel*
+  - **(1)** The House authorizes—
+    - **(A)** the Committee on the Judiciary of the 111th Congress to act as the successor in interest to the Committee on the Judiciary of the 110th Congress with respect to the civil action Committee on the Judiciary v. Harriet Meirs et al., filed by the Committee on the Judiciary in the 110th Congress pursuant to House Resolution 980; and
+    - **(B)** the chair of the Committee on the Judiciary (when elected), on behalf of the Committee on the Judiciary, and the Office of General Counsel to take such steps as may be appropriate to ensure continuation of such civil action, including amending the complaint as circumstances may warrant.
+  - **(2)**
+    - **(A)** The House authorizes—
+      - **(i)** the Committee on the Judiciary to take depositions by a member or counsel of the committee related to the investigation into the firing of certain United States Attorneys and related matters; and
+      - **(ii)** the chair of the Committee on the Judiciary (when elected), on behalf of the Committee on the Judiciary, to issue subpoenas related to the investigation into the firing of certain United States Attorneys and related matters including for the purpose of taking depositions by a member or counsel of the committee.
+    - **(B)** Depositions taken under the authority prescribed in this paragraph shall be governed by the procedures submitted for printing in the Congressional Record by the chair of the Committee on Rules (when elected) or by such other procedures as the Committee on the Judiciary shall prescribe.
+  - **(3)** The House authorizes the chair of the Committee on the Judiciary (when elected), on behalf of the Committee on the Judiciary, and the Office of General Counsel to petition to join as a party to the civil action referenced in paragraph (1) any individual subpoenaed by the Committee on the Judiciary of the 110th Congress as part of its investigation into the firing of certain United States Attorneys and related matters who failed to comply with such subpoena or, at the authorization of the Speaker after consultation with the Bipartisan Legal Advisory Group, to initiate judicial proceedings concerning the enforcement of subpoenas issued to such individuals.
+
+## § 5. Special Orders of Businessverify that these bills will be introduced on opening day
+
+- **(a)** *Lilly Ledbetter Fair Pay Act* Upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 11) to amend title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Americans With Disabilities Act of 1990, and the Rehabilitation Act of 1973 to clarify that a discriminatory compensation decision or other practice that is unlawful under such Acts occurs each time compensation is paid pursuant to the discriminatory compensation decision or other practice, and for other purposes. All points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The previous question shall be considered as ordered on the bill to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the Majority Leader and the Minority Leader or their designees; and (2) one motion to recommit.
+- **(b)**
+  - **(1)** *Paycheck Fairness Act* Upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 12) to amend the Fair Labor Standards Act of 1938 to provide more effective remedies to victims of discrimination in the payment of wages on the basis of sex, and for other purposes. All points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The previous question shall be considered as ordered on the bill to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the Majority Leader and the Minority Leader or their designees; and (2) one motion to recommit.
+  - **(2)** In the engrossment of H.R. 11, the Clerk shall—
+    - **(A)** add the text of H.R. 12, as passed by the House, as new matter at the end of H.R. 11;
+    - **(B)** conform the title of H.R. 11 to reflect the addition to the engrossment of H.R. 12;
+    - **(C)** assign appropriate designations to provisions within the engrossment; and
+    - **(D)** conform provisions for short titles within the engrossment.
+  - **(3)** Upon the addition of the text of H.R. 12 to the engrossment of H.R. 11, H.R. 12 shall be laid on the table.
