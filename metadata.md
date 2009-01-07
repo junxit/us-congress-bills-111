@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 36
@@ -28,8 +28,20 @@ Presidential Library Donation Reform Act of 2009
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-01-07 — [House 111-1-6](votes/house-111-1-0006.md) — On Motion to Suspend the Rules and Pass — **Passed** (388–31)
+
 ## Actions
 
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-01-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-01-07 — Considered as unfinished business. (consideration: CR H50)
+- 2009-01-07 — Considered under suspension of the rules. (consideration: CR H45-48)
+- 2009-01-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 36.
+- 2009-01-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-07 — Mr. Towns moved to suspend the rules and pass the bill.
+- 2009-01-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 31 (Roll no. 6). (text: CR H45)
+- 2009-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 31 (Roll no. 6).(text: CR H45)

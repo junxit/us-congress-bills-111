@@ -25,7 +25,7 @@ This Act may be cited as the “Presidential Library Donation Reform Act of 2009
   >       - **(i)** The Archivist has accepted, taken title to, or entered into an agreement to use any land or facility for the archival depository.
   >       - **(ii)** The President whose archives are contained in the depository no longer holds the Office of President and a period of four years has expired (beginning on the date the President left the Office).
   >   - **(3)** In this subsection:
-  >     - **(A)** The term Presidential library fundraising organization means an organization that is established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at—
+  >     - **(A)** The term “Presidential library fundraising organization” means an organization that is established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at—
   >       - **(i)** a Presidential archival depository; or
   >       - **(ii)** any facilities relating to a Presidential archival depository.
   >     - **(B)** The term information means the following:
