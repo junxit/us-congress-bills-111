@@ -41,7 +41,7 @@ This Act may be cited as the “Presidential Records Act Amendments of 2009”.
   >   - **(1)** The Archivist shall not make publicly available a Presidential record that is subject to a privilege claim asserted by the incumbent President unless—
   >     - **(A)** the incumbent President withdraws the privilege claim; or
   >     - **(B)** the Archivist is otherwise directed by a final court order that is not subject to appeal.
-  >   - **(2)** This subsection shall not apply with respect to any Presidential record required to be made available under section 2205(2) (A) or (C).
+  >   - **(2)** This subsection shall not apply with respect to any Presidential record required to be made available under section 2205(2)(A) or (C).
   > - **(e)** The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.
 
 - **(b)** *Restrictions* Section 2204 of title 44, United States Code (relating to restrictions on access to presidential records) is amended by adding at the end the following new subsection:
