@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 36
@@ -24,9 +24,10 @@ Presidential Library Donation Reform Act of 2009
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Presidential Library Donation Reform Act of 2009
 - 2009-01-07 — Mr. Towns moved to suspend the rules and pass the bill.
 - 2009-01-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 31 (Roll no. 6). (text: CR H45)
 - 2009-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 31 (Roll no. 6).(text: CR H45)
+- 2009-01-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
