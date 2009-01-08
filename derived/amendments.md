@@ -1,0 +1,1029 @@
+---
+measure: S. 22
+congress: 111
+version: Placed on Calendar Senate
+derived: true
+---
+
+# What S. 22 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+290 amendatory instructions. 88 executed, 202 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 16 U.S.C. § 1132
+
+> in the matter preceding paragraph (1), by striking “System—” and inserting “System:”;
+
+| | |
+|---|---|
+| Removed | `System—` |
+| Inserted | `System:` |
+
+### 16 U.S.C. § 1132
+
+> by striking “certain” each place it appears and inserting “Certain”;
+
+| | |
+|---|---|
+| Removed | `certain` |
+| Inserted | `Certain` |
+
+### 16 U.S.C. § 1132
+
+> by striking “certain” each place it appears and inserting “Certain”;
+
+| | |
+|---|---|
+| Removed | `certain` |
+| Inserted | `Certain` |
+
+### 16 U.S.C. § 1132
+
+> in the matter preceding paragraph (1), by striking “eight hundred fifty-nine thousand six hundred acres” and inserting “873,300 acres”;
+
+| | |
+|---|---|
+| Removed | `eight hundred fifty-nine thousand six hundred acres` |
+| Inserted | `873,300 acres` |
+
+### 16 U.S.C. § 1274
+
+> in the matter preceding subparagraph (A), by striking “19-mile segment” and inserting “29-mile segment”;
+
+| | |
+|---|---|
+| Removed | `19-mile segment` |
+| Inserted | `29-mile segment` |
+
+### 16 U.S.C. § 1132
+
+> by striking “seventy thousand acres” and inserting “74,195 acres”; and
+
+| | |
+|---|---|
+| Removed | `seventy thousand acres` |
+| Inserted | `74,195 acres` |
+
+### 16 U.S.C. § 1132
+
+> by striking “, dated July 1978” and inserting “and dated May 2007”.
+
+| | |
+|---|---|
+| Removed | `, dated July 1978` |
+| Inserted | `and dated May 2007` |
+
+### 16 U.S.C. § 460jj
+
+> by striking “thirty-six thousand two hundred thirty-five acres” and inserting “35,235 acres”; and
+
+| | |
+|---|---|
+| Removed | `thirty-six thousand two hundred thirty-five acres` |
+| Inserted | `35,235 acres` |
+
+### 16 U.S.C. § 460jj
+
+> by striking “, dated July 1978” and inserting “and dated May 2007”.
+
+| | |
+|---|---|
+| Removed | `, dated July 1978` |
+| Inserted | `and dated May 2007` |
+
+### 16 U.S.C. § 460iii-3
+
+> in subsection (a)(2), by striking “Conservation Area” and inserting “conservation area”; and
+
+| | |
+|---|---|
+| Removed | `Conservation Area` |
+| Inserted | `conservation area` |
+
+### 16 U.S.C. § 460iii-3
+
+> in subsection (d), by striking “Visitors Center” and inserting “visitors center”.
+
+| | |
+|---|---|
+| Removed | `Visitors Center` |
+| Inserted | `visitors center` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (3)(A)(iv), by striking “Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4))” and inserting “Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4)) and Carson City (subject to paragraph (5))”;
+
+| | |
+|---|---|
+| Removed | `Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4))` |
+| Inserted | `Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4)) and Carson City (subject to paragraph (5))` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (3)(A)(v), by striking “Clark, Lincoln, and White Pine Counties” and inserting “Clark, Lincoln, and White Pine Counties and Carson City (subject to paragraph (5))”;
+
+| | |
+|---|---|
+| Removed | `Clark, Lincoln, and White Pine Counties` |
+| Inserted | `Clark, Lincoln, and White Pine Counties and Carson City (subject to paragraph (5))` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (4), by striking “2011” and inserting “2015”; and
+
+| | |
+|---|---|
+| Removed | `2011` |
+| Inserted | `2015` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (3)(A)(iv), by striking “Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4))” and inserting “Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4)) and Carson City (subject to paragraph (5))”;
+
+| | |
+|---|---|
+| Removed | `Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4))` |
+| Inserted | `Clark, Lincoln, and White Pine Counties and Washoe County (subject to paragraph 4)) and Carson City (subject to paragraph (5))` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (3)(A)(v), by striking “Clark, Lincoln, and White Pine Counties” and inserting “Clark, Lincoln, and White Pine Counties and Carson City (subject to paragraph (5))”;
+
+| | |
+|---|---|
+| Removed | `Clark, Lincoln, and White Pine Counties` |
+| Inserted | `Clark, Lincoln, and White Pine Counties and Carson City (subject to paragraph (5))` |
+
+### 43 U.S.C. § 1712
+
+> in paragraph (4), by striking “2011” and inserting “2015”; and
+
+| | |
+|---|---|
+| Removed | `2011` |
+| Inserted | `2015` |
+
+### 16 U.S.C. § 1011
+
+> in subsection (a), by striking “each of fiscal years 2006 through 2011” and inserting “fiscal year 2006 and each fiscal year thereafter”;
+
+| | |
+|---|---|
+| Removed | `each of fiscal years 2006 through 2011` |
+| Inserted | `fiscal year 2006 and each fiscal year thereafter` |
+
+### 16 U.S.C. § 410yy-7
+
+> Section 8(b) of Public Law 102–543 (16 U.S.C. 410yy–7(b)) is amended by striking “$4” and inserting “$1”.
+
+| | |
+|---|---|
+| Removed | `$4` |
+| Inserted | `$1` |
+
+### 16 U.S.C. § 410yy-9
+
+> by striking “$25,000,000” and inserting “$50,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$25,000,000` |
+| Inserted | `$50,000,000` |
+
+### 16 U.S.C. § 410yy-9
+
+> by striking “$3,000,000” and inserting “$25,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$3,000,000` |
+| Inserted | `$25,000,000` |
+
+### 16 U.S.C. § 410yy-9
+
+> in subsection (b), by striking “$100,000” and all that follows through “those duties” and inserting “$250,000”.
+
+| | |
+|---|---|
+| Removed | `$100,000” and all that follows through “those duties` |
+| Inserted | `$250,000` |
+
+### 16 U.S.C. § 461
+
+> in paragraph (1)(B), by striking “contiguous to” and all that follows and inserting “within Fairfield County.”;
+
+| | |
+|---|---|
+| Removed | `contiguous to` |
+| Inserted | `within Fairfield County.` |
+
+### 16 U.S.C. § 461
+
+> in paragraph (3), in the matter preceding subparagraph (A), by striking “the appropriate zoning authority” and all that follows through “Wilton, Connecticut,” and inserting “the local governmental entity that, in accordance with applicable State law, has jurisdiction over any property acquired under paragraph (1)(A)”.
+
+| | |
+|---|---|
+| Removed | `the appropriate zoning authority” and all that follows through “Wilton, Connecticut,` |
+| Inserted | `the local governmental entity that, in accordance with applicable State law, has jurisdiction over any property acquired under paragraph (1)(A)` |
+
+### 16 U.S.C. § 698q
+
+> in subsection (c), by striking “map” and inserting “maps”.
+
+| | |
+|---|---|
+| Removed | `map` |
+| Inserted | `maps` |
+
+### 16 U.S.C. § 230
+
+> Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “of approximately twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve numbered 90,000B and dated April 1978,” and inserting “generally depicted on the map entitled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100A, and dated December 2007,”.
+
+| | |
+|---|---|
+| Removed | `of approximately twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve numbered 90,000B and dated April 1978,` |
+| Inserted | `generally depicted on the map entitled Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve, numbered 467/80100A, and dated December 2007,` |
+
+### 16 U.S.C. § 230d
+
+> Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence by striking “, except that within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of this title, he” and inserting “on land, and interests in land and water managed by the Secretary, except that the Secretary”.
+
+| | |
+|---|---|
+| Removed | `, except that within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of this title, he` |
+| Inserted | `on land, and interests in land and water managed by the Secretary, except that the Secretary` |
+
+### 16 U.S.C. § 230e
+
+> in the second sentence, by striking “Pending such establishment and thereafter the” and inserting “The”.
+
+| | |
+|---|---|
+| Removed | `Pending such establishment and thereafter the` |
+| Inserted | `The` |
+
+### 16 U.S.C. § 230
+
+> by striking “Barataria Marsh Unit” each place it appears and inserting “Barataria Preserve Unit”; and
+
+| | |
+|---|---|
+| Removed | `Barataria Marsh Unit` |
+| Inserted | `Barataria Preserve Unit` |
+
+### 16 U.S.C. § 230
+
+> by striking “Jean Lafitte National Historical Park” each place it appears and inserting “Jean Lafitte National Historical Park and Preserve”.
+
+| | |
+|---|---|
+| Removed | `Jean Lafitte National Historical Park` |
+| Inserted | `Jean Lafitte National Historical Park and Preserve` |
+
+### 16 U.S.C. § 460kkk
+
+> Section 1029(e)(2)(B) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(e)(2)(B)) is amended by striking “Coast Guard” and inserting “Coast Guard.”.
+
+| | |
+|---|---|
+| Removed | `Coast Guard` |
+| Inserted | `Coast Guard.` |
+
+### 16 U.S.C. § 460kkk
+
+> Section 1029(e)(11) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(e)(11)) is amended by striking “Noth­with­standing” and inserting “Notwithstanding”.
+
+| | |
+|---|---|
+| Removed | `Noth­with­standing` |
+| Inserted | `Notwithstanding` |
+
+### 16 U.S.C. § 461
+
+> by striking “National Historic Site” each place it appears and inserting “National Historical Park”;
+
+| | |
+|---|---|
+| Removed | `National Historic Site` |
+| Inserted | `National Historical Park` |
+
+### 16 U.S.C. § 461
+
+> in the heading for section 3, by striking “national historic site” and inserting “national historical park”; and
+
+| | |
+|---|---|
+| Removed | `national historic site` |
+| Inserted | `national historical park` |
+
+### 16 U.S.C. § 461
+
+> by striking “historic site” each place it appears and inserting “historical park”.
+
+| | |
+|---|---|
+| Removed | `historic site` |
+| Inserted | `historical park` |
+
+### 16 U.S.C. § 461
+
+> in the second sentence, by striking “map referred to in paragraph (1)” and inserting “maps referred to in paragraphs (1) and (2)”.
+
+| | |
+|---|---|
+| Removed | `map referred to in paragraph (1)` |
+| Inserted | `maps referred to in paragraphs (1) and (2)` |
+
+### 16 U.S.C. § 1132
+
+> in subsection (a), by striking “Gaylord A. Nelson” and inserting “Gaylord Nelson”; and
+
+| | |
+|---|---|
+| Removed | `Gaylord A. Nelson` |
+| Inserted | `Gaylord Nelson` |
+
+### 16 U.S.C. § 1132
+
+> in subsection (c)(4), by striking “Gaylord A. Nelson Wilderness” and inserting “Gaylord Nelson Wilderness”.
+
+| | |
+|---|---|
+| Removed | `Gaylord A. Nelson Wilderness` |
+| Inserted | `Gaylord Nelson Wilderness` |
+
+### 16 U.S.C. § 1132
+
+> Section 2863(h)(1) of Public Law 107–107 (115 Stat. 1333) is amended by striking “the George Washington Memorial Parkway” and inserting “Arlington House, The Robert E. Lee Memorial,”.
+
+| | |
+|---|---|
+| Removed | `the George Washington Memorial Parkway` |
+| Inserted | `Arlington House, The Robert E. Lee Memorial,` |
+
+### 16 U.S.C. § 1132
+
+> Section 2(a)(1) of Public Law 97–250 (16 U.S.C. 1132 note; 96 Stat. 709) is amended by striking “numbered 640/20,038I, and dated September 2004” and inserting “numbered 640/20,038K, and dated September 2005”.
+
+| | |
+|---|---|
+| Removed | `numbered 640/20,038I, and dated September 2004` |
+| Inserted | `numbered 640/20,038K, and dated September 2005` |
+
+### 16 U.S.C. § 119
+
+> Section 2(1) of the Petrified Forest National Park Expansion Act of 2004 (16 U.S.C. 119 note; Public Law 108–430) is amended by striking “numbered 110/80,044, and dated July 2004” and inserting “numbered 110/80,045, and dated January 2005”.
+
+| | |
+|---|---|
+| Removed | `numbered 110/80,044, and dated July 2004` |
+| Inserted | `numbered 110/80,045, and dated January 2005` |
+
+### 16 U.S.C. § 1132
+
+> in the second sentence, by striking “House Administration” and inserting “Natural Resources”.
+
+| | |
+|---|---|
+| Removed | `House Administration` |
+| Inserted | `Natural Resources` |
+
+### 16 U.S.C. § 1244
+
+> Section 5(a)(25)(A) of the National Trails System Act (16 U.S.C. 1244(a)(25)(A)) is amended by striking “The John Smith” and inserting “The Captain John Smith”.
+
+| | |
+|---|---|
+| Removed | `The John Smith` |
+| Inserted | `The Captain John Smith` |
+
+### 16 U.S.C. § 6807
+
+> Section 808(a)(1)(F) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6807(a)(1)(F)) is amended by striking “section 6(a)” and inserting “section 806(a)”.
+
+| | |
+|---|---|
+| Removed | `section 6(a)` |
+| Inserted | `section 806(a)` |
+
+### 16 U.S.C. § 1132
+
+> Section 474(12) of the Consolidated Natural Resources Act of 2008 (Public Law 1110–229; 122 Stat. 827) is amended by striking “Cayohoga” each place it appears and inserting “Cuyahoga”.
+
+| | |
+|---|---|
+| Removed | `Cayohoga` |
+| Inserted | `Cuyahoga` |
+
+### 40 U.S.C. § 872
+
+> Section 313(d)(1)(B) of the Department of the Interior and Related Agencies Appropriations Act, 1996 (Public Law 104–134; 110 Stat. 1321–199; 40 U.S.C. 872 note) is amended by striking “map entitled Pennsylvania Avenue National Historic Park, dated June 1, 1995, and numbered 840-82441” and inserting “map entitled Pennsylvania Avenue National Historic Site, dated August 25, 2008, and numbered 840–82441B”.
+
+| | |
+|---|---|
+| Removed | `map entitled Pennsylvania Avenue National Historic Park, dated June 1, 1995, and numbered 840-82441` |
+| Inserted | `map entitled Pennsylvania Avenue National Historic Site, dated August 25, 2008, and numbered 840–82441B` |
+
+### 16 U.S.C. § 410ww-1
+
+> by striking “Commission” and inserting “Aviation Heritage Foundation”.
+
+| | |
+|---|---|
+| Removed | `Commission` |
+| Inserted | `Aviation Heritage Foundation` |
+
+### 16 U.S.C. § 461
+
+> in section 503(3), by striking “104” and inserting “504”;
+
+| | |
+|---|---|
+| Removed | `104` |
+| Inserted | `504` |
+
+### 16 U.S.C. § 461
+
+> in section 503(4), by striking “106” and inserting “506”;
+
+| | |
+|---|---|
+| Removed | `106` |
+| Inserted | `506` |
+
+### 16 U.S.C. § 461
+
+> in section 505(b)(1), by striking “106” and inserting “506”.
+
+| | |
+|---|---|
+| Removed | `106` |
+| Inserted | `506` |
+
+### 16 U.S.C. § 461
+
+> by striking “the Secretary of the Interior” and inserting “(a) The Secretary of the Interior”;
+
+| | |
+|---|---|
+| Removed | `the Secretary of the Interior` |
+| Inserted | `(a) The Secretary of the Interior` |
+
+### 16 U.S.C. § 461
+
+> by striking “476 acres” and inserting “646 acres”; and
+
+| | |
+|---|---|
+| Removed | `476 acres` |
+| Inserted | `646 acres` |
+
+### 16 U.S.C. § 461
+
+> Section 4 of Public Law 106–45 (16 U.S.C. 461 note; 113 Stat. 226) is amended by striking “2009” and inserting “2019”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2019` |
+
+### 16 U.S.C. § 396d
+
+> Section 505(f)(7) of the National Parks and Recreation Act of 1978 (16 U.S.C. 396d(f)(7)) is amended by striking “ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996” and inserting “on December 31, 2018”.
+
+| | |
+|---|---|
+| Removed | `ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996` |
+| Inserted | `on December 31, 2018` |
+
+### 16 U.S.C. § 459b-7
+
+> Effective September 26, 2008, section 8(a) of Public Law 87–126 (16 U.S.C. 459b–7(a)) is amended in the second sentence by striking “2008” and inserting “2018”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2018` |
+
+### 16 U.S.C. § 5958
+
+> Section 409(d) of the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5958(d)) is amended in the first sentence by striking “2008” and inserting “2009”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2009` |
+
+### 16 U.S.C. § 461
+
+> Section 106(b) of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by striking “September 30, 2009” and inserting “September 30, 2015”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2009` |
+| Inserted | `September 30, 2015` |
+
+### 16 U.S.C. § 461
+
+> Section 109(a) of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by striking “$10,000,000” and inserting “$15,000,000”.
+
+| | |
+|---|---|
+| Removed | `$10,000,000` |
+| Inserted | `$15,000,000` |
+
+### 16 U.S.C. § 461
+
+> in the first sentence of subsection (c), by striking “shall assist the Commission” and inserting “shall, on the request of the Corporation, assist”;
+
+| | |
+|---|---|
+| Removed | `shall assist the Commission` |
+| Inserted | `shall, on the request of the Corporation, assist` |
+
+### 16 U.S.C. § 461
+
+> by striking “Commission” each place it appears and inserting “Corporation”;
+
+| | |
+|---|---|
+| Removed | `Commission` |
+| Inserted | `Corporation` |
+
+### 16 U.S.C. § 461
+
+> in subsection (a), by striking “Commission” each place it appears and inserting “Corporation”;
+
+| | |
+|---|---|
+| Removed | `Commission` |
+| Inserted | `Corporation` |
+
+### 16 U.S.C. § 461
+
+> in subsection (c)(1), by striking “2007” and inserting “2012”; and
+
+| | |
+|---|---|
+| Removed | `2007` |
+| Inserted | `2012` |
+
+### 16 U.S.C. § 461
+
+> in the matter preceding paragraph (1), by striking “27” and inserting “at least 21 members, but not more than 27”;
+
+| | |
+|---|---|
+| Removed | `27` |
+| Inserted | `at least 21 members, but not more than 27` |
+
+### 16 U.S.C. § 461
+
+> in paragraph (2), by striking “Environment” and inserting “Environmental”; and
+
+| | |
+|---|---|
+| Removed | `Environment` |
+| Inserted | `Environmental` |
+
+### 16 U.S.C. § 461
+
+> in subsection (f), by striking “Fourteen members of the Commission” and inserting “A majority of the serving Commissioners”;
+
+| | |
+|---|---|
+| Removed | `Fourteen members of the Commission` |
+| Inserted | `A majority of the serving Commissioners` |
+
+### 16 U.S.C. § 461
+
+> in subsection (g), by striking “14 of its members” and inserting “a majority of the serving Commissioners”;
+
+| | |
+|---|---|
+| Removed | `14 of its members` |
+| Inserted | `a majority of the serving Commissioners` |
+
+### 16 U.S.C. § 461
+
+> in subsection (j), by striking “10 years” and inserting “15 years”;
+
+| | |
+|---|---|
+| Removed | `10 years` |
+| Inserted | `15 years` |
+
+### 16 U.S.C. § 461
+
+> in section 810(a)(1), in the first sentence, by striking “any fiscal year” and inserting “any fiscal year, to remain available until expended”.
+
+| | |
+|---|---|
+| Removed | `any fiscal year` |
+| Inserted | `any fiscal year, to remain available until expended` |
+
+### 16 U.S.C. § 461
+
+> by striking “shall be the the” and inserting “shall be the”; and
+
+| | |
+|---|---|
+| Removed | `shall be the the` |
+| Inserted | `shall be the` |
+
+### 16 U.S.C. § 461
+
+> by striking “Directors from Massachusetts and Rhode Island;” and inserting “Directors from Massachusetts and Rhode Island, ex officio, or their delegates;”.
+
+| | |
+|---|---|
+| Removed | `Directors from Massachusetts and Rhode Island;` |
+| Inserted | `Directors from Massachusetts and Rhode Island, ex officio, or their delegates;` |
+
+### 43 U.S.C. § 31a
+
+> in subparagraph (E), by striking “predicting” and inserting “identifying”;
+
+| | |
+|---|---|
+| Removed | `predicting` |
+| Inserted | `identifying` |
+
+### 43 U.S.C. § 31a
+
+> in paragraph (9), by striking “important” and inserting “available”.
+
+| | |
+|---|---|
+| Removed | `important` |
+| Inserted | `available` |
+
+### 43 U.S.C. § 31c
+
+> in subparagraph (A), by striking “not later than” and all that follows through the semicolon and inserting “not later than 1 year after the date of enactment of the Omnibus Public Land Management Act of 2009;”;
+
+| | |
+|---|---|
+| Removed | `not later than` |
+| Inserted | `not later than 1 year after the date of enactment of the Omnibus Public Land Management Act of 2009;` |
+
+### 43 U.S.C. § 31c
+
+> in subparagraph (B), by striking “not later than” and all that follows through “in accordance” and inserting “not later than 1 year after the date of enactment of the Omnibus Public Land Management Act of 2009 in accordance”; and
+
+| | |
+|---|---|
+| Removed | `not later than” and all that follows through “in accordance` |
+| Inserted | `not later than 1 year after the date of enactment of the Omnibus Public Land Management Act of 2009 in accordance` |
+
+### 43 U.S.C. § 31c
+
+> in the matter preceding clause (i) of subparagraph (C), by striking “not later than” and all that follows through “submit” and inserting “submit biennially”.
+
+| | |
+|---|---|
+| Removed | `not later than” and all that follows through “submit` |
+| Inserted | `submit biennially` |
+
+### 43 U.S.C. § 31c
+
+> by striking “provide” and inserting “provides”.
+
+| | |
+|---|---|
+| Removed | `provide` |
+| Inserted | `provides` |
+
+### 43 U.S.C. § 31d
+
+> by striking “Not later than” and all that follows through “consultation” and inserting “In consultation”;
+
+| | |
+|---|---|
+| Removed | `Not later than” and all that follows through “consultation` |
+| Inserted | `In consultation` |
+
+### 43 U.S.C. § 31d
+
+> by striking “Chief Geologist, as Chairman” and inserting “Associate Director for Geology, as Chair”; and
+
+| | |
+|---|---|
+| Removed | `Chief Geologist, as Chairman` |
+| Inserted | `Associate Director for Geology, as Chair` |
+
+### 43 U.S.C. § 31d
+
+> by striking “one representative from the private sector” and inserting “2 representatives from the private sector”.
+
+| | |
+|---|---|
+| Removed | `one representative from the private sector` |
+| Inserted | `2 representatives from the private sector` |
+
+### 43 U.S.C. § 31d
+
+> Section 5(a)(1) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31d(a)(1)) is amended by striking “10-member” and inserting “11-member”.
+
+| | |
+|---|---|
+| Removed | `10-member` |
+| Inserted | `11-member` |
+
+### 43 U.S.C. § 31f
+
+> in paragraph (1), by striking “geologic map” and inserting “geologic-map”; and
+
+| | |
+|---|---|
+| Removed | `geologic map` |
+| Inserted | `geologic-map` |
+
+### 43 U.S.C. § 31g
+
+> Section 8 of the National Geologic Mapping Act of 1992 (43 U.S.C. 31g) is amended by striking “Not later” and all that follows through “biennially” and inserting “Not later than 3 years after the date of enactment of the Omnibus Public Land Management Act of 2009 and biennially”.
+
+| | |
+|---|---|
+| Removed | `Not later” and all that follows through “biennially` |
+| Inserted | `Not later than 3 years after the date of enactment of the Omnibus Public Land Management Act of 2009 and biennially` |
+
+### 43 U.S.C. § 31h
+
+> in the matter preceding paragraph (1), by striking “2000” and inserting “2005”;
+
+| | |
+|---|---|
+| Removed | `2000` |
+| Inserted | `2005` |
+
+### 43 U.S.C. § 31h
+
+> in paragraph (1), by striking “48” and inserting “50”; and
+
+| | |
+|---|---|
+| Removed | `48` |
+| Inserted | `50` |
+
+### 16 U.S.C. § 777
+
+> Section 3(c)(3) of the Fisheries Restoration and Irrigation Mitigation Act of 2000 (16 U.S.C. 777 note; Public Law 106–502) is amended by striking “$5,000,000” and inserting “$2,500,000”.
+
+| | |
+|---|---|
+| Removed | `$5,000,000` |
+| Inserted | `$2,500,000` |
+
+### 16 U.S.C. § 777
+
+> in subsection (a), by striking “2001 through 2005” and inserting “ 2009 through 2015”; and
+
+| | |
+|---|---|
+| Removed | `2001 through 2005` |
+| Inserted | `2009 through 2015` |
+
+### 42 U.S.C. § 7133
+
+> Section 203(a) of the Department of Energy Organization Act (42 U.S.C. 7133(a)) is amended in the first sentence by striking “7 Assistant Secretaries” and inserting “8 Assistant Secretaries”.
+
+| | |
+|---|---|
+| Removed | `7 Assistant Secretaries` |
+| Inserted | `8 Assistant Secretaries` |
+
+### 42 U.S.C. § 7133
+
+> Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries of Energy (7)” and inserting “Assistant Secretaries of Energy (8)”.
+
+| | |
+|---|---|
+| Removed | `Assistant Secretaries of Energy (7)` |
+| Inserted | `Assistant Secretaries of Energy (8)` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 1132` | replace | in each of paragraphs (1) through (6), by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | replace | in paragraph (7), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | insert | in the first section, by inserting “as” after “cited”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | replace | in each of paragraphs (1) and (2), by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | replace | in paragraph (3), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 544k` | strike | Section 13(a)(4) of the “Columbia River Gorge National Scenic Area Act” (16 U.S.C. 544k(a)(4)) is amended by striking “for a period not to exceed twenty years from the date of enactment of this Act,”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1132` | replace | in paragraph (29), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1274` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1203(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1504(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1805) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `114 U.S.C. § 1362` | add-at-end | Section 2 of the Santa Rosa and San Jacinto Mountains National Monument Act of 2000 (Public Law 106–351; 114 U.S.C. 1362; 16 U.S.C. 431 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `114 U.S.C. § 1362` | replace | Section 7(d) of the Santa Rosa and San Jacinto Mountains National Monument Act of 2000 (Public Law 106–351; 114 U.S.C. 1362; 16 U.S.C. 431 note) is amended by striking “eight” and inserting “a majority of the appointed”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 460iii-1` | insert | in section 2(2) (16 U.S.C. 460iii–1(2)), by inserting “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 460iii-2` | insert | in section 3(a)(1) (16 U.S.C. 460iii–2(a)(1)), by inserting “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 460iii-2` | strike | in section 3(a)(1) (16 U.S.C. 460iii–2(a)(1)), by striking “(hereafter referred to as the conservation area)”; and | the bill quotes the text struck but describes what replaces it |
+| — | redesignate | by redesignating subparagraphs (I) through (N) as subparagraphs (J) through (O), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “enactment of this Act” and inserting “enactment of the Omnibus Public Land Management Act of 2009”. | the bill names no machine-readable US Code section |
+| — | replace | Section 401(e) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148) is amended by striking “enactment of this Act” and inserting “enactment of the Omnibus Public Land Management Act of 2009”. | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1712` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | replace | by striking “Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1712` | replace | in subsection (a) (as designated by paragraph (1)), by striking “the parcel” and all that follows through the period at the end and inserting the following: “and to approximately 23 acres of land identified as Parcel A on the map entitle… | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1712` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | replace | by striking “Subject to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1712` | replace | in subsection (a) (as designated by paragraph (1)), by striking “the parcel” and all that follows through the period at the end and inserting the following: “and to approximately 23 acres of land identified as Parcel A on the map entitle… | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1712` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1011` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 565a-1` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 539m-11` | insert | in paragraph (1), by inserting “3,” after “sections”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 539m-11` | insert | in the first sentence of paragraph (4), by inserting “, as a condition of the conveyance,” before “remain”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5001) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5002(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1276` | add-at-end | Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1276` | add-at-end | Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5201) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5202(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5204) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | amend | By amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | strike | by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | by adding at the end the following: “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(3) of the National Trails System Act (16 U.S.C. 1244(a)(3)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(4) of the National Trails System Act (16 U.S.C. 1244(a)(4)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(5) of the National Trails System Act (16 U.S.C. 1244(a)(5)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(6) of the National Trails System Act (16 U.S.C. 1244(a)(6)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(7) of the National Trails System Act (16 U.S.C. 1244(a)(7)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(a)(10) of the National Trails System Act (16 U.S.C. 1244(a)(10)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | strike | by striking the fourth and fifth sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | strike | by striking the fourth and fifth sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1249` | replace | Section 10 of the National Trails System Act (16 U.S.C. 1249) is amended by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5 of the National Trails System Act (16 U.S.C. 1244) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3198` | add-at-end | Section 1308 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3198) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410hhh-4` | replace | by striking “(a) Establishment.—(1) When” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410hhh-4` | replace | in paragraph (2), by striking “(2) Such establishment” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410hhh-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410hhh-4` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410hhh-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410hhh-4` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410hhh-4` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 410hhh-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410yy-3` | strike | Section 4 of Public Law 102–543 (16 U.S.C. 410yy–3) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 698q` | replace | by striking “The Preserve” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 698q` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking “and” at the end of subsection (a)(3); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of subsection (a)(4) and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | amend | by adding after subsection (a)(4) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding after subsection (d)(2) the following new paragraph: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 230a` | replace | by striking “(a) Within the” and all that follows through the first sentence and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 230a` | replace | in the second sentence, by striking “The Secretary may also acquire by any of the foregoing methods” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 230a` | replace | in the third sentence, by striking “Lands, waters, and interests therein” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 230a` | replace | in the fourth sentence, by striking “In acquiring” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 230a` | replace | by striking subsections (b) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 230a` | redesignate | by redesignating subsection (g) as subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 230b` | insert | Section 903 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230b) is amended in the fifth sentence by inserting “(or January 1, 2007, for areas added to the park after that date)” after “January 1, 1977”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 230e` | strike | by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 460kkk` | replace | Section 1029(d) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(d)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1` | repeal | Public Law 87–628 (76 Stat. 428), regarding the establishment and administration of the Edison National Historic Site, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410` | add-at-end | Title XVI of Public Law 96–607 (16 U.S.C. 410ll) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | replace | in paragraph (1), by striking “(1) The historical park” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | replace | by striking “(3) Within” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 460m-20` | replace | Section 1106 of the National Parks and Recreation Act of 1978 (16 U.S.C. 460m–20) is amended in the first sentence by striking “may” and inserting “shall”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | insert | in section 8903(d), by inserting “Natural” before “Resources”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | insert | in section 8904(b), by inserting “Advisory” before “Commission”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | insert | in the first sentence, by inserting “Advisory” before “Commission”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | strike | Section 604 of the Delaware National Coastal Special Resources Study Act (Public Law 109–338; 120 Stat. 1856) is amended by striking “under section 605”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1132` | insert | Section 297F(b)(2)(A) of the Crossroads of the American Revolution National Heritage Area Act of 2006 (Public Law 109–338; 120 Stat. 1844) is amended by inserting “duties” before “of the”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 410ww` | add-at-end | Section 101 of the Dayton Aviation Heritage Preservation Act of 1992 (16 U.S.C. 410ww, et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ww-1` | insert | in subsection (a), by inserting “Hawthorn Hill, the Wright Company factory,” after “, acquire”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 410ww-1` | replace | in subsection (b), by striking “Such agreements” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410ww-1` | insert | by inserting before subsection (d) (as added by paragraph 2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ww` | redesignate | by redesignating subsection (b) of section 108 as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ww` | insert | by inserting after subsection (a) of section 108 the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | redesignate | in section 504, by striking subsection (b)(2) and by redesignating subsection (b)(3) as subsection (b)(2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | repeal | By repealing section 3. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4310` | replace | The National Cave and Karst Research Institute Act of 1998 (16 U.S.C. 4310 note; Public Law 105–325) is amended by striking section 5 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 3(f) of the Act of August 21, 1935 (16. U.S.C. 463(f)), is amended in the first sentence by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 461` | repeal | The Cache La Poudre River Corridor Act (16 U.S.C. 461 note; Public Law 104–323) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | add-at-end | Section 106 of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | replace | by striking “The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | strike | in section 11, in the matter preceding paragraph (1), by striking “directly affecting”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | strike | in the matter preceding subparagraph (A), by striking “19”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | redesignate | in subparagraph (B) (as redesignated by subclause (III)), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | redesignate | by inserting after subparagraph (B) (as redesignated by subclause (III)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | replace | in subsection (h), by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 461` | strike | in subsection (e), by striking “with regard to the preparation and approval of the Canalway Plan”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 461` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of items in section 2 of Public Law 102–575 is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in paragraph (5), by inserting “, rehabilitation, and repair” after “and replacement”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (6), by inserting “those for protection of critical habitat, those for preventing entrainment of fish in water diversions,” after “instream flows,”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “$61,000,000” and inserting “$88,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “2010” and inserting “2023”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “$126,000,000” and inserting “$209,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$108,000,000” and inserting “$179,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$18,000,000” and inserting “$30,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(4), by striking “$31,000,000” and inserting “$87,000,000”. | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9104(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9104(b)) is amended by inserting after the item relating to section 1649 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9109(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9109(b)) is amended by inserting after the item relating to section 1650 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9110(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (43 U.S.C. prec. 371) (as amended by section 9110(b)) is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by subsection (a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (43 U.S.C. prec. 371) (as amended by subsection (a)(2)) is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h-12j` | strike | in the section heading, by striking the words “Phase 1 of the”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h-12j` | strike | in subsection (a), by striking “phase 1 of”. | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (title XVI of Public Law 102–575; 43 U.S.C. 390h et seq.) (as amended by section 9111(b)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 (as amended by section 9111(b)(2)) is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9113(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9114(b)) is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 371` | insert | The first section of Public Law 87–590 (76 Stat. 389) is amended in the second sentence of subsection (c) by inserting after “cost thereof,” the following: “or in the case of the Arkansas Valley Conduit, payment in an amount equal to 35 … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 371` | replace | by striking “(b) Rates” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 371` | replace | by striking “Sec. 7. There is hereby” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subsection (a)(3)(B), by inserting after clause (iii) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 620` | insert | Paragraph (2) of the first section of the Act of April 11, 1956 (commonly known as the “Colorado River Storage Project Act”) (43 U.S.C. 620(2)) is amended by inserting “the Navajo-Gallup Water Supply Project,” after “Fruitland Mesa,”. | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 620o` | redesignate | by redesignating section 16 (43 U.S.C. 620o) as section 17; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 620n` | insert | by inserting after section 15 (43 U.S.C. 620n) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 620` | replace | Public Law 87-483 (76 Stat. 96) is amended by striking section 2 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 620` | add-at-end | Section 11 of Public Law 87–483 (76 Stat. 100) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31a` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31a` | insert | in subparagraph (C), by inserting “homeland and” after “planning for”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31a` | strike | in subparagraph (I), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31a` | redesignate | by redesignating subparagraph (J) as subparagraph (K); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31a` | insert | by inserting after subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31a` | insert | Section 2(b) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31a(b)) is amended by inserting “and management” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31c` | strike | by striking “geophysical-map data base, geochemical-map data base, and a”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31c` | strike | in subclause (I), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31c` | replace | in subclause (II), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31d` | insert | by inserting “the Secretary of the Interior or a designee from a land management agency of the Department of the Interior,” after “Administrator of the Environmental Protection Agency or a designee,”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31d` | insert | by inserting “and” after “Energy or a designee,”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31d` | strike | by striking “, and the Assistant to the President for Science and Technology or a designee”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31d` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31d` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31d` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31f` | replace | in paragraph (2), by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31h` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31h` | replace | in paragraph (2), by striking 2 and inserting “4”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1451` | insert | The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) is amended by inserting after section 307 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 301` | add-at-end | The Act of February 22, 1889 (25 Stat. 676, chapter 180), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 301` | add-at-end | The Act of July 2, 1862 (commonly known as the “First Morrill Act”) (7 U.S.C. 301 et seq.), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 777` | replace | by striking “The value” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 777` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 777` | insert | by inserting “any” before “amounts are made”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 777` | insert | by inserting after “Secretary shall” the following: “, after partnering with local governmental entities and the States in the Pacific Ocean drainage area,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 777` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 720d` | add-at-end | Section 106 of the Alaska Natural Gas Pipeline Act (15 U.S.C. 720d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 720e` | replace | Section 107(a) of the Alaska Natural Gas Pipeline Act (15 U.S.C. 720e(a)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 1535 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
