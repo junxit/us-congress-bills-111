@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 397
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 397
+
+> To extend the authorization of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994, and for other purposes.
+
+## § 1. Quinebaug and Shetucket Rivers Valley National Heritage Corridor
+
+- **(a)** *Termination of Authority* Section 106(b) of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by striking “September 30, 2009” and inserting “September 30, 2015”.
+- **(b)** *Evaluation; Report* Section 106 of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by adding at the end the following:
+  > - **(c)** *Evaluation; Report*
+  >   - **(1)** *In general* Not later than 3 years before the date on which authority for Federal funding terminates for the Corridor, the Secretary shall—
+  >     - **(A)** conduct an evaluation of the accomplishments of the Corridor; and
+  >     - **(B)** prepare a report in accordance with paragraph (3).
+  >   - **(2)** *Evaluation* An evaluation conducted under paragraph (1)(A) shall—
+  >     - **(A)** assess the progress of the management entity with respect to—
+  >       - **(i)** accomplishing the purposes of this title for the Corridor; and
+  >       - **(ii)** achieving the goals and objectives of the management plan for the Corridor;
+  >     - **(B)** analyze the Federal, State, local, and private investments in the Corridor to determine the leverage and impact of the investments; and
+  >     - **(C)** review the management structure, partnership relationships, and funding of the Corridor for purposes of identifying the critical components for sustainability of the Corridor.
+  >   - **(3)** *Report*
+  >     - **(A)** *In general* Based on the evaluation conducted under paragraph (1)(A), the Secretary shall prepare a report that includes recommendations for the future role of the National Park Service, if any, with respect to the Corridor.
+  >     - **(B)** *Required analysis* If the report prepared under subparagraph (A) recommends that Federal funding for the Corridor be reauthorized, the report shall include an analysis of—
+  >       - **(i)** ways in which Federal funding for the Corridor may be reduced or eliminated; and
+  >       - **(ii)** the appropriate time period necessary to achieve the recommended reduction or elimination.
+  >     - **(C)** *Submission to congress* On completion of the report, the Secretary shall submit the report to—
+  >       - **(i)** the Committee on Energy and Natural Resources of the Senate; and
+  >       - **(ii)** the Committee on Natural Resources of the House of Representatives.
+
+- **(c)** *Authorization of Appropriations* Section 109(a) of the Quinebaug and Shetucket Rivers Valley National Heritage Corridor Act of 1994 (16 U.S.C. 461 note; Public Law 103–449) is amended by striking “$10,000,000” and inserting “$15,000,000”.
