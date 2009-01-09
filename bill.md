@@ -2,12 +2,12 @@
 legis-num: H. RES. 34
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 34
 
-> Recognizing Israel’s right to defend itself against attacks from Gaza, reaffirming the United States strong support for Israel, and supporting the Israeli-Palestinian peace process.
+> Recognizing Israel’s right to defend itself against attacks from Gaza, reaffirming the United States’ strong support for Israel, and supporting the Israeli-Palestinian peace process.
 
 ## Preamble
 
@@ -19,10 +19,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Hamas has increased the range and payload of its rockets, reportedly with support from Iran and others, putting hundreds of thousands of Israelis in danger of rocket attacks from Gaza;
 - Whereas Hamas locates elements of its terrorist infrastructure in civilian population centers, thus using innocent civilians as human shields;
 - Whereas Secretary of State Condoleezza Rice said in a statement on December 27, 2008, that “We strongly condemn the repeated rocket and mortar attacks against Israel and hold Hamas responsible for breaking the cease-fire and for the renewal of violence there”;
-- Whereas on December 27, 2008, Israeli Prime Minister Ehud Olmert said, “For approximately seven years, hundreds of thousands of Israeli citizens in the south have been suffering from missiles being fired at them. … In such a situation we had no alternative but to respond. We do not rejoice in battle but neither will we be deterred from it. … The operation in the Gaza Strip is designed, first and foremost, to bring about an improvement in the security reality for the residents of the south of the country”;
+- Whereas on December 27, 2008, Israeli Prime Minister Ehud Olmert said, “For approximately seven years, hundreds of thousands of Israeli citizens in the south have been suffering from missiles being fired at them … In such a situation we had no alternative but to respond. We do not rejoice in battle but neither will we be deterred from it. …The operation in the Gaza Strip is designed, first and foremost, to bring about an improvement in the security reality for the residents of the south of the country”;
 - Whereas the humanitarian situation in Gaza, including shortages of food, water, electricity, and adequate medical care, is becoming more acute;
 - Whereas Israel has facilitated humanitarian aid to Gaza with hundreds of trucks carrying humanitarian assistance and numerous ambulances entering the Gaza Strip since the current round of fighting began on December 27, 2008;
-- Whereas on January 6, 2009, before the United Nations Security Council, Secretary Rice stated that: “The situation before the current events in Gaza was clearly not sustainable. Hundreds of thousands of Israelis lived under the daily threat of rocket attack, and frankly, no country, none of our countries, would have been willing to tolerate such a circumstance. Moreover, the people of Gaza watched as insecurity and lawlessness increased and as their living conditions grew more dire because of Hamas’s actions which began with the illegal coup against the Palestinian Authority in Gaza. … A ceasefire that returns to those circumstances is unacceptable and it will not last”; and
+- Whereas on January 6, 2009, before the United Nations Security Council, Secretary Rice stated that: “The situation before the current events in Gaza was clearly not sustainable. Hundreds of thousands of Israelis lived under the daily threat of rocket attack, and frankly, no country, none of our countries, would have been willing to tolerate such a circumstance. Moreover, the people of Gaza watched as insecurity and lawlessness increased and as their living conditions grew more dire because of Hamas’s actions which began with the illegal coup against the Palestinian Authority in Gaza…A ceasefire that returns to those circumstances is unacceptable and it will not last”; and
 - Whereas the ultimate goal of the United States is a sustainable resolution of the Israeli-Palestinian conflict that will ensure the welfare, security, and survival of the State of Israel as a Jewish and democratic state with secure borders, and a viable, independent, and democratic Palestinian state living side by side in peace and security with the State of Israel: Now, therefore, be it
 
 That the House of Representatives—
