@@ -1,7 +1,7 @@
 ---
 measure: H.R. 11
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 11
@@ -16,7 +16,7 @@ To amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (168)
+## Cosponsors (195)
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
@@ -186,10 +186,41 @@ To amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Teague, Harry [D-NM-2] (T000466)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2009-01-09 — [House 111-1-9](votes/house-111-1-0009.md) — On Passage — **Passed** (247–171)
 
 ## Actions
 
@@ -197,3 +228,12 @@ To amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Referred to the House Committee on Education and Labor.
 - 2009-01-06 — Rules Committee Resolution passed by the House. Rule provides for consideration of H.R. 11 and H.R. 12. Motion to recommit allowed. H. Res.5 provides one hour of debate each for H.R. 11 and H.R. 12. Both bills are to be considered in the House.
+- 2009-01-09 — Considered as unfinished business. (consideration: CR H138)
+- 2009-01-09 — Considered under the provisions of rule H. Res. 5. (consideration: CR H113-124)
+- 2009-01-09 — DEBATE - The House proceeded with one hour of debate on H.R. 11.
+- 2009-01-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-09 — On passage Passed by the Yeas and Nays: 247 - 171 (Roll no. 9). (text: CR H113-114)
+- 2009-01-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 11, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. George Miller of California demanded the yeas and nays, and further proceedings on the question of passage were postponed until later in the legislative day.
+- 2009-01-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 171 (Roll no. 9).(text: CR H113-114)
+- 2009-01-09 — Rule provides for consideration of H.R. 11 and H.R. 12. Motion to recommit allowed. H. Res.5 provides one hour of debate each for H.R. 11 and H.R. 12. Both bills are to be considered in the House.
+- 2009-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H124)
