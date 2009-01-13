@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 50
 congress: 111
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Res. 50

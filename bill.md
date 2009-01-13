@@ -2,7 +2,7 @@
 legis-num: H. RES. 50
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 50
@@ -26,5 +26,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** honors the life, achievements, and distinguished career of Senator Claiborne Pell;
-- **(2)** emphasizes that, among his legislative accomplishments, Senator Claiborne Pell changed the face of higher education by enabling millions of low- and middle-income students to achieve the dream of a college education;
+- **(2)** emphasizes that, among his legislative accomplishments, Senator Claiborne Pell changed the face of higher education by enabling millions of low- and middle-income students to achieve the dream of a college education; and
 - **(3)** recognizes the Federal Pell grants, the educational grants that bear his name, as a significant part of the legacy of Senator Claiborne Pell.
