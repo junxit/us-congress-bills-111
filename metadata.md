@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2
@@ -16,7 +16,7 @@ Children's Health Insurance Program Reauthorization Act of 2009
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Cosponsors (40)
+## Cosponsors (43)
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
@@ -58,12 +58,20 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
 
 ## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
+
+## Recorded votes (2)
+
+- 2009-01-14 — [House 111-1-15](votes/house-111-1-0015.md) — On Motion to Recommit with Instructions — **Failed** (179–247)
+- 2009-01-14 — [House 111-1-16](votes/house-111-1-0016.md) — On Passage — **Passed** (289–139)
 
 ## Actions
 
@@ -74,3 +82,17 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - 2009-01-13 — Referred to House Ways and Means
 - 2009-01-13 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-01-13 — Rules Committee Resolution H. Res. 52 Reported to House. Rule provides for consideration of H.R. 2 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The Resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
+- 2009-01-14 — Considered under the provisions of rule H. Res. 52. (consideration: CR H216-268)
+- 2009-01-14 — DEBATE - The House proceeded with 10 minutes of debate on the Deal (GA) motion to recommit with instructions. The instructions in the motion seek to report the same back to the House forthwith with amendments to determine the use of funds for the Children's Health Insurance Program.
+- 2009-01-14 — DEBATE - The House proceeded with one hour of debate on H.R. 2.
+- 2009-01-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-14 — Mr. Deal (GA) moved to recommit with instructions to Energy and Commerce. (consideration: CR H264-267)
+- 2009-01-14 — On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 247 (Roll no. 15).
+- 2009-01-14 — On passage Passed by recorded vote: 289 - 139 (Roll no. 16). (text: CR H216-245)
+- 2009-01-14 — Passed/agreed to in House: On passage Passed by recorded vote: 289 - 139 (Roll no. 16).(text: CR H216-245)
+- 2009-01-14 — Received in the Senate.
+- 2009-01-14 — Referred to the Subcommittee on Health.
+- 2009-01-14 — Rule H. Res. 52 passed House.
+- 2009-01-14 — Rule provides for consideration of H.R. 2 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The Resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
+- 2009-01-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H266)
+- 2009-01-14 — The previous question was ordered pursuant to the rule. (consideration: CR H263)
