@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 52
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 52
@@ -16,6 +16,14 @@ Providing for consideration of the bill (H.R. 2) to amend title XXI of the Socia
 
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2009-01-14 — [House 111-1-14](votes/house-111-1-0014.md) — On Agreeing to the Resolution — **Passed** (244–178)
+
 ## Actions
 
 - 2009-01-13 — Introduced in House
@@ -23,3 +31,9 @@ Providing for consideration of the bill (H.R. 2) to amend title XXI of the Socia
 - 2009-01-13 — The House Committee on Rules reported an original measure, H. Rept. 111-1, by Mr. Hastings (FL).
 - 2009-01-13 — The House Committee on Rules reported an original measure, H. Rept. 111-1, by Mr. Hastings (FL).
 - 2009-01-13 — The Resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
+- 2009-01-14 — Considered as privileged matter. (consideration: CR H203-216)
+- 2009-01-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 52.
+- 2009-01-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-14 — On agreeing to the resolution Agreed to by recorded vote: 244 - 178 (Roll no. 14). (text: CR H203)
+- 2009-01-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 244 - 178 (Roll no. 14).(text: CR H203)
+- 2009-01-14 — The previous question was ordered without objection. (consideration: CR H216)
