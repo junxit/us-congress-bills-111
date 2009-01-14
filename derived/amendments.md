@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 40
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | That clause 2 of rule XI of the Rules of the House of Representatives is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Clause 1(d)(3) of rule XI of the Rules of the House of Representatives is amended by adding at the end the following new sentence: “That section shall also delineate any hearings held pursuant to clauses 2(n), (o), or (p) of this rule.”. | the bill names no machine-readable US Code section |
