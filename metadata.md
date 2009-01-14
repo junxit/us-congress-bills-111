@@ -1,7 +1,7 @@
 ---
 measure: S. 60
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 60
@@ -22,9 +22,10 @@ A bill to prohibit the sale and counterfeiting of Presidential inaugural tickets
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to prohibit the sale and counterfeiting of Presidential inaugural tickets
 - 2009-01-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S350-351)
 - 2009-01-13 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S350-351)
 - 2009-01-13 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S350-351)
+- 2009-01-14 — Message on Senate action sent to the House.
+- 2009-01-14 — Received in the House.
+- 2009-01-14 — Referred to the House Committee on the Judiciary.
