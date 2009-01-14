@@ -30,7 +30,6 @@ That the Senate—
 - **(1)** congratulates the University of Florida Gators for winning the 2008 Bowl Championship Series (BCS) national championship;
 - **(2)** recognizes the achievements of the players, coaches, students, and staff whose hard work and dedication helped the University of Florida Gators win the championship; and
 - **(3)** respectfully requests the Secretary of the Senate to transmit an enrolled copy of this resolution to—
-  - **(A)** the University of Florida for appropriate display;
-  - **(B)** President of the University of Florida, J. Bernard Machen;
-  - **(C)** Athletic Director of the University of Florida, Jeremy N. Foley; and
-  - **(D)** Head Coach of the University of Florida football team, Urban Meyer.
+  - **(A)** President of the University of Florida, J. Bernard Machen;
+  - **(B)** Athletic Director of the University of Florida, Jeremy N. Foley; and
+  - **(C)** Head Coach of the University of Florida football team, Urban Meyer.
