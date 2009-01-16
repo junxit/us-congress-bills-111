@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2
@@ -96,3 +96,4 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - 2009-01-14 — Rule provides for consideration of H.R. 2 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The Resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
 - 2009-01-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H266)
 - 2009-01-14 — The previous question was ordered pursuant to the rule. (consideration: CR H263)
+- 2009-01-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
