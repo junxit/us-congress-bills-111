@@ -1,7 +1,7 @@
 ---
 measure: H.R. 384
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 0 executed, 46 stated and not applied.
+54 amendatory instructions. 0 executed, 54 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,19 +36,28 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | strike | Section 111(c) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(c)) is amended by striking “and only where such purchases per financial institution in the aggregate exceed $300,000,000 (including direct purchases),”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7(a) of the Federal Deposit Insurance Act (U.S.C. 1817(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (d) of section 113 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5223(d)) is amended by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (d) of section 113 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5223(d)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | Section 113(d)(3) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5223(d)(3)) is amended by striking subparagraph (A). | the bill names no machine-readable US Code section |
-| — | strike | Section 113(d)(2) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 2553(d)) is amended by striking subparagraph (E). | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (f) the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 101 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 2514(b)) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 101 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 2514(b)) is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | replace | Section 216(o)(2) of the Federal Credit Union Act (12 U.S.C. 1790d(o)(2)) is amended by striking subparagraph (A) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 113(b) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5223(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 121(c) of the Emergency Economic Stabilization Act (12 U.S.C. 5231(c)) is amended by striking “the purchase, management, and sale of assets” and all that follows through “under section 102” and inserting “any action taken by the … | the bill names no machine-readable US Code section |
+| — | amend | Section 109 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5219) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Emergency Economic Stabilization Act of 2008 (division A of Public Law 110–343) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Section 103 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211) is amended by inserting after subsection (f) (as added by section 401 of this title) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 101 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211) is amended by inserting after subsection (g) (as added by section 110 of this Act) the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding after section 137 (as added by section 401 of this title) the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding after section 138 (as added by section 403 of this title) the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding after section 139 (as added by section 404 of this title) the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding after section 140 (as added by section 405 of this title) the following new section: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking “90 percent” and inserting “93 percent”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (7); | the bill names no machine-readable US Code section |
@@ -62,9 +71,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (s)(3)(A)(ii), by striking “subsection (e)(1)(B) and such other” and inserting “such”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (v), by inserting after the period at the end the following: “The Board shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 203(b) to… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (w)(1)(C), by striking “(e)(4)(A)” and inserting “(e)(3)(A)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 257 of the National Housing Act (12 U.S.C. 1715z–23) is amended by adding after subsection (x) (as added by section 501 of this title) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(E), by striking “$100,000” and inserting “$250,000” | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(E), by striking “$100,000” and inserting “$250,000”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(F)(i), by striking “2010” and inserting “2015”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (I) of paragraph (1)(F)(i), by striking “$100,000” and inserting “$250,000”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II) of paragraph (1)(F)(i), by striking “the calendar year preceding the date this subparagraph takes effect under the Federal Deposit Insurance Reform Act of 2005” and inserting “calendar year 2008”; and | the bill names no machine-readable US Code section |
