@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 73
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 73
@@ -16,7 +16,7 @@ Observing the birthday of Martin Luther King, Jr., and encouraging the people of
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (36)
+## Cosponsors (52)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -54,6 +54,22 @@ Observing the birthday of Martin Luther King, Jr., and encouraging the people of
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -64,3 +80,9 @@ Observing the birthday of Martin Luther King, Jr., and encouraging the people of
 - 2009-01-16 — Introduced in House
 - 2009-01-16 — Introduced in House
 - 2009-01-16 — Referred to the House Committee on the Judiciary.
+- 2009-01-21 — Considered under suspension of the rules. (consideration: CR H394-398)
+- 2009-01-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 73.
+- 2009-01-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-21 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2009-01-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H394-395)
+- 2009-01-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H394-395)
