@@ -1,7 +1,7 @@
 ---
 measure: S. 181
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
