@@ -1,7 +1,7 @@
 ---
 measure: H.R. 384
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -57,7 +57,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.) is amended by adding after section 140 (as added by section 405 of this title) the following new section: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking “90 percent” and inserting “93 percent”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (7); | the bill names no machine-readable US Code section |
@@ -71,7 +71,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (s)(3)(A)(ii), by striking “subsection (e)(1)(B) and such other” and inserting “such”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (v), by inserting after the period at the end the following: “The Board shall conform documents, forms, and procedures for mortgages insured under this section to those in place for mortgages insured under section 203(b) to… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (w)(1)(C), by striking “(e)(4)(A)” and inserting “(e)(3)(A)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(E), by striking “$100,000” and inserting “$250,000”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(F)(i), by striking “2010” and inserting “2015”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (I) of paragraph (1)(F)(i), by striking “$100,000” and inserting “$250,000”; | the bill names no machine-readable US Code section |

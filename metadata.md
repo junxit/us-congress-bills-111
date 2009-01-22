@@ -1,7 +1,7 @@
 ---
 measure: H.R. 384
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 384
@@ -16,11 +16,12 @@ TARP Reform and Accountability Act of 2009
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
+- Senate — Finance Committee
 
 ## Recorded votes (8)
 
@@ -163,3 +164,4 @@ TARP Reform and Accountability Act of 2009
 - 2009-01-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 384.
 - 2009-01-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H417)
 - 2009-01-21 — The previous question was ordered pursuant to the rule. (consideration: CR H413)
+- 2009-01-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
