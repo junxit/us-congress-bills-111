@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 58
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 58
@@ -48,8 +48,20 @@ Commending the University of Florida Gators for winning the Bowl Championship Se
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2009-01-22 — [House 111-1-29](votes/house-111-1-0029.md) — On Motion to Suspend the Rules and Agree — **Passed** (399–5)
+
 ## Actions
 
 - 2009-01-13 — Introduced in House
 - 2009-01-13 — Introduced in House
 - 2009-01-13 — Referred to the House Committee on Education and Labor.
+- 2009-01-21 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Loebsack objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-01-21 — Considered under suspension of the rules. (consideration: CR H405-407)
+- 2009-01-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 58.
+- 2009-01-21 — Mr. Loebsack moved to suspend the rules and agree to the resolution.
+- 2009-01-22 — Considered as unfinished business. (consideration: CR H469-470)
+- 2009-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-22 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 399 - 5, 7 Present (Roll no. 29). (text: CR 1/21/2009 H405)
+- 2009-01-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 399 - 5, 7 Present (Roll no. 29).(text: CR 1/21/2009 H405)
