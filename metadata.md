@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 3
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 3
@@ -56,9 +56,10 @@ Relating to the disapproval of obligations under the Emergency Economic Stabiliz
 - Rep. Rohrabacher, Dana [R-CA-46] (R000409)
 - Rep. Mack, Connie [R-FL-14] (M001155)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Relating to the disapproval of obligations under the Emergency Economic Stabiliz
 - 2009-01-22 — On passage Passed by the Yeas and Nays: 270 - 155 (Roll no. 27). (text: CR H447)
 - 2009-01-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 270 - 155 (Roll no. 27).(text: CR H447)
 - 2009-01-22 — The previous question was ordered pursuant to the statute. (consideration: CR H467)
+- 2009-01-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
