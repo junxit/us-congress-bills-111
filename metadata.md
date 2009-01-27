@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 26
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 26
