@@ -1,7 +1,7 @@
 ---
 measure: H.R. 598
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 598
@@ -39,3 +39,17 @@ To provide for a portion of the economic recovery package relating to revenue me
 - 2009-01-16 — Referred to House Science and Technology
 - 2009-01-16 — Referred to House Ways and Means
 - 2009-01-16 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Science and Technology, Education and Labor, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-01-20 — Referred to the Subcommittee on Health.
+- 2009-01-22 — Committee Consideration and Mark-up Session Held.
+- 2009-01-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-01-27 — Committee on Education and Labor discharged.
+- 2009-01-27 — Committee on Education and Labor discharged.
+- 2009-01-27 — Committee on Energy and Commerce discharged.
+- 2009-01-27 — Committee on Energy and Commerce discharged.
+- 2009-01-27 — Committee on Financial Services discharged.
+- 2009-01-27 — Committee on Financial Services discharged.
+- 2009-01-27 — Committee on Science and Technology discharged.
+- 2009-01-27 — Committee on Science and Technology discharged.
+- 2009-01-27 — Placed on the Union Calendar, Calendar No. 2.
+- 2009-01-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-8, Part I.
+- 2009-01-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-8, Part I.
