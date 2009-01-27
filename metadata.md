@@ -1,7 +1,7 @@
 ---
 measure: H.R. 629
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 629
@@ -32,3 +32,12 @@ Energy and Commerce Recovery and Reinvestment Act
 - 2009-01-22 — Referred to House Science and Technology
 - 2009-01-22 — Referred to House Ways and Means
 - 2009-01-22 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Labor, and Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-01-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-7, Part I.
+- 2009-01-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-7, Part I.
+- 2009-01-27 — Committee on Education and Labor discharged.
+- 2009-01-27 — Committee on Education and Labor discharged.
+- 2009-01-27 — Committee on Science and Technology discharged.
+- 2009-01-27 — Committee on Science and Technology discharged.
+- 2009-01-27 — Committee on Ways and Means discharged.
+- 2009-01-27 — Committee on Ways and Means discharged.
+- 2009-01-27 — Placed on the Union Calendar, Calendar No. 3.
