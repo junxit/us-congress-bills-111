@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-233 amendatory instructions. 0 executed, 233 stated and not applied.
+253 amendatory instructions. 0 executed, 253 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,40 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, includi… | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “a violation” and inserting “any violation”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, includi… | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “a violation” and inserting “any violation (other than a violation of this section)”. | the bill names no machine-readable US Code section |
+| — | insert | Title 5, United States Code, is amended in subsections (a)(3), (b)(4)(A), and (b)(4)(B)(i) of section 1214 and in subsections (a) and (e)(1) of section 1221 by inserting “or 2302(b)(9)(B)–(D)” after “section 2302(b)(8)” each place it app… | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B)(ii), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Sections 1214(b)(4)(B)(ii) and 1221(e)(2) of title 5, United States Code, are amended by adding at the end the following: “For purposes of the preceding sentence, clear and convincing evidence means evidence indicating that the matter to… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2302(b) of title 5, United States Code, is amended by adding at the end the following: “For purposes of paragraph (8), any presumption relating to the performance of a duty by an employee who has authority to take, direct others … | the bill names no machine-readable US Code section |
+| — | strike | in clause (x), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (xi) as clause (xii); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (x) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (11), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (12) as paragraph (14); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (11) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2302(a)(2)(C) of title 5, United States Code, is amended by striking clause (ii) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1215(a)(3) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1221 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence of paragraph (1), by striking “the United States Court of Appeals for the Federal Circuit” and inserting “the appropriate United States court of appeals”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1221(g)(1)(A)(ii) of such title 5 is amended by striking all after “travel expenses,” and inserting “any other reasonable and foreseeable consequential damages, and compensatory damages (including attorney’s fees, interest, reaso… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1221(h) of such title 5 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 7703(c) of such title 5 is amended by striking “court.” and inserting “court, and in the case of a prohibited personnel practice described in section 2302(b)(8) or 2302(b)(9)(B)–(D) brought under any provision of law, rule, or re… | the bill names no machine-readable US Code section |
+| — | insert | Chapter 23 of title 5, United States Code, is amended by inserting after section 2303 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 23 of title 5, United States Code, is amended by inserting after the item relating to section 2303 the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “If the head” and all that follows through “actions:” and inserting the following: “Not later than 180 days after submission of a complaint under subsection (b), the head of the executive agency concerned sh… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4) and adding after paragraph (2) the following new paragraph (3): | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “If the head” and all that follows through “actions:” and inserting the following: “Not later than 180 days after submission of a complaint under subsection (b), the head of the agency concerned shall determ… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4) and adding after paragraph (2) the following new paragraph (3): | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating sections 2304 and 2305 as sections 2305 and 2306, respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 2303a (as inserted by section 1270) the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 23 of title 5, United States Code, is amended by striking the items relating to sections 2304 and 2305, respectively, and by inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2302 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 17(r) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(r)) is amended by striking paragraph (5). | the bill names no machine-readable US Code section |
 | — | add-at-end | The Hoover Power Plant Act of 1984 (Public Law 98–381) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -147,7 +181,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 2202(2)(A) of the Public Health Service Act is amended by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subclause (XVIII); | the bill names no machine-readable US Code section |
 | — | amend | by adding “or” at the end of subclause (XIX); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subclause | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | The third sentence of section 1905(b) of such Act (42 U.S.C. 1396d(b)) is amended by inserting before the period at the end the following: “and for items and services furnished on or after the date of enactment of this Act and before Jan… | the bill names no machine-readable US Code section |
 | — | insert | Section 1903(f)(4) of such Act (42 U.S.C. 1396c(f)(4)) is amended by inserting “1902(a)(10)(A)(ii)(XX), or” after “1902(a)(10)(A)(ii)(XIX),”. | the bill names no machine-readable US Code section |
@@ -219,25 +253,11 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating the matter after “Requirement.—” as a subparagraph (A) with the heading “In general.—” and with the same indentation as subparagraph (B) (as added by paragraph (3)); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1925 of such Act (42 U.S.C. 1396r–6), as amended by this section, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in subclause (XIX), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | amend | in subclause (XX), by adding “or” at the end; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1902 of such Act (42 U.S.C. 1396a), as amended by section 3003(a) of the Health Insurance Assistance for the Unemployed Act of 2009, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | by striking “and (XIV)” and inserting “(XIV)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, and (XV) the medical assistance made available to an individual described in subsection (ee) shall be limited to family planning services and supplies described in section 1905(a)(4)(C) including medical diagnosis and tre… | the bill names no machine-readable US Code section |
-| — | strike | in clause (xiii), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | amend | in clause (xiv), by adding “or” at the end; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (xiii) the following: | the bill names no machine-readable US Code section |
-| — | insert | Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended by inserting after section 1920B the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 1902(a)(47) of the Social Security Act (42 U.S.C. 1396a(a)(47)) is amended by inserting before the semicolon at the end the following: “and provide for making medical assistance available to individuals described in subsection (a… | the bill names no machine-readable US Code section |
-| — | replace | by striking “or for” and inserting “for”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period the following: “, or for medical assistance provided to an individual described in subsection (a) of section 1920C during a presumptive eligibility period under such section”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1937(b) of the Social Security Act (42 U.S.C. 1396u–7(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), in the matter preceding paragraph (1), by striking “and (i)” and inserting “, (i), and (j)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (A), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (B), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a), as amended by section 3003(a) of the Health Insurance Assistance for the Unemployed Act of 2009 and section 5004, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a), as amended by section 3003(a) of the Health Insurance Assistance for the Unemployed Act of 2009, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2107(e)(1) of such Act (42 U.S.C. 1397gg(e)(1)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(3)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -245,7 +265,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (70), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (71), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (71), the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2107(e)(1) of such Act (42 U.S.C. 1397gg(e)(1)), as amended by section 5005(b), is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2107(e)(1) of such Act (42 U.S.C. 1397gg(e)(1)), as amended by section 5004(b), is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “paragraph (6)” and inserting “paragraph (6) and subparagraph (E)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
