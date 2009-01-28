@@ -1,7 +1,7 @@
 ---
 measure: S. 181
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 181
@@ -87,7 +87,7 @@ Lilly Ledbetter Fair Pay Act of 2009
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Corker, Bob [R-TN] (C001071)
 
-## Recorded votes (9)
+## Recorded votes (11)
 
 - 2009-01-15 — [Senate 111-1-4](votes/senate-111-1-0004.md) — On the Cloture Motion — **Cloture Motion Agreed to** (72–23)
 - 2009-01-22 — [Senate 111-1-7](votes/senate-111-1-0007.md) — On the Amendment — **Amendment Rejected** (40–55)
@@ -98,6 +98,8 @@ Lilly Ledbetter Fair Pay Act of 2009
 - 2009-01-22 — [Senate 111-1-12](votes/senate-111-1-0012.md) — On the Motion to Table — **Motion to Table Agreed to** (59–38)
 - 2009-01-22 — [Senate 111-1-13](votes/senate-111-1-0013.md) — On the Motion to Table — **Motion to Table Agreed to** (59–38)
 - 2009-01-22 — [Senate 111-1-14](votes/senate-111-1-0014.md) — On Passage of the Bill — **Bill Passed** (61–36)
+- 2009-01-27 — [House 111-1-36](votes/house-111-1-0036.md) — On Motion to Commit — **Failed** (176–250)
+- 2009-01-27 — [House 111-1-37](votes/house-111-1-0037.md) — On Passage — **Passed** (250–177)
 
 ## Actions
 
@@ -166,3 +168,22 @@ Lilly Ledbetter Fair Pay Act of 2009
 - 2009-01-22 — Senate amendment proposed (on the floor): Amendment SA 34 proposed by Senator Vitter.(consideration: CR S772-775; text: CR S772-773)
 - 2009-01-22 — Senate amendment proposed (on the floor): Amendment SA 37 proposed by Senator Isakson.(consideration: CR S745, S760-761, S764; text: CR S745)
 - 2009-01-22 — Senate amendment submitted
+- 2009-01-23 — Held at the desk.
+- 2009-01-23 — Message on Senate action sent to the House.
+- 2009-01-23 — Received in the House.
+- 2009-01-26 — Rules Committee Resolution H. Res. 87 Reported to House. Rule provides for consideration of S. 181 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2009-01-27 — Cleared for White House.
+- 2009-01-27 — Considered under the provisions of rule H. Res. 87. (consideration: CR H546-556)
+- 2009-01-27 — DEBATE - The House proceeded with one hour of debate on S. 181.
+- 2009-01-27 — Floor summary: DEBATE - The House proceeded with ten minutes of debate on the McKeon motion to commit S. 181 to the Committee on Education and Labor.
+- 2009-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-01-27 — Mr. McKeon moved to commit to Education and Labor. (consideration: CR H554-556)
+- 2009-01-27 — On motion to commit Failed by the Yeas and Nays: 176 - 250 (Roll no. 36).
+- 2009-01-27 — On passage Passed by the Yeas and Nays: 250 - 177 (Roll no. 37). (text: CR H546-547)
+- 2009-01-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 177 (Roll no. 37).(text: CR H546-547)
+- 2009-01-27 — Rule H. Res. 87 passed House.
+- 2009-01-27 — Rule provides for consideration of S. 181 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2009-01-27 — The previous question on the motion to commit was ordered without objection. (consideration: CR H555)
+- 2009-01-27 — The previous question was ordered pursuant to the rule. (consideration: CR H554)
+- 2009-01-28 — Presented to President.
+- 2009-01-28 — Presented to President.
