@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2
@@ -16,7 +16,7 @@ Children's Health Insurance Program Reauthorization Act of 2009
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Cosponsors (43)
+## Cosponsors (156)
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
@@ -61,6 +61,119 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
 ## Committees (3)
 
@@ -68,10 +181,25 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (17)
 
 - 2009-01-14 — [House 111-1-15](votes/house-111-1-0015.md) — On Motion to Recommit with Instructions — **Failed** (179–247)
 - 2009-01-14 — [House 111-1-16](votes/house-111-1-0016.md) — On Passage — **Passed** (289–139)
+- 2009-01-27 — [Senate 111-1-16](votes/senate-111-1-0016.md) — On the Motion to Table — **Motion to Table Agreed to** (60–37)
+- 2009-01-28 — [Senate 111-1-18](votes/senate-111-1-0018.md) — On the Amendment — **Amendment Rejected** (32–65)
+- 2009-01-28 — [Senate 111-1-19](votes/senate-111-1-0019.md) — On the Amendment — **Amendment Rejected** (37–60)
+- 2009-01-28 — [Senate 111-1-20](votes/senate-111-1-0020.md) — On the Motion to Table — **Motion to Table Agreed to** (64–33)
+- 2009-01-28 — [Senate 111-1-21](votes/senate-111-1-0021.md) — On the Amendment — **Amendment Rejected** (36–60)
+- 2009-01-28 — [Senate 111-1-22](votes/senate-111-1-0022.md) — On the Amendment — **Amendment Rejected** (42–56)
+- 2009-01-28 — [Senate 111-1-23](votes/senate-111-1-0023.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2009-01-29 — [Senate 111-1-24](votes/senate-111-1-0024.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2009-01-29 — [Senate 111-1-25](votes/senate-111-1-0025.md) — On the Motion to Table — **Motion to Table Agreed to** (54–44)
+- 2009-01-29 — [Senate 111-1-26](votes/senate-111-1-0026.md) — On the Amendment — **Amendment Rejected** (39–59)
+- 2009-01-29 — [Senate 111-1-27](votes/senate-111-1-0027.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2009-01-29 — [Senate 111-1-28](votes/senate-111-1-0028.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2009-01-29 — [Senate 111-1-29](votes/senate-111-1-0029.md) — On the Amendment — **Amendment Agreed to** (55–43)
+- 2009-01-29 — [Senate 111-1-30](votes/senate-111-1-0030.md) — On the Amendment — **Amendment Rejected** (17–81)
+- 2009-01-29 — [Senate 111-1-31](votes/senate-111-1-0031.md) — On Passage of the Bill — **Bill Passed** (66–32)
 
 ## Actions
 
@@ -97,3 +225,194 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - 2009-01-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H266)
 - 2009-01-14 — The previous question was ordered pursuant to the rule. (consideration: CR H263)
 - 2009-01-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2009-01-26 — Measure laid before Senate by unanimous consent. (consideration: CR S820-822)
+- 2009-01-27 — Amendment SA 39 agreed to in Senate by Unanimous Consent.
+- 2009-01-27 — Amendment SA 39 proposed by Senator Reid for Senator Baucus. (consideration: CR S852, S885) In the nature of a substitute.
+- 2009-01-27 — Amendment SA 40 modified to reflect a first degree status by Unanimous Consent.
+- 2009-01-27 — Amendment SA 40 proposed by Senator McConnell to Amendment SA 39. (consideration: CR S852-854, S885) In the nature of a substitute.
+- 2009-01-27 — Amendment SA 40 proposed by Senator McConnell.
+- 2009-01-27 — Amendment SA 41 modified to reflect a first degree status by Unanimous Consent.
+- 2009-01-27 — Amendment SA 41 proposed by Senator Grassley to Amendment SA 39. (consideration: CR S854-857; text: CR S854) To strike the option to provide coverage to legal immigrants and increase the enrollment of uninsured low income American children.
+- 2009-01-27 — Amendment SA 41 proposed by Senator Grassley.
+- 2009-01-27 — Amendment SA 43 proposed by Senator DeMint to Amendment SA 39. (consideration: CR S859-866, S879-880; text: CR S859-860) To require States to impose cost-sharing for any individual enrolled in a State child health plan whose income exceeds 200 percent of the poverty line.
+- 2009-01-27 — Amendment SA 45 not agreed to in Senate by Voice Vote.
+- 2009-01-27 — Amendment SA 45 proposed by Senator Hatch to Amendment SA 39. (consideration: CR S857-859, S880-881; text: CR S857) To prohibit any Federal matching payment for Medicaid or CHIP coverage of noncitizen children or pregnant women until a State demonstrates that it has enrolled 95 percent of the children eligible for Medicaid or CHIP who reside in the State and whose family income does not exceed 200 percent of the poverty line.
+- 2009-01-27 — Considered by Senate. (consideration: CR S852-866, S867-881, S881-885)
+- 2009-01-27 — Motion to table amendment SA 43 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 16.
+- 2009-01-27 — Roll call votes on amendments in Senate: Motion to table amendment SA 43 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 16.
+- 2009-01-27 — Senate amendment agreed to: Amendment SA 39 agreed to in Senate by Unanimous Consent.
+- 2009-01-27 — Senate amendment not agreed to: Amendment SA 45 not agreed to in Senate by Voice Vote.
+- 2009-01-27 — Senate amendment proposed (on the floor): Amendment SA 39 proposed by Senator Reid for Senator Baucus.(consideration: CR S852, S885)
+- 2009-01-27 — Senate amendment proposed (on the floor): Amendment SA 40 proposed by Senator McConnell.
+- 2009-01-27 — Senate amendment proposed (on the floor): Amendment SA 41 proposed by Senator Grassley.
+- 2009-01-27 — Senate amendment proposed (on the floor): Amendment SA 43 proposed by Senator DeMint to Amendment SA 39.(consideration: CR S859-866, S879-880; text: CR S859-860)
+- 2009-01-27 — Senate amendment proposed (on the floor): Amendment SA 45 proposed by Senator Hatch to Amendment SA 39.(consideration: CR S857-859, S880-881; text: CR S857)
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-27 — Senate amendment submitted
+- 2009-01-28 — Amendment SA 40 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 18.
+- 2009-01-28 — Amendment SA 41 not agreed to in Senate by Voice Vote.
+- 2009-01-28 — Amendment SA 46 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 22.
+- 2009-01-28 — Amendment SA 46 proposed by Senator Kyl. (consideration: CR S967-968, S969-976, S982-986) To reinstate the crowd out policy agreed to in section 116 of H.R. 3963 (CHIPRA II), as agreed to and passed by the House and Senate.
+- 2009-01-28 — Amendment SA 49 proposed by Senator Coburn. (consideration: CR  S986-987; text: CR S986) To prevent fraud and restore fiscal accountability to the Medicaid and SCHIP programs.
+- 2009-01-28 — Amendment SA 50 proposed by Senator Coburn. (consideration: CR S987; text: CR S987) To restore fiscal discipline by making the Medicaid and SCHIP programs more accountable and efficient.
+- 2009-01-28 — Amendment SA 58 proposed by Senator Webb. (consideration: CR S978-980) To amend the Internal Revenue Code of 1986 to provide a revenue source through the treatment of income of partners for performing investment management services as ordinary income received for performance of services and reduce accordingly the tobacco tax increase as a revenue source.
+- 2009-01-28 — Amendment SA 65 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 19.
+- 2009-01-28 — Amendment SA 65 proposed by Senator Martinez. (consideration: CR S955-961; text: CR S955) To restore the prohibition on funding of nongovernmental organizations that promote abortion as a method of birth control (the "Mexico City Policy").
+- 2009-01-28 — Amendment SA 67 proposed by Senator Cornyn. (consideration: CR S961-962, S967, S968-969; text: CR S961) To ensure redistributed funds go towards coverage of low-income children or outreach and enrollment of low-income children, rather than to States that will use the funds to cover children from higher income families.
+- 2009-01-28 — Amendment SA 75 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 21.
+- 2009-01-28 — Amendment SA 75 proposed by Senator Roberts. (consideration: CR S962-967, S969; text: CR S962) To prohibit CHIP coverage for higher income children and to prohibit any payments to a State from its CHIP allotments for any fiscal year quarter in which the State Medicaid income eligibility level for children is greater than the income eligibility level for children under CHIP.
+- 2009-01-28 — Amendment SA 77 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 23.
+- 2009-01-28 — Amendment SA 77 proposed by Senator Murkowski. (consideration: CR S976-978, S986; text: CR S976) To provide for the development of best practice recommendations and to ensure coverage of low income children.
+- 2009-01-28 — Amendment SA 79 proposed by Senator Brown. (consideration: CR S980-982; text: CR S980-981) To strengthen and protect health care access, and to benefit children in need of cancer care or other acute care services.
+- 2009-01-28 — Considered by Senate. (consideration: CR S950, S954)
+- 2009-01-28 — Considered by Senate. (consideration: CR S950-954, S954-955)
+- 2009-01-28 — Considered by Senate. (consideration: CR S950-990)
+- 2009-01-28 — Motion to table amendment SA 67 agreed to in Senate by Yea-Nay. 64 - 33. Record Vote Number: 20.
+- 2009-01-28 — Proposed amendment SA 58 withdrawn in Senate. (consideration: CR S978)
+- 2009-01-28 — Proposed amendment SA 79 withdrawn in Senate. (consideration: CR S982)
+- 2009-01-28 — Roll call votes on amendments in Senate: Amendment SA 40 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 18.
+- 2009-01-28 — Roll call votes on amendments in Senate: Amendment SA 46 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 22.
+- 2009-01-28 — Roll call votes on amendments in Senate: Amendment SA 65 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 19.
+- 2009-01-28 — Roll call votes on amendments in Senate: Amendment SA 75 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 21.
+- 2009-01-28 — Roll call votes on amendments in Senate: Amendment SA 77 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 23.
+- 2009-01-28 — Roll call votes on amendments in Senate: Motion to table amendment SA 67 agreed to in Senate by Yea-Nay. 64 - 33. Record Vote Number: 20.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 40 not agreed to in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 18.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 41 not agreed to in Senate by Voice Vote.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 46 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 22.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 65 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 19.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 75 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 21.
+- 2009-01-28 — Senate amendment not agreed to: Amendment SA 77 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 23.
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 46 proposed by Senator Kyl.(consideration: CR S967-968, S969-976, S982-986)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 49 proposed by Senator Coburn.(consideration: CR  S986-987; text: CR S986)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 50 proposed by Senator Coburn.(consideration: CR S987; text: CR S987)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 58 proposed by Senator Webb.(consideration: CR S978-980)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 65 proposed by Senator Martinez.(consideration: CR S955-961; text: CR S955)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 67 proposed by Senator Cornyn.(consideration: CR S961-962, S967, S968-969; text: CR S961)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 75 proposed by Senator Roberts.(consideration: CR S962-967, S969; text: CR S962)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 77 proposed by Senator Murkowski.(consideration: CR S976-978, S986; text: CR S976)
+- 2009-01-28 — Senate amendment proposed (on the floor): Amendment SA 79 proposed by Senator Brown.(consideration: CR S980-982; text: CR S980-981)
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-28 — Senate amendment submitted
+- 2009-01-29 — Amendment SA 47 not agreed to in Senate by Yea-Nay. 36 - 62. Record Vote Number: 24.
+- 2009-01-29 — Amendment SA 47 proposed by Senator Baucus for Senator Coburn. (consideration: CR S1016-1019, S1030, S1031) To ensure that children do not lose their private insurance and that uninsured children can get access to private insurance.
+- 2009-01-29 — Amendment SA 49 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Amendment SA 50 agreed to in Senate by Voice Vote.
+- 2009-01-29 — Amendment SA 63 as modified agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 29.
+- 2009-01-29 — Amendment SA 63 proposed by Senator Bingaman. (consideration: CR S1040, S1044-1045; text: CR S1040; text as modified: CR S1040) To clarify that new paperwork and enrollment barriers are not created in the Express Lane Enrollment option and that income may be determined by Express Lane agencies based on State income tax records or returns.
+- 2009-01-29 — Amendment SA 71 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Amendment SA 71 proposed by Senator Grassley. (consideration: CR S1036-1038; text: CR S1037) To extend the State Children's Health Insurance Program for 6 quarters in order to enact bipartisan, comprehensive health care reform.
+- 2009-01-29 — Amendment SA 74 proposed by Senator Bunning. (consideration: CR S1015-1016, S1019-1025, S1029-1030, S1031; text: CR S1015; text as modified: CR S1031) To eliminate any exceptions to the prohibition on States receiving an enhanced Federal matching rate for providing coverage to children whose family income exceeds 300 percent of the poverty line.
+- 2009-01-29 — Amendment SA 80 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 26.
+- 2009-01-29 — Amendment SA 80 proposed by Senator Hatch. (consideration: CR S1009-1015, S1031-1032; text: CR S1009) To codify regulations specifying that an unborn child is eligible for child health assistance.
+- 2009-01-29 — Amendment SA 83 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Amendment SA 83 proposed by Senator Grassley. (consideration: CR S1025-1029, S1030-1031, S1036) In the nature of a substitute.
+- 2009-01-29 — Amendment SA 85 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 27.
+- 2009-01-29 — Amendment SA 85 proposed by Senator DeMint. (consideration: CR S1032-1033, S1038-1040, S1040-1042, S1043; text: CR S1032) To provide an above-the-line Federal income tax deduction for health care costs of certain children in an amount comparable to the average federal share of the benefit provided to any non-citizen child for medical assistance or child health assistance.
+- 2009-01-29 — Amendment SA 86 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 28.
+- 2009-01-29 — Amendment SA 86 proposed by Senator Coburn. (consideration: CR S1033-1036, S1043-1044) To ensure that American children have high-quality health coverage that fits their individual needs.
+- 2009-01-29 — Amendment SA 93 not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 30.
+- 2009-01-29 — Amendment SA 93 proposed by Senator Hutchison. (consideration: CR S1045-1046; text: CR S1045) To provide assistance for States with percentages of children with no health insurance coverage above the national average.
+- 2009-01-29 — Amendment SA 94 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Amendment SA 94 proposed by Senator Baucus. (consideration: CR S1042; text: CR S1042) To make a technical correction to the option to cover legal immigrant children and pregnant women.
+- 2009-01-29 — Amendment SA 95 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Amendment SA 95 proposed by Senator Baucus. (consideration: CR S1042; text: CR S1042) To make technical corrections to the State option to provide dental-only supplemental coverage.
+- 2009-01-29 — Amendment SA 96 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Amendment SA 96 proposed by Senator Baucus. (consideration: CR S1042-1043; text: CR S1042) To clarify that no eligible entity that receives an outreach and enrollment grant is required to provide matching funds.
+- 2009-01-29 — Amendment SA 97 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Amendment SA 97 proposed by Senator Rockefeller for Senator Baucus. (consideration: CR S1043; text: CR S1043) Of a technical nature.
+- 2009-01-29 — Considered by Senate. (consideration: CR S1007, S1044)
+- 2009-01-29 — Considered by Senate. (consideration: CR S1007, S1044)
+- 2009-01-29 — Considered by Senate. (consideration: CR S1007-1050)
+- 2009-01-29 — Motion to table amendment SA 74 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 25.
+- 2009-01-29 — Passed Senate with an amendment by Yea-Nay Vote. 66 - 32. Record Vote Number: 31. (text: CR 1/30/2009 S1206-1232)
+- 2009-01-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 66 - 32. Record Vote Number: 31.(text: CR 1/30/2009 S1206-1232)
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 47 not agreed to in Senate by Yea-Nay. 36 - 62. Record Vote Number: 24.
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 63 as modified agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 29.
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 80 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 26.
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 85 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 27.
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 86 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 28.
+- 2009-01-29 — Roll call votes on amendments in Senate: Amendment SA 93 not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 30.
+- 2009-01-29 — Roll call votes on amendments in Senate: Motion to table amendment SA 74 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 25.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 50 agreed to in Senate by Voice Vote.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 63 as modified agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 29.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 94 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 95 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 96 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Senate amendment agreed to: Amendment SA 97 agreed to in Senate by Unanimous Consent.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 47 not agreed to in Senate by Yea-Nay. 36 - 62. Record Vote Number: 24.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 49 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 71 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 80 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 26.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 83 not agreed to in Senate by Voice Vote.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 85 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 27.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 86 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 28.
+- 2009-01-29 — Senate amendment not agreed to: Amendment SA 93 not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 30.
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 47 proposed by Senator Baucus for Senator Coburn.(consideration: CR S1016-1019, S1030, S1031)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 63 proposed by Senator Bingaman.(consideration: CR S1040, S1044-1045; text: CR S1040; text as modified: CR S1040)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 71 proposed by Senator Grassley.(consideration: CR S1036-1038; text: CR S1037)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 74 proposed by Senator Bunning.(consideration: CR S1015-1016, S1019-1025, S1029-1030, S1031; text: CR S1015; text as modified: CR S1031)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 80 proposed by Senator Hatch.(consideration: CR S1009-1015, S1031-1032; text: CR S1009)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 83 proposed by Senator Grassley.(consideration: CR S1025-1029, S1030-1031, S1036)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 85 proposed by Senator DeMint.(consideration: CR S1032-1033, S1038-1040, S1040-1042, S1043; text: CR S1032)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 86 proposed by Senator Coburn.(consideration: CR S1033-1036, S1043-1044)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 93 proposed by Senator Hutchison.(consideration: CR S1045-1046; text: CR S1045)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 94 proposed by Senator Baucus.(consideration: CR S1042; text: CR S1042)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 95 proposed by Senator Baucus.(consideration: CR S1042; text: CR S1042)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 96 proposed by Senator Baucus.(consideration: CR S1042-1043; text: CR S1042)
+- 2009-01-29 — Senate amendment proposed (on the floor): Amendment SA 97 proposed by Senator Rockefeller for Senator Baucus.(consideration: CR S1043; text: CR S1043)
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate amendment submitted
+- 2009-01-29 — Senate insists on its amendment, asks for a conference, appoints conferees Baucus; Rockefeller; Conrad; Grassley; Hatch. (consideration: CR S1049)
