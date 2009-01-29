@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1
@@ -162,3 +162,4 @@ American Recovery and Reinvestment Act of 2009
 - 2009-01-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H748)
 - 2009-01-28 — The previous question was ordered pursuant to the rule. (consideration: CR H746)
 - 2009-01-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-01-29 — Received in the Senate, read twice.
