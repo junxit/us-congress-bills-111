@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 27
@@ -32,3 +32,4 @@ Authorizing the use of the rotunda of the Capitol for a ceremony in honor of the
 - 2009-01-28 — Mr. Capuano asked unanimous consent to discharge from committee and consider.
 - 2009-01-28 — On agreeing to the resolution Agreed to without objection. (text: CR H607)
 - 2009-01-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H607)
+- 2009-01-30 — Received in the Senate.
