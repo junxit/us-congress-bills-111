@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 786
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 786
+
+> To make permanent the temporary increase in deposit insurance coverage, and for other purposes.
+
+## § 1. Permanent increase in deposit insurance
+
+- **(a)** *Amendments to Federal Deposit Insurance Act* Effective upon the date of the enactment of this Act, section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is amended—
+  - **(1)** in paragraph (1)(E), by striking “$100,000” and inserting “$250,000”;
+  - **(2)** in paragraph (1)(F)(i), by striking “2010” and inserting “2015”;
+  - **(3)** in subclause (I) of paragraph (1)(F)(i), by striking “$100,000” and inserting “$250,000”;
+  - **(4)** in subclause (II) of paragraph (1)(F)(i), by striking “the calendar year preceding the date this subparagraph takes effect under the Federal Deposit Insurance Reform Act of 2005” and inserting “calendar year 2008”; and
+  - **(5)** in paragraph (3)(A)(iii), by striking “, except that $250,000 shall be substituted for $100,000 wherever such term appears in such paragraph”.
+- **(b)** *Amendment to Federal Credit Union Act* Section 207(k) of the Federal Credit Union Act (12 U.S.C. 1787(k)) is amended—
+  - **(1)** in paragraph (3)—
+    - **(A)** by striking the opening quotation mark before “$250,000”;
+    - **(B)** by striking “, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section”; and
+    - **(C)** by striking the closing quotation mark after the closing parenthesis; and
+  - **(2)** in paragraph (5), by striking “$100,000” and inserting “$250,000”.
+- **(c)** *Rule of construction* No provision of law, other than a provision of the Federal Deposit Insurance Act (with respect to the Federal Deposit Insurance Corporation and insured depository institutions) or the Federal Credit Union Act (with respect to the National Credit Union Administration and insured credit unions), may be construed as limiting the authority of—
+  - **(1)** the Board of Directors of the Federal Deposit Insurance Corporation to set assessments under section 7(b)(2) of the Federal Deposit Insurance Act or to make any inflation adjustment under section 11(a)(1)(F) of such Act; or
+  - **(2)** the National Credit Union Administration Board to periodically adjust the amount of an insured credit union’s deposit under section 202(c)(1) of the Federal Credit Union Act, set the insurance premium charge under section 202(c)(2) of such Act, or to make any inflation adjustment pursuant to section 207(k)(5) of such Act.
+
+## § 2. Extension of restoration plan period
+
+Section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(3)(E)(ii)) is amended by striking “5-year period” and inserting “8-year period”.
+
+## § 3. FDIC borrowing authority
+
+Section 14(a) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a)) is amended—
+
+- **(1)** by striking “$30,000,000,000” and inserting “$100,000,000,000”; and
+- **(2)** by inserting prior to the last sentence, the following new sentence: “The Corporation may request in writing to borrow, and the Secretary may authorize and approve the borrowing of, additional amounts above $100,000,000,000 to the extent that the Board of Directors and the Secretary determine such borrowing to be necessary.”.
+
+## § 4. Expanding systemic risk special assessments
+
+Section 13(c)(4)(G)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)(G)(ii)) is amended to read as follows:
+
+> - **(ii)** *Repayment of loss*
+>   - **(I)** *In general* The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) from 1 or more special assessments on insured depository institutions, depository institution holding companies (with the concurrence of the Secretary of the Treasury with respect to holding companies), or both, as the Corporation determines to be appropriate.
+>   - **(II)** *Treatment of depository institution holding companies* For purposes of this clause, sections 7(c)(2) and 18(h) shall apply to depository institution holding companies as if they were insured depository institutions.
+>   - **(III)** *Regulations* The Corporation shall prescribe such regulations as it deems necessary to implement this clause. In prescribing such regulations, defining terms, and setting the appropriate assessment rate or rates, the Corporation shall establish rates sufficient to cover the losses incurred as a result of the actions of the Corporation under clause (i) and shall consider: the types of entities that benefit from any action taken or assistance provided under this subparagraph; economic conditions, the effects on the industry, and such other factors as the Corporation deems appropriate and relevant to the action taken or the assistance provided. Any funds so collected that exceed actual losses shall be placed in the Deposit Insurance Fund.
