@@ -1,7 +1,7 @@
 ---
 measure: H.R. 559
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
