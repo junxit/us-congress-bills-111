@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 27
@@ -33,3 +33,5 @@ Authorizing the use of the rotunda of the Capitol for a ceremony in honor of the
 - 2009-01-28 — On agreeing to the resolution Agreed to without objection. (text: CR H607)
 - 2009-01-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H607)
 - 2009-01-30 — Received in the Senate.
+- 2009-02-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1472; text as passed Senate: CR S1472)
+- 2009-02-03 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1472; text as passed Senate: CR S1472)
