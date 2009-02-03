@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 553
@@ -26,3 +26,9 @@ Reducing Over-Classification Act
 - 2009-01-15 — Introduced in House
 - 2009-01-15 — Referred to the House Committee on Homeland Security.
 - 2009-01-15 — Sponsor introductory remarks on measure. (CR E100)
+- 2009-02-03 — Considered under suspension of the rules. (consideration: CR H893-898)
+- 2009-02-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 553.
+- 2009-02-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-03 — Mr. Thompson (MS) moved to suspend the rules and pass the bill.
+- 2009-02-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H893-894)
+- 2009-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H893-894)
