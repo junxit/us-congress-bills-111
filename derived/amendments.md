@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 108
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
