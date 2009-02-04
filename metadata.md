@@ -1,7 +1,7 @@
 ---
 measure: H.R. 559
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 559
@@ -22,9 +22,10 @@ FAST Redress Act of 2009
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ FAST Redress Act of 2009
 - 2009-02-03 — Mr. Thompson (MS) moved to suspend the rules and pass the bill.
 - 2009-02-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 49). (text: CR H898-899)
 - 2009-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 49).(text: CR H898-899)
+- 2009-02-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
