@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 748
@@ -23,9 +23,10 @@ CAMPUS Safety Act of 2009
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ CAMPUS Safety Act of 2009
 - 2009-02-03 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
 - 2009-02-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H881-882)
 - 2009-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H881-882)
+- 2009-02-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
