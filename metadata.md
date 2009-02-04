@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 553
@@ -16,9 +16,10 @@ Reducing Over-Classification Act
 
 - Rep. Harman, Jane [D-CA-36] (H000213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Reducing Over-Classification Act
 - 2009-02-03 — Mr. Thompson (MS) moved to suspend the rules and pass the bill.
 - 2009-02-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H893-894)
 - 2009-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H893-894)
+- 2009-02-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
