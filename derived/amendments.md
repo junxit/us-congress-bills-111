@@ -1,7 +1,7 @@
 ---
 measure: S. 383
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -33,14 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | in subsection (c), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “subsection (c)(1)” and inserting “subsection (c)(1) and (4)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f), (g), and (h) as subsections (i), (j), and (k), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking the first sentence and inserting “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector Ge… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 121(j)(1) of the Emergency Economic Stabilization Act of 2008 (division A of Public Law 110–343), as redesignated by this Act, is amended by inserting before the period at the end the following: “, not later than 7 days after the… | the bill names no machine-readable US Code section |
