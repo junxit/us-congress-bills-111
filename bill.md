@@ -1,0 +1,24 @@
+---
+legis-num: S. 388
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 388
+
+> To extend the termination date for the exemption of returning workers from the numerical limitations for temporary workers.
+
+## § 1. Short title
+
+This Act may be cited as the “Save Our Small and Seasonal Businesses Act of 2009”.
+
+## § 2. Extension of returning worker exemption to H–2B numerical limitation
+
+- **(a)** *In general* Section 214(g)(9)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(9)(A) is amended to read as follows:
+  > - **(A)** Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitation under paragraph (1)(B) during any 1 of the 3 fiscal years immediately prior to the fiscal year of the approved start date of a petition for a nonimmigrant worker described in section 101(a)(15)(H)(ii)(b) shall not again be counted toward such limitation for the fiscal year for which the petition is approved. Such an alien shall be considered a returning worker.
+
+- **(b)** *Effective date; 3-year limitation; sunset provision* The amendment made by subsection (a) shall—
+  - **(1)** take effect as if enacted on December 1, 2008;
+  - **(2)** apply only to petitions with an approved start date in fiscal year 2009, 2010, or 2011; and
+  - **(3)** terminate on the date that is 3 years after the date of the enactment of this Act.
