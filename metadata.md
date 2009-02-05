@@ -1,7 +1,7 @@
 ---
 measure: H.R. 738
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 738
@@ -16,9 +16,10 @@ Death in Custody Reporting Act of 2009
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ Death in Custody Reporting Act of 2009
 - 2009-02-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-02-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 53). (text: CR 2/3/2009 H884-885)
 - 2009-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 53).(text: CR 2/3/2009 H884-885)
+- 2009-02-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
