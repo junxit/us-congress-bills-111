@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -58,7 +58,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in clause (i), by striking “, and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | amend | Title XXI (42 U.S.C. 1397aa et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XXI (42 U.S.C. 1397aa et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | by striking “, the Secretary” and inserting “: | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence, by inserting “or a parent (as defined in section 2111(c)(2)(A)), who is not pregnant, of a targeted low-income child” before the period; | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
@@ -68,8 +68,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | strike | Section 1902(e)(4) (42 U.S.C. 1396a(e)(4)) is amended in the first sentence by striking “so long as the child is a member of the woman’s household and the woman remains (or would remain if pregnant) eligible for such assistance”. | the bill names no machine-readable US Code section |
 | — | amend | Section 1920(b) (42 U.S.C. 1396r–1(b)) is amended by adding after paragraph (2) the following flush sentence: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1397ee` | add-at-end | Section 2105(c) (42 U.S.C. 1397ee(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Title XXI (42 U.S.C. 1397aa et seq.), as amended by section 111, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2105(c) (42 U.S.C. 1397ee(c)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XXI (42 U.S.C. 1397aa et seq.), as amended by section 111, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “(or, in the case of expenditures described in subparagraph (D)(iv), the higher of 75 percent or the sum of the enhanced FMAP plus 5 percentage points)” after “enhanced FMAP”; and | the bill names no machine-readable US Code section |
 | — | strike | in clause (iii), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (iv) as clause (v); and | the bill names no machine-readable US Code section |
@@ -114,7 +114,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Title XIX is amended by inserting after section 1906 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2102(c) (42 U.S.C. 1397bb(c)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2105(c)(2)(C) (42 U.S.C. 1397ee(c)(2)(C)), as amended by section 211(c)(2), is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | amend | Section 9801(f) of the Internal Revenue Code of 1986 (relating to special enrollment periods) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 9801(f) of the Internal Revenue Code of 1986 (relating to special enrollment periods) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 701(f) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181(f)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and the remedies” and inserting “, the remedies”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period the following: “, and if the employer so elects for purposes of complying with section 701(f)(3)(B)(i), the model notice applicable to the State in which the participants and beneficiaries reside”. | the bill names no machine-readable US Code section |
@@ -150,7 +150,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | in subsection (c)(2), by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 2107(e)(1) (42 U.S.C. 1397gg(e)(1)), as amended by section 501(c)(2) is amended by inserting after subparagraph (C) the following new subparagraph (and redesignating the succeeding subparagraphs accordingly): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2103(e)(3) (42 U.S.C. 1397cc(e)(3)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 2103(c) (42 U.S.C. 1397cc(c)), as amended by section 501(a)(1)(B), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2103(c) (42 U.S.C. 1397cc(c)), as amended by section 501(a)(1)(B), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2110(c) (42 U.S.C. 1397jj) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Title XIX (42 U.S.C. 1396 et seq.) is amended by inserting before section 1901 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2105(c) (42 U.S.C. 1397ee(c)), as amended by section 301(a), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -196,13 +196,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 5722 of such Code is amended by inserting “, processed tobacco,” after “tobacco products”. | the bill names no machine-readable US Code section |
 | — | insert | Section 5723 of such Code is amended by inserting “, processed tobacco,” after “tobacco products” each place it appears. | the bill names no machine-readable US Code section |
 | — | insert | Section 5741 of such Code is amended by inserting “, processed tobacco,” after “tobacco products”. | the bill names no machine-readable US Code section |
-| — | amend | Section 5702 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5702 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 5702(h) of such Code is amended by striking “tobacco products and cigarette papers and tubes” and inserting “tobacco products or cigarette papers or tubes or any processed tobacco”. | the bill names no machine-readable US Code section |
 | — | insert | Sections 5702(j) and 5702(k) of such Code are each amended by inserting “, or any processed tobacco,” after “tobacco products or cigarette papers or tubes”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (3) of section 5712 of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 5713 of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 514(a) of the Tariff Act of 1930 (19 U.S.C. 1514(a)) is amended by striking “and section 520 (relating to refunds)” and inserting “section 520 (relating to refunds), and section 6501 of the Internal Revenue Code of 1986 (but only… | the bill names no machine-readable US Code section |
 | — | insert | Section 5702(o) of the Internal Revenue Code of 1986 is amended by inserting “or cigars, or for use as wrappers thereof” before the period at the end. | the bill names no machine-readable US Code section |
-| — | amend | Section 5703(b)(2) of such Code is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5703(b)(2) of such Code is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 6103(o) of such Code is amended by designating the text as subparagraph (A), moving such text 2 ems to the right, striking “Returns” and inserting “(A) In general.—Returns”, and by inserting after subparagraph (A… | the bill names no machine-readable US Code section |
 | — | replace | Section 6103(p)(4) of such Code is amended by striking “(o)(1)” both places it appears and inserting “(o)(1)(A)”. | the bill names no machine-readable US Code section |

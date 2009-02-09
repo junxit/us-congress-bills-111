@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2
 
-That the bill from the House of Representatives (H.R. 2) entitled “An Act to amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.
 
 ## § 1. Short title; amendments to Social Security Act; references; table of contents
 

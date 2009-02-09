@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2
@@ -181,7 +181,7 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (17)
+## Recorded votes (18)
 
 - 2009-01-14 — [House 111-1-15](votes/house-111-1-0015.md) — On Motion to Recommit with Instructions — **Failed** (179–247)
 - 2009-01-14 — [House 111-1-16](votes/house-111-1-0016.md) — On Passage — **Passed** (289–139)
@@ -200,6 +200,7 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - 2009-01-29 — [Senate 111-1-29](votes/senate-111-1-0029.md) — On the Amendment — **Amendment Agreed to** (55–43)
 - 2009-01-29 — [Senate 111-1-30](votes/senate-111-1-0030.md) — On the Amendment — **Amendment Rejected** (17–81)
 - 2009-01-29 — [Senate 111-1-31](votes/senate-111-1-0031.md) — On Passage of the Bill — **Bill Passed** (66–32)
+- 2009-02-04 — [House 111-1-50](votes/house-111-1-0050.md) — On Motion to Concur in the Senate Amendment — **Passed** (290–135)
 
 ## Actions
 
@@ -416,3 +417,21 @@ Children's Health Insurance Program Reauthorization Act of 2009
 - 2009-01-29 — Senate amendment submitted
 - 2009-01-29 — Senate amendment submitted
 - 2009-01-29 — Senate insists on its amendment, asks for a conference, appoints conferees Baucus; Rockefeller; Conrad; Grassley; Hatch. (consideration: CR S1049)
+- 2009-01-30 — Message on Senate action sent to the House.
+- 2009-01-30 — SA 63 previously adopted was further modified by Unanimous Consent. (consideration: CR S1232; text as further modified: CR S1232)
+- 2009-02-03 — Rules Committee Resolution H. Res. 107 Reported to House. Upon the adoption of H. Res. 107, it shall be in order to take from the Speaker's table the bill H.R. 2 with the Senate amendment thereto, and for the Chair to entertain a motion to concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour.
+- 2009-02-04 — Became Public Law No: 111-3.
+- 2009-02-04 — Became Public Law No: 111-3.
+- 2009-02-04 — Cleared for White House.
+- 2009-02-04 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 2.
+- 2009-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-04 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 290 - 135 (Roll No. 50). (text as House agreed to Senate amendment: CR H934-961)
+- 2009-02-04 — Presented to President.
+- 2009-02-04 — Presented to President.
+- 2009-02-04 — Pursuant to the provisions of H. Res. 107, Mr. Waxman moved to agree to the Senate amendment. (consideration: CR H934-975)
+- 2009-02-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 290 - 135 (Roll No. 50).(text as House agreed to Senate amendment: CR H934-961)
+- 2009-02-04 — Rule H. Res. 107 passed House.
+- 2009-02-04 — Senate amendment submitted
+- 2009-02-04 — Signed by President.
+- 2009-02-04 — Signed by President.
+- 2009-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H974)
