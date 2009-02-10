@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 114
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 114
@@ -75,8 +75,20 @@ Supporting the goals and ideals of "National Girls and Women in Sports Day".
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2009-02-10 — [House 111-1-55](votes/house-111-1-0055.md) — On Motion to Suspend the Rules and Agree — **Passed** (398–0)
+
 ## Actions
 
 - 2009-02-03 — Introduced in House
 - 2009-02-03 — Introduced in House
 - 2009-02-03 — Referred to the House Committee on Education and Labor.
+- 2009-02-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Sablan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-02-09 — Considered under suspension of the rules. (consideration: CR H1049-1051)
+- 2009-02-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 114.
+- 2009-02-09 — Mr. Sablan moved to suspend the rules and agree to the resolution.
+- 2009-02-10 — Considered as unfinished business. (consideration: CR H1102)
+- 2009-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-10 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 55). (text: CR 2/09/2009 H1049)
+- 2009-02-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 55).(text: CR 2/09/2009 H1049)
