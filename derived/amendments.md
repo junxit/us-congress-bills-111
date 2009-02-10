@@ -1,7 +1,7 @@
 ---
 measure: H.R. 908
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “competitive” after “to receive a”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request o… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new sentence: “The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request o… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
