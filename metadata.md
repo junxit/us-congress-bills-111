@@ -1,7 +1,7 @@
 ---
 measure: H.R. 787
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 787
@@ -25,3 +25,8 @@ To make improvements in the Hope for Homeowners Program, and for other purposes.
 - 2009-02-02 — Introduced in House
 - 2009-02-02 — Introduced in House
 - 2009-02-02 — Referred to the House Committee on Financial Services.
+- 2009-02-04 — Committee Consideration and Mark-up Session Held.
+- 2009-02-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-02-10 — Placed on the Union Calendar, Calendar No. 4.
+- 2009-02-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-12.
+- 2009-02-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-12.
