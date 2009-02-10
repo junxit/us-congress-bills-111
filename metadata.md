@@ -1,7 +1,7 @@
 ---
 measure: H.R. 912
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 912
@@ -72,9 +72,10 @@ Airline Flight Crew Technical Corrections Act
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ Airline Flight Crew Technical Corrections Act
 - 2009-02-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1053)
 - 2009-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1053)
 - 2009-02-09 — Referred to the House Committee on Education and Labor.
+- 2009-02-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
