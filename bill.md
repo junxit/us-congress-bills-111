@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Safe Harbor*
   - **(1)** *Loan modifications and workout plans* Notwithstanding any other provision of law, and notwithstanding any investment contract between a servicer and a securitization vehicle or investor, a servicer that acts consistent with the duty set forth in section 129A(a) of Truth in Lending Act (15 U.S.C. 1639a) shall not be liable for entering into a loan modification or workout plan with respect to any such mortgage that meets all of the criteria set forth in paragraph (2)(B) to—
     - **(A)** any person, based on that person’s ownership of a residential mortgage loan or any interest in a pool of residential mortgage loans or in securities that distribute payments out of the principal, interest and other payments in loans on the pool;
-    - **(B)** any person who is obligated to make payments determined in reference to any loan or any interest referred to in subparagraph (A); or
+    - **(B)** any person who is obligated pursuant to a derivatives instrument to make payments determined in reference to any loan or any interest referred to in subparagraph (A); or
     - **(C)** any person that insures any loan or any interest referred to in subparagraph (A) under any law or regulation of the United States or any law or regulation of any State or political subdivision of any State.
   - **(2)** *Ability to modify mortgages*
     - **(A)** *Ability* Notwithstanding any other provision of law, and notwithstanding any investment contract between a servicer and a securitization vehicle or investor, a servicer—
