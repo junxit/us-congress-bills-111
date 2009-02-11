@@ -1,7 +1,7 @@
 ---
 measure: H.R. 908
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 908
@@ -42,9 +42,10 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization of 2009
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization of 2009
 - 2009-02-10 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
 - 2009-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1118)
 - 2009-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1118)
+- 2009-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
