@@ -26,7 +26,7 @@ Congress finds the following:
 
 ## § 3. Research program
 
-- **(a)** *In general* The Assistant Administrator for Research and Development of the Environmental Protection Agency (in this Act referred to as the “Assistant Administrator”) shall establish a research and development program consistent with the plan developed under section 4 that promotes water use efficiency and conservation, including—
+- **(a)** *In General* The Assistant Administrator for Research and Development of the Environmental Protection Agency (in this Act referred to as the “Assistant Administrator”) shall establish a research and development program consistent with the plan developed under section 4 that promotes water use efficiency and conservation, including—
   - **(1)** technologies and processes that enable the collection, storage, treatment, and reuse of rainwater, stormwater, and greywater;
   - **(2)** water storage and distribution systems;
   - **(3)** behavioral, social, and economic barriers to achieving greater water use efficiency; and
@@ -36,9 +36,9 @@ Congress finds the following:
   - **(2)** technologies and processes likely to achieve the greatest increases in water use efficiency and conservation.
 - **(c)** *Minority Serving Institutions* In the execution of this program, the Assistant Administrator may award extramural grants to institutions of higher education and shall encourage participation by Minority Serving Institutions.
 
-## § 4. Strategic Research Plan
+## § 4. Strategic research plan
 
-- **(a)** *In general* The Assistant Administrator shall coordinate the development of a strategic research plan (in this Act referred to as the “plan”) for the water use efficiency and conservation research and development program established in section 3 with all other Environmental Protection Agency research and development strategic plans.
+- **(a)** *In General* The Assistant Administrator shall coordinate the development of a strategic research plan (in this Act referred to as the “plan”) for the water use efficiency and conservation research and development program established in section 3 with all other Environmental Protection Agency research and development strategic plans.
 - **(b)** *Plan Contents* The plan shall—
   - **(1)** outline research goals and priorities for a water use efficiency and conservation research agenda, including—
     - **(A)** developing innovative water supply-enhancing processes and technologies; and
@@ -60,9 +60,9 @@ The Assistant Administrator, building on the results of the activities of the pr
 
 ## § 6. Advanced water efficiency development projects
 
-- **(a)** *In general* As part of the program under section 3, the Assistant Administrator shall carry out at least 4 projects under which the funding is provided for the incorporation into a building of the latest water use efficiency and conservation technologies and designs. Funding for each project shall be provided only to cover incremental costs of water-use efficiency and conservation technologies.
+- **(a)** *In General* As part of the program under section 3, the Assistant Administrator shall carry out at least 4 projects under which the funding is provided for the incorporation into a building of the latest water use efficiency and conservation technologies and designs. Funding for each project shall be provided only to cover incremental costs of water-use efficiency and conservation technologies.
 - **(b)** *Criteria* Of the 4 projects described in subsection (a), at least 1 shall be for a residential building and at least 1 shall be for a commercial building.
-- **(c)** *Public availability* The designs of buildings with respect to which funding is provided under subsection (a) shall be made available to the public, and such buildings shall be accessible to the public for tours and educational purposes.
+- **(c)** *Public Availability* The designs of buildings with respect to which funding is provided under subsection (a) shall be made available to the public, and such buildings shall be accessible to the public for tours and educational purposes.
 
 ## § 7. Report
 
