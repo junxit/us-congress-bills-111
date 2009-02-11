@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 129
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 129
@@ -31,3 +31,9 @@ Recognizing the historical significance of the Merced Assembly Center to the Nat
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Referred to the House Committee on the Judiciary.
+- 2009-02-11 — Considered under suspension of the rules. (consideration: CR H1175-1180)
+- 2009-02-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 129.
+- 2009-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-11 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2009-02-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1175)
+- 2009-02-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1175)
