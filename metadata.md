@@ -1,7 +1,7 @@
 ---
 measure: H.R. 11
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 11
@@ -214,9 +214,10 @@ To amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in
 - Rep. Barrow, John [D-GA-12] (B001252)
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -237,3 +238,5 @@ To amend title VII of the Civil Rights Act of 1964 and the Age Discrimination in
 - 2009-01-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 171 (Roll no. 9).(text: CR H113-114)
 - 2009-01-09 — Rule provides for consideration of H.R. 11 and H.R. 12. Motion to recommit allowed. H. Res.5 provides one hour of debate each for H.R. 11 and H.R. 12. Both bills are to be considered in the House.
 - 2009-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H124)
+- 2009-01-12 — Received in the Senate.
+- 2009-02-11 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

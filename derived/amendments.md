@@ -1,7 +1,7 @@
 ---
 measure: H.R. 11
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -44,7 +44,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “any other factor other than sex” and inserting “a bona fide factor other than sex, such as education, training, or experience”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(3), by striking “employee has filed” and all that follows and inserting | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages, or, where the employee demonstrates that the employer acted with malice or reckless … | the bill names no machine-readable US Code section |
 | — | replace | in the sentence beginning “An action to”, by striking “either of the preceding sentences” and inserting “any of the preceding sentences of this subsection”; | the bill names no machine-readable US Code section |
 | — | replace | in the sentence beginning “No employees shall”, by striking “No employees” and inserting “Except with respect to class actions brought to enforce section 6(d), no employee”; | the bill names no machine-readable US Code section |
@@ -57,5 +57,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the third sentence, by striking “the first sentence” and inserting “the first or second sentence”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “commenced in the case” and inserting | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
