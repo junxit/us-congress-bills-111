@@ -1,7 +1,7 @@
 ---
 measure: H.R. 554
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 554
@@ -49,3 +49,9 @@ National Nanotechnology Initiative Amendments Act of 2009
 - 2009-01-15 — Introduced in House
 - 2009-01-15 — Introduced in House
 - 2009-01-15 — Referred to the House Committee on Science and Technology.
+- 2009-02-11 — Considered under suspension of the rules. (consideration: CR H1180-1188)
+- 2009-02-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 554.
+- 2009-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-11 — Mr. Gordon (TN) moved to suspend the rules and pass the bill.
+- 2009-02-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1180-1183)
+- 2009-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1180-1183)
