@@ -1,7 +1,7 @@
 ---
 measure: H.R. 554
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -41,8 +41,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “as a distinct entity” after “Advisory Panel”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end “The Advisory Panel shall form a subpanel with membership having specific qualifications tailored to enable it to carry out the requirements of subsection (c)(7).”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “or designated” and “or designating”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “At least one member of the Advisory Panel shall be an individual employed by and representing a minority-serving institution.”; | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: “At least one member of the Advisory Panel shall be an individual employed by and representing a minority-serving institution.”; | the bill names no machine-readable US Code section |
 | — | amend | by amending section 5 to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 2(b)(5) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501(b)(5)) is amended to read as follows: | the bill names no machine-readable US Code section |
