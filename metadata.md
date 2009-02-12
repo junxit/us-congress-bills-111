@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 35
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 35
@@ -16,7 +16,7 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (69)
+## Cosponsors (109)
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
@@ -87,13 +87,65 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - Rep. Teague, Harry [D-NM-2] (T000466)
 - Rep. McMahon, Michael E. [D-NY-13] (M001174)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2009-02-12 — [House 111-1-65](votes/house-111-1-0065.md) — On Motion to Suspend the Rules and Agree — **Passed** (424–0)
 
 ## Actions
 
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Referred to the House Committee on the Judiciary.
+- 2009-02-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-02-10 — Considered under suspension of the rules. (consideration: CR H1111-1116)
+- 2009-02-10 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 35.
+- 2009-02-10 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
+- 2009-02-12 — Considered as unfinished business. (consideration: CR H1262-1263)
+- 2009-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 65). (text: CR H1111-1112)
+- 2009-02-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 65).(text: CR H1111-1112)
