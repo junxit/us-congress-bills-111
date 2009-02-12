@@ -1,0 +1,141 @@
+---
+measure: H.Con.Res. 49
+congress: 111
+version: Introduced in House
+---
+
+# H.Con.Res. 49
+
+Supporting the Local Radio Freedom Act.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Green, Gene [D-TX-29] (G000410)
+
+## Cosponsors (111)
+
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Bright, Bobby [D-AL-2] (B001264)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Griffith, Parker [D-AL-5] (G000557)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Lee, Christopher J. [R-NY-26] (L000568)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2009-02-12 — Introduced in House
+- 2009-02-12 — Introduced in House
+- 2009-02-12 — Referred to the House Committee on the Judiciary.
