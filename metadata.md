@@ -1,7 +1,7 @@
 ---
 measure: H.R. 631
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 631
@@ -20,9 +20,10 @@ Water Use Efficiency and Conservation Research Act
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Water Use Efficiency and Conservation Research Act
 - 2009-02-11 — Mr. Gordon (TN) moved to suspend the rules and pass the bill.
 - 2009-02-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1188-1189)
 - 2009-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1188-1189)
+- 2009-02-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
