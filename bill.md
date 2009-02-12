@@ -2,12 +2,12 @@
 legis-num: H. RES. 117
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 117
 
-> Supporting the goals and ideals of National Engineeers Week, and for other purposes.
+> Supporting the goals and ideals of National Engineers Week, and for other purposes.
 
 ## Preamble
 
