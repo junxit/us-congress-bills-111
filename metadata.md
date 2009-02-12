@@ -1,7 +1,7 @@
 ---
 measure: H.R. 448
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 448
@@ -24,9 +24,10 @@ Elder Abuse Victims Act of 2009
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Elder Abuse Victims Act of 2009
 - 2009-02-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 62). (text: CR 2/10/2009 H1120-1122)
 - 2009-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 62).(text: CR 2/10/2009 H1120-1122)
+- 2009-02-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
