@@ -1,7 +1,7 @@
 ---
 measure: S. 234
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 234
@@ -33,3 +33,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2009-02-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-02-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
+- 2009-02-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2254; text as passed Senate: CR S2254)
+- 2009-02-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2254; text as passed Senate: CR S2254)
