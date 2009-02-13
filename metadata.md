@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 47
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 47
@@ -29,3 +29,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2009-02-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 181, 1 Present (Roll no. 60). (text: CR H1195)
 - 2009-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 181, 1 Present (Roll no. 60).(text: CR H1195)
 - 2009-02-11 — Received in the Senate.
+- 2009-02-13 — Message on Senate action sent to the House.
+- 2009-02-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2347; text as passed Senated: CR S2347)
+- 2009-02-13 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2347; text as passed Senated: CR S2347)
