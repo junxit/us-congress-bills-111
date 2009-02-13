@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 35
 congress: 111
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 35
@@ -149,3 +149,6 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2009-02-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-02-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 65). (text: CR H1111-1112)
 - 2009-02-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 65).(text: CR H1111-1112)
+- 2009-02-13 — Message on Senate action sent to the House.
+- 2009-02-13 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2347)
+- 2009-02-13 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2347)
