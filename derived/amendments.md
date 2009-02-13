@@ -1,0 +1,53 @@
+---
+measure: H.R. 1076
+congress: 111
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 1076 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+20 amendatory instructions. 0 executed, 20 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | add-at-end | Chapter 95 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 95 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 95 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 95 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “1466A (relating to obscene visual representation of the abuse of children),” before “section 1708”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “1960A (relating to financial facilitation of access to child pornography), 1960B (relating to Internet facilitation of child pornography and exploitation of children),” before “section 2113”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “2260A (relating to increased penalties for registered sex offenders),” before “section 2280”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2703 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “15 years nor more than 30 years” and inserting “20 years or for life”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “not less than 25 years nor more than 50 years,” and all that follows through “not less than 30 years nor more than life.” and inserting “life.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “5 years and not more than 20 years” and inserting “15 years or for life”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “not less than 15 years nor more than 40 years.” and inserting “not less than 30 years or for life.”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or imprisoned not more than 10 years, or both” and inserting “and imprisoned for not less than 3 years nor more than 20 years”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “10 years nor more than 20 years.” and inserting “20 years or for life.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “5 years and not more than 20 years” and inserting “15 years or for life”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “not less than 15 years nor more than 40 years” and inserting “not less than 30 years or for life”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or imprisoned not more than 10 years, or both” and inserting “and imprisoned for not less than 3 years nor more than 20 years”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “10 years nor more than 20 years” and inserting “20 years or for life”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 641 (relating to embezzlement or theft of public money, property, or records,” after “473 (relating to counterfeiting),”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 664 (relating to embezzlement from pension and welfare funds),”. | the bill names no machine-readable US Code section |
