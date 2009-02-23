@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Permanent increase in deposit insurance
 
-- **(a)** *Amendments to Federal Deposit Insurance Act* Effective upon the date of the enactment of this Act, section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is amended—
+- **(a)** *Amendments to Federal Deposit Insurance Act* Effective upon the date of the enactment of this Act, section 11(a) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is amended—
   - **(1)** in paragraph (1)(E), by striking “$100,000” and inserting “$250,000”;
   - **(2)** in paragraph (1)(F)(i), by striking “2010” and inserting “2015”;
   - **(3)** in subclause (I) of paragraph (1)(F)(i), by striking “$100,000” and inserting “$250,000”;
   - **(4)** in subclause (II) of paragraph (1)(F)(i), by striking “the calendar year preceding the date this subparagraph takes effect under the Federal Deposit Insurance Reform Act of 2005” and inserting “calendar year 2008”; and
-  - **(5)** in paragraph (3)(A)(iii), by striking “, except that $250,000 shall be substituted for $100,000 wherever such term appears in such paragraph”.
+  - **(5)** in paragraph (3)(A), by striking “, except that $250,000 shall be substituted for $100,000 wherever such term appears in such paragraph”.
 - **(b)** *Amendment to Federal Credit Union Act* Section 207(k) of the Federal Credit Union Act (12 U.S.C. 1787(k)) is amended—
   - **(1)** in paragraph (3)—
     - **(A)** by striking the opening quotation mark before “$250,000”;
@@ -31,12 +31,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(3)(E)(ii)) is amended by striking “5-year period” and inserting “8-year period”.
 
-## § 3. FDIC borrowing authority
+## § 3. FDIC and NCUA borrowing authority
 
-Section 14(a) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a)) is amended—
-
-- **(1)** by striking “$30,000,000,000” and inserting “$100,000,000,000”; and
-- **(2)** by inserting prior to the last sentence, the following new sentence: “The Corporation may request in writing to borrow, and the Secretary may authorize and approve the borrowing of, additional amounts above $100,000,000,000 to the extent that the Board of Directors and the Secretary determine such borrowing to be necessary.”.
+- **(a)** *FDIC* Section 14(a) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a)) is amended by striking “$30,000,000,000” and inserting “$100,000,000,000”.
+- **(b)** *NCUA* Section 203(d)(1) of the Federal Credit Union Act (12 U.S.C. 1783(d)(1)) is amended by striking “$100,000,000” and inserting “$6,000,000,000”.
 
 ## § 4. Expanding systemic risk special assessments
 
@@ -46,3 +44,14 @@ Section 13(c)(4)(G)(ii) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(
 >   - **(I)** *In general* The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) from 1 or more special assessments on insured depository institutions, depository institution holding companies (with the concurrence of the Secretary of the Treasury with respect to holding companies), or both, as the Corporation determines to be appropriate.
 >   - **(II)** *Treatment of depository institution holding companies* For purposes of this clause, sections 7(c)(2) and 18(h) shall apply to depository institution holding companies as if they were insured depository institutions.
 >   - **(III)** *Regulations* The Corporation shall prescribe such regulations as it deems necessary to implement this clause. In prescribing such regulations, defining terms, and setting the appropriate assessment rate or rates, the Corporation shall establish rates sufficient to cover the losses incurred as a result of the actions of the Corporation under clause (i) and shall consider: the types of entities that benefit from any action taken or assistance provided under this subparagraph; economic conditions, the effects on the industry, and such other factors as the Corporation deems appropriate and relevant to the action taken or the assistance provided. Any funds so collected that exceed actual losses shall be placed in the Deposit Insurance Fund.
+
+## § 5. Establishment of a national credit union share insurance fund restoration plan period
+
+Section 202(c)(2) of the Federal Credit Union Act (12 U.S.C. 1782(c)(2)) is amended by adding at the end the following new subparagraph:
+
+> - **(D)** *Fund restoration plans*
+>   - **(i)** *In general* Whenever—
+>     - **(I)** the Board projects that the equity ratio of the Fund will, within 6 months of such determination, fall below the minimum amount specified in subparagraph (C) for the designated equity ratio; or
+>     - **(II)** the equity ratio of the Fund actually falls below the minimum amount specified in subparagraph (C) for the equity ratio without any determination under sub-clause (I) having been made,
+>   - **(ii)** *Requirements of restoration plan* A Share Insurance Fund restoration plan meets the requirements of this clause if the plan provides that the equity ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (C) for the designated equity ratio before the end of the 5-year period beginning upon the implementation of the plan (or such longer period as the Board may determine to be necessary due to extraordinary circumstances).
+>   - **(iii)** *Transparency* Not more than 30 days after the Board establishes and implements a restoration plan under clause (i), the Board shall publish in the Federal Register a detailed analysis of the factors considered and the basis for the actions taken with regard to the plan.
