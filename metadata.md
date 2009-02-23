@@ -1,0 +1,70 @@
+---
+measure: H.R. 1139
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 1139
+
+COPS Improvements Act of 2009
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+
+## Cosponsors (40)
+
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2009-02-23 — Introduced in House
+- 2009-02-23 — Introduced in House
+- 2009-02-23 — Referred to the House Committee on the Judiciary.
