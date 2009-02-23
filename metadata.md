@@ -1,7 +1,7 @@
 ---
 measure: H.R. 44
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 44
@@ -16,7 +16,7 @@ Guam World War II Loyalty Recognition Act
 
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Cosponsors (83)
+## Cosponsors (88)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -101,13 +101,31 @@ Guam World War II Loyalty Recognition Act
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 
 ## Committees (1)
 
 - House — Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2009-02-23 — [House 111-1-73](votes/house-111-1-0073.md) — On Motion to Suspend the Rules and Pass — **Passed** (299–99)
 
 ## Actions
 
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Referred to the House Committee on Natural Resources.
+- 2009-02-04 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-02-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-02-23 — Considered as unfinished business. (consideration: CR H1635-1636)
+- 2009-02-23 — Considered under suspension of the rules. (consideration: CR H1610-1616)
+- 2009-02-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 44.
+- 2009-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-02-23 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 299 - 99 (Roll no. 73). (text: CR H1610-1612)
+- 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 299 - 99 (Roll no. 73).(text: CR H1610-1612)

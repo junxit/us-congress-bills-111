@@ -11,24 +11,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Guam World War II Loyalty Recognition Act”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+- **(a)** *Short Title* This Act may be cited as the “Guam World War II Loyalty Recognition Act”.
+- **(b)** *Table of Contents* The table of contents of this Act is as follows:
 
 ## § 2. Recognition of the suffering and loyalty of the residents of Guam
 
-- **(a)** *Recognition of the suffering of the residents of Guam* The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjected to death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
-- **(b)** *Recognition of the loyalty of the residents of Guam* The United States forever will be grateful to the residents of Guam for their steadfast loyalty to the United States of America, as demonstrated by the countless acts of courage they performed despite the threat of death or great bodily harm they faced at the hands of the Imperial Japanese military forces that occupied Guam during World War II.
+- **(a)** *Recognition of the Suffering of the Residents of Guam* The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjected to death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
+- **(b)** *Recognition of the Loyalty of the Residents of Guam* The United States forever will be grateful to the residents of Guam for their steadfast loyalty to the United States of America, as demonstrated by the countless acts of courage they performed despite the threat of death or great bodily harm they faced at the hands of the Imperial Japanese military forces that occupied Guam during World War II.
 
 ## § 3. Payments for Guam World War II claims
 
-- **(a)** *Payments for death, personal injury, forced labor, forced march, and internment* Subject to section 6(a), after receipt of certification pursuant to section 4(b)(8) and in accordance with the provisions of this Act, the Secretary of the Treasury shall make payments as follows:
+- **(a)** *Payments for Death, Personal Injury, Forced Labor, Forced March, and Internment* Subject to section 6(a), after receipt of certification pursuant to section 4(b)(8) and in accordance with the provisions of this Act, the Secretary of the Treasury shall make payments as follows:
   - **(1)** *Residents injured* The Secretary shall pay compensable Guam victims who are not deceased before any payments are made to individuals described in paragraphs (2) and (3) as follows:
     - **(A)** If the victim has suffered an injury described in subsection (c)(2)(A), $15,000.
     - **(B)** If the victim is not described in subparagraph (A) but has suffered an injury described in subsection (c)(2)(B), $12,000.
     - **(C)** If the victim is not described in subparagraph (A) or (B) but has suffered an injury described in subsection (c)(2)(C), $10,000.
   - **(2)** *Survivors of residents who died in war* In the case of a compensable Guam decedent, the Secretary shall pay $25,000 for distribution to eligible survivors of the decedent as specified in subsection (b). The Secretary shall make payments under this paragraph after payments are made under paragraph (1) and before payments are made under paragraph (3).
   - **(3)** *Survivors of deceased injured residents* In the case of a compensable Guam victim who is deceased, the Secretary shall pay $7,000 for distribution to eligible survivors of the victim as specified in subsection (b). The Secretary shall make payments under this paragraph after payments are made under paragraphs (1) and (2).
-- **(b)** *Distribution of survivor payments* Payments under paragraph (2) or (3) of subsection (a) to eligible survivors of an individual who is a compensable Guam decedent or a compensable Guam victim who is deceased shall be made as follows:
+- **(b)** *Distribution of Survivor Payments* Payments under paragraph (2) or (3) of subsection (a) to eligible survivors of an individual who is a compensable Guam decedent or a compensable Guam victim who is deceased shall be made as follows:
   - **(1)** If there is living a spouse of the individual, but no child of the individual, all of the payment shall be made to such spouse.
   - **(2)** If there is living a spouse of the individual and one or more children of the individual, one-half of the payment shall be made to the spouse and the other half to the child (or to the children in equal shares).
   - **(3)** If there is no living spouse of the individual, but there are one or more children of the individual alive, all of the payment shall be made to such child (or to such children in equal shares).
@@ -46,8 +46,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Authority of Foreign Claims Settlement Commission*
   - **(1)** *In general* The Foreign Claims Settlement Commission is authorized to adjudicate claims and determine eligibility for payments under section 3.
-  - **(2)** *Rules and Regulations* The chairman of the Foreign Claims Settlement Commission shall prescribe such rules and regulations as may be necessary to enable it to carry out its functions under this Act. Such rules and regulations shall be published in the Federal Register.
-- **(b)** *Claims submitted for payments*
+  - **(2)** *Rules and regulations* The chairman of the Foreign Claims Settlement Commission shall prescribe such rules and regulations as may be necessary to enable it to carry out its functions under this Act. Such rules and regulations shall be published in the Federal Register.
+- **(b)** *Claims Submitted for Payments*
   - **(1)** *Submittal of claim* For purposes of subsection (a)(1) and subject to paragraph (2), the Foreign Claims Settlement Commission may not determine an individual is eligible for a payment under section 3 unless the individual submits to the Commission a claim in such manner and form and containing such information as the Commission specifies.
   - **(2)** *Filing period for claims and notice* All claims for a payment under section 3 shall be filed within one year after the Foreign Claims Settlement Commission publishes public notice of the filing period in the Federal Register. The Foreign Claims Settlement Commission shall provide for the notice required under the previous sentence not later than 180 days after the date of the enactment of this Act. In addition, the Commission shall cause to be publicized the public notice of the deadline for filing claims in newspaper, radio, and television media on Guam.
   - **(3)** *Adjudicatory decisions* The decision of the Foreign Claims Settlement Commission on each claim shall be by majority vote, shall be in writing, and shall state the reasons for the approval or denial of the claim. If approved, the decision shall also state the amount of the payment awarded and the distribution, if any, to be made of the payment.
@@ -67,5 +67,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 6. Authorization of appropriations
 
-- **(a)** *Guam World War II claims payments and adjudication* For purposes of carrying out sections 3 and 4, there are authorized to be appropriated $126,000,000, to remain available for obligation until September 30, 2013, to the Foreign Claims Settlement Commission. Not more than 5 percent of funds made available under this subsection shall be used for administrative costs.
-- **(b)** *Guam World War II grants program* For purposes of carrying out section 5, there are authorized to be appropriated $5,000,000, to remain available for obligation until September 30, 2013.
+- **(a)** *Guam World War II Claims Payments and Adjudication* For purposes of carrying out sections 3 and 4, there are authorized to be appropriated $126,000,000, to remain available for obligation until September 30, 2013, to the Foreign Claims Settlement Commission. Not more than 5 percent of funds made available under this subsection shall be used for administrative costs.
+- **(b)** *Guam World War II Grants Program* For purposes of carrying out section 5, there are authorized to be appropriated $5,000,000, to remain available for obligation until September 30, 2013.
