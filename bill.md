@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 1110
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1110
+
+> To amend title 18, United States Code, to prevent caller ID spoofing, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Preventing Harassment through Outbound Number Enforcement Act of 2009” or the “PHONE Act of 2009”.
+
+## § 2. Caller ID spoofing
+
+- **(a)** *In general* Chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 1041. Caller ID spoofing
+  >
+  > - **(a)** *Offense* Whoever, in or affecting interstate or foreign commerce, knowingly uses or provides to another—
+  >   - **(1)** false caller ID information with intent wrongfully to obtain anything of value; or
+  >   - **(2)** caller ID information pertaining to an actual person or other entity without that person’s or entity’s consent and with intent to deceive any person or other entity about the identity of the caller;
+  > - **(b)** *Punishment* Whoever violates subsection (a) shall—
+  >   - **(1)** if the offense is a violation of subsection (a)(1), be fined under this title or imprisoned not more than 5 years, or both; and
+  >   - **(2)** if the offense is a violation of subsection (a)(2), be fined under this title or imprisoned not more than one year, or both.
+  > - **(c)** *Law enforcement exception* This section does not prohibit lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
+  > - **(d)** *Forfeiture*
+  >   - **(1)** *In general* The court, in imposing sentence on a person who is convicted of an offense under this section, shall order that the defendant forfeit to the United States—
+  >     - **(A)** any property, real or personal, constituting or traceable to gross proceeds obtained from such offense; and
+  >     - **(B)** any equipment, software or other technology used or intended to be used to commit or to facilitate the commission of such offense.
+  >   - **(2)** *Procedures* The procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section, and in Rule 32.2 of the Federal Rules of Criminal Procedure, shall apply to all stages of a criminal forfeiture proceeding under this section.
+  > - **(e)** *Definitions* In this section—
+  >   - **(1)** the term “caller ID information” means any identifying information regarding the origination of a telephone call, including the name or the telephone number of the caller, that is transmitted with the telephone call;
+  >   - **(2)** the term “telephone call” means a call made using or received on a telecommunications service or VOIP service;
+  >   - **(3)** the term “telecommunications service” means the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used;
+  >   - **(4)** the term “VOIP service” means a service that—
+  >     - **(A)** provides real-time or near real-time voice communications transmitted using Internet Protocol, or a successor protocol;
+  >     - **(B)** is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and
+  >     - **(C)** has the capability to originate traffic to, or terminate traffic from, the public switched telephone network or a successor network; and
+  >   - **(5)** the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item:
+
+## § 3. Other specified unlawful activities for money laundering
+
+Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1040 (relating to caller ID spoofing),” before “section 1111”.
