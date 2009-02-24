@@ -19,7 +19,7 @@ Section 2(g) of the Lacey Act Amendments of 1981 (16 U.S.C. 3371(g)) is amended 
 
 ## § 3. Captive wildlife amendments
 
-- **(a)** *Prohibited acts* Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
+- **(a)** *Prohibited Acts* Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (2)—
       - **(i)** in subparagraph (A), by inserting “or” after the semicolon;
@@ -74,8 +74,8 @@ Section 2(g) of the Lacey Act Amendments of 1981 (16 U.S.C. 3371(g)) is amended 
   - **(2)** in paragraph (1), by inserting “, (e),” after “subsection (d)”.
 - **(c)** *Criminal Penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
   - **(1)** in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by inserting “(e),” after “subsections (b), (d),” each place it appears; and
-  - **(2)** in paragraph (3), by inserting “, (e),” after “subsection (d)” .
-- **(d)** *Effective date; regulations*
+  - **(2)** in paragraph (3), by inserting “, (e),” after “subsection (d)”.
+- **(d)** *Effective Date; Regulations*
   - **(1)** *Effective date* Subsections (a) through (c) shall take effect on the earlier of—
     - **(A)** the date of the issuance of regulations under paragraph (2); or
     - **(B)** the expiration of the period referred to in paragraph (2).

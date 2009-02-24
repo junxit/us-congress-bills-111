@@ -1,7 +1,7 @@
 ---
 measure: H.R. 80
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -50,7 +50,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (1), by inserting “(e),” after “subsections (b), (d),” ; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “, (e),” after “subsection (d)”. | the bill names no machine-readable US Code section |
 | — | insert | in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by inserting “(e),” after “subsections (b), (d),” each place it appears; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (3), by inserting “, (e),” after “subsection (d)” . | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “, (e),” after “subsection (d)”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “(a) In General.—Section 3” and inserting “Section 3”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7(a) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
