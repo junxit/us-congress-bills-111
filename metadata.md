@@ -1,7 +1,7 @@
 ---
 measure: H.R. 603
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 603
@@ -21,9 +21,10 @@ Utah National Guard Readiness Act
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Utah National Guard Readiness Act
 - 2009-02-23 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1627)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1627)
+- 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
