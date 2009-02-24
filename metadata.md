@@ -1,7 +1,7 @@
 ---
 measure: H.R. 44
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 44
@@ -107,9 +107,10 @@ Guam World War II Loyalty Recognition Act
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -129,3 +130,4 @@ Guam World War II Loyalty Recognition Act
 - 2009-02-23 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 299 - 99 (Roll no. 73). (text: CR H1610-1612)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 299 - 99 (Roll no. 73).(text: CR H1610-1612)
+- 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
