@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 601
@@ -16,9 +16,10 @@ Box Elder Utah Land Conveyance Act
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -38,3 +39,4 @@ Box Elder Utah Land Conveyance Act
 - 2009-02-23 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 1 (Roll no. 74). (text: CR H1626-1627)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 1 (Roll no. 74).(text: CR H1626-1627)
+- 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
