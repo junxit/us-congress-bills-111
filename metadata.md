@@ -1,7 +1,7 @@
 ---
 measure: H.R. 911
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 911
@@ -42,9 +42,10 @@ Stop Child Abuse in Residential Programs for Teens Act of 2009
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Stop Child Abuse in Residential Programs for Teens Act of 2009
 - 2009-02-23 — Mrs. McCarthy (NY) moved to suspend the rules and pass the bill.
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 102 (Roll no. 72). (text: CR H1629-1632)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 102 (Roll no. 72).(text: CR H1629-1632)
+- 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
