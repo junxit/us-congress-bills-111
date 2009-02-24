@@ -19,39 +19,54 @@ Section 109 of title 11, United States Code, is amended—
 
 - **(1)** by adding at the end of subsection (e) the following:
   > For purposes of this subsection, the computation of debts shall not include the secured or unsecured portions of—
-  > - **(1)** debts secured by the debtor’s principal residence if the current value of that residence is less than the secured debt limit; or
+  > - **(1)** debts secured by the debtor’s principal residence if the current value of such residence is less than the secured debt limit; or
   > - **(2)** debts secured or formerly secured by real property that was the debtor’s principal residence that was sold in foreclosure or that the debtor surrendered to the creditor if the current value of such real property is less than the secured debt limit.
 
 - **(2)** by adding at the end of subsection (h) the following:
   > - **(5)** The requirements of paragraph (1) shall not apply in a case under chapter 13 with respect to a debtor who submits to the court a certification that the debtor has received notice that the holder of a claim secured by the debtor's principal residence may commence a foreclosure on the debtor's principal residence.
 
-## § 3. Prohibiting claims arising from violations of consumer protection laws
+## § 3. Prohibiting claims arising from violations of the Truth in Lending Act
 
 Section 502(b) of title 11, United States Code, is amended—
 
 - **(1)** in paragraph (8) by striking “or” at the end,
 - **(2)** in paragraph (9) by striking the period at the end and inserting “; or”, and
 - **(3)** by adding at the end the following:
-  > - **(10)** the claim is subject to any remedy for damages or rescission due to failure to comply with any applicable requirement under the Truth in Lending Act, or any other provision of applicable State or Federal consumer protection law that was in force when the noncompliance took place, notwithstanding the prior entry of a foreclosure judgment.
+  > - **(10)** the claim for a loan secured by a security interest in the debtor’s principal residence is subject to a remedy for rescission under the Truth in Lending Act notwithstanding the prior entry of a foreclosure judgment, except that nothing in this paragraph shall be construed to modify, impair, or supersede any other right of the debtor.
 
 ## § 4. Authority to modify certain mortgages
 
-Section 1322(b) of title 11, United States Code, is amended—
+Section 1322 of title 11, United States Code, is amended—
 
-- **(1)** by redesignating paragraph (11) as paragraph (12),
-- **(2)** in paragraph (10) by striking “and” at the end, and
-- **(3)** by inserting after paragraph (10) the following:
-  > - **(11)** notwithstanding paragraph (2) and otherwise applicable nonbankruptcy law, with respect to a claim for a loan secured by a security interest in the debtor’s principal residence that is the subject of a notice that a foreclosure may be commenced, modify the rights of the holder of such claim—
-  >   - **(A)** by providing for payment of the amount of the allowed secured claim as determined under section 506(a)(1);
-  >   - **(B)** if any applicable rate of interest is adjustable under the terms of such security interest by prohibiting, reducing, or delaying adjustments to such rate of interest applicable on and after the date of filing of the plan;
-  >   - **(C)** by modifying the terms and conditions of such loan—
-  >     - **(i)** to extend the repayment period for a period that is no longer than the longer of 40 years (reduced by the period for which such loan has been outstanding) or the remaining term of such loan, beginning on the date of the order for relief under this chapter; and
-  >     - **(ii)** to provide for the payment of interest accruing after the date of the order for relief under this chapter at an annual percentage rate calculated at a fixed annual percentage rate, in an amount equal to the then most recently published annual yield on conventional mortgages published by the Board of Governors of the Federal Reserve System, as of the applicable time set forth in the rules of the Board, plus a reasonable premium for risk; and
-  >   - **(D)** by providing for payments of such modified loan directly to the holder of the claim; and
+- **(1)** in subsection (b)—
+  - **(A)** by redesignating paragraph (11) as paragraph (12),
+  - **(B)** in paragraph (10) by striking “and” at the end, and
+  - **(C)** by inserting after paragraph (10) the following:
+    > - **(11)** notwithstanding paragraph (2) and otherwise applicable nonbankruptcy law, with respect to a claim for a loan originated before the effective date of this paragraph and secured by a security interest in the debtor’s principal residence that is the subject of a notice that a foreclosure may be commenced with respect to such loan, modify the rights of the holder of such claim (and the rights of the holder of any claim secured by a subordinate security interest in such residence)—
+    >   - **(A)** by providing for payment of the amount of the allowed secured claim as determined under section 506(a)(1);
+    >   - **(B)** if any applicable rate of interest is adjustable under the terms of such security interest by prohibiting, reducing, or delaying adjustments to such rate of interest applicable on and after the date of filing of the plan;
+    >   - **(C)** by modifying the terms and conditions of such loan—
+    >     - **(i)** to extend the repayment period for a period that is no longer than the longer of 40 years (reduced by the period for which such loan has been outstanding) or the remaining term of such loan, beginning on the date of the order for relief under this chapter; and
+    >     - **(ii)** to provide for the payment of interest accruing after the date of the order for relief under this chapter at a fixed annual rate equal to the currently applicable average prime offer rate as of the date of the order for relief under this chapter, corresponding to the repayment term determined under the preceding paragraph, as published by the Federal Financial Institutions Examination Council in its table entitled “Average Prime Offer Rates—Fixed”, plus a reasonable premium for risk; and
+    >   - **(D)** by providing for payments of such modified loan directly to the holder of the claim; and
+
+- **(2)** by adding at the end the following:
+  > - **(g)** A claim may be reduced under subsection (b)(11)(A) only on the condition that if the debtor sells the principal residence securing such claim, before receiving a discharge under this chapter and receives net proceeds from the sale of such residence, then the debtor agrees to pay to such holder—
+  >   - **(1)** if such residence is sold in the 1st year occurring after the effective date of the plan, 80 percent of the amount of the difference between the sales price and the amount of such claim (plus costs of sale and improvements), but not to exceed the amount of the allowed secured claim determined as if such claim had not been reduced under such subsection;
+  >   - **(2)** if such residence is sold in the 2d year occurring after the effective date of the plan, 60 percent of the amount of the difference between the sales price and the amount of such claim (plus costs of sale and improvements), but not to exceed the amount of the allowed secured claim determined as if such claim had not been reduced under such subsection;
+  >   - **(3)** if such residence is sold in the 3d year occurring after the effective date of the plan, 40 percent of the amount of the difference between the sales price and the amount of such claim (plus costs of sale and improvements), but not to exceed the amount of the allowed secured claim determined as if such claim had not been reduced under such subsection; and
+  >   - **(4)** if such residence is sold in the 4th year occurring after the effective date of the plan, 20 percent of the amount of the difference between the sales price and the amount of such claim (plus costs of sale and improvements), but not to exceed the amount of the allowed secured claim determined as if such claim had not been reduced under such subsection.
+  > - **(h)** With respect to a claim of the kind described in subsection (b)(11), the plan may not contain a modification under the authority of subsection (b)(11)—
+  >   - **(1)** in a case commenced under this chapter after the expiration of the 15-day period beginning on the effective date of this subsection, unless—
+  >     - **(A)** the debtor certifies that the debtor attempted, not less than 15 days before the commencement of the case, to contact the holder of such claim (or the entity collecting payments on behalf of such holder) regarding modification of the loan that is the subject of such claim; or
+  >     - **(B)** a foreclosure sale is scheduled to occur on a date in the 30-day period beginning on the date the case is commenced; and
+  >   - **(2)** in any other case pending under this chapter, unless the debtor certifies that the debtor attempted to contact the holder of such claim (or the entity collecting payments on behalf of such holder) regarding modification of the loan that is the subject of such claim, before—
+  >     - **(A)** filing a plan under section 1321 that contains a modification under the authority of subsection (b)(11); or
+  >     - **(B)** modifying a plan under section 1323 or 1329 to contain a modification under the authority of subsection (b)(11).
 
 ## § 5. Combating excessive fees
 
-Section 1322(c) of title 11, the United States Code, is amended—
+Section 1322(c) of title 11, United States Code, is amended—
 
 - **(1)** in paragraph (1) by striking “and” at the end,
 - **(2)** in paragraph (2) by striking the period at the end and inserting a semicolon, and
@@ -68,26 +83,30 @@ Section 1322(c) of title 11, the United States Code, is amended—
 
 ## § 6. Confirmation of plan
 
-Section 1325(a) of title 11, the United States Code, is amended—
+Section 1325(a) of title 11, United States Code, is amended—
 
 - **(1)** in paragraph (8) by striking “and” at the end,
 - **(2)** in paragraph (9) by striking the period at the end and inserting a semicolon, and
 - **(3)** by inserting after paragraph (9) the following:
-  > - **(10)** notwithstanding subclause (I) of paragraph (5)(B)(i), the plan provides that the holder of a claim whose rights are modified pursuant to section 1322(b)(11) retain the lien until the later of—
+  > - **(10)** notwithstanding subclause (I) of paragraph (5)(B)(i), whenever the plan modifies a claim in accordance with section 1322(b)(11), the plan provides that the holder of such claim retain the lien until the later of—
   >   - **(A)** the payment of such holder’s allowed secured claim; or
   >   - **(B)** discharge under section 1328; and
-  > - **(11)** the plan modifies a claim in accordance with section 1322(b)(11), and the court finds that such modification is in good faith.
+  > - **(11)** whenever the plan modifies a claim in accordance with section 1322(b)(11), the court finds that such modification is in good faith and that the debtor did not obtain the extension, renewal, or refinancing of credit that gives rise to a modified claim by the debtor’s material misrepresentation, false pretenses, or actual fraud.
 
 ## § 7. Discharge
 
-Section 1328 of title 11, the United States Code, is amended—
+Section 1328 of title 11, United States Code, is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by inserting “(other than payments to holders of claims whose rights are modified under section 1322(b)(11)” after “paid” the first place it appears, and
+  - **(A)** by inserting “(other than payments to holders of claims whose rights are modified under section 1322(b)(11))” after “paid”, and
   - **(B)** in paragraph (1) by inserting “or, to the extent of the unpaid portion of an allowed secured claim, provided for in section 1322(b)(11)” after “1322(b)(5)”, and
 - **(2)** in subsection (c)(1) by inserting “or, to the extent of the unpaid portion of an allowed secured claim, provided for in section 1322(b)(11)” after “1322(b)(5)”.
 
-## § 8. Effective date; application of amendments
+## § 8. Rule of construction
+
+Nothing in this Act or the amendments made by this Act shall be construed to modify any obligation of the Federal Housing Administration, the Veterans Administration, or the Department of Agriculture under a contract that guarantees or insures the payment of any part of a loan secured by a security interest in a principal residence.
+
+## § 9. Effective date; application of amendments
 
 - **(a)** *Effective date* Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act.
 - **(b)** *Application of amendments* The amendments made by this Act shall apply with respect to cases commenced under title 11 of the United States Code before, on, or after the date of the enactment of this Act.
