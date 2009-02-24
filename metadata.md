@@ -1,7 +1,7 @@
 ---
 measure: H.R. 714
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 714
@@ -16,9 +16,10 @@ To authorize the Secretary of the Interior to lease certain lands in Virgin Isla
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To authorize the Secretary of the Interior to lease certain lands in Virgin Isla
 - 2009-02-23 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1622)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1622)
+- 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

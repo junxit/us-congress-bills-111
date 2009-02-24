@@ -2,7 +2,7 @@
 legis-num: H.R. 714
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 714
@@ -12,10 +12,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Caneel Bay lease authorization
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Park* The term “Park” means the Virgin Islands National Park.
-  - **(2)** *Resort* The term “resort” means the Caneel Bay resort on the island of St. John in the Park.
-  - **(3)** *Retained use estate* The term “retained use estate” means the retained use estate for the Caneel Bay property on the island of St. John entered into between the Jackson Hole Preserve and the United States on September 30, 1983.
-  - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+  - **(1)** *Park* The term Park means the Virgin Islands National Park.
+  - **(2)** *Resort* The term resort means the Caneel Bay resort on the island of St. John in the Park.
+  - **(3)** *Retained use estate* The term retained use estate means the retained use estate for the Caneel Bay property on the island of St. John entered into between the Jackson Hole Preserve and the United States on September 30, 1983.
+  - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(b)** *Lease authorization*
   - **(1)** *In general* If the Secretary determines that the long-term benefit to the Park would be greater by entering into a lease with the owner of the retained use estate than by authorizing a concession contract upon the termination of the retained use estate, the Secretary may enter into a lease for the operation and management of the resort.
   - **(2)** *Acquisitions* The Secretary may—
