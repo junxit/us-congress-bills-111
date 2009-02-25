@@ -1,7 +1,7 @@
 ---
 measure: H.R. 637
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 637
@@ -16,9 +16,10 @@ South Orange County Recycled Water Enhancement Act
 
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -38,3 +39,4 @@ South Orange County Recycled Water Enhancement Act
 - 2009-02-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 77). (text: CR 2/23/2009 H1623)
 - 2009-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 77).(text: CR 2/23/2009 H1623)
+- 2009-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
