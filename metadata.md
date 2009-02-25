@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 183
 congress: 111
-version: Introduced in House
+version: Reference Change House
 ---
 
 # H.Res. 183
@@ -40,12 +40,22 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-02-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Arcuri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-02-25 — Committee on Oversight and Government discharged. (consideration: CR H2806)
+- 2009-02-25 — Committee on Oversight and Government discharged.(consideration: CR H2806)
+- 2009-02-25 — Considered under suspension of the rules. (consideration: CR H2806-2808)
+- 2009-02-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 183.
+- 2009-02-25 — DISCHARGE AND RE-REFERRAL OF H.RES. 183 - Mr. Arcuri asked unanimous consent that the Committee on Oversight and Government Reform be discharged from further consideration of H.Res. 183, and that the resolution be re-referred to the Committee on Transportation and Infrastructure.
+- 2009-02-25 — Mr. Arcuri moved to suspend the rules and agree to the resolution.
+- 2009-02-25 — Referred to the Subcommittee on Aviation.
+- 2009-02-25 — Rereferred to the House Committee on Transportation and Infrastructure.
