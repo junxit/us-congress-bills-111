@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 58
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 58
@@ -36,3 +36,7 @@ A resolution designating the week of March 1 through March 8, 2009, as "School S
 
 - 2009-02-26 — Introduced in Senate
 - 2009-02-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2573)
+- 2009-02-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2595-2596)
+- 2009-02-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2595-2596)
+- 2009-02-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2595-2596)
+- 2009-02-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2595-2596)
