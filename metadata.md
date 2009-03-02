@@ -1,7 +1,7 @@
 ---
 measure: S. 387
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 387
@@ -16,9 +16,10 @@ A bill to designate the United States courthouse located at 211 South Court Stre
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -29,3 +30,7 @@ A bill to designate the United States courthouse located at 211 South Court Stre
 - 2009-02-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2575)
 - 2009-02-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2574-2575)
 - 2009-02-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S2574-2575)
+- 2009-02-27 — Message on Senate action sent to the House.
+- 2009-02-27 — Message on Senate action sent to the House.
+- 2009-03-02 — Received in the House.
+- 2009-03-02 — Referred to the House Committee on Transportation and Infrastructure.
