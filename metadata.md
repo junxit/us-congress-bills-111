@@ -1,7 +1,7 @@
 ---
 measure: S. 473
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 473
@@ -16,7 +16,7 @@ Senator Paul Simon Study Abroad Foundation Act of 2009
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (19)
+## Cosponsors (24)
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
@@ -37,13 +37,22 @@ Senator Paul Simon Study Abroad Foundation Act of 2009
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
 - 2009-02-25 — Introduced in Senate
 - 2009-02-25 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2480-2483)
 - 2009-02-25 — Sponsor introductory remarks on measure. (CR S2479-2480)
+- 2009-03-02 — Referred to the Committee on Foreign Relations.
+- 2009-03-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2009-03-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
