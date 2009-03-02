@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Shark Conservation Act of 2009”.
 
-## § 2. Amendment of High Seas Driftnet Fishing Moratorium Protection Act
+## § 2. Amendment of high seas driftnet fishing moratorium protection act
 
 Section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(a)) is amended—
 
@@ -30,7 +30,7 @@ Section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U
   >   - **(A)** fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices that target or incidentally catch sharks; and
   >   - **(B)** the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
 
-## § 3. Amendment of Magnuson-Stevens Fishery Conservation and Management Act
+## § 3. Amendment of magnuson-stevens fishery conservation and management act
 
 Section 307(1) of Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)) is amended—
 
@@ -42,3 +42,4 @@ Section 307(1) of Magnuson-Stevens Fishery Conservation and Management Act (16 U
   >   - **(iv)** to land any such fin that is not naturally attached to the corresponding carcass, or to land any shark carcass without such fins naturally attached;
 
 - **(2)** by striking the matter following subparagraph (R) and inserting the following:
+  > For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) and that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P).
