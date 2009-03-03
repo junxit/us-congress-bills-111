@@ -1,7 +1,7 @@
 ---
 measure: H.R. 326
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 326
@@ -16,9 +16,10 @@ Cocopah Lands Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Cocopah Lands Act
 - 2009-03-02 — Mr. Holt moved to suspend the rules and pass the bill.
 - 2009-03-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2878-2879)
 - 2009-03-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2878-2879)
+- 2009-03-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
