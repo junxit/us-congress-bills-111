@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 9
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 9
@@ -25,8 +25,15 @@ A concurrent resolution supporting the goals and ideals of Multiple Sclerosis Aw
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
 ## Actions
 
 - 2009-03-02 — Introduced in Senate
 - 2009-03-02 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2644-2645; text as passed: CR S2644-2645; text of measure as introduced: CR S2641-2642)
 - 2009-03-02 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2644-2645; text as passed: CR S2644-2645; text of measure as introduced: CR S2641-2642)
+- 2009-03-03 — Message on Senate action sent to the House.
+- 2009-03-03 — Received in the House.
+- 2009-03-03 — Referred to the House Committee on Energy and Commerce.
