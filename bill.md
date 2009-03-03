@@ -1,0 +1,107 @@
+---
+legis-num: H.R. 1285
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1285
+
+> To establish the Commission on the Foreclosure and Mortgage Lending Crisis.
+
+## § 1. Short title
+
+This Act may be cited as the “Commission on the Foreclosure and Mortgage Lending Crisis Act”.
+
+## § 2. Establishment of Commission
+
+There is established in the legislative branch a commission to be known as the “Commission on the Foreclosure and Mortgage Lending Crisis” (in this Act referred to as the “Commission”).
+
+## § 3. Findings and Purpose
+
+- **(a)** *Findings* Congress finds the following:
+  - **(1)** The United States is experiencing a steady increase in foreclosures and mortgage lending problems that have impacted homeowners, families, communities, the United States economy and the global credit markets.
+  - **(2)** In 2006, there were an estimated 1,300,000 foreclosures in the United States.
+  - **(3)** This number increased by 79 percent in 2007, bringing the estimated number of foreclosures nationwide to 2,200,000.
+  - **(4)** In 2008, an estimated 3,200,000 foreclosures were reported nationwide.
+  - **(5)** Estimates suggest that this trend is likely to continue with millions more Americans potentially losing their homes to foreclosure in the next 4 years.
+- **(b)** *Purpose* The purpose of this Act is to establish a commission to undertake a comprehensive analysis and review of the causes of the current foreclosure and mortgage lending crisis and to submit a report of its findings to the Congress. The Commission shall also recommend legislative and regulatory changes that will prohibit the kinds of lending practices that contributed to the increased foreclosure rate and the current mortgage lending crisis.
+
+## § 4. Composition
+
+- **(a)** *Members* The Commission shall be composed of 10 members as follows:
+  - **(1)** 2 members shall be appointed by the Speaker of the House of Representatives.
+  - **(2)** 2 members shall be appointed by the minority leader of the House of Representatives.
+  - **(3)** 2 members shall be appointed by the majority leader of the Senate.
+  - **(4)** 2 members shall be appointed by the minority leader of the Senate.
+  - **(5)** The Secretary of the Treasury or his designee.
+  - **(6)** The Chairman of the Board of Governors of the Federal Reserve System or his designee.
+- **(b)** *Deadline for appointment* All members of the Commission shall be appointed not later than 30 days after the date of the enactment of this Act.
+- **(c)** *Co-Chairmen* Of the members appointed to the Commission under paragraphs (1) through (4) of subsection (a), 2 shall be designated as the Co-Chairmen of the Commission. One Co-Chairman shall be designated by the Speaker of the House of Representatives in consultation with the majority leader of the Senate and the other Co-Chairman shall be designated by the minority leader of the House of Representatives in consultation with the minority leader of the Senate.
+- **(d)** *Vacancies* Any vacancy in the Commission shall not affect its powers and shall be filled in the same manner in which the original appointment was made.
+- **(e)** *Compensation*
+  - **(1)** *In general* Members of the Commission shall serve without pay.
+  - **(2)** *Travel Expenses* While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5, United States Code.
+- **(f)** *Initial Meeting; Rules of Procedure; Quorum*
+  - **(1)** *Initial meeting* The Commission shall meet and begin the operations of the Commission not later than 60 days after the date of the enactment of this Act.
+  - **(2)** *Meetings* After its initial meeting, the Commission shall meet upon the call of a majority of its members.
+  - **(3)** *Quorum* A majority of the members of the Commission shall constitute a quorum.
+  - **(4)** *Rules of Procedure* The Commission may establish rules for the conduct of the Commission’s business, if such rules are consistent with this Act and other applicable law.
+
+## § 5. Duties
+
+- **(a)** *In general* The Commission shall—
+  - **(1)** study and assess the current legal and regulatory framework governing the housing mortgage lending markets and investigate how such framework contributed to the increased foreclosure rate, including—
+    - **(A)** refinancing practices;
+    - **(B)** loan-to-value ratios; and
+    - **(C)** the prevalence of fraudulent industry practices;
+  - **(2)** recommend changes to the current legal and regulatory framework to prohibit lending practices that have contributed to the mortgage lending crisis;
+  - **(3)** review the impact of subprime abuses and predatory lending practices;
+  - **(4)** assess the role of States in enacting policies to reduce predatory lending practices and abuses in the subprime markets;
+  - **(5)** assess the impact of mortgage-backed securities and the Federal National Mortgage Corporation (“Fannie Mae”) and the Federal Home Loan Mortgage Corporation (“Freddie Mac”) on the mortgage lending crisis; and
+  - **(6)** assess the impact of the Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.) on the mortgage lending crisis.
+- **(b)** *Final Report* Not later than 12 months after the date of enactment of this Act, the Commission shall submit to the Congress a final report containing such findings, conclusions, and recommendations as have been agreed to by a majority of Commission members. If, at the conclusion of such 12-month period, a majority of the Commission determines it necessary, the Commission may be granted a 6-month extension for submission of its final report upon written notification to the Congress.
+
+## § 6. Powers of the Commission
+
+- **(a)** *Hearings and evidence* The Commission may, for the purpose of carrying out this Act—
+  - **(1)** hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths; and
+  - **(2)** subject to subsection (b)(1), subpoena or otherwise require the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents as the Commission may determine advisable.
+- **(b)** *Subpoenas*
+  - **(1)** *Issuance*
+    - **(A)** *In general* A subpoena may be issued under this section only by the affirmative vote of a majority of the members of the Commission.
+    - **(B)** *Signature* Subject to subparagraph (A), subpoenas issued under this section may be issued under the signature of the Co-Chairmen or any member designated by a majority of the Commission, may be served by any person designated by the Co-Chairmen or by a member designated by a majority of the Commission.
+  - **(2)** *Enforcement*
+    - **(A)** *In general* In the case of contumacy or failure to obey a subpoena issued under paragraph (1), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+    - **(B)** *Additional enforcement* In the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section, the Commission may, by majority vote, certify a statement of fact constituting such failure to the appropriate United States attorney, who may bring the matter before the grand jury for its action, under the same statutory authority and procedures as if the United States attorney had received as certification under section 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192 through 194).
+- **(c)** *Contract authority* The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to carry out its duties under this Act.
+- **(d)** *Information From Federal Agencies*
+  - **(1)** *In general* The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics to carry out its duties under this Act. Each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by a majority of the members of the Commission.
+  - **(2)** *Receipt, handling, storage, and dissemination* Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
+- **(e)** *Assistance From Federal Agencies*
+  - **(1)** *General services administration* The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services to assist the Commission in carrying out its duties.
+  - **(2)** *Other departments and agencies* In addition to the assistance described in paragraph (1), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as they may determine advisable and as may be authorized by law.
+- **(f)** *Postal Services* The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+- **(g)** *Staff*
+  - **(1)** *In General*
+    - **(A)** *Appointment and compensation* The Co-Chairmen, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level IV of the Executive Schedule under section 5316 of title 5, United States Code.
+    - **(B)** *Personnel as Federal employees*
+      - **(i)** *In general* The staff director and any personnel of the Commission who are employees shall be employees under section 2105 of title 5, United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+      - **(ii)** *Members of the Commission* Clause (i) shall not apply to members of the Commission.
+  - **(2)** *Detailees* Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+  - **(3)** *Expert and Consultant Services* The Commission is authorized to procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid to a person occupying a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+  - **(4)** *Volunteer Services* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+## § 7. Nonapplicability of Federal Advisory Committee Act
+
+- **(a)** *In General* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+- **(b)** *Public Meetings and Release of Public Versions of Reports* The Commission shall—
+  - **(1)** hold public hearings and meetings to the extent appropriate; and
+  - **(2)** release public versions of the report required under section 5(b).
+- **(c)** *Public Hearings* Any public hearings of the Commission shall be conducted in a manner consistent with the protection of information provided to or developed for or by the Commission as required by any applicable statute, regulations, or Executive order.
+
+## § 8. Termination
+
+- **(a)** *In general* The Commission and all the authorities of this Act, shall terminate not later than 60 days after the date on which the final report is submitted under section 5(b).
+- **(b)** *Administrative activities before termination* The Commission may use the 60-day period referred to in subsection (a) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its report and disseminating the final report.
+- **(c)** *Authorization of appropriation* There are authorized to be appropriated such sums as necessary to carry out this Act.
