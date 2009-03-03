@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 12
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 12
@@ -27,8 +27,15 @@ A joint resolution proclaiming Casimir Pulaski to be an honorary citizen of the 
 - Sen. Burris, Roland [D-IL] (B001266)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2009-03-02 — Introduced in Senate
 - 2009-03-02 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S2645-2646; text as passed: CR S2645-2646)
 - 2009-03-02 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR S2645-2646; text as passed: CR S2645-2646)
+- 2009-03-03 — Message on Senate action sent to the House.
+- 2009-03-03 — Received in the House.
+- 2009-03-03 — Referred to the House Committee on the Judiciary.
