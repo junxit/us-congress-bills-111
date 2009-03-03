@@ -36,4 +36,9 @@ The purpose of this Act is to assist citizens, public and private institutions, 
 - **(c)** *Nonprofit partners* An eligible entity may acquire an interest in an eligible site using a grant under this section in partnership with a nonprofit organization.
 - **(d)** *Non-Federal share* The non-Federal share of the total cost of acquiring an interest in an eligible site under this section shall be not less than 50 percent.
 - **(e)** *Limitation on land use* An interest in an eligible site acquired under this section shall be subject to section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8(f)(3)).
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to provide grants under this section $10,000,000 for each of fiscal years 2009 through 2013.
+- **(f)** *Willing sellers* Acquisitions of land and interests in land under this Act shall be limited to acquisitions, from willing sellers only, of conservation easements and fee-simple purchases of eligible sites.
+- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to provide grants under this section $10,000,000 for each of fiscal years 2009 through 2013.
+
+## § 5. Repeal
+
+This Act shall be repealed on September 30, 2019.
