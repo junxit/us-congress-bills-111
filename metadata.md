@@ -1,7 +1,7 @@
 ---
 measure: H.R. 844
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 844
@@ -16,9 +16,10 @@ Marine Mammal Rescue Assistance Amendments of 2009
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Marine Mammal Rescue Assistance Amendments of 2009
 - 2009-03-02 — Mr. Holt moved to suspend the rules and pass the bill.
 - 2009-03-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2883-2884)
 - 2009-03-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2883-2884)
+- 2009-03-03 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

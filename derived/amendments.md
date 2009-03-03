@@ -1,7 +1,7 @@
 ---
 measure: H.R. 844
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -41,7 +41,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 408(a)(2)(B)(i) of such Act (16 U.S.C. 1421f–1(a)(2)(B)(i)) is amended by striking “section 410(6)” and inserting “section 410(7)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “$5,000,000 for each of fiscal years 2001 through 2003” and inserting “$7,000,000 for each of fiscal years 2010 through 2013”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “$4,000,000” and inserting “$6,000,000”. | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end of subsection (a)(1) the following: “All funds available to implement this section shall be distributed to eligible stranding network participants for the purposes set forth in this paragraph and paragraph (2), excep… | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end of subsection (a)(1) the following: “All funds available to implement this section shall be distributed to eligible stranding network participants for the purposes set forth in this paragraph and paragraph (2), excep… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (f) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (a) by redesignating paragraph (2) as paragraph (3), and by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (d) by inserting “(1)” before the text, and by adding at the end the following: | the bill names no machine-readable US Code section |
