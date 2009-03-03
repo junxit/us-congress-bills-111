@@ -2,7 +2,7 @@
 legis-num: H. RES. 91
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 91
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas Dr. William Spoelhof was born on December 8, 1909, in Paterson, New Jersey, and passed away on December 3, 2008, at the age of 98;
 - Whereas in 1931, Dr. Spoelhof graduated from Calvin College in Grand Rapids, Michigan, and began teaching social studies at the middle school level;
-- Whereas in 1937, Dr. Spoelhof received his Master of Arts degree from Columbia University and began his doctoral studies at the University of Michigan;
+- Whereas in 1937, Dr. Spoelhof received a Master of Arts degree and began his doctoral studies at the University of Michigan;
 - Whereas during World War II, Dr. Spoelhof served our country by joining the Office of Strategic Services in 1942 and enlisting in the Navy in 1943;
 - Whereas following the war, Dr. Spoelhof completed his doctoral work at the University of Michigan, and, in 1946, returned to Calvin College to teach history and political science;
 - Whereas in 1956, 5 years after becoming president of Calvin College, Dr. Spoelhof oversaw the process of moving Calvin College from its original Franklin Street campus located near downtown Grand Rapids to its current Knollcrest campus in southeast Grand Rapids;
