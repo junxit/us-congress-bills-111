@@ -1,7 +1,7 @@
 ---
 measure: H.R. 548
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 548
@@ -35,9 +35,10 @@ Civil War Battlefield Preservation Act of 2009
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Civil War Battlefield Preservation Act of 2009
 - 2009-03-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 92). (text: CR 3/2/2009 H2882)
 - 2009-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 92).(text: CR 3/2/2009 H2882)
+- 2009-03-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
