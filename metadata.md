@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 153
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 153
@@ -16,7 +16,7 @@ Commending the University of Southern California Trojan football team for its vi
 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 
-## Cosponsors (26)
+## Cosponsors (29)
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
@@ -44,13 +44,28 @@ Commending the University of Southern California Trojan football team for its vi
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Campbell, John [R-CA-48] (C001064)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2009-03-05 — [House 111-1-106](votes/house-111-1-0106.md) — On Motion to Suspend the Rules and Agree — **Passed** (362–15)
 
 ## Actions
 
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Referred to the House Committee on Education and Labor.
+- 2009-03-03 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Polis (CO) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-03-03 — Considered under suspension of the rules. (consideration: CR H2897-2898)
+- 2009-03-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 153.
+- 2009-03-03 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution.
+- 2009-03-05 — Considered as unfinished business. (consideration: CR H3025-3026)
+- 2009-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-05 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 362 - 15, 4 Present (Roll no. 106). (text: CR 3/3/2009 H2897)
+- 2009-03-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 362 - 15, 4 Present (Roll no. 106).(text: CR 3/3/2009 H2897)
