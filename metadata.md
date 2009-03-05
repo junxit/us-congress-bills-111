@@ -1,7 +1,7 @@
 ---
 measure: H.R. 146
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 146
@@ -52,3 +52,5 @@ Omnibus Public Land Management Act of 2009
 - 2009-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 13 (Roll no. 91). (text: CR 3/02/2009 H2880-2881)
 - 2009-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 13 (Roll no. 91).(text: CR 3/02/2009 H2880-2881)
 - 2009-03-03 — The title of the measure was amended. Agreed to without objection.
+- 2009-03-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-03-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.
