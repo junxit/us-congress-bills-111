@@ -1,7 +1,7 @@
 ---
 measure: S. 520
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 520
@@ -16,8 +16,15 @@ A bill to designate the United States courthouse under construction at 327 South
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
 ## Actions
 
 - 2009-03-03 — Introduced in Senate
 - 2009-03-03 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2721;text as passed Senate: CR S2721; text of measure as introduced: CR S2716)
 - 2009-03-03 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2721;text as passed Senate: CR S2721; text of measure as introduced: CR S2716)
+- 2009-03-05 — Message on Senate action sent to the House.
+- 2009-03-05 — Received in the House.
+- 2009-03-05 — Referred to the House Committee on Transportation and Infrastructure.
