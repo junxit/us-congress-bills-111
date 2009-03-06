@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 14
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 14
@@ -134,9 +134,10 @@ Supporting the goals and ideals of Multiple Sclerosis Awareness Week.
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -156,3 +157,4 @@ Supporting the goals and ideals of Multiple Sclerosis Awareness Week.
 - 2009-03-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-05 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 99). (text: CR 3/4/2009 H2938)
 - 2009-03-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 99).(text: CR 3/4/2009 H2938)
+- 2009-03-06 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
