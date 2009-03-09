@@ -41,19 +41,18 @@ The Commission shall—
 - **(e)** *Vacancies* A vacancy on the Commission shall—
   - **(1)** not affect the powers of the Commission; and
   - **(2)** be filled in the manner in which the original appointment was made.
-- **(f)** *Rates of Pay* Members shall serve without pay.
+- **(f)** *Rates of Pay* Members shall not receive compensation for the performance of their duties on behalf of the Commission.
 - **(g)** *Travel Expenses* Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or his or her regular place of business, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
-- **(h)** *Quorum* A majority of the members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+- **(h)** *Quorum* A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
 - **(i)** *Chairperson* The chairperson of the Commission shall be elected by a majority vote of the members of the Commission.
 
 ## § 5. Director And Staff Of Commission
 
-- **(a)** *Director* The Commission may appoint an executive director. The executive director may be paid at a rate not to exceed the maximum rate of basic pay for GS–15 of the General Schedule.
-- **(b)** *Staff* The Commission may appoint and fix the pay of additional personnel as it considers appropriate except that an individual so appointed may not receive pay in excess of the maximum rate of basic pay for GS–13 of the General Schedule.
-- **(c)** *Applicability of Certain Civil Service Laws* The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except as provided in subsections (a) and (b).
-- **(d)** *Detail of Federal Employees* Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
-- **(e)** *Experts and Consultants* The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–14 of the General Schedule.
-- **(f)** *Volunteer and Uncompensated Services* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+- **(a)** *Director and staff* The Commission shall appoint an executive director and such other additional personnel as are necessary to enable the Commission to perform its duties.
+- **(b)** *Applicability of Certain Civil Service Laws* The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+- **(c)** *Detail of Federal Employees* Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
+- **(d)** *Experts and Consultants* The Commission may procure such temporary and intermittent services as are necessary to enable the Commission to perform its duties.
+- **(e)** *Volunteer and Uncompensated Services* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
 ## § 6. Powers Of Commission
 
@@ -62,7 +61,7 @@ The Commission shall—
 - **(c)** *Obtaining Official Data* The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon request of the chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
 - **(d)** *Gifts, Bequests, Devises* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
 - **(e)** *Available Space* Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
-- **(f)** *Contract Authority* To the extent or in the amounts provided in advance in appropriations Acts, the Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).
+- **(f)** *Contract Authority* The Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act.
 
 ## § 7. Reports
 
@@ -75,9 +74,12 @@ The Commission shall—
 
 ## § 8. Termination
 
-- **(a)** *In General* The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than May 30, 2011.
-- **(b)** *FACA Nonapplicability* Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App. 2) shall not apply to the Commission.
+The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than May 30, 2011.
 
 ## § 9. Annual audit
 
-For any fiscal year for which the Commission receives an appropriation of funds, the Inspector General of the Department of the Interior shall perform an audit of the Commission, shall make the results of the audit available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+## § 10. Prohibition on obligation of Federal funds
+
+No Federal funds may be obligated to carry out this Act.
