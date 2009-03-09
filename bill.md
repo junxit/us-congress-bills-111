@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas United States citizen Robert Levinson is a retired agent of the Federal Bureau of Investigation, a resident of Florida, the husband of Christine Levinson, and father of their 7 children;
 - Whereas Robert Levinson traveled from Dubai to Kish Island, Iran, on March 8, 2007;
-- Whereas, after traveling to Kish Island and checking into the Hotel Maryam, he disappeared on March 9, 2007;
+- Whereas after traveling to Kish Island and checking into the Hotel Maryam, he disappeared on March 9, 2007;
 - Whereas neither his family nor the United States Government has received further information on his fate or whereabouts;
 - Whereas March 9, 2009, marks the second anniversary of the disappearance of Robert Levinson;
 - Whereas the Government of Switzerland, which has served as Protecting Power for the United States in the Islamic Republic of Iran in the absence of diplomatic relations between the United States Government and the Government of Iran since 1980, has continuously pressed the Government of Iran on the case of Robert Levinson and lent vital assistance and support to the Levinson family during their December 2007 visit to Iran;
