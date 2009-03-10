@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 10
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 10
@@ -24,8 +24,15 @@ A concurrent resolution congratulating the Sailors of the United States Submarin
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
+## Committees (1)
+
+- House — Armed Services Committee
+
 ## Actions
 
 - 2009-03-09 — Introduced in Senate
 - 2009-03-09 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2916-2917; text as passed Senate: CR S2917; text of measure as introduced: CR S2914)
 - 2009-03-09 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2916-2917; text as passed Senate: CR S2917; text of measure as introduced: CR S2914)
+- 2009-03-10 — Message on Senate action sent to the House.
+- 2009-03-10 — Received in the House.
+- 2009-03-10 — Referred to the House Committee on Armed Services.
