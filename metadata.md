@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 38
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 38
@@ -37,3 +37,14 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-02-05 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-02-12 — Committee Consideration and Mark-up Session Held.
+- 2009-02-12 — Ordered to be Reported by Voice Vote.
+- 2009-02-12 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-03-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Edwards (MD) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-03-10 — Considered under suspension of the rules. (consideration: CR H3122-3123)
+- 2009-03-10 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 38.
+- 2009-03-10 — Ms. Edwards (MD) moved to suspend the rules and agree to the resolution.
+- 2009-03-10 — Placed on the House Calendar, Calendar No. 23.
+- 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-33.
+- 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-33.
