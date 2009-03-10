@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 4
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 4
@@ -37,9 +37,10 @@ A concurrent resolution calling on the President and the allies of the United St
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ A concurrent resolution calling on the President and the allies of the United St
 - 2009-03-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2916)
 - 2009-03-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2915-2916)
 - 2009-03-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2915-2916)
+- 2009-03-10 — Message on Senate action sent to the House.
+- 2009-03-10 — Received in the House.
+- 2009-03-10 — Referred to the House Committee on Foreign Affairs.
