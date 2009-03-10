@@ -1,7 +1,7 @@
 ---
 measure: H.R. 813
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 813
@@ -35,8 +35,27 @@ To designate the Federal building and United States courthouse located at 306 Ea
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2009-03-10 — [House 111-1-114](votes/house-111-1-0114.md) — On Motion to Suspend the Rules and Pass — **Passed** (427–0)
+
 ## Actions
 
 - 2009-02-03 — Introduced in House
 - 2009-02-03 — Introduced in House
 - 2009-02-03 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-02-04 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-02-12 — Committee Consideration and Mark-up Session Held.
+- 2009-02-12 — Ordered to be Reported by Voice Vote.
+- 2009-02-12 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-03-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-10 — Considered as unfinished business. (consideration: CR H3126)
+- 2009-03-10 — Considered under suspension of the rules. (consideration: CR H3114-3115)
+- 2009-03-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 813.
+- 2009-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-10 — Ms. Edwards (MD) moved to suspend the rules and pass the bill.
+- 2009-03-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 114). (text: CR H3114)
+- 2009-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 114).(text: CR H3114)
+- 2009-03-10 — Placed on the House Calendar, Calendar No. 17.
+- 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-27.
+- 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-27.
