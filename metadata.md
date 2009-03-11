@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 303
@@ -30,3 +30,7 @@ Federal Financial Assistance Management Improvement Act of 2009
 - 2009-01-22 — Introduced in Senate
 - 2009-01-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S789-790)
 - 2009-01-22 — Sponsor introductory remarks on measure. (CR S789)
+- 2009-02-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-03-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-7.
+- 2009-03-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-7.
+- 2009-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
