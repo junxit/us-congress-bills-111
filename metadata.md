@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1106
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1106
@@ -43,11 +43,12 @@ Helping Families Save Their Homes Act of 2009
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Veterans' Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -127,3 +128,5 @@ Helping Families Save Their Homes Act of 2009
 - 2009-03-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1106.
 - 2009-03-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3023)
 - 2009-03-05 — The previous question was ordered pursuant to the rule. (consideration: CR H3023)
+- 2009-03-09 — Received in the Senate.
+- 2009-03-11 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
