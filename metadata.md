@@ -1,7 +1,7 @@
 ---
 measure: H.R. 887
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 887
@@ -23,9 +23,10 @@ To designate the United States courthouse located at 131 East 4th Street in Dave
 - Rep. King, Steve [R-IA-5] (K000362)
 - Rep. Latham, Tom [R-IA-4] (L000111)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the United States courthouse located at 131 East 4th Street in Dave
 - 2009-03-10 — Placed on the House Calendar, Calendar No. 21.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-31.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-31.
+- 2009-03-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
