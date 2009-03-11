@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 39
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 39
@@ -28,9 +28,10 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2009-03-10 — Placed on the House Calendar, Calendar No. 24.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-34.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-34.
+- 2009-03-11 — Received in the Senate and referred to the Committee on Rules and Administration.
