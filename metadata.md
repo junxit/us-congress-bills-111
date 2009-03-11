@@ -1,7 +1,7 @@
 ---
 measure: H.R. 837
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 837
@@ -16,9 +16,10 @@ To designate the Federal building located at 799 United Nations Plaza in New Yor
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the Federal building located at 799 United Nations Plaza in New Yor
 - 2009-03-10 — Placed on the House Calendar, Calendar No. 18.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-28.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-28.
+- 2009-03-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
