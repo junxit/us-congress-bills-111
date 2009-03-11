@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 64
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 64
@@ -16,7 +16,7 @@ Urging the President to designate 2009 as the "Year of the Military Family".
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Cosponsors (49)
+## Cosponsors (62)
 
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
@@ -67,13 +67,38 @@ Urging the President to designate 2009 as the "Year of the Military Family".
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2009-03-11 — [House 111-1-119](votes/house-111-1-0119.md) — On Motion to Suspend the Rules and Agree — **Passed** (422–0)
 
 ## Actions
 
 - 2009-02-26 — Introduced in House
 - 2009-02-26 — Introduced in House
 - 2009-02-26 — Referred to the House Committee on Armed Services.
+- 2009-03-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-11 — Considered as unfinished business. (consideration: CR H3315-3316)
+- 2009-03-11 — Considered under suspension of the rules. (consideration: CR H3297-3300)
+- 2009-03-11 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 64.
+- 2009-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-11 — Mr. Skelton moved to suspend the rules and agree to the resolution.
+- 2009-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 119). (text: CR H3297)
+- 2009-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 119).(text: CR H3297)
