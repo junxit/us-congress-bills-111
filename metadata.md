@@ -1,7 +1,7 @@
 ---
 measure: H.R. 842
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 842
@@ -16,9 +16,10 @@ To designate the United States Courthouse to be constructed in Jackson, Mississi
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To designate the United States Courthouse to be constructed in Jackson, Mississi
 - 2009-03-10 — Placed on the House Calendar, Calendar No. 19.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-29.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-29.
+- 2009-03-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
