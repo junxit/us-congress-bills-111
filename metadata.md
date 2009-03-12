@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 38
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 38
@@ -58,3 +58,8 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2009-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118). (text: CR 3/10/2009 H3122)
 - 2009-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118).(text: CR 3/10/2009 H3122)
 - 2009-03-12 — Received in the Senate and referred to the Committee on Rules and Administration.
+- 2009-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2009-05-12 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2009-05-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S5394)
+- 2009-05-12 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S5394)
+- 2009-05-13 — Message on Senate action sent to the House.
