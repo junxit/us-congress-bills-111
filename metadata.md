@@ -1,0 +1,38 @@
+---
+measure: H.R. 1474
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 1474
+
+Servicemembers Access to Justice Act of 2009
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Davis, Artur [D-AL-7] (D000602)
+
+## Cosponsors (3)
+
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+
+## Committees (3)
+
+- House — Armed Services Committee
+- House — Veterans' Affairs Committee
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2009-03-12 — Introduced in House
+- 2009-03-12 — Introduced in House
+- 2009-03-12 — Referred to House Armed Services
+- 2009-03-12 — Referred to House Oversight and Government Reform
+- 2009-03-12 — Referred to House Veterans' Affairs
+- 2009-03-12 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
