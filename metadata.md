@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 64
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 64
@@ -81,9 +81,10 @@ Urging the President to designate 2009 as the "Year of the Military Family".
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -102,3 +103,4 @@ Urging the President to designate 2009 as the "Year of the Military Family".
 - 2009-03-11 — Mr. Skelton moved to suspend the rules and agree to the resolution.
 - 2009-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 119). (text: CR H3297)
 - 2009-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 119).(text: CR H3297)
+- 2009-03-12 — Received in the Senate and referred to the Committee on the Judiciary.
