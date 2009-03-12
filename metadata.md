@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 38
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 38
@@ -28,9 +28,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2009-03-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118). (text: CR 3/10/2009 H3122)
 - 2009-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118).(text: CR 3/10/2009 H3122)
+- 2009-03-12 — Received in the Senate and referred to the Committee on Rules and Administration.
