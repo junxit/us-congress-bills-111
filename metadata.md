@@ -1,7 +1,7 @@
 ---
 measure: H.R. 80
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 80
@@ -46,9 +46,10 @@ Captive Primate Safety Act
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,5 @@ Captive Primate Safety Act
 - 2009-02-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-02-24 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 323 - 95 (Roll no. 76). (text: CR 2/23/2009 H1617)
 - 2009-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 323 - 95 (Roll no. 76).(text: CR 2/23/2009 H1617)
+- 2009-02-25 — Received in the Senate.
+- 2009-03-12 — Read twice and referred to the Committee on Environment and Public Works.
