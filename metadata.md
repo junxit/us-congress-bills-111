@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1127
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1127
@@ -32,3 +32,7 @@ To extend certain immigration programs.
 - 2009-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2942)
 - 2009-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2942)
 - 2009-03-05 — Received in the Senate, read twice.
+- 2009-03-11 — Cleared for White House.
+- 2009-03-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3033)
+- 2009-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3033)
+- 2009-03-12 — Message on Senate action sent to the House.
