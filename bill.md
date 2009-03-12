@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 1487
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1487
+
+> To amend the Electronic Fund Transfer Act to require notice to the consumer before any fee may be imposed by a financial institution in connection with any transaction for any overdraft protection service provided with respect to such transaction, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Overdraft Fee Notification Act”.
+
+## § 2. Notification of overdraft fee
+
+- **(a)** *In general* Section 905 of the Electronic Fund Transfer Act (15 U.S.C. 1693c) is amended by adding at the end the following new subsection:
+  > - **(d)** *Notification of overdraft fee for in-person, automated, telephonic, and internet-based transactions*
+  >   - **(1)** *In general* In the case of any financial institution that provides any overdraft protection service to any consumer on a flat, per-transaction basis in connection with a withdrawal from or debit of the consumer’s account at the financial institution in a transaction described in paragraph (2) that would result in an overdraft of such consumer account, no fee or charge may be imposed for such overdraft protection service unless the notice required by this subsection has been provided to the consumer, in the manner required under this subsection, before the completion of the transaction that would result in an overdraft.
+  >   - **(2)** *Scope of application* Paragraph (1) shall apply to any withdrawal from or debit of a consumer’s account at a financial institution in a transaction initiated by the consumer as an electronic fund transfer or in person at a branch of the financial institution staffed by employees of the financial institution.
+  >   - **(3)** *Automated teller machine transactions* In the case of any electronic fund transfer initiated by a consumer at any automated teller machine, whether or not such machine is maintained by the financial institution that holds the account of the consumer initiating the transaction, the following disclosure rules shall apply:
+  >     - **(A)** *Balance requests*
+  >       - **(i)** *In general* In the case of a request by the consumer at the automated teller machine for balance information, the display provided on the machine shall provide such information in a manner that differentiates between—
+  >         - **(I)** the funds available in the account that are attributable to deposits by or on behalf of the consumer; and
+  >         - **(II)** funds available to the customer from the institution in connection with an overdraft protection service.
+  >       - **(ii)** *Overdraft protection service fee amount* On the same screen of the automated teller machine referred to in clause (i), the display shall provide information on any fee that would be imposed for the provision of any overdraft protection service provided in connection with the transaction.
+  >     - **(B)** *Withdrawal or transfer* In the case of a request by the consumer at the automated teller machine to initiate an electronic fund transfer that can be completed only if an overdraft protection service is provided to the consumer, the display provided on the machine shall provide the following notice, with the blanks filled in appropriately, and the option for the consumer to accept or decline the service:
+  >   - **(4)** *Automated point of sale transaction* In the case of any electronic fund transfer initiated by a consumer at any automated point-of-sale machine that can be completed only if an overdraft protection service is provided to the consumer for a fee, the following disclosure rules shall apply to the extent a screen operated in conjunction with the machine is available to the consumer for effectuating the transaction:
+  >     - **(A)** *Notice of overdraft* The display provided on the machine shall provide the following notice and the option for the consumer to continue or discontinue the transaction:
+  >     - **(B)** *Notice of fee* If the consumer referred to in subparagraph (A) continues with the transaction, the display provided on the machine shall provide the following notice and the option for the consumer to accept or decline the fee:
+  >   - **(5)** *In-person and telephonic transactions* In the case of any fund transfer or withdrawal initiated by a consumer in person at a branch of the financial institution staffed by employees of the financial institution or verbally over the telephone, the following disclosure requirements shall apply:
+  >     - **(A)** *Balance requests* If, in the course of the transaction, the amount of the balance in the consumer’s account is mentioned or requested, the customer shall be made aware verbally of any distinction between—
+  >       - **(i)** the funds available in the account that are attributable to deposits by or on behalf of the consumer; and
+  >       - **(ii)** funds available to the customer from the institution in connection with an overdraft protection service.
+  >     - **(B)** *Overdraft protection service fee amount* If the consummation of the withdrawal or fund transfer transaction would result in the imposition of an overdraft protection service fee on the account of the consumer, the consumer shall promptly be informed of such fact and the amount of the fee before the transaction is final.
+  >   - **(6)** *Internet and other electronic terminal transactions* In the case of any electronic fund transfer initiated by the consumer at any electronic terminal or computer, other than an automated teller machine or automated point-of-sale machine meeting the requirements of paragraph (3) or (4), that can be completed only if an overdraft protection service is provided to the consumer for a fee, the display provided on the terminal or computer shall provide the following notice and the option for the consumer to accept or decline the fee:
+  >   - **(7)** *Definitions* For purposes of this subsection and section 906(c)(5), the following definitions shall apply:
+  >     - **(A)** *Annual percentage rate* The term “annual percentage rate” means the rate of interest determined in the manner provided in section 108 and regulations prescribed by the Board under such section.
+  >     - **(B)** *Overdraft protection service* The term “overdraft protection service” means any service provided by a financial institution holding the account of any consumer pursuant to which any debit against the account is paid by the financial institution even though there are insufficient funds in the account to cover the amount of the debit, however such payment is accomplished, including through the use of overdraft lines of credit, linked accounts, or any overdraft protection program for which the financial institution has not complied with the disclosure requirements under the Truth in Lending Act and regulations prescribed under such Act.
+
+- **(b)** *Information required in periodic statement* Section 906(c) of the Electronic Fund Transfer Act (15 U.S.C. 1693d(c)) is amended—
+  - **(1)** by striking “and” at the end of paragraph (3);
+  - **(2)** by striking the period at the end of paragraph (4) and inserting “; and”; and
+  - **(3)** by inserting after paragraph (4) the following new paragraph:
+    > - **(5)** with respect to each case in which the financial institution was required to provide notice to a customer under any paragraph of section 905(d) of the imposition of an overdraft fee and the amount of the fee during the period covered by the periodic statement, a written statement of the annual percentage rate which the fee represents with respect to the amount of the overdraft in type no smaller than other required disclosures under this subsection, but not less than 8-point type, and in the following form:
