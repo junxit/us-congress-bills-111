@@ -92,8 +92,8 @@ Section 2516(1)(c) of title 18, United States Code, is amended by inserting “s
 Section 201(c)(1) of title 18, United States Code, is amended—
 
 - **(1)** by striking the matter before subparagraph (A) and inserting “otherwise than as provided by law for the proper discharge of official duty, or by rule or regulation—”;
-- **(2)** in subparagraph (A), by inserting after “, or person selected to be a public official,” the following: “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by such public official, former public official, or person selected to be a public official”; and
-- **(3)** in subparagraph (B), by striking all after “, anything of value personally,” and inserting “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by such official or person;”.
+- **(2)** in subparagraph (A), by inserting after“, or person selected to be a public official,” the following: “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by such public official, former public official, or person selected to be a public official”; and
+- **(3)** in subparagraph (B), by striking all after“, anything of value personally,” and inserting “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by such official or person;”.
 
 ## § 13. Clarification of definition of official Act
 

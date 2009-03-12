@@ -1,7 +1,7 @@
 ---
 measure: S. 49
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 49
@@ -16,9 +16,10 @@ Public Corruption Prosecution Improvements Act
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Public Corruption Prosecution Improvements Act
 - 2009-01-06 — Introduced in Senate
 - 2009-01-06 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S56-58)
 - 2009-01-06 — Sponsor introductory remarks on measure. (CR S56)
+- 2009-03-12 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-03-12 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-03-12 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.
