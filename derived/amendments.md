@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-83 amendatory instructions. 0 executed, 83 stated and not applied.
+86 amendatory instructions. 0 executed, 86 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,10 +42,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the semicolon at the end of paragraph (2) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | strike | in the section heading by striking “Wet weather”; and | the bill names no machine-readable US Code section |
-| — | strike | in the matter preceding paragraph (1) by striking “wet weather discharge”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) by striking “in reducing such pollutants” and all that follows before the period at the end and inserting “to manage, reduce, treat, or reuse municipal stormwater, including low-impact development technologies”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “for treatment works” and inserting “to a municipality or municipal entity”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “wet weather discharge”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “in reducing such pollutants” and all that follows before the period at the end and inserting “to manage, reduce, treat, or reuse municipal stormwater, including low-impact development technologies and other … | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 122(c)(1) is amended by striking “for fiscal year 2004” and inserting “for each of fiscal years 2004 through 2014”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “and”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period and inserting “, such sums as may be necessary for each of fiscal years 2005 through 2009, and $100,000,000 for each of fiscal years 2010 through 2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 122(d) is amended by striking “5 years after the date of enactment of this section,” and inserting “October 1, 2011,”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the section heading and all that follows through “(a) No” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b) by inserting “Population Density.—” after “(b)”; and | the bill names no machine-readable US Code section |
@@ -71,7 +73,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 604(a) (33 U.S.C. 1384(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 604(b) (33 U.S.C. 1384(b)) is amended by striking “1 percent” and inserting “2 percent”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 604 (33 U.S.C. 1384) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -82,7 +84,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 606(d) (33 U.S.C. 1386(d)) is amended by inserting “the eligible purpose under section 603(c) for which the assistance is provided,” after “loan amounts,”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(d) Annual report.—Beginning” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) (as so designated) by striking “loan amounts,” and inserting “loan amounts, the eligible purposes under section 603(c) for which the assistance has been provided,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 607 as section 609; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 606 the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 609 (as redesignated by section 1307 of this Act) is amended by striking paragraphs (1) through (5) and inserting the following: | the bill names no machine-readable US Code section |
@@ -92,7 +96,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 60301 of title 46, United State Code, is amended by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 603 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the heading for subtitle VI and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading for chapter 603, by striking “Taxes” and inserting “Duties”; | the bill names no machine-readable US Code section |
 | — | replace | in the headings of sections in chapter 603, by striking “taxes” each place it appears and inserting “duties”; | the bill names no machine-readable US Code section |
@@ -103,14 +106,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the analysis for subtitle VI by striking the item relating to chapter 603 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to sections 60301 and 60302 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 60304 and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 220(d)(2) (33 U.S.C. 1300(d)(2)) is amended by inserting before the period at the end the following: “or whether the project is located in an area which is served by a public water system serving 10,000 individuals or fewer”. | the bill names no machine-readable US Code section |
 | — | replace | Section 220(j) (33 U.S.C. 1300(j)) is amended by striking “$75,000,000 for fiscal years 2002 through 2004” and inserting “$50,000,000 for each of fiscal years 2010 through 2014”. | the bill names no machine-readable US Code section |
 | — | amend | Section 221(e) (33 U.S.C. 1301(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The first sentence of section 221(f) (33 U.S.C. 1301(f)) is amended by striking “this section $750,000,000” and all that follows through the period at the end and inserting “this section $250,000,000 for fiscal year 2010, $300,000,000 fo… | the bill names no machine-readable US Code section |
+| — | amend | Section 221(f) (33 U.S.C. 1301(f)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 221(g) of such Act (33 U.S.C. 1301(g)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The first sentence of section 221(i) (33 U.S.C. 1301(i)) is amended by striking “2003” and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402 (33 U.S.C. 1342) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 118(c)(12)(H) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(12)(H)) is amended by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 118(c)(13)(B) (33 U.S.C. 1268(c)(13)(B)) is amended by striking “2010” and inserting “2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 106(b) of the Great Lakes Legacy Act of 2002 (33 U.S.C. 1271a(b)) is amended by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 104 (33 U.S.C. 1254) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
