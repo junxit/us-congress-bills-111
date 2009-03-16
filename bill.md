@@ -1,0 +1,53 @@
+---
+legis-num: S. 599
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 599
+
+> To amend chapter 81 of title 5, United States Code, to create a presumption that a disability or death of a Federal employee in fire protection activities caused by any of certain diseases is the result of the performance of such employee’s duty.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Firefighters Fairness Act of 2009”.
+
+## § 2. Certain diseases presumed to be work-related cause of disability or death for Federal employees in fire protection activities
+
+- **(a)** *Definition* Section 8101 of title 5, United States Code, is amended by adding at the end the following:
+  > - **(21)** employee in fire protection activities means a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous material worker, who—
+  >   - **(A)** is trained in fire suppression;
+  >   - **(B)** has the legal authority and responsibility to engage in fire suppression;
+  >   - **(C)** is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk; and
+  >   - **(D)** performs such activities as a primary responsibility of his or her job.
+
+- **(b)** *Presumption relating to employees in fire protection activities* Section 8102 of title 5, United States Code, is amended by adding at the end the following new subsection:
+  > - **(c)**
+  >   - **(1)** With regard to an employee in fire protection activities, a disease specified in paragraph (2) shall be presumed to be proximately caused by the employment of such employee, subject to the length of service requirements specified. The disability or death of an employee in fire protection activities due to such a disease shall be presumed to result from personal injury sustained while in the performance of such employee’s duty. Such presumptions may be rebutted by a preponderance of the evidence.
+  >   - **(2)** The following diseases shall be presumed to be proximately caused by the employment of the employee:
+  >     - **(A)** If the employee has been employed for a minimum of 5 years:
+  >       - **(i)** Heart disease.
+  >       - **(ii)** Lung disease.
+  >       - **(iii)** The following cancers:
+  >         - **(I)** Brain cancer.
+  >         - **(II)** Cancer of the blood or lymphatic systems.
+  >         - **(III)** Leukemia.
+  >         - **(IV)** Lymphoma (except Hodgkin’s disease).
+  >         - **(V)** Multiple myeloma.
+  >         - **(VI)** Bladder cancer.
+  >         - **(VII)** Kidney cancer.
+  >         - **(VIII)** Testicular cancer.
+  >         - **(IX)** Cancer of the digestive system.
+  >         - **(X)** Colon cancer.
+  >         - **(XI)** Liver cancer.
+  >         - **(XII)** Skin cancer.
+  >         - **(XIII)** Lung cancer.
+  >       - **(iv)** Any other cancer the contraction of which the Secretary of Labor determines to be related to the hazards to which an employee in fire protection activities may be subject.
+  >     - **(B)** Regardless of the length of time an employee has been employed, any uncommon infectious disease, including tuberculosis, hepatitis A, B, or C, and the human immunodeficiency virus (HIV), the contraction of which the Secretary of Labor determines to be related to the hazards to which an employee in fire protection activities may be subject.
+
+- **(c)** *Report* Not later than 10 years after the date of enactment of this Act, the National Institute of Occupational Safety and Health in the Centers for Disease Control and Prevention shall examine the implementation of this Act and appropriate scientific and medical data related to the health risks associated with firefighting and submit to Congress a report which shall include—
+  - **(1)** an analysis of the injury claims made under this Act;
+  - **(2)** an analysis of the available research related to the health risks associated with firefighting; and
+  - **(3)** recommendations for any administrative or legislative actions necessary to ensure that those diseases most associated with firefighting are included in the presumption created by this Act.
+- **(d)** *Effective Date* The amendment made by this section applies to an injury that is first diagnosed, or a death that occurs, on or after the date of enactment of this Act.
