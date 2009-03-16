@@ -1,7 +1,7 @@
 ---
 measure: S. 39
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 39
@@ -37,3 +37,16 @@ A bill to repeal section 10(f) of Public Law 93-531, commonly known as the "Benn
 - 2009-03-13 — Message on Senate action sent to the House.
 - 2009-03-16 — Received in the House.
 - 2009-03-16 — Referred to the House Committee on Natural Resources.
+- 2009-04-21 — Cleared for White House.
+- 2009-04-21 — Considered under suspension of the rules. (consideration: CR H4538-4539)
+- 2009-04-21 — DEBATE - The House proceeded with forty minutes of debate on S. 39.
+- 2009-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-21 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2009-04-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4538)
+- 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4538)
+- 2009-04-28 — Presented to President.
+- 2009-04-28 — Presented to President.
+- 2009-05-08 — Became Public Law No: 111-18.
+- 2009-05-08 — Became Public Law No: 111-18.
+- 2009-05-08 — Signed by President.
+- 2009-05-08 — Signed by President.
