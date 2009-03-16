@@ -1,7 +1,7 @@
 ---
 measure: S. 39
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 39
@@ -20,9 +20,10 @@ A bill to repeal section 10(f) of Public Law 93-531, commonly known as the "Benn
 
 - Sen. Kyl, Jon [R-AZ] (K000352)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A bill to repeal section 10(f) of Public Law 93-531, commonly known as the "Benn
 - 2009-03-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3091)
 - 2009-03-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S3091)
 - 2009-03-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S3091)
+- 2009-03-13 — Message on Senate action sent to the House.
+- 2009-03-16 — Received in the House.
+- 2009-03-16 — Referred to the House Committee on Natural Resources.
