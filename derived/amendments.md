@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and (6)” and inserting “(6)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “; and (7) not to exceed $100,000,000 for each of fiscal years 2010 through 2014 for carrying out subsections (b)(3), (b)(8), and (g), except that not less than 20 percent of the a… | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence by striking “$1,000,000” and inserting “$3,000,000”; and | the bill names no machine-readable US Code section |
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “for treatment works” and inserting “to a municipality or municipal entity”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “wet weather discharge”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “in reducing such pollutants” and all that follows before the period at the end and inserting “to manage, reduce, treat, or reuse municipal stormwater, including low-impact development technologies and other … | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “, such sums as may be necessary for each of fiscal years 2005 through 2009, and $100,000,000 for each of fiscal years 2010 through 2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 122(d) is amended by striking “5 years after the date of enactment of this section,” and inserting “October 1, 2011,”. | the bill names no machine-readable US Code section |
@@ -62,18 +62,18 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “201(b)” and all that follows through “513” and inserting “211 and 511(c)(1)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (9); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (10) and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 603(c) (33 U.S.C. 1383(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “20 years” and inserting “the lesser of 30 years or the design life of the project to be financed with the proceeds of the loan”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “not later than 20 years after project completion” and inserting “upon the expiration of the term of the loan”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (C); | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and” at the end of subparagraph (D); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 603(d)(7) (33 U.S.C. 1383(d)(7)) is amended by inserting before the period at the end the following: “, $400,000 per year, or 1/5 percent per year of the current valuation of the fund, whichever amount is greatest, plus the amoun… | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 604(a) (33 U.S.C. 1384(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 604(b) (33 U.S.C. 1384(b)) is amended by striking “1 percent” and inserting “2 percent”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 604 (33 U.S.C. 1384) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -83,10 +83,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “and (6)” and inserting “(6), (15), and (17)”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(d) Annual report.—Beginning” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) (as so designated) by striking “loan amounts,” and inserting “loan amounts, the eligible purposes under section 603(c) for which the assistance has been provided,”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 607 as section 609; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 606 the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 609 (as redesignated by section 1307 of this Act) is amended by striking paragraphs (1) through (5) and inserting the following: | the bill names no machine-readable US Code section |
@@ -94,7 +94,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The Administrator” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and ending before October 1, 2008,” after “1986,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 60301 of title 46, United State Code, is amended by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the heading for subtitle VI and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading for chapter 603, by striking “Taxes” and inserting “Duties”; | the bill names no machine-readable US Code section |

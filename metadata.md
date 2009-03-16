@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1262
@@ -33,9 +33,10 @@ Water Quality Investment Act of 2009
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -145,3 +146,4 @@ Water Quality Investment Act of 2009
 - 2009-03-12 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2009-03-12 — The previous question was ordered pursuant to the rule. (consideration: CR H3375)
 - 2009-03-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debate earlier and on which further proceedings had been postponed.
+- 2009-03-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
