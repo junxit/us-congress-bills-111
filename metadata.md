@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1323
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1323
@@ -29,3 +29,8 @@ Reducing Information Control Designations Act
 - 2009-03-05 — Introduced in House
 - 2009-03-05 — Introduced in House
 - 2009-03-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-10 — Committee Consideration and Mark-up Session Held.
+- 2009-03-10 — Ordered to be Reported by Voice Vote.
+- 2009-03-16 — Placed on the Union Calendar, Calendar No. 11.
+- 2009-03-16 — Reported by the Committee on Oversight and Government. H. Rept. 111-38.
+- 2009-03-16 — Reported by the Committee on Oversight and Government. H. Rept. 111-38.
