@@ -1,7 +1,7 @@
 ---
 measure: S. 338
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 338
@@ -16,9 +16,10 @@ A bill to amend the Omnibus Indian Advancement Act to modify the date as of whic
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -29,3 +30,6 @@ A bill to amend the Omnibus Indian Advancement Act to modify the date as of whic
 - 2009-03-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3091)
 - 2009-03-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S3091)
 - 2009-03-12 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S3091)
+- 2009-03-13 — Message on Senate action sent to the House.
+- 2009-03-16 — Received in the House.
+- 2009-03-16 — Referred to the House Committee on Natural Resources.
