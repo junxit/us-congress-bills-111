@@ -1,7 +1,7 @@
 ---
 measure: H.R. 987
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 987
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 601 8th
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Murtha, John P. [D-PA-12] (M001120)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ To designate the facility of the United States Postal Service located at 601 8th
 - 2009-03-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 125). (text: CR H3404)
 - 2009-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 125).(text: CR H3404)
+- 2009-03-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
