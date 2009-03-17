@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 211
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 211
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Women's History Month.
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Cosponsors (77)
+## Cosponsors (117)
 
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
@@ -95,13 +95,67 @@ Supporting the goals and ideals of National Women's History Month.
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Poe, Ted [R-TX-2] (P000592)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2009-03-17 — [House 111-1-129](votes/house-111-1-0129.md) — On Motion to Suspend the Rules and Agree — **Passed** (418–0)
 
 ## Actions
 
 - 2009-03-05 — Introduced in House
 - 2009-03-05 — Introduced in House
 - 2009-03-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-10 — Committee Consideration and Mark-up Session Held.
+- 2009-03-10 — Ordered to be Reported by Voice Vote.
+- 2009-03-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Clay objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-03-17 — Considered as unfinished business. (consideration: CR H3470-3471)
+- 2009-03-17 — Considered under suspension of the rules. (consideration: CR H3453-3456)
+- 2009-03-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 211.
+- 2009-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-17 — Mr. Clay moved to suspend the rules and agree to the resolution.
+- 2009-03-17 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 129). (text: CR H3453)
+- 2009-03-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 129).(text: CR H3453)
