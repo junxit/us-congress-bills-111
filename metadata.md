@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 303
@@ -16,10 +16,11 @@ Federal Financial Assistance Management Improvement Act of 2009
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ Federal Financial Assistance Management Improvement Act of 2009
 - 2009-03-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-7.
 - 2009-03-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-7.
 - 2009-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
+- 2009-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3318-3319; text as passed Senate: CR S3318-3319)
+- 2009-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3318-3319; text as passed Senate: CR S3318-3319)
