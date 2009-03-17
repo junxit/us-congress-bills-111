@@ -36,9 +36,7 @@ The purpose of this Act is to increase Governmentwide information sharing and th
     - **(E)** Provisions to ensure that the presumption shall be that information control designations are not necessary.
     - **(F)** Methods to ensure that compliance with this Act protects national security and privacy rights.
     - **(G)** The establishment of requirements that Federal agencies, subject to chapter 71 of title 5, United States Code, implement the following:
-      - **(i)** A process whereby an individual may challenge without retribution the application of information control designations by another individual and be rewarded with specific incentives for successful challenges resulting in—
-        - **(I)** the removal of improper information control designations; or
-        - **(II)** the correct application of appropriate information control designations.
+      - **(i)** A process whereby an individual may challenge without retribution the application of information control designations by another individual.
       - **(ii)** A method for informing individuals that repeated failure to comply with the policies, procedures, and programs established under this section could subject them to a series of penalties.
       - **(iii)** Penalties for individuals who repeatedly fail to comply with the policies, procedures, and programs established under this section after having received both notice of their noncompliance and appropriate training or re-training to address such noncompliance.
     - **(H)** Procedures for members of the public to be heard regarding improper applications of information control designations.
