@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 8
@@ -29,3 +29,7 @@ A joint resolution providing for the appointment of David M. Rubenstein as a cit
 
 - 2009-02-10 — Introduced in Senate
 - 2009-02-10 — Read twice and referred to the Committee on Rules and Administration.
+- 2009-03-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S3319-3320)
+- 2009-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3319-3320)
+- 2009-03-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S3319-3320)
+- 2009-03-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S3319-3320)
