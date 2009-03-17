@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1541
-congress: One Hundred Eleventh Congress of the United States of America
-session: At the First Session
-chamber: 
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1541
