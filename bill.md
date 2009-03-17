@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 39
-congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 39
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Authorization of use of Capitol Grounds for DC Special Olympics Law Enforcement Torch Run
 
-On June 5, 2009, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate may jointly des-ignate, the 2009 District of Columbia Special Olympics Law Enforcement Torch Run (in this resolution referred to as the “event”) may be run through the Capitol Grounds as part of the journey of the Special Olympics torch to the District of Columbia Special Olympics summer games.
+On June 5, 2009, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate may jointly designate, the 2009 District of Columbia Special Olympics Law Enforcement Torch Run (in this resolution referred to as the “event”) may be run through the Capitol Grounds as part of the journey of the Special Olympics torch to the District of Columbia Special Olympics summer games.
 
 ## § 2. Responsibility of Capitol Police Board
 
