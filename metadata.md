@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1284
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1284
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 103 Wes
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To designate the facility of the United States Postal Service located at 103 Wes
 - 2009-03-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 127). (text: CR H3409)
 - 2009-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 127).(text: CR H3409)
+- 2009-03-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
