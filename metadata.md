@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1217
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1217
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 15455 M
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 15455 M
 - 2009-03-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 126). (text: CR H3408)
 - 2009-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 126).(text: CR H3408)
+- 2009-03-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
