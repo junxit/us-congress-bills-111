@@ -1,7 +1,7 @@
 ---
 measure: H.R. 955
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 955
@@ -36,3 +36,11 @@ To designate the facility of the United States Postal Service located at 10355 N
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-10 — Committee Consideration and Mark-up Session Held.
+- 2009-03-10 — Ordered to be Reported by Voice Vote.
+- 2009-03-17 — Considered under suspension of the rules. (consideration: CR H3463-3464)
+- 2009-03-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 955.
+- 2009-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-17 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2009-03-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3463)
+- 2009-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3463)
