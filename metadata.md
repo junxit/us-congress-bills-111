@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1512
