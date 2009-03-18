@@ -1,7 +1,7 @@
 ---
 measure: H.R. 955
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 955
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 10355 N
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 10355 N
 - 2009-03-17 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2009-03-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3463)
 - 2009-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3463)
+- 2009-03-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
