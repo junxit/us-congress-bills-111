@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1429
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1429
@@ -38,9 +38,10 @@ Stop AIDS in Prison Act of 2009
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Stop AIDS in Prison Act of 2009
 - 2009-03-17 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2009-03-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3459-3460)
 - 2009-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3459-3460)
+- 2009-03-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
