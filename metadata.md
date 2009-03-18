@@ -1,7 +1,7 @@
 ---
 measure: H.R. 628
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 628
@@ -22,9 +22,10 @@ To establish a pilot program in certain United States district courts to encoura
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ To establish a pilot program in certain United States district courts to encoura
 - 2009-03-17 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
 - 2009-03-17 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 7 (Roll no. 130). (text: CR H3456-3457)
 - 2009-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 7 (Roll no. 130).(text: CR H3456-3457)
+- 2009-03-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
