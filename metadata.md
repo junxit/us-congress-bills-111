@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1541
@@ -40,3 +40,4 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2009-03-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3318)
 - 2009-03-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3318)
 - 2009-03-17 — Referred to the House Committee on Small Business.
+- 2009-03-18 — Message on Senate action sent to the House.
