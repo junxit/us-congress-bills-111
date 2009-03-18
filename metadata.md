@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 8
@@ -37,3 +37,16 @@ A joint resolution providing for the appointment of David M. Rubenstein as a cit
 - 2009-03-18 — Message on Senate action sent to the House.
 - 2009-03-18 — Received in the House.
 - 2009-03-18 — Referred to the House Committee on House Administration.
+- 2009-04-22 — Cleared for White House.
+- 2009-04-22 — Considered under suspension of the rules. (consideration: CR H4602-4603)
+- 2009-04-22 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 8.
+- 2009-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-22 — Mr. Brady (PA) moved to suspend the rules and pass the resolution.
+- 2009-04-22 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H4602)
+- 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H4602)
+- 2009-04-28 — Presented to President.
+- 2009-04-28 — Presented to President.
+- 2009-05-07 — Became Public Law No: 111-17.
+- 2009-05-07 — Became Public Law No: 111-17.
+- 2009-05-07 — Signed by President.
+- 2009-05-07 — Signed by President.
