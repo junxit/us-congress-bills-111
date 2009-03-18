@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 

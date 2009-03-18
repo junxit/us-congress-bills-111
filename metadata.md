@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 303
@@ -22,9 +22,10 @@ Federal Financial Assistance Management Improvement Act of 2009
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ Federal Financial Assistance Management Improvement Act of 2009
 - 2009-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
 - 2009-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3318-3319; text as passed Senate: CR S3318-3319)
 - 2009-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3318-3319; text as passed Senate: CR S3318-3319)
+- 2009-03-18 — Message on Senate action sent to the House.
+- 2009-03-18 — Received in the House.
+- 2009-03-18 — Referred to the House Committee on Oversight and Government Reform.
