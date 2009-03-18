@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-452 amendatory instructions. 0 executed, 452 stated and not applied.
+451 amendatory instructions. 0 executed, 451 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,7 +49,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (23)(B) (as so redesignated), by striking “program in which the participant is enrolled” and inserting “organization receiving assistance under the national service laws through which the participant is enrolled in an approv… | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after paragraph (26) (as so redesignated) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “602” and inserting “602(3)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “1401” and inserting “1401(3)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “1401” and inserting “1401(3)”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Part I of subtitle B of title I (42 U.S.C. 12521 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The heading relating to part II of subtitle B of title I is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -71,7 +71,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the heading, by striking “Agreements With Federal Agencies” and inserting “Restrictions on Agreements With Federal Agencies”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “a contract or cooperative agreement” and inserting “an interagency agreement other than a grant”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or otherwise supported” after “program carried out”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “by the agency.” and inserting “by the agency, including programs under the Public Lands Corps and Urban Youth Corps as described in section 122(a)(2).”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “by the agency.” and inserting “by the agency, and may approve national service positions for a program carried out or otherwise supported by the agency.”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence; | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “receiving assistance under this subsection” and inserting “operating a national service program”; and | the bill names no machine-readable US Code section |
@@ -88,8 +88,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 122 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(A) by inserting after “subdivision of a State,” the following: “a Territory,”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (5) by inserting “National” before “Civilian Community Corps”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 125 (42 U.S.C. 12575) is repealed. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “National” before “Civilian Community Corps”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period “the Summer of Service program under section 120(c)(8), the ServeAmerica Fellowship under 198B or the Silver Scholarship under section 198C(a)”. | the bill names no machine-readable US Code section |
+| — | amend | Section 125 (42 U.S.C. 12575) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “$125,000 and $750,000” and inserting “$250,000 and $1,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking the period and inserting “and to support, including through mission-assignments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5147), nonprofit organizations and public… | the bill names no machine-readable US Code section |
@@ -114,15 +115,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “institution of higher education, or Federal agency” and inserting “or institution of higher education”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “subdivision of a State,” the following: “Territory,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “institution of higher education, or Federal agency” and inserting “or institution of higher education”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (h) (as so redesignated), by striking the period and inserting “or is already receiving financial assistance from the Corporation.”. | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (h) (as so redesignated) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B), by inserting “and” after “program;”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b)(2)(B), by striking “jobs or”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of subparagraph (F); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (G) and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “National before” “Civilian Community Corps”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period “the Summer of Service program under section 120(c)(8), the ServeAmerica Fellowship under 198B or the Silver Scholarship under section 198C(a)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “paragraph (4)” and inserting “paragraph (3)”; and | the bill names no machine-readable US Code section |
@@ -179,7 +179,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (c)(3), by inserting after “national service educational awards” the following: “and summer of service educational awards”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “national service educational award” the following: “, or summer of service educational award, as applicable,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “additional” the following: “summer of service educational awards and additional”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (c)(6), by inserting after “national service educational award” the following: “and summer of service educational award”; | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting after “national service educational award” the following: “and summer of service educational award”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (d), by inserting after “national service educational awards” the following: “and summer of service educational awards”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “subsection (b)(6)” and inserting “subsection (b)(7)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), by striking “Director” and inserting “Chief Executive Officer”. | the bill names no machine-readable US Code section |
@@ -197,7 +198,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b), by striking “if the person” and all that follows through the period at the end and inserting “if the person will be at least 18 years of age on or before December 31 in the calendar year in which the individual enrolls… | the bill names no machine-readable US Code section |
 | — | replace | by striking “Backrounds” and inserting “Backgrounds”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “The Director shall take appropriate steps, including through outreach and recruitment activities carried out by the chief executive officer, to increase the percentage of participants in the program w… | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (e). | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d). | the bill names no machine-readable US Code section |
 | — | replace | by striking “Civilian Community Corps Demonstration Program” and inserting “National Civilian Community Corps Program”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “on Civilian Community Corps” and inserting “on National Civilian Community Corps”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “shall be” and all that follows through the period at the end and inserting “shall be from economically and ethnically diverse backgrounds, including youth who are in foster care.”. | the bill names no machine-readable US Code section |
@@ -275,8 +276,6 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (13) and (14), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (7) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (13), as so redesignated, by striking “industry,” and inserting “public and private organizations,”. | the bill names no machine-readable US Code section |
-| — | strike | in the section heading, by striking “annual”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “annual evaluation” and inserting “evaluation before September 30, 2014”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “National” before “Civilian Community Corps”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “Upon completing each such evaluation, the Corporation shall transmit to the appropriate committees of Congress a report on the evaluation.”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 165 (42 U.S.C. 12625) is repealed. | the bill names no machine-readable US Code section |
@@ -291,6 +290,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the subtitle heading and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 160(a) (42 U.S.C. 12620(a)) by inserting “National” before “Civilian Community Corps”. | the bill names no machine-readable US Code section |
 | — | replace | Section 171(a)(1) (42 U.S.C. 12631(a)(1)) is amended by striking “with respect to a project” and inserting “with respect to a project authorized under the national service laws”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 172 (42 U.S.C. 12632) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 174 (42 U.S.C. 12634) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(2)(A), by striking “30 days” and inserting “1 or more periods of 30 days not to exceed 90 days in total”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “A State or local applicant” and inserting “An entity”; and | the bill names no machine-readable US Code section |
@@ -363,6 +363,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subtitle H is further amended by adding after Part II (as added by section 1804) the following new part: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subtitle H is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I is further amended by adding at the end the following new subtitle: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title I is further amended by adding at the end the following new subtitle: | the bill names no machine-readable US Code section |
 | — | repeal | Title III (42 U.S.C. 12661 et seq.) is repealed. | the bill names no machine-readable US Code section |
 | — | amend | Section 501 (42 U.S.C. 12681) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “both young and older citizens” and inserting “citizens of all ages and backgrounds”; and | the bill names no machine-readable US Code section |
@@ -392,10 +393,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (B), by inserting “Internet and related technologies,” after “through the”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting after “senior citizens organizations,” the following: “offices of economic development, State employment security agencies, employment offices,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), by striking “National and Community Service Trust Act of 1993” and inserting “National and Community Service Act of 1990”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (G), by striking “, on request,”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “this subsection” and inserting “this subsection and related public awareness and recruitment activities under the national service laws”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Beginning” and all that follows through “for the purpose” and inserting “For the purpose”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “1.5 percent” and inserting “2 percent”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (G), by striking “, on request,”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “this subsection” and inserting “this subsection and related public awareness and recruitment activities under the national service laws”; | the bill names no machine-readable US Code section |
 | — | amend | by amending the second sentence of subsection (d) to read as follows: “Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under section 117 of the Workforce Investment Ac… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g) by striking “and has been submitted to the Governor” and all that follows and inserting a period; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -468,7 +467,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (2), by inserting “, the Commonwealth of the Northern Mariana Islands” after “American Samoa”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (13), by striking “National Senior Volunteer Corps” and inserting “National Senior Service Corps”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “National Senior Volunteer Corps” and inserting “National Senior Service Corps”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “parts A, B, C, and E of”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “parts A, B, C, and E of”. | the bill names no machine-readable US Code section |
 | — | replace | Section 425 (42 U.S.C. 5065) is amended by striking “National Senior Volunteer Corps” and inserting “National Senior Service Corps”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “, excluding section 109” and all that follows and inserting “$100,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2014.”; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking paragraphs (2) and (4) and redesignating paragraphs (3) and (5) as paragraphs (2) and (3); and | the bill names no machine-readable US Code section |
