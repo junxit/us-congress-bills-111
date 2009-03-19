@@ -1,7 +1,7 @@
 ---
 measure: H.R. 146
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,69 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-273 amendatory instructions. 6 executed, 267 stated and not applied.
+273 amendatory instructions. 0 executed, 273 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 16 U.S.C. § 461
-
-> in paragraph (1)(B), by striking “contiguous to” and all that follows and inserting “within Fairfield County.”;
-
-| | |
-|---|---|
-| Removed | `contiguous to` |
-| Inserted | `within Fairfield County.` |
-
-### 16 U.S.C. § 461
-
-> in paragraph (3), in the matter preceding subparagraph (A), by striking “the appropriate zoning authority” and all that follows through “Wilton, Connecticut,” and inserting “the local governmental entity that, in accordance with applicable State law, has jurisdiction over any property acquired under paragraph (1)(A)”.
-
-| | |
-|---|---|
-| Removed | `the appropriate zoning authority” and all that follows through “Wilton, Connecticut,` |
-| Inserted | `the local governmental entity that, in accordance with applicable State law, has jurisdiction over any property acquired under paragraph (1)(A)` |
-
-### 16 U.S.C. § 410ww-1
-
-> by striking “Commission” and inserting “Aviation Heritage Foundation”.
-
-| | |
-|---|---|
-| Removed | `Commission` |
-| Inserted | `Aviation Heritage Foundation` |
-
-### 16 U.S.C. § 461
-
-> in section 503(3), by striking “104” and inserting “504”;
-
-| | |
-|---|---|
-| Removed | `104` |
-| Inserted | `504` |
-
-### 16 U.S.C. § 461
-
-> in section 503(4), by striking “106” and inserting “506”;
-
-| | |
-|---|---|
-| Removed | `106` |
-| Inserted | `506` |
-
-### 16 U.S.C. § 461
-
-> in section 505(b)(1), by striking “106” and inserting “506”.
-
-| | |
-|---|---|
-| Removed | `106` |
-| Inserted | `506` |
 
 ## Stated, not applied
 
@@ -105,16 +49,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding subparagraph (A), by striking “19-mile segment” and inserting “29-mile segment”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1203(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1504(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1805) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1203(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1504(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1805) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Santa Rosa and San Jacinto Mountains National Monument Act of 2000 (Public Law 106–351; 114 U.S.C. 1362; 16 U.S.C. 431 note) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 7(d) of the Santa Rosa and San Jacinto Mountains National Monument Act of 2000 (Public Law 106–351; 114 U.S.C. 1362; 16 U.S.C. 431 note) is amended by striking “eight” and inserting “a majority of the appointed”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “seventy thousand acres” and inserting “74,195 acres”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “, dated July 1978” and inserting “and dated May 2007”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “thirty-six thousand two hundred thirty-five acres” and inserting “35,235 acres”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “, dated July 1978” and inserting “and dated May 2007”. | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 2(2) (16 U.S.C. 460iii–1(2)), by inserting “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”; and | the bill names no machine-readable US Code section |
 | — | insert | in section 3(a)(1) (16 U.S.C. 460iii–2(a)(1)), by inserting “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”. | the bill names no machine-readable US Code section |
 | — | strike | in section 3(a)(1) (16 U.S.C. 460iii–2(a)(1)), by striking “(hereafter referred to as the conservation area)”; and | the bill names no machine-readable US Code section |
@@ -136,39 +80,41 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “3,” after “sections”; and | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence of paragraph (4), by inserting “, as a condition of the conveyance,” before “remain”. | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5001) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5002(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 1852) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5001) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 5002(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1244` | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5201) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5202(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5201) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5202(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) (as amended by section 5204) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | By amending subparagraph (C) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking the first sentence; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with t… | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1244(a)(3)` | add-at-end | Section 5(a)(3) of the National Trails System Act (16 U.S.C. 1244(a)(3)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(4)` | add-at-end | Section 5(a)(4) of the National Trails System Act (16 U.S.C. 1244(a)(4)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(5)` | add-at-end | Section 5(a)(5) of the National Trails System Act (16 U.S.C. 1244(a)(5)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(6)` | add-at-end | Section 5(a)(6) of the National Trails System Act (16 U.S.C. 1244(a)(6)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(7)` | add-at-end | Section 5(a)(7) of the National Trails System Act (16 U.S.C. 1244(a)(7)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(8)` | add-at-end | Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(10)` | add-at-end | Section 5(a)(10) of the National Trails System Act (16 U.S.C. 1244(a)(10)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(11)` | strike | by striking the fourth and fifth sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(11)` | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(14)` | strike | by striking the fourth and fifth sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244(a)(14)` | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1249(c)` | replace | Section 10 of the National Trails System Act (16 U.S.C. 1249) is amended by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 5(a)(3) of the National Trails System Act (16 U.S.C. 1244(a)(3)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(4) of the National Trails System Act (16 U.S.C. 1244(a)(4)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(5) of the National Trails System Act (16 U.S.C. 1244(a)(5)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(6) of the National Trails System Act (16 U.S.C. 1244(a)(6)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(7) of the National Trails System Act (16 U.S.C. 1244(a)(7)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)(8)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by th… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(a)(10) of the National Trails System Act (16 U.S.C. 1244(a)(10)) is amended by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by … | the bill names no machine-readable US Code section |
+| — | strike | by striking the fourth and fifth sentences; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the bill names no machine-readable US Code section |
+| — | strike | by striking the fourth and fifth sentences; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land … | the bill names no machine-readable US Code section |
+| — | replace | Section 10 of the National Trails System Act (16 U.S.C. 1249) is amended by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5 of the National Trails System Act (16 U.S.C. 1244) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1244` | add-at-end | Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1308 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3198) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 4 of Public Law 102–543 (16 U.S.C. 410yy–3) is amended by striking subsection (d). | the bill names no machine-readable US Code section |
 | — | replace | Section 8(b) of Public Law 102–543 (16 U.S.C. 410yy–7(b)) is amended by striking “$4” and inserting “$1”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “$25,000,000” and inserting “$50,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$3,000,000” and inserting “$25,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “$100,000” and all that follows through “those duties” and inserting “$250,000”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 461` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (1)(B), by striking “contiguous to” and all that follows and inserting “within Fairfield County.”; | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), in the matter preceding subparagraph (A), by striking “the appropriate zoning authority” and all that follows through “Wilton, Connecticut,” and inserting “the local governmental entity that, in accordance with applicab… | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Preserve” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “map” and inserting “maps”. | the bill names no machine-readable US Code section |
@@ -192,7 +138,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1029(d) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(d)) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1029(e)(2)(B) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(e)(2)(B)) is amended by striking “Coast Guard” and inserting “Coast Guard.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1029(e)(11) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(e)(11)) is amended by striking “Noth­with­standing” and inserting “Notwithstanding”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1` | repeal | Public Law 87–628 (76 Stat. 428), regarding the establishment and administration of the Edison National Historic Site, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Public Law 87–628 (76 Stat. 428), regarding the establishment and administration of the Edison National Historic Site, is repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XVI of Public Law 96–607 (16 U.S.C. 410ll) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “National Historic Site” each place it appears and inserting “National Historical Park”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading for section 3, by striking “national historic site” and inserting “national historical park”; and | the bill names no machine-readable US Code section |
@@ -202,7 +148,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(3) Within” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “map referred to in paragraph (1)” and inserting “maps referred to in paragraphs (1) and (2)”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 460m-20` | replace | Section 1106 of the National Parks and Recreation Act of 1978 (16 U.S.C. 460m–20) is amended in the first sentence by striking “may” and inserting “shall”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 1106 of the National Parks and Recreation Act of 1978 (16 U.S.C. 460m–20) is amended in the first sentence by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Gaylord A. Nelson” and inserting “Gaylord Nelson”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(4), by striking “Gaylord A. Nelson Wilderness” and inserting “Gaylord Nelson Wilderness”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2863(h)(1) of Public Law 107–107 (115 Stat. 1333) is amended by striking “the George Washington Memorial Parkway” and inserting “Arlington House, The Robert E. Lee Memorial,”. | the bill names no machine-readable US Code section |
@@ -218,13 +164,17 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 297F(b)(2)(A) of the Crossroads of the American Revolution National Heritage Area Act of 2006 (Public Law 109–338; 120 Stat. 1844) is amended by inserting “duties” before “of the”. | the bill names no machine-readable US Code section |
 | — | replace | Section 474(12) of the Consolidated Natural Resources Act of 2008 (Public Law 1110–229; 122 Stat. 827) is amended by striking “Cayohoga” each place it appears and inserting “Cuyahoga”. | the bill names no machine-readable US Code section |
 | — | replace | Section 313(d)(1)(B) of the Department of the Interior and Related Agencies Appropriations Act, 1996 (Public Law 104–134; 110 Stat. 1321–199; 40 U.S.C. 872 note) is amended by striking “map entitled Pennsylvania Avenue National Historic … | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 410ww` | add-at-end | Section 101 of the Dayton Aviation Heritage Preservation Act of 1992 (16 U.S.C. 410ww, et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410ww-1` | insert | in subsection (a), by inserting “Hawthorn Hill, the Wright Company factory,” after “, acquire”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 410ww-1` | replace | in subsection (b), by striking “Such agreements” and inserting: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 410ww-1` | insert | by inserting before subsection (d) (as added by paragraph 2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410ww` | redesignate | by redesignating subsection (b) of section 108 as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410ww` | insert | by inserting after subsection (a) of section 108 the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 461` | redesignate | in section 504, by striking subsection (b)(2) and by redesignating subsection (b)(3) as subsection (b)(2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 101 of the Dayton Aviation Heritage Preservation Act of 1992 (16 U.S.C. 410ww, et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting “Hawthorn Hill, the Wright Company factory,” after “, acquire”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “Such agreements” and inserting: | the bill names no machine-readable US Code section |
+| — | insert | by inserting before subsection (d) (as added by paragraph 2) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Commission” and inserting “Aviation Heritage Foundation”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (b) of section 108 as subsection (c); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) of section 108 the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in section 503(3), by striking “104” and inserting “504”; | the bill names no machine-readable US Code section |
+| — | replace | in section 503(4), by striking “106” and inserting “506”; | the bill names no machine-readable US Code section |
+| — | redesignate | in section 504, by striking subsection (b)(2) and by redesignating subsection (b)(3) as subsection (b)(2); and | the bill names no machine-readable US Code section |
+| — | replace | in section 505(b)(1), by striking “106” and inserting “506”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Secretary of the Interior” and inserting “(a) The Secretary of the Interior”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “476 acres” and inserting “646 acres”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -267,8 +217,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 810(a)(1), in the first sentence, by striking “any fiscal year” and inserting “any fiscal year, to remain available until expended”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “shall be the the” and inserting “shall be the”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Directors from Massachusetts and Rhode Island;” and inserting “Directors from Massachusetts and Rhode Island, ex officio, or their delegates;”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of items in section 2 of Public Law 102–575 is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of items in section 2 of Public Law 102–575 is amended by inserting after the last item the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (5), by inserting “, rehabilitation, and repair” after “and replacement”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (6), by inserting “those for protection of critical habitat, those for preventing entrainment of fish in water diversions,” after “instream flows,”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “$61,000,000” and inserting “$88,000,000”; | the bill names no machine-readable US Code section |
@@ -280,10 +230,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “$18,000,000” and inserting “$30,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(4), by striking “$31,000,000” and inserting “$87,000,000”. | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 390h` | amend | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9104(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9104(b)) is amended by inserting after the item relating to section 1649 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | amend | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9109(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9109(b)) is amended by inserting after the item relating to section 1650 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9104(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9104(b)) is amended by inserting after the item relating to section 1649 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9109(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9109(b)) is amended by inserting after the item relating to section 1650 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9110(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections in section 2 of Public Law 102–575 (43 U.S.C. prec. 371) (as amended by section 9110(b)) is amended by inserting after the last item the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by subsection (a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -292,8 +242,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (a), by striking “phase 1 of”. | the bill names no machine-readable US Code section |
 | — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (title XVI of Public Law 102–575; 43 U.S.C. 390h et seq.) (as amended by section 9111(b)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 (as amended by section 9111(b)(2)) is amended by inserting after the last item the following: | the bill names no machine-readable US Code section |
-| `43 U.S.C. § 390h` | amend | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9113(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9114(b)) is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) (as amended by section 9113(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections in section 2 of Public Law 102–575 (as amended by section 9114(b)) is amended by inserting after the last item the following: | the bill names no machine-readable US Code section |
 | — | insert | The first section of Public Law 87–590 (76 Stat. 389) is amended in the second sentence of subsection (c) by inserting after “cost thereof,” the following: “or in the case of the Arkansas Valley Conduit, payment in an amount equal to 35 … | the bill names no machine-readable US Code section |
 | — | replace | by striking “(b) Rates” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

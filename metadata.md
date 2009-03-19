@@ -1,7 +1,7 @@
 ---
 measure: H.R. 146
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 146
@@ -33,7 +33,7 @@ Omnibus Public Land Management Act of 2009
 
 - House — Natural Resources Committee
 
-## Recorded votes (8)
+## Recorded votes (9)
 
 - 2009-03-03 — [House 111-1-91](votes/house-111-1-0091.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–13)
 - 2009-03-16 — [Senate 111-1-99](votes/senate-111-1-0099.md) — On the Cloture Motion — **Cloture Motion Agreed to** (73–21)
@@ -43,6 +43,7 @@ Omnibus Public Land Management Act of 2009
 - 2009-03-19 — [Senate 111-1-104](votes/senate-111-1-0104.md) — On the Motion to Table — **Motion to Table Agreed to** (58–39)
 - 2009-03-19 — [Senate 111-1-105](votes/senate-111-1-0105.md) — On the Motion to Table — **Motion to Table Agreed to** (70–27)
 - 2009-03-19 — [Senate 111-1-106](votes/senate-111-1-0106.md) — On Passage of the Bill — **Bill Passed** (77–20)
+- 2009-03-25 — [House 111-1-153](votes/house-111-1-0153.md) — On Motion to Concur in Senate Amendments — **Passed** (285–140)
 
 ## Actions
 
@@ -125,3 +126,16 @@ Omnibus Public Land Management Act of 2009
 - 2009-03-19 — Senate amendment agreed to: Amendment SA 686 agreed to in Senate by Unanimous Consent.
 - 2009-03-19 — Senate amendment proposed (on the floor): Amendment SA 686 proposed by Senator Bingaman.(consideration: CR S3513; text: CR S3513)
 - 2009-03-19 — Senate amendment submitted
+- 2009-03-25 — Cleared for White House.
+- 2009-03-25 — DEBATE - Pursuant to the provisions of H.Res. 280, the House proceeded with one hour of debate on the Rahall motion to agree to the Senate amendments to H.R. 146.
+- 2009-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-25 — Mr. Rahall moved that the House agree to the Senate amendments. (consideration: CR H3854-3985)
+- 2009-03-25 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 285 - 140 (Roll no. 153). (consideration: CR H3972-3985; text as House agreed to Senate amendments: CR H3854-3972)
+- 2009-03-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 285 - 140 (Roll no. 153).(consideration: CR H3972-3985; text as House agreed to Senate amendments: CR H3854-3972)
+- 2009-03-25 — The previous question was ordered pursuant to the rule. (consideration: CR H3985)
+- 2009-03-30 — Became Public Law No: 111-11.
+- 2009-03-30 — Became Public Law No: 111-11.
+- 2009-03-30 — Presented to President.
+- 2009-03-30 — Presented to President.
+- 2009-03-30 — Signed by President.
+- 2009-03-30 — Signed by President.
