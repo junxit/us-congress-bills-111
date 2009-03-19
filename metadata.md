@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1388
@@ -204,3 +204,5 @@ Serve America Act
 - 2009-03-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3606)
 - 2009-03-18 — The previous question was ordered pursuant to the rule. (consideration: CR H3604)
 - 2009-03-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-03-19 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3577; text: CR S3577)
+- 2009-03-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
