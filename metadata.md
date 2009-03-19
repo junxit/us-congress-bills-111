@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1512
@@ -46,3 +46,4 @@ Federal Aviation Administration Extension Act of 2009
 - 2009-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3533)
 - 2009-03-18 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3379)
 - 2009-03-18 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3379)
+- 2009-03-19 — Message on Senate action sent to the House.
