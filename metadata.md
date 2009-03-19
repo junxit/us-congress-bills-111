@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1586
@@ -16,7 +16,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (42)
+## Cosponsors (51)
 
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
@@ -60,13 +60,35 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2009-03-19 — [House 111-1-143](votes/house-111-1-0143.md) — On Motion to Suspend the Rules and Pass — **Passed** (328–93)
 
 ## Actions
 
 - 2009-03-18 — Introduced in House
 - 2009-03-18 — Introduced in House
 - 2009-03-18 — Referred to the House Committee on Ways and Means.
+- 2009-03-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-19 — Considered as unfinished business. (consideration: CR H3673-3674)
+- 2009-03-19 — Considered under suspension of the rules. (consideration: CR H3655-3664)
+- 2009-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1586.
+- 2009-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-19 — Mr. Rangel moved to suspend the rules and pass the bill.
+- 2009-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 93 (Roll no. 143). (text: CR H3655-3656)
+- 2009-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 93 (Roll no. 143).(text: CR H3655-3656)
+- 2009-03-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
