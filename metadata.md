@@ -1,7 +1,7 @@
 ---
 measure: S. 383
 congress: 111
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 383
@@ -43,3 +43,10 @@ Special Inspector General for the Troubled Asset Relief Program Act of 2009
 - 2009-02-09 — Referred to House Financial Services
 - 2009-02-09 — Referred to House Oversight and Government Reform
 - 2009-02-09 — Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-03-12 — Committee Consideration and Mark-up Session Held.
+- 2009-03-12 — Ordered to be Reported by Voice Vote.
+- 2009-03-19 — Committee on Oversight and Government discharged.
+- 2009-03-19 — Committee on Oversight and Government discharged.
+- 2009-03-19 — Placed on the Union Calendar, Calendar No. 12.
+- 2009-03-19 — Reported by the Committee on Financial Services. H. Rept. 111-41, Part I.
+- 2009-03-19 — Reported by the Committee on Financial Services. H. Rept. 111-41, Part I.
