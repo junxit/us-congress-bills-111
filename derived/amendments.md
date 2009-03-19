@@ -1,7 +1,7 @@
 ---
 measure: S. 383
 congress: 111
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
