@@ -1,7 +1,7 @@
 ---
 measure: H.R. 20
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 20
@@ -16,7 +16,7 @@ Melanie Blocker Stokes MOTHERS Act
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Cosponsors (8)
+## Cosponsors (15)
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Capps, Lois [D-CA-23] (C001036)
@@ -26,6 +26,13 @@ Melanie Blocker Stokes MOTHERS Act
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 - Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
 
 ## Committees (1)
 
@@ -36,3 +43,10 @@ Melanie Blocker Stokes MOTHERS Act
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Referred to the House Committee on Energy and Commerce.
+- 2009-01-14 — Referred to the Subcommittee on Health.
+- 2009-03-04 — Committee Consideration and Mark-up Session Held.
+- 2009-03-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-03-04 — Subcommittee on Health Discharged.
+- 2009-03-23 — Placed on the Union Calendar, Calendar No. 18.
+- 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-48.
+- 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-48.
