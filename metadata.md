@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 178
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 178
@@ -16,7 +16,7 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
-## Cosponsors (73)
+## Cosponsors (94)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -91,6 +91,27 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
 
 ## Committees (1)
 
@@ -101,3 +122,11 @@ Expressing the need for enhanced public awareness of traumatic brain injury and 
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-10 — Committee Consideration and Mark-up Session Held.
+- 2009-03-10 — Ordered to be Reported by Voice Vote.
+- 2009-03-23 — Considered under suspension of the rules. (consideration: CR H3713-3715)
+- 2009-03-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 178.
+- 2009-03-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-23 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-03-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3713)
+- 2009-03-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3713)
