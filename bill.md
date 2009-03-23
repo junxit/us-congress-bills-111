@@ -34,7 +34,17 @@ This Act may be cited as the “Wakefield Act”.
 
 Section 1910 of the Public Health Service Act (42 U.S.C. 300w–9) is amended—
 
-- **(1)** in subsection (a), by striking “3-year period (with an optional 4th year” and inserting “4-year period (with an optional 5th year”; and
+- **(1)** in subsection (a), by striking “3-year period (with an optional 4th year” and inserting “4-year period (with an optional 5th year”;
 - **(2)** in subsection (d)—
   - **(A)** by striking “and such sums” and inserting “such sums”; and
-  - **(B)** by inserting before the period the following: “, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014”.
+  - **(B)** by inserting before the period the following: “, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014”;
+- **(3)** by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and
+- **(4)** by inserting after subsection (a) the following:
+  > - **(b)**
+  >   - **(1)** The purpose of the program established under this section is to reduce child and youth morbidity and mortality by supporting improvements in the quality of all emergency medical care children receive, through the promotion of projects focused on the expansion and improvement of such services, including those in rural areas and those for children with special health care needs. In carrying out this purpose, the Secretary shall support emergency medical services for children by supporting projects that—
+  >     - **(A)** develop and present scientific evidence;
+  >     - **(B)** promote existing and innovative technologies appropriate for the care of children; or
+  >     - **(C)** provide information on health outcomes and effectiveness and cost-effectiveness.
+  >   - **(2)** The program established under this section shall—
+  >     - **(A)** strive to enhance the pediatric capability of emergency medical service systems originally designed primarily for adults; and
+  >     - **(B)** in order to avoid duplication and ensure that Federal resources are used efficiently and effectively, be coordinated with all research, evaluations, and awards related to emergency medical services for children undertaken and supported by the Federal Government.
