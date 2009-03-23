@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the section heading, by striking “infants” and inserting “newborns and infants”; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “screening, evaluation and intervention programs and systems” and inserting “screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, re… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “hearing loss screening, evaluation, and intervention programs” and inserting “hearing loss screening, evaluation, diagnosis, and intervention programs”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “for purposes of this section, continue” and insert the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
