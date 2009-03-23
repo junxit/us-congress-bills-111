@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1586
@@ -92,3 +92,4 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2009-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 93 (Roll no. 143). (text: CR H3655-3656)
 - 2009-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 93 (Roll no. 143).(text: CR H3655-3656)
 - 2009-03-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-03-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
