@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1259
@@ -33,3 +33,9 @@ Dextromethorphan Distribution Act of 2009
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Referred to the House Committee on Energy and Commerce.
 - 2009-03-03 — Referred to the Subcommittee on Health.
+- 2009-03-04 — Committee Consideration and Mark-up Session Held.
+- 2009-03-04 — Ordered to be Reported by Voice Vote.
+- 2009-03-04 — Subcommittee on Health Discharged.
+- 2009-03-24 — Placed on the Union Calendar, Calendar No. 19.
+- 2009-03-24 — Reported by the Committee on Energy and Commerce. H. Rept. 111-49.
+- 2009-03-24 — Reported by the Committee on Energy and Commerce. H. Rept. 111-49.
