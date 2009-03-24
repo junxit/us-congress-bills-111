@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 234
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 234
@@ -16,7 +16,7 @@ Expressing support for designation of a "Welcome Home Vietnam Veterans Day".
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Cosponsors (30)
+## Cosponsors (63)
 
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -48,6 +48,39 @@ Expressing support for designation of a "Welcome Home Vietnam Veterans Day".
 - Rep. Inslee, Jay [D-WA-1] (I000026)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Teague, Harry [D-NM-2] (T000466)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
 ## Committees (1)
 
@@ -58,3 +91,9 @@ Expressing support for designation of a "Welcome Home Vietnam Veterans Day".
 - 2009-03-10 — Introduced in House
 - 2009-03-10 — Introduced in House
 - 2009-03-10 — Referred to the House Committee on Veterans' Affairs.
+- 2009-03-24 — Considered under suspension of the rules. (consideration: CR H3773-3777)
+- 2009-03-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 234.
+- 2009-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-24 — Mrs. Halvorson moved to suspend the rules and agree to the resolution.
+- 2009-03-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3773-3774)
+- 2009-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3773-3774)
