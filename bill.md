@@ -45,8 +45,8 @@ Other than limiting compensation paid or payable under employment contracts or p
 
 For purposes of this Act—
 
-- **(1)** the term “employment contract” means an employment contract that provides for the payment of compensation (including performance or incentive compensation, a bonus of any kind, or any other financial return designed to replace or enhance incentive, stock, or other compensation), and
-- **(2)** the term “recipient entity” means a person (including any subsidiary of such person) that receives, during any period beginning on or after September 1, 2008, from the United States—
+- **(1)** the term employment contract means an employment contract that provides for the payment of compensation (including performance or incentive compensation, a bonus of any kind, or any other financial return designed to replace or enhance incentive, stock, or other compensation), and
+- **(2)** the term recipient entity means a person (including any subsidiary of such person) that receives, during any period beginning on or after September 1, 2008, from the United States—
   - **(A)** a line of credit or a loan,
   - **(B)** a payment in exchange for stock of such person (or such subsidiary), or
   - **(C)** any combination of credit, loans, or payments,
