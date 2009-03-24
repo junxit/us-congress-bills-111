@@ -1,7 +1,7 @@
 ---
 measure: H.R. 730
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (9), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (10) as paragraph (14); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
