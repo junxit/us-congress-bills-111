@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 273
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 273
@@ -16,7 +16,7 @@ Recognizing the 188th anniversary of the independence of Greece and celebrating 
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (36)
+## Cosponsors (39)
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
@@ -54,13 +54,28 @@ Recognizing the 188th anniversary of the independence of Greece and celebrating 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-03-25 — [House 111-1-154](votes/house-111-1-0154.md) — On Motion to Suspend the Rules and Agree — **Passed** (423–0)
 
 ## Actions
 
 - 2009-03-19 — Introduced in House
 - 2009-03-19 — Introduced in House
 - 2009-03-19 — Referred to the House Committee on Foreign Affairs.
+- 2009-03-24 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Wexler objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-03-24 — Considered under suspension of the rules. (consideration: CR H3780-3784)
+- 2009-03-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 273.
+- 2009-03-24 — Mr. Berman moved to suspend the rules and agree to the resolution.
+- 2009-03-25 — Considered as unfinished business. (consideration: CR H3985-3986)
+- 2009-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-25 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 154). (text: CR 3/24/2009 H3780-3781)
+- 2009-03-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 154).(text: CR 3/24/2009 H3780-3781)
