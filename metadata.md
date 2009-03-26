@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1256
@@ -16,7 +16,7 @@ Family Smoking Prevention and Tobacco Control Act
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (124)
+## Cosponsors (178)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
@@ -142,6 +142,60 @@ Family Smoking Prevention and Tobacco Control Act
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Peters, Gary C. [D-MI-9] (P000595)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
 
 ## Committees (2)
 
@@ -156,3 +210,14 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-03-03 — Referred to House Oversight and Government Reform
 - 2009-03-03 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-03-03 — Referred to the Subcommittee on Health.
+- 2009-03-04 — Committee Consideration and Mark-up Session Held.
+- 2009-03-04 — Ordered to be Reported by the Yeas and Nays: 39 - 13.
+- 2009-03-04 — Referred to the Subcommittee on Oversight and Investigations.
+- 2009-03-04 — Subcommittee on Health Discharged.
+- 2009-03-18 — Committee Consideration and Mark-up Session Held.
+- 2009-03-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-03-26 — Placed on the Union Calendar, Calendar No. 24.
+- 2009-03-26 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-58, Part II.
+- 2009-03-26 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-58, Part II.
+- 2009-03-26 — Reported by the Committee on Energy and Commerce. H. Rept. 111-58, Part I.
+- 2009-03-26 — Reported by the Committee on Energy and Commerce. H. Rept. 111-58, Part I.
