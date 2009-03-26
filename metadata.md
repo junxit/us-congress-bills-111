@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 55
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 55
@@ -143,9 +143,10 @@ Recognizing the 30th anniversary of the Taiwan Relations Act.
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Herger, Wally [R-CA-2] (H000528)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -161,3 +162,4 @@ Recognizing the 30th anniversary of the Taiwan Relations Act.
 - 2009-03-24 — Mr. Berman moved to suspend the rules and agree to the resolution, as amended.
 - 2009-03-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3777)
 - 2009-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H3777)
+- 2009-03-26 — Received in the Senate and referred to the Committee on Foreign Relations.
