@@ -1,7 +1,7 @@
 ---
 measure: H.R. 918
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 918
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 300 Eas
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ To designate the facility of the United States Postal Service located at 300 Eas
 - 2009-03-23 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-03-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 145). (text: CR H3715)
 - 2009-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 145).(text: CR H3715)
+- 2009-03-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
