@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in subsection (b)(3)(C), by striking “or in part”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (f)(2), by striking subparagraph (E). | the bill names no machine-readable US Code section |
-| — | amend | Subsection (c) of such section is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (c) of such section is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b)(3)(C), by striking “or in part”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (f)(2), by striking subparagraph (E). | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (c) of such section is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
