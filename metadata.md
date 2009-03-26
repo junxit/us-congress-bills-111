@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1148
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1148
@@ -23,9 +23,10 @@ To require the Secretary of Homeland Security to conduct a program in the mariti
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To require the Secretary of Homeland Security to conduct a program in the mariti
 - 2009-03-24 — Mr. Carney moved to suspend the rules and pass the bill.
 - 2009-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3763)
 - 2009-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3763)
+- 2009-03-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
