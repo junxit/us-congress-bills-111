@@ -1,0 +1,159 @@
+---
+legis-num: H.R. 1727
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1727
+
+> To establish guidelines and incentives for States to establish criminal arsonist and criminal bomber registries and to require the Attorney General to establish a national criminal arsonist and criminal bomber registry program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Managing Arson Through Criminal History (MATCH) Act of 2009”.
+
+## § 2. Criminal arsonist and criminal bomber registration and notification program
+
+- **(a)** *Registry requirements for jurisdictions*
+  - **(1)** *Jurisdiction to maintain a registry* Each jurisdiction shall establish and maintain a jurisdiction-wide arsonist and bomber registry conforming to the requirements of this section.
+  - **(2)** *Guidelines and regulations* The Attorney General shall issue guidelines and regulations to interpret and implement this section.
+- **(b)** *Registry requirements for criminal arsonists and bombers*
+  - **(1)** *In general* A criminal arsonist or criminal bomber shall register, and shall keep the registration current, in each jurisdiction where the criminal arsonist or criminal bomber resides, where the criminal arsonist or criminal bomber is an employee, and where the criminal arsonist or criminal bomber is a student. For initial registration purposes only, a criminal arsonist or criminal bomber shall also register in the jurisdiction in which convicted if such jurisdiction is different from the jurisdiction of residence.
+  - **(2)** *Initial registration* The criminal arsonist or criminal bomber shall initially register—
+    - **(A)** before completing a sentence of imprisonment with respect to the offense giving rise to the registration requirement; or
+    - **(B)** not later than 5 business days after being sentenced for that offense, if the criminal arsonist or criminal bomber is not sentenced to a term of imprisonment.
+  - **(3)** *Keeping the registration current* A criminal arsonist or criminal bomber shall, not later than 10 business days after each change of name, residence, employment, or student status, appear in person in at least one jurisdiction involved pursuant to paragraph (1) and inform that jurisdiction of all changes in the information required for that criminal arsonist or criminal bomber in the arsonist and bomber registry involved. That jurisdiction shall immediately provide the revised information to all other jurisdictions in which the criminal arsonist or criminal bomber is required to register.
+  - **(4)** *Application of registration requirements*
+    - **(A)** *In general* Except as provided in guidelines under subparagraph (B), the requirements of this section, including the duties to register and to keep a registration current, shall apply only to a criminal arsonist or criminal bomber who was convicted of a criminal offense involving arson or bombing on or after the date of the enactment of this Act, and who was notified of such duties and registered in accordance with subsection (f).
+    - **(B)** *Application to criminal arsonists or criminal bombers unable to comply with paragraph (2)*
+      - **(i)** *Guidelines* The Attorney General shall establish guidelines in accordance with the provisions of this subparagraph for each jurisdiction for the application of the requirements of this section to criminal arsonists or criminal bombers convicted before the date of the enactment of this Act or the date of its implementation in such a jurisdiction, and shall prescribe rules for the registration of any such criminal arsonists or criminal bombers who are otherwise unable to comply with paragraph (2).
+      - **(ii)** *Information required to be included in registry* With respect to each criminal arsonist or criminal bomber described in clause (i) convicted during the 10-year period preceding the date of the enactment of this Act, the guidelines under clause (i) shall provide for the inclusion in the arsonist and bomber registry of each applicable jurisdiction (and, in accordance with subsection (j), the provision by such jurisdiction to each entity described in such subsection) of the following information:
+        - **(I)** The name of the criminal arsonist or criminal bomber (including any alias used by the person).
+        - **(II)** The Social Security number of the person.
+        - **(III)** The most recent known address of the residence at which the person has resided.
+        - **(IV)** A physical description of the person.
+        - **(V)** The text of the provision of law defining the criminal offense for which the person is convicted.
+        - **(VI)** A set of fingerprints and palm prints of the person.
+        - **(VII)** A photocopy of a valid driver’s license or identification card issued to the person by a jurisdiction, if available.
+        - **(VIII)** Any other information required by the Attorney General.
+      - **(iii)** *Notice required* The guidelines under clause (i) shall provide notice to each criminal arsonist or criminal bomber included in an arsonist and bomber registry pursuant to this subparagraph of such inclusion.
+  - **(5)** *State penalty for failure to comply* Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than one year for the failure of a criminal arsonist or criminal bomber to comply with the requirements of this section.
+  - **(6)** *Authority to exempt certain persons from registry requirements* A jurisdiction shall have the authority to exempt a criminal arsonist or criminal bomber who has been convicted of the offense of arson or bombing in violation of the laws of the jurisdiction in which the offense was committed or the United States for the first time from the registration requirements under this section in exchange for the person’s substantial assistance in the investigation or prosecution of another person who has committed an offense. The Attorney General shall assure that any regulations promulgated under this section include guidelines that reflect the general appropriateness of exempting the person from the registration requirements under this section.
+- **(c)** *Information required in registration*
+  - **(1)** *Provided by arsonist or bomber* A criminal arsonist or criminal bomber shall provide the following information to the appropriate official for inclusion in the arsonist registry of a jurisdiction in which the person is required to register:
+    - **(A)** The name of the person (including any alias used by the person).
+    - **(B)** The Social Security number of the person.
+    - **(C)** The address of each residence at which the person resides or will reside.
+    - **(D)** The name and address of any place where the person is an employee or will be an employee.
+    - **(E)** The name and address of any place where the person is a student or will be a student.
+    - **(F)** The license plate number and a description of any vehicle owned or operated by the person.
+    - **(G)** Any other information required by the Attorney General.
+  - **(2)** *Provided by the jurisdiction* The jurisdiction in which a criminal arsonist or criminal bomber registers shall ensure that the following information is included in the registry for the person:
+    - **(A)** A physical description of the person.
+    - **(B)** The text of the provision of law defining the criminal offense for which the person is registered.
+    - **(C)** The criminal history of the person, including the date of all arrests and convictions; the status of parole, probation, or supervised release; registration status; and the existence of any outstanding arrest warrants for the person.
+    - **(D)** A current photograph of the person.
+    - **(E)** A set of fingerprints and palm prints of the person.
+    - **(F)** A photocopy of a valid driver’s license or identification card issued to the person by a jurisdiction.
+    - **(G)** Any other information required by the Attorney General.
+- **(d)** *Duration of registration requirement; expunging registries of information for certain juvenile criminals*
+  - **(1)** *Duration of registration requirement* A criminal arsonist or criminal bomber shall keep the registration information provided under subsection (c) current for the full registration period (excluding any time the person is in custody). For purposes of this subsection, the full registration period—
+    - **(A)** shall commence on the later of the date on which the person is convicted of an offense of arson or bombing in violation of the laws of the jurisdiction in which the offense was committed or the United States, the date on which the person is released from prison for such conviction, or the date on which the person is placed on parole, supervised release, or probation for such conviction; and
+    - **(B)** shall be—
+      - **(i)** five years for a person who has been convicted of such an offense for the first time;
+      - **(ii)** ten years for a person who has been convicted of such an offense for the second time; and
+      - **(iii)** for the life of the person for a person who has been convicted of such an offense more than twice.
+  - **(2)** *Expunging registries of information for certain juvenile criminals*
+    - **(A)** *In general* In the case of a criminal arsonist or criminal bomber described in subparagraph (B), a jurisdiction shall expunge the arson and bomber registry of such jurisdiction of information related to such criminal arsonist or criminal bomber as of the date that is 5 years after the last day of the applicable full registration period under paragraph (1).
+    - **(B)** *Criminal arsonist described* For purposes of subparagraph (A), a criminal arsonist or criminal bomber described in this subparagraph is a criminal arsonist or criminal bomber who—
+      - **(i)** was a juvenile tried as an adult for the offense giving rise to the duty to register; and
+      - **(ii)** was not convicted of any other criminal felony during the period beginning on the first day of the applicable full registration period under paragraph (1) and ending on the last day of the 5-year period described in subparagraph (A).
+    - **(C)** *Application to other databases* The Attorney General shall establish a process to ensure that each entity that receives information under subsection (j) with respect to a criminal arsonist or criminal bomber described in subparagraph (B) shall expunge the applicable database of such information as of the date that is 5 years after the last day of the applicable full registration period under paragraph (1).
+- **(e)** *Annual verification* Not less than once in each calendar year during the full registration period, a criminal arsonist or criminal bomber required to register under this section shall—
+  - **(1)** appear in person at not less than one jurisdiction in which the person is required to register;
+  - **(2)** allow such jurisdiction to take a current photograph of the person; and
+  - **(3)** while present at such jurisdiction, verify the information in each registry in which the person is required to be registered.
+- **(f)** *Duty To notify criminal arsonists and criminal bombers of registration requirements and to register*
+  - **(1)** *In general* An appropriate official shall, shortly before release of a criminal arsonist or criminal bomber from custody, or, if the person is not in custody, immediately after the sentencing of the person for the offense giving rise to the duty to register—
+    - **(A)** inform the person of the duties of the person under this section and explain those duties in a manner that the person can understand in light of the person’s native language, mental capability, and age;
+    - **(B)** ensure that the person understands the registration requirement, and if so, require the person to read and sign a form stating that the duty to register has been explained and that the person understands the registration requirement;
+    - **(C)** if the person is unable to understand the registration requirements, the official shall sign a form stating that the person is unable to understand the registration requirements; and
+    - **(D)** ensure that the person is registered.
+  - **(2)** *Notification of criminal arsonists and criminal bombers who cannot comply with paragraph (1)* The Attorney General shall prescribe rules to ensure the notification and registration of criminal arsonists and criminal bombers in accordance with paragraph (1) who cannot be notified and registered at the time set forth in paragraph (1).
+- **(g)** *Access to information through the Internet*
+  - **(1)** *In general* Except as provided in this subsection, each jurisdiction shall make available on the Internet, in a manner that is readily accessible to law enforcement personnel and fire safety officers located in the jurisdiction, all information about each criminal arsonist and criminal bomber in the registry. The jurisdiction shall also include in the design of its Internet site all field search capabilities needed for full participation in the national Internet site established under subsection (i) and shall participate in that Internet site as provided by the Attorney General in regulations which comply with this paragraph.
+  - **(2)** *Prohibition on access by the public* Information about a criminal arsonist or criminal bomber shall not be made available under paragraph (1) on the Internet to the public.
+  - **(3)** *Mandatory exemptions* A jurisdiction shall exempt from disclosure on the Internet site of the jurisdiction described in paragraph (1), with respect to information about a criminal arsonist or criminal bomber—
+    - **(A)** any information about the criminal arsonist or criminal bomber involving conviction for an offense other than the offense or offenses for which the person is registered;
+    - **(B)** any information about the person if the person is participating in a witness protection program and the release of such information could jeopardize the safety of the person or any other person; and
+    - **(C)** any other information identified as a mandatory exemption from disclosure by the Attorney General.
+  - **(4)** *Optional exemptions* A jurisdiction is authorized to exempt from disclosure on the Internet site of the jurisdiction described in paragraph (1), with respect to information about a criminal arsonist or criminal bomber—
+    - **(A)** the name of an employer of the person; and
+    - **(B)** the name of an educational institution where the person is a student.
+  - **(5)** *Correction of errors* The Attorney General shall establish guidelines for each jurisdiction for a process to seek correction of information included in the Internet site established by the jurisdiction pursuant to paragraph (1) in the case that an individual contends such information is erroneous. Such guidelines shall provide for an adequate period following the date on which the individual has knowledge of the information’s inclusion in the Internet site for the individual to seek such correction of information.
+  - **(6)** *Warning* An Internet site established by a jurisdiction pursuant to paragraph (1) shall include a warning that information on the site is to be used for law enforcement purposes only and may only be disclosed in connection with such purposes. The warning shall note that any action in violation of the previous sentence may result in a civil or criminal penalty.
+- **(h)** *National criminal arsonist and criminal bomber registry*
+  - **(1)** *In general* The Attorney General shall maintain a national database at the Bureau of Alcohol, Tobacco, Firearms and Explosives for each criminal arsonist or criminal bomber. The database shall be known as the National Criminal Arsonist and Criminal Bomber Registry.
+  - **(2)** *Electronic forwarding* The Attorney General shall ensure (through the national registry or otherwise) that updated information about a criminal arsonist or criminal bomber is immediately transmitted by electronic forwarding to all relevant jurisdictions.
+  - **(3)** *Authorization of appropriations* In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated to the Attorney General, to carry out this subsection, such sums as may be necessary for each of the fiscal years 2010 through 2014.
+- **(i)** *National arsonist and bomber Internet site*
+  - **(1)** *In general* The Attorney General shall establish and maintain a national arsonist and bomber Internet site. The Internet site shall include relevant information for each criminal arsonist or criminal bomber. The Internet site shall allow law enforcement officers and fire safety officers to obtain relevant information for each criminal arsonist or criminal bomber by a single query for any given zip code or geographical radius set by the user in a form and with such limitations as may be established by the Attorney General and shall have such other field search capabilities as the Attorney General may provide.
+  - **(2)** *Prohibition on access by the public* Information about a criminal arsonist or criminal bomber shall not be made available under paragraph (1) on the Internet to the public.
+  - **(3)** *Authorization of appropriations* In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated to the Attorney General, to carry out this subsection, such sums as may be necessary for each of the fiscal years 2010 through 2014.
+- **(j)** *Notification procedures* Under a registration program established by a jurisdiction pursuant to subsection (a), immediately after a criminal arsonist or criminal bomber registers or updates a registration, an appropriate official in the jurisdiction shall provide the information in the registry (other than information exempted from disclosure by this section or by the Attorney General) about that offender to the following entities:
+  - **(1)** The Attorney General, who shall include that information in the National Registry.
+  - **(2)** Appropriate law enforcement agencies (including probation agencies, if appropriate) in each area in which the offender resides, is an employee, or is a student.
+  - **(3)** Each jurisdiction where the offender resides, is an employee, or is a student, and each jurisdiction from or to which a change of residence, employment, or student status occurs.
+- **(k)** *Actions To be taken when criminal arsonist or criminal bomber fails To comply* Under a registration program established by a jurisdiction pursuant to subsection (a), an appropriate official of the jurisdiction shall notify the Attorney General and appropriate law enforcement agencies of any failure by a criminal arsonist or criminal bomber to comply with the requirements of the registry for such jurisdiction, and shall revise the registry to reflect the nature of such failure. The appropriate official, the Attorney General, and each such law enforcement agency shall take any appropriate action to ensure compliance.
+- **(l)** *Development and availability of registry management and website software*
+  - **(1)** *Duty to develop and support* The Attorney General shall, in consultation with the jurisdictions, develop and support software to enable jurisdictions to establish and operate uniform registries and Internet sites.
+  - **(2)** *Criteria* The software described in paragraph (1) should facilitate—
+    - **(A)** immediate exchange of information among jurisdictions;
+    - **(B)** access over the Internet to appropriate information, including the number of registered criminal arsonists or criminal bombers in each jurisdiction on a current basis;
+    - **(C)** full compliance with the requirements of this section; and
+    - **(D)** communication of information as required under subsection (j).
+  - **(3)** *Deadline* The Attorney General shall make the first complete edition of this software available to jurisdictions not later than two years after the date of the enactment of this Act.
+- **(m)** *Period for implementation by jurisdictions*
+  - **(1)** *Deadline* To be in compliance with this section, a jurisdiction shall implement this section before the later of—
+    - **(A)** three years after the date of the enactment of this Act; or
+    - **(B)** one year after the date on which the software described in subsection (l) is made available to such jurisdiction.
+  - **(2)** *Extensions* The Attorney General may authorize not more than two one-year extensions of the deadline under paragraph (1).
+  - **(3)** *Failure of jurisdiction to comply* For any fiscal year after the expiration of the deadline specified in paragraph (1) (and any extension under paragraph (2)), a jurisdiction that fails, as determined by the Attorney General, to substantially implement this section shall, at the discretion of the Attorney General, be subject to not more than a 10 percent reduction of the funds that would otherwise be allocated for that fiscal year to the jurisdiction under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.), whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
+- **(n)** *Election by Indian tribes*
+  - **(1)** *Election*
+    - **(A)** *In general* A federally recognized Indian tribe may, by resolution or other enactment of the tribal council or comparable governmental body, elect to carry out this section as a jurisdiction subject to its provisions.
+    - **(B)** *Implementation* If a tribe does not, within one year of the enactment of this Act, make an election to take on these duties, it shall, by resolution or other enactment of the tribal council or comparable governmental body, enter into a cooperative agreement to arrange for a jurisdiction to carry out any function of the tribe under this section until such time as the tribe elects to carry out this section.
+  - **(2)** *Cooperation between tribal authorities and other jurisdictions*
+    - **(A)** *Nonduplication* A tribe subject to this section is not required to duplicate functions under this section which are fully carried out by another jurisdiction or jurisdictions within which the territory of the tribe is located.
+    - **(B)** *Cooperative agreements* A tribe may, through cooperative agreements with such a jurisdiction or jurisdictions—
+      - **(i)** arrange for the tribe to carry out any function of such a jurisdiction under this section with respect to criminal arsonists or criminal bombers subject to the tribe’s jurisdiction; and
+      - **(ii)** arrange for such a jurisdiction to carry out any function of the tribe under this section with respect to criminal arsonists and criminal bombers subject to the tribe’s jurisdiction.
+  - **(3)** *Law enforcement authority in Indian country* Enforcement of this section in Indian country, as defined in section 1151 of title 18, United States Code, shall be carried out by Federal, tribal, and State governments under existing jurisdictional authorities.
+- **(o)** *Immunity for good faith conduct* The Federal Government, jurisdictions, political subdivisions of jurisdictions, and their agencies, officers, employees, and agents shall be immune from liability for good faith conduct under this section.
+- **(p)** *Criminal arsonist and criminal bomber management assistance program*
+  - **(1)** *In general* The Attorney General shall establish and implement a Criminal Arsonist and Bomber Management Assistance program (in this subsection referred to as the “Assistance Program”), under which the Attorney General shall award grants to jurisdictions to offset the costs of implementing the other provisions of this section.
+  - **(2)** *Application* The chief executive of a jurisdiction desiring a grant under this subsection, with respect to a fiscal year, shall for each such fiscal year submit to the Attorney General an application in such form and containing such information as the Attorney General may require.
+  - **(3)** *Increased grant payments for prompt compliance* A jurisdiction that, as determined by the Attorney General, has substantially implemented the other provisions of this section not later than two years after the date of the enactment of this Act is eligible for a bonus payment in addition to the amount of grant funds available to such jurisdiction under paragraph (1). The Attorney General may, with respect to a jurisdiction, make such a bonus payment to the jurisdiction for the first fiscal year beginning after the date such determination is made. The amount of the bonus payment shall be as follows:
+    - **(A)** In the case of a determination that the jurisdiction has substantially implemented this section by a date that is not later than the date that is one year after the date of the enactment of this Act, 10 percent of the total grant funds available to the jurisdiction under paragraph (1) for such fiscal year.
+    - **(B)** In the case of a determination that the jurisdiction has substantially implemented this section by a date that is later than one year after the date of the enactment of this Act, but not later than the date that is two years after such date of enactment, 5 percent of such total.
+  - **(4)** *Authorization of appropriations* In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated to the Attorney General, to be available to carry out this subsection, such sums as may be necessary for each of the fiscal years 2010 through 2014.
+- **(q)** *Definitions* For purposes of this section:
+  - **(1)** *Criminal arsonist* The term criminal arsonist means an individual who is convicted of any criminal offense for committing arson, attempting arson, or conspiracy to commit arson in violation of the laws of the jurisdiction in which such offense was committed or the United States. Such term shall not include a juvenile who is convicted of such an offense unless such juvenile was tried as an adult for such offense.
+  - **(2)** *Criminal bomber* The term criminal bomber means an individual who is convicted of any criminal offense for committing a bombing, attempting a bombing, or conspiracy to commit a bombing in violation of the laws of the jurisdiction in which such offense was committed or the United States. Such term shall not include a juvenile who is convicted of such an offense unless such juvenile was tried as an adult for such offense.
+  - **(3)** *Arsonist and bomber registry* The term arsonist and bomber registry means a registry of criminal arsonists, and a notification program, maintained by a jurisdiction.
+  - **(4)** *Criminal offense* The term criminal offense means a Federal State, local, tribal, foreign, or military offense (to the extent specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105–119 (10 U.S.C. 951 note)) or other criminal offense.
+  - **(5)** *Employee* The term employee includes an individual who is self-employed or works for any other entity, whether compensated or not.
+  - **(6)** *Fire safety officer* The term fire safety officer means an individual serving in an official capacity as a firefighter, fire investigator, or other arson investigator, as defined by the jurisdiction for the purposes of this section.
+  - **(7)** *Jurisdiction* The term jurisdiction means any of the following:
+    - **(A)** A State.
+    - **(B)** The District of Columbia.
+    - **(C)** The Commonwealth of Puerto Rico.
+    - **(D)** Guam.
+    - **(E)** American Samoa.
+    - **(F)** The Northern Mariana Islands.
+    - **(G)** The United States Virgin Islands.
+    - **(H)** To the extent provided and subject to the requirements of subsection (o), a federally recognized Indian tribe.
+  - **(8)** *Law enforcement officer* The term law enforcement officer has the meaning given such term in section 1204 of the Omnibus Crime Control and Safe Street Act of 1968 (42 U.S.C. 3796b).
+  - **(9)** *Resides* The term resides means, with respect to an individual, the location of the individual’s home or other place where the individual habitually lives.
+  - **(10)** *Student* The term student means an individual who enrolls in or attends an educational institution (whether public or private), including a secondary school, trade or professional school, and institution of higher education.
