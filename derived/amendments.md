@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1617
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subtitle C of title II of the Homeland Security Act of 2002 (6 U.S.C. 141 et seq.) is amended by inserting after section 222 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents in section 1(b) of such Act is amended by inserting after the item related to section 222 the following new item: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 141` | insert | Subtitle C of title II of the Homeland Security Act of 2002 (6 U.S.C. 141 et seq.) is amended by inserting after section 222 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 141` | insert | The table of contents in section 1(b) of such Act is amended by inserting after the item related to section 222 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

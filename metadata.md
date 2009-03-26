@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1617
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1617
@@ -20,9 +20,10 @@ Department of Homeland Security Component Privacy Officer Act of 2009
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Department of Homeland Security Component Privacy Officer Act of 2009
 - 2009-03-24 — Mr. Carney moved to suspend the rules and pass the bill.
 - 2009-03-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 147). (text: CR H3761)
 - 2009-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 147).(text: CR H3761)
+- 2009-03-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
