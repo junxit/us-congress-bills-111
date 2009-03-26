@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1513
@@ -16,7 +16,7 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Hall, John J. [D-NY-19] (H001039)
@@ -24,6 +24,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
 - Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
 - Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
 ## Committees (1)
 
@@ -34,3 +38,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 - 2009-03-16 — Introduced in House
 - 2009-03-16 — Introduced in House
 - 2009-03-16 — Referred to the House Committee on Veterans' Affairs.
+- 2009-03-20 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2009-03-20 — Subcommittee on Disability Assistance and Memorial Affairs Discharged.
+- 2009-03-25 — Committee Consideration and Mark-up Session Held.
+- 2009-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-03-26 — Placed on the Union Calendar, Calendar No. 23.
+- 2009-03-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-56.
+- 2009-03-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-56.
