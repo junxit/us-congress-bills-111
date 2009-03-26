@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1388
@@ -81,7 +81,7 @@ Serve America Act
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (15)
+## Recorded votes (16)
 
 - 2009-03-18 — [House 111-1-133](votes/house-111-1-0133.md) — On Agreeing to the Amendment — **Agreed to** (388–36)
 - 2009-03-18 — [House 111-1-134](votes/house-111-1-0134.md) — On Agreeing to the Amendment — **Agreed to** (261–168)
@@ -98,6 +98,7 @@ Serve America Act
 - 2009-03-26 — [Senate 111-1-113](votes/senate-111-1-0113.md) — On the Amendment — **Amendment Rejected** (48–49)
 - 2009-03-26 — [Senate 111-1-114](votes/senate-111-1-0114.md) — On the Motion to Table — **Motion to Table Agreed to** (53–43)
 - 2009-03-26 — [Senate 111-1-115](votes/senate-111-1-0115.md) — On Passage of the Bill — **Bill Passed** (79–19)
+- 2009-03-31 — [House 111-1-169](votes/house-111-1-0169.md) — On Motion To Concur in the Senate Amendments — **Passed** (275–149)
 
 ## Actions
 
@@ -372,3 +373,17 @@ Serve America Act
 - 2009-03-26 — Senate amendment submitted
 - 2009-03-26 — Senate amendment submitted
 - 2009-03-26 — Senate amendment submitted
+- 2009-03-30 — Message on Senate action sent to the House.
+- 2009-03-31 — Cleared for White House.
+- 2009-03-31 — DEBATE - Pursuant to the provisions of H.Res. 296, the House proceeded with one hour of debate on the George Miller (CA) motion to agree to the Senate amendments to H.R. 1388.
+- 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-31 — Mr. Miller, George moved that the House agree to the Senate amendments. (consideration: CR H4145-4186)
+- 2009-03-31 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 275 - 149 (Roll no. 169). (text as House agreed to Senate amendment: CR H4145-4181)
+- 2009-03-31 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 275 - 149 (Roll no. 169).(text as House agreed to Senate amendment: CR H4145-4181)
+- 2009-03-31 — The previous question was ordered pursuant to the rule. (consideration: CR H4185)
+- 2009-04-20 — Presented to President.
+- 2009-04-20 — Presented to President.
+- 2009-04-21 — Became Public Law No: 111-13.
+- 2009-04-21 — Became Public Law No: 111-13.
+- 2009-04-21 — Signed by President.
+- 2009-04-21 — Signed by President.
