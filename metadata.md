@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1388
@@ -16,7 +16,7 @@ Serve America Act
 
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 
-## Cosponsors (37)
+## Cosponsors (58)
 
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
@@ -55,12 +55,33 @@ Serve America Act
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
 
-## Recorded votes (8)
+## Recorded votes (15)
 
 - 2009-03-18 — [House 111-1-133](votes/house-111-1-0133.md) — On Agreeing to the Amendment — **Agreed to** (388–36)
 - 2009-03-18 — [House 111-1-134](votes/house-111-1-0134.md) — On Agreeing to the Amendment — **Agreed to** (261–168)
@@ -70,6 +91,13 @@ Serve America Act
 - 2009-03-18 — [House 111-1-138](votes/house-111-1-0138.md) — On Agreeing to the Amendment — **Agreed to** (339–93)
 - 2009-03-18 — [House 111-1-139](votes/house-111-1-0139.md) — On Motion to Recommit with Instructions — **Passed** (318–105)
 - 2009-03-18 — [House 111-1-140](votes/house-111-1-0140.md) — On Passage — **Passed** (321–105)
+- 2009-03-23 — [Senate 111-1-108](votes/senate-111-1-0108.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (74–14)
+- 2009-03-25 — [Senate 111-1-110](votes/senate-111-1-0110.md) — On the Motion — **Motion Rejected** (48–49)
+- 2009-03-25 — [Senate 111-1-111](votes/senate-111-1-0111.md) — On the Motion to Table — **Motion to Table Agreed to** (56–41)
+- 2009-03-26 — [Senate 111-1-112](votes/senate-111-1-0112.md) — On the Amendment — **Amendment Agreed to** (56–41)
+- 2009-03-26 — [Senate 111-1-113](votes/senate-111-1-0113.md) — On the Amendment — **Amendment Rejected** (48–49)
+- 2009-03-26 — [Senate 111-1-114](votes/senate-111-1-0114.md) — On the Motion to Table — **Motion to Table Agreed to** (53–43)
+- 2009-03-26 — [Senate 111-1-115](votes/senate-111-1-0115.md) — On Passage of the Bill — **Bill Passed** (79–19)
 
 ## Actions
 
@@ -206,3 +234,141 @@ Serve America Act
 - 2009-03-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-03-19 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3577; text: CR S3577)
 - 2009-03-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
+- 2009-03-23 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 74 - 14. Record Vote Number: 108. (consideration: CR S3600-3601; text: CR S3600)
+- 2009-03-23 — Motion to proceed to measure considered in Senate. (consideration: CR S3592-3601)
+- 2009-03-24 — Amendment SA 687 proposed by Senator Mikulski. (consideration: CR S3636-3637) In the nature of a substitute.
+- 2009-03-24 — Amendment SA 688 proposed by Senator Crapo to Amendment SA 687. (consideration: CR S3637-3648; text: CR S3637) To increase the borrowing authority of the Federal Deposit Insurance Corporation, and for other purposes.
+- 2009-03-24 — Amendment SA 692 proposed by Senator Baucus to Amendment SA 687. (consideration: CR S3649-3650; text: CR S3649-3650) To establish a Nonprofit Capacity Building Program.
+- 2009-03-24 — Amendment SA 693 proposed by Senator Johanns to Amendment SA 687. (consideration: CR S3648-3649; text: CR S3648) To ensure that organizations promoting competitive and non-competitive sporting events involving individuals with disabilities may receive direct and indirect assistance to carry out national service programs.
+- 2009-03-24 — Measure laid before Senate by motion. (consideration: CR S3636-3650)
+- 2009-03-24 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2009-03-24 — Motion to proceed to measure considered in Senate. (consideration: CR S3628-3636)
+- 2009-03-24 — Senate amendment proposed (on the floor): Amendment SA 687 proposed by Senator Mikulski.(consideration: CR S3636-3637)
+- 2009-03-24 — Senate amendment proposed (on the floor): Amendment SA 688 proposed by Senator Crapo to Amendment SA 687.(consideration: CR S3637-3648; text: CR S3637)
+- 2009-03-24 — Senate amendment proposed (on the floor): Amendment SA 692 proposed by Senator Baucus to Amendment SA 687.(consideration: CR S3649-3650; text: CR S3649-3650)
+- 2009-03-24 — Senate amendment proposed (on the floor): Amendment SA 693 proposed by Senator Johanns to Amendment SA 687.(consideration: CR S3648-3649; text: CR S3648)
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-24 — Senate amendment submitted
+- 2009-03-25 — Amendment SA 688 ruled out of order by the chair.
+- 2009-03-25 — Amendment SA 691 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Amendment SA 691 proposed by Senator Murkowski for Senator Dorgan to Amendment SA 687. (consideration: CR S3745-3751, S3776; text: CR S3745-3746) To modify certain provisions relating to Native Americans.
+- 2009-03-25 — Amendment SA 692 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Amendment SA 693 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3772)
+- 2009-03-25 — Amendment SA 695 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3776)
+- 2009-03-25 — Amendment SA 695 proposed by Senator Durbin for Senator Burr. (consideration: CR S3776) To provide for outreach to high schools with low graduation rates.
+- 2009-03-25 — Amendment SA 696 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3776)
+- 2009-03-25 — Amendment SA 696 proposed by Senator Durbin for Senator Burr. (consideration: CR S3776) To clarify references to high school graduation rates.
+- 2009-03-25 — Amendment SA 712 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Amendment SA 712 proposed by Senator Shaheen to Amendment SA 687. (consideration: CR S3761-3762, S3776; text: CR S3761) To provide that an Education Corps may carry out activities that provide music and arts education and engagement.
+- 2009-03-25 — Amendment SA 715 proposed by Senator Ensign to Amendment SA 692. (consideration: CR S3760-3761, S3771-3772; text: CR S3760; text as modified: CR S3771) To clarify that nonprofit organizations assisted under the Nonprofit Capacity Building Program include certain crisis pregnancy centers, and organizations that serve battered women or victims of rape or incest.
+- 2009-03-25 — Amendment SA 716 proposed by Senator Thune to Amendment SA 687. (consideration: CR S3762-3764; text: CR S3762-3763) To express the sense of the Senate regarding the Federal income tax deduction for charitable giving.
+- 2009-03-25 — Amendment SA 717 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Amendment SA 717 proposed by Senator Landrieu to Amendment SA 687. (consideration: CR S3764-3765, S3772; text: CR S3764) To add a foster care program to the national service corps program.
+- 2009-03-25 — Cloture motion on amendment SA 687 presented in Senate. (consideration: CR S3772; text: CR S3772)
+- 2009-03-25 — Cloture motion on the bill presented in Senate. (consideration: CR S3772; text: CR S3772)
+- 2009-03-25 — Considered by Senate. (consideration: CR S3745, S3751-3752, S3757-3760)
+- 2009-03-25 — Considered by Senate. (consideration: CR S3745, S3772)
+- 2009-03-25 — Considered by Senate. (consideration: CR S3745, S3772)
+- 2009-03-25 — Considered by Senate. (consideration: CR S3745, S3772)
+- 2009-03-25 — Considered by Senate. (consideration: CR S3745-3753, S3754-3755, S3755-3773, S3776)
+- 2009-03-25 — Motion to table amendment SA 715 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 111.
+- 2009-03-25 — Motion to waive the Budget Act with respect to amendment SA 688 rejected in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 110.
+- 2009-03-25 — Point of order raised in Senate with respect to amendment SA 688.
+- 2009-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 715 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 111.
+- 2009-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 688 rejected in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 110.
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 691 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 692 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 693 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3772)
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 695 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3776)
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 696 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3776)
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 712 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Senate amendment agreed to: Amendment SA 717 agreed to in Senate by Unanimous Consent.
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 691 proposed by Senator Murkowski for Senator Dorgan to Amendment SA 687.(consideration: CR S3745-3751, S3776; text: CR S3745-3746)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 695 proposed by Senator Durbin for Senator Burr.(consideration: CR S3776)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 696 proposed by Senator Durbin for Senator Burr.(consideration: CR S3776)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 712 proposed by Senator Shaheen to Amendment SA 687.(consideration: CR S3761-3762, S3776; text: CR S3761)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 715 proposed by Senator Ensign to Amendment SA 692.(consideration: CR S3760-3761, S3771-3772; text: CR S3760; text as modified: CR S3771)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 716 proposed by Senator Thune to Amendment SA 687.(consideration: CR S3762-3764; text: CR S3762-3763)
+- 2009-03-25 — Senate amendment proposed (on the floor): Amendment SA 717 proposed by Senator Landrieu to Amendment SA 687.(consideration: CR S3764-3765, S3772; text: CR S3764)
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-25 — Senate amendment submitted
+- 2009-03-26 — Amendment SA 687 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Amendment SA 690 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3833)
+- 2009-03-26 — Amendment SA 690 proposed by Senator Mikulski for Senator Ensign to Amendment SA 687. (consideration: CR S3833) To improve the provisions relating to erroneous or incorrect certifications.
+- 2009-03-26 — Amendment SA 705 proposed by Senator Vitter to Amendment SA 687. (consideration: CR S3830-3833, S3834-3835; text: CR S3830) To prohibit ACORN, or organizations affiliated or co-located with ACORN, from receiving assistance under this Act.
+- 2009-03-26 — Amendment SA 714 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Amendment SA 714 proposed by Senator Mikulski for Senator Warner to Amendment SA 687. (consideration: CR S3836; text: CR S3836) To conduct a study regarding the establishment of a Volunteer Management Corps program.
+- 2009-03-26 — Amendment SA 716 not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 113.
+- 2009-03-26 — Amendment SA 721 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 112.
+- 2009-03-26 — Amendment SA 721 proposed by Senator Baucus to Amendment SA 687. (consideration: CR S3828-3830, S3833-3834; text: CR S3828) To express the sense of the Senate regarding the Federal income tax deduction for charitable giving.
+- 2009-03-26 — Amendment SA 722 proposed by Senator Burr to Amendment SA 687. (consideration: CR S3826-3827; text: CR S3826) To strengthen criminal history checks for participants in national service programs working with vulnerable populations.
+- 2009-03-26 — Amendment SA 727 agreed to in Senate by Voice Vote.
+- 2009-03-26 — Amendment SA 727 proposed by Senator Burr to Amendment SA 687. (consideration: CR S3835-3836; text: CR S3835-3836) To strengthen criminal history checks for individuals working with vulnerable populations and for other purposes
+- 2009-03-26 — Amendment SA 728 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Amendment SA 728 proposed by Senator Mikulski to Amendment SA 687. (consideration: CR S3837; text: CR S3837) Of a perfecting nature.
+- 2009-03-26 — Amendment SA 729 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Amendment SA 729 proposed by Senator Hatch. (consideration: CR S3884-3885; text: CR S3884) To amend the title.
+- 2009-03-26 — Cloture motion on amendment SA 687 withdrawn by unanimous consent in Senate. (consideration: CR S3844)
+- 2009-03-26 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S3844)
+- 2009-03-26 — Considered by Senate. (consideration: CR S3822-3841, S3841-3885)
+- 2009-03-26 — Considered by Senate. (consideration: CR S3823, S3828, S3834)
+- 2009-03-26 — Considered by Senate. (consideration: CR S3823, S3848)
+- 2009-03-26 — Motion to table amendment SA 705 agreed to in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 114.
+- 2009-03-26 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 79 - 19. Record Vote Number: 115. (text: CR S3848-3884)
+- 2009-03-26 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 79 - 19. Record Vote Number: 115.(text: CR S3848-3884)
+- 2009-03-26 — Proposed amendment SA 722 withdrawn in Senate. (consideration: CR S3835)
+- 2009-03-26 — Roll call votes on amendments in Senate: Amendment SA 716 not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 113.
+- 2009-03-26 — Roll call votes on amendments in Senate: Amendment SA 721 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 112.
+- 2009-03-26 — Roll call votes on amendments in Senate: Motion to table amendment SA 705 agreed to in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 114.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 687 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 690 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3833)
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 714 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 721 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 112.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 727 agreed to in Senate by Voice Vote.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 728 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Senate amendment agreed to: Amendment SA 729 agreed to in Senate by Unanimous Consent.
+- 2009-03-26 — Senate amendment not agreed to: Amendment SA 716 not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 113.
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 690 proposed by Senator Mikulski for Senator Ensign to Amendment SA 687.(consideration: CR S3833)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 705 proposed by Senator Vitter to Amendment SA 687.(consideration: CR S3830-3833, S3834-3835; text: CR S3830)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 714 proposed by Senator Mikulski for Senator Warner to Amendment SA 687.(consideration: CR S3836; text: CR S3836)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 721 proposed by Senator Baucus to Amendment SA 687.(consideration: CR S3828-3830, S3833-3834; text: CR S3828)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 722 proposed by Senator Burr to Amendment SA 687.(consideration: CR S3826-3827; text: CR S3826)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 727 proposed by Senator Burr to Amendment SA 687.(consideration: CR S3835-3836; text: CR S3835-3836)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 728 proposed by Senator Mikulski to Amendment SA 687.(consideration: CR S3837; text: CR S3837)
+- 2009-03-26 — Senate amendment proposed (on the floor): Amendment SA 729 proposed by Senator Hatch.(consideration: CR S3884-3885; text: CR S3884)
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
+- 2009-03-26 — Senate amendment submitted
