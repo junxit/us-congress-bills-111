@@ -1,0 +1,56 @@
+---
+legis-num: H.R. 1779
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1779
+
+> To provide for resources for the investigation and prosecution of financial crimes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Financial Crimes Resources Act of 2009”.
+
+## § 2. Additional funding for resources to investigate and prosecute criminal activity involving computers, crimes of fraud involving Federal economic assistance and relief programs, and financial crimes
+
+- **(a)** *Additional funding for resources*
+  - **(1)** *Authorization* For the purposes described in subsection (b), there are authorized to be appropriated for each of the fiscal years 2010 through 2012—
+    - **(A)** to the Director of the United States Secret Service, $20,000,000;
+    - **(B)** to the Director of the Federal Bureau of Investigation, $100,000,000;
+    - **(C)** to the Attorney General, for—
+      - **(i)** the Criminal Division of the Department of Justice, $20,000,000;
+      - **(ii)** the Civil Division of the Department of Justice, $15,000,000;
+      - **(iii)** the Tax Division of the Department of Justice, $5,000,000; and
+      - **(iv)** the offices of the United States Attorneys, $50,000,000;
+    - **(D)** to the Inspector General of the Department of Housing and Urban Development, $30,000,000;
+    - **(E)** to the Chief Postal Inspector of the United States Postal Inspection Service, $30,000,000; and
+    - **(F)** to the Director of the Administrative Office of the United States Courts, $20,000,000.
+  - **(2)** *Additional funding and availability* The amounts authorized under paragraph (1) are in addition to amounts otherwise authorized in other Acts, and shall remain available until expended.
+- **(b)** *Use of additional funding* Funds made available under subsection (a)(1) shall be used—
+  - **(1)** by the recipients described in subparagraphs (A) through (E) of such subsection, to provide for resources to investigate and prosecute criminal activity involving computers, crimes of fraud involving Federal economic assistance and relief programs, and financial crimes, including mortgage fraud, securities fraud, and financial institution fraud; and
+  - **(2)** by the recipient described in subparagraph (F) of such subsection, for costs associated with providing defense services in cases in which a defendant is charged with criminal activity involving computers, crimes of fraud involving Federal economic assistance and relief programs, and financial crimes, including mortgage fraud, securities fraud, and financial institution fraud.
+
+## § 3. Grants for State and local law enforcement
+
+- **(a)** *In general* Subject to the availability of amounts provided in advance in appropriations Acts, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice may award grants to States to establish and develop programs to increase and enhance enforcement against criminal activity involving computers and financial crimes, including mortgage fraud, securities fraud, and financial institution fraud.
+- **(b)** *Application* To be eligible for a grant under subsection (a), a State shall submit an application to the Assistant Attorney General for the Office of Justice Programs of the Department of Justice at such time, in such manner, and containing such information, including as described in subsection (d), as the Assistant Attorney General may require.
+- **(c)** *Use of grant amounts* A grant awarded to a State under subsection (a) shall be used by a State to establish and develop programs to—
+  - **(1)** assist State and local law enforcement agencies in enforcing State and local criminal laws relating to criminal activity involving computers and financial crimes;
+  - **(2)** assist State and local law enforcement agencies in educating the public to prevent and identify criminal activity involving computers and financial crimes;
+  - **(3)** educate and train State and local law enforcement officers and prosecutors to conduct investigations, forensic analyses of evidence, and prosecutions of criminal activity involving computers and financial crimes;
+  - **(4)** assist State and local law enforcement officers and prosecutors in acquiring computer and other equipment to conduct investigations and forensic analysis of evidence of criminal activity involving computers and financial crimes;
+  - **(5)** assist public defenders with providing defense services to defendents in cases in which the defendant is charged with criminal activity involving computers or a financial crime, including mortgage fraud, securities fraud, and financial institution fraud; and
+  - **(6)** facilitate and promote communication between Federal, State, and local law enforcement to improve the sharing of Federal law enforcement expertise and information about the investigation, forensic analysis of evidence, and prosecution of criminal activity involving computers and financial crimes with State and local law enforcement officers and prosecutors, including the use of multi-jurisdictional task forces.
+- **(d)** *Assurances and eligibility* To be eligible to receive a grant under subsection (a), a State shall provide assurances to the Assistant Attorney General for the Office of Justice Programs of the Department of Justice that the State—
+  - **(1)** will provide an assessment of the resource needs of the State and units of local government within that State, including criminal justice resources being devoted to the investigation and enforcement of laws related to criminal activity involving computers and financial crimes;
+  - **(2)** will develop a plan for coordinating the programs funded under this section with other federally funded technical assistance and training programs; and
+  - **(3)** will submit to the Assistant Attorney General for the Office of Justice Programs of the Department of Justice applicable reports in accordance with subsection (f).
+- **(e)** *Matching funds* The Federal share of a grant received under this section may not exceed 90 percent of the total cost of a program or proposal funded under this section unless the Assistant Attorney General for the Office of Justice Programs of the Department of Justice waives, wholly or in part, the requirements of this subsection.
+- **(f)** *Reports* For each year that a State receives a grant under subsection (a) for a program, the State shall submit to the Assistant Attorney General for the Office of Justice Programs of the Department of Justice a report on the results, including the effectiveness, of such program during such year.
+- **(g)** *Authorization of appropriations*
+  - **(1)** *In general* There is authorized to be appropriated to carry out this section $250,000,000 for each of the fiscal years 2010 through 2012.
+  - **(2)** *Limitations* Of the amount made available to carry out this section in any fiscal year, not more than 3 percent may be used for salaries and administrative expenses for the Department of Justice.
+  - **(3)** *Minimum amount* Each State submitting an application for, and eligible to receive, a grant under this section for a fiscal year shall be allocated under this section, in each such fiscal year, not less than 0.75 percent of the total amount appropriated in such fiscal year for grants pursuant to this section, except that not less than 0.25 percent of such total amount shall be allocated to the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands, collectively.
+  - **(4)** *Grants to Indian tribes* Notwithstanding any other provision of this section, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
