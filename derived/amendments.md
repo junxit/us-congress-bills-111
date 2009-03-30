@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by redesignating subsections (e) through (h) as subsections (f) through (g), and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 111(b)(3)(D)(iii) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(b)(3)(D)(iii)) is amended by inserting before the period the following: “, except that no entity subject to subsection (e) may pay a bonus to a… | the bill names no machine-readable US Code section |
+| — | redesignate | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by redesignating subsections (e) through (h) as subsections (f) through (i), and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 111(b)(3)(D)(iii) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(b)(3)(D)(iii)) is amended by inserting before the period the following: “, except that an entity subject to subsection (e) may not, while a cap… | the bill names no machine-readable US Code section |

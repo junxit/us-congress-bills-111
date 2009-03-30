@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1664
@@ -16,7 +16,7 @@ To amend the executive compensation provisions of the Emergency Economic Stabili
 
 - Rep. Grayson, Alan [D-FL-8] (G000556)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
@@ -26,6 +26,7 @@ To amend the executive compensation provisions of the Emergency Economic Stabili
 - Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
 ## Committees (1)
 
@@ -37,3 +38,8 @@ To amend the executive compensation provisions of the Emergency Economic Stabili
 - 2009-03-23 — Introduced in House
 - 2009-03-23 — Referred to the House Committee on Financial Services.
 - 2009-03-23 — Sponsor introductory remarks on measure. (CR E742)
+- 2009-03-26 — Committee Consideration and Mark-up Session Held.
+- 2009-03-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 22.
+- 2009-03-30 — Placed on the Union Calendar, Calendar No. 28.
+- 2009-03-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-64.
+- 2009-03-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-64.
