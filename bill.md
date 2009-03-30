@@ -21,4 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(C)** A payment in the amount payable under subparagraph (A) shall be considered payment in full and shall extinguish the veteran’s liability to the provider.
   >   - **(D)** The Secretary may not reimburse a veteran under this section for any copayment or similar payment that the veteran owes the third party or for which the veteran is responsible under a health-plan contract.
 
-- **(c)** *Effective date* The amendments made by subsections (a) and (b) shall apply with respect to emergency treatment furnished on or after October 8, 2007.
+- **(c)** *Effective date*
+  - **(1)** *In general* The amendments made by subsections (a) and (b) shall take effect on the date of the enactment of this Act, and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
+  - **(2)** *Reimbursement for treatment provided before effective date* The Secretary may provide reimbursement under section 1725 of title 38, United States Code, as amended by subsections (a) and (b), for emergency treatment furnished to a veteran before the date of the enactment of this Act, if the Secretary determines that, under the circumstances applicable with respect to the veteran, it is appropriate to do so.

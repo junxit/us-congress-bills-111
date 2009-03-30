@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1377
@@ -38,3 +38,9 @@ To amend title 38, United States Code, to expand veteran eligibility for reimbur
 - 2009-03-26 — Placed on the Union Calendar, Calendar No. 22.
 - 2009-03-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-55.
 - 2009-03-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-55.
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4069-4070)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1377.
+- 2009-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-30 — Mrs. Halvorson moved to suspend the rules and pass the bill, as amended.
+- 2009-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4069)
+- 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4069)
