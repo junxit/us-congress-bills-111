@@ -1,7 +1,7 @@
 ---
 measure: H.R. 20
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 20
@@ -38,6 +38,10 @@ Melanie Blocker Stokes MOTHERS Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2009-03-30 — [House 111-1-164](votes/house-111-1-0164.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (391–8)
+
 ## Actions
 
 - 2009-01-06 — Introduced in House
@@ -50,3 +54,11 @@ Melanie Blocker Stokes MOTHERS Act
 - 2009-03-23 — Placed on the Union Calendar, Calendar No. 18.
 - 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-48.
 - 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-48.
+- 2009-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-30 — Considered as unfinished business. (consideration: CR H4101-4102)
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4081-4084)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 20.
+- 2009-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-30 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2009-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 8 (Roll no. 164). (text: CR H4081-4082)
+- 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 8 (Roll no. 164).(text: CR H4081-4082)
