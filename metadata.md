@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 985
@@ -16,7 +16,7 @@ Free Flow of Information Act of 2009
 
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 
-## Cosponsors (38)
+## Cosponsors (50)
 
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -56,6 +56,18 @@ Free Flow of Information Act of 2009
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Lee, Christopher J. [R-NY-26] (L000568)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 
 ## Committees (1)
 
@@ -67,3 +79,8 @@ Free Flow of Information Act of 2009
 - 2009-02-11 — Introduced in House
 - 2009-02-11 — Referred to the House Committee on the Judiciary.
 - 2009-02-11 — Sponsor introductory remarks on measure. (CR E242-243)
+- 2009-03-25 — Committee Consideration and Mark-up Session Held.
+- 2009-03-25 — Ordered to be Reported by Voice Vote.
+- 2009-03-30 — Placed on the Union Calendar, Calendar No. 26.
+- 2009-03-30 — Reported by the Committee on Judiciary. H. Rept. 111-61.
+- 2009-03-30 — Reported by the Committee on Judiciary. H. Rept. 111-61.
