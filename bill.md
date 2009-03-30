@@ -72,33 +72,23 @@ Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is a
 
 ## § 4. Pain care education and training
 
-- **(a)** *Pain Care Education and Training* Part D of title VII of the Public Health Service Act (42 U.S.C. 294 et seq.) is amended—
-  - **(1)** by redesignating sections 754 through 758 as sections 755 through 759, respectively; and
-  - **(2)** by inserting after section 753 the following:
-    > ## § 754. Program for education and training in pain care
-    >
-    > - **(a)** *In general* The Secretary may make awards of grants, cooperative agreements, and contracts to health professions schools, hospices, and other public and private entities for the development and implementation of programs to provide education and training to health care professionals in pain care.
-    > - **(b)** *Priorities* In making awards under subsection (a), the Secretary shall give priority to awards for the implementation of programs under such subsection.
-    > - **(c)** *Certain topics* An award may be made under subsection (a) only if the applicant for the award agrees that the program carried out with the award will include information and education on—
-    >   - **(1)** recognized means for assessing, diagnosing, treating, and managing pain and related signs and symptoms, including the medically appropriate use of controlled substances;
-    >   - **(2)** applicable laws, regulations, rules, and policies on controlled substances, including the degree to which misconceptions and concerns regarding such laws, regulations, rules, and policies, or the enforcement thereof, may create barriers to patient access to appropriate and effective pain care;
-    >   - **(3)** interdisciplinary approaches to the delivery of pain care, including delivery through specialized centers providing comprehensive pain care treatment expertise;
-    >   - **(4)** cultural, linguistic, literacy, geographic, and other barriers to care in underserved populations; and
-    >   - **(5)** recent findings, developments, and improvements in the provision of pain care.
-    > - **(d)** *Program sites* Education and training under subsection (a) may be provided at or through health professions schools, residency training programs, and other graduate programs in the health professions; entities that provide continuing education in medicine, pain management, dentistry, psychology, social work, nursing, and pharmacy; hospices; and such other programs or sites as the Secretary determines to be appropriate.
-    > - **(e)** *Evaluation of programs* The Secretary shall (directly or through grants or contracts) provide for the evaluation of programs implemented under subsection (a) in order to determine the effect of such programs on knowledge and practice of pain care.
-    > - **(f)** *Peer review groups* In carrying out section 799(f) with respect to this section, the Secretary shall ensure that the membership of each peer review group involved includes individuals with expertise and experience in pain care.
-    > - **(g)** *Definitions* For purposes of this section the term pain care means the assessment, diagnosis, treatment, or management of acute or chronic pain regardless of causation or body location.
+Part D of title VII of the Public Health Service Act (42 U.S.C. 294 et seq.) is amended by adding at the end the following new section:
 
-- **(b)** *Authorization of appropriations* Section 758(b)(1) of the Public Health Service Act (as redesignated by subsection (a)(1) of this section) is amended—
-  - **(1)** by striking “and” at the end of subparagraph (B);
-  - **(2)** by striking the period at the end of subparagraph (C) and inserting “; and”; and
-  - **(3)** by inserting after subparagraph (C) the following:
-    > - **(D)** not less than $5,000,000 for awards of grants, cooperative agreements, and contracts under sections 754.
-
-- **(c)** *Technical amendments* Title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) is amended—
-  - **(1)** in paragraph (2) of section 757(b) (as redesignated by subsection (a)(1)), by striking “754(3)(A), and 755(b)” and inserting “755(3)(A), and 756(b)”; and
-  - **(2)** in subparagraph (C) of section 758(b)(1) (as redesignated by subsection (a)(1)), by striking “754, and 755” and inserting “755, and 756”.
+> ## § 759. Program for education and training in pain care
+>
+> - **(a)** *In general* The Secretary may make awards of grants, cooperative agreements, and contracts to health professions schools, hospices, and other public and private entities for the development and implementation of programs to provide education and training to health care professionals in pain care.
+> - **(b)** *Priorities* In making awards under subsection (a), the Secretary shall give priority to awards for the implementation of programs under such subsection.
+> - **(c)** *Certain topics* An award may be made under subsection (a) only if the applicant for the award agrees that the program carried out with the award will include information and education on—
+>   - **(1)** recognized means for assessing, diagnosing, treating, and managing pain and related signs and symptoms, including the medically appropriate use of controlled substances;
+>   - **(2)** applicable laws, regulations, rules, and policies on controlled substances, including the degree to which misconceptions and concerns regarding such laws, regulations, rules, and policies, or the enforcement thereof, may create barriers to patient access to appropriate and effective pain care;
+>   - **(3)** interdisciplinary approaches to the delivery of pain care, including delivery through specialized centers providing comprehensive pain care treatment expertise;
+>   - **(4)** cultural, linguistic, literacy, geographic, and other barriers to care in underserved populations; and
+>   - **(5)** recent findings, developments, and improvements in the provision of pain care.
+> - **(d)** *Program sites* Education and training under subsection (a) may be provided at or through health professions schools, residency training programs, and other graduate programs in the health professions; entities that provide continuing education in medicine, pain management, dentistry, psychology, social work, nursing, and pharmacy; hospices; and such other programs or sites as the Secretary determines to be appropriate.
+> - **(e)** *Evaluation of programs* The Secretary shall (directly or through grants or contracts) provide for the evaluation of programs implemented under subsection (a) in order to determine the effect of such programs on knowledge and practice of pain care.
+> - **(f)** *Peer review groups* In carrying out section 799(f) with respect to this section, the Secretary shall ensure that the membership of each peer review group involved includes individuals with expertise and experience in pain care.
+> - **(g)** *Pain care defined* For purposes of this section the term pain care means the assessment, diagnosis, treatment, or management of acute or chronic pain regardless of causation or body location.
+> - **(h)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $5,000,000 for each of the fiscal years 2010 through 2012. Amounts appropriated under this subsection shall remain available until expended.
 
 ## § 5. Public awareness campaign on pain management
 

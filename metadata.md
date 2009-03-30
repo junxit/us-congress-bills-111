@@ -1,7 +1,7 @@
 ---
 measure: H.R. 756
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 756
@@ -50,3 +50,9 @@ National Pain Care Policy Act of 2009
 - 2009-03-23 — Placed on the Union Calendar, Calendar No. 17.
 - 2009-03-23 — Reported by the Committee on Energy and Commerce. H. Rept. 111-47.
 - 2009-03-23 — Reported by the Committee on Energy and Commerce. H. Rept. 111-47.
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4079-4081)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 756.
+- 2009-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-30 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2009-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4079-4081)
+- 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4079-4081)
