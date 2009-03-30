@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1513
@@ -45,3 +45,9 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 - 2009-03-26 — Placed on the Union Calendar, Calendar No. 23.
 - 2009-03-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-56.
 - 2009-03-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-56.
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4070-4072)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1513.
+- 2009-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-30 — Mrs. Halvorson moved to suspend the rules and pass the bill.
+- 2009-03-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5779)
+- 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5779)
