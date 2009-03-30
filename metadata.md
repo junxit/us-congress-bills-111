@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1299
@@ -30,3 +30,8 @@ United States Capitol Police Administrative Technical Corrections Act of 2009
 - 2009-03-04 — Introduced in House
 - 2009-03-04 — Introduced in House
 - 2009-03-04 — Referred to the House Committee on House Administration.
+- 2009-03-25 — Committee Consideration and Mark-up Session Held.
+- 2009-03-25 — Ordered to be Reported by Voice Vote.
+- 2009-03-30 — Placed on the Union Calendar, Calendar No. 30.
+- 2009-03-30 — Reported by the Committee on House Administration. H. Rept. 111-66.
+- 2009-03-30 — Reported by the Committee on House Administration. H. Rept. 111-66.
