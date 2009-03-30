@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1171
 
-> To amend title 38, United States Code, to reauthorize the Homeless Veterans Reintegration Program for fiscal years 2010 through 2014.
+> To amend title 38, United States Code, to reauthorize the Homeless Veterans Reintegration Program for fiscal years 2010 through 2014, and for other purposes.
 
 ## § 1. Short title
 

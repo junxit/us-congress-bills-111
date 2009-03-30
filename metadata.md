@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1171
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1171
@@ -16,10 +16,12 @@ Homeless Veterans Reintegration Program Reauthorization Act of 2009
 
 - Rep. Boozman, John [R-AR-3] (B001236)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
 
 ## Committees (1)
 
@@ -39,3 +41,10 @@ Homeless Veterans Reintegration Program Reauthorization Act of 2009
 - 2009-03-26 — Placed on the Union Calendar, Calendar No. 21.
 - 2009-03-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-54.
 - 2009-03-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-54.
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4067-4069)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1171.
+- 2009-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-30 — Mrs. Halvorson moved to suspend the rules and pass the bill, as amended.
+- 2009-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4067)
+- 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4067)
+- 2009-03-30 — The title of the measure was amended. Agreed to without objection.
