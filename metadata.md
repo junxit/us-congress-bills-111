@@ -1,7 +1,7 @@
 ---
 measure: H.R. 577
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 577
@@ -81,6 +81,10 @@ Vision Care for Kids Act of 2009
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2009-03-31 — [House 111-1-170](votes/house-111-1-0170.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (404–17)
+
 ## Actions
 
 - 2009-01-15 — Introduced in House
@@ -93,3 +97,11 @@ Vision Care for Kids Act of 2009
 - 2009-03-23 — Placed on the Union Calendar, Calendar No. 16.
 - 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-46.
 - 2009-03-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-46.
+- 2009-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-30 — Considered under suspension of the rules. (consideration: CR H4090-4093)
+- 2009-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 577.
+- 2009-03-30 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2009-03-31 — Considered as unfinished business. (consideration: CR H4186-4187)
+- 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 17 (Roll no. 170). (text: CR 3/30/2009 H4090-4091)
+- 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 17 (Roll no. 170).(text: CR 3/30/2009 H4090-4091)
