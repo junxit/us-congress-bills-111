@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 56
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 56
@@ -16,6 +16,11 @@ A resolution urging the Government of Moldova to ensure a fair and democratic el
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 
+## Cosponsors (2)
+
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +29,7 @@ A resolution urging the Government of Moldova to ensure a fair and democratic el
 
 - 2009-02-25 — Introduced in Senate
 - 2009-02-25 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2488-2489)
+- 2009-03-31 — Committee on Foreign Relations. Ordered to be reported favorably.
+- 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
