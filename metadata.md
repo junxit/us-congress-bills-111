@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 60
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 60
@@ -140,9 +140,10 @@ Supporting the observance of Colorectal Cancer Awareness Month, and for other pu
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -156,3 +157,4 @@ Supporting the observance of Colorectal Cancer Awareness Month, and for other pu
 - 2009-03-30 — Mr. Pallone moved to suspend the rules and agree to the resolution.
 - 2009-03-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4088-4089)
 - 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4088-4089)
+- 2009-03-31 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
