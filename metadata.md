@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1253
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1253
@@ -26,6 +26,10 @@ Health Insurance Restrictions and Limitations Clarification Act of 2009
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2009-03-31 — [House 111-1-171](votes/house-111-1-0171.md) — On Motion to Suspend the Rules and Pass — **Passed** (422–3)
+
 ## Actions
 
 - 2009-03-03 — Introduced in House
@@ -49,3 +53,7 @@ Health Insurance Restrictions and Limitations Clarification Act of 2009
 - 2009-03-30 — Placed on the Union Calendar, Calendar No. 27.
 - 2009-03-30 — Reported by the Committee on Energy and Commerce. H. Rept. 111-62, Part I.
 - 2009-03-30 — Reported by the Committee on Energy and Commerce. H. Rept. 111-62, Part I.
+- 2009-03-31 — Considered as unfinished business. (consideration: CR H4187-4188)
+- 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 171). (text: CR 3/30/2009 H4087)
+- 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 171).(text: CR 3/30/2009 H4087)
