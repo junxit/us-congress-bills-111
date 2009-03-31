@@ -13,8 +13,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas the First Summit of the Americas, held in December 1994 in Miami, Florida, resulted in a comprehensive Plan of Action, issued by the region’s democracies, which included initiatives on strengthening democracy, promoting human rights, combating corruption, furthering sustainable economic development, encouraging environmental conservation, and committing to access to universal basic education and health care throughout the Americas;
 - Whereas 3 Summits of the Americas and 2 Special Summits of the Americas have been convened since 1994, resulting in additional initiatives on sustainable development, strengthening democratic practices and good governance, the environment, economic relations, combating HIV/AIDS and other diseases, and numerous other areas of mutual interest and shared responsibility throughout the Western Hemisphere;
-- Whereas, on July 21, 2008, the Draft Declaration of Commitment by the Summit Implementation Review Group proposed an agenda for the Fifth Summit of the Americas to discuss promoting human prosperity, energy security, environmental sustainability, public security, democratic governance, and the Summit’s implementation and review process; and
-- Whereas, on February 10, 2009, President Barack Obama stated that he would attend the Fifth Summit of the Americas to “create the kind of partnership based on respect that the people of Latin America are looking for and that will be beneficial to the United States”: Now, therefore, be it
+- Whereas on July 21, 2008, the Draft Declaration of Commitment by the Summit Implementation Review Group proposed an agenda for the Fifth Summit of the Americas to discuss promoting human prosperity, energy security, environmental sustainability, public security, democratic governance, and the Summit’s implementation and review process; and
+- Whereas on February 10, 2009, President Barack Obama stated that he would attend the Fifth Summit of the Americas to “create the kind of partnership based on respect that the people of Latin America are looking for and that will be beneficial to the United States”: Now, therefore, be it
 
 That it is the sense of the Senate—
 
@@ -35,5 +35,5 @@ That it is the sense of the Senate—
   - **(B)** regulatory harmonization;
   - **(C)** integration; and
   - **(D)** renewable and alternative energy sources;
-- **(5)** to welcome civil society and nongovernmental organizations at the Fifth Summit, and to encourage their observation and active participation in the Summit’s decisionmaking process to strengthen democratic governance, the rule of law, freedom of the press, and civil society in the Western Hemisphere; and
+- **(5)** to welcome civil society and nongovernmental organizations at the Fifth Summit, and to encourage their observation and active participation in the Summit’s decision-making process to strengthen democratic governance, the rule of law, freedom of the press, and civil society in the Western Hemisphere; and
 - **(6)** to set achievable and measurable goals, based on areas of consensus, and to strengthen followup mechanisms to review the implementation, reporting, and progress of Summit initiatives.
