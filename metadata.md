@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 54
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 54
@@ -30,3 +30,9 @@ Permitting the use of the Rotunda of the Capitol for a ceremony as part of the c
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Referred to the House Committee on House Administration.
+- 2009-03-31 — Considered under suspension of the rules. (consideration: CR H4188)
+- 2009-03-31 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 54.
+- 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-03-31 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution.
+- 2009-03-31 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4188)
+- 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4188)
