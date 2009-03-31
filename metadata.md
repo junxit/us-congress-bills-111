@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1777
@@ -22,9 +22,10 @@ To make technical corrections to the Higher Education Act of 1965, and for other
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To make technical corrections to the Higher Education Act of 1965, and for other
 - 2009-03-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4093-4099)
 - 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4093-4099)
 - 2009-03-30 — Referred to the House Committee on Education and Labor.
+- 2009-03-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
