@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in subsection (b)(3)(C), by striking “or in part”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (f)(2), by striking subparagraph (E). | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (c) of such section is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1725` | strike | in subsection (b)(3)(C), by striking “or in part”; and | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 1725` | strike | in subsection (f)(2), by striking subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1725` | amend | Subsection (c) of such section is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
