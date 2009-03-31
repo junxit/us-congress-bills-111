@@ -1,7 +1,7 @@
 ---
 measure: H.R. 479
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 479
@@ -57,9 +57,10 @@ Wakefield Act
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -86,3 +87,4 @@ Wakefield Act
 - 2009-03-30 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2009-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 6 (Roll no. 165). (text: CR H4084-4085)
 - 2009-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 6 (Roll no. 165).(text: CR H4084-4085)
+- 2009-03-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

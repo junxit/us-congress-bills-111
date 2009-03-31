@@ -1,7 +1,7 @@
 ---
 measure: H.R. 479
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 300w-9
+
+> in subsection (a), by striking “3-year period (with an optional 4th year” and inserting “4-year period (with an optional 5th year”;
+
+| | |
+|---|---|
+| Removed | `3-year period (with an optional 4th year` |
+| Inserted | `4-year period (with an optional 5th year` |
+
+### 42 U.S.C. § 300w-9
+
+> by striking “and such sums” and inserting “such sums”; and
+
+| | |
+|---|---|
+| Removed | `and such sums` |
+| Inserted | `such sums` |
 
 ## Stated, not applied
 
@@ -31,8 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (a), by striking “3-year period (with an optional 4th year” and inserting “4-year period (with an optional 5th year”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “and such sums” and inserting “such sums”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period the following: “, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 300w-9` | insert | by inserting before the period the following: “, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300w-9` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300w-9` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
