@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,11 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | by amending the subsection heading to read as follows: “Bringing in, Harboring, and Smuggling of Unlawful and Terrorist Aliens.—”; | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 2237(b) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending the subsection heading to read as follows: “Bringing In, Harboring, and Smuggling of Unlawful and Terrorist Aliens.—”; | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraphs (1) through (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (b) of section 2237 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(c)”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
