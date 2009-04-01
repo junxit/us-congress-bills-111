@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 20
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 20
@@ -50,3 +50,5 @@ A resolution celebrating the 60th anniversary of the North Atlantic Treaty Organ
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
+- 2009-04-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4227; text as passed Senate: CR S4227)
+- 2009-04-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4227; text as passed Senate: CR S4227)
