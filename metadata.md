@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 985
@@ -69,9 +69,10 @@ Free Flow of Information Act of 2009
 - Rep. Boozman, John [R-AR-3] (B001236)
 - Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ Free Flow of Information Act of 2009
 - 2009-03-31 — Mr. Conyers moved to suspend the rules and pass the bill.
 - 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4204-4205)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4204-4205)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
