@@ -1,7 +1,7 @@
 ---
 measure: H.R. 577
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 577
@@ -77,9 +77,10 @@ Vision Care for Kids Act of 2009
 - Rep. Tierney, John F. [D-MA-6] (T000266)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -105,3 +106,4 @@ Vision Care for Kids Act of 2009
 - 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 17 (Roll no. 170). (text: CR 3/30/2009 H4090-4091)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 17 (Roll no. 170).(text: CR 3/30/2009 H4090-4091)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
