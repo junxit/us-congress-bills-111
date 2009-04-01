@@ -1,7 +1,7 @@
 ---
 measure: H.R. 151
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 151
@@ -23,9 +23,10 @@ Daniel Webster Congressional Clerkship Act of 2009
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Daniel Webster Congressional Clerkship Act of 2009
 - 2009-03-31 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 42 (Roll no. 173). (text: CR H4189)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 42 (Roll no. 173).(text: CR H4189)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
