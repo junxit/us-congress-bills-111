@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by redesignating subsections (e) through (h) as subsections (f) through (i), and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 111(b)(3)(D)(iii) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(b)(3)(D)(iii)) is amended by inserting before the period the following: “, except that an entity subject to subsection (e) may not, while a cap… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221), as amended by section 1, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
