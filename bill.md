@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 316
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 316
+
+> Providing for further consideration of the concurrent resolution (H. Con. Res. 85) setting forth the congressional budget for the United States Government for fiscal year 2010 and including the appropriate budgetary levels for fiscal years 2009 and 2011 through 2014.
+
+That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for further consideration of the concurrent resolution (H. Con. Res. 85) setting forth the congressional budget for the United States Government for fiscal year 2010 and including the appropriate budgetary levels for fiscal years 2009 and 2011 through 2014. The concurrent resolution shall be considered for amendment under the five-minute rule. The concurrent resolution shall be considered as read. No amendment shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. Each amendment may be offered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, and shall be debatable for 40 minutes equally divided and controlled by the proponent and an opponent. All points of order against the amendments printed in the report are waived except that the adoption of an amendment in the nature of a substitute shall constitute the conclusion of consideration of the concurrent resolution for amendment. After the conclusion of consideration of the concurrent resolution for amendment, the Committee shall rise and report the concurrent resolution to the House with such amendment as may have been adopted. The previous question shall be considered as ordered on the concurrent resolution and any amendment thereto to final adoption without intervening motion except amendments offered by the chair of the Committee on the Budget pursuant to section 305(a)(5) of the Congressional Budget Act of 1974 to achieve mathematical consistency. The concurrent resolution shall not be subject to a demand for division of the question of its adoption.
+
+## § 2.
+
+After adoption of House Concurrent Resolution 85 and receipt of a message from the Senate transmitting Senate Concurrent Resolution 13, it shall be in order to take from the Speaker's table Senate Concurrent Resolution 13 and to consider the Senate concurrent resolution in the House. All points of order against consideration of the Senate concurrent resolution are waived. It shall be in order to move to strike all after the resolving clause of the Senate concurrent resolution and to insert in lieu thereof the provisions of House Concurrent Resolution 85 as adopted by the House. All points of order against that motion are waived. The Senate concurrent resolution shall not be subject to a demand for division of the question of its adoption. If the motion is adopted and the Senate concurrent resolution, as amended, is adopted, then it shall be in order to move that the House insist on its amendment to the Senate concurrent resolution and request a conference with the Senate thereon.
