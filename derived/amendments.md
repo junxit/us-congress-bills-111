@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending paragraphs (1) through (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 2237 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(c)”; | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1029
@@ -25,10 +25,11 @@ Alien Smuggling and Terrorism Prevention Act of 2009
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Alien Smuggling and Terrorism Prevention Act of 2009
 - 2009-03-31 — Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.
 - 2009-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4210-4211)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4210-4211)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
