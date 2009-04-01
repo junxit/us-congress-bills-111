@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1259
@@ -23,9 +23,10 @@ Dextromethorphan Distribution Act of 2009
 - Rep. Bono Mack, Mary [R-CA-45] (B001228)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Dextromethorphan Distribution Act of 2009
 - 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 8 (Roll no. 167). (text: CR 3/30/2009 H4086)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 8 (Roll no. 167).(text: CR 3/30/2009 H4086)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

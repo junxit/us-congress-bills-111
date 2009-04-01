@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1259
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in section 501, by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 506C the following: | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 321` | insert | in section 501, by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 321` | insert | by inserting after section 506C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
