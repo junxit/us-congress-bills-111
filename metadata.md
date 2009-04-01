@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1253
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1253
@@ -20,11 +20,12 @@ Health Insurance Restrictions and Limitations Clarification Act of 2009
 
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Committees (3)
+## Committees (4)
 
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Health Insurance Restrictions and Limitations Clarification Act of 2009
 - 2009-03-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 171). (text: CR 3/30/2009 H4087)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 171).(text: CR 3/30/2009 H4087)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
