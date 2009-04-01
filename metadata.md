@@ -1,7 +1,7 @@
 ---
 measure: H.R. 838
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 838
@@ -41,3 +41,15 @@ Miami Dade College Land Conveyance Act
 - 2009-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4214)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4214)
 - 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2009-07-28 — Cleared for White House.
+- 2009-07-28 — Message on Senate action sent to the House.
+- 2009-07-28 — Passed Senate without amendment by Unanimous Consent. (text: CR S8211)
+- 2009-07-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8211)
+- 2009-07-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8211)
+- 2009-07-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8211)
+- 2009-07-31 — Presented to President.
+- 2009-07-31 — Presented to President.
+- 2009-08-12 — Became Public Law No: 111-48.
+- 2009-08-12 — Became Public Law No: 111-48.
+- 2009-08-12 — Signed by President.
+- 2009-08-12 — Signed by President.
