@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 9
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 9
@@ -16,7 +16,7 @@ A resolution commemorating 90 years of U.S.-Polish diplomatic relations, during 
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
@@ -25,6 +25,7 @@ A resolution commemorating 90 years of U.S.-Polish diplomatic relations, during 
 - Sen. Kaufman, Edward E. [D-DE] (K000373)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -39,3 +40,5 @@ A resolution commemorating 90 years of U.S.-Polish diplomatic relations, during 
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
+- 2009-04-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4227; text as passed Senate: CR S4227)
+- 2009-04-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4227; text as passed Senate: CR S4227)
