@@ -1,7 +1,7 @@
 ---
 measure: H.R. 838
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 838
@@ -23,9 +23,10 @@ Miami Dade College Land Conveyance Act
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Miami Dade College Land Conveyance Act
 - 2009-03-31 — Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.
 - 2009-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4214)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4214)
+- 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
