@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 290
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 290
@@ -16,7 +16,7 @@ Honoring the lives, and mourning the loss, of Sergeant Mark Dunakin, Sergeant Er
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Cosponsors (40)
+## Cosponsors (51)
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
@@ -58,13 +58,36 @@ Honoring the lives, and mourning the loss, of Sergeant Mark Dunakin, Sergeant Er
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Rohrabacher, Dana [R-CA-46] (R000409)
 - Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2009-04-01 — [House 111-1-179](votes/house-111-1-0179.md) — On Motion to Suspend the Rules and Agree — **Passed** (417–0)
 
 ## Actions
 
 - 2009-03-26 — Introduced in House
 - 2009-03-26 — Introduced in House
 - 2009-03-26 — Referred to the House Committee on the Judiciary.
+- 2009-03-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-03-31 — Considered under suspension of the rules. (consideration: CR H4199-4204)
+- 2009-03-31 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 290.
+- 2009-03-31 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2009-04-01 — Considered as unfinished business. (consideration: CR H4286-4287)
+- 2009-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 179). (text: CR 3/31/2009 H4199-4200)
+- 2009-04-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 179).(text: CR 3/31/2009 H4199-4200)
