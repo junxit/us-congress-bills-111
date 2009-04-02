@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 93
@@ -29,3 +29,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2009-04-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 177 (Roll no. 183). (text: CR H4411)
 - 2009-04-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 177 (Roll no. 183).(text: CR H4411)
 - 2009-04-02 — Received in the Senate.
+- 2009-04-03 — Message on Senate action sent to the House.
+- 2009-04-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR 4/2/2009 S4399; text as passed Senate: CR 4/02/2009 S4399)
+- 2009-04-03 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR 4/2/2009 S4399; text as passed Senate: CR 4/02/2009 S4399)
