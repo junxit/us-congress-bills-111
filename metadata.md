@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 11
@@ -16,7 +16,7 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (41)
+## Cosponsors (52)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
@@ -59,6 +59,17 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Brownback, Sam [R-KS] (B000953)
 
 ## Committees (1)
 
@@ -69,3 +80,7 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - 2009-03-19 — Introduced in Senate
 - 2009-03-19 — Referred to the Committee on Foreign Relations.
 - 2009-03-19 — Sponsor introductory remarks on measure. (CR S3575-3576)
+- 2009-03-31 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2009-04-02 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2009-04-02 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2009-04-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
