@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1256
@@ -202,6 +202,12 @@ Family Smoking Prevention and Tobacco Control Act
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2009-04-02 — [House 111-1-185](votes/house-111-1-0185.md) — On Agreeing to the Amendment — **Failed** (142–284)
+- 2009-04-02 — [House 111-1-186](votes/house-111-1-0186.md) — On Motion to Recommit with Instructions — **Failed** (169–256)
+- 2009-04-02 — [House 111-1-187](votes/house-111-1-0187.md) — On Passage — **Passed** (298–112)
+
 ## Actions
 
 - 2009-03-03 — Introduced in House
@@ -221,3 +227,28 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-03-26 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-58, Part II.
 - 2009-03-26 — Reported by the Committee on Energy and Commerce. H. Rept. 111-58, Part I.
 - 2009-03-26 — Reported by the Committee on Energy and Commerce. H. Rept. 111-58, Part I.
+- 2009-03-31 — Rules Committee Resolution H. Res. 307 Reported to House. Rule provides for consideration of H.R. 1256 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. Upon the adoption of this resolution it shall be in order to consider in the House the bill H.R. 1256. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in part A of the report shall be considered as adopted.
+- 2009-04-01 — Amendment (A002) in the nature of a substitute offered by Mr. Buyer. (consideration: CR H4344-4368; text: CR H4344-4365)
+- 2009-04-01 — Considered under the provisions of rule H. Res. 307. (consideration: CR H4318-4368; text of measure as reported in House: CR H4318-4338)
+- 2009-04-01 — DEBATE - Pursuant to the provisions on H.Res. 307, the House proceeded with 30 minutes of debate on the Buyer amendment in the nature of a substitute.
+- 2009-04-01 — DEBATE - The House proceeded with one hour of debate on H.R. 1256.
+- 2009-04-01 — House amendment offered
+- 2009-04-01 — House amendment offered
+- 2009-04-01 — House amendment offered/reported by : Amendment (A002) in the nature of a substitute offered by Mr. Buyer.(consideration: CR H4344-4368; text: CR H4344-4365)
+- 2009-04-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buyer amendment in the nature of a substitute, the Chair postponed further proceedings on H.R. 1256 until a time to be announced.
+- 2009-04-01 — Rule H. Res. 307 passed House.
+- 2009-04-01 — Rule provides for consideration of H.R. 1256 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. Upon the adoption of this resolution it shall be in order to consider in the House the bill H.R. 1256. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in part A of the report shall be considered as adopted.
+- 2009-04-02 — Amendment failed by House: On agreeing to the Buyer amendment (A002) Failed by recorded vote: 142 - 284 (Roll no. 185).
+- 2009-04-02 — Considered as unfinished business. (consideration: CR H4412-4415)
+- 2009-04-02 — DEBATE - The House proceeded with 10 minutes of debate on the Rogers (MI) motion to recommit with instructions. The insutructions contained in the motion seek to require the bill to be reported back to the House with an amendment prohibiting certain uses of funds.
+- 2009-04-02 — House amendment not agreed to: On agreeing to the Buyer amendment (A002) Failed by recorded vote: 142 - 284 (Roll no. 185).
+- 2009-04-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-02 — Mr. Rogers (MI) moved to recommit with instructions to Energy and Commerce. (consideration: CR H4413-4414; text: CR H4413)
+- 2009-04-02 — On agreeing to the Buyer amendment (A002) Failed by recorded vote: 142 - 284 (Roll no. 185).
+- 2009-04-02 — On motion to recommit with instructions Failed by recorded vote: 169 - 256 (Roll no. 186).
+- 2009-04-02 — On passage Passed by recorded vote: 298 - 112 (Roll no. 187).
+- 2009-04-02 — Passed/agreed to in House: On passage Passed by recorded vote: 298 - 112 (Roll no. 187).
+- 2009-04-02 — Received in the Senate.
+- 2009-04-02 — Roll call votes on amendments in House
+- 2009-04-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4414)
+- 2009-04-02 — The previous question was ordered on the bill, as amended, and the Buyer amendment thereto, pursuant to the rule. (consideration: CR H4412-4413)

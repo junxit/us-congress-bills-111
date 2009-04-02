@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-90 amendatory instructions. 0 executed, 90 stated and not applied.
+95 amendatory instructions. 0 executed, 95 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,16 +71,18 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “tobacco product,” after the term device, each place such term appears; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “tobacco products,” after the term devices, each place such term appears. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(1)(A), by inserting “tobacco products,” after the term devices, each place such term appears; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(1)(B), by inserting “or tobacco products” after the term restricted devices each place such term appears; | the bill names no machine-readable US Code section |
+| — | replace | by striking “devices, or cosmetics” each place it appears and inserting “devices, tobacco products, or cosmetics”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “or restricted devices” each place it appears and inserting “restricted devices, or tobacco products”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “and devices and subject to” and all that follows through “other drugs or devices” and inserting “devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 505… | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting “tobacco product,” after “device,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g)(13), by striking “section 903(g)” and inserting “section 1003(g)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 705(b) (21 U.S.C. 375(b)) is amended by inserting “tobacco products,” after “devices,”. | the bill names no machine-readable US Code section |
 | — | insert | Section 709 (21 U.S.C. 379a) is amended by inserting “tobacco product,” after “device,”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “tobacco products,” after the term devices, ; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “tobacco products,” after the term devices,; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or section 905(h)” after “section 510”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the term drugs or devices each time such term appears and inserting “drugs, devices, or tobacco products”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (e)(1), by inserting “tobacco product,” after “device,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “tobacco product” after “drug, device,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, and a tobacco product intended for export shall not be deemed to be in violation of section 906(e), 907, 911, or 920(a),” before “if it—”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after “cosmetics,”; and | the bill names no machine-readable US Code section |
 | — | replace | Section 1009(b) (as redesignated by section 101(b)) is amended by striking “section 908” and inserting “section 1008”. | the bill names no machine-readable US Code section |
@@ -104,8 +106,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 8438(b) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the matter after “who elects to invest in” and before “shall sign an acknowledgement” and inserting “any investment fund or option under this chapter, other than the Government Securities Investment Fund,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “either such Fund” and inserting “any such fund or option”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (d)(1); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (C)(i); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating the second subsection (k) and subsection (l) as subsections (l) and (m), respectively; and | the bill names no machine-readable US Code section |
@@ -121,3 +121,8 @@ complete account of the bill's effect, which it is not.
 | — | amend | The heading for section 8422 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 84 of title 5, United States Code, is amended by striking the item relating to section 8422 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | The last sentence of section 8424(a) of title 5, United States Code, is amended by striking “based.” and inserting “based, until the employee or Member is reemployed in the service subject to this chapter.”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “$60” and inserting “$95”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “$70” and inserting “$105”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “$80” and inserting “$120”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “$90; and” and inserting “$130;” and | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (F) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
