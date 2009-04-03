@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 90
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 90
@@ -35,3 +35,5 @@ A resolution expressing the sense of the Senate regarding the Fifth Summit of th
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
+- 2009-04-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR 4/02/2009 S4397-4398; text as passed Senate: CR 4/02/2009 S4397-4398)
+- 2009-04-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR 4/02/2009 S4397-4398; text as passed Senate: CR 4/02/2009 S4397-4398)
