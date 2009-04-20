@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 87
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 87
@@ -33,3 +33,7 @@ A resolution expressing the sense of the Senate that public servants should be c
 - 2009-03-26 — Introduced in Senate
 - 2009-03-26 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S3933)
 - 2009-03-26 — Sponsor introductory remarks on measure. (CR S3933)
+- 2009-04-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-04-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2009-04-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2009-04-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
