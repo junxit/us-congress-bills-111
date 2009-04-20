@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1256
@@ -252,3 +252,5 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-04-02 — Roll call votes on amendments in House
 - 2009-04-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4414)
 - 2009-04-02 — The previous question was ordered on the bill, as amended, and the Buyer amendment thereto, pursuant to the rule. (consideration: CR H4412-4413)
+- 2009-04-03 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
