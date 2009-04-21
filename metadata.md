@@ -1,7 +1,7 @@
 ---
 measure: H.R. 131
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 131
@@ -182,3 +182,6 @@ Ronald Reagan Centennial Commission Act
 - 2009-03-09 — Mr. Lynch moved to suspend the rules and pass the bill, as amended.
 - 2009-03-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 19, 1 Present (Roll no. 112). (text: CR H3085-3086)
 - 2009-03-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 19, 1 Present (Roll no. 112).(text: CR H3085-3086)
+- 2009-03-10 — Received in the Senate.
+- 2009-04-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-04-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
