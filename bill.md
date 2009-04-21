@@ -119,9 +119,13 @@ In this Act:
   - **(2)** any such species that should be made eligible for assistance under this Act.
 - **(b)** *Report* Not later than two years after date of the enactment of this Act the Secretary shall report to the Congress the determinations made in the study, including recommendations of additional felid species and canid species that should be made eligible for assistance under this Act.
 
-## § 7. Authorization or appropriations
+## § 7. Authorization of appropriations
 
 There are authorized to be appropriated—
 
 - **(1)** to the Fund, $5,000,000 for each of fiscal years 2010 through 2014 to carry out this Act, other than section 6; and
 - **(2)** such sums as are necessary to carry out section 6.
+
+## § 8. Ineligible countries
+
+Amounts provided as a grant under this Act may not be used for any project conducted in Iran, Syria, Cuba, Sudan, or North Korea.
