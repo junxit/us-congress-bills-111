@@ -1,7 +1,7 @@
 ---
 measure: H.R. 749
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 749
@@ -29,3 +29,8 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Referred to the House Committee on House Administration.
+- 2009-03-25 — Committee Consideration and Mark-up Session Held.
+- 2009-03-25 — Ordered to be Reported by Voice Vote.
+- 2009-04-21 — Placed on the Union Calendar, Calendar No. 34.
+- 2009-04-21 — Reported by the Committee on House Administration. H. Rept. 111-77.
+- 2009-04-21 — Reported by the Committee on House Administration. H. Rept. 111-77.
