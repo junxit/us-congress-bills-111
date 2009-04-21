@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, according to a comprehensive study conducted on motorcycle crash causation in the United States the “Motorcycle Accident Cause Factors and Identification of Countermeasures” (Hurt Report), in approximately two-thirds of fatal car-motorcycle crashes, the driver of the car was at fault;
 - Whereas motorcycle awareness is beneficial to all road users and will help to decrease car-motorcycle crashes;
 - Whereas May is designated as “Motorcycle Safety Awareness Month”; and
-- Whereas National Highway Traffic Safety Administration promotes Motorcycle Safety Awareness Month to encourage riders to always wear helmets and other protective gear, never drink and ride, be properly licensed, and get training and to remind all riders and motorists to always share the road: Now, therefore, be it
+- Whereas the National Highway Traffic Safety Administration promotes Motorcycle Safety Awareness Month to encourage riders to always wear helmets and other protective gear, never drink and ride, be properly licensed, and get training and to remind all riders and motorists to always share the road: Now, therefore, be it
 
 That the House of Representatives—
 
