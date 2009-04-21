@@ -1,7 +1,7 @@
 ---
 measure: H.R. 131
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 131
@@ -185,3 +185,13 @@ Ronald Reagan Centennial Commission Act
 - 2009-03-10 — Received in the Senate.
 - 2009-04-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-04-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
+- 2009-05-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5645)
+- 2009-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5645)
+- 2009-05-20 — Cleared for White House.
+- 2009-05-20 — Message on Senate action sent to the House.
+- 2009-05-21 — Presented to President.
+- 2009-05-21 — Presented to President.
+- 2009-06-02 — Became Public Law No: 111-25.
+- 2009-06-02 — Became Public Law No: 111-25.
+- 2009-06-02 — Signed by President.
+- 2009-06-02 — Signed by President.
