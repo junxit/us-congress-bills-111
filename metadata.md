@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 313
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 313
@@ -42,3 +42,20 @@ Supporting the goals and ideals of National Public Works Week, and for other pur
 - 2009-04-01 — Introduced in House
 - 2009-04-01 — Referred to the House Committee on Transportation and Infrastructure.
 - 2009-04-01 — Sponsor introductory remarks on measure. (CR E840)
+- 2009-04-02 — Committee Consideration and Mark-up Session Held.
+- 2009-04-02 — Ordered to be Reported by Voice Vote.
+- 2009-04-02 — Referred to the Subcommittee on Aviation.
+- 2009-04-02 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2009-04-02 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-04-02 — Referred to the Subcommittee on Highways and Transit.
+- 2009-04-02 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2009-04-02 — Referred to the Subcommittee on Water Resources and Environment.
+- 2009-04-02 — Subcommittee on Aviation Discharged.
+- 2009-04-02 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2009-04-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-04-02 — Subcommittee on Highways and Transit Discharged.
+- 2009-04-02 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.
+- 2009-04-02 — Subcommittee on Water Resources and Environment Discharged.
+- 2009-04-21 — Placed on the House Calendar, Calendar No. 43.
+- 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-80.
+- 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-80.
