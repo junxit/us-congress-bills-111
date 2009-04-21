@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in the subsection heading, by striking “Battlefield Acquisition Grant Program” and inserting “Battlefield Acquisition Grant Program for Battlefields of the Civil War”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “grant program” and inserting “grant program for battlefields of the Civil War”; and | the bill names no machine-readable US Code section |
-| — | replace | in the subsection heading, by striking “Repeal” and inserting “Expiration”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “is repealed” and inserting “expires”. | the bill names no machine-readable US Code section |
+| — | insert | In paragraph (1)(A), by inserting after “means” the following: “collectively, both the document entitled Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States, prepared by the Nat… | the bill names no machine-readable US Code section |
+| — | insert | In paragraph (2), by inserting “eligible sites or” after “acquiring”. | the bill names no machine-readable US Code section |
+| — | insert | In paragraph (3), by inserting “an eligible site or” after “acquire”. | the bill names no machine-readable US Code section |
+| — | insert | In paragraph (4), by inserting “an eligible site or” after “acquiring”. | the bill names no machine-readable US Code section |
+| — | replace | In paragraph (5), by striking “An” and inserting “An eligible site or an”. | the bill names no machine-readable US Code section |
+| — | redesignate | By redesignating paragraph (6) as paragraph (8). | the bill names no machine-readable US Code section |
+| — | insert | By inserting after paragraph (5) the following new paragraphs: | the bill names no machine-readable US Code section |

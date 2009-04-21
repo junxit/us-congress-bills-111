@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1694
@@ -16,7 +16,7 @@ A bill to authorize the acquisition and protection of nationally significant bat
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
@@ -29,6 +29,7 @@ A bill to authorize the acquisition and protection of nationally significant bat
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
 
 ## Committees (1)
 
@@ -39,3 +40,11 @@ A bill to authorize the acquisition and protection of nationally significant bat
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Referred to the House Committee on Natural Resources.
+- 2009-03-30 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-04-21 — Considered under suspension of the rules. (consideration: CR H4528-4530)
+- 2009-04-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1694.
+- 2009-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-21 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
+- 2009-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4528)
+- 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4528)
+- 2009-04-21 — The title of the measure was amended. Agreed to without objection.

@@ -7,43 +7,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1694
 
-> To amend the American Battlefield Protection Act of 1996 to establish a battlefield acquisition grant program for the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812, and for other purposes.
+> To authorize the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812 under the American Battlefield Protection Program.
 
-## § 1. Short title
+## § 1. Revolutionary War and War of 1812 American battlefield protection
 
-This Act may be cited as the “Revolutionary War and War of 1812 Battlefield Protection Act”.
+Section 7301(c) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11) is amended as follows:
 
-## § 2. Battlefield Acquisition Grant Program for battlefields of the Revolutionary War and War of 1812
-
-- **(a)** *Grant program* The American Battlefield Protection Act of 1996 (section 604 of division I of Public Law 104–333; 16 U.S.C. 469k) is amended—
-  - **(1)** by redesignating subsection (e) as subsection (f); and
-  - **(2)** by inserting after subsection (d) the following new subsection:
-    > - **(e)** *Battlefield acquisition grant program for battlefields of the revolutionary war and war of 1812*
-    >   - **(1)** *Definitions* In this subsection:
-    >     - **(A)** *Battlefield report* The term battlefield report means the document entitled “Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States”, prepared by the National Park Service, and dated September 2007.
-    >     - **(B)** *Eligible entity* The term eligible entity means a State or local government.
-    >     - **(C)** *Eligible site* The term eligible site means a site that—
-    >       - **(i)** is not within the exterior boundaries of a unit of the National Park System; and
-    >       - **(ii)** is identified in the battlefield report.
-    >     - **(D)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the American Battlefield Protection Program.
-    >   - **(2)** *Establishment* The Secretary shall establish a battlefield acquisition grant program for nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812 under which the Secretary may make grants to eligible entities to pay the Federal share of the cost of acquiring fee-simple or lesser interests from willing sellers in eligible sites for the preservation and protection of those eligible sites.
-    >   - **(3)** *Nonprofit partners* An eligible entity may acquire an interest in an eligible site using a grant under this subsection in partnership with a nonprofit organization.
-    >   - **(4)** *Non-federal share* The non-Federal share of the total cost of acquiring an interest in an eligible site under this subsection shall be not less than 50 percent.
-    >   - **(5)** *Limitations on land use* An interest in an eligible site acquired under this subsection shall be subject to section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–8(f)(3)).
-    >   - **(6)** *Reports*
-    >     - **(A)** *In general* Not later than 5 years after the date of the enactment of this subsection, the Secretary shall submit to Congress a report on the activities carried out under this subsection.
-    >     - **(B)** *Update on battlefield report* Not later than 3 years after the date of the enactment of this subsection, the Secretary shall submit to Congress a report that updates the battlefield report to reflect—
-    >       - **(i)** preservation activities carried out at the 677 battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the update;
-    >       - **(ii)** changes in the condition of the battlefields and associated sites during that period; and
-    >       - **(iii)** any other relevant developments relating to the battlefields and associated sites during that period.
-    >   - **(7)** *Authorizations of appropriations*
-    >     - **(A)** *In general* There are authorized to be appropriated to the Secretary from the Land and Water Conservation Fund to provide grants under this subsection $10,000,000 for each of fiscal years 2010 through 2014.
-    >     - **(B)** *Update of battlefield report* There are authorized to be appropriated to the Secretary to carry out paragraph (6)(B), $500,000.
-
-- **(b)** *Conforming amendments*
-  - **(1)** *References to other battlefield acquisition program* Subsection (d) of the American Battlefield Protection Act of 1996, as added by section 3 of Civil War Battlefield Preservation Act of 2002 (Public Law 107–359; 116 Stat. 3016), is amended—
-    - **(A)** in the subsection heading, by striking “Battlefield Acquisition Grant Program” and inserting “Battlefield Acquisition Grant Program for Battlefields of the Civil War”; and
-    - **(B)** in paragraph (2), by striking “grant program” and inserting “grant program for battlefields of the Civil War”; and
-  - **(2)** *Termination of authority* Subsection (f) of the American Battlefield Protection Act of 1996, as redesignated by subsection (a)(1), is amended—
-    - **(A)** in the subsection heading, by striking “Repeal” and inserting “Expiration”; and
-    - **(B)** in paragraph (1), by striking “is repealed” and inserting “expires”.
+- **(1)** In paragraph (1)(A), by inserting after “means” the following: “collectively, both the document entitled “Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States”, prepared by the National Park Service, and dated September 2007, and”.
+- **(2)** In paragraph (2), by inserting “eligible sites or” after “acquiring”.
+- **(3)** In paragraph (3), by inserting “an eligible site or” after “acquire”.
+- **(4)** In paragraph (4), by inserting “an eligible site or” after “acquiring”.
+- **(5)** In paragraph (5), by striking “An” and inserting “An eligible site or an”.
+- **(6)** By redesignating paragraph (6) as paragraph (8).
+- **(7)** By inserting after paragraph (5) the following new paragraphs:
+  > - **(6)** *Willing Sellers* Acquisition of land or interests in land under this subsection shall be from willing sellers only.
+  > - **(7)** *Report* Not later than 5 years after the date of the enactment of this subsection, the Secretary shall submit to Congress a report on the activities carried out under this subsection, including a description of—
+  >   - **(A)** preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the report required under this paragraph;
+  >   - **(B)** changes in the condition of the battlefields and associated sites during that period; and
+  >   - **(C)** any other relevant developments relating to the battlefields and associated sites during that period.
