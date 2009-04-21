@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1139
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1139
@@ -16,7 +16,7 @@ COPS Improvements Act of 2009
 
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Cosponsors (40)
+## Cosponsors (45)
 
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
@@ -58,6 +58,11 @@ COPS Improvements Act of 2009
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
 
 ## Committees (1)
 
@@ -68,3 +73,8 @@ COPS Improvements Act of 2009
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Referred to the House Committee on the Judiciary.
+- 2009-03-25 — Committee Consideration and Mark-up Session Held.
+- 2009-03-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 7.
+- 2009-04-21 — Placed on the Union Calendar, Calendar No. 35.
+- 2009-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-78.
+- 2009-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-78.

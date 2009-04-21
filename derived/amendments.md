@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1139
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -68,9 +68,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the section heading, by striking “Revocation or suspension of funding” and inserting “Enforcement actions”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “revoke or suspend” and all that follows and inserting “take any enforcement action available to the Department of Justice.”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1709(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–8(1)) is amended by inserting “who is a sworn law enforcement officer” after “permanent basis”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “1,047,119,000 for each of fiscal years 2006 through 2009” and inserting “3,050,000,000 for each of fiscal years 2009 through 2014”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “1,047,119,000 for each of fiscal years 2006 through 2009” and inserting “1,800,000,000 for each of fiscal years 2009 through 2014”; and | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “3 percent may be used for technical assistance under section 1701(d)” and inserting “5 percent may be used for technical assistance under section 1701(f)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $2,500,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000… | the bill names no machine-readable US Code section |
+| — | replace | by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $1,250,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “development” and inserting “use”; and | the bill names no machine-readable US Code section |
 | — | strike | in the matter following paragraph (4), by striking “for a period of 6 years”. | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |

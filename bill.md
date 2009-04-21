@@ -17,7 +17,7 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
 
 - **(a)** *In general* Section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) is amended—
   - **(1)** by amending subsection (a) to read as follows:
-    > - **(a)** *Grant authorization* The Attorney General shall carry out grant programs under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, multi-jurisdictional or regional consortia, and individuals for the purposes described in subsections (b), (c), (d), and (e).
+    > - **(a)** *Grant authorization* The Attorney General shall carry out grant programs under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, multi-jurisdictional or regional consortia, and individuals for the purposes described in subsections (b), (c), (d), and (e). Grants under this subsection shall be awarded on a competitive basis.
 
   - **(2)** in subsection (b)—
     - **(A)** by striking the subsection heading text and inserting “Community policing and crime prevention grants”;
@@ -36,8 +36,9 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
     - **(J)** in paragraph (15), as so redesignated, by striking the period at the end and inserting a semicolon; and
     - **(K)** by adding at the end the following:
       > - **(16)** establish and implement innovative programs to reduce and prevent illegal drug manufacturing, distribution, and use, including the manufacturing, distribution, and use of methamphetamine;
-      > - **(17)** establish criminal gang enforcement task forces, consisting of members of Federal, State, and local law enforcement authorities (including Federal, State, and local prosecutors), for the coordinated investigation, disruption, apprehension, and prosecution of criminal gangs and offenders involved in local or multi-jurisdictional gang activities; and
-      > - **(18)** award enhancing community policing and crime prevention grants that meet emerging law enforcement needs, as warranted.
+      > - **(17)** hire and rehire civilian forensic analysts and laboratory personnel;
+      > - **(18)** establish criminal gang enforcement task forces, consisting of members of Federal, State, and local law enforcement authorities (including Federal, State, and local prosecutors), for the coordinated investigation, disruption, apprehension, and prosecution of criminal gangs and offenders involved in local or multi-jurisdictional gang activities; and
+      > - **(19)** award enhancing community policing and crime prevention grants that meet emerging law enforcement needs.
 
   - **(3)** by striking subsection (c);
   - **(4)** by striking subsections (h) and (i);
@@ -48,7 +49,7 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
     >   - **(2)** *Definition* In this subsection, former member of the Armed Forces means a member of the Armed Forces of the United States who has been honorably discharged from the Armed Forces of the United States.
     > - **(d)** *Community prosecutors program* The Attorney General may make grants under subsection (a) to pay for additional community prosecuting programs, including programs that assign prosecutors to—
     >   - **(1)** handle cases from specific geographic areas; and
-    >   - **(2)** address counter-terrorism problems, specific violent crime problems (including intensive illegal gang, gun, and drug enforcement and quality of life initiatives), and localized violent and other crime problems based on needs identified by local law enforcement agencies, community organizations, and others.
+    >   - **(2)** address counter-terrorism problems, specific violent crime problems (including intensive illegal gang, gun, and drug enforcement) and quality of life initiatives, and localized violent and other crime problems based on needs identified by local law enforcement agencies, community organizations, and others.
     > - **(e)** *Technology grants* The Attorney General may make grants under subsection (a) to develop and use new technologies (including interoperable communications technologies, modernized criminal record technology, and forensic technology) to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies.
 
   - **(7)** in subsection (f), as so redesignated—
@@ -56,7 +57,7 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
     - **(B)** in paragraph (2), by striking “define for State and local governments, and other public and private entities,” and inserting “establish”;
     - **(C)** in the first sentence of paragraph (3), by inserting “(including regional community policing institutes)” after “training centers or facilities”; and
     - **(D)** by adding at the end the following:
-      > - **(4)** *Exclusivity* The Office of Community Oriented Policing Services shall be the exclusive component of the Department of Justice to perform the functions and activities specified in this paragraph.
+      > - **(4)** *Exclusivity* The Office of Community Oriented Policing Services shall be the exclusive component of the Department of Justice to perform the functions and activities specified in this part.
 
   - **(8)** in subsection (g), as so redesignated, by striking “may utilize any component”, and all that follows and inserting “shall use the Office of Community Oriented Policing Services of the Department of Justice in carrying out this part.”;
   - **(9)** in subsection (h), as so redesignated—
@@ -66,7 +67,8 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
     - **(A)** by striking “the Federal share shall decrease from year to year for up to 5 years” and inserting “unless the Attorney General waives the non-Federal contribution requirement as described in the preceding sentence, the non-Federal share of the costs of hiring or rehiring such officers may be less than 25 percent of such costs for any year during the grant period, provided that the non-Federal share of such costs shall not be less than 25 percent in the aggregate for the entire grant period, but the State or local government should make an effort to increase the non-Federal share of such costs during the grant period”; and
     - **(B)** by adding at the end the following new sentence: “The preceding sentences shall not apply with respect to any program, project, or activity provided by a grant made pursuant to subsection (b)(4).”; and
   - **(11)** by adding at the end the following:
-    > - **(j)** *Retention of additional officer positions* For any grant under paragraph (1) or (2) of subsection (b) for hiring or rehiring career law enforcement officers, a grant recipient shall retain each additional law enforcement officer position created under that grant for not less than 12 months after the end of the period of that grant, unless the Attorney General waives, wholly or in part, the retention requirement of a program, project, or activity.
+    > - **(j)** *Retention of additional officer positions* For any grant under paragraph (1) or (2) of subsection (b) for hiring or rehiring career law enforcement officers, a grant recipient shall retain each additional law enforcement officer position created under that grant for not less than 12 months after the end of the period of that grant, unless the Attorney General waives, wholly or in part, the retention requirement of such grant.
+    > - **(k)** *Treatment of grant for hiring civilian forensic analysts and laboratory personnel* A grant awarded under this section for hiring and rehiring of civilian forensic analysts and laboratory personnel (in accordance with paragraph (17) of subsection (b)) shall be subject to the same treatment, limitations, and renewal requirements under this part as grants awarded under this section for hiring and rehiring of career law enforcement personnel (in accordance with paragraphs (1) and (2) of subsection (b)).
 
 - **(b)** *Applications* Section 1702 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–1) is amended—
   - **(1)** in subsection (c)—
@@ -87,7 +89,7 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
   - **(2)** by striking subsection (c).
 - **(e)** *Study of program effectiveness* Section 1705 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–4) is amended by adding at the end the following new subsection:
   > - **(d)** *Study of program effectiveness*
-  >   - **(1)** *In general* The Attorney General shall provide for a scientific study of the effectiveness of the programs, projects, and activities funded under this part in reducing crime.
+  >   - **(1)** *In general* The Attorney General shall provide for a scientific study of the effectiveness of the programs, projects, and activities funded under this part in reducing crime. Such study shall include identified best practices for community policing that have demonstrated results for building and strengthening the relationship between police departments and the communities such departments serve.
   >   - **(2)** *Study* The Attorney General shall select one or more institutions of higher education, including historically Black colleges and universities, to conduct the study described in paragraph (1).
   >   - **(3)** *Reports* Not later than 4 years after the date of the enactment of the COPS Improvements Act of 2009, the institution or institutions selected under paragraph (2) shall report the findings of the study described in paragraph (1) to the Attorney General. Not later than 30 days after the receipt of such report, the Attorney General shall report such findings to the appropriate committees of Congress, along with any recommendations the Attorney General may have relating to the effectiveness of the programs, projects, and activities funded under this part in reducing crime.
 
@@ -96,10 +98,10 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
   - **(2)** by striking “revoke or suspend” and all that follows and inserting “take any enforcement action available to the Department of Justice.”.
 - **(g)** *Definitions* Section 1709(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–8(1)) is amended by inserting “who is a sworn law enforcement officer” after “permanent basis”.
 - **(h)** *Authorization of appropriations* Section 1001(a)(11) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(11)) is amended—
-  - **(1)** in subparagraph (A), by striking “1,047,119,000 for each of fiscal years 2006 through 2009” and inserting “3,050,000,000 for each of fiscal years 2009 through 2014”; and
+  - **(1)** in subparagraph (A), by striking “1,047,119,000 for each of fiscal years 2006 through 2009” and inserting “1,800,000,000 for each of fiscal years 2009 through 2014”; and
   - **(2)** in subparagraph (B)—
     - **(A)** in the first sentence, by striking “3 percent may be used for technical assistance under section 1701(d)” and inserting “5 percent may be used for technical assistance under section 1701(f)”; and
-    - **(B)** by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $2,500,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000 shall be used for grants under section 1701(d), and not more than $350,000,000 shall be used for grants under section 1701(e).”.
+    - **(B)** by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $1,250,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000 shall be used for grants under section 1701(d), and not more than $350,000,000 shall be used for grants under section 1701(e).”.
 - **(i)** *Purposes* Section 10002 of the Public Safety Partnership and Community Policing Act of 1994 (42 U.S.C. 3796dd note) is amended—
   - **(1)** in paragraph (4), by striking “development” and inserting “use”; and
   - **(2)** in the matter following paragraph (4), by striking “for a period of 6 years”.
@@ -110,6 +112,8 @@ This Act may be cited as the “COPS Improvements Act of 2009”.
     - **(C)** in paragraph (2), as so redesignated, by inserting “, except for the program under part Q of this title” before the period.
   - **(2)** *Law enforcement computer systems* Section 107 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3712f) is amended by adding at the end the following:
     > - **(c)** *Exception* This section shall not apply to any grant made under part Q of this title.
+
+- **(k)** *Effective date* This section and the amendments made by this section shall apply with respect to grants awarded under part Q of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd et seq.) on or after the date of enactment of this Act.
 
 ## § 3. Report by Inspector General required
 
