@@ -2,12 +2,12 @@
 legis-num: H. RES. 254
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 254
 
-> Recognizing the designation of March 2009 as Irish-American Heritage Month and honoring the significance of Irish-Americans in the history and progress of the United States.
+> Recognizing the contributions of Irish-Americans in the history and progress of the United States.
 
 ## Preamble
 
@@ -22,10 +22,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas approximately one in four Americans trace at least part of their ancestry to Ireland;
 - Whereas generations of Irish-Americans have worked alongside their fellow Americans to build a more perfect Union, and the United States is a stronger country because of them;
 - Whereas it is fitting that the House of Representatives honor the rich heritage, enduring contributions, and firm values of the Irish-Americans who continue to enrich and strengthen American families, communities, ideals, and character; and
-- Whereas on March 2, 2009, President Barack Obama proclaimed March 2009 as Irish-American Heritage Month: Now, therefore, be it
+- Whereas President Barack Obama proclaimed March 2009 as Irish-American Heritage Month: Now, therefore, be it
 
-That the House of Representatives, in recognition of the designation of Irish-American Heritage Month by President Barack Obama—
+That the House of Representatives—
 
-- **(1)** honors Irish-Americans for their contributions to the United States;
-- **(2)** recognizes the significance of Irish-Americans in the history and progress of United States; and
-- **(3)** encourages individuals to observe this month with appropriate ceremonies, programs, and activities.
+- **(1)** recognizes the significant contributions of Irish-Americans in the history and progress of United States; and
+- **(2)** encourages Americans to celebrate Irish-American heritage with appropriate ceremonies, programs, and activities.
