@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1694
@@ -31,9 +31,10 @@ A bill to authorize the acquisition and protection of nationally significant bat
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ A bill to authorize the acquisition and protection of nationally significant bat
 - 2009-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4528)
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4528)
 - 2009-04-21 — The title of the measure was amended. Agreed to without objection.
+- 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
