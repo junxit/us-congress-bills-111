@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 13
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 13
@@ -368,7 +368,7 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Senate — Budget Committee
 
-## Recorded votes (40)
+## Recorded votes (49)
 
 - 2009-03-31 — [Senate 111-1-116](votes/senate-111-1-0116.md) — On the Amendment — **Amendment Agreed to** (54–43)
 - 2009-03-31 — [Senate 111-1-117](votes/senate-111-1-0117.md) — On the Amendment — **Amendment Agreed to** (89–8)
@@ -410,6 +410,15 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2009-04-02 — [Senate 111-1-153](votes/senate-111-1-0153.md) — On the Amendment — **Amendment Rejected** (18–79)
 - 2009-04-02 — [Senate 111-1-154](votes/senate-111-1-0154.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (55–43)
 - 2009-04-22 — [House 111-1-198](votes/house-111-1-0198.md) — On Motion to Instruct Conferees — **Failed** (196–227)
+- 2009-04-23 — [Senate 111-1-163](votes/senate-111-1-0163.md) — On the Motion — **Motion Agreed to** (57–37)
+- 2009-04-23 — [Senate 111-1-164](votes/senate-111-1-0164.md) — On the Motion — **Motion Agreed to** (66–28)
+- 2009-04-23 — [Senate 111-1-165](votes/senate-111-1-0165.md) — On the Motion — **Motion Rejected** (40–54)
+- 2009-04-23 — [Senate 111-1-166](votes/senate-111-1-0166.md) — On the Motion — **Motion Rejected** (38–56)
+- 2009-04-23 — [Senate 111-1-167](votes/senate-111-1-0167.md) — On the Motion — **Motion Agreed to** (84–9)
+- 2009-04-23 — [Senate 111-1-168](votes/senate-111-1-0168.md) — On the Motion — **Motion Agreed to** (79–14)
+- 2009-04-23 — [Senate 111-1-169](votes/senate-111-1-0169.md) — On the Motion — **Motion Agreed to** (63–30)
+- 2009-04-29 — [House 111-1-216](votes/house-111-1-0216.md) — On Agreeing to the Conference Report — **Passed** (233–193)
+- 2009-04-29 — [Senate 111-1-173](votes/senate-111-1-0173.md) — On the Conference Report — **Conference Report Agreed to** (53–43)
 
 ## Actions
 
@@ -1241,3 +1250,45 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2009-04-22 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 85. Agreed to without objection.
 - 2009-04-22 — The Speaker appointed conferees: Spratt, Boyd, DeLauro, Ryan (WI), and Hensarling.
 - 2009-04-22 — The resolution provides for further consideration of H.Con.Res. 85 in the Committee of the Whole House on the State of the Union. The resolution makes in order four amendments which shall be debateable for forty minutes each, equally divided and controlled. The resolution makes in order a motion to take from the Speaker's table S.Con.Res. 13 and strike all after the resolving clause of S.Con.Res. 13 and insert in lieu thereof the provisions of H.Con.Res. 85 as passed by the House, and to insist on its amendment, and request a conference with the Senate thereon.
+- 2009-04-23 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2009-04-23 — Motion by Senator Alexander to instruct Senate conferees made in Senate. (consideration: CR S4646-4647; text: CR S4647)
+- 2009-04-23 — Motion by Senator Alexander to instruct Senate conferees to insist that the final conference report include the Senate position maintaining a competitive student loan program that provides students and institutions of higher education with a comprehensive choice of loan products and services, as contained in section 203 of S. Con. Res. 13, as passed by the Senate agreed to in Senate by Voice Vote.
+- 2009-04-23 — Motion by Senator Coburn to instruct Senate conferees made in Senate. (consideration: CR S4648; text: CR S4648)
+- 2009-04-23 — Motion by Senator Coburn to instruct Senate conferees to insist that the conference report include a reserve fund that promotes legislation that achieves savings by going through the Federal Budget line by line agreed to in Senate by Voice Vote.
+- 2009-04-23 — Motion by Senator Cornyn to instruct Senate conferees made in Senate. (consideration: CR S4651, S4655-4656; text: CR S4651)
+- 2009-04-23 — Motion by Senator Cornyn to instruct Senate conferees to insist on the inclusion in the final conference report of the point of order against legislation that raises Federal income tax rates on small businesses as contained in section 307 of the concurrent resolution, as passed by the Senate agreed to in Senate by Yea-Nay Vote. 84 - 9. Record Vote Number: 167.
+- 2009-04-23 — Motion by Senator DeMint to instruct Senate conferees made in Senate. (consideration: CR S4648-4650, S4656; text: CR S4648)
+- 2009-04-23 — Motion by Senator DeMint to instruct Senate conferees to insist that the conference report on the concurrent resolution shall include a point of order against legislation that eliminates the ability of Americans to keep their health plan and eliminates the ability of Americans to choose their doctor, as contained in section 316 of the concurrent resolution, as passed by the Senate, and insist further that an additional condition be added providing such legislation shall not decrease the number of Americans enrolled in private health insurance, while increasing the number of Americans enrolled in government-managed, rationed health care agreed to in Senate by Yea-Nay Vote. 79 - 14. Record Vote Number: 168.
+- 2009-04-23 — Motion by Senator Ensign to instruct Senate conferees made in Senate. (consideration: CR S4652; text: CR S4652)
+- 2009-04-23 — Motion by Senator Ensign to instruct Senate conferees to insist that the conference report on the concurrent resolution include the point of order against legislation that raises taxes directly or indirectly on middle-income taxpayers (single individuals with $200,000 or less in adjusted gross income or married couples filing jointly with $250,000 or less in adjusted gross income) as contained in section 306 of the concurrent resolution as passed by the Senate agreed to in Senate by Voice Vote.
+- 2009-04-23 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4650-4651, S4654; text: CR S4650)
+- 2009-04-23 — Motion by Senator Gregg to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 40 - 54. Record Vote Number: 165.
+- 2009-04-23 — Motion by Senator Johanns to instruct Senate conferees made in Senate. (consideration: CR S4652, S4654; text: CR S4652)
+- 2009-04-23 — Motion by Senator Johanns to instruct Senate conferees to insist that if the conference report includes a Deficit Neutral Reserve Fund to Invest in Clean Energy and Preserve the Environment and Climate Change Legislation similar to section 202 of S. Con. Res. 13, as passed by the Senate, then that Deficit Neutral Reserve Fund shall also include the language contained in section 202(c) of S. Con. Res. 13, as passed by the Senate, which provides that the Chairman of the Senate Budget Committee may not revise allocations for legislation if that legislation is reported from any committee pursuant to section 310 of the Congressional Budget Act of 1974 agreed to in Senate by Yea-Nay Vote. 66 - 28. Record Vote Number: 164.
+- 2009-04-23 — Motion by Senator Sessions to instruct Senate conferees made in Senate. (consideration: CR S4643, S4655-4646; text: CR S4643)
+- 2009-04-23 — Motion by Senator Sessions to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 38 - 56. Record Vote Number: 166.
+- 2009-04-23 — Motion by Senator Stabenow to instruct Senate conferees made in Senate. (consideration: CR S4652-4654; text: CR S4653)
+- 2009-04-23 — Motion by Senator Stabenow to instruct Senate conferees to insist that the final conference report include a Deficit-Neutral Reserve Fund to Invest in Clean Energy and Preserve the Environment agreed to in Senate by Yea-Nay Vote. 57 - 37. Record Vote Number: 163.
+- 2009-04-23 — Motion by Senator Vitter to instruct Senate conferees made in Senate. (consideration: CR S4647-4648, S4657; text: CR S4647)
+- 2009-04-23 — Motion by Senator Vitter to instruct Senate conferees to insist that if the final conference report includes any reserve funds involving energy and the environment, that such sections shall include the requirements included in section 202 (a) of the Senate-passed resolution to require that such legislation would not increase the cost of producing energy from domestic sources, including oil and gas from the Outer Continental Shelf or other areas; would not increase the cost of energy for American families; would not increase the cost of energy for domestic manufacturers, farmers, fishermen, or other domestic industries; and would not enhance foreign competitiveness against U.S. businesses agreed to in Senate by Yea-Nay Vote. 63 - 30. Record Vote Number: 169.
+- 2009-04-23 — Senate appointed conferees. Conrad; Murray; Gregg.
+- 2009-04-23 — Senate disagreed to House amendment, agreed to request for conference. (consideration: CR S4641-4657)
+- 2009-04-24 — Message on Senate action sent to the House.
+- 2009-04-27 — Conference report H. Rept. 111-89 filed. (text of conference report: CR H4474-4836)
+- 2009-04-27 — Conference report filed: Conference report H. Rept. 111-89 filed.(text of conference report: CR H4474-4836)
+- 2009-04-28 — DEBATE - Pursuant to the provisions of H.Res. 371, the House proceeded with up to one hour of debate on the conference report to accompany S.Con.Res. 13.
+- 2009-04-28 — Mr. Spratt brought up conference report H. Rept. 111-89 for consideration under the provisions of H. Res. 371. (consideration: CR H4891-4897)
+- 2009-04-28 — POSTPONED PROCEEDINGS - Pursuant to section 2 of H. Res. 371, the Chair announced that further proceedings on the conference report to accompany S. Con. Res. 13 would be postponed until a time to be announced.
+- 2009-04-28 — Rule H. Res. 371 passed House.
+- 2009-04-28 — Rules Committee Resolution H. Res. 371 Reported to House. Rule provides for consideration of the conference report to S. Con. Res. 13 with 1 hour of general debate. All points of order against the conference report and against its consideration are waived.
+- 2009-04-29 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-04-29 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 233 - 193 (Roll no. 216).
+- 2009-04-29 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 53 - 43. Record Vote Number: 173.
+- 2009-04-29 — Conference report considered in Senate. (consideration: CR S4840-4881)
+- 2009-04-29 — DEBATE - The House resumed with the remaining 20 minutes of debate on the conference report to accompany S.Con.Res. 13.
+- 2009-04-29 — Message on Senate action sent to the House.
+- 2009-04-29 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-04-29 — On agreeing to the conference report Agreed to by the Yeas and Nays: 233 - 193 (Roll no. 216).
+- 2009-04-29 — Senate agreed to conference report by Yea-Nay Vote. 53 - 43. Record Vote Number: 173.
+- 2009-04-29 — The House proceeded to consider the conference report H.Rept. 111-89 as unfinished business. (consideration: CR H4920-4928)
+- 2009-04-29 — The previous question was ordered without objection. (consideration: CR H4927)
