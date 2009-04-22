@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 18
 congress: 111
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 18
