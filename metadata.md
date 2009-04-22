@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 86
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 86
@@ -25,3 +25,9 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for the u
 - 2009-03-30 — Introduced in House
 - 2009-03-30 — Introduced in House
 - 2009-03-30 — Referred to the House Committee on House Administration.
+- 2009-04-22 — Considered under suspension of the rules. (consideration: CR H4601-4602)
+- 2009-04-22 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 86.
+- 2009-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-22 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution.
+- 2009-04-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4601)
+- 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4601)
