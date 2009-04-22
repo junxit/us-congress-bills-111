@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1516
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1516
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 37926 C
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ To designate the facility of the United States Postal Service located at 37926 C
 - 2009-04-21 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-04-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4547)
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4547)
+- 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
