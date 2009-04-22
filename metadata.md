@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 13
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 13
@@ -16,9 +16,400 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
+## Cosponsors (345)
+
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+
 ## Committees (1)
 
 - Senate — Budget Committee
+
+## Recorded votes (40)
+
+- 2009-03-31 — [Senate 111-1-116](votes/senate-111-1-0116.md) — On the Amendment — **Amendment Agreed to** (54–43)
+- 2009-03-31 — [Senate 111-1-117](votes/senate-111-1-0117.md) — On the Amendment — **Amendment Agreed to** (89–8)
+- 2009-03-31 — [Senate 111-1-118](votes/senate-111-1-0118.md) — On the Amendment — **Amendment Rejected** (43–54)
+- 2009-04-01 — [Senate 111-1-119](votes/senate-111-1-0119.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2009-04-01 — [Senate 111-1-120](votes/senate-111-1-0120.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2009-04-01 — [Senate 111-1-121](votes/senate-111-1-0121.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2009-04-01 — [Senate 111-1-122](votes/senate-111-1-0122.md) — On the Amendment — **Amendment Agreed to** (82–16)
+- 2009-04-01 — [Senate 111-1-123](votes/senate-111-1-0123.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2009-04-01 — [Senate 111-1-124](votes/senate-111-1-0124.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2009-04-01 — [Senate 111-1-125](votes/senate-111-1-0125.md) — On the Motion — **Motion Rejected** (42–56)
+- 2009-04-01 — [Senate 111-1-126](votes/senate-111-1-0126.md) — On the Amendment — **Amendment Agreed to** (67–31)
+- 2009-04-01 — [Senate 111-1-127](votes/senate-111-1-0127.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2009-04-02 — [Senate 111-1-128](votes/senate-111-1-0128.md) — On the Amendment — **Amendment Rejected** (39–58)
+- 2009-04-02 — [Senate 111-1-129](votes/senate-111-1-0129.md) — On the Amendment — **Amendment Rejected** (38–60)
+- 2009-04-02 — [Senate 111-1-130](votes/senate-111-1-0130.md) — On the Amendment — **Amendment Agreed to** (96–2)
+- 2009-04-02 — [Senate 111-1-131](votes/senate-111-1-0131.md) — On the Amendment — **Amendment Agreed to** (59–39)
+- 2009-04-02 — [Senate 111-1-132](votes/senate-111-1-0132.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (43–55)
+- 2009-04-02 — [Senate 111-1-133](votes/senate-111-1-0133.md) — On the Amendment — **Amendment Agreed to** (56–42)
+- 2009-04-02 — [Senate 111-1-134](votes/senate-111-1-0134.md) — On the Amendment — **Amendment Rejected** (28–70)
+- 2009-04-02 — [Senate 111-1-135](votes/senate-111-1-0135.md) — On the Amendment — **Amendment Agreed to** (65–33)
+- 2009-04-02 — [Senate 111-1-136](votes/senate-111-1-0136.md) — On the Amendment — **Amendment Rejected** (37–60)
+- 2009-04-02 — [Senate 111-1-137](votes/senate-111-1-0137.md) — On the Amendment — **Amendment Agreed to** (89–9)
+- 2009-04-02 — [Senate 111-1-138](votes/senate-111-1-0138.md) — On the Amendment — **Amendment Agreed to** (94–3)
+- 2009-04-02 — [Senate 111-1-139](votes/senate-111-1-0139.md) — On the Amendment — **Amendment Rejected** (40–58)
+- 2009-04-02 — [Senate 111-1-140](votes/senate-111-1-0140.md) — On the Amendment — **Amendment Rejected** (31–67)
+- 2009-04-02 — [Senate 111-1-141](votes/senate-111-1-0141.md) — On the Amendment — **Amendment Agreed to** (73–25)
+- 2009-04-02 — [Senate 111-1-142](votes/senate-111-1-0142.md) — On the Amendment — **Amendment Agreed to** (54–44)
+- 2009-04-02 — [Senate 111-1-143](votes/senate-111-1-0143.md) — On the Amendment — **Amendment Rejected** (42–56)
+- 2009-04-02 — [Senate 111-1-144](votes/senate-111-1-0144.md) — On the Motion — **Motion Rejected** (46–52)
+- 2009-04-02 — [Senate 111-1-145](votes/senate-111-1-0145.md) — On the Motion — **Motion Agreed to** (63–35)
+- 2009-04-02 — [Senate 111-1-146](votes/senate-111-1-0146.md) — On the Amendment — **Amendment Agreed to** (51–48)
+- 2009-04-02 — [Senate 111-1-147](votes/senate-111-1-0147.md) — On the Amendment — **Amendment Agreed to** (56–43)
+- 2009-04-02 — [Senate 111-1-148](votes/senate-111-1-0148.md) — On the Amendment — **Amendment Rejected** (31–66)
+- 2009-04-02 — [Senate 111-1-149](votes/senate-111-1-0149.md) — On the Motion — **Motion Rejected** (28–69)
+- 2009-04-02 — [Senate 111-1-150](votes/senate-111-1-0150.md) — On the Motion — **Motion Rejected** (36–61)
+- 2009-04-02 — [Senate 111-1-151](votes/senate-111-1-0151.md) — On the Amendment — **Amendment Rejected** (39–58)
+- 2009-04-02 — [Senate 111-1-152](votes/senate-111-1-0152.md) — On the Amendment — **Amendment Rejected** (41–56)
+- 2009-04-02 — [Senate 111-1-153](votes/senate-111-1-0153.md) — On the Amendment — **Amendment Rejected** (18–79)
+- 2009-04-02 — [Senate 111-1-154](votes/senate-111-1-0154.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (55–43)
+- 2009-04-22 — [House 111-1-198](votes/house-111-1-0198.md) — On Motion to Instruct Conferees — **Failed** (196–227)
 
 ## Actions
 
@@ -27,3 +418,826 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2009-03-27 — Committee on the Budget. Original measure reported to Senate by Senator Conrad under authority of the order of the Senate of 03/26/2009. Without written report.
 - 2009-03-27 — Introduced in Senate
 - 2009-03-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39. (text of measure as introduced: CR S3997-4004)
+- 2009-03-30 — Amendment SA 731 proposed by Senator Thune. (consideration: CR S3972-3974; text: CR S2972) To amend the deficit-neutral reserve fund for climate change legislation to require that such legislation does not increase electricity or gasoline prices.
+- 2009-03-30 — Amendment SA 735 proposed by Senator Johanns. (consideration: CR S3974-3977; text: CR S3974) To prohibit the use of reconciliation in the Senate for climate change legislation involving a cap and trade system.
+- 2009-03-30 — Measure laid before Senate by unanimous consent. (consideration: CR S3942-3977)
+- 2009-03-30 — Senate amendment proposed (on the floor): Amendment SA 731 proposed by Senator Thune.(consideration: CR S3972-3974; text: CR S2972)
+- 2009-03-30 — Senate amendment proposed (on the floor): Amendment SA 735 proposed by Senator Johanns.(consideration: CR S3974-3977; text: CR S3974)
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-30 — Senate amendment submitted
+- 2009-03-31 — Amendment SA 731 agreed to in Senate by Yea-Nay Vote. 89 - 8. Record Vote Number: 117.
+- 2009-03-31 — Amendment SA 739 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 118.
+- 2009-03-31 — Amendment SA 739 proposed by Senator Gregg. (consideration: CR S4013-4017, S4030; text: CR S4013) To prohibit the consideration of any budget resolution, or amendment thereto, or conference report thereon, that shows an increase in the public debt, for the period of the current fiscal year through the next 10 years, equal to or greater than the debt accumulated from 1789 to January 20, 2009.
+- 2009-03-31 — Amendment SA 747 proposed by Senator Alexander. (consideration: CR S4033-4037; text: CR S4033) To create runaway debt point of order against consideration of a budget resolution that projects the ratio of public debt to GDP for any fiscal year in excess of 90% to ensure the continued viability of US dollar and prevent doubling or tripling the debt burden on future generations.
+- 2009-03-31 — Amendment SA 749 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 116.
+- 2009-03-31 — Amendment SA 749 proposed by Senator Boxer. (consideration: CR S4017-4026, S4029; text: CR S4017) To require that certain legislation relating to clean energy technologies not increase electricity or gasoline prices or increase the overall burden on consumers.
+- 2009-03-31 — Amendment SA 763 proposed by Senator Lieberman. (consideration: CR S4030-4033; text: CR S4031) To protect the American people from potential spillover violence from Mexico by providing $550 million in additional funding for the Department of Homeland Security and the Department of Justice and supporting the Administration's efforts to combat drug, gun, and cash smuggling by the cartels, by providing: $260 million for Customs and Border Protection to hire, train, equip, and deploy additional officers and canines and conduct exit inspections for weapons and cash; $130 million for Immigration and Customs Enforcement to hire, train, equip and deploy additional investigators; $50 million to Alcohol, Tobacco, Firearms, and Explosives to hire, train, equip, and deploy additional agents and inspectors; $20 million for the Human Smuggling and Trafficking Center; $10 million for the Office of International Affairs and the Management Directorate at DHS for oversight of the Merida Initiative; $30 million for Operation Stonegarden; $10 million to the Department of Justice for competitive grants to support local, State, and Tribal law enforcement agencies located along the southern border and in High Intensity Drug Trafficking Areas to address drug-related criminal activity; $20 million to DHS for tactical radio communications; and $20 million for upgrading the Traveler Enforcement Communications System.
+- 2009-03-31 — Amendment SA 772 proposed by Senator Sessions. (consideration: CR S4037-4055; text: CR S4037-4038) To restore the budget discipline of the Federal Government by freezing nondefense discretionary spending for fiscal years 2010 and 2011, and limiting the growth of nondefense discretionary spending to one percent annually for fiscal years 2012, 2013, and 2014.
+- 2009-03-31 — Considered by Senate. (consideration: CR S4009)
+- 2009-03-31 — Considered by Senate. (consideration: CR S4009, S40026-4029, S4029-4030)
+- 2009-03-31 — Considered by Senate. (consideration: CR S4009-4055)
+- 2009-03-31 — Roll call votes on amendments in Senate: Amendment SA 731 agreed to in Senate by Yea-Nay Vote. 89 - 8. Record Vote Number: 117.
+- 2009-03-31 — Roll call votes on amendments in Senate: Amendment SA 739 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 118.
+- 2009-03-31 — Roll call votes on amendments in Senate: Amendment SA 749 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 116.
+- 2009-03-31 — Senate amendment agreed to: Amendment SA 731 agreed to in Senate by Yea-Nay Vote. 89 - 8. Record Vote Number: 117.
+- 2009-03-31 — Senate amendment agreed to: Amendment SA 749 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 116.
+- 2009-03-31 — Senate amendment not agreed to: Amendment SA 739 not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 118.
+- 2009-03-31 — Senate amendment proposed (on the floor): Amendment SA 739 proposed by Senator Gregg.(consideration: CR S4013-4017, S4030; text: CR S4013)
+- 2009-03-31 — Senate amendment proposed (on the floor): Amendment SA 747 proposed by Senator Alexander.(consideration: CR S4033-4037; text: CR S4033)
+- 2009-03-31 — Senate amendment proposed (on the floor): Amendment SA 749 proposed by Senator Boxer.(consideration: CR S4017-4026, S4029; text: CR S4017)
+- 2009-03-31 — Senate amendment proposed (on the floor): Amendment SA 763 proposed by Senator Lieberman.(consideration: CR S4030-4033; text: CR S4031)
+- 2009-03-31 — Senate amendment proposed (on the floor): Amendment SA 772 proposed by Senator Sessions.(consideration: CR S4037-4055; text: CR S4037-4038)
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-03-31 — Senate amendment submitted
+- 2009-04-01 — Amendment SA 732 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 732 proposed by Senator Kerry. (consideration: CR S4117-4119, S4146; text: CR S4118) To restore full funding for the President's request for the international affairs budget, in support of development programs in Pakistan and Afghanistan, nuclear nonproliferation, foreign assistance, fighting global AIDS, promoting sustainable development, and other efforts, with an offset.
+- 2009-04-01 — Amendment SA 735 agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 126.
+- 2009-04-01 — Amendment SA 747 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 119.
+- 2009-04-01 — Amendment SA 762 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 762 proposed by Senator Isakson. (consideration: CR S4128-4129, S4146; text: CR S4128) To provide for a deficit-neutral reserve fund for providing a nonrefundable Federal income tax credit for the purchase of a principal residence during a 1-year period.
+- 2009-04-01 — Amendment SA 763 agreed to in Senate by Unanimous Consent. (text as modified: CR S4144)
+- 2009-04-01 — Amendment SA 772 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 120. (text as modified: CR S4144-4145)
+- 2009-04-01 — Amendment SA 774 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 774 proposed by Senator Lincoln. (consideration: CR S4122-4123; text: CR S4122) To provide a deficit-neutral reserve fund for improving child welfare.
+- 2009-04-01 — Amendment SA 775 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 775 proposed by Senator Lincoln. (consideration: CR S4121-4122; text: CR S4121) To enhance future GI Bill benefits for members of the National Guard and Reserve by ensuring those benefits keep pace with the national average cost of tuition.
+- 2009-04-01 — Amendment SA 776 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 776 proposed by Senator Shaheen. (consideration: CR S4129-4130, S4146; text: CR S4129) To establish a reserve fund for monitoring of FHA-insured lending.
+- 2009-04-01 — Amendment SA 783 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Amendment SA 783 proposed by Senator Casey. (consideration: CR S4113-4114, S4146; text: CR S4113) To establish a reserve fund to fully fund the Long-Term Stability/Housing for Victims Program.
+- 2009-04-01 — Amendment SA 793 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2009-04-01 — Amendment SA 793 proposed by Senator Kyl. (consideration: CR S4125-4128, S4150; text: CR S4125) To protect all patients by prohibiting the use of data obtained from comparative effectiveness research to deny coverage of items or services under Federal health care programs and to ensure that comparative effectiveness research accounts for advancements in genomics and personalized medicine, the unique needs of health disparity populations, and differences in the treatment response and the treatment preferences of patients.
+- 2009-04-01 — Amendment SA 804 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 121.
+- 2009-04-01 — Amendment SA 804 proposed by Senator Ensign. (consideration: CR S4114-4117, S4146-4147; text: CR S4114) To protect middle-income taxpayers from tax increases by providing a point of order against legislation that increase taxes on them, including taxes that arise, directly or indirectly, from Federal revenues derived from climate change or similar legislation.
+- 2009-04-01 — Amendment SA 805 proposed by Senator Ensign. (consideration: CR S4132; text: CR S4132) To require certain higher-income beneficiaries enrolled in the Medicare prescription drug benefit to pay higher premiums, as is currently required for physicians' services and outpatient services, and as proposed in the budget of the United States Government most recently submitted by the President.
+- 2009-04-01 — Amendment SA 806 agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 122.
+- 2009-04-01 — Amendment SA 806 proposed by Senator Cornyn. (consideration: CR S4119-4121, S4147, S4150-4151; text: CR H4120) To protect small businesses from higher taxes.
+- 2009-04-01 — Amendment SA 835 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 123.
+- 2009-04-01 — Amendment SA 835 proposed by Senator Gregg. (consideration: CR S4123-4125, S4129, S4147-4148; text: CR S4123) To establish a deficit-neutral reserve fund to address our Nations long term fiscal problems.
+- 2009-04-01 — Amendment SA 836 agreed to in Senate by Voice Vote.
+- 2009-04-01 — Amendment SA 836 proposed by Senator Reed. (consideration: CR S4135-4141, S4148; text: CR S4135) To increase funding for the Low-Income Home Energy Assistance Program (LIHEAP) by $1.9 billion in FY 2010.
+- 2009-04-01 — Amendment SA 844 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 124.
+- 2009-04-01 — Amendment SA 844 proposed by Senator Crapo. (consideration: CR S4130-4132, S4132-4135, S4148; text: CR S4131) To protect the fiscal discipline on discretionary spending exercised by the reported budget resolution by extending the resolution's discretionary spending limits to exactly the same level as already assumed in the resolution to make sure that debt is not increased further than contemplated by this budget resolution as a result of subsequent budget resolution or appropriation bills.
+- 2009-04-01 — Amendment SA 869 proposed by Senator Conrad for Senator Whitehouse. Relative to a deficit-neutral reserve fund to invest in clean energy and preserve the environment.
+- 2009-04-01 — Amendment SA 869 ruled out of order by the chair.
+- 2009-04-01 — Amendment SA 882 proposed by Senator McCain. (consideration: CR S4151-4153) In the nature of a substitute.
+- 2009-04-01 — Considered by Senate. (consideration: CR S4112, S4141-4144, S4149-4150)
+- 2009-04-01 — Considered by Senate. (consideration: CR S4112, S4144-4145)
+- 2009-04-01 — Considered by Senate. (consideration: CR S4112, S4144-4145, S4145-4146)
+- 2009-04-01 — Considered by Senate. (consideration: CR S4112, S4145)
+- 2009-04-01 — Considered by Senate. (consideration: CR S4112-4164)
+- 2009-04-01 — Motion to waive the Budget Act with respect to amendment SA 869 rejected in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 125.
+- 2009-04-01 — Point of order raised in Senate with respect to amendment SA 869. (consideration: CR S4148-4149; text: CR S4199)
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 735 agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 126.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 747 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 119.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 772 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 120.(text as modified: CR S4144-4145)
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 793 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 804 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 121.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 806 agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 122.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 835 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 123.
+- 2009-04-01 — Roll call votes on amendments in Senate: Amendment SA 844 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 124.
+- 2009-04-01 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 869 rejected in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 125.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 732 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 735 agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 126.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 762 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 763 agreed to in Senate by Unanimous Consent.(text as modified: CR S4144)
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 774 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 775 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 776 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 783 agreed to in Senate by Unanimous Consent.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 804 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 121.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 806 agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 122.
+- 2009-04-01 — Senate amendment agreed to: Amendment SA 836 agreed to in Senate by Voice Vote.
+- 2009-04-01 — Senate amendment not agreed to: Amendment SA 747 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 119.
+- 2009-04-01 — Senate amendment not agreed to: Amendment SA 772 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 120.(text as modified: CR S4144-4145)
+- 2009-04-01 — Senate amendment not agreed to: Amendment SA 793 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 127.
+- 2009-04-01 — Senate amendment not agreed to: Amendment SA 835 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 123.
+- 2009-04-01 — Senate amendment not agreed to: Amendment SA 844 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 124.
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 732 proposed by Senator Kerry.(consideration: CR S4117-4119, S4146; text: CR S4118)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 762 proposed by Senator Isakson.(consideration: CR S4128-4129, S4146; text: CR S4128)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 774 proposed by Senator Lincoln.(consideration: CR S4122-4123; text: CR S4122)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 775 proposed by Senator Lincoln.(consideration: CR S4121-4122; text: CR S4121)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 776 proposed by Senator Shaheen.(consideration: CR S4129-4130, S4146; text: CR S4129)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 783 proposed by Senator Casey.(consideration: CR S4113-4114, S4146; text: CR S4113)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 793 proposed by Senator Kyl.(consideration: CR S4125-4128, S4150; text: CR S4125)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 804 proposed by Senator Ensign.(consideration: CR S4114-4117, S4146-4147; text: CR S4114)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 805 proposed by Senator Ensign.(consideration: CR S4132; text: CR S4132)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 806 proposed by Senator Cornyn.(consideration: CR S4119-4121, S4147, S4150-4151; text: CR H4120)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 835 proposed by Senator Gregg.(consideration: CR S4123-4125, S4129, S4147-4148; text: CR S4123)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 836 proposed by Senator Reed.(consideration: CR S4135-4141, S4148; text: CR S4135)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 844 proposed by Senator Crapo.(consideration: CR S4130-4132, S4132-4135, S4148; text: CR S4131)
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 869 proposed by Senator Conrad for Senator Whitehouse.
+- 2009-04-01 — Senate amendment proposed (on the floor): Amendment SA 882 proposed by Senator McCain.(consideration: CR S4151-4153)
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-01 — Senate amendment submitted
+- 2009-04-02 — Amendment SA 730 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 730 proposed by Senator Reid. (consideration: CR S4264; text: CR S4264) To establish a deficit-neutral reserve fund to permanently extend the deduction for state and local sales taxes.
+- 2009-04-02 — Amendment SA 733 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 733 proposed by Senator Conrad for Senator Crapo. (consideration: CR S4281-4282; text: CR S4282) To establish a deficit-neutral reserve fund for the innovative loan guarantee program of the Department of Energy.
+- 2009-04-02 — Amendment SA 734 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 734 proposed by Senator Conrad for Senator Crapo. (consideration: CR S4281-4282; text: CR S4282) To establish a deficit-neutral reserve fund for nuclear research and development.
+- 2009-04-02 — Amendment SA 742 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 742 proposed by Senator Inhofe. (consideration: CR S4266; text: CR S4266) To provide for advance appropriations for medical care for veterans through the Department of Veterans Affairs.
+- 2009-04-02 — Amendment SA 746 agreed to in Senate by Voice.
+- 2009-04-02 — Amendment SA 746 proposed by Senator Conrad for Senator Udall CO. (consideration: CR S4275; text: CR S4275) To establish a deficit-neutral reserve fund for wildland fire management activities.
+- 2009-04-02 — Amendment SA 751 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 751 proposed by Senator Vitter. (consideration: CR S4288; text: CR S4288) To protect the more than 6 million Americans employed by the domestic oil and gas industry and to ensure low-cost energy for America's consumers, businesses, and families.
+- 2009-04-02 — Amendment SA 755 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 755 proposed by Senator Conrad for Senator Casey. (consideration: CR S4254; text: CR S4254) To establish a deficit-neutral reserve fund to provide for accelerated carbon capture and storage and advanced clean coal power generation research, development, demonstration, and deployment.
+- 2009-04-02 — Amendment SA 759 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 759 proposed by Senator Conrad for Senator Bennett. (consideration: CR S4254; text: CR S4254) To prohibit changing current tax laws for charitable contribution tax deductions to pay for modernizing the health care system.
+- 2009-04-02 — Amendment SA 764 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 764 proposed by Senator Conrad for Senator Carper. (consideration: CR S4261-4263; text: CR S4262) To establish a deficit-reduction reserve fund for the elimination and recovery of improper payments.
+- 2009-04-02 — Amendment SA 765 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 765 proposed by Senator Conrad for Senator Barrasso. (consideration: CR S4284-4285; text: CR S4284) To provide that the authorized climate change legislation decrease greenhouse gas emissions without regulating carbon dioxide, nitrogen oxide, water vapor, or methane emissions from biological processes associated with livestock production.
+- 2009-04-02 — Amendment SA 773 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Amendment SA 773 proposed by Senator Snowe. (consideration: CR S4261; text: CR S4261) To provide for a deficit-neutral reserve fund to provide for the extension of the top individual tax rates for small businesses after 2010.
+- 2009-04-02 — Amendment SA 777 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 777 proposed by Senator Conrad for Senator Burr. (consideration: CR S4278-4280; text: CR S4278-4279) To provide that legislation that would provide authority to the Secretary of Veterans Affairs to recover from a private health insurer of a disabled veteran amounts paid for treatment of such disability is subject to a point of order in the Senate.
+- 2009-04-02 — Amendment SA 787 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 134.
+- 2009-04-02 — Amendment SA 787 proposed by Senator Vitter. (consideration: CR S4255-4256; text: CR S4255-4256) To end $272 billion in spending on bailouts under TARP and reduce record deficits and levels of debt.
+- 2009-04-02 — Amendment SA 788 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 788 proposed by Senator Conrad for Senator Barrasso. (consideration: CR S4258-4259; text: CR S4259) To fund the account Hazardous Fuel Reduction on Federal Lands (within Function 300) at the level authorized in the Healthy Forests Restoration Act of 2003.
+- 2009-04-02 — Amendment SA 792 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 792 proposed by Senator Conrad for Senator Alexander. (consideration: CR S4281-4282; text: CR S4281) To modify the Deficit-Neutral Reserve Fund for Higher Education, to maximize higher education access and affordability by ensuring that institutions of higher education and their students are able to continue to participate in a competitive student loan program, in order to maintain a comprehensive choice of student loan products and services.
+- 2009-04-02 — Amendment SA 794 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 794 proposed by Senator Conrad for Senator Pryor. (consideration: CR S4270-4272; text: CR S4271) To establish deficit-neutral reserve funds to enhance and coordinate drug control efforts among Federal, State, and local law enforcement agencies through the expansion of the High Intensity Drug Trafficking Areas program and increased drug interdiction funding at the Department of Homeland Security.
+- 2009-04-02 — Amendment SA 795 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 795 proposed by Senator Conrad for Senator Pryor. (consideration: CR S4261-4263; text: CR S4262) To modify a deficit neutral reserve fund to ensure improvement of infrastructure related to flood control.
+- 2009-04-02 — Amendment SA 797 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 797 proposed by Senator Conrad for Senator Burr. (consideration: CR S4261-4263; text: CR S4263) To develop biodefense medical countermeasures by fully funding the Biomedical Advanced Research and Development Authority (BARDA) in a fiscally responsible manner.
+- 2009-04-02 — Amendment SA 798 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Amendment SA 798 proposed by Senator Wicker. (consideration: CR S4274; text: CR S4274) To ensure that law abiding Amtrak passengers are allowed to securely transport firearms in their checked baggage.
+- 2009-04-02 — Amendment SA 798 ruled germane by the chair. (consideration: CR S4274)
+- 2009-04-02 — Amendment SA 799 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 799 proposed by Senator Conrad for Senator Bennet. (consideration: CR S4254; text: CR S4254) To establish a deficit-neutral reserve fund to address the systemic inequities of Medicare and Medicaid reimbursement that lead to access problems in rural areas, including access to primary care and outpatient services, hospitals, and an adequate supply of providers in the workforce.
+- 2009-04-02 — Amendment SA 802 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 802 proposed by Senator Conrad for Senator Pryor. (consideration: CR S4261-4263; text: CR S4263) To provide a deficit-neutral reserve fund for the Veterans Health Administration to ensure that the supply of appropriately prepared health care professionals is available to meet the needs of the Veterans Health Administration.
+- 2009-04-02 — Amendment SA 803 agreed to in Senate by Yea-Nay. 94 - 3. Record Vote Number: 138.
+- 2009-04-02 — Amendment SA 803 proposed by Senator Thune. (consideration: CR S4264; text: CR S4264) To protect charitable giving by ensuring that organizations that provide important religious, educational, cultural, health care, and environmental services are not negatively impacted by changes to the Federal income tax deduction for charitable donations.
+- 2009-04-02 — Amendment SA 805 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 128.
+- 2009-04-02 — Amendment SA 808 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 808 proposed by Senator Conrad for Senator Brown. (consideration: CR S4254; text: CR S4254) To provide for legislation that removes Social Security numbers from Medicare cards and to pay for such legislation by reducing waste, fraud, and abuse in other federal programs.
+- 2009-04-02 — Amendment SA 809 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 809 proposed by Senator Conrad for Senator Brown. (consideration: CR S4270-4272; text: CR S4271) To modify the deficit-neutral reserve fund for Clean Energy to create jobs and strengthen American manufacturing competitiveness by establishing clean renewable energy manufacturing supply chains.
+- 2009-04-02 — Amendment SA 810 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 810 proposed by Senator Conrad for Senator Brown. (consideration: CR S4284-4285; text: CR S4284) To modify the deficit-neutral reserve fund for economic stabilization and growth to promote new employment opportunities that are critical to economic recovery by supporting workforce strategies that help workers seeking specialized training for emerging industries.
+- 2009-04-02 — Amendment SA 811 not agreed to in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 140.
+- 2009-04-02 — Amendment SA 811 proposed by Senator Sanders. (consideration: CR S4266; text: CR S4266) To provide for a deficit-neutral reserve fund to establish a national usury law, and for other purposes.
+- 2009-04-02 — Amendment SA 816 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 816 proposed by Senator Conrad for Senator Boxer. (consideration: CR S4261-4262; text: CR S4261) To provide access to affordable, quality child care for middle class families by making improvements in the employer-provided child care credit and the dependent care tax credit.
+- 2009-04-02 — Amendment SA 817 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 817 proposed by Senator Conrad for Senator Bunning. (consideration: CR S4261-4263; text: CR S4262) To provide a deficit-neutral reserve fund for the repeal of the 1993 increase in the income tax on social security benefits.
+- 2009-04-02 — Amendment SA 818 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 818 proposed by Senator Conrad for Senator Bunning. (consideration: CR S4261-4263; text: CR S4262) To provide for a deficit-neutral reserve fund to provide for legislation to increase the amount of capital losses allowed to individuals.
+- 2009-04-02 — Amendment SA 819 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 819 proposed by Senator Conrad for Senator Enzi. (consideration: CR S4281-4282; text: CR S4281) To reinstate the 60-vote point of order under section 425(a)(2) of the Congressional Budget Act of 1974 for legislation that creates unfunded mandates on States and local governments.
+- 2009-04-02 — Amendment SA 820 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 820 proposed by Senator Conrad for Senator Enzi. (consideration: CR S4270-4272; text: CR S4271) To establish a deficit-neutral reserve fund to improve the animal health and disease program.
+- 2009-04-02 — Amendment SA 824 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 824 proposed by Senator Conrad for Senator Enzi. (consideration: CR S4264-4265; text: CR S4265) To protect taxpayers and businesses from the impact of tax increases imposed while the domestic economy is in crisis.
+- 2009-04-02 — Amendment SA 826 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 826 proposed by Senator Conrad for Senator Enzi. (consideration: CR S4261-4263; text: CR S4263) To establish a deficit-neutral reserve fund to repeal certain deductions from mineral revenue payments made to States.
+- 2009-04-02 — Amendment SA 827 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 827 proposed by Senator Conrad for Senator Collins. (consideration: CR S4261-4263; text: CR S4262) To modify the provision relating to the deficit-neutral reserve fund for clean energy legislation to include industrial energy efficiency programs.
+- 2009-04-02 — Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 152. (text as modified: CR S4287)
+- 2009-04-02 — Amendment SA 828 proposed by Senator Coburn. (consideration: CR S4287-4288; text: CR S4287) To protect the freedom of conscience for patients and the right of health care providers to serve patients without violating their moral and religious convictions.
+- 2009-04-02 — Amendment SA 830 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 830 proposed by Senator Conrad for Senator Coburn. (consideration: CR S4284-4285; text: CR S4284) To provide for legislation that allows for a temporary suspension of the 10 percent tax penalty in order for struggling families to make an early withdrawal from their qualified retirement accounts to pay their monthly mortgage payments.
+- 2009-04-02 — Amendment SA 837 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 837 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S4261-4263; text: CR S4262) To increase funding for organ transplantation and organ donation activities at the Health Resources and Services Administration by $10 million in FY 2010.
+- 2009-04-02 — Amendment SA 838 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 838 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S4270-4272; text: CR S4271) To ensure full funding for Adam Walsh Act programs, with an offset.
+- 2009-04-02 — Amendment SA 839 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 839 proposed by Senator Conrad for Senator Roberts. (consideration: CR S4261-4263; text: CR S4263) To fully fund the small business child care grant program under section 8303 of the Small Business and Work Opportunity Act of 2007.
+- 2009-04-02 — Amendment SA 840 agreed to in Senate by Unanimous Consent. (text as modified: CR S4260)
+- 2009-04-02 — Amendment SA 840 proposed by Senator Brownback. (consideration: CR S4260) To provide funds for a Commission on Budgetary Accountability and Review of Federal Agencies.
+- 2009-04-02 — Amendment SA 841 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 841 proposed by Senator Conrad for Senator Murkowski. (consideration: CR S4281-4282; text: CR S4282) To increase funding for the National Health Service Corps.
+- 2009-04-02 — Amendment SA 866 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Amendment SA 866 proposed by Senator Hutchison. (consideration: CR S4259-4260; text: CR S4259-4260) To provide a point of order against legislation that has the effect of imposing a greater tax liability on taxpayers who are married than if such taxpayers had filed individual tax returns.
+- 2009-04-02 — Amendment SA 867 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 867 proposed by Senator Conrad for Senator Hutchison. (consideration: CR S4281-4282; text: CR S4281) To reduce U.S. dependence on foreign energy sources, minimize future gasoline price increases and reduce the federal budget deficit through expanded oil and gas production on the Outer Continental Shelf.
+- 2009-04-02 — Amendment SA 870 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 870 proposed by Senator Conrad for Senator Thune. (consideration: CR S4284-4285; text: CR S4284-4289) To provide for a total of $99,000,000 in COPS Hot Spots funding, as authorized in the Combat Meth Act.
+- 2009-04-02 — Amendment SA 870, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S4287)
+- 2009-04-02 — Amendment SA 872 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 872 proposed by Senator Conrad for Senator Dodd. (consideration: CR S4261-4263; text: CR S4262) To add a deficit-neutral reserve fund for provisions of critical resources to firefighters and fire departments.
+- 2009-04-02 — Amendment SA 873 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 146.
+- 2009-04-02 — Amendment SA 873 proposed by Senator Lincoln. (consideration: CR S4275-4277; text: CR S4275) To create a deficit-neutral reserve fund for estate tax relief.
+- 2009-04-02 — Amendment SA 874 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 874 proposed by Senator Conrad for Senator Landrieu. (consideration: CR S4261-4263; text: CR S4262-4263) To provide a deficit-neutral reserve fund for foster care financing reform.
+- 2009-04-02 — Amendment SA 875 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 131.
+- 2009-04-02 — Amendment SA 875 proposed by Senator Sanders. (consideration: CR S4245-4246, S4250-4253, S4277-4278; text: CR S4245) To require information from the Board of Governors of the Federal Reserve System about the use of emergency economic assistance.
+- 2009-04-02 — Amendment SA 875, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S4277)
+- 2009-04-02 — Amendment SA 876 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 876 proposed by Senator Pryor for Senator Lincoln. (consideration: CR S4270-4272; text: CR S4271) To ensure that health coverage is affordable to small businesses and individuals who are self-employed.
+- 2009-04-02 — Amendment SA 877 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 877 proposed by Senator Conrad for Senator Reed. (consideration: CR S4261-4263; text: CR S4263) To ensure that the deficit-neutral reserve fund for higher education may be used for Leveraging Educational Assistance Partnership programs.
+- 2009-04-02 — Amendment SA 878 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 878 proposed by Senator Conrad for Senator Dodd. (consideration: CR S4281-4282; text: CR S4282) To increase funding for the Maternal and Child Health Block Grant within the Health Resources and Services Administration by $188,000,000 in fiscal year 2010.
+- 2009-04-02 — Amendment SA 879 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 141.
+- 2009-04-02 — Amendment SA 879 proposed by Senator Stabenow. (consideration: CR S4267; text: CR S4267) To modify the authorization for climate change legislation.
+- 2009-04-02 — Amendment SA 880 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 880 proposed by Senator Conrad for Senator Murray. (consideration: CR S4258-4259; text: CR S4258-4259) To create a deficit-neutral reserve fund for legislation to enable States to establish or expand quality programs of early childhood home visitation.
+- 2009-04-02 — Amendment SA 881 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 881 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S4270-4272; text: CR S4270) To provide for the use of the deficit-neutral reserve fund for tax relief to extend and expand the charitable IRA rollover.
+- 2009-04-02 — Amendment SA 882 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 129. (text as modified: CR S4234-4240)
+- 2009-04-02 — Amendment SA 883 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 883 proposed by Senator Conrad for Senator Collins. (consideration: CR S4270-4272; text: CR S4271) To ensure that the deficit-neutral reserve fund for higher education may be used for Federal TRIO programs and Gaining Early Awareness and Readiness for Undergraduate Programs.
+- 2009-04-02 — Amendment SA 885 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 885 proposed by Senator Conrad for Senator Bennett. (consideration: CR S4261-4263; text: CR S4262) To establish a deficit-neutral reserve fund to cover the full cost of pension obligations for employees of laboratories and environmental cleanup sites under the jurisdiction of the Department of Energy.
+- 2009-04-02 — Amendment SA 886 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 886 proposed by Senator Conrad for Senator Klobuchar. (consideration: CR S4281-4282; text: CR S4281) To create a deficit-neutral reserve fund to improve the safety of the food supply in the United States.
+- 2009-04-02 — Amendment SA 887 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 887 proposed by Senator Conrad for Senator Klobuchar. (consideration: CR S4270-4272; text: CR S4271) To establish a deficit-neutral reserve fund to promote payment policies under the Medicare program that reward quality and efficient care and address geographic variations in spending.
+- 2009-04-02 — Amendment SA 889 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 889 proposed by Senator Conrad for Senator Klobuchar. (consideration: CR S4270-4272; text: CR S4270) To establish a deficit-neutral reserve fund to expedite research at the Department of Energy and the Environmental Protection Agency on the viability of the use of higher ethanol blends at the service station pump.
+- 2009-04-02 — Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 890 proposed by Senator Conrad for Senator Barrasso. (consideration: CR S4281-4282; text: CR S4282) To provide funding for voluntary efforts to conserve endangered species and to enable certain individuals and entities to comply with the Endangered Species Act of 1973.
+- 2009-04-02 — Amendment SA 892 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 892 proposed by Senator Gregg for Senator Coburn. (consideration: CR S4256-4257; text: CR S4256) To end bonuses awarded to contractors and government executives responsible for over budget projects and programs that fail to meet basic performance requirements.
+- 2009-04-02 — Amendment SA 893 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 893 proposed by Senator Gregg for Senator Coburn. (consideration: CR S4256-4257; text: CR S4256-4257) To support President Obama in his effort to go line by line through the Federal Budget in order to help him eliminate wasteful, inefficient, and duplicative programs.
+- 2009-04-02 — Amendment SA 894 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 894 proposed by Senator Conrad for Senator Coburn. (consideration: CR S4267; text: CR S4267) To provide a deficit-neutral reserve fund to set performance standards to identify failing Government programs.
+- 2009-04-02 — Amendment SA 895 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 895 proposed by Senator Conrad for Senator Coburn. (consideration: CR S4258-4259; text: CR S4258) To provide a deficit-neutral reserve fund to end abusive no-bid contracts by requiring all Federal contracts over $25,000 to be competitively bid.
+- 2009-04-02 — Amendment SA 899 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 899 proposed by Senator Conrad for Senator Lincoln. (consideration: CR S4270-4272; text: CR S4271) To provide for a deficit-neutral reserve fund to promote individual savings and financial security, and for other purposes.
+- 2009-04-02 — Amendment SA 901 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 901 proposed by Senator Conrad for Senator Begich. (consideration: CR S4281-4282; text: CR S4281) To express the sense of the Senate regarding the funding level for the Denali Commission.
+- 2009-04-02 — Amendment SA 903 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 903 proposed by Senator Conrad for Senator Begich. (consideration: CR S4281-4282; text: CR S4281) To modify the deficit-neutral reserve fund to invest in clean energy and preserve the environment to provide for additional funding for the conduct of arctic oil spill research.
+- 2009-04-02 — Amendment SA 904 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Amendment SA 904 proposed by Senator Lieberman. (consideration: CR S4274-4275; text: CR S4274) To add a deficit-neutral reserve fund to reduce the strain on United States military personnel by providing for an increase in the end strength for active duty personnel of the United States Army.
+- 2009-04-02 — Amendment SA 910 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 135.
+- 2009-04-02 — Amendment SA 910 proposed by Senator Graham. (consideration: CR S4257; text: CR S4257) To protect middle-income taxpayers from a national energy tax.
+- 2009-04-02 — Amendment SA 912 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 912 proposed by Senator Conrad for Senator Begich. (consideration: CR S4270-4272; text: CR S4271) To include in the deficit-neutral reserve fund for America's veterans and wounded servicemembers funding authority for retirement benefits for members of the Alaska Territorial Guard who served during and after World War II.
+- 2009-04-02 — Amendment SA 913 agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 130.
+- 2009-04-02 — Amendment SA 913 proposed by Senator Dodd. (consideration: CR S4249-4253, S4277-4278) To provide for enhanced oversight of the Board of Governors of the Federal Reserve System concerning the use of emergency economic assistance.
+- 2009-04-02 — Amendment SA 913, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S4277)
+- 2009-04-02 — Amendment SA 916 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 916 proposed by Senator Conrad for Senator Tester. (consideration: CR S4270-4272; text: CR S4271-4272) To increase funding for veterans beneficiary travel reimbursement mileage rate, with an offset.
+- 2009-04-02 — Amendment SA 917 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 917 proposed by Senator Conrad for Senator McCaskill. (consideration: CR S4270-4272; text: CR S4271) To expand the matters covered by the deficit-neutral reserve fund for defense acquisition and contracting reform.
+- 2009-04-02 — Amendment SA 921 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 921 proposed by Senator Conrad for Senator Menendez. (consideration: CR S4258-4259; text: CR S4258) To establish a deficit-neutral reserve fund for the Violence Against Women Act (VAWA) and the Family Violence Prevention and Services Act (FVPSA), and other related programs.
+- 2009-04-02 — Amendment SA 926 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 142.
+- 2009-04-02 — Amendment SA 926 proposed by Senator Bond. (consideration: CR S4268; text: CR S4268) To protect workers from significant job loss by providing a point of order against climate change or similar legislation that raises Federal revenues to such an extent that it causes significant job loss in manufacturing- or coal-dependent U.S. regions such as the Midwest, Great Plains or South.
+- 2009-04-02 — Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 136. (text as modified: CR S4257)
+- 2009-04-02 — Amendment SA 931 proposed by Senator Landrieu. (consideration: CR S4257-4258) To establish a deficit-neutral reserve fund for outer Continental Shelf oil and natural gas leasing revenues.
+- 2009-04-02 — Amendment SA 934 proposed by Senator Cornyn. (consideration: CR S4273; text: CR S4273) To increase transparency by requiring five days of public review of legislation before passage by the Senate.
+- 2009-04-02 — Amendment SA 934 ruled non-germane by the chair.
+- 2009-04-02 — Amendment SA 937 not agreed to in Senate by Yea-Nay Vote. 18 - 79. Record Vote Number: 153.
+- 2009-04-02 — Amendment SA 937 proposed by Senator Vitter. (consideration: CR S4288-4289; text: CR S4288) To require States to implement drug testing programs for applicants for and recipients of assistance under the Temporary Assistance for Needy Families (TANF) program, which would encourage healthy, drug-free families instead of encouraging dependent behavior or on-going drug abuse.
+- 2009-04-02 — Amendment SA 939 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 939 proposed by Senator Conrad for Senator Hatch. (consideration: CR S4281-4282; text: CR S4282) To establish a deficit-neutral reserve fund for the 2012 completion of Food and Drug Administration facilities.
+- 2009-04-02 — Amendment SA 940 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 940 proposed by Senator Conrad for Senator Snowe. (consideration: CR S4284-4285, S4287; text: CR S4284) To establish a deficit-neutral reserve fund to require a certain portion of funding for the Energy Star Program of the Environmental Protection Agency to be allocated to the Energy Star Small Business Program.
+- 2009-04-02 — Amendment SA 946 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 946 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S4278-4280; text: CR S4279) To increase the budget authority for the Indian Health Service by an additional $200 million to obtain a total $600 million increase over the FY 2009 enacted level.
+- 2009-04-02 — Amendment SA 949 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 949 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 133.
+- 2009-04-02 — Amendment SA 949 proposed by Senator Conrad for Senator Reed. (consideration: CR S4254) To provide for the expenditure of the remaining Troubled Asset Relief Program funds for the benefit of consumers.
+- 2009-04-02 — Amendment SA 949 proposed by Senator Reed. (consideration: CR S4254-4255; text: CR S4255)
+- 2009-04-02 — Amendment SA 950 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 139.
+- 2009-04-02 — Amendment SA 950 proposed by Senator Grassley. (consideration: CR S4265; text: CR S4265) To ensure that millions of middle-income families do not face an alternative minimum tax increase in 2013 and 2014 and that the budget resolution reflects that result.
+- 2009-04-02 — Amendment SA 953 as modified agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 137. (text as modified: CR S4260)
+- 2009-04-02 — Amendment SA 953 proposed by Senator Boxer. (consideration: CR S4260, S42661) To add a deficit-neutral reserve fund for the 21st Century Community Learning Centers afterschool program.
+- 2009-04-02 — Amendment SA 954 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 143.
+- 2009-04-02 — Amendment SA 954 proposed by Senator Bennett. (consideration: CR S4269-4270; text as modified: CR S4269-4270) To save the American taxpayer over $150,000,000,000 by adjusting spending levels beyond fiscal year 2010 to compensate for spending from the stimulus bill in the corresponding fiscal years.
+- 2009-04-02 — Amendment SA 955 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 955 proposed by Senator Conrad for Senator Dodd. (consideration: CR S4270-4272; text CR S4271) To increase funding for the Maternal and Child Health Block Grant within the Health Resources and Services Administration by $188 million in FY 2010.
+- 2009-04-02 — Amendment SA 957 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Amendment SA 957 proposed by Senator Lautenberg. (consideration: CR S4272-4273; text: CR S4273) To include funding for freight and passenger rail in the deficit-neutral reserve fund for investments in America's infrastructure.
+- 2009-04-02 — Amendment SA 958 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 958 proposed by Senator Conrad for Senator Crapo. (consideration: CR S4281-4282; text: CR S4281) To provide for a deficit-neutral reserve fund to increase the borrowing authority of the Federal Deposit Insurance Corporation and the National Credit Union Administration, and for other purposes.
+- 2009-04-02 — Amendment SA 960 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 960 proposed by Senator Conrad for Senator Barrasso. (consideration: CR S4281-4282; text: CR S4282) To increase amounts made available for the conduct of reviews under the National Environmental Policy Act of 1969.
+- 2009-04-02 — Amendment SA 962 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 962 proposed by Senator Conrad for Senator Hatch. (consideration: CR S4278-4280; text: CR S4279) To ensure the continued safety of Americans against terrorist attack by Al Qaeda and other terrorist organizations by providing a point of order against any legislation that would weaken or eliminate critical terror-fighting tools.
+- 2009-04-02 — Amendment SA 963 agreed to in Senate by Voice.
+- 2009-04-02 — Amendment SA 963 proposed by Senator DeMint. (consideration: CR S4286; text: CR S4286) To provide for a point of order against any legislation that eliminates the ability of Americans to keep their health plan or their choice of doctor.
+- 2009-04-02 — Amendment SA 964 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 151.
+- 2009-04-02 — Amendment SA 964 proposed by Senator DeMint. (consideration: CR S4286-4287; text: CR S4286) To establish a deficit-neutral reserve fund to protect small and home businesses from the burdensome and impractical requirements of the Consumer Product Safety Improvement Act of 2008.
+- 2009-04-02 — Amendment SA 965 not agreed to in Senate by Yea-Nay Vote. 31 - 66. Record Vote Number: 148.
+- 2009-04-02 — Amendment SA 965 proposed by Senator DeMint. (consideration: CR S4280-4281; text: CR S4280) To prevent taxpayer-funded bailouts for auto manufacturers.
+- 2009-04-02 — Amendment SA 967 proposed by Senator DeMint. (consideration: CR S4283-4284; text: CR S4283) To implement President Obama's earmark reforms.
+- 2009-04-02 — Amendment SA 967 ruled non-germane by the chair.
+- 2009-04-02 — Amendment SA 969 proposed by Senator Sessions. (consideration: CR S4285-4286; text: CR S4285) To provide for a point of order against any appropriations bill that fails to fully fund the construction of the Southwest border fence.
+- 2009-04-02 — Amendment SA 969 ruled non-germane by the chair.
+- 2009-04-02 — Amendment SA 970 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 970 proposed by Senator Conrad for Senator Hatch. (consideration: CR S4270-4272; text: CR S4271) To establish a deficit-neutral reserve fund to support the National Health Service Corps.
+- 2009-04-02 — Amendment SA 974 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 147. (text as modified: CR S4278)
+- 2009-04-02 — Amendment SA 974 proposed by Senator Durbin. (consideration: CR S4278) To provide that no additional estate tax relief beyone that which is already assumed in this resolution, which protects over 99.7 percent of estates from the estate tax, shall be allowed under any deficit-neutral reserve fund unless an equal amount of aggregate tax relief is also provided to Americans earning less than $100,000 per year.
+- 2009-04-02 — Amendment SA 976 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Amendment SA 976 proposed by Senator Conrad for Senator Hatch. (consideration: CR S4281-4282; text: CR S4281) To establish a deficit-neutral reserve fund to address our Nation's long-term fiscal problems.
+- 2009-04-02 — Amendment SA 980 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4284)
+- 2009-04-02 — Amendment SA 980 proposed by Senator Conrad for Senator Kyl. (consideration: CR S4284-4285) To deny funding for federal government expenditures to companies that are obtaining at least $1,000,000 in revenue from the sale of goods or services to or investment in Iran's energy sector, including, but not limited to: the exploration, development or exploitation of Iran's natural gas or crude oil fields; the import of refined petroleum products, including but limited to liquefied natural gas and petroleum bi-products into Iran; the enhancment or maintenance of Iran's oil refineries; and assistance in the import or export of energy products to or from Iran, including the provision of shipment, insurance, and reinsurance services.
+- 2009-04-02 — Considered by Senate. (consideration: CR S4233, S4234-4245, S4249)
+- 2009-04-02 — Considered by Senate. (consideration: CR S4233, S4247-4249)
+- 2009-04-02 — Considered by Senate. (consideration: CR S4233-4293)
+- 2009-04-02 — Defense of Germaneness raised in Senate.
+- 2009-04-02 — Defense of germaneness raised in Senate.
+- 2009-04-02 — Defense of germaneness raised.
+- 2009-04-02 — Defense of germaneness raised.
+- 2009-04-02 — Motion by Senator Johanns to recommit to Senate Committee on the Budget rejected in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 132. (consideration: CR S4253; text: CR S4253)
+- 2009-04-02 — Motion to waive the Budget Act with respect to amendment SA 798 agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 145.
+- 2009-04-02 — Motion to waive the Budget Act with respect to amendment SA 967 rejected in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 149.
+- 2009-04-02 — Motion to waive the Budget Act with respect to amendment SA 969 rejected in Senate by Yea-Nay Vote. 36 - 61. Record Vote Number: 150.
+- 2009-04-02 — Motion to waive the Budget Act with respect to rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 144.
+- 2009-04-02 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Yea-Nay Vote. 55 - 43. Record Vote Number: 154.(text: CR 4/20/2009 S4451-4464)
+- 2009-04-02 — Point of order raised in Senate with respect to amendment SA 798.
+- 2009-04-02 — Point of order raised in Senate with respect to amendment SA 934.
+- 2009-04-02 — Point of order raised in Senate with respect to amendment SA 967.
+- 2009-04-02 — Point of order raised in Senate with respect to amendment SA 969.
+- 2009-04-02 — Resolution agreed to in Senate with amendments by Yea-Nay Vote. 55 - 43. Record Vote Number: 154. (text: CR 4/20/2009 S4451-4464)
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 787 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 134.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 803 agreed to in Senate by Yea-Nay. 94 - 3. Record Vote Number: 138.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 805 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 128.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 811 not agreed to in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 140.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 152.(text as modified: CR S4287)
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 873 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 146.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 875 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 131.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 879 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 141.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 882 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 129.(text as modified: CR S4234-4240)
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 910 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 135.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 913 agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 130.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 926 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 142.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 136.(text as modified: CR S4257)
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 937 not agreed to in Senate by Yea-Nay Vote. 18 - 79. Record Vote Number: 153.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 949 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 133.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 950 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 139.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 953 as modified agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 137.(text as modified: CR S4260)
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 954 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 143.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 964 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 151.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 965 not agreed to in Senate by Yea-Nay Vote. 31 - 66. Record Vote Number: 148.
+- 2009-04-02 — Roll call votes on amendments in Senate: Amendment SA 974 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 147.(text as modified: CR S4278)
+- 2009-04-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 798 agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 145.
+- 2009-04-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 967 rejected in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 149.
+- 2009-04-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 969 rejected in Senate by Yea-Nay Vote. 36 - 61. Record Vote Number: 150.
+- 2009-04-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 144.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 730 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 733 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 734 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 742 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 746 agreed to in Senate by Voice.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 751 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 755 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 759 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 764 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 765 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 773 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 777 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 788 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 792 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 794 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 795 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 797 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 798 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 799 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 802 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 803 agreed to in Senate by Yea-Nay. 94 - 3. Record Vote Number: 138.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 808 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 809 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 810 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 816 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 817 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 818 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 819 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 820 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 824 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 826 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 827 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 830 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 837 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 838 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 839 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 840 agreed to in Senate by Unanimous Consent.(text as modified: CR S4260)
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 841 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 866 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 867 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 870 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 872 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 873 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 146.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 874 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 875 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 131.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 876 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 877 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 878 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 879 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 141.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 880 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 881 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 883 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 885 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 886 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 887 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 889 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 892 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 893 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 894 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 895 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 899 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 901 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 903 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 904 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 910 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 135.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 912 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 913 agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 130.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 916 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 917 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 921 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 926 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 142.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 939 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 940 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 946 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 949 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 949 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 133.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 953 as modified agreed to in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 137.(text as modified: CR S4260)
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 955 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 957 agreed to in Senate by Voice Vote.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 958 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 960 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 962 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 963 agreed to in Senate by Voice.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 970 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 974 as modified agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 147.(text as modified: CR S4278)
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 976 agreed to in Senate by Unanimous Consent.
+- 2009-04-02 — Senate amendment agreed to: Amendment SA 980 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4284)
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 787 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 134.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 805 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 128.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 811 not agreed to in Senate by Yea-Nay Vote. 31 - 67. Record Vote Number: 140.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 828 not agreed to in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 152.(text as modified: CR S4287)
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 882 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 129.(text as modified: CR S4234-4240)
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 931 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 136.(text as modified: CR S4257)
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 937 not agreed to in Senate by Yea-Nay Vote. 18 - 79. Record Vote Number: 153.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 950 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 139.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 954 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 143.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 964 not agreed to in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 151.
+- 2009-04-02 — Senate amendment not agreed to: Amendment SA 965 not agreed to in Senate by Yea-Nay Vote. 31 - 66. Record Vote Number: 148.
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 730 proposed by Senator Reid.(consideration: CR S4264; text: CR S4264)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 733 proposed by Senator Conrad for Senator Crapo.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 734 proposed by Senator Conrad for Senator Crapo.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 742 proposed by Senator Inhofe.(consideration: CR S4266; text: CR S4266)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 746 proposed by Senator Conrad for Senator Udall CO.(consideration: CR S4275; text: CR S4275)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 751 proposed by Senator Vitter.(consideration: CR S4288; text: CR S4288)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 755 proposed by Senator Conrad for Senator Casey.(consideration: CR S4254; text: CR S4254)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 759 proposed by Senator Conrad for Senator Bennett.(consideration: CR S4254; text: CR S4254)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 764 proposed by Senator Conrad for Senator Carper.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 765 proposed by Senator Conrad for Senator Barrasso.(consideration: CR S4284-4285; text: CR S4284)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 773 proposed by Senator Snowe.(consideration: CR S4261; text: CR S4261)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 777 proposed by Senator Conrad for Senator Burr.(consideration: CR S4278-4280; text: CR S4278-4279)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 787 proposed by Senator Vitter.(consideration: CR S4255-4256; text: CR S4255-4256)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 788 proposed by Senator Conrad for Senator Barrasso.(consideration: CR S4258-4259; text: CR S4259)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 792 proposed by Senator Conrad for Senator Alexander.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 794 proposed by Senator Conrad for Senator Pryor.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 795 proposed by Senator Conrad for Senator Pryor.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 797 proposed by Senator Conrad for Senator Burr.(consideration: CR S4261-4263; text: CR S4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 798 proposed by Senator Wicker.(consideration: CR S4274; text: CR S4274)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 799 proposed by Senator Conrad for Senator Bennet.(consideration: CR S4254; text: CR S4254)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 802 proposed by Senator Conrad for Senator Pryor.(consideration: CR S4261-4263; text: CR S4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 803 proposed by Senator Thune.(consideration: CR S4264; text: CR S4264)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 808 proposed by Senator Conrad for Senator Brown.(consideration: CR S4254; text: CR S4254)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 809 proposed by Senator Conrad for Senator Brown.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 810 proposed by Senator Conrad for Senator Brown.(consideration: CR S4284-4285; text: CR S4284)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 811 proposed by Senator Sanders.(consideration: CR S4266; text: CR S4266)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 816 proposed by Senator Conrad for Senator Boxer.(consideration: CR S4261-4262; text: CR S4261)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 817 proposed by Senator Conrad for Senator Bunning.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 818 proposed by Senator Conrad for Senator Bunning.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 819 proposed by Senator Conrad for Senator Enzi.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 820 proposed by Senator Conrad for Senator Enzi.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 824 proposed by Senator Conrad for Senator Enzi.(consideration: CR S4264-4265; text: CR S4265)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 826 proposed by Senator Conrad for Senator Enzi.(consideration: CR S4261-4263; text: CR S4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 827 proposed by Senator Conrad for Senator Collins.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 828 proposed by Senator Coburn.(consideration: CR S4287-4288; text: CR S4287)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 830 proposed by Senator Conrad for Senator Coburn.(consideration: CR S4284-4285; text: CR S4284)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 837 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 838 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 839 proposed by Senator Conrad for Senator Roberts.(consideration: CR S4261-4263; text: CR S4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 840 proposed by Senator Brownback.(consideration: CR S4260)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 841 proposed by Senator Conrad for Senator Murkowski.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 866 proposed by Senator Hutchison.(consideration: CR S4259-4260; text: CR S4259-4260)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 867 proposed by Senator Conrad for Senator Hutchison.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 870 proposed by Senator Conrad for Senator Thune.(consideration: CR S4284-4285; text: CR S4284-4289)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 872 proposed by Senator Conrad for Senator Dodd.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 873 proposed by Senator Lincoln.(consideration: CR S4275-4277; text: CR S4275)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 874 proposed by Senator Conrad for Senator Landrieu.(consideration: CR S4261-4263; text: CR S4262-4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 875 proposed by Senator Sanders.(consideration: CR S4245-4246, S4250-4253, S4277-4278; text: CR S4245)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 876 proposed by Senator Pryor for Senator Lincoln.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 877 proposed by Senator Conrad for Senator Reed.(consideration: CR S4261-4263; text: CR S4263)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 878 proposed by Senator Conrad for Senator Dodd.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 879 proposed by Senator Stabenow.(consideration: CR S4267; text: CR S4267)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 880 proposed by Senator Conrad for Senator Murray.(consideration: CR S4258-4259; text: CR S4258-4259)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 881 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S4270-4272; text: CR S4270)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 883 proposed by Senator Conrad for Senator Collins.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 885 proposed by Senator Conrad for Senator Bennett.(consideration: CR S4261-4263; text: CR S4262)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 886 proposed by Senator Conrad for Senator Klobuchar.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 887 proposed by Senator Conrad for Senator Klobuchar.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 889 proposed by Senator Conrad for Senator Klobuchar.(consideration: CR S4270-4272; text: CR S4270)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 890 proposed by Senator Conrad for Senator Barrasso.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 892 proposed by Senator Gregg for Senator Coburn.(consideration: CR S4256-4257; text: CR S4256)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 893 proposed by Senator Gregg for Senator Coburn.(consideration: CR S4256-4257; text: CR S4256-4257)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 894 proposed by Senator Conrad for Senator Coburn.(consideration: CR S4267; text: CR S4267)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 895 proposed by Senator Conrad for Senator Coburn.(consideration: CR S4258-4259; text: CR S4258)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 899 proposed by Senator Conrad for Senator Lincoln.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 901 proposed by Senator Conrad for Senator Begich.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 903 proposed by Senator Conrad for Senator Begich.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 904 proposed by Senator Lieberman.(consideration: CR S4274-4275; text: CR S4274)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 910 proposed by Senator Graham.(consideration: CR S4257; text: CR S4257)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 912 proposed by Senator Conrad for Senator Begich.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 913 proposed by Senator Dodd.(consideration: CR S4249-4253, S4277-4278)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 916 proposed by Senator Conrad for Senator Tester.(consideration: CR S4270-4272; text: CR S4271-4272)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 917 proposed by Senator Conrad for Senator McCaskill.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 921 proposed by Senator Conrad for Senator Menendez.(consideration: CR S4258-4259; text: CR S4258)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 926 proposed by Senator Bond.(consideration: CR S4268; text: CR S4268)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 931 proposed by Senator Landrieu.(consideration: CR S4257-4258)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 934 proposed by Senator Cornyn.(consideration: CR S4273; text: CR S4273)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 937 proposed by Senator Vitter.(consideration: CR S4288-4289; text: CR S4288)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 939 proposed by Senator Conrad for Senator Hatch.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 940 proposed by Senator Conrad for Senator Snowe.(consideration: CR S4284-4285, S4287; text: CR S4284)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 946 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S4278-4280; text: CR S4279)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 949 proposed by Senator Reed.(consideration: CR S4254-4255; text: CR S4255)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 950 proposed by Senator Grassley.(consideration: CR S4265; text: CR S4265)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 953 proposed by Senator Boxer.(consideration: CR S4260, S42661)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 954 proposed by Senator Bennett.(consideration: CR S4269-4270; text as modified: CR S4269-4270)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 955 proposed by Senator Conrad for Senator Dodd.(consideration: CR S4270-4272; text CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 957 proposed by Senator Lautenberg.(consideration: CR S4272-4273; text: CR S4273)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 958 proposed by Senator Conrad for Senator Crapo.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 960 proposed by Senator Conrad for Senator Barrasso.(consideration: CR S4281-4282; text: CR S4282)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 962 proposed by Senator Conrad for Senator Hatch.(consideration: CR S4278-4280; text: CR S4279)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 963 proposed by Senator DeMint.(consideration: CR S4286; text: CR S4286)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 964 proposed by Senator DeMint.(consideration: CR S4286-4287; text: CR S4286)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 965 proposed by Senator DeMint.(consideration: CR S4280-4281; text: CR S4280)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 967 proposed by Senator DeMint.(consideration: CR S4283-4284; text: CR S4283)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 969 proposed by Senator Sessions.(consideration: CR S4285-4286; text: CR S4285)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 970 proposed by Senator Conrad for Senator Hatch.(consideration: CR S4270-4272; text: CR S4271)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 974 proposed by Senator Durbin.(consideration: CR S4278)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 976 proposed by Senator Conrad for Senator Hatch.(consideration: CR S4281-4282; text: CR S4281)
+- 2009-04-02 — Senate amendment proposed (on the floor): Amendment SA 980 proposed by Senator Conrad for Senator Kyl.(consideration: CR S4284-4285)
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate amendment submitted
+- 2009-04-02 — Senate vitiated previous adoption of Amendment SA 949. (consideration: CR S4254)
+- 2009-04-17 — Message on Senate action sent to the House.
+- 2009-04-21 — Held at the desk.
+- 2009-04-21 — Received in the House.
+- 2009-04-22 — Considered under the provisions of rule H. Res. 316. (consideration: CR H4618-4653, H4655-4656; text of measure as received in House: CR H4618-4631)
+- 2009-04-22 — DEBATE - The House proceeded with one hour of debate on the Ryan (WI) motion to instruct conferees on S. Con. Res. 13. The instructions contained in the motion seek to require the managers on the part of the House to recede to the Senate position on reconciliation instructions with respect to health care reform, education reform and relevant points of order thereto.
+- 2009-04-22 — DEBATE - The House proceeded with one hour of debate on the Spratt motion that the House insist on its amendment to S. Con. Res. 13 and request a conference with the Senate thereon.
+- 2009-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-22 — Mr. Ryan (WI) moved that the House instruct conferees. (consideration: CR H4645-4653; text: CR H4645)
+- 2009-04-22 — Mr. Spratt moved that the House insist upon its amendment, and request a conference.
+- 2009-04-22 — On agreeing to the resolution Agreed to without objection. (text: CR H4631-4637)
+- 2009-04-22 — On motion that the House insist upon its amendment, and request a conference Agreed to by voice vote.
+- 2009-04-22 — On motion that the House instruct conferees Failed by recorded vote: 196 - 227 (Roll no. 198). (consideration: CR H4655-4656)
+- 2009-04-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ryan (WI) motion to instruct conferees on S. Con. Res. 13, the Chair put the question on adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Ryan (WI) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2009-04-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4631-4637)
+- 2009-04-22 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 85. Agreed to without objection.
+- 2009-04-22 — The Speaker appointed conferees: Spratt, Boyd, DeLauro, Ryan (WI), and Hensarling.
+- 2009-04-22 — The resolution provides for further consideration of H.Con.Res. 85 in the Committee of the Whole House on the State of the Union. The resolution makes in order four amendments which shall be debateable for forty minutes each, equally divided and controlled. The resolution makes in order a motion to take from the Speaker's table S.Con.Res. 13 and strike all after the resolving clause of S.Con.Res. 13 and insert in lieu thereof the provisions of H.Con.Res. 85 as passed by the House, and to insist on its amendment, and request a conference with the Senate thereon.
