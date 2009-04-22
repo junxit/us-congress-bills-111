@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1219
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1219
@@ -22,9 +22,10 @@ Lake Hodges Surface Water Improvement and Reclamation Act of 2009
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Lake Hodges Surface Water Improvement and Reclamation Act of 2009
 - 2009-04-21 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2009-04-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 43 (Roll no. 195). (text: CR H4537)
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 43 (Roll no. 195).(text: CR H4537)
+- 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

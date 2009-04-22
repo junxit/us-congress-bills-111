@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1219
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by inserting after section 16__ the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 is amended by inserting after the item relating to section 16__ the following: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 390h` | insert | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by inserting after section 16__ the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 is amended by inserting after the item relating to section 16__ the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
