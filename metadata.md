@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1580
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1580
@@ -52,3 +52,10 @@ To authorize the Administrator of the Environmental Protection Agency to award g
 - 2009-04-21 — Placed on the Union Calendar, Calendar No. 32.
 - 2009-04-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-75.
 - 2009-04-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-75.
+- 2009-04-22 — Considered under suspension of the rules. (consideration: CR H4606-4610)
+- 2009-04-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1580.
+- 2009-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-22 — Mr. Gordon (TN) moved to suspend the rules and pass the bill, as amended.
+- 2009-04-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4606-4608)
+- 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4606-4608)
+- 2009-04-22 — The title of the measure was amended. Agreed to without objection.
