@@ -1,7 +1,7 @@
 ---
 measure: H.R. 411
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 411
@@ -26,9 +26,10 @@ Great Cats and Rare Canids Act of 2009
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Great Cats and Rare Canids Act of 2009
 - 2009-04-21 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
 - 2009-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 118 (Roll no. 194). (text: CR H4533-4534)
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 118 (Roll no. 194).(text: CR H4533-4534)
+- 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
