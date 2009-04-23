@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1746
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1746
@@ -32,3 +32,10 @@ Predisaster Hazard Mitigation Act of 2010
 - 2009-03-26 — Introduced in House
 - 2009-03-26 — Referred to the House Committee on Transportation and Infrastructure.
 - 2009-03-26 — Sponsor introductory remarks on measure. (CR E783-784)
+- 2009-03-27 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-04-02 — Committee Consideration and Mark-up Session Held.
+- 2009-04-02 — Ordered to be Reported by Voice Vote.
+- 2009-04-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-04-23 — Placed on the Union Calendar, Calendar No. 37.
+- 2009-04-23 — Reported by the Committee on Transportation. H. Rept. 111-83.
+- 2009-04-23 — Reported by the Committee on Transportation. H. Rept. 111-83.
