@@ -1,7 +1,7 @@
 ---
 measure: H.R. 749
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 749
@@ -20,9 +20,10 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 - 2009-04-22 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2009-04-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4594)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4594)
+- 2009-04-23 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
