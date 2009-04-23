@@ -1,7 +1,7 @@
 ---
 measure: H.R. 586
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 586
@@ -47,3 +47,13 @@ Civil Rights History Project Act of 2009
 - 2009-04-22 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 197). (text: CR H4597-4598)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 197).(text: CR H4597-4598)
 - 2009-04-23 — Received in the Senate.
+- 2009-04-24 — Cleared for White House.
+- 2009-04-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4723)
+- 2009-04-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4723)
+- 2009-04-27 — Message on Senate action sent to the House.
+- 2009-04-30 — Presented to President.
+- 2009-04-30 — Presented to President.
+- 2009-05-12 — Became Public Law No: 111-19.
+- 2009-05-12 — Became Public Law No: 111-19.
+- 2009-05-12 — Signed by President.
+- 2009-05-12 — Signed by President.
