@@ -1,0 +1,91 @@
+---
+legis-num: S. 883
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 883
+
+> To require the Secretary of the Treasury to mint coins in recognition and celebration of the establishment of the Medal of Honor in 1861, America’s highest award for valor in action against an enemy force which can be bestowed upon an individual serving in the Armed Services of the United States, to honor the American military men and women who have been recipients of the Medal of Honor, and to promote awareness of what the Medal of Honor represents and how ordinary Americans, through courage, sacrifice, selfless service and patriotism, can challenge fate and change the course of history.
+
+## § 1. Short title
+
+This Act may be cited as the “Medal of Honor Commemorative Coin Act of 2009”.
+
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** The Medal of Honor was first authorized by the Congress in 1861, as the United States Navy’s highest personal decoration.
+- **(2)** The Army Medal of Honor was authorized by the Congress in 1862, and the Air Force Medal of Honor was authorized by Congress in 1956.
+- **(3)** The Medal of Honor is presented by the President of the United States in the name of the Congress, to a person who, while a member of the United States Armed Forces distinguishes himself or herself conspicuously by gallantry and intrepidity, at the risk of his or her life, and above and beyond the call of duty—
+  - **(A)** while engaged in action against an enemy of the United States;
+  - **(B)** while engaged in military operations involving conflict with an opposing foreign force; or
+  - **(C)** while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+- **(4)** The deed performed must have been one of personal bravery or self-sacrifice so conspicuous as to clearly distinguish the individual above his or her comrades, and must have involved risk of life.
+- **(5)** Incontestable proof of the performance of the service is required, and each recommendation for the award of the Medal of Honor is considered on the standard of extraordinary merit.
+- **(6)** Fewer than 3,500 Medals of Honor have been awarded to members of the United States Armed Forces.
+- **(7)** The Congressional Medal of Honor Society is a not-for-profit organization chartered by the 85th Congress under a legislative act signed into law by President Dwight D. Eisenhower on August 14, 1958, and membership in the Society is restricted to recipients of the Medal of Honor.
+- **(8)** Society members—
+  - **(A)** are joined together for the purpose of forming and maintaining friendship among all living recipients of the Medal of Honor and remembrance of posthumous and deceased recipients; and
+  - **(B)** are dedicated to the protection and preservation of the dignity, honor, and name of the Medal of Honor, service to others, service to Nation, and the promotion of allegiance to the Constitution and the Government of the United States.
+- **(9)** Members of the Society act to foster patriotism and to inspire and encourage the youth of America to become worthy citizens.
+- **(10)** The Congressional Medal of Honor Foundation, a 501(c)(3) not-for-profit organization founded by the Society in 1999, is dedicated to—
+  - **(A)** perpetuating the Medal of Honor’s legacy through outreach and collaborative efforts;
+  - **(B)** raising funds for initiatives that promote what the Medal of Honor represents, operation of the Congressional Medal of Honor Society headquarters, and the public outreach activities of the Medal of Honor Society’s membership; and
+  - **(C)** promoting American values and the qualities of courage, sacrifice, and patriotism through increased awareness, education, scholarships, behavior, and example.
+- **(11)** Through its educational and outreach programs, the Congressional Medal of Honor Foundation promotes heroism, selflessness and distinguished citizenship among American youth, and brings public awareness to the actions of ordinary Americans who have made and are making a profound difference in preserving our freedoms.
+
+## § 3. Coin specifications
+
+- **(a)** *Denominations* In recognition and celebration of the founding of the Medal of Honor in 1861, and notwithstanding any other provision of law, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
+  - **(1)** *$5 gold coins* Not more than 100,000 $5 gold coins, which shall—
+    - **(A)** weigh 8.359 grams;
+    - **(B)** have a diameter of 0.850 inches; and
+    - **(C)** contain 90 percent gold and 10 percent alloy.
+  - **(2)** *$1 silver coins* Not more than 500,000 $1 coins, which shall—
+    - **(A)** weigh 26.73 grams;
+    - **(B)** have a diameter of 1.500 inches; and
+    - **(C)** contain 90 percent silver and 10 percent copper.
+- **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
+- **(c)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+
+## § 4. Design of coins
+
+- **(a)** *Design requirements*
+  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the traditions, legacy, and heritage of the Medal of Honor, and the distinguished service of its recipients in the Nation’s history.
+  - **(2)** *Designation and inscriptions* On each coin minted under this Act, there shall be—
+    - **(A)** a designation of the value of the coin;
+    - **(B)** an inscription of the year “2011”; and
+    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
+- **(b)** *Selection* The design for the coins minted under this Act shall—
+  - **(1)** contain motifs that represent the 3 Medal of Honor designs (Army, Navy, and Air Force) and specifically honor the Medal of Honor recipients, both past and present, such designs to be consistent with the traditions and heritage of the United States Armed Services, the mission and goals of the Congressional Medal of Honor Society, and the mission and goals of the Congressional Medal of Honor Foundation;
+  - **(2)** be selected by the Secretary, after consultation with the Boards of the Congressional Medal of Honor Society and Congressional Medal of Honor Foundation and the Commission of Fine Arts; and
+  - **(3)** be reviewed by the Citizens Coin Advisory Committee.
+
+## § 5. Issuance
+
+- **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
+- **(b)** *Mint facility* For each of the 2 denomination of coins minted under this Act, at least 1 facility of the United States Mint shall be used to strike proof quality coins, while at least 1 other such facility shall be used to strike the uncirculated quality coins.
+- **(c)** *Period for issuance* The Secretary of the Treasury may issue coins minted under this Act only during the 1-year period beginning on January 1, 2011.
+
+## § 6. Sale of coins
+
+- **(a)** *Sale price* The coins issued under this Act shall be sold by the Secretary at a price equal to the sum of—
+  - **(1)** the face value of the coins;
+  - **(2)** the surcharge provided in section 7(a) with respect to such coins; and
+  - **(3)** the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+- **(b)** *Bulk sales* The Secretary shall make bulk sales of the coins issued under this Act at a reasonable discount.
+- **(c)** *Prepaid orders*
+  - **(1)** *In general* The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of such coins.
+  - **(2)** *Discount* Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
+
+## § 7. Surcharges
+
+- **(a)** *In general* All sales of coins minted under this Act shall include a surcharge as follows:
+  - **(1)** A surcharge of $35 per coin for the $5 coin.
+  - **(2)** A surcharge of $10 per coin for the $1 coin.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Congressional Medal of Honor Foundation to help finance the educational, scholarship, and outreach programs of the Foundation.
+- **(c)** *Audits* The Congressional Medal of Honor Foundation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of enactment of this Act). The Secretary may issue guidance to carry out this subsection.
