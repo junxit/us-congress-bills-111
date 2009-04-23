@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1145
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,12 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “, and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (9), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (10), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 17111` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17111` | redesignate | by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17111` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10303` | replace | in paragraph (1), by striking “, and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10303` | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10303` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10307` | strike | in paragraph (9), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10307` | replace | in paragraph (10), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10307` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
