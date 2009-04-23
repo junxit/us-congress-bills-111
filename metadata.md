@@ -1,7 +1,7 @@
 ---
 measure: H.R. 586
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 586
@@ -46,3 +46,4 @@ Civil Rights History Project Act of 2009
 - 2009-04-22 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2009-04-22 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 197). (text: CR H4597-4598)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 197).(text: CR H4597-4598)
+- 2009-04-23 — Received in the Senate.
