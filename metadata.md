@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1139
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1139
@@ -64,9 +64,14 @@ COPS Improvements Act of 2009
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2009-04-23 — [House 111-1-206](votes/house-111-1-0206.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (342–78)
 
 ## Actions
 
@@ -78,3 +83,12 @@ COPS Improvements Act of 2009
 - 2009-04-21 — Placed on the Union Calendar, Calendar No. 35.
 - 2009-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-78.
 - 2009-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-78.
+- 2009-04-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-04-22 — Considered under suspension of the rules. (consideration: CR H4656-4665)
+- 2009-04-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1139.
+- 2009-04-22 — Mr. Weiner moved to suspend the rules and pass the bill, as amended.
+- 2009-04-23 — Considered as unfinished business. (consideration: CR H4718)
+- 2009-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 342 - 78 (Roll no. 206). (text: CR 4/22/2009 H4656-4658)
+- 2009-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 342 - 78 (Roll no. 206).(text: CR 4/22/2009 H4656-4658)
+- 2009-04-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
