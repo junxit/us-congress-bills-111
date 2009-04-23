@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 18
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 18
@@ -16,7 +16,7 @@ A concurrent resolution supporting the goals and ideals of World Malaria Day, an
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
@@ -26,9 +26,17 @@ A concurrent resolution supporting the goals and ideals of World Malaria Day, an
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
 
 ## Actions
 
 - 2009-04-22 — Introduced in Senate
 - 2009-04-22 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4598-4599; text as passed Senate: CR S4599; text of measure as introduced: CR S4587-4588)
 - 2009-04-22 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4598-4599; text as passed Senate: CR S4599; text of measure as introduced: CR S4587-4588)
+- 2009-04-23 — Message on Senate action sent to the House.
+- 2009-04-23 — Received in the House.
+- 2009-04-23 — Referred to the House Committee on Foreign Affairs.
