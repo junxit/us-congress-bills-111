@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1626
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1626
@@ -41,3 +41,4 @@ Statutory Time-Periods Technical Amendments Act of 2009
 - 2009-04-22 — Mr. Weiner moved to suspend the rules and pass the bill.
 - 2009-04-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4665)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4665)
+- 2009-04-23 — Received in the Senate, read twice.
