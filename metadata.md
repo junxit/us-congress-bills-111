@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1679
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1679
@@ -23,10 +23,11 @@ House Reservists Pay Adjustment Act of 2009
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. McCarthy, Kevin [R-CA-22] (M001165)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ethics Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ House Reservists Pay Adjustment Act of 2009
 - 2009-04-22 — Placed on the Union Calendar, Calendar No. 39.
 - 2009-04-22 — Reported by the Committee on House Administration. H. Rept. 111-85, Part I.
 - 2009-04-22 — Reported by the Committee on House Administration. H. Rept. 111-85, Part I.
+- 2009-04-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
