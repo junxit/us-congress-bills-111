@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by redesignating subsections (e) through (h) as subsections (f) through (i), and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 111(b)(3)(D)(iii) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(b)(3)(D)(iii)) is amended by inserting before the period the following: “, except that an entity subject to subsection (e) may not, while a cap… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221), as amended by section 1, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5221` | redesignate | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221) is amended by redesignating subsections (e) through (h) as subsections (f) through (i), and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5221` | insert | Section 111(b)(3)(D)(iii) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(b)(3)(D)(iii)) is amended by inserting before the period the following: “, except that an entity subject to subsection (e) may not, while a cap… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5221` | add-at-end | Section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221), as amended by section 1, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

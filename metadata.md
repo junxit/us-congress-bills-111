@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1664
@@ -116,3 +116,6 @@ To amend the executive compensation provisions of the Emergency Economic Stabili
 - 2009-04-01 — The Speaker designated the Honorable Jesse L. Jackson Jr. to act as Chairman of the Committee.
 - 2009-04-01 — The previous question was ordered pursuant to the rule. (consideration: CR H4309)
 - 2009-04-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-04-02 — Received in the Senate.
+- 2009-04-22 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-04-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
