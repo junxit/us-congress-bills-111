@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1626
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1626
@@ -42,3 +42,13 @@ Statutory Time-Periods Technical Amendments Act of 2009
 - 2009-04-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4665)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4665)
 - 2009-04-23 — Received in the Senate, read twice.
+- 2009-04-27 — Cleared for White House.
+- 2009-04-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4763)
+- 2009-04-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4763)
+- 2009-04-28 — Message on Senate action sent to the House.
+- 2009-04-30 — Presented to President.
+- 2009-04-30 — Presented to President.
+- 2009-05-07 — Became Public Law No: 111-16.
+- 2009-05-07 — Became Public Law No: 111-16.
+- 2009-05-07 — Signed by President.
+- 2009-05-07 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1626
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 1 executed, 27 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 21 U.S.C. § 853
-
-> Section 413(e)(2) of the Controlled Substances Act (21 U.S.C. 853(e)(2)) is amended by striking “ten days” and inserting “fourteen days”.
-
-| | |
-|---|---|
-| Removed | `ten days` |
-| Inserted | `fourteen days` |
 
 ## Stated, not applied
 
@@ -66,6 +55,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 7(b), by striking “ten days” and inserting “fourteen days”; | the bill names no machine-readable US Code section |
 | — | insert | in section 7(b)(1), by inserting after “adjournment of the trial,” the following: “excluding intermediate weekends and holidays,”; and | the bill names no machine-readable US Code section |
 | — | insert | in section 7(b)(3), by inserting after “argument on appeal,” the following: “excluding intermediate weekends and holidays,”. | the bill names no machine-readable US Code section |
+| — | replace | Section 413(e)(2) of the Controlled Substances Act (21 U.S.C. 853(e)(2)) is amended by striking “ten days” and inserting “fourteen days”. | the bill names no machine-readable US Code section |
 | — | replace | in section 636(b)(1), by striking “ten days” and inserting “fourteen days”; | the bill names no machine-readable US Code section |
 | — | replace | in section 1453(c)(1), by striking “not less than 7 days” and inserting “not more than 10 days”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 2107(c), by striking “7 days” and inserting “14 days”. | the bill names no machine-readable US Code section |
