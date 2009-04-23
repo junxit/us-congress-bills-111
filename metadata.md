@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 101
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 101
@@ -57,3 +57,4 @@ Providing for the acceptance of a statue of Ronald Wilson Reagan from the people
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4603-4604)
 - 2009-04-23 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4705)
 - 2009-04-23 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4705)
+- 2009-04-24 — Message on Senate action sent to the House.
