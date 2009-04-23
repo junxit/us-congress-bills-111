@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1580
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1580
@@ -37,9 +37,10 @@ To authorize the Administrator of the Environmental Protection Agency to award g
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ To authorize the Administrator of the Environmental Protection Agency to award g
 - 2009-04-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4606-4608)
 - 2009-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4606-4608)
 - 2009-04-22 — The title of the measure was amended. Agreed to without objection.
+- 2009-04-23 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
