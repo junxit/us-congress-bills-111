@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1913
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1913
@@ -16,7 +16,7 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (42)
+## Cosponsors (120)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -60,6 +60,84 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Carson, Andre [D-IN-7] (C001072)
 
 ## Committees (1)
 
@@ -71,3 +149,9 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 - 2009-04-02 — Introduced in House
 - 2009-04-02 — Referred to the House Committee on the Judiciary.
 - 2009-04-02 — Sponsor introductory remarks on measure. (CR E878-879)
+- 2009-04-22 — Committee Consideration and Mark-up Session Held.
+- 2009-04-23 — Committee Consideration and Mark-up Session Held.
+- 2009-04-23 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 12.
+- 2009-04-27 — Placed on the Union Calendar, Calendar No. 40.
+- 2009-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-86.
+- 2009-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-86.
