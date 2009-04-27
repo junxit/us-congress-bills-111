@@ -2,7 +2,7 @@
 legis-num: H. RES. 329
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 329
@@ -17,11 +17,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 2,000 passengers on the SS Sultana at the time of the explosion were Union prisoners of war recently released from the Confederate Andersonville and Cahaba Prison Camps in Alabama;
 - Whereas several of the former prisoners of war were suffering from disease and extreme malnutrition caused by the overcrowded and unsanitary conditions at the prison camps;
 - Whereas the explosion was presumed to have been caused by a defective boiler trying to overcome the current of the Mississippi River;
-- Whereas the enormous loss of life was attributed to an overloaded vessel caused in part by poor oversight on behalf of the Union commanding officers responsible for the release of the prisoners of war;
+- Whereas the enormous loss of life was attributed to an overcrowded vessel caused in part by poor oversight on behalf of the Union commanding officers responsible for the release of the prisoners of war;
 - Whereas up to 300 of the initial survivors of the explosion later died from burns, hypothermia, or exposure;
-- Whereas then Secretary of War Edwin M. Stanton stated in his annual report for 1865 that the loss of “over 1200 officers and greatly increased … by an improper and unnecessary overloading of the boat”;
-- Whereas only one of the several individuals responsible for the conditions of the steamer or the overloading of the vessel which contributed to the tragedy and large loss of life was ever prosecuted; and
-- Whereas the disaster was not in the newspapers or magazines of the time and is scarcely remembered today: Now, therefore, be it
+- Whereas then Secretary of War Edwin M. Stanton stated in his annual report for 1865 that the loss of “over 1200 officers and soldiers—a loss greatly increased … by an improper and unnecessary overloading of the boat”;
+- Whereas only one of the several individuals responsible for the conditions of the steamer or the overcrowding of the vessel which contributed to the tragedy and large loss of life was ever prosecuted; and
+- Whereas the disaster received little attention in the newspapers or magazines of the time and is scarcely remembered today: Now, therefore, be it
 
 That the House of Representatives—
 
