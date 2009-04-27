@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1746
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1746
@@ -26,6 +26,10 @@ Predisaster Hazard Mitigation Act of 2010
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2009-04-27 — [House 111-1-208](votes/house-111-1-0208.md) — On Motion to Suspend the Rules and Pass — **Passed** (339–56)
+
 ## Actions
 
 - 2009-03-26 — Introduced in House
@@ -39,3 +43,11 @@ Predisaster Hazard Mitigation Act of 2010
 - 2009-04-23 — Placed on the Union Calendar, Calendar No. 37.
 - 2009-04-23 — Reported by the Committee on Transportation. H. Rept. 111-83.
 - 2009-04-23 — Reported by the Committee on Transportation. H. Rept. 111-83.
+- 2009-04-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-04-27 — Considered as unfinished business. (consideration: CR H4751-4752)
+- 2009-04-27 — Considered under suspension of the rules. (consideration: CR H4747-4749)
+- 2009-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1746.
+- 2009-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-27 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2009-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208). (text: CR H4747)
+- 2009-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208).(text: CR H4747)
