@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1747
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1747
@@ -16,9 +16,10 @@ Great Lakes Icebreaker Replacement Act
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Great Lakes Icebreaker Replacement Act
 - 2009-04-27 — Mr. Oberstar moved to suspend the rules and pass the bill.
 - 2009-04-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4749)
 - 2009-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4749)
+- 2009-04-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
