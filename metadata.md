@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 99
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 99
@@ -24,9 +24,10 @@ Supporting the goals and ideals of a National Early Educator Worthy Wage Day.
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Grayson, Alan [D-FL-8] (G000556)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Supporting the goals and ideals of a National Early Educator Worthy Wage Day.
 - 2009-04-27 — Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.
 - 2009-04-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4744)
 - 2009-04-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4744)
+- 2009-04-28 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
