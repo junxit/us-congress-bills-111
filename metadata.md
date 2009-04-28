@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 340
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 340
@@ -16,7 +16,7 @@ Expressing sympathy to the victims, families, and friends of the tragic act of v
 
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Cosponsors (54)
+## Cosponsors (58)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
@@ -72,6 +72,10 @@ Expressing sympathy to the victims, families, and friends of the tragic act of v
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
 ## Committees (1)
 
@@ -82,3 +86,11 @@ Expressing sympathy to the victims, families, and friends of the tragic act of v
 - 2009-04-21 — Introduced in House
 - 2009-04-21 — Introduced in House
 - 2009-04-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-04-23 — Committee Consideration and Mark-up Session Held.
+- 2009-04-23 — Ordered to be Reported by Unanimous Consent.
+- 2009-04-28 — Considered under suspension of the rules. (consideration: CR H4848-4850)
+- 2009-04-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 340.
+- 2009-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-28 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-04-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4848)
+- 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4848)
