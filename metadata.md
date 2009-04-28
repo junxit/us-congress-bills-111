@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1595
@@ -49,8 +49,22 @@ To designate the facility of the United States Postal Service located at 3245 La
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-04-28 — [House 111-1-215](votes/house-111-1-0215.md) — On Motion to Suspend the Rules and Pass — **Passed** (420–0)
+
 ## Actions
 
 - 2009-03-18 — Introduced in House
 - 2009-03-18 — Introduced in House
 - 2009-03-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-04-02 — Committee Consideration and Mark-up Session Held.
+- 2009-04-02 — Ordered to be Reported by Unanimous Consent.
+- 2009-04-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-04-28 — Considered as unfinished business. (consideration: CR H4891)
+- 2009-04-28 — Considered under suspension of the rules. (consideration: CR H4852-4853)
+- 2009-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1595.
+- 2009-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-28 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-04-28 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 215). (text: CR H4852)
+- 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 215).(text: CR H4852)
