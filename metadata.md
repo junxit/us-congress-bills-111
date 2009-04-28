@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1746
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1746
@@ -22,9 +22,10 @@ Predisaster Hazard Mitigation Act of 2010
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Predisaster Hazard Mitigation Act of 2010
 - 2009-04-27 — Mr. Oberstar moved to suspend the rules and pass the bill.
 - 2009-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208). (text: CR H4747)
 - 2009-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208).(text: CR H4747)
+- 2009-04-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
