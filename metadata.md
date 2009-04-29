@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1243
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1243
@@ -344,3 +344,15 @@ To provide for the award of a gold medal on behalf of Congress to Arnold Palmer 
 - 2009-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1, 1 Present (Roll no. 210). (text: CR H4857-4858)
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1, 1 Present (Roll no. 210).(text: CR H4857-4858)
 - 2009-04-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2009-09-09 — Cleared for White House.
+- 2009-09-09 — Passed Senate without amendment by Unanimous Consent.
+- 2009-09-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2009-09-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S9189)
+- 2009-09-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S9189)
+- 2009-09-10 — Message on Senate action sent to the House.
+- 2009-09-21 — Presented to President.
+- 2009-09-21 — Presented to President.
+- 2009-09-30 — Became Public Law No: 111-65.
+- 2009-09-30 — Became Public Law No: 111-65.
+- 2009-09-30 — Signed by President.
+- 2009-09-30 — Signed by President.
