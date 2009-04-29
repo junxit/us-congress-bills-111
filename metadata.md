@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1243
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1243
@@ -321,9 +321,10 @@ To provide for the award of a gold medal on behalf of Congress to Arnold Palmer 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -342,3 +343,4 @@ To provide for the award of a gold medal on behalf of Congress to Arnold Palmer 
 - 2009-04-28 — Mr. Baca moved to suspend the rules and pass the bill.
 - 2009-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1, 1 Present (Roll no. 210). (text: CR H4857-4858)
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1, 1 Present (Roll no. 210).(text: CR H4857-4858)
+- 2009-04-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
