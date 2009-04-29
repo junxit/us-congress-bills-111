@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1595
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 3245 La
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ To designate the facility of the United States Postal Service located at 3245 La
 - 2009-04-28 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-04-28 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 215). (text: CR H4852)
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 215).(text: CR H4852)
+- 2009-04-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
