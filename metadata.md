@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 104
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 104
@@ -32,9 +32,10 @@ Supporting the goals and ideals of National Sexual Assault Awareness and Prevent
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Supporting the goals and ideals of National Sexual Assault Awareness and Prevent
 - 2009-04-28 — Mr. Scott (VA) moved to suspend the rules and agree to the resolution.
 - 2009-04-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4871)
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4871)
+- 2009-04-29 — Received in the Senate and referred to the Committee on the Judiciary.
