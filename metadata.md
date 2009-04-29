@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 357
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 357
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Financial Literacy Month 2009, and for other 
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Cosponsors (64)
+## Cosponsors (67)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
@@ -82,13 +82,28 @@ Supporting the goals and ideals of Financial Literacy Month 2009, and for other 
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2009-04-29 — [House 111-1-217](votes/house-111-1-0217.md) — On Motion to Suspend the Rules and Agree — **Passed** (419–3)
 
 ## Actions
 
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Referred to the House Committee on Financial Services.
+- 2009-04-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Moore (KS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-04-28 — Considered under suspension of the rules. (consideration: CR H4855-4857)
+- 2009-04-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 357.
+- 2009-04-28 — Mr. Moore (KS) moved to suspend the rules and agree to the resolution.
+- 2009-04-29 — Considered as unfinished business. (consideration: CR H4928)
+- 2009-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-29 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 419 - 3 (Roll no. 217). (text: CR 4/28/2009 H4855-4856)
+- 2009-04-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 419 - 3 (Roll no. 217).(text: CR 4/28/2009 H4855-4856)
