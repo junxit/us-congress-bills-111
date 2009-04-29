@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1913
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1913
@@ -143,6 +143,11 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2009-04-29 — [House 111-1-222](votes/house-111-1-0222.md) — On Motion to Recommit with Instructions — **Failed** (185–241)
+- 2009-04-29 — [House 111-1-223](votes/house-111-1-0223.md) — On Passage — **Passed** (249–175)
+
 ## Actions
 
 - 2009-04-02 — Introduced in House
@@ -155,3 +160,17 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 - 2009-04-27 — Placed on the Union Calendar, Calendar No. 40.
 - 2009-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-86.
 - 2009-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-86.
+- 2009-04-28 — Rules Committee Resolution H. Res. 372 Reported to House. Rule provides for consideration of H.R. 1913 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in this report, shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2009-04-28 — Supplemental report filed by the Committee on Judiciary, H. Rept. 111-86, Part II.
+- 2009-04-28 — Supplemental report filed by the Committee on Judiciary, H. Rept. 111-86, Part II.
+- 2009-04-29 — Considered under the provisions of rule H. Res. 372. (consideration: CR H4940-4958)
+- 2009-04-29 — DEBATE - The House proceeded with 10 minutes of debate on the Gohmert motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments that expand the punishments outlined in the bill to include the death penalty. The amendments also seek to expand the applicability requirements to include age, status as a current or former member of the Armed Forces, or status as a law enforcement officer beyond what is currently contained in the bill.
+- 2009-04-29 — DEBATE - The House proceeded with one hour and twenty minutes of debate on H.R. 1913.
+- 2009-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-29 — Mr. Gohmert moved to recommit with instructions to Judiciary. (consideration: CR H4956-4958; text: CR H4956)
+- 2009-04-29 — On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 241 (Roll no. 222).
+- 2009-04-29 — On passage Passed by recorded vote: 249 - 175 (Roll no. 223).
+- 2009-04-29 — Passed/agreed to in House: On passage Passed by recorded vote: 249 - 175 (Roll no. 223).
+- 2009-04-29 — Rule H. Res. 372 passed House.
+- 2009-04-29 — Rule provides for consideration of H.R. 1913 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in this report, shall be considered as adopted and the bill, as amended, shall be considered as read.
+- 2009-04-29 — The previous question was ordered pursuant to the rule. (consideration: CR H4956)
