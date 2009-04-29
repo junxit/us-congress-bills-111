@@ -1,7 +1,7 @@
 ---
 measure: S. 615
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 615
@@ -16,7 +16,7 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Coburn, Tom [R-OK] (C000560)
@@ -25,6 +25,7 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Ensign, John [R-NV] (E000194)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - 2009-03-17 — Introduced in Senate
 - 2009-03-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2009-03-17 — Sponsor introductory remarks on measure. (CR S3177-3178)
+- 2009-04-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-04-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-15.
+- 2009-04-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-15.
+- 2009-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
