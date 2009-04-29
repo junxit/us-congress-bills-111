@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 36
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 36
@@ -46,9 +46,10 @@ A concurrent resolution calling on the President and the allies of the United St
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ A concurrent resolution calling on the President and the allies of the United St
 - 2009-04-28 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4864-4865)
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4864-4865)
 - 2009-04-28 — The title of the measure was amended. Agreed to without objection.
+- 2009-04-29 — Received in the Senate and referred to the Committee on Foreign Relations.
