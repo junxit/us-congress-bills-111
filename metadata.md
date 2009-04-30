@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 45
@@ -16,9 +16,14 @@ Increasing the statutory limit on the public debt.
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 
+## Committees (1)
+
+- Senate — Finance Committee
+
 ## Actions
 
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Passed/agreed to in House: Pursuant to the provisions of S. Con. Res. 13, H.J. Res. 45 is considered passed House.(consideration: CR H4920-4928)
 - 2009-04-29 — Pursuant to the provisions of S. Con. Res. 13, H.J. Res. 45 is considered passed House. (consideration: CR H4920-4928)
+- 2009-04-30 — Received in the Senate and Read twice and referred to the Committee on Finance.
