@@ -1,7 +1,7 @@
 ---
 measure: S. 615
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 615
@@ -40,3 +40,5 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - 2009-04-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-15.
 - 2009-04-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-15.
 - 2009-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
+- 2009-04-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4995; text as passed Senate: CR S4995)
+- 2009-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4995; text as passed Senate: CR S4995)
