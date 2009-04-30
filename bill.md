@@ -1,0 +1,68 @@
+---
+legis-num: S. 934
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 934
+
+> To amend the Child Nutrition Act of 1966 to improve the nutrition and health of schoolchildren and protect the Federal investment in the national school lunch and breakfast programs by updating the national school nutrition standards for foods and beverages sold outside of school meals to conform to current nutrition science.
+
+## § 1. Short title
+
+This Act may be cited as the “Child Nutrition Promotion and School Lunch Protection Act of 2009”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** for a school food service program to receive Federal reimbursements under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) or the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), school meals served by the program must meet science-based nutrition standards established by Congress and the Secretary of Agriculture;
+- **(2)** foods sold outside the reimbursable school meal programs (including food and beverages sold in vending machines, a la carte in cafeterias, school stores, and snack bars) are not required to meet comparable nutritional standards;
+- **(3)** in order to promote child nutrition and health, Congress—
+  - **(A)** has authorized the Secretary to establish nutrition standards in the school lunchroom during meal time; and
+  - **(B)** since 1979, has prohibited the sale of food of minimal nutritional value, as defined by the Secretary, in areas where school meals are sold or eaten;
+- **(4)** federally reimbursed school meals and child nutrition and health are undermined by the uneven authority of the Secretary to apply nutrition standards throughout the school campus and over the course of the school day;
+- **(5)** as of the date of enactment of this Act, the definition of the term food of minimal nutritional value is the national nutrition standard for foods sold outside of school meals;
+- **(6)** since 1979, when the Secretary defined the term “food of minimal nutritional value” and promulgated regulations for the sale of those foods during meal times, nutrition science has evolved and expanded;
+- **(7)** because some children purchase foods other than balanced meals provided through the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), the efforts of parents to ensure that their children consume healthful diets are undermined;
+- **(8)** experts in nutrition science have found that—
+  - **(A)** since the 1970s, obesity rates have tripled among children ages 6 to 19;
+  - **(B)** children’s sodium intake is 214 percent above recommended levels;
+  - **(C)** 85 percent of children consume more saturated fat than is recommended in the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341);
+  - **(D)** over 2/3 of all foods consumed by schoolchildren are foods that are recommended for occasional intake;
+  - **(E)** type 2 diabetes, which is primarily due to poor diet and physical inactivity, is rising in children; and
+  - **(F)** 1/4 of children ages 5 to 10 show early warning signs of heart disease, such as elevated blood cholesterol or high blood pressure;
+- **(9)** in 1996, children aged 2 to 18 years consumed an average of 118 more calories per day than children did in 1978, which is the equivalent of 12 pounds of weight gain annually, if not compensated for through increased physical activity; and
+- **(10)** the national estimated cost of obesity is $123,000,000,000 a year, 1/2 of which is paid through the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and the Medicaid program under title XIX of that Act (42 U.S.C. 1396 et seq.).
+
+## § 3. National school nutrition standards
+
+Section 10 of the Child Nutrition Act of 1966 (42 U.S.C. 1779) is amended—
+
+- **(1)** by striking the section heading and all that follows through “(a) The Secretary” and inserting the following:
+  > ## § 10. Regulations
+  >
+  > - **(a)** *In general* The Secretary
+
+- **(2)** by striking subsections (b) and (c) and inserting the following:
+  > - **(b)** *National school nutrition standards*
+  >   - **(1)** *Proposed regulations*
+  >     - **(A)** *In general* The Secretary shall—
+  >       - **(i)** establish science-based nutrition standards for foods served in schools other than foods provided under this Act and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.); and
+  >       - **(ii)** not later than 1 year after the date of enactment of this paragraph, promulgate proposed regulations to carry out clause (i).
+  >     - **(B)** *Application* The nutrition standards shall apply to all foods sold—
+  >       - **(i)** outside the school meal programs;
+  >       - **(ii)** on the school campus; and
+  >       - **(iii)** at any time during the school day.
+  >     - **(C)** *Requirements* In establishing nutrition standards under this paragraph, the Secretary shall consider—
+  >       - **(i)** recommendations made by authoritative scientific organizations concerning appropriate nutrition standards for foods sold outside of the reimbursable meal programs in schools;
+  >       - **(ii)** both the positive and negative contributions of nutrients, ingredients, and foods (including calories, portion size, saturated fat, trans fat, sodium, added sugars, and nutrients of concern identified in the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341)) to the diets of children;
+  >       - **(iii)** evidence concerning the relationship between consumption of certain nutrients, ingredients, and foods to both preventing and promoting the development of overweight, obesity, and other chronic illnesses; and
+  >       - **(iv)** special exemptions for school-sponsored fundraisers (other than fundraising through vending machines, school stores, snack bars, a la carte sales, and any other exclusions determined by the Secretary), if the fundraisers are approved by the school and are infrequent within the school.
+  >     - **(D)** *Updating standards* As soon as practicable after the date of publication by the Department of Agriculture and the Department of Health and Human Services of a new edition of the Dietary Guidelines for Americans under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341), the Secretary shall review and update as necessary the school nutrition standards and requirements established under this subsection.
+  >   - **(2)** *Implementation*
+  >     - **(A)** *Effective date*
+  >       - **(i)** *In general* Except as provided in clause (ii), the proposed regulations under paragraph (1) shall take effect at the beginning of the school year following the date on which the regulations are finalized.
+  >       - **(ii)** *Exception* If the regulations are finalized on a date that is not more than 90 days before the beginning of the school year, the proposed regulations shall take effect at the beginning of the following school year.
+  >     - **(B)** *Reporting* The Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and Labor of the House of Representatives a quarterly report that describes progress made toward promulgating final regulations under this subsection.
