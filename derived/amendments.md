@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+29 amendatory instructions. 0 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,5 +48,15 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (o) (as added by section 4) the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Payments received” and inserting “(a) In general.—Payments received”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (p) (as added by section 6) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 122 of the Truth in Lending Act ( U.S.C. 1632) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (11) of section 127(b) of the Truth in Lending Act (15 U.S.C. 1637(b)(11)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 127(c)(1)(B) of the Truth in Lending Act (15 U.S.C. 1637(c)(1)(B)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 122 of the Truth in Lending Act (U.S.C. 1632) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 2 of the Truth in Lending Act ( U.S.C. 1631 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 140 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 122 of the Truth in Lending Act (15 U.S.C. 1632) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 111(e) of the Truth in Lending Act (15 U.S.C. 1610(e)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

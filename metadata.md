@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 627
@@ -151,6 +151,13 @@ Credit CARD Act of 2009
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2009-04-30 — [House 111-1-225](votes/house-111-1-0225.md) — On Agreeing to the Amendment — **Agreed to** (276–154)
+- 2009-04-30 — [House 111-1-226](votes/house-111-1-0226.md) — On Agreeing to the Amendment — **Agreed to** (284–149)
+- 2009-04-30 — [House 111-1-227](votes/house-111-1-0227.md) — On Motion to Recommit with Instructions — **Failed** (164–263)
+- 2009-04-30 — [House 111-1-228](votes/house-111-1-0228.md) — On Passage — **Passed** (357–70)
+
 ## Actions
 
 - 2009-01-22 — Introduced in House
@@ -167,3 +174,149 @@ Credit CARD Act of 2009
 - 2009-04-27 — Placed on the Union Calendar, Calendar No. 41.
 - 2009-04-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-88.
 - 2009-04-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-88.
+- 2009-04-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 627 as unfinished business.
+- 2009-04-29 — Consideration initiated pursuant to a previous order.
+- 2009-04-29 — Considered pursuant to a previous order. (consideration: CR H4960-4969)
+- 2009-04-29 — GENERAL DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with one hour of general debate on H.R. 627.
+- 2009-04-29 — Rules Committee Resolution H. Res. 379 Reported to House. Rule provides for consideration of H.R. 627. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill. All points of order against the committee amendment in the nature of a substitute are waived except those arising under clause 10 of rule XXI.
+- 2009-04-29 — The House resolved into Committee of the Whole on the state of the Union pursuant to special order.
+- 2009-04-29 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2009-04-30 — Amendment (A001) offered by Mr. Gutierrez. (consideration: CR H5016-5018; text: CR H5016-5017)
+- 2009-04-30 — Amendment (A002) offered by Mr. Frank (MA). (consideration: CR H5018-5019; text: CR H5018)
+- 2009-04-30 — Amendment (A003) offered by Ms. Slaughter. (consideration: CR H5019-5021, H5037-5038; text: CR H5019)
+- 2009-04-30 — Amendment (A004) offered by Mr. Gutierrez. (consideration: CR H5021-5022; text: CR H5021)
+- 2009-04-30 — Amendment (A005) offered by Ms. Pingree (ME). (consideration: CR H5022-5023; text: CR H5022)
+- 2009-04-30 — Amendment (A006) offered by Mr. Polis (CO). (consideration: CR H5023; text: CR H5023)
+- 2009-04-30 — Amendment (A007) offered by Mr. Jones. (consideration: CR H5023-5025; text: CR H5023-5024)
+- 2009-04-30 — Amendment (A008) offered by Mrs. Maloney. (consideration: CR H5025-5026, H5038-5039; text: CR H5025)
+- 2009-04-30 — Amendment (A009) offered by Mr. Hensarling. (consideration: CR H5026-5027; text: CR H5026)
+- 2009-04-30 — Amendment (A010) offered by Mr. Hensarling. (consideration: CR H5027-5029; text: CR H5028)
+- 2009-04-30 — Amendment (A011) offered by Mr. Minnick. (consideration: CR H5029; text: CR H5029)
+- 2009-04-30 — Amendment (A012) offered by Mr. Price (NC). (consideration: CR H5029-5031; text: CR H5029-5030)
+- 2009-04-30 — Amendment (A013) offered by Mr. Gutierrez. (consideration: CR H5031-5033; text: CR H5031)
+- 2009-04-30 — Amendment (A014) offered by Mr. Perriello. (consideration: CR H5033-5034; text: CR H5033)
+- 2009-04-30 — Amendment (A015) offered by Mr. Schauer. (consideration: CR H5034-5035; text: CR H5034)
+- 2009-04-30 — Amendment (A016) offered by Mr. Teague. (consideration: CR H5035-5036; text: CR H5035)
+- 2009-04-30 — Amendment (A017) offered by Mr. Schock. (consideration: CR H5036-5037; text: CR H5036)
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment agreed to Committee of the Whole
+- 2009-04-30 — Amendment failed in Committee of the Whole
+- 2009-04-30 — Amendment failed in Committee of the Whole
+- 2009-04-30 — Considered as unfinished business. (consideration: CR H5013-5041)
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Frank amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Gutierrez amendment number 13.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Gutierrez amendment number 4.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment number 10.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment number 9.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Jones amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Maloney amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Minnick amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Perriello amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Pingree(ME) amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Price(NC) amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Schock amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Slaughter amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 10 minutes of debate on the Teague amendment.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee of the Whole proceeded with 20 minutes of debate on the Gutierrez amendment number 1.
+- 2009-04-30 — DEBATE - Pursuant to the provisions of H.Res. 379, the Committee on the Whole proceeded with 10 minutes of debate on the Schauer amendment.
+- 2009-04-30 — FURTHER CONSIDERATION OF H.R. 627 - Pursuant to the provisions of H.Res. 379, the Committee of the Whole resumed consideration of H.R. 627 and the amendments made in order thereto by the rule.
+- 2009-04-30 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Roskam motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a section entitled Trigger for Enactment.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A002) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Gutierrez amendment (A001) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Gutierrez amendment (A004) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Gutierrez amendment (A013) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Jones amendment (A007) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Maloney amendment (A008) Agreed to by recorded vote: 284 - 149 (Roll no. 226).
+- 2009-04-30 — House amendment agreed to: On agreeing to the Minnick amendment (A011) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Perriello amendment (A014) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Pingree (ME) amendment (A005) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Polis (CO) amendment (A006) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Price (NC) amendment (A012) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Schauer amendment (A015) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Schock amendment (A017) Agreed to by voice vote.
+- 2009-04-30 — House amendment agreed to: On agreeing to the Slaughter amendment (A003) Agreed to by recorded vote: 276 - 154 (Roll no. 225).
+- 2009-04-30 — House amendment agreed to: On agreeing to the Teague amendment (A016) Agreed to by voice vote.
+- 2009-04-30 — House amendment not agreed to: On agreeing to the Hensarling amendment (A009) Failed by voice vote.
+- 2009-04-30 — House amendment not agreed to: On agreeing to the Hensarling amendment (A010) Failed by voice vote.
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered
+- 2009-04-30 — House amendment offered/reported by : Amendment (A001) offered by Mr. Gutierrez.(consideration: CR H5016-5018; text: CR H5016-5017)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A002) offered by Mr. Frank (MA).(consideration: CR H5018-5019; text: CR H5018)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A003) offered by Ms. Slaughter.(consideration: CR H5019-5021, H5037-5038; text: CR H5019)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A004) offered by Mr. Gutierrez.(consideration: CR H5021-5022; text: CR H5021)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A005) offered by Ms. Pingree (ME).(consideration: CR H5022-5023; text: CR H5022)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A006) offered by Mr. Polis (CO).(consideration: CR H5023; text: CR H5023)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A007) offered by Mr. Jones.(consideration: CR H5023-5025; text: CR H5023-5024)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Maloney.(consideration: CR H5025-5026, H5038-5039; text: CR H5025)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A009) offered by Mr. Hensarling.(consideration: CR H5026-5027; text: CR H5026)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A010) offered by Mr. Hensarling.(consideration: CR H5027-5029; text: CR H5028)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A011) offered by Mr. Minnick.(consideration: CR H5029; text: CR H5029)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A012) offered by Mr. Price (NC).(consideration: CR H5029-5031; text: CR H5029-5030)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A013) offered by Mr. Gutierrez.(consideration: CR H5031-5033; text: CR H5031)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A014) offered by Mr. Perriello.(consideration: CR H5033-5034; text: CR H5033)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A015) offered by Mr. Schauer.(consideration: CR H5034-5035; text: CR H5034)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A016) offered by Mr. Teague.(consideration: CR H5035-5036; text: CR H5035)
+- 2009-04-30 — House amendment offered/reported by : Amendment (A017) offered by Mr. Schock.(consideration: CR H5036-5037; text: CR H5036)
+- 2009-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-04-30 — Mr. Roskam moved to recommit with instructions to Financial Services. (consideration: CR H5039-5041; text: CR H5039)
+- 2009-04-30 — On agreeing to the Frank (MA) amendment (A002) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Gutierrez amendment (A001) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Gutierrez amendment (A004) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Gutierrez amendment (A013) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Hensarling amendment (A009) Failed by voice vote.
+- 2009-04-30 — On agreeing to the Hensarling amendment (A010) Failed by voice vote.
+- 2009-04-30 — On agreeing to the Jones amendment (A007) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Maloney amendment (A008) Agreed to by recorded vote: 284 - 149 (Roll no. 226).
+- 2009-04-30 — On agreeing to the Minnick amendment (A011) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Perriello amendment (A014) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Pingree (ME) amendment (A005) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Polis (CO) amendment (A006) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Price (NC) amendment (A012) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Schauer amendment (A015) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Schock amendment (A017) Agreed to by voice vote.
+- 2009-04-30 — On agreeing to the Slaughter amendment (A003) Agreed to by recorded vote: 276 - 154 (Roll no. 225).
+- 2009-04-30 — On agreeing to the Teague amendment (A016) Agreed to by voice vote.
+- 2009-04-30 — On motion to recommit with instructions Failed by recorded vote: 164 - 263 (Roll no. 227). (consideration: CR H5041)
+- 2009-04-30 — On passage Passed by recorded vote: 357 - 70 (Roll no. 228).
+- 2009-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Maloney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Slaughter amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-04-30 — Passed/agreed to in House: On passage Passed by recorded vote: 357 - 70 (Roll no. 228).
+- 2009-04-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2009-04-30 — Roll call votes on amendments in House
+- 2009-04-30 — Roll call votes on amendments in House
+- 2009-04-30 — Rule H. Res. 379 passed House.
+- 2009-04-30 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 627.
+- 2009-04-30 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H5013-5016)
+- 2009-04-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-04-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 627.
+- 2009-04-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5040-5041)
+- 2009-04-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5040)
