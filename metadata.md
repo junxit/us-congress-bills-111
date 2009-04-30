@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1913
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1913
@@ -139,9 +139,10 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -174,3 +175,4 @@ Local Law Enforcement Hate Crimes Prevention Act of 2009
 - 2009-04-29 — Rule H. Res. 372 passed House.
 - 2009-04-29 — Rule provides for consideration of H.R. 1913 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in this report, shall be considered as adopted and the bill, as amended, shall be considered as read.
 - 2009-04-29 — The previous question was ordered pursuant to the rule. (consideration: CR H4956)
+- 2009-04-30 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
