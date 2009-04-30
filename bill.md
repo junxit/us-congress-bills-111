@@ -26,6 +26,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** supports the mission and goals of 2009 National Crime Victims' Rights Week to increase public awareness of the impact of crime on victims and survivors, and of the constitutional and statutory rights and needs of victims;
-- **(2)** recognizes the 25th anniversary of the enactment of the Victims of Crime Act of 1984 (42 U.S.C. 10601 et seq.); and
-- **(3)** directs the Secretary of the Senate to transmit an enrolled copy of this resolution to the Office for Victims of Crime within the Office of Justice Programs of the Department of Justice.
+- **(1)** supports the mission and goals of 2009 National Crime Victims' Rights Week to increase public awareness of the impact of crime on victims and survivors, and of the constitutional and statutory rights and needs of victims; and
+- **(2)** recognizes the 25th anniversary of the enactment of the Victims of Crime Act of 1984 (42 U.S.C. 10601 et seq.).
