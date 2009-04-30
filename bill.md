@@ -1,0 +1,412 @@
+---
+legis-num: H.R. 2205
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2205
+
+> To expand quality programs of early childhood home visitation that increase school readiness, child abuse and neglect prevention, and early identification of developmental and health delays, including potential mental health concerns, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Education Begins at Home Act of 2009”.
+
+## § 2. Findings and purposes
+
+- **(a)** *Findings* Congress finds that—
+  - **(1)** the home is the first and most important learning environment for children, and parents are their children’s first and most influential teacher;
+  - **(2)** parent education and family support can promote parents’ ability to enhance their children’s development from birth until entry into kindergarten, thereby helping parents to prepare their children for success in school;
+  - **(3)** undiagnosed and unaddressed developmental and health problems can impede overall child development and school readiness;
+  - **(4)** all parents deserve and can benefit from—
+    - **(A)** research-based information regarding child development;
+    - **(B)** enrichment opportunities with their children; and
+    - **(C)** early opportunities to become involved with their communities and schools; and
+  - **(5)** early childhood home visitation leads to positive outcomes for children and families, including readiness for school, improved child health and development, positive parenting practices, and reductions in child maltreatment.
+- **(b)** *Purposes* The purposes of this Act are as follows:
+  - **(1)** To enable States, Indian tribes, tribal organizations, territories, or possessions to deliver quality programs of early childhood home visitation to pregnant women and parents of children from birth until entry into kindergarten in order to promote positive outcomes for children and families including: readiness for school, improved child health and development, positive parenting practices, reductions in child maltreatment, and enhanced parenting abilities to support their children’s optimal cognitive, language, social-emotional, and physical development.
+  - **(2)** To expand quality programs of early childhood home visitation so as to more effectively reach and serve families with English language learners.
+  - **(3)** To expand quality programs of early childhood home visitation so as to more effectively reach and serve families serving in the military.
+  - **(4)** To establish a public education and awareness campaign concerning the importance of the proper care of infants and young children.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Eligible family* The term eligible family means—
+  - **(A)** a woman who is pregnant and the father of the child if the father is available; or
+  - **(B)** a parent or primary caregiver of a child under the age of entry into kindergarten, including grandparents or other relatives of the child, and foster parents (including kinship caregivers), who are serving as the primary caregiver, including a noncustodial parent who has an ongoing relationship with and, at times, provides physical care for such child.
+- **(2)** *English language learner* The term “English language learner”, used with respect to an individual, means an individual—
+  - **(A)** who—
+    - **(i)** was not born in the United States or whose native language is a language other than English;
+    - **(ii)**
+      - **(I)** is a Native American (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101); and
+      - **(II)** comes from an environment where a language other than English has had a significant impact on the individual’s level of English language proficiency; or
+    - **(iii)** is migratory, whose native language is a language other than English, and who comes from an environment where a language other than English is dominant; and
+  - **(B)** whose difficulties in speaking or understanding the English language may be sufficient to deny such individual—
+    - **(i)** the ability to successfully achieve in a classroom in which the language of instruction is English; or
+    - **(ii)** the opportunity to participate fully in society.
+- **(3)** *Home visitation* The term home visitation means services provided in the permanent or temporary residence, or in a mutually agreed upon location in the community, of the individual receiving such services.
+- **(4)** *Indian tribe* The term Indian tribe has the meaning given such term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+- **(5)** *Secretary* Except as provided in section 6, the term Secretary means the Secretary of Health and Human Services.
+- **(6)** *State* The term State means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+- **(7)** *Territories and possessions* The term territories and possessions shall include American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands.
+- **(8)** *Tribal organization* The term tribal organization has the meaning given the term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+
+## § 4. Grants for early childhood home visitation
+
+- **(a)** *Authorization* The Secretary, in consultation with the Secretary of Education, shall make grants to States, Indian tribes, tribal organizations, territories and possessions to enable States, Indian tribes, tribal organizations, territories and possessions to establish or expand quality programs of early childhood home visitation as specified under subsection (e). Each grant shall consist of the allotment determined under subsection (b).
+- **(b)** *Determination of Reservations; Amount of Allotments; Authorization of Appropriations*
+  - **(1)** *Reservations from appropriations* From the total amount made available to carry out this section for a fiscal year, the Secretary shall reserve—
+    - **(A)** 3 percent for an independent evaluation of the activities carried out under this Act, as specified in section 7;
+    - **(B)** not more than 3 percent for Federal administrative costs;
+    - **(C)** not more than 2 percent of the funds appropriated for any fiscal year for payments to Indian tribes or tribal organizations with an approved application under this section;
+    - **(D)** not more than ½ of 1 percent of the funds appropriated for any fiscal year for payments to territories and possessions with an approved application under this section; and
+    - **(E)** 2 percent for training and technical assistance for States.
+  - **(2)** *State allotments for early childhood home visitation*
+    - **(A)** *In general* In accordance with subparagraph (B), the Secretary shall allot among each of the eligible States the total amount made available to carry out this section for any fiscal year and not reserved under paragraph (1), to support early childhood home visitation programs in accordance with this section.
+    - **(B)** *Determination of state allotments* The Secretary shall allot the amount made available under subparagraph (A) for a fiscal year among the eligible States in proportion to the number of children, aged from birth through 5 years from families whose income is below the poverty line, who reside within the State, compared to the number of such individuals who reside in all such States for that fiscal year.
+  - **(3)** *Payments to tribes and territories*
+    - **(A)** Out of the funds reserved under paragraph (1)(C), the Secretary shall provide funds to each Indian tribe or tribal organization with an approved application under this section in accordance with the respective needs described in that application.
+    - **(B)** Out of the funds reserved under paragraph (1)(D), the Secretary shall provide funds to each territory or possession with an approved application under this section in accordance with the respective needs described in that application.
+  - **(4)** *Applications of Indian tribes, tribal organizations, territories, or possessions*
+    - **(A)** Subject to subparagraph (B), the Secretary shall approve an application of an Indian tribe, tribal organization, territory, or possession based on the quality of the application.
+    - **(B)** The Secretary may exempt an application submitted by an Indian tribe, tribal organization, territory, or possession from any requirement of this section that the Secretary determines would be inappropriate to apply taking into account the resources, needs, and other circumstances of the Indian tribe, tribal organization territory, or possession with the exception of the provision of quality early childhood home visitation and participation in the independent evaluation outlined in section 7.
+  - **(5)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $150,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal years 2011 through 2014.
+- **(c)** *Grant Applications* A State, Indian tribe, tribal organization, territory, or possession that desires to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. For the purposes of this subsection, the term “State” includes Indian tribes, tribal organizations, territories, or possessions. The application shall contain the following information:
+  - **(1)** An assurance that the Governor of the State has designated a lead State agency, such as the State educational agency or the State health and human services agency, to carry out the activities under this section.
+  - **(2)** An assurance that the State will reserve 3 percent of such grant for evaluation and will participate in the independent evaluation under section 7.
+  - **(3)** An assurance that the State will reserve 10 percent of the grant funds for training and technical assistance to programs of early childhood home visitation.
+  - **(4)** An assurance that the State will authorize child care resource and referral agencies to refer parents seeking home visitation services.
+  - **(5)** An assurance that in supporting early childhood home visitation programs under this section the State shall identify and prioritize serving communities that are in high need of such services, such as communities with—
+    - **(A)** low student achievement;
+    - **(B)** high rates of teen pregnancy;
+    - **(C)** high proportions of families;
+    - **(D)** high incidences of child abuse;
+    - **(E)** high rates of children with developmental delays or disabilities;
+    - **(F)** large concentrations of individuals who are English language learners;
+    - **(G)** large concentrations of individuals currently serving in the Armed Forces; and
+    - **(H)** large concentrations of individuals who formerly served in the Armed Forces.
+  - **(6)** The results of a statewide needs assessment that describes—
+    - **(A)** the quality and capacity of existing programs of early childhood home visitation in the State;
+    - **(B)** the number and types of eligible families who are receiving services under such programs; and
+    - **(C)** the gaps in early childhood home visitation in the State, including identification of communities that are in high need of such services.
+  - **(7)** A State plan containing the following:
+    - **(A)** A description of the State’s plan to prioritize establishing or expanding high quality programs of early childhood home visitation programs in communities that are in high need of such programs.
+    - **(B)** A description of the high quality programs of early childhood home visitation that will be supported by a grant under this section.
+    - **(C)** A description of how the proposed program of early childhood home visitation will promote positive parenting skills and children’s early learning and development.
+    - **(D)** A description of how the proposed program of early childhood home visitation will incorporate the authorized activities described in subsection (e).
+    - **(E)** How the lead State agency will build on and promote coordination among existing programs of early childhood home visitation in an effort to promote an array of home visitation programs to ensure more eligible families are being served and are getting the most appropriate services to meet their needs.
+    - **(F)** How the lead State agency will promote collaboration among a broad range of child- and family-serving programs, including—
+      - **(i)** early childhood home visitation programs, including targeted grants awarded under sections 5 and 6;
+      - **(ii)** early childhood care and education programs;
+      - **(iii)** activities carried out under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.) and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1419);
+      - **(iv)** child abuse prevention and treatment programs, and State and local child protection systems;
+      - **(v)** Medicaid and State Children’s Health Insurance programs;
+      - **(vi)** nutrition assistance programs;
+      - **(vii)** parental substance abuse and mental health prevention and treatment programs;
+      - **(viii)** domestic and family violence prevention programs;
+      - **(ix)** child support enforcement programs;
+      - **(x)** workforce development programs;
+      - **(xi)** the State Temporary Assistance to Needy Families program;
+      - **(xii)** early childhood intervention programs, such as mental health prevention and treatment services;
+      - **(xiii)** State and local educational agencies; and
+      - **(xiv)** other appropriate child-serving programs in the State in order to facilitate the coordinated delivery of services for eligible families.
+    - **(G)** How the lead State agency will provide for the training and technical assistance to programs of early childhood home visitation involved in activities under this section to more effectively meet the needs of the eligible families served, with sensitivity to cultural variations in attitudes toward formal support services and parenting norms.
+    - **(H)** How the lead State agency will evaluate the activities supported under this section in order to assess outcomes including, but not limited to—
+      - **(i)** parental outcomes related to child health and development, including parent knowledge of early learning and development;
+      - **(ii)** child health, cognitive, language, social-emotional, and physical development;
+      - **(iii)** child maltreatment;
+      - **(iv)** school readiness; and
+      - **(v)** links to community services.
+    - **(I)** A description of how the lead State agency will ensure home visitation programs prioritize outreach activities to target fathers and include fathers in the program where safe and appropriate.
+    - **(J)** A description of how the lead State agency will ensure that services are made available under the program to grandparents, other relatives or foster parents, of a child from birth through age 5 who serve as the primary caregiver of the child.
+    - **(K)** Such other information as the Secretary may require.
+- **(d)** *Approval of Applications*
+  - **(1)** *In general* The Secretary shall approve an application under this section based on the recommendations of a peer review panel, as described in paragraph (2).
+  - **(2)** *Peer review panel* The peer review panel shall include individuals with experience in varying models of home visitation, including not fewer than—
+    - **(A)** 3 individuals who are experts in the field of home visitation;
+    - **(B)** 2 individuals who are experts in early childhood development;
+    - **(C)** 1 individual with expertise implementing a statewide program of early childhood home visitation;
+    - **(D)** 1 individual who is a board certified pediatrician or a developmental pediatrician; and
+    - **(E)** 1 individual with experience in administering public or private (including community-based) child maltreatment prevention programs.
+  - **(3)** *Recommendations* The panel shall recommend applicants to the Secretary based on the quality of their applications. In addition to ensuring that the application is complete, the panel shall consider—
+    - **(A)** the quality of the statewide needs assessment, described in subsection (c)(6);
+    - **(B)** the quality of the programs to be funded by the grant, described in subsection (c)(7)(B), and the capacity of such programs to establish or expand high quality home visitation services;
+    - **(C)** the plan to enhance and improve services in the State through collaboration described in subsections (c)(7)(E) and (c)(7)(F);
+    - **(D)** the State’s plan to prioritize serving communities in high need of home visitation programs; and
+    - **(E)** the State’s plan for delivering effective training and technical assistance.
+- **(e)** *State Uses of Funds* Each State that receives a grant under this section shall—
+  - **(1)** provide to as many eligible families in the State as practicable, voluntary early childhood home visitation, on not less frequently than a monthly basis with greater frequency of services for those eligible families identified with additional needs, through the implementation of high quality programs of early childhood home visitation that—
+    - **(A)** adopt a clear, consistent model that—
+      - **(i)** is research-based;
+      - **(ii)** is grounded in empirically based knowledge related to home visiting and child health or child development;
+      - **(iii)** is linked to program-determined outcomes;
+      - **(iv)** is associated with a national organization or institution of higher education (as defined under section 101 of the Higher Education Act of 1965), that has comprehensive home visitation program standards, including standardized training and ongoing professional development, that ensure high quality service delivery and continuous program quality improvement;
+      - **(v)** has been evaluated, and the results of the evaluation have been published in a peer-reviewed journal; and
+      - **(vi)** has been in existence at least 3 consecutive years prior to the program being funded under this Act;
+    - **(B)** employ well-trained and competent staff, as demonstrated by education or training, and the provision of ongoing and specific training on the model being delivered;
+    - **(C)** maintain high quality supervision that supports home visitor competencies;
+    - **(D)** show strong organizational capacity to implement the program involved;
+    - **(E)** establish appropriate linkages and referral networks to other community resources and supports;
+    - **(F)** monitor fidelity of program implementation to assure that services are delivered according to the specified model;
+    - **(G)** establish procedures to promote participation of fathers, where safe and appropriate;
+    - **(H)** are research-based and provide parents with—
+      - **(i)** knowledge of age-appropriate child development in cognitive, language, social-emotional, and motor domains (including knowledge of second language acquisition, in the case of English language learners);
+      - **(ii)** knowledge of realistic expectations of age-appropriate child behaviors;
+      - **(iii)** knowledge of health and wellness issues for children and parents;
+      - **(iv)** modeling, consulting, and coaching on parenting practices;
+      - **(v)** skills to interact with their child to enhance age-appropriate development;
+      - **(vi)** skills to recognize and seek help for issues related to health, developmental delays, and social, emotional, and behavioral skills;
+      - **(vii)** activities designed to help parents become full partners in the education of their children; and
+      - **(viii)** relevant information, consistent with State child welfare agency training, concerning child welfare and protective services resources if appropriate;
+    - **(I)** ascertain what health and developmental services the family receives and works with providers of such services to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when not otherwise provided;
+    - **(J)** provide referrals for eligible families, as needed, to additional resources available in the community, such as center-based early education programs, child care services, health or mental health services, family literacy programs, employment agencies, social services, fatherhood programs, and child care resource and referral agencies; and
+    - **(K)** offer group meetings (at program discretion) for eligible families that—
+      - **(i)** further enhance the information, activities, and skill-building addressed during home visitation; and
+      - **(ii)** offer opportunities for parents to meet with and support each other.
+  - **(2)** reserve 10 percent of the grant funds to provide training and technical assistance, directly or through contract, to early childhood home visitation programs relating to—
+    - **(A)** effective methods of implementing parent education, conducting home visiting, and promoting positive early childhood development;
+    - **(B)** the relationship of health and well-being of pregnant women to prenatal and early childhood development;
+    - **(C)** early childhood development with respect to children from birth until entry into kindergarten;
+    - **(D)** methods to help parents promote emergent literacy, including second language acquisition for English language learners, in their children from birth until entry into kindergarten;
+    - **(E)** health, vision, hearing, and developmental screenings;
+    - **(F)** strategies for helping eligible families with special needs or those eligible families coping with crisis;
+    - **(G)** recruiting, supervising, and retaining qualified staff;
+    - **(H)** increasing services for underserved populations;
+    - **(I)** methods to help parents effectively respond to their children’s needs and behaviors;
+    - **(J)** implementation of ongoing program quality improvement and evaluation of activities and outcomes;
+    - **(K)** relevant issues related to child welfare and protective services, with information provided being consistent with State or local child welfare agency training;
+    - **(L)** effective methods of successfully engaging fathers in programs for parents; and
+    - **(M)** the relationship of father involvement to the health and well-being of pregnant women and to prenatal and early childhood development;
+  - **(3)** ensure representatives from high quality programs of early childhood home visitation operating in the State are included in an existing State-level early childhood coordinating body, such as the State Advisory Council on Early Childhood Care and Education (as defined in section 642B(b) of the Head Start Act), that meets regularly to address policy and implementation issues that will improve the coordination and effectiveness of a range of services for children and families; and
+  - **(4)** use not more than 5 percent of the amount of grant funds received under this section for the administration of the grant, including planning, administration, and annual reporting.
+- **(f)** *Maintenance of Effort* A State is entitled to receive its full allotment of funds under this section for any fiscal year if the Secretary finds that the aggregate expenditures within the State for quality programs of early childhood home visitation for the fiscal year preceding the fiscal year for which the determination is made was not less than 100 percent of such aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+- **(g)**
+  - **(1)** *State match* In order to receive an allotment under subsection (b)(2), a State shall match the amount of such allotment with funds not derived from other Federal sources on the following basis:
+    - **(A)** 10 percent of such allotment for fiscal year 2011;
+    - **(B)** 20 percent of such allotment for fiscal year 2012; and
+    - **(C)** 30 percent of such allotment for fiscal year 2013.
+  - **(2)** *Match requirement* The funds resulting from the requirement in paragraph (1) shall be exported in accordance with the requirements of this section.
+- **(h)** *Reporting Requirements* Each State that receives a grant under this section shall submit an annual report to the Secretary regarding the State’s progress in addressing the purposes of this Act. Such report shall include, at a minimum, a description of—
+  - **(1)** actual service delivery provided under the grant including—
+    - **(A)** program characteristics, including descriptive information on the service model used and actual program performance;
+    - **(B)** provider characteristics, including staff qualifications, work experience, and demographic characteristics; and
+    - **(C)** recipient characteristics, including number, demographic characteristics, and family retention;
+  - **(2)** recipient outcomes that are consistent with program goals, including, where appropriate given the program being evaluated—
+    - **(A)** parent knowledge of early learning and development;
+    - **(B)** child health, cognitive, language, social-emotional, and physical developmental indicators;
+    - **(C)** child maltreatment indicators;
+    - **(D)** school readiness indicators; and
+    - **(E)** links to community services;
+  - **(3)** the research-based instruction, materials, and activities being used in the activities funded under the grant;
+  - **(4)** the training and technical assistance, including ongoing professional development, provided to programs supported under the grant;
+  - **(5)** beginning at the end of the second year of the grant, the results of evaluations described in subsection (c)(7)(H); and
+  - **(6)** the annual program implementation costs, including the cost per family served under the program.
+
+## § 5. Targeted grants for early childhood home visitation for families with English language learners
+
+- **(a)** *In General* The Secretary, in consultation with the Secretary of Education, shall make grants, on a competitive basis, to eligible applicants to enable such applicants to support and expand local efforts to deliver services through quality programs of early childhood home visitation to eligible families with English language learners.
+- **(b)** *Eligible Applicant* In this section, the term eligible applicant means—
+  - **(1)** 1 or more local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)); and
+  - **(2)** 1 or more public or private community-based organizations or agencies that serve eligible families and are capable of establishing and implementing high quality programs of early childhood home visitation.
+- **(c)** *Applications* An eligible applicant that desires to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include a description of—
+  - **(1)** the results of a communitywide needs assessment that demonstrates the need for services to eligible families with English language learners and describes—
+    - **(A)** community demographics;
+    - **(B)** the quality and capacity of existing programs of early childhood home visitation for eligible families with English language learners in the community;
+    - **(C)** the gaps in programs of early childhood home visitation for eligible families with English language learners in the community; and
+    - **(D)** the type of program of early childhood home visitation necessary to address the gaps identified;
+  - **(2)** the program of early childhood home visitation that will be supported by the grant under this section;
+  - **(3)** how the proposed program of early childhood home visitation will promote positive parenting skills and children’s early learning and development;
+  - **(4)** how the proposed program of early childhood home visitation will incorporate the authorized activities described in subsection (e);
+  - **(5)** how services provided through a grant under this section will use materials that are appropriate for eligible families with English language learners;
+  - **(6)** how the activities under this section will build on and promote coordination among existing programs of early childhood home visitation, if such programs exist in the community, in an effort to promote an array of home visitation that ensures more eligible families with English language learners are being served and are getting the most appropriate services to meet their needs;
+  - **(7)** how the program will ensure that—
+    - **(A)** where appropriate to the program goals of the home visiting model, families participating in early childhood home visitation programs with English language learners will be introduced to and connected with their local schools to encourage ongoing parental involvement in their children’s education; and
+    - **(B)** the activities under this section will support the preparation of children for school;
+  - **(8)** how channels of communication will be established between staff of programs of early childhood home visitation and staff of other early childhood education programs, such as Head Start programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.) and Early Head Start programs carried out under section 645A of such Act, preschool programs, and child care programs, to facilitate the coordination of services for eligible families with English language learners;
+  - **(9)** how eligible families with English language learners will be recruited and retained to receive services under this section;
+  - **(10)** how training and technical assistance will be provided to help the staff of programs of early childhood home visitation involved in activities under this section to more effectively serve eligible families with English language learners;
+  - **(11)** how the eligible applicant will evaluate the activities supported under this section in order to demonstrate outcomes related to the—
+    - **(A)** number of eligible families with English language learners served by programs of early childhood home visitation;
+    - **(B)** parental knowledge of early learning and development;
+    - **(C)** positive parenting practices related to early learning and development; and
+    - **(D)** children’s cognitive, language, social-emotional, and physical development;
+  - **(12)** how the proposed program will conduct outreach activities to target both mothers and fathers and increase father involvement where safe and appropriate; and
+  - **(13)** such other information as the Secretary may require.
+- **(d)** *Approval of Applications*
+  - **(1)** *In general* The Secretary shall select applicants for funding under this section based on the quality of the applications and the recommendations of a peer review panel, as described in paragraph (2).
+  - **(2)** *Peer review panel* The peer review panel shall include not fewer than—
+    - **(A)** 2 individuals who are experts in the field of home visitation;
+    - **(B)** 2 individuals who are experts in early childhood development;
+    - **(C)** 2 individuals who are experts in serving eligible families with English language learners;
+    - **(D)** 1 individual who is a board certified pediatrician or a developmental pediatrician; and
+    - **(E)** 1 individual with expertise in administering public or private (including community-based) child maltreatment prevention programs.
+- **(e)** *Authorized Activities* Each eligible applicant that receives a grant under this section shall carry out the following activities:
+  - **(1)** Providing to as many eligible families with English language learners as practicable, voluntary early childhood home visitation, on not less frequently than a monthly basis, through the implementation of quality programs of early childhood home visitation that are research-based that provide parents with—
+    - **(A)** knowledge of age-appropriate child development in cognitive, language, social-emotional, and motor domains;
+    - **(B)** knowledge of realistic expectations of age-appropriate child behaviors;
+    - **(C)** knowledge of health and wellness issues for children and parents;
+    - **(D)** modeling, consulting, and coaching on parenting practices;
+    - **(E)** skills to interact with their child to enhance age-appropriate development;
+    - **(F)** skills to recognize and seek help for issues related to health, developmental delays, and social, emotional, and behavioral skills; and
+    - **(G)** activities designed to help parents become full partners in the education of their children.
+  - **(2)** Ascertaining what health and developmental services the family receives and working with these providers to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when not otherwise provided.
+  - **(3)** Providing referrals for participating eligible families with English language learners, as needed, to additional resources available in the community, such as center-based early education programs, child care services, health or mental health services, family literacy programs, employment agencies, social services, and child care resource and referral agencies.
+  - **(4)** Offering group meetings (at program discretion), on not less frequently than a monthly basis, for eligible families with English language learners that—
+    - **(A)** further enhance the information, activities, and skill-building addressed during home visitation;
+    - **(B)** offer opportunities for parents to meet with and support each other; and
+    - **(C)** address challenges facing eligible families with English language learners.
+  - **(5)** Providing training and technical assistance to early childhood home visitation staff relating to—
+    - **(A)** effective service to eligible families with English language learners, including skills to address challenges facing English language learners;
+    - **(B)** effective methods of implementing parent education, conducting home visiting, and promoting quality early childhood development, with sensitivity to cultural variations in parenting norms and attitudes toward formal support services;
+    - **(C)** the relationship of health and well-being of pregnant women to prenatal and early child development;
+    - **(D)** early childhood development with respect to children from birth until entry into kindergarten;
+    - **(E)** methods to help parents promote emergent literacy in their children from birth until entry into kindergarten;
+    - **(F)** implementing strategies for helping eligible families with English language learners coping with a crisis;
+    - **(G)** recruiting, supervising, and retaining qualified staff;
+    - **(H)** increasing services for underserved eligible families with English language learners;
+    - **(I)** methods to help parents effectively respond to their children’s needs and behaviors;
+    - **(J)** implementation of ongoing program quality improvement and evaluation of activities and outcomes; and
+    - **(K)** the relationship of father involvement to the health and well-being of pregnant women and to prenatal and early childhood development.
+  - **(6)** Coordinating existing programs of early childhood home visitation in order to effectively and efficiently meet the needs of more eligible families with English language learners.
+- **(f)** *Reporting Requirements* Each applicant that receives a grant under this section to carry out a program shall submit an annual report to the Secretary, and the lead State agency as described in section 4(c)(1), regarding the progress of such program in addressing the purposes of this Act. Such report shall include, at a minimum, a description of—
+  - **(1)** actual service delivery provided under the grant including—
+    - **(A)** program characteristics including descriptive information on the service model used and actual program performance;
+    - **(B)** provider characteristics including staff qualifications, work experience, and demographic characteristics;
+    - **(C)** recipient characteristics including number, demographic characteristics, and rates of family retention in programs; and
+    - **(D)** an estimate of annual program implementation costs;
+  - **(2)** recipient outcomes that are consistent with program goals including, where appropriate given the program being evaluated—
+    - **(A)** parental practices;
+    - **(B)** child health and development indicators;
+    - **(C)** child maltreatment indicators;
+    - **(D)** school readiness indicators; and
+    - **(E)** links to community services;
+  - **(3)** the research-based instruction, materials, and activities being used in the activities funded under the grant; and
+  - **(4)** the training and technical assistance, including ongoing professional development, provided to programs supported under the grant.
+- **(g)** *Supplement not Supplant* Grant funds provided under this section shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section.
+- **(h)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2010 and such sums for fiscal years 2011 through 2014.
+
+## § 6. Targeted grants for early childhood home visitation for military families
+
+- **(a)** *In General* The Secretary of Defense, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall make grants, on a competitive basis, to eligible applicants to enable such applicants to support and expand efforts to deliver services through high quality programs of early childhood home visitation to eligible families with a family member in the Armed Forces.
+- **(b)** *Eligible Applicant* In this section, the term eligible applicant means any of the following:
+  - **(1)** A local educational agency that receives payments under title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7701 et seq.).
+  - **(2)** A school of the defense dependents’ education system under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.).
+  - **(3)** A school established under section 2164 of title 10, United States Code.
+  - **(4)** A community-based organization serving families with a family member in the Armed Forces.
+- **(c)** *Applications* An eligible applicant that desires to receive a grant under this section shall submit an application to the Secretary of Defense at such time, in such manner, and containing such information as the Secretary of Defense may require. The application shall include a description of—
+  - **(1)** the results of a communitywide needs assessment that demonstrates the need for services to eligible families with a family member in the Armed Forces and describes—
+    - **(A)** community demographics;
+    - **(B)** the quality and capacity of existing programs of early childhood home visitation for eligible families with a family member in the Armed Forces;
+    - **(C)** the gaps in programs of early childhood home visitation for eligible families with a family member in the Armed Forces; and
+    - **(D)** the type of program of early childhood home visitation necessary to address the gaps identified;
+  - **(2)** the program of early childhood home visitation that will be supported by the grant under this section;
+  - **(3)** how the proposed program of early childhood home visitation will promote positive parenting skills and children’s early learning and development;
+  - **(4)** how the proposed program of early childhood home visitation will incorporate the authorized activities described in subsection (f);
+  - **(5)** how services provided through a grant under this section will use materials that are appropriate toward eligible families with a family member in the Armed Forces;
+  - **(6)** how the activities under this section will build on and promote coordination with existing programs of early childhood home visitation, if such programs exist in the community, in an effort to promote an array of home visitation that ensures more eligible families with a family member in the Armed Forces are being served and are getting the most appropriate services to meet their needs;
+  - **(7)** how the program will ensure that—
+    - **(A)** where appropriate to the program goals of the home visiting model, families participating in early childhood home visitation programs with a family member in the Armed Forces will be introduced to and connected with their local schools to encourage ongoing parental involvement in their children’s education; and
+    - **(B)** the activities under this section will support the preparation of children for school;
+  - **(8)** how channels of communication will be established between staff of programs of early childhood home visitation and staff of other early childhood education programs, such as Head Start programs carried out under the Head Start Act (42 U.S.C. 9831 et seq.) and Early Head Start programs carried out under section 645A of such Act, preschool programs, family support programs, and child care programs, to facilitate the coordination of services for eligible families with a family member in the Armed Forces;
+  - **(9)** how eligible families with a family member in the Armed Forces will be recruited and retained to receive services under this section;
+  - **(10)** how training and technical assistance will be provided to help programs of early childhood home visitation involved in activities under this section to more effectively serve eligible families with a family member in the Armed Forces;
+  - **(11)** how the eligible applicant will evaluate the activities supported under this section in order to demonstrate outcomes related to the—
+    - **(A)** number of eligible families with a family member in the Armed Forces served by programs of early childhood home visitation;
+    - **(B)** parental knowledge of early learning and development;
+    - **(C)** positive parenting practices related to early learning and development; and
+    - **(D)** children’s cognitive, language, social-emotional, and physical development;
+  - **(12)** how the proposed program will conduct outreach activities to target both mothers and fathers and increase father involvement where safe and appropriate; and
+  - **(13)** such other information as the Secretary of Defense may require.
+- **(d)** *Approval of Local Applications*
+  - **(1)** *In general* The Secretary of Defense shall select applicants for funding under this section based on the quality of the applications and the recommendations of a peer review panel, as described in paragraph (2).
+  - **(2)** *Peer review panel* The peer review panel shall include not fewer than—
+    - **(A)** 2 individuals who are experts in the field of home visitation;
+    - **(B)** 2 individuals who are experts in early childhood development;
+    - **(C)** 2 individuals who are experts in family support for military families;
+    - **(D)** 1 individual who is a board certified pediatrician or developmental pediatrician; and
+    - **(E)** 1 individual with expertise in administering public or private (including community-based) child maltreatment prevention programs.
+- **(e)** *Authorized Activities* Each eligible applicant that receives a grant under this section shall carry out the following activities:
+  - **(1)** Providing to as many eligible families with a family member in the Armed Forces as practicable, voluntary early childhood home visitation, on not less frequently than a monthly basis, through the implementation of quality programs of early childhood home visitation that are research-based and that provide parents with—
+    - **(A)** knowledge of age-appropriate child development in cognitive, language, social-emotional, and motor domains;
+    - **(B)** knowledge of realistic expectations of age-appropriate child behaviors;
+    - **(C)** knowledge of health and wellness issues for children and parents;
+    - **(D)** modeling, consulting, and coaching on parenting practices;
+    - **(E)** skills to interact with their child to enhance age-appropriate development;
+    - **(F)** skills to recognize and seek help for issues related to health, developmental delays, and social, emotional, and behavioral skills; and
+    - **(G)** activities designed to help parents become full partners in the education of their children.
+  - **(2)** Ascertaining what health and developmental services the family receives and working with these providers to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when not otherwise provided.
+  - **(3)** Providing referrals for participating eligible families with a family member in the Armed Forces, as needed, to additional resources available in the community, such as center-based early education programs, child care services, health or mental health services, family literacy programs, employment agencies, social services, and child care resource and referral agencies.
+  - **(4)** Offering group meetings (at program discretion), on not less frequently than a monthly basis, for eligible families with a family member in the Armed Forces that—
+    - **(A)** further enhance the information, activities, and skill-building addressed during home visitation;
+    - **(B)** offer opportunities for parents to meet with and support each other; and
+    - **(C)** address challenges facing eligible families with a family member in the Armed Forces.
+  - **(5)** Providing training and technical assistance to early childhood home visitation staff relating to—
+    - **(A)** effective service to eligible families with a family member in the Armed Forces;
+    - **(B)** effective methods of implementing parent education, conducting home visiting, and promoting quality early childhood development, with sensitivity to cultural variations in parenting norms and attitudes toward formal support services;
+    - **(C)** the relationship of health and well-being of pregnant women to prenatal and early child development;
+    - **(D)** early childhood development with respect to children from birth until entry into kindergarten;
+    - **(E)** methods to help parents promote emergent literacy in their children from birth until entry into kindergarten;
+    - **(F)** implementing strategies for helping eligible families with a family member in the Armed Forces coping with crisis;
+    - **(G)** recruiting, supervising, and retaining qualified staff;
+    - **(H)** increasing services for underserved eligible families with a family member in the Armed Forces;
+    - **(I)** methods to help parents effectively respond to their children’s needs and behaviors;
+    - **(J)** implementation of ongoing program quality improvement and evaluation of activities and outcomes; and
+    - **(K)** the relationship of father involvement to the health and well-being of pregnant women and to prenatal and early childhood development.
+  - **(6)** Coordinating existing programs of early childhood home visitation in order to effectively and efficiently meet the needs of more eligible families with a family member in the Armed Forces.
+- **(f)** *Reporting Requirements* Each applicant that receives a grant under this section to carry out a program shall submit an annual report to the Secretary, and the lead State agency as described in section 4(c)(1), regarding the progress of such program in addressing the purposes of this Act. Such report shall include, at a minimum, a description of—
+  - **(1)** actual service delivery provided under the grant including—
+    - **(A)** program characteristics including descriptive information on the service model used and actual program performance;
+    - **(B)** provider characteristics including staff qualifications, work experience, and demographic characteristics;
+    - **(C)** recipient characteristics including number, demographic characteristics, and family retention; and
+    - **(D)** an estimate of annual program implementation costs;
+  - **(2)** recipient outcomes that are consistent with program goals including, where appropriate given the program being evaluated—
+    - **(A)** parental practices;
+    - **(B)** child health and development indicators;
+    - **(C)** child maltreatment indicators;
+    - **(D)** school readiness indicators; and
+    - **(E)** links to community services;
+  - **(3)** the research-based instruction, materials, and activities being used in the activities funded under the grant; and
+  - **(4)** the training and technical assistance, including ongoing professional development, provided to programs supported under the grant.
+- **(g)** *Supplement not Supplant* Grant funds provided under this section shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section.
+- **(h)** *Authorization of Appropriations* There are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal years 2011 through 2014.
+
+## § 7. Evaluation
+
+- **(a)** *In General* From funds reserved under section 4(b)(1)(A), the Secretary shall conduct, through grant or contract, an independent evaluation of the effectiveness of home visitation programs carried out under this Act.
+- **(b)** *Reports*
+  - **(1)** *Interim report* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit an interim report on the evaluation conducted pursuant to subsection (a) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
+  - **(2)** *Final report* Not later than 4 years after the date of enactment of this Act, the Secretary shall submit a final report on the evaluation conducted pursuant to subsection (a) to the committees described in paragraph (1).
+- **(c)** *Study* The independent evaluation conducted under this section shall examine the following:
+  - **(1)** The effect of home visiting programs on child and parent outcomes, consistent with program goals, including, where appropriate given the program being evaluated, parental outcomes related to child health and development, parenting practices, child health and development, child maltreatment, school readiness, and links to community services.
+  - **(2)** The effectiveness of early childhood home visitation on different populations, including the extent to which variability exists in program ability to improve outcomes across programs and populations.
+
+## § 8. Reports to Congress
+
+- **(a)** *In general* The Secretary shall annually provide a report to the Committee on Education and Labor in the House of Representatives and the Committee on Health, Education, Labor, and Pensions in the Senate, information on the activities carried out under this Act.
+- **(b)** *Content* The reports submitted under this section shall, at a minimum, include information about the programs carried out under this Act, including information on the following:
+  - **(1)** descriptions of the high need communities targeted by States for programs carried out under this Act;
+  - **(2)** the service delivery models funded under this Act;
+  - **(3)** program characteristics, including—
+    - **(A)** staff qualifications and demographic characteristics; and
+    - **(B)** recipient characteristics including the number of families served, the demographic characteristics of the families served, and family retention and duration of services;
+  - **(4)** program-reported outcomes;
+  - **(5)** the findings from State evaluations;
+  - **(6)** the research-based instruction, materials, and activities being used in the activities funded under the grant;
+  - **(7)** the training and technical activities, including ongoing professional development, provided to programs; and
+  - **(8)** the annual program implementation costs, including the cost per family served under the program.
+
+## § 9. Supporting new parents through hospital education
+
+- **(a)** *In General* The Secretary shall develop and implement a public information and educational campaign to inform the public and new parents about the importance of proper care for infants and children under 5 years of age, including healthy parent-child relationships, the demands and stress associated with caring for infants, positive responses to infants’ challenging behaviors including awareness of their social, emotional, and physical needs, awareness of the vulnerability of young children to abusive practices, and the signs and treatment of post-partum depression.
+- **(b)** *Elements*
+  - **(1)** *In general* The campaign developed under subsection (a) shall include the following elements:
+    - **(A)** The dissemination of educational and informational materials in print, audio, video, electronic, and other media.
+    - **(B)** The use of public service announcements and advertisements.
+    - **(C)** The dissemination of effective child abuse prevention practices and techniques, including information about research-based home visiting programs, respite care, crisis nurseries, and parent support networks, to parents, caregivers, maternity hospitals, children’s hospitals, pediatricians, child care centers, organizations providing prenatal and postnatal care, and organizations providing parenting education and support services.
+    - **(D)** Connection to existing parental involvement programs.
+  - **(2)** *Existing programs* The Secretary, in implementing and executing the public information and educational campaign under this section, should seek collaboration with and referrals to existing parental involvement programs that specialize in strengthening children’s cognitive skills, early literacy skills, social or emotional and physical development and existing prenatal and early childhood home visitation programs.
+  - **(3)** *Existing state requirements* The Secretary, in implementing and executing the public information and educational campaign under this section, shall consider with pre-existing State requirements to ensure that no unnecessary burdens are placed on hospitals, military hospitals, and birth centers receiving educational materials.
+- **(c)** *Authorization of Appropriations* There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2010 through 2014.
