@@ -35,7 +35,10 @@ That Congress—
 - **(2)** calls upon the people of the United States to observe this day with appropriate programs, ceremonies, and activities to raise awareness and support to save the lives of those affected by malaria;
 - **(3)** reaffirms the goals and commitments to combat malaria outlined in the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008;
 - **(4)** commends the progress made during the last year by anti-malaria programs including the President’s Malaria Initiative and the Global Fund to Fight AIDS, Tuberculosis and Malaria;
-- **(5)** reaffirms United States support for and contribution toward the achievement of the targets set by the Roll Back Malaria Partnership Global Malaria Action Plan;
+- **(5)** recognizes the work of the Roll Back Malaria Partnership and affirms United States support for and contribution toward the achievement of the following targets:
+  - **(A)** Achieve universal coverage for all populations at risk with locally appropriate interventions for prevention and case management by 2010 and sustain universal coverage until local field research suggests that coverage can gradually be targeted to high-risk areas and seasons only, without risk of a generalized resurgence.
+  - **(B)** Reduce global malaria cases from 2000 levels by 50 percent in 2010 and by 75 percent in 2015.
+  - **(C)** End malaria deaths by 2015.
 - **(6)** encourages fellow donor nations to maintain their support and honor their funding commitments for Malaria programs worldwide;
-- **(7)** urges greater integration of United States and international health programs targeting malaria, HIV, Tuberculosis, neglected tropical diseases, and basic child and maternal health; and
+- **(7)** urges greater integration between United States and international health programs that target malaria, HIV, Tuberculosis, neglected tropical diseases, and basic child and maternal health; and
 - **(8)** commits to continued United States leadership in efforts to reduce global malaria deaths, especially through strengthening health care systems that can deliver effective, safe, high-quality interventions when and where they are needed, and assure access to reliable health information and effective disease surveillance.
