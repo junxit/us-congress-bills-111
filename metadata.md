@@ -1,7 +1,7 @@
 ---
 measure: S. 615
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 615
@@ -27,9 +27,11 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Ensign, John [R-NV] (E000194)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Armed Services Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -42,3 +44,8 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - 2009-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
 - 2009-04-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4995; text as passed Senate: CR S4995)
 - 2009-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4995; text as passed Senate: CR S4995)
+- 2009-05-01 — Message on Senate action sent to the House.
+- 2009-05-04 — Received in the House.
+- 2009-05-04 — Referred to House Armed Services
+- 2009-05-04 — Referred to House Foreign Affairs
+- 2009-05-04 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
