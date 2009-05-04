@@ -2,7 +2,7 @@
 legis-num: H. RES. 230
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 230
@@ -27,4 +27,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in a larger sense Cinco de Mayo symbolizes the right of a free people to self-determination, just as Benito Juarez once said, “El respeto al derecho ajeno es la paz” (“The respect of other people's rights is peace”); and
 - Whereas many people celebrate during the entire week in which Cinco de Mayo falls: Now, therefore, be it
 
-That the House of Representatives recognizes the historical struggle for independence and freedom of the Mexican people and requests the President to issue a proclamation recognizing that struggle and calling upon the people of the United States to observe Cinco de Mayo with appropriate ceremonies and activities.
+That the House of Representatives recognizes the historical struggle for independence and freedom of the Mexican people and requests the President to issue a proclamation recognizing that struggle and the importance of Cinco de Mayo.
