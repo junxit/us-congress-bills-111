@@ -1,7 +1,7 @@
 ---
 measure: S. 615
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 615
@@ -49,3 +49,16 @@ A bill to provide additional personnel authorities for the Special Inspector Gen
 - 2009-05-04 — Referred to House Armed Services
 - 2009-05-04 — Referred to House Foreign Affairs
 - 2009-05-04 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-06-15 — Cleared for White House.
+- 2009-06-15 — Considered under suspension of the rules. (consideration: CR H6749-6750)
+- 2009-06-15 — DEBATE - The House proceeded with forty minutes of debate on S. 615.
+- 2009-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-15 — Mr. Faleomavaega moved to suspend the rules and pass the bill.
+- 2009-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6749)
+- 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6749)
+- 2009-06-24 — Presented to President.
+- 2009-06-24 — Presented to President.
+- 2009-06-30 — Became Public Law No: 111-38.
+- 2009-06-30 — Became Public Law No: 111-38.
+- 2009-06-30 — Signed by President.
+- 2009-06-30 — Signed by President.
