@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 283
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 283
@@ -16,7 +16,7 @@ Honoring the life, achievements, and contributions of Rabbi Charles H. Rosenzvei
 
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 
-## Cosponsors (45)
+## Cosponsors (50)
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
@@ -63,6 +63,11 @@ Honoring the life, achievements, and contributions of Rabbi Charles H. Rosenzvei
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
 
 ## Committees (1)
 
@@ -73,3 +78,9 @@ Honoring the life, achievements, and contributions of Rabbi Charles H. Rosenzvei
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Referred to the House Committee on Foreign Affairs.
+- 2009-05-04 — Considered under suspension of the rules. (consideration: CR H5079-5080)
+- 2009-05-04 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 283.
+- 2009-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-04 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
+- 2009-05-04 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5079)
+- 2009-05-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5079)
