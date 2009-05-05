@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 269
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 269
@@ -41,3 +41,9 @@ Supporting the goals of Motorcycle Safety Awareness Month.
 - 2009-04-21 — Placed on the House Calendar, Calendar No. 42.
 - 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-79.
 - 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-79.
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5127-5129)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 269.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.
+- 2009-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (CR H5127)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(CR H5127)
