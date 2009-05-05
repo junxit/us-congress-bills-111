@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 353
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 353
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Global Youth Service Days.
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (27)
+## Cosponsors (31)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
@@ -45,13 +45,29 @@ Supporting the goals and ideals of Global Youth Service Days.
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 - Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Larson, John B. [D-CT-1] (L000557)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2009-05-05 — [House 111-1-233](votes/house-111-1-0233.md) — On Motion to Suspend the Rules and Agree — **Passed** (424–0)
 
 ## Actions
 
 - 2009-04-22 — Introduced in House
 - 2009-04-22 — Introduced in House
 - 2009-04-22 — Referred to the House Committee on Education and Labor.
+- 2009-05-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Polis (CO) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-05-05 — Considered as unfinished business. (consideration: CR H5132-5133)
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5122-5123)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 353.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution.
+- 2009-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 233). (text: CR H5122)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 424 - 0 (Roll no. 233).(text: CR H5122)
