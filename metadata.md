@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 396
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 396
@@ -16,7 +16,7 @@ Honoring the graduating Class of 2009 at the University of California, Merced.
 
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 
-## Cosponsors (27)
+## Cosponsors (38)
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Nunes, Devin [R-CA-21] (N000181)
@@ -45,6 +45,17 @@ Honoring the graduating Class of 2009 at the University of California, Merced.
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Bono Mack, Mary [R-CA-45] (B001228)
 - Rep. Bright, Bobby [D-AL-2] (B001264)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (1)
 
@@ -55,3 +66,9 @@ Honoring the graduating Class of 2009 at the University of California, Merced.
 - 2009-05-04 — Introduced in House
 - 2009-05-04 — Introduced in House
 - 2009-05-04 — Referred to the House Committee on Education and Labor.
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5123-5125)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 396.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution, as amended.
+- 2009-05-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5123-5124)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5123-5124)

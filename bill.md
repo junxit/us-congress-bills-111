@@ -2,7 +2,7 @@
 legis-num: H. RES. 396
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 396
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the University of California system has become one of the largest and most highly acclaimed institutions of higher learning in the world;
 - Whereas Founding Chancellor Carol Tomlinson-Keasey, countless individuals, numerous elected officials, and an exceptional team of talented academic and administrative professionals shared a vision and drive to carry forward the University of California’s historic mission of excellence in teaching, research, and public service by assembling to build the Nation’s first major public research university of the 21st century in Merced, California;
 - Whereas half of UC Merced’s students are the first in their families to attend college;
-- Whereas UC Merced celebrates having the most ethnically diverse research campus in the Nation;
+- Whereas UC Merced celebrates having one of the most ethnically diverse research campuses in the Nation;
 - Whereas UC Merced increases educational access and opportunities for San Joaquin Valley students and will contribute to enhanced job opportunities, new business development, and economic growth throughout Central California;
 - Whereas 518 students will comprise the first-ever graduating class from UC Merced on May 16, 2009;
 - Whereas First Lady Michelle Obama will honor UC Merced’s first graduating class by delivering the commencement speech; and
