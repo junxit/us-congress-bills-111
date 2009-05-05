@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 111
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 111
@@ -81,9 +81,10 @@ Recognizing the 61st anniversary of the independence of the State of Israel.
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -102,3 +103,4 @@ Recognizing the 61st anniversary of the independence of the State of Israel.
 - 2009-05-04 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
 - 2009-05-04 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 230). (text: CR H5073)
 - 2009-05-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 230).(text: CR H5073)
+- 2009-05-05 — Received in the Senate and referred to the Committee on Foreign Relations.
