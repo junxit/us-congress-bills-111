@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 313
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 313
@@ -59,3 +59,9 @@ Supporting the goals and ideals of National Public Works Week, and for other pur
 - 2009-04-21 — Placed on the House Calendar, Calendar No. 43.
 - 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-80.
 - 2009-04-21 — Reported by the Committee on Transportation. H. Rept. 111-80.
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5125-5127)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 313.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.
+- 2009-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5125)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5125)
