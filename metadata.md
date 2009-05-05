@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1397
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1397
@@ -54,3 +54,11 @@ To designate the facility of the United States Postal Service located at 41 Purd
 - 2009-03-09 — Introduced in House
 - 2009-03-09 — Introduced in House
 - 2009-03-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-18 — Committee Consideration and Mark-up Session Held.
+- 2009-03-18 — Ordered to be Reported by Unanimous Consent.
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5109-5111)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1397.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5109-5110)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5109-5110)
