@@ -1,7 +1,7 @@
 ---
 measure: H.R. 774
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 774
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 46-02 2
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Cosponsors (17)
+## Cosponsors (27)
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
@@ -35,6 +35,16 @@ To designate the facility of the United States Postal Service located at 46-02 2
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Lee, Christopher J. [R-NY-26] (L000568)
 - Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
 
 ## Committees (1)
 
@@ -45,3 +55,11 @@ To designate the facility of the United States Postal Service located at 46-02 2
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Introduced in House
 - 2009-01-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-18 — Committee Consideration and Mark-up Session Held.
+- 2009-03-18 — Ordered to be Reported by Unanimous Consent.
+- 2009-05-05 — Considered under suspension of the rules. (consideration: CR H5107-5109)
+- 2009-05-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 774.
+- 2009-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-05 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5107)
+- 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5107)
