@@ -39,18 +39,18 @@ Section 3729 of title 31, United States Code, is amended to read as follows:
 >   - **(C)** at the time such person provided to the United States the information about the violation under subparagraph (A), no criminal prosecution, civil action, or administrative action had commenced with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation.
 > - **(3)** *Assessment of costs* A person violating paragraph (1) shall, in addition to a penalty or damages assessed under paragraph (1) or (2), be liable to the United States Government for the costs of a civil action brought to recover such penalty or damages.
 > - **(b)** *Definitions* For purposes of this section—
->   - **(1)** the terms “known”, “knowing”, and “knowingly” mean that a person, with respect to information—
+>   - **(1)** the terms known, knowing, and knowingly mean that a person, with respect to information—
 >     - **(A)** has actual knowledge of the information,
 >     - **(B)** acts in deliberate ignorance of the truth or falsity of the information, or
 >     - **(C)** acts in reckless disregard of the truth or falsity of the information,
->   - **(2)** the term “Government money or property” means—
+>   - **(2)** the term Government money or property means—
 >     - **(A)** money or property belonging to the United States Government;
 >     - **(B)** money or property that—
 >       - **(i)** the United States Government provides or has provided to a contractor, grantee, agent, or other recipient, or for which the United States Government will reimburse a contractor, grantee, agent, or other recipient; and
 >       - **(ii)** is to be spent or used on the Government’s behalf or to advance a Government program; and
 >     - **(C)** money or property that the United States holds in trust or administers for any administrative beneficiary;
->   - **(3)** the term “claim” includes any request or demand, whether under a contract or otherwise, for Government money or property; and
->   - **(4)** the term “administrative beneficiary” means any entity, including any governmental or quasi-governmental entity, on whose behalf the United States Government, alone or with others, serves as custodian or trustee of money or property owned by that entity.
+>   - **(3)** the term claim includes any request or demand, whether under a contract or otherwise, for Government money or property; and
+>   - **(4)** the term administrative beneficiary means any entity, including any governmental or quasi-governmental entity, on whose behalf the United States Government, alone or with others, serves as custodian or trustee of money or property owned by that entity.
 > - **(c)** *Statutory cause of action* Liability under this section is a statutory cause of action all elements of which are set forth in this section. No proof of any additional element of common law fraud or other cause of action is implied or required for liability to exist for a violation of subsection (a).
 > - **(d)** *Exemption from disclosure* Any information that a person provides pursuant to subparagraphs (A) through (C) of subsection (a)(2) shall be exempt from disclosure under section 552 of title 5.
 > - **(e)** *Exclusion* This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
@@ -151,7 +151,7 @@ Section 3732 of title 31, United States Code, is amended by adding at the end th
   - **(1)** in paragraph (6), by striking “and” after the semicolon;
   - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(8)** the term “official use” means all lawful, reasonable uses in furtherance of an investigation, case, or proceeding, such as disclosures in connection with interviews of fact witnesses, settlement discussions, coordination of an investigation with a State Medicaid Fraud Control Unit or other government personnel, consultation with experts, and use in court pleadings and hearings.
+    > - **(8)** the term official use means all lawful, reasonable uses in furtherance of an investigation, case, or proceeding, such as disclosures in connection with interviews of fact witnesses, settlement discussions, coordination of an investigation with a State Medicaid Fraud Control Unit or other government personnel, consultation with experts, and use in court pleadings and hearings.
 
 - **(d)** *Delegation of authority* Section 3733 of title 31, United States Code, is amended by adding at the end the following:
   > - **(m)** *Delegation* The Attorney General may delegate any authority that the Attorney General has under this section.
