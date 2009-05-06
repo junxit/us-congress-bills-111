@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1271
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1271
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 2351 We
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ To designate the facility of the United States Postal Service located at 2351 We
 - 2009-05-05 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5113)
 - 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5113)
+- 2009-05-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
