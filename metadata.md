@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 401
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 401
@@ -16,7 +16,7 @@ Honoring the life and recognizing the far-reaching accomplishments of the Honora
 
 - Rep. Boehner, John A. [R-OH-8] (B000589)
 
-## Cosponsors (23)
+## Cosponsors (29)
 
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Pence, Mike [R-IN-6] (P000587)
@@ -41,6 +41,12 @@ Honoring the life and recognizing the far-reaching accomplishments of the Honora
 - Rep. Murphy, Scott [D-NY-20] (M001178)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
 
 ## Committees (1)
 
@@ -51,3 +57,10 @@ Honoring the life and recognizing the far-reaching accomplishments of the Honora
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Referred to the House Committee on House Administration.
+- 2009-05-06 — Considered under suspension of the rules. (consideration: CR H5190-5199)
+- 2009-05-06 — DEBATE - Mr. Brady(PA) asked unanimous consent to extend debate 10 minutes on each side. Agreed to without objection.
+- 2009-05-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 401.
+- 2009-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-06 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution.
+- 2009-05-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5190)
+- 2009-05-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5190)
