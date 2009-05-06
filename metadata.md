@@ -1,7 +1,7 @@
 ---
 measure: H.R. 774
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 774
@@ -46,9 +46,10 @@ To designate the facility of the United States Postal Service located at 46-02 2
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ To designate the facility of the United States Postal Service located at 46-02 2
 - 2009-05-05 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5107)
 - 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5107)
+- 2009-05-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
