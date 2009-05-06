@@ -1,7 +1,7 @@
 ---
 measure: S. 896
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 896
@@ -16,13 +16,221 @@ Helping Families Save Their Homes Act of 2009
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Cosponsors (2)
+## Cosponsors (48)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Harkin, Tom [D-IA] (H000206)
+
+## Recorded votes (11)
+
+- 2009-04-30 — [Senate 111-1-174](votes/senate-111-1-0174.md) — On the Amendment — **Amendment Rejected** (45–51)
+- 2009-05-04 — [Senate 111-1-176](votes/senate-111-1-0176.md) — On the Amendment — **Amendment Rejected** (39–53)
+- 2009-05-04 — [Senate 111-1-177](votes/senate-111-1-0177.md) — On the Amendment — **Amendment Rejected** (36–56)
+- 2009-05-05 — [Senate 111-1-178](votes/senate-111-1-0178.md) — On the Amendment — **Amendment Rejected** (31–63)
+- 2009-05-05 — [Senate 111-1-179](votes/senate-111-1-0179.md) — On the Amendment — **Amendment Rejected** (47–48)
+- 2009-05-05 — [Senate 111-1-180](votes/senate-111-1-0180.md) — On the Amendment — **Amendment Agreed to** (96–0)
+- 2009-05-05 — [Senate 111-1-181](votes/senate-111-1-0181.md) — On the Amendment — **Amendment Rejected** (36–59)
+- 2009-05-06 — [Senate 111-1-182](votes/senate-111-1-0182.md) — On the Amendment — **Amendment Agreed to** (57–39)
+- 2009-05-06 — [Senate 111-1-183](votes/senate-111-1-0183.md) — On the Motion — **Motion Rejected** (50–46)
+- 2009-05-06 — [Senate 111-1-184](votes/senate-111-1-0184.md) — On the Amendment — **Amendment Agreed to** (95–1)
+- 2009-05-06 — [Senate 111-1-185](votes/senate-111-1-0185.md) — On Passage of the Bill — **Bill Passed** (91–5)
 
 ## Actions
 
 - 2009-04-24 — Introduced in Senate
 - 2009-04-24 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-04-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
+- 2009-04-30 — Amendment SA 1014 proposed by Senator Durbin. (consideration: CR S4915-4927, S4930-4938) To prevent mortgage foreclosures and preserve home values.
+- 2009-04-30 — Amendment SA 1014, pursuant to the order of April 29, 2009, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 174. (consideration: CR S4937-4938)
+- 2009-04-30 — Amendment SA 1016 proposed by Senator Vitter to Amendment SA 1018. (consideration: CR S4946-4947; text: CR S4946) To authorize and remove impediments to the repayment of funds received under the Troubled Asset Relief Program.
+- 2009-04-30 — Amendment SA 1017 proposed by Senator Vitter to Amendment SA 1018. (consideration: CR S4947-4948; text: CR S4947) To provide that the primary and foundational responsibility of the Federal Housing Administration shall be to safeguard and preserve the solvency of the Administration.
+- 2009-04-30 — Amendment SA 1018 proposed by Senator Dodd. (consideration: CR S4938) In the nature of a substitute.
+- 2009-04-30 — Amendment SA 1019 proposed by Senator Corker to Amendment SA 1018. (consideration: CR S4944-4946; text: CR S4944) To address safe harbor for certain servicers.
+- 2009-04-30 — Measure laid before Senate by unanimous consent. (consideration: CR S4915-4938, S4943-4953)
+- 2009-04-30 — Proposed amendment SA 1014, pursuant to the order of April 29, 2009, having failed to achieve the required 60 votes in the affirmative, was withdrawn in Senate. (consideration: CR S4938)
+- 2009-04-30 — Roll call votes on amendments in Senate: Amendment SA 1014, pursuant to the order of April 29, 2009, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 174.(consideration: CR S4937-4938)
+- 2009-04-30 — Senate amendment not agreed to: Amendment SA 1014, pursuant to the order of April 29, 2009, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 174.(consideration: CR S4937-4938)
+- 2009-04-30 — Senate amendment proposed (on the floor): Amendment SA 1014 proposed by Senator Durbin.(consideration: CR S4915-4927, S4930-4938)
+- 2009-04-30 — Senate amendment proposed (on the floor): Amendment SA 1016 proposed by Senator Vitter to Amendment SA 1018.(consideration: CR S4946-4947; text: CR S4946)
+- 2009-04-30 — Senate amendment proposed (on the floor): Amendment SA 1017 proposed by Senator Vitter to Amendment SA 1018.(consideration: CR S4947-4948; text: CR S4947)
+- 2009-04-30 — Senate amendment proposed (on the floor): Amendment SA 1018 proposed by Senator Dodd.(consideration: CR S4938)
+- 2009-04-30 — Senate amendment proposed (on the floor): Amendment SA 1019 proposed by Senator Corker to Amendment SA 1018.(consideration: CR S4944-4946; text: CR S4944)
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-04-30 — Senate amendment submitted
+- 2009-05-01 — Considered by Senate. (consideration: CR S4999)
+- 2009-05-01 — Considered by Senate. (consideration: CR S4999)
+- 2009-05-01 — Considered by Senate. (consideration: CR S4999)
+- 2009-05-01 — Considered by Senate. (consideration: CR S4999)
+- 2009-05-01 — Considered by Senate. (consideration: CR S4999, S5002-5007, S5008, S5011)
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-01 — Senate amendment submitted
+- 2009-05-04 — Amendment SA 1016 not agreed to in Senate by Yea-Nay Vote. 39 - 53. Record Vote Number: 176.
+- 2009-05-04 — Amendment SA 1017 not agreed to in Senate by Yea-Nay Vote. 36 - 56. Record Vote Number: 177.
+- 2009-05-04 — Amendment SA 1020 proposed by Senator Dodd for Senator Grassley to Amendment SA 1018. (consideration: CR S5056; text: CR S5056) To enhance the oversight authority of the Comptroller General of the United States with respect to expenditures under the Troubled Asset Relief Program.
+- 2009-05-04 — Amendment SA 1021 proposed by Senator Dodd for Senator Grassley to Amendment SA 1018. (consideration: CR S5056-5057; text: CR S5056-5057) To amend chapter 7 of title 31, United States Code, to provide the Comptroller General additional audit authorities relating to the Board of Governors of the Federal Reserve System, and for other purposes.
+- 2009-05-04 — Considered by Senate. (consideration: CR S5051)
+- 2009-05-04 — Considered by Senate. (consideration: CR S5051)
+- 2009-05-04 — Considered by Senate. (consideration: CR S5051-5059)
+- 2009-05-04 — Considered by Senate. (consideration: CR S5052, S5057-5059)
+- 2009-05-04 — Considered by Senate. (consideration: CR S5052, S5057-5059)
+- 2009-05-04 — Roll call votes on amendments in Senate: Amendment SA 1016 not agreed to in Senate by Yea-Nay Vote. 39 - 53. Record Vote Number: 176.
+- 2009-05-04 — Roll call votes on amendments in Senate: Amendment SA 1017 not agreed to in Senate by Yea-Nay Vote. 36 - 56. Record Vote Number: 177.
+- 2009-05-04 — Senate amendment not agreed to: Amendment SA 1016 not agreed to in Senate by Yea-Nay Vote. 39 - 53. Record Vote Number: 176.
+- 2009-05-04 — Senate amendment not agreed to: Amendment SA 1017 not agreed to in Senate by Yea-Nay Vote. 36 - 56. Record Vote Number: 177.
+- 2009-05-04 — Senate amendment proposed (on the floor): Amendment SA 1020 proposed by Senator Dodd for Senator Grassley to Amendment SA 1018.(consideration: CR S5056; text: CR S5056)
+- 2009-05-04 — Senate amendment proposed (on the floor): Amendment SA 1021 proposed by Senator Dodd for Senator Grassley to Amendment SA 1018.(consideration: CR S5056-5057; text: CR S5056-5057)
+- 2009-05-05 — Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 31 - 63. Record Vote Number: 178.
+- 2009-05-05 — Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 181.
+- 2009-05-05 — Amendment SA 1026 proposed by Senator DeMint to Amendment SA 1018. (consideration: CR S5101-5106, S5110; text: CR S5101) To prohibit the use of Troubled Asset Relief Program funds for the purchase of common stock, and for other purposes.
+- 2009-05-05 — Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 179.
+- 2009-05-05 — Amendment SA 1030 proposed by Senator Thune to Amendment SA 1018. (consideration: CR S5094-5097; text: CR S5094) To require the Secretary of the Treasury to use any amounts repaid by a financial institution that is a recipient of assistance under the Troubled Assets Relief Program to reduce the authorization level under the TARP.
+- 2009-05-05 — Amendment SA 1031 proposed by Senator Dodd for Senator Schumer to Amendment SA 1018. (consideration: CR S5117; text as modified: CR S5117) To establish a multifamily mortgage resolution program.
+- 2009-05-05 — Amendment SA 1032 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5109)
+- 2009-05-05 — Amendment SA 1032 proposed by Senator Dodd for Senator Feingold to Amendment SA 1018. (consideration: CR S5109) To require the Congressional Oversight Panel to submit a special report on farm loan restructuring.
+- 2009-05-05 — Amendment SA 1033 proposed by Senator Casey to Amendment SA 1018. (consideration: CR S5111-5112; text: CR S5111) To enhance State and local neighborhood stabilization efforts by providing foreclosure prevention assistance to families threatened with foreclosure and permitting Statewide funding competition in minimum allocation States.
+- 2009-05-05 — Amendment SA 1035 proposed by Senator Dodd for Senator Boxer to Amendment SA 1018. (consideration: CR S5117; text: CR S5117) To require notice to consumers when a mortgage loan has been sold, transferred, or assigned to a third party.
+- 2009-05-05 — Amendment SA 1036 proposed by Senator Dodd for Senator Kerry to Amendment SA 1018. (consideration: CR S5092-5094, S5110-5111, S5112, S5115-5116, S5117-5118; text: CR S5092-5093; text as modified: CR S5118) To protect the interests of bona fide tenants in the case of any foreclosure on any dwelling or residential real property, and for other purposes.
+- 2009-05-05 — Amendment SA 1038 agreed to in Senate by Unanimous Consent.
+- 2009-05-05 — Amendment SA 1038 proposed by Senator Boxer to Amendment SA 1018. (consideration: CR S5099-5100, S5110; text: CR S5100) To provide for oversight of a Public-Private Investment Program, and to authorize monies for the Special Inspector General for the Troubled Asset Relief Program to audit and investigate recipients of non-recourse Federal loans under the Public Private Investment Program and the Term Asset Loan Facility.
+- 2009-05-05 — Amendment SA 1039 proposed by Senator Dodd for Senator Reed to Amendment SA 1018. (consideration: CR S5116; text as modified: CR S5116) To address impediments to liquidating warrants, and for other purposes.
+- 2009-05-05 — Amendment SA 1040 proposed by Senator Reed to Amendment SA 1018. (consideration: CR S5106-5109) To amend the McKinney-Vento Homeless Assistance Act to reauthorize the Act, and for other purposes.
+- 2009-05-05 — Amendment SA 1042 proposed by Senator Coburn to Amendment SA 1040. (consideration: CR S5112, S5112-5115) To establish a pilot program for the expedited disposal of Federal real property.
+- 2009-05-05 — Amendment SA 1043 as modified agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 180. (text as modified: CR S5109)
+- 2009-05-05 — Amendment SA 1043 proposed by Senator Ensign to Amendment SA 1038. (consideration: CR S5100-5101, S5109-5110; text: CR S5100-5101) Of a perfecting nature.
+- 2009-05-05 — Considered by Senate. (consideration: CR S5088)
+- 2009-05-05 — Considered by Senate. (consideration: CR S5088, S5116-5117, S5117, S5118-5119; text as modified: CR S5117)
+- 2009-05-05 — Considered by Senate. (consideration: CR S5088, S5116-5117; text as modified: CR S5116-5117)
+- 2009-05-05 — Considered by Senate. (consideration: CR S5088-5092)
+- 2009-05-05 — Considered by Senate. (consideration: CR S5088-5120)
+- 2009-05-05 — Roll call votes on amendments in Senate: Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 31 - 63. Record Vote Number: 178.
+- 2009-05-05 — Roll call votes on amendments in Senate: Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 181.
+- 2009-05-05 — Roll call votes on amendments in Senate: Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 179.
+- 2009-05-05 — Roll call votes on amendments in Senate: Amendment SA 1043 as modified agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 180.(text as modified: CR S5109)
+- 2009-05-05 — Senate amendment agreed to: Amendment SA 1032 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5109)
+- 2009-05-05 — Senate amendment agreed to: Amendment SA 1038 agreed to in Senate by Unanimous Consent.
+- 2009-05-05 — Senate amendment agreed to: Amendment SA 1043 as modified agreed to in Senate by Yea-Nay Vote. 96 - 0. Record Vote Number: 180.(text as modified: CR S5109)
+- 2009-05-05 — Senate amendment not agreed to: Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 31 - 63. Record Vote Number: 178.
+- 2009-05-05 — Senate amendment not agreed to: Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 181.
+- 2009-05-05 — Senate amendment not agreed to: Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 179.
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1026 proposed by Senator DeMint to Amendment SA 1018.(consideration: CR S5101-5106, S5110; text: CR S5101)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1030 proposed by Senator Thune to Amendment SA 1018.(consideration: CR S5094-5097; text: CR S5094)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1031 proposed by Senator Dodd for Senator Schumer to Amendment SA 1018.(consideration: CR S5117; text as modified: CR S5117)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1032 proposed by Senator Dodd for Senator Feingold to Amendment SA 1018.(consideration: CR S5109)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1033 proposed by Senator Casey to Amendment SA 1018.(consideration: CR S5111-5112; text: CR S5111)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1035 proposed by Senator Dodd for Senator Boxer to Amendment SA 1018.(consideration: CR S5117; text: CR S5117)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1036 proposed by Senator Dodd for Senator Kerry to Amendment SA 1018.(consideration: CR S5092-5094, S5110-5111, S5112, S5115-5116, S5117-5118; text: CR S5092-5093; text as modified: CR S5118)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1038 proposed by Senator Boxer to Amendment SA 1018.(consideration: CR S5099-5100, S5110; text: CR S5100)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1039 proposed by Senator Dodd for Senator Reed to Amendment SA 1018.(consideration: CR S5116; text as modified: CR S5116)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1040 proposed by Senator Reed to Amendment SA 1018.(consideration: CR S5106-5109)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1042 proposed by Senator Coburn to Amendment SA 1040.(consideration: CR S5112, S5112-5115)
+- 2009-05-05 — Senate amendment proposed (on the floor): Amendment SA 1043 proposed by Senator Ensign to Amendment SA 1038.(consideration: CR S5100-5101, S5109-5110; text: CR S5100-5101)
+- 2009-05-05 — Senate amendment submitted
+- 2009-05-05 — Senate amendment submitted
+- 2009-05-06 — Amendment SA 1018 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Amendment SA 1020 as modified agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Amendment SA 1021 as modified agreed to in Senate by Yea-Nay Vote. 95 - 1. Record Vote Number: 184.
+- 2009-05-06 — Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Amendment SA 1035 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Amendment SA 1036 as modified agreed to in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 182.
+- 2009-05-06 — Amendment SA 1039 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5175)
+- 2009-05-06 — Amendment SA 1040 agreed to in Senate by Voice Vote.
+- 2009-05-06 — Amendment SA 1042 ruled out of order by the chair.
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5174)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5175)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5179)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5179-5180)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5180-5181)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173, S5181-5182)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173-5174)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173-5174)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173-5175)
+- 2009-05-06 — Considered by Senate. (consideration: CR S5173-5175, S5179-5205)
+- 2009-05-06 — Held at the desk.
+- 2009-05-06 — Message on Senate action sent to the House.
+- 2009-05-06 — Motion to waive the Budget Act with respect to amendment SA 1042 rejected in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 183.
+- 2009-05-06 — Passed Senate with an amendment by Yea-Nay Vote. 91 - 5. Record Vote Number: 185. (text: CR S5185-5205)
+- 2009-05-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 91 - 5. Record Vote Number: 185.(text: CR S5185-5205)
+- 2009-05-06 — Point of order raised in Senate with respect to amendment SA 1042.
+- 2009-05-06 — Proposed amendment SA 1031 withdrawn in Senate. (consideration: CR S5179)
+- 2009-05-06 — Received in the House.
+- 2009-05-06 — Roll call votes on amendments in Senate: Amendment SA 1021 as modified agreed to in Senate by Yea-Nay Vote. 95 - 1. Record Vote Number: 184.
+- 2009-05-06 — Roll call votes on amendments in Senate: Amendment SA 1036 as modified agreed to in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 182.
+- 2009-05-06 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1042 rejected in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 183.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1018 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1020 as modified agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1021 as modified agreed to in Senate by Yea-Nay Vote. 95 - 1. Record Vote Number: 184.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1033 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1035 agreed to in Senate by Unanimous Consent.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1036 as modified agreed to in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 182.
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1039 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5175)
+- 2009-05-06 — Senate amendment agreed to: Amendment SA 1040 agreed to in Senate by Voice Vote.
