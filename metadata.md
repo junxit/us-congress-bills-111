@@ -1,7 +1,7 @@
 ---
 measure: S. 386
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 386
@@ -87,13 +87,14 @@ FERA
 
 - Senate — Judiciary Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2009-04-22 — [Senate 111-1-160](votes/senate-111-1-0160.md) — On the Amendment — **Amendment Agreed to** (94–1)
 - 2009-04-22 — [Senate 111-1-161](votes/senate-111-1-0161.md) — On the Amendment — **Amendment Agreed to** (92–4)
 - 2009-04-23 — [Senate 111-1-162](votes/senate-111-1-0162.md) — On the Amendment — **Amendment Rejected** (31–61)
 - 2009-04-27 — [Senate 111-1-170](votes/senate-111-1-0170.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–4)
 - 2009-04-28 — [Senate 111-1-171](votes/senate-111-1-0171.md) — On Passage of the Bill — **Bill Passed** (92–4)
+- 2009-05-06 — [House 111-1-235](votes/house-111-1-0235.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (367–59)
 
 ## Actions
 
@@ -235,3 +236,13 @@ FERA
 - 2009-04-28 — Passed Senate with an amendment by Yea-Nay Vote. 92 - 4. Record Vote Number: 171. (text: CR S4777-4781)
 - 2009-04-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 92 - 4. Record Vote Number: 171.(text: CR S4777-4781)
 - 2009-04-28 — Received in the House.
+- 2009-05-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-05-06 — Considered as unfinished business. (consideration: CR H5271-5272)
+- 2009-05-06 — Considered under suspension of the rules. (consideration: CR H5260-5270)
+- 2009-05-06 — DEBATE - The House proceeded with forty minutes of debate on S. 386.
+- 2009-05-06 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2009-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-06 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2009-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 59, 1 Present (Roll no. 235). (text: CR H5260-5264)
+- 2009-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 59, 1 Present (Roll no. 235).(text: CR H5260-5264)
+- 2009-05-06 — The title of the measure was amended. Agreed to without objection.
