@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 80
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 80
@@ -32,3 +32,9 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Referred to the House Committee on House Administration.
+- 2009-05-06 — Considered under suspension of the rules. (consideration: CR H5199-5201)
+- 2009-05-06 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 80.
+- 2009-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-06 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution.
+- 2009-05-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5199)
+- 2009-05-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5199)
