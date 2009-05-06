@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1397
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1397
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 41 Purd
 - Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 41 Purd
 - 2009-05-05 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5109-5110)
 - 2009-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5109-5110)
+- 2009-05-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
