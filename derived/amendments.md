@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1728
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-130 amendatory instructions. 0 executed, 130 stated and not applied.
+131 amendatory instructions. 0 executed, 131 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -46,6 +46,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 129C of the Truth in Lending Act is amended by inserting after subsection (f) (as added by section 204) the following new subsections: | the bill names no machine-readable US Code section |
 | — | insert | Section 129C of the Truth in Lending Act is amended by inserting after subsection (g) (as added by section 205) the following new subsections: | the bill names no machine-readable US Code section |
 | — | insert | Section 108(a) of the Truth in Lending Act (15 U.S.C. 1607(a)) is amended by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 129C of the Truth in Lending Act is amended by inserting after subsection (k) (as added by subsection (a) of this section) the following new subsection (and designated succeeding subsections accordingly): | the bill names no machine-readable US Code section |
+| — | redesignate | Section 129C of the Truth in Lending Act is amended by inserting after subsection (l) the following new subsection (and redesignating subsequent subsections of such section accordingly): | the bill names no machine-readable US Code section |
 | — | replace | by striking “$100” and inserting “$200”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$1,000” and inserting “$2,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$500,000” and inserting “$1,000,000”. | the bill names no machine-readable US Code section |
@@ -56,9 +58,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 128 the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Section 129C of the Truth in Lending Act is amended by inserting after subsection (k) (as added by section 206) the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 128(a) of Truth in Lending Act (15 U.S.C. 1638(a)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | amend | Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 128 of the Truth in Lending Act (15 U.S.C. 1638) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 130(e) of the Truth in Lending Act (15 U.S.C. 1640(e)) is amended by striking “section 129 may also” and inserting “section 129, 129B, or 129C of this Act, section 219 of the Mortgage Reform and Anti-Predatory Lending Act, or any… | the bill names no machine-readable US Code section |
+| — | replace | Section 130(e) of the Truth in Lending Act (15 U.S.C. 1640(e)) is amended by striking “section 129 may also” and inserting “section 129, 129B, or 129C of this Act, section 220 of the Mortgage Reform and Anti-Predatory Lending Act, or any… | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting before the semicolon at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
@@ -96,6 +97,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (3) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this title, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the section heading, by striking “special” and inserting “home buying”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (a) and (b) and inserting the following new subsections: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c), by inserting at the end the following new sentence: “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the… | the bill names no machine-readable US Code section |
@@ -113,13 +115,12 @@ complete account of the bill's effect, which it is not.
 | — | insert | Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by inserting after section 129E (as added by section 602) the following new section (and by amending the table of contents accordingly): | the bill names no machine-readable US Code section |
 | — | insert | Chapter 2 of such Act is further amended by inserting after section 129F (as added by subsection (a)) the following new section (and by amending the table of contents accordingly): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 129 of the Truth in Lending Act (15 U.S.C. 1639) is amended by inserting after subsection (v) (as added by section 303(f)) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by inserting after 129G (as added by section 504) the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by inserting after section 129D (as added by section 501(a)) the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 129D (as added by section 501(c)) the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Section 1101 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331) is amended by inserting “and to provide the Appraisal Subcommittee with a consumer protection mandate” before the period at the end. | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (4) and inserting “;”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (3); and | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 1112(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3341(b)) is amended by inserting before the period the following: “, and that such threshold level provides reasonable protection for … | the bill names no machine-readable US Code section |
 | — | insert | Section 1103(a) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3332(a)) is amended at the end by inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Section 1104(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3333(b)) is amended by inserting “in public session after notice in the Federal Register” after “shall meet”. | the bill names no machine-readable US Code section |
@@ -147,11 +148,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (b)(2), by inserting after “authority” the following: “or sufficient funding”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1122(d) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351(d)) is amended by striking “shall not exclude” and all that follows through the end of the subsection and inserting the following… | the bill names no machine-readable US Code section |
-| — | amend | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by inserting after subsection (g) (as added by subsection (l) of this section) the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351), as amended by this section, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
-| — | amend | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
 | — | amend | in the first sentence, by adding before the period the following: “and the Federal Housing Finance Agency”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: “At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal pr… | the bill names no machine-readable US Code section |
 | — | replace | Section 1119(a)(2) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3348(a)(2)) is amended by striking “council,” and inserting “Council,”. | the bill names no machine-readable US Code section |
