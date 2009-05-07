@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 80
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 80
@@ -39,3 +39,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2009-05-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5199)
 - 2009-05-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5199)
 - 2009-05-07 — Received in the Senate.
+- 2009-05-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S5455-5456)
+- 2009-05-13 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S5455-5456)
+- 2009-05-14 — Message on Senate action sent to the House.
