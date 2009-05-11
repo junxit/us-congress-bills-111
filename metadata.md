@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2187
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2187
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Chandler, Ben [D-KY-6] (C001058)
 
-## Cosponsors (16)
+## Cosponsors (25)
 
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
@@ -34,6 +34,15 @@ version: Introduced in House
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
 
 ## Committees (1)
 
@@ -44,3 +53,8 @@ version: Introduced in House
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Referred to the House Committee on Education and Labor.
+- 2009-05-06 — Committee Consideration and Mark-up Session Held.
+- 2009-05-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 14.
+- 2009-05-11 — Placed on the Union Calendar, Calendar No. 46.
+- 2009-05-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-100.
+- 2009-05-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-100.
