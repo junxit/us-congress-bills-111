@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1385
 
-> To extend Federal recognition to the Chickahominy Indian Tribe, the Chickahominy Indian Tribe-Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, Inc., the Monacan Indian Nation, and the Nansemond Indian Tribe.
+> To extend Federal recognition to the Chickahominy Indian Tribe, the Chickahominy Indian Tribe—Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, Inc., the Monacan Indian Nation, and the Nansemond Indian Tribe.
 
 ## § 1. Short title; table of contents
 
