@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2101
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,14 +35,14 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 137 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 137 of title 10, United States Code, as amended by section 102, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 137 of title 10, United States Code, as amended by section 102, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter, as amended by section 102, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 137 of title 10, United States Code, as amended by section 103, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 137 of title 10, United States Code, as amended by section 103, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter, as amended by section 103, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 139a of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “The Under Secretary”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” before “The Milestone Decision Authority may”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “The milestone decision authority may”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the second sentence and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and inserting after subsection (d) the following new subsection (e): | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -56,4 +56,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), by striking “or (2)(B)” and inserting “or (2)(A)(iii)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or (2)(B)” and inserting “or (2)(A)(iii)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph (2)(A)” and inserting “paragraph (2)(B)”. | the bill names no machine-readable US Code section |
-| — | amend | Subsection (e) of section 813 of the John Warner National Defense Authorization Act (Public Law 109–364; 120 Stat. 2321) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (e) of section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2321) is amended to read as follows: | the bill names no machine-readable US Code section |

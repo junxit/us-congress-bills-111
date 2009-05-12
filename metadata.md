@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2101
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2101
@@ -16,7 +16,7 @@ Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Over
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Cosponsors (12)
+## Cosponsors (23)
 
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
@@ -30,6 +30,17 @@ Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Over
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
 
 ## Committees (1)
 
@@ -40,3 +51,8 @@ Weapons Acquisition System Reform Through Enhancing Technical Knowledge and Over
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Referred to the House Committee on Armed Services.
+- 2009-05-07 — Committee Consideration and Mark-up Session Held.
+- 2009-05-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.
+- 2009-05-12 — Placed on the Union Calendar, Calendar No. 47.
+- 2009-05-12 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-101.
+- 2009-05-12 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-101.
