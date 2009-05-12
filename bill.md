@@ -2,12 +2,12 @@
 legis-num: H. RES. 370
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 370
 
-> Expressing support for designation of April 27, 2009, as “National Healthy Schools Day”.
+> Resolution expressing the support of the House of Representatives for the goals and ideals of National Healthy Schools Day.
 
 ## Preamble
 
@@ -19,11 +19,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas an average of 1 out of every 13 school-age children has asthma, the leading cause of school absenteeism, accounting for approximately 14,700,000 missed school days each year;
 - Whereas the Nation's schools spend approximately $8,000,000,000 a year on energy costs, causing officials to make very difficult decisions on cutting back much needed academic programs in efforts to maintain heat and electricity;
 - Whereas healthy and high performance schools designed to reduce energy and maintenance costs, provide cleaner air, improve lighting, and reduce exposures to toxic substances provide a healthier and safer learning environment for children and improved academic achievement and well-being;
-- Whereas new building construction, especially new school buildings, should be designed to meet energy efficiency standards, including Leadership in Energy and Environmental Design (LEED) standards;
-- Whereas green and healthy schools save on average $100,000 per year on energy costs, enough to hire 2 teachers, buy 200 new computers, or purchase 5,000 new textbooks;
-- Whereas converting all the Nation's schools to green schools would reduce carbon dioxide emissions by 33,200,000 metric tons;
+- Whereas new building construction, especially new school buildings, should be designed to optimize energy efficiency, lower energy costs, and reduce carbon dioxide emissions;
 - Whereas Congress has demonstrated its interest in this compelling issue by including the Healthy High-Performance Schools Program in the No Child Left Behind Act and the Energy Independence and Security Act of 2007;
 - Whereas our schools have the great responsibility of guiding the future of our children and our Nation; and
 - Whereas April 27, 2009, would be an appropriate date to designate as “National Healthy Schools Day”: Now, therefore, be it
 
-That the House of Representatives supports the designation of “National Healthy Schools Day”.
+That the House of Representatives supports the goals and ideals of National Healthy Schools Day.
