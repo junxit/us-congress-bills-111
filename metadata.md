@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 121
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 121
@@ -16,7 +16,7 @@ A resolution designating May 15, 2009, as "Endangered Species Day".
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
@@ -28,6 +28,7 @@ A resolution designating May 15, 2009, as "Endangered Species Day".
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ A resolution designating May 15, 2009, as "Endangered Species Day".
 - 2009-04-30 — Introduced in Senate
 - 2009-04-30 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4977)
 - 2009-04-30 — Sponsor introductory remarks on measure. (CR S4977-4978)
+- 2009-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5394)
+- 2009-05-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5394)
+- 2009-05-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5394)
+- 2009-05-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5394)
