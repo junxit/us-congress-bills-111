@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1728
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1728
@@ -30,9 +30,10 @@ Mortgage Reform and Anti-Predatory Lending Act
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -190,3 +191,4 @@ Mortgage Reform and Anti-Predatory Lending Act
 - 2009-05-07 — The previous question was ordered pursuant to the rule. (consideration: CR H5358)
 - 2009-05-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-05-07 — Weiner amendment (A014) modified by unanimous consent.
+- 2009-05-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

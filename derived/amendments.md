@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1728
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -110,8 +110,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(B)(i), by striking “$500,000” and inserting “$1,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “20 days” and inserting “5 days”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “60 days” and inserting “30 days”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6(g) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g)) is amended by adding at the end the following new sentence: “Any balance in any such account that is within the servicer’s control at the time the loan… | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 6(g) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(g)) is amended by adding at the end the following new sentence: “Any balance in any such account that is within the servicer’s control at the time the loan… | the bill names no machine-readable US Code section |
 | — | insert | Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by inserting after section 129E (as added by section 602) the following new section (and by amending the table of contents accordingly): | the bill names no machine-readable US Code section |
 | — | insert | Chapter 2 of such Act is further amended by inserting after section 129F (as added by subsection (a)) the following new section (and by amending the table of contents accordingly): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 128(b) of the Truth in Lending Act (15 U.S.C. 1638(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -128,9 +128,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | at the end by inserting “Any regulations prescribed by the Appraisal Subcommittee shall (unless otherwise provided in this title) be limited to the following functions: temporary practice, national registry, information sharing, and enfo… | the bill names no machine-readable US Code section |
 | — | replace | by striking “In determining” and inserting “(a) In general.—In determining”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a) (as designated by paragraph (1)), by inserting before the period the following: “, where a complex 1-to-4 unit single family residential appraisal means an appraisal for which the property to be appraised, the form of o… | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.) is amended by adding at the end the following new section (and amending the table of contents accordingly): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1117 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3346) is amended by adding at the end the following: “The duties of such agency may additionally include the registration and supervision… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1121 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3350) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -141,18 +141,18 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by amending the matter following paragraph (4), as redesignated, to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon in paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c), by inserting “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real… | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(2), by inserting after “authority” the following: “or sufficient funding”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1122(d) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351(d)) is amended by striking “shall not exclude” and all that follows through the end of the subsection and inserting the following… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by inserting after subsection (g) (as added by subsection (l) of this section) the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351), as amended by this section, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
-| — | add-at-end | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
+| — | amend | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351), as amended by this section, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
+| — | amend | Title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3331 et seq.), as amended by this section, is further amended by adding at the end the following new section (and amending the table of conte… | the bill names no machine-readable US Code section |
 | — | amend | in the first sentence, by adding before the period the following: “and the Federal Housing Finance Agency”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: “At all times at least one member of the Appraisal Subcommittee shall have demonstrated knowledge and competence through licensure, certification, or professional designation within the appraisal pr… | the bill names no machine-readable US Code section |
 | — | replace | Section 1119(a)(2) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3348(a)(2)) is amended by striking “council,” and inserting “Council,”. | the bill names no machine-readable US Code section |
