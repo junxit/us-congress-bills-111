@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1178
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1178
@@ -47,10 +47,11 @@ To direct the Comptroller General of the United States to conduct a study on the
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ To direct the Comptroller General of the United States to conduct a study on the
 - 2009-05-12 — Mr. Walz moved to suspend the rules and pass the bill, as amended.
 - 2009-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5428)
 - 2009-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5428)
+- 2009-05-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
