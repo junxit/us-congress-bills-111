@@ -1,7 +1,7 @@
 ---
 measure: S. 454
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 454
@@ -46,9 +46,10 @@ Weapon Systems Acquisition Reform Act of 2009
 
 - Senate — Armed Services Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2009-05-07 — [Senate 111-1-186](votes/senate-111-1-0186.md) — On Passage of the Bill — **Bill Passed** (93–0)
+- 2009-05-13 — [House 111-1-254](votes/house-111-1-0254.md) — Authorizing Conferees to Close Meetings — **Passed** (409–11)
 
 ## Actions
 
@@ -130,3 +131,14 @@ Weapon Systems Acquisition Reform Act of 2009
 - 2009-05-07 — Senate amendment proposed (on the floor): Amendment SA 1057 proposed by Senator McCain for Senator Coburn.(consideration: CR S5256; text: CR S5256)
 - 2009-05-07 — Senate amendment submitted
 - 2009-05-07 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2009-05-13 — Consideration initiated pursuant to H.Res. 432.
+- 2009-05-13 — Considered pursuant to H.Res. 432. (consideration: CR H5539-5549, H5549-5550; text of measure as received in House: CR H5539-5549)
+- 2009-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-13 — Mr. Skelton moved that the House authorize conferees to close meetings. (consideration: CR H5550)
+- 2009-05-13 — On motion that the House insist upon its amendment, and request a conference Agreed to without objection.
+- 2009-05-13 — On motion to authorize conferees to close meetings Agreed to by the Yeas and Nays: 409 - 11 (Roll no. 254).
+- 2009-05-13 — On passage Passed pursuant to H. Res. 432.
+- 2009-05-13 — Passed/agreed to in House: On passage Passed pursuant to H. Res. 432.
+- 2009-05-13 — Pursuant to H. Res. 432, the House insisted on its amendment and requested a conference. (consideration: CR H5549-5550)
+- 2009-05-13 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 2101 pursuant to H. Res. 432.
+- 2009-05-13 — The Speaker appointed conferees: Skelton, Spratt, Ortiz, Taylor, Abercrombie, Reyes, Snyder, Smith (WA), Sanchez, Loretta, McIntyre, Tauscher, Brady (PA), Andrews, Davis (CA), Langevin, Cooper, Ellsworth, Sestak, McHugh, Bartlett, McKeon, Thornberry, Jones, Akin, Forbes, Miller (FL), Wilson (SC), Conaway, Hunter, and Coffman (CO).

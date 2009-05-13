@@ -1,7 +1,7 @@
 ---
 measure: S. 454
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 0 executed, 36 stated and not applied.
+26 amendatory instructions. 0 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,39 +31,29 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 4 of title 10, United States Code, is amended by inserting after section 139b the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 4 of such title is amended by inserting after the item relating to section 139b the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 196(f) of title 10, United States Code, is amended by striking “the Under Secretary of Defense for Acquisition, Technology, and Logistics” and all that follows and inserting “the Under Secretary of Defense for Acquisition, Techno… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (3) the following new paragraph (4): | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 4 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 137 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 137 of title 10, United States Code, as amended by section 102, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter, as amended by section 102, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 137 of title 10, United States Code, as amended by section 103, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter, as amended by section 103, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 139a of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 4 of title 10, United States Code, as amended by section 102 of this Act, is further amended by inserting after section 139c the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 4 of such title, as so amended, is further amended by inserting after the item relating to section 139c the following new item: | the bill names no machine-readable US Code section |
-| — | insert | Section 5315 of title 5, United States Code, is amended by inserting after the item relating to the Director of Operational Test and Evaluation, Department of Defense the following new item: | the bill names no machine-readable US Code section |
-| — | insert | Section 181(d) of title 10, United States Code, is amended by inserting “the Director of Independent Cost Assessment,” before “and the Director”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2306b(i)(1)(B) of such title is amended by striking “Cost Analysis Improvement Group of the Department of Defense” and inserting “Director of Independent Cost Assessment”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2366a(a)(4) of such title is amended by striking “has been submitted” and inserting “has been approved by the Director of Independent Cost Assessment”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2366b(a)(1)(C) of such title is amended by striking “have been developed to execute” and inserting “have been approved by the Director of Independent Cost Assessment to provide for the execution of”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2433(e)(2)(B)(iii) of such title is amended by striking “are reasonable” and inserting “have been determined by the Director of Independent Cost Assessment to be reasonable”. | the bill names no machine-readable US Code section |
-| — | amend | Subparagraph (A) of section 2434(b)(1) of such title is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 2445c(f)(3) of such title is amended by striking “are reasonable” and inserting “have been determined by the Director of Independent Cost Assessment to be reasonable”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively; and | the bill names no machine-readable US Code section |
-| — | amend | by adding after subsection (d) the following new subsection (e): | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph (B): | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 2366b(a)(1)(B) of title 10, United States Code, is amended by inserting “appropriate trade-offs between cost, schedule, and performance have been made to ensure that” before “the program is affordable”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “The Under Secretary”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “The milestone decision authority may”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the second sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively, and inserting after subsection (d) the following new subsection (e): | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph (2): | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the semicolon and inserting “, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Director of Defense Research and Engineering; and”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (E); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (F) as subparagraph (E). | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (C) as subparagraph (E); | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraphs (B), (C), and (D): | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (2) of section 2433(e) of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 2430(a)(2) of such title is amended by inserting “, including all planned increments or spirals,” after “an eventual total expenditure for procurement”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (a) of section 2501 of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “or (2)(B)” and inserting “or (2)(A)(iii)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or (2)(B)” and inserting “or (2)(A)(iii)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2)(A)” and inserting “paragraph (2)(B)”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (e) of section 813 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2321) is amended to read as follows: | the bill names no machine-readable US Code section |
