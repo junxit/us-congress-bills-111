@@ -1,7 +1,7 @@
 ---
 measure: S. 454
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 454
@@ -46,10 +46,12 @@ Weapon Systems Acquisition Reform Act of 2009
 
 - Senate — Armed Services Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2009-05-07 — [Senate 111-1-186](votes/senate-111-1-0186.md) — On Passage of the Bill — **Bill Passed** (93–0)
 - 2009-05-13 — [House 111-1-254](votes/house-111-1-0254.md) — Authorizing Conferees to Close Meetings — **Passed** (409–11)
+- 2009-05-20 — [Senate 111-1-197](votes/senate-111-1-0197.md) — On the Conference Report — **Conference Report Agreed to** (95–0)
+- 2009-05-21 — [House 111-1-286](votes/house-111-1-0286.md) — On Agreeing to the Conference Report — **Passed** (411–0)
 
 ## Actions
 
@@ -142,3 +144,28 @@ Weapon Systems Acquisition Reform Act of 2009
 - 2009-05-13 — Pursuant to H. Res. 432, the House insisted on its amendment and requested a conference. (consideration: CR H5549-5550)
 - 2009-05-13 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 2101 pursuant to H. Res. 432.
 - 2009-05-13 — The Speaker appointed conferees: Skelton, Spratt, Ortiz, Taylor, Abercrombie, Reyes, Snyder, Smith (WA), Sanchez, Loretta, McIntyre, Tauscher, Brady (PA), Andrews, Davis (CA), Langevin, Cooper, Ellsworth, Sestak, McHugh, Bartlett, McKeon, Thornberry, Jones, Akin, Forbes, Miller (FL), Wilson (SC), Conaway, Hunter, and Coffman (CO).
+- 2009-05-14 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2009-05-14 — Senate disagreed to House amendment, agreed to request for conference, and appointed conferees. Levin; Kennedy; Byrd; Lieberman; Reed; Akaka; Nelson FL; Nelson NE; Bayh; Webb; McCaskill; Udall CO; Hagan; Begich; Burris; McCain; Inhofe; Sessions; Chambliss; Graham; Thune; Martinez; Wicker; Burr; Vitter; Collins. (consideration: CR S5495-5496)
+- 2009-05-15 — Message on Senate action sent to the House.
+- 2009-05-19 — Conferees agreed to file conference report.
+- 2009-05-19 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-05-20 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2009-05-20 — Conference report H. Rept. 111-124 filed. (text of conference report: CR H5795-5805)
+- 2009-05-20 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 95 - 0. Record Vote Number: 197.
+- 2009-05-20 — Conference report considered in Senate. (consideration: CR S5683-5685)
+- 2009-05-20 — Conference report filed: Conference report H. Rept. 111-124 filed.(text of conference report: CR H5795-5805)
+- 2009-05-20 — Message on Senate action sent to the House.
+- 2009-05-20 — Senate agreed to conference report by Yea-Nay Vote. 95 - 0. Record Vote Number: 197.
+- 2009-05-21 — Cleared for White House.
+- 2009-05-21 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 411 - 0 (Roll no. 286).(consideration: CR H5912)
+- 2009-05-21 — DEBATE - The House proceeded with 1 hour of debate on the conference report to accompany S. 454.
+- 2009-05-21 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-05-21 — Mr. Skelton brought up conference report H. Rept. 111-124 for consideration under the provisions of H. Res. 463. (consideration: CR H5907-5912)
+- 2009-05-21 — On agreeing to the conference report Agreed to by the Yeas and Nays: 411 - 0 (Roll no. 286). (consideration: CR H5912)
+- 2009-05-21 — Presented to President.
+- 2009-05-21 — Presented to President.
+- 2009-05-21 — The previous question was ordered pursuant to the rule. (consideration: CR H5912)
+- 2009-05-22 — Became Public Law No: 111-23.
+- 2009-05-22 — Became Public Law No: 111-23.
+- 2009-05-22 — Signed by President.
+- 2009-05-22 — Signed by President.
