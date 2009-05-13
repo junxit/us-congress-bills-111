@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2020
 congress: 111
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -52,7 +52,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Title I of such Act (15 U.S.C. 5511) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 3, the following new section: | the bill names no machine-readable US Code section |
 | — | amend | Section 102 of such Act (15 U.S.C. 5512) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |

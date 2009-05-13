@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2020
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2020
@@ -29,9 +29,10 @@ Networking and Information Technology Research and Development Act of 2009
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Networking and Information Technology Research and Development Act of 2009
 - 2009-05-12 — Placed on the Union Calendar, Calendar No. 48.
 - 2009-05-12 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-102.
 - 2009-05-12 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-102.
+- 2009-05-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

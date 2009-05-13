@@ -2,7 +2,7 @@
 legis-num: H.R. 2020
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2020
@@ -82,7 +82,7 @@ Title I of such Act (15 U.S.C. 5511) is amended by adding at the end the followi
 >     - **(B)** involve collaborations among researchers in institutions of higher education and industry, and may involve nonprofit research institutions and Federal laboratories, as appropriate;
 >     - **(C)** when possible, leverage Federal investments through collaboration with related State initiatives; and
 >     - **(D)** include a plan for fostering the transfer of research discoveries and the results of technology demonstration activities, including from institutions of higher education and Federal laboratories, to industry for commercial development.
->   - **(2)** *Cost-sharing* In selecting applications for support, the agencies shall give special consideration to projects that include cost-sharing from non-Federal sources.
+>   - **(2)** *Cost-sharing* In selecting applications for support, the agencies shall give special consideration to projects that include cost sharing from non-Federal sources.
 >   - **(3)** *Agency collaboration* If 2 or more agencies identified in section 101(a)(3)(B), or other appropriate agencies, are working on large-scale research and development activities in the same area of national importance, then such agencies shall strive to collaborate through joint solicitation and selection of applications for support and subsequent funding of projects.
 >   - **(4)** *Interdisciplinary research centers* Research and development activities under this section may be supported through interdisciplinary research centers that are organized to investigate basic research questions and carry out technology demonstration activities in areas described in subsection (a). Research may be carried out through existing interdisciplinary centers, including those authorized under section 7024(b)(2) of the America COMPETES Act (Public Law 110–69; 42 U.S.C. 1862o–10).
 
