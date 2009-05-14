@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 84
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 84
@@ -96,9 +96,10 @@ Supporting the goals and objectives of a National Military Appreciation Month.
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -119,3 +120,4 @@ Supporting the goals and objectives of a National Military Appreciation Month.
 - 2009-05-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-05-13 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 247). (text: CR 5/12/2009 H5434)
 - 2009-05-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 247).(text: CR 5/12/2009 H5434)
+- 2009-05-14 — Received in the Senate and referred to the Committee on the Judiciary.
