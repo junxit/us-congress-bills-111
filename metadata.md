@@ -1,0 +1,27 @@
+---
+measure: H.Res. 446
+congress: 111
+version: Introduced in House
+---
+
+# H.Res. 446
+
+Of inquiry requesting the President and directing the Administrator of the Environmental Protection Agency and the Director of the Office of Management and Budget to provide certain documents to the House of Representatives relating to the Environmental Protection Agency's April proposed finding that greenhouse gas emissions are a danger to public health and welfare.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2009-05-14 — Introduced in House
+- 2009-05-14 — Introduced in House
+- 2009-05-14 — Referred to the House Committee on Energy and Commerce.
