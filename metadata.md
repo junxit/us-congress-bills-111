@@ -1,7 +1,7 @@
 ---
 measure: S. 386
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 386
@@ -88,7 +88,7 @@ FERA
 
 - Senate — Judiciary Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2009-04-22 — [Senate 111-1-160](votes/senate-111-1-0160.md) — On the Amendment — **Amendment Agreed to** (94–1)
 - 2009-04-22 — [Senate 111-1-161](votes/senate-111-1-0161.md) — On the Amendment — **Amendment Agreed to** (92–4)
@@ -96,6 +96,7 @@ FERA
 - 2009-04-27 — [Senate 111-1-170](votes/senate-111-1-0170.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–4)
 - 2009-04-28 — [Senate 111-1-171](votes/senate-111-1-0171.md) — On Passage of the Bill — **Bill Passed** (92–4)
 - 2009-05-06 — [House 111-1-235](votes/house-111-1-0235.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (367–59)
+- 2009-05-18 — [House 111-1-268](votes/house-111-1-0268.md) — Suspend Rules and Agree to S Adt to House Adts — **Passed** (338–52)
 
 ## Actions
 
@@ -256,3 +257,17 @@ FERA
 - 2009-05-14 — Senate amendment submitted
 - 2009-05-14 — Senate concurred in House amendment with an amendment (SA 1128) by Unanimous Consent. (consideration: CR S5494-5495)
 - 2009-05-14 — Senate concurred in the House amendment to the title by Unanimous Consent.
+- 2009-05-15 — Message on Senate action sent to the House.
+- 2009-05-18 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burgess objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn. (consideration: CR H5688)
+- 2009-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 386.
+- 2009-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-18 — Mr. Scott (VA) moved that the House suspend the rules and agree to the Senate amendment to the House amendments. (consideration: CR H5686-5688, S5689)
+- 2009-05-18 — On motion that the House suspend the rules and agree to the Senate amendment to the House amendments Agreed to by the Yeas and Nays: (2/3 required): 338 - 52 (Roll no. 268). (text as House agreed to Senate amendment: CR H5686)
+- 2009-05-18 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendments Agreed to by the Yeas and Nays: (2/3 required): 338 - 52 (Roll no. 268).(text as House agreed to Senate amendment: CR H5686)
+- 2009-05-19 — Cleared for White House.
+- 2009-05-19 — Presented to President.
+- 2009-05-19 — Presented to President.
+- 2009-05-20 — Became Public Law No: 111-21.
+- 2009-05-20 — Became Public Law No: 111-21.
+- 2009-05-20 — Signed by President.
+- 2009-05-20 — Signed by President.
