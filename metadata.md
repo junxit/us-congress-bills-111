@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1170
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1170
@@ -29,3 +29,10 @@ To amend chapter 21 of title 38, United States Code, to establish a grant progra
 - 2009-02-25 — Introduced in House
 - 2009-02-25 — Introduced in House
 - 2009-02-25 — Referred to the House Committee on Veterans' Affairs.
+- 2009-02-27 — Referred to the Subcommittee on Economic Opportunity.
+- 2009-05-01 — Subcommittee on Economic Opportunity Discharged.
+- 2009-05-06 — Committee Consideration and Mark-up Session Held.
+- 2009-05-06 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-05-14 — Placed on the Union Calendar, Calendar No. 53.
+- 2009-05-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-109.
+- 2009-05-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-109.
