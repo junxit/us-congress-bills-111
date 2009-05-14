@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2162
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2162
@@ -20,9 +20,10 @@ To designate the facility of the United States Postal Service located at 123 11t
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 123 11t
 - 2009-05-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-05-13 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 248). (text: CR 5/12/2009 H5438)
 - 2009-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 248).(text: CR 5/12/2009 H5438)
+- 2009-05-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
