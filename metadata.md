@@ -1,7 +1,7 @@
 ---
 measure: S. 386
 congress: 111
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # S. 386
@@ -16,7 +16,7 @@ FERA
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (64)
+## Cosponsors (65)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Kaufman, Edward E. [D-DE] (K000373)
@@ -59,6 +59,7 @@ FERA
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -246,3 +247,12 @@ FERA
 - 2009-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 59, 1 Present (Roll no. 235). (text: CR H5260-5264)
 - 2009-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 59, 1 Present (Roll no. 235).(text: CR H5260-5264)
 - 2009-05-06 — The title of the measure was amended. Agreed to without objection.
+- 2009-05-14 — Amendment SA 1128 agreed to in Senate by Unanimous Consent.
+- 2009-05-14 — Amendment SA 1128 proposed by Senator Reid for Senator McConnell. (consideration: CR S5495; text: CR S5495) To modify the provision relating to the issuance of subpoenas.
+- 2009-05-14 — Resolving differences -- Senate actions: Senate concurred in House amendment with an amendment (SA 1128) by Unanimous Consent.(consideration: CR S5494-5495)
+- 2009-05-14 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the title by Unanimous Consent.
+- 2009-05-14 — Senate amendment agreed to: Amendment SA 1128 agreed to in Senate by Unanimous Consent.
+- 2009-05-14 — Senate amendment proposed (on the floor): Amendment SA 1128 proposed by Senator Reid for Senator McConnell.(consideration: CR S5495; text: CR S5495)
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate concurred in House amendment with an amendment (SA 1128) by Unanimous Consent. (consideration: CR S5494-5495)
+- 2009-05-14 — Senate concurred in the House amendment to the title by Unanimous Consent.
