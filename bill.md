@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Veterans Employment Rights Realignment Act of 2009”.
 
-## § 2. Enforcement through Office of Special Counsel of veterans’ employment or unemployment rights with respect to employers that are Federal executive agencies
+## § 2. Enforcement through Office of Special Counsel of veterans’ employment or reemployment rights with respect to employers that are Federal executive agencies
 
 - **(a)** *Enforcement of rights through Office of Special Counsel* Section 4322 of title 38, United States Code, is amended—
   - **(1)** by striking subsection (a) and inserting the following new subsection (a):
@@ -44,10 +44,10 @@ This Act may be cited as the “Veterans Employment Rights Realignment Act of 20
     >     - **(B)** the complainant’s entitlement to proceed under the enforcement of rights provisions provided under section 4324.
 
 - **(b)** *Technical and conforming amendments* Such title is further amended—
-  - **(1)** in section 4322(b), by striking “Such a complaint” and inserting “Each complaint filed under subsection (a)”;
+  - **(1)** in section 4322(b), by striking “Such complaint” and inserting “Each complaint filed under subsection (a)”;
   - **(2)** in section 4323(a)—
     - **(A)** in paragraph (1), by striking “section 4322(e)” and inserting “section 4322(d)(2)”; and
-    - **(B)** in paragraph (2)(A), by striking “section 4322(a) ” and inserting “section 4322(a)(1)”.
+    - **(B)** in paragraph (3)(A), by striking “section 4322(a) ” and inserting “section 4322(a)(1)”;
   - **(3)** in section 4324—
     - **(A)** in subsection (a)(1)—
       - **(i)** in the first sentence, by striking “Secretary” each place it appears and inserting “Special Counsel”;
@@ -59,7 +59,10 @@ This Act may be cited as the “Veterans Employment Rights Realignment Act of 20
         - **(II)** by striking “section 4322(a)” and inserting “section 4322(a)(2) of this title”; and
       - **(ii)** in paragraph (2)—
         - **(I)** by striking “Secretary” and inserting “Special Counsel”; and
-        - **(II)** by striking “section 4322(e)” and inserting “section 4322(e)(2) of this title”; and
-  - **(4)** in section 4325(c), by striking “section 4322(d)” and inserting “section 4322(d)(1)”.
+        - **(II)** by striking “section 4322(e)” and inserting “section 4322(e)(2) of this title”;
+  - **(4)** in section 4325(c), by striking “section 4322(d)” and inserting “section 4322(d)(1)”; and
+  - **(5)** in section 4326—
+    - **(A)** in subsection (a), by inserting “or the Special Counsel’s” after “Secretary’s”; and
+    - **(B)** by striking “Secretary” each place it appears and inserting “Secretary or the Special Counsel”.
 - **(c)** *Conforming repeal* The Veterans Benefits Improvement Act of 2004 (Public Law 108–454) is amended by striking section 204.
 - **(d)** *Effective date* The amendments made by this section shall apply with respect to complaints filed on or after the date of the enactment of this Act.
