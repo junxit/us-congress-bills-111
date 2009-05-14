@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 2443
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2443
+
+> To amend title XVIII of the Social Security Act to preserve access to ambulance services under the Medicare Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicare Ambulance Access Preservation Act of 2009”.
+
+## § 2. Permanent retention to access to ground ambulance services in rural and urban areas under the Medicare program
+
+Section 1834(l)(13) of the Social Security Act (42 U.S.C. 1395m(l)(13)) is amended—
+
+- **(1)** in the heading, by striking “Temporary”; and
+- **(2)** in subparagraph (A)—
+  - **(A)** in the matter preceding clause (i), by striking “and before January 1, 2010”;
+  - **(B)** in clause (i), by inserting “, or 6 percent if such service is furnished on or after January 1, 2010” after “2010”; and
+  - **(C)** in clause (ii), by inserting “, or 6 percent if such service is furnished on or after January 1, 2010” after “2010”; and
+- **(3)** in subparagraph (B), by adding at the end the following new sentence: “The preceding sentence shall not apply to payments for services furnished on or after January 1, 2010.”
+
+## § 3. Permanent retention to access to ambulance services in super rural areas under the Medicare program
+
+Section 1834(l)(12)(A) of the Social Security Act (42 U.S.C. 1395m(l)(12)(A)) is amended by striking “and before January 1, 2010,”.
