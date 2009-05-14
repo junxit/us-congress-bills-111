@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 2449
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2449
+
+> To amend title 18, United States Code, to prohibit fraud and related activity in connection with purchases of certain wireless prepaid access devices.
+
+## § 1. Short title
+
+This Act may be cited as the “Wireless Prepaid Access Device Enforcement Act of 2009”.
+
+## § 2. Enforcement
+
+Section 1029 of title 18, United States Code, is amended as follows:
+
+- **(1)** Subsection (a) is amended—
+  - **(A)** in paragraph (9), by striking “or” after the semicolon;
+  - **(B)** in paragraph (10), by inserting “or” after the semicolon; and
+  - **(C)** by adding at the end the following:
+    > - **(11)**
+    >   - **(A)** knowingly purchases and/or handles one or more wireless prepaid access devices for the purpose of, or as part of a scheme involving, modifying, removing, avoiding or overwriting installed software which is designed to cause any such device to operate as a wireless prepaid access device on the wireless network or networks for which such device was sold, unless such purchase or handling is authorized by the wireless service provider or device manufacturer; or
+    >   - **(B)** knowingly engages in the unauthorized resale or redistribution outside of the United States of any wireless prepaid access device that is sold to be used on a wireless network within the United States, whether or not the applicable software has been modified, removed, avoided or overwritten, whether individually or as part of a scheme;
+
+- **(2)** Subsection (c)(1)(A)(i) is amended by striking “or (10)” and inserting “(10), or (11)”.
+- **(3)** Subsection (e) is amended—
+  - **(A)** in paragraph (10), by striking “and” after the semicolon;
+  - **(B)** paragraph (11), by striking the period and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(12)** the term “wireless prepaid access device” means any access device that is marketed or made available for sale for use with prepaid or pay in advance commercial mobile radio service as defined in 47 C.F.R. 20.3, but does not include installed-in-vehicle access devices used in connection with an emergency communications system.
