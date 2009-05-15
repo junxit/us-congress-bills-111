@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2352
@@ -42,3 +42,8 @@ Job Creation Through Entrepreneurship Act of 2009
 - 2009-05-12 — Introduced in House
 - 2009-05-12 — Introduced in House
 - 2009-05-12 — Referred to the House Committee on Small Business.
+- 2009-05-13 — Committee Consideration and Mark-up Session Held.
+- 2009-05-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-05-15 — Placed on the Union Calendar, Calendar No. 56.
+- 2009-05-15 — Reported (Amended) by the Committee on Small Business. H. Rept. 111-112.
+- 2009-05-15 — Reported (Amended) by the Committee on Small Business. H. Rept. 111-112.
