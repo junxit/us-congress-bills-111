@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1209
@@ -340,3 +340,15 @@ Medal of Honor Commemorative Coin Act of 2009
 - 2009-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 5/13/2009 H5531-5532)
 - 2009-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 5/13/2009 H5531-5532)
 - 2009-05-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2009-10-22 — Cleared for White House.
+- 2009-10-22 — Passed Senate without amendment by Unanimous Consent.
+- 2009-10-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2009-10-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S10708)
+- 2009-10-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S10708)
+- 2009-10-23 — Message on Senate action sent to the House.
+- 2009-10-29 — Presented to President.
+- 2009-10-29 — Presented to President.
+- 2009-11-06 — Became Public Law No: 111-91.
+- 2009-11-06 — Became Public Law No: 111-91.
+- 2009-11-06 — Signed by President.
+- 2009-11-06 — Signed by President.
