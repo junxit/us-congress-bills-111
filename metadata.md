@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1209
@@ -321,9 +321,10 @@ Medal of Honor Commemorative Coin Act of 2009
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -338,3 +339,4 @@ Medal of Honor Commemorative Coin Act of 2009
 - 2009-05-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 5/13/2009 H5531-5532)
 - 2009-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 5/13/2009 H5531-5532)
+- 2009-05-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
