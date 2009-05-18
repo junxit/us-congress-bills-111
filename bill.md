@@ -2,7 +2,7 @@
 legis-num: H. RES. 386
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 386
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas the University of Georgia (UGA) Gymnastics program has won its 10th National Collegiate Women’s Gymnastics Championship;
 - Whereas the University of Georgia Gymnastics program has won 16 SEC Championships;
-- Whereas the University of Georgia Gymnastics program has produced seven Honda Award winners, with Courtney Kupets under consideration as a finalist for the 2009 award;
+- Whereas the University of Georgia Gymnastic program has produced 8 Honda Award winners;
 - Whereas the 2009 national title is the program’s fifth consecutive national championship;
 - Whereas the Gym Dogs are now the most successful gymnastics program in the country;
 - Whereas the University of Georgia’s gymnastics team, the Gym Dogs, has made 26 consecutive appearances in the NCAA Gymnastics Championships;
