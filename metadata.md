@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 438
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 438
@@ -98,3 +98,9 @@ Expressing support for designation of September as "National Child Awareness Mon
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Referred to the House Committee on Education and Labor.
+- 2009-05-18 — Considered under suspension of the rules. (consideration: CR H5685-5686)
+- 2009-05-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 438.
+- 2009-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-18 — Mr. Tonko moved to suspend the rules and agree to the resolution.
+- 2009-05-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5685)
+- 2009-05-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5685)
