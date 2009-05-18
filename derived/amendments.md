@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2182
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “(a) Federal agency requirement.—” before “Federal agencies receiving”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “may,” and all that follows through “reasonably” and inserting “shall, subject to guidance from the Director of the Office of Management and Budget,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “data collection requirements” and inserting “data collection requirements, auditing, contract and grant planning and management, and investigations of waste, fraud, and abuse”. | the bill names no machine-readable US Code section |
-| — | amend | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | The heading for section 1552 of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1512(g) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by adding at the end “The Director of the Office of Management and Budget shall issue guidance to ensure accurate and cons… | the bill names no machine-readable US Code section |
