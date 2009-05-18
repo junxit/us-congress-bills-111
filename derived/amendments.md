@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 12(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Coch… | the bill names no machine-readable US Code section |
-| — | replace | Section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 1530… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 1530… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, the Board of Governors of… | the bill names no machine-readable US Code section |
 | — | strike | by striking “the Board of Governors of the Federal Reserve System,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “the Commodity Futures Trading Commission,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “the National Credit Union Administration,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission,”. | the bill names no machine-readable US Code section |
+| — | insert | The Inspector General Act of 1978 (5 U.S.C. App.) is amended by inserting after section 8L the following: | the bill names no machine-readable US Code section |
+| — | repeal | Paragraph (3) of section 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) is repealed. | the bill names no machine-readable US Code section |

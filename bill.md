@@ -9,23 +9,49 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To elevate the Inspector General of certain Federal entities to an Inspector General appointed pursuant to section 3 of the Inspector General Act of 1978.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Improved Financial and Commodity Markets Oversight and Accountability Act”.
+- **(a)** *Short title* This Act may be cited as the “Improved Financial and Commodity Markets Oversight and Accountability Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Elevation of certain Inspectors General to appointment pursuant to section 3 of the Inspector General Act of 1978
 
-- **(a)** *Elevation of office*
-  - **(1)** *Inclusion of certain Federal entities in definition of establishment*
-    - **(A)** Section 12(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Chairman of the Board of Governors of the Federal Reserve System; the Chairman of the Commodity Futures Trading Commission; the Chairman of the National Credit Union Administration; the Director of the Pension Benefit Guaranty Corporation; or the Chairman of the Securities and Exchange Commission;”.
-    - **(B)** Section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission,”.
-  - **(2)** *Exclusion of certain Federal entities from definition of designated federal entity* Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
-    - **(A)** by striking “the Board of Governors of the Federal Reserve System,”;
-    - **(B)** by striking “the Commodity Futures Trading Commission,”;
-    - **(C)** by striking “the National Credit Union Administration,”; and
-    - **(D)** by striking “the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission,”.
-- **(b)** *Effective date; transition rule*
-  - **(1)** *Effective date* The amendments made by this section shall take effect 30 days after the date of enactment of this Act.
-  - **(2)** *Transition rule* An individual serving as Inspector General of the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission on the effective date of this section pursuant to an appointment made under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)—
-    - **(A)** may continue so serving until the President makes an appointment under section 3(a) of such Act consistent with the amendments made by this section; and
-    - **(B)** shall, while serving under subparagraph (A), remain subject to the provisions of section 8G of such Act which apply with respect to the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission, as the case may be.
+- **(a)** *Inclusion in certain definitions* Section 12 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+  - **(1)** in paragraph (1), by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Chairman of the Board of Governors of the Federal Reserve System; the Chairman of the Commodity Futures Trading Commission; the Chairman of the National Credit Union Administration; the Director of the Pension Benefit Guaranty Corporation; or the Chairman of the Securities and Exchange Commission;”; and
+  - **(2)** in paragraph (2), by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission,”.
+- **(b)** *Exclusion from definition of designated Federal entity* Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+  - **(1)** by striking “the Board of Governors of the Federal Reserve System,”;
+  - **(2)** by striking “the Commodity Futures Trading Commission,”;
+  - **(3)** by striking “the National Credit Union Administration,”; and
+  - **(4)** by striking “the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission,”.
+
+## § 3. Continuation of provisions relating to personnel
+
+- **(a)** *In general* The Inspector General Act of 1978 (5 U.S.C. App.) is amended by inserting after section 8L the following:
+  > ## § 8M. Special provisions concerning certain establishments
+  >
+  > - **(a)** *Definition* For purposes of this section, the term covered establishment means the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, and the Securities and Exchange Commission.
+  > - **(b)** *Provisions relating to all covered establishments*
+  >   - **(1)** *Provisions relating to Inspectors General* In the case of the Inspector General of a covered establishment, subsections (b) and (c) of section 4 of the Inspector General Reform Act of 2008 (Public Law 110–409) shall apply in the same manner as if such covered establishment were a designated Federal entity under section 8G. An Inspector General who is subject to the preceding sentence shall not be subject to section 3(e).
+  >   - **(2)** *Provisions relating to other personnel* Notwithstanding paragraphs (7) and (8) of section 6(a), the Inspector General of a covered establishment may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General of such establishment and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within such establishment.
+  > - **(c)** *Provision relating to the Board of Governors of the Federal Reserve System* The provisions of subsection (a) of section 8D (other than the provisions of subparagraphs (A), (B), (C), and (E) of paragraph (1) of such subsection (a)) shall apply to the Inspector General of the Board of Governors of the Federal Reserve System and the Chairman of the Board of Governors of the Federal Reserve System in the same manner as such provisions apply to the Inspector General of the Department of the Treasury and the Secretary of the Treasury, respectively.
+
+- **(b)** *Conforming amendment* Paragraph (3) of section 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) is repealed.
+
+## § 4. Subpoena authority of certain Inspectors General
+
+The Inspector General of the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission, in carrying out the provisions of the Inspector General Act of 1978 (5 U.S.C. App), is authorized to require by subpoena, from any officer or employee of a contractor or grantee of the establishment, any officer or employee of a subcontractor or subgrantee of such a contractor or grantee, or any person or entity regulated by the establishment, any records and testimony necessary in the performance of functions assigned to the Inspector General under such Act. Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of any appropriate United States district court.
+
+## § 5. Corrective responses by heads of certain establishments to deficiencies identified by Inspectors General
+
+The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
+
+- **(1)** take action to address deficiencies identified by a report or investigation of the Inspector General of the establishment concerned; or
+- **(2)** certify to both Houses of Congress that no action is necessary or appropriate in connection with a deficiency described in paragraph (1).
+
+## § 6. Effective date; transition rule
+
+- **(a)** *Effective date* This Act and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act.
+- **(b)** *Transition rule* An individual serving as Inspector General of the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission on the effective date of this Act pursuant to an appointment made under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)—
+  - **(1)** may continue so serving until the President makes an appointment under section 3(a) of such Act with respect to the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission, as the case may be, consistent with the amendments made by section 2; and
+  - **(2)** shall, while serving under paragraph (1), remain subject to the provisions of section 8G of such Act which, immediately before the effective date of this Act, applied with respect to the Inspector General of the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission, as the case may be, and suffer no reduction in pay.
