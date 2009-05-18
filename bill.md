@@ -2,7 +2,7 @@
 legis-num: H. RES. 300
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 300
@@ -24,10 +24,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Camp Dudley expanded its reach by welcoming Camp Kiniya for girls into its family in 2006;
 - Whereas Camp Dudley welcomes a diverse camper body of boys of all faiths into their community;
 - Whereas Camp Dudley is committed to making camp affordable for all socioeconomic levels;
-- Whereas Camp Dudley has a strong scholarship program, in which approximately 20 percent of summer campers are awarded scholarships on the basis of financial need, and are funded from generous alumni and parents support;
+- Whereas Camp Dudley offers the Dr. William J. Schmidt Memorial Scholarship program, in which approximately 20 percent of summer campers are awarded scholarships on the basis of financial need, and are funded from generous alumni and parents support;
 - Whereas Camp Dudley’s current and former campers and staff have made significant differences in their own communities and families;
-- Whereas campers representing 35 States and 12 foreign countries have spent their summers at Camp Dudley and has a camper return rate of 84 percent;
-- Whereas Camp Dudley alumni include Burgess Meredith, Bob Pettit, C. Roland Stichweh, Ink Clark, Pete Willmott, Paul Grinwis, Charlie Johnson, John Harbison, Robert Appleyard, Gerald La Grange, Johnny Jones, Tom Hale, and many others; and
+- Whereas campers representing 35 States and 12 foreign countries have spent their summers at Camp Dudley and has a camper return rate of 84 percent; and
 - Whereas one of the unique characteristics of Camp Dudley is the loyalty and support of its alumni both through financial support and attendance at the more than 47 alumni gatherings occurring each year across the country and around the world: Now, therefore, be it
 
 That the House of Representatives—
