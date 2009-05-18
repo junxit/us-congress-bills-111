@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2187
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2187
@@ -44,9 +44,10 @@ version: Engrossed in House
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (9)
 
@@ -215,3 +216,4 @@ version: Engrossed in House
 - 2009-05-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5592)
 - 2009-05-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5591)
 - 2009-05-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments to H.R. 2187 which had been debated earlier and on which further proceedings had been postponed.
+- 2009-05-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
