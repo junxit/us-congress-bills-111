@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 347
@@ -316,10 +316,11 @@ To grant the congressional gold medal, collectively, to the 100th Infantry Batta
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -341,3 +342,4 @@ To grant the congressional gold medal, collectively, to the 100th Infantry Batta
 - 2009-05-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 266). (text: CR 5/13/2009 H5534-5535)
 - 2009-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 266).(text: CR 5/13/2009 H5534-5535)
+- 2009-05-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
