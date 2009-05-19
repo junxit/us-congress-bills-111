@@ -1,7 +1,7 @@
 ---
 measure: S. 896
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 896
@@ -67,7 +67,7 @@ Helping Families Save Their Homes Act of 2009
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Recorded votes (11)
+## Recorded votes (12)
 
 - 2009-04-30 — [Senate 111-1-174](votes/senate-111-1-0174.md) — On the Amendment — **Amendment Rejected** (45–51)
 - 2009-05-04 — [Senate 111-1-176](votes/senate-111-1-0176.md) — On the Amendment — **Amendment Rejected** (39–53)
@@ -80,6 +80,7 @@ Helping Families Save Their Homes Act of 2009
 - 2009-05-06 — [Senate 111-1-183](votes/senate-111-1-0183.md) — On the Motion — **Motion Rejected** (50–46)
 - 2009-05-06 — [Senate 111-1-184](votes/senate-111-1-0184.md) — On the Amendment — **Amendment Agreed to** (95–1)
 - 2009-05-06 — [Senate 111-1-185](votes/senate-111-1-0185.md) — On Passage of the Bill — **Bill Passed** (91–5)
+- 2009-05-19 — [House 111-1-271](votes/house-111-1-0271.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (367–54)
 
 ## Actions
 
@@ -234,3 +235,15 @@ Helping Families Save Their Homes Act of 2009
 - 2009-05-06 — Senate amendment agreed to: Amendment SA 1036 as modified agreed to in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 182.
 - 2009-05-06 — Senate amendment agreed to: Amendment SA 1039 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5175)
 - 2009-05-06 — Senate amendment agreed to: Amendment SA 1040 agreed to in Senate by Voice Vote.
+- 2009-05-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-05-19 — Considered as unfinished business. (consideration: CR H5766-5767)
+- 2009-05-19 — Considered under suspension of the rules. (consideration: CR H5740-5765)
+- 2009-05-19 — DEBATE - The House proceeded with forty minutes of debate on S. 896.
+- 2009-05-19 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2009-05-19 — Message on Senate action sent to the House.
+- 2009-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-19 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
+- 2009-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 54, 1 Present (Roll no. 271). (text: CR H5740-5760)
+- 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 54, 1 Present (Roll no. 271).(text: CR H5740-5760)
+- 2009-05-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S5588-5589)
+- 2009-05-19 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S5588-5589)
