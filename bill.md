@@ -1,0 +1,99 @@
+---
+legis-num: H.R. 2489
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2489
+
+> To authorize a comprehensive national cooperative geospatial imagery mapping program through the United States Geological Survey, to promote use of the program for education, workforce training and development, and applied research, and to support Federal, State, tribal, and local government programs.
+
+## § 1. Short title
+
+This Act may be cited as the “AmericaView Geospatial Imagery Mapping Program Act”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** when Federal geospatial imagery is available in a cost-effective and timely manner, State and local governments and educational institutions are able to develop new scientific, educational, and practical applications for the data and to adopt new tools for applied research, education, and training, as evidenced by—
+  - **(A)** the success of the United States Geological Survey (referred to in this Act as the USGS) cooperative pilot projects OhioView and Gateway to the Earth; and
+  - **(B)** the 35 member StateView programs cooperating in the AmericaView program;
+- **(2)** increased access to geospatial imagery for research and educational purposes, made available through the USGS and from State-level archives linked to StateView program support, benefits user communities that have traditionally struggled to afford the data because it enables—
+  - **(A)** educators to train—
+    - **(i)** students at institutions of higher education for technology careers in remote sensing; and
+    - **(ii)** teachers for use of remote sensing data to enhance student learning in elementary and secondary education;
+  - **(B)** historically black colleges and universities to partner with StateView program universities to enhance learning and training opportunities for students; and
+  - **(C)** Native Americans to provide training and education regarding—
+    - **(i)** the use and application of remote sensing data for Native American students; and
+    - **(ii)** developing satellite-based applications for managing reservation resources;
+- **(3)** institutions of higher education and State and local government agencies use geospatial imagery to support practical mapping and monitoring purposes, including—
+  - **(A)** monitoring the health of Federal and State land and forests;
+  - **(B)** understanding ecosystems and predicting ecosystem change;
+  - **(C)** mapping hydrologic systems and assessing water quality;
+  - **(D)** monitoring crop productivity, assessing damage, and predicting crop yield;
+  - **(E)** assisting with transportation and land-use planning in the urban areas of the United States;
+  - **(F)** predicting and assisting with the management of human and wildlife disease outbreaks; and
+  - **(G)** mapping natural hazards and assessing risk; and
+- **(4)** the AmericaView program is uniquely positioned to help each State develop applications and skills necessary—
+  - **(A)** to effectively apply geospatial imagery for multiple State-focused mapping purposes; and
+  - **(B)** to expand the use and benefits of geospatial imagery for research and operational purposes within each State.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *AmericaView* The term AmericaView means the national nonprofit collaboration of StateView program participants cooperating with the USGS to achieve the purposes of the AmericaView program.
+- **(2)** *AmericaView program* The term AmericaView program means the national remote sensing education, outreach, and research program of the USGS established under section 4(a), comprised of—
+  - **(A)** the AmericaView project; and
+  - **(B)** AmericaView.
+- **(3)** *AmericaView project* The term AmericaView project means the USGS data archive, development, maintenance, and product distribution program conducted at the Earth Resources Observation and Science (EROS) Data Center.
+- **(4)** *Educational institution* The term educational institution means—
+  - **(A)** any public or private elementary or secondary school, vocational school, correspondence school, business school, institution of higher education (including a junior college or teachers' college), normal school, professional school, or scientific or technical institution; and
+  - **(B)** any other institution that provides an educational program.
+- **(5)** *Geospatial imagery* The term geospatial imagery means all information acquired from above the surface of the Earth by satellite or airplane.
+- **(6)** *National spatial data infrastructure* The term national spatial data infrastructure means the technology, policies, standards, and human resources necessary to acquire, process, store, distribute, and improve use of geospatial data for the United States established by Executive Order 12906 (59 Fed. Reg. 17671 (April 13, 1994)).
+- **(7)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the USGS.
+- **(8)** *State* The term State means—
+  - **(A)** each of the several States of the United States;
+  - **(B)** the District of Columbia;
+  - **(C)** the Commonwealth of Puerto Rico;
+  - **(D)** Guam;
+  - **(E)** American Samoa;
+  - **(F)** the Commonwealth of the Northern Mariana Islands; and
+  - **(G)** the United States Virgin Islands.
+- **(9)** *StateView program* The term StateView program means the AmericaView program of an individual State, comprised of educational institutions and State and local governments.
+
+## § 4. AmericaView program
+
+- **(a)** *In general* The Secretary shall establish and maintain a national remote sensing education, outreach, and research program within the USGS to advance the availability, timely distribution, and widespread use of geospatial imagery for education, research, assessment, and monitoring purposes in each State.
+- **(b)** *Purposes* The purposes of the AmericaView program are—
+  - **(1)** to increase accessibility to, and expand the use of, remote sensing data in a standard, easy-to-use format by Federal, State, local, and tribal governments, communities, educational institutions, and the commercial sector; and
+  - **(2)** to assist each StateView program in establishing the cooperative infrastructure necessary to increase access to geospatial imagery for research and educational purposes.
+- **(c)** *Activities*
+  - **(1)** *AmericaView project* The Secretary, acting through the AmericaView project, shall support the geospatial imagery mapping research and educational programs of each State by cooperating with States—
+    - **(A)** to identify new geospatial imagery mapping needs and infrastructure and to define, consolidate; and
+    - **(B)** to maintain the data requirements of the AmericaView project.
+  - **(2)** *AmericaView program* The Secretary, acting through the AmericaView program, shall maintain AmericaView in each State—
+    - **(A)** to share and cooperate in the development of geospatial imagery mapping applications, education, and training infrastructure in each State;
+    - **(B)** to cooperate with the AmericaView project to develop nationally consistent standards for geospatial imagery mapping in each State;
+    - **(C)** to expand the number of geospatial imagery mapping courses taught at educational institutions and provide training, remote sensing data, and teaching tools to educators;
+    - **(D)** to expand geospatial imagery mapping research at research educational institutions;
+    - **(E)** to expand the knowledge and use of geospatial imagery and map products in the current workforce through outreach programs, workshops, and other training opportunities;
+    - **(F)** to build partnerships with local governments to identify unique research and development needs and geospatial imagery mapping pilot projects;
+    - **(G)** to promote cooperation and sharing of expertise regarding geospatial imagery among participating States and within each participating State; and
+    - **(H)** to enable the States to provide geospatial imagery to the USGS.
+  - **(3)** *Grants* The Secretary annually shall provide grants to sustain and develop StateView programs.
+  - **(4)** *Federal partner advisory committee*
+    - **(A)** *In general* The Secretary shall maintain an advisory committee to advise the Director of the USGS regarding the AmericaView program.
+    - **(B)** *Membership and appointment* The advisory committee under subparagraph (A) shall be composed of—
+      - **(i)** at least 1 representative of each of—
+        - **(I)** AmericaView;
+        - **(II)** the USGS; and
+        - **(III)** the Department of Agriculture; and
+      - **(ii)** representatives of such other agencies as the Secretary may designate.
+
+## § 5. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this Act for each of fiscal years 2010 through 2014.
