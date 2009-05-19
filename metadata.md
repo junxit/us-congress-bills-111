@@ -1,7 +1,7 @@
 ---
 measure: S. 896
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 896
@@ -247,3 +247,10 @@ Helping Families Save Their Homes Act of 2009
 - 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 367 - 54, 1 Present (Roll no. 271).(text: CR H5740-5760)
 - 2009-05-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S5588-5589)
 - 2009-05-19 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S5588-5589)
+- 2009-05-20 — Became Public Law No: 111-22.
+- 2009-05-20 — Became Public Law No: 111-22.
+- 2009-05-20 — Cleared for White House.
+- 2009-05-20 — Presented to President.
+- 2009-05-20 — Presented to President.
+- 2009-05-20 — Signed by President.
+- 2009-05-20 — Signed by President.
