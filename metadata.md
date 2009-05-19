@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 49
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 49
@@ -40,3 +40,5 @@ A resolution to express the sense of the Senate regarding the importance of publ
 - 2009-05-07 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-05-07 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2009-05-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5645; text as passed Senate: CR S5645)
+- 2009-05-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5645; text as passed Senate: CR S5645)
