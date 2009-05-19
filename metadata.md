@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 120
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 120
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Cosponsors (105)
+## Cosponsors (118)
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Bono Mack, Mary [R-CA-45] (B001228)
@@ -123,6 +123,19 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 - Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
 
 ## Committees (1)
 
@@ -133,3 +146,10 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Referred to the House Committee on Energy and Commerce.
+- 2009-05-07 — Referred to the Subcommittee on Health.
+- 2009-05-19 — Considered under suspension of the rules. (consideration: CR H5728-5730)
+- 2009-05-19 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 120.
+- 2009-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-19 — Mrs. Capps moved to suspend the rules and agree to the resolution, as amended.
+- 2009-05-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5728)
+- 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5728)

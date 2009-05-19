@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas healthy habits should begin at a young age;
 - Whereas preventative care saves Federal dollars designated for health care;
 - Whereas it is imperative to educate women and girls about key female health issues;
-- Whereas it is recognized that offices of women’s health within the Department of Health and Human Services, the Food and Drug Administration, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the National Institutes of Health, and the Agency for Healthcare Research and Quality are vital in providing critical services that support women’s health research, education, and other necessary services that benefit women of all ages, races, and ethnicities;
+- Whereas it is recognized that offices of women’s health within the Department of Health and Human Services, the Food and Drug Administration, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the National Institutes of Health, and the Agency for Healthcare Research and Quality provide services that support women’s health research, education, and other services that benefit women of all ages, races, and ethnicities;
 - Whereas the annual National Women’s Health Week begins on Mother’s Day and celebrates the efforts of national and community organizations working with partners and volunteers to improve awareness of key women’s health issues; and
 - Whereas in 2009, the week of May 10 through May 16 is designated National Women’s Health Week: Now, therefore, be it
 
@@ -26,4 +26,4 @@ That Congress—
 - **(2)** supports the goals and ideals of National Women’s Health Week;
 - **(3)** calls on the people of the United States to use National Women’s Health Week as an opportunity to learn about the health issues women face;
 - **(4)** calls on the women of the United States to observe National Women’s Check-Up Day by receiving preventative screenings from their health care providers; and
-- **(5)** recognizes the importance of federally funded programs that provide research and collect data on common diseases in women.
+- **(5)** recognizes the importance of Federal, State, and private programs that provide research and collect data on common diseases in women.
