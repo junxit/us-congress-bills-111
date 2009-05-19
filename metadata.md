@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 627
@@ -16,7 +16,7 @@ Credit CARD Act of 2009
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Cosponsors (128)
+## Cosponsors (207)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -146,17 +146,102 @@ Credit CARD Act of 2009
 - Rep. Speier, Jackie [D-CA-12] (S001175)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
 - House — Financial Services Committee
 
-## Recorded votes (4)
+## Recorded votes (10)
 
 - 2009-04-30 — [House 111-1-225](votes/house-111-1-0225.md) — On Agreeing to the Amendment — **Agreed to** (276–154)
 - 2009-04-30 — [House 111-1-226](votes/house-111-1-0226.md) — On Agreeing to the Amendment — **Agreed to** (284–149)
 - 2009-04-30 — [House 111-1-227](votes/house-111-1-0227.md) — On Motion to Recommit with Instructions — **Failed** (164–263)
 - 2009-04-30 — [House 111-1-228](votes/house-111-1-0228.md) — On Passage — **Passed** (357–70)
+- 2009-05-12 — [Senate 111-1-188](votes/senate-111-1-0188.md) — On the Amendment — **Amendment Agreed to** (67–29)
+- 2009-05-13 — [Senate 111-1-190](votes/senate-111-1-0190.md) — On the Amendment — **Amendment Rejected** (28–65)
+- 2009-05-13 — [Senate 111-1-191](votes/senate-111-1-0191.md) — On the Motion — **Motion Rejected** (33–60)
+- 2009-05-13 — [Senate 111-1-192](votes/senate-111-1-0192.md) — On the Motion — **Motion Rejected** (59–35)
+- 2009-05-19 — [Senate 111-1-193](votes/senate-111-1-0193.md) — On the Cloture Motion — **Cloture Motion Agreed to** (92–2)
+- 2009-05-19 — [Senate 111-1-194](votes/senate-111-1-0194.md) — On Passage of the Bill — **Bill Passed** (90–5)
 
 ## Actions
 
@@ -320,3 +405,157 @@ Credit CARD Act of 2009
 - 2009-04-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 627.
 - 2009-04-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5040-5041)
 - 2009-04-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5040)
+- 2009-05-06 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5246; text: CR S5246)
+- 2009-05-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5246)
+- 2009-05-06 — Motion to proceed to consideration of measure withdrawn in Senate.
+- 2009-05-07 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate.
+- 2009-05-11 — Amendment SA 1058 proposed by Senator Dodd. (consideration: CR S5313-5317) In the nature of a substitute.
+- 2009-05-11 — Measure laid before Senate by unanimous consent. (consideration: CR S5313-5321)
+- 2009-05-11 — Senate amendment proposed (on the floor): Amendment SA 1058 proposed by Senator Dodd.(consideration: CR S5313-5317)
+- 2009-05-11 — Senate amendment submitted
+- 2009-05-11 — Senate amendment submitted
+- 2009-05-11 — Senate amendment submitted
+- 2009-05-12 — Amendment SA 1062 proposed by Senator Sanders to Amendment SA 1058. (consideration: CR S5362-5364 text: CR S5362-5363) To establish a national consumer credit usury rate.
+- 2009-05-12 — Amendment SA 1066 proposed by Senator Vitter to Amendment SA 1058. (consideration: CR S5361-5362; text: CR S5361) To specify acceptable forms of identification for the opening of credit card accounts.
+- 2009-05-12 — Amendment SA 1067 proposed by Senator Coburn to Amendment SA 1058. (consideration: CR S5349, S5359-5360; text: CR S5349) To protect innocent Americans from violent crime in national parks and refuges.
+- 2009-05-12 — Amendment SA 1067, pursuant to the order of May 12, 2009, having acheived the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 188.
+- 2009-05-12 — Amendment SA 1068 proposed by Senator Coburn. (consideration: CR S5349-5351, text: CR S5349-5350) To protect innocent Americans from violent crime in national parks and refuges.
+- 2009-05-12 — Amendment SA 1084 proposed by Senator Gillibrand to Amendment SA 1058. (consideration: CR S5364-5365; text: CR S5364) To amend the Fair Credit Reporting Act to require reporting agencies to provide free credit reports in the native language of certain non-English speaking consumers.
+- 2009-05-12 — Amendment SA 1085 proposed by Senator McConnell for Senator Gregg to Amendment SA 1058. (consideration: CR S5360-5361; text: CR S5360-5361) To enhance public knowledge regarding the national debt by requiring the publication of the facts about the national debt on IRS instructions, Federal websites, and in new legislation.
+- 2009-05-12 — Considered by Senate. (consideration: CR S5349, S5360-5365)
+- 2009-05-12 — Considered by Senate. (consideration: CR S5349-5365)
+- 2009-05-12 — Proposed amendment SA 1068 withdrawn in Senate. (consideration: CR S5360)
+- 2009-05-12 — Roll call votes on amendments in Senate: Amendment SA 1067, pursuant to the order of May 12, 2009, having acheived the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 188.
+- 2009-05-12 — Senate amendment agreed to: Amendment SA 1067, pursuant to the order of May 12, 2009, having acheived the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 188.
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1062 proposed by Senator Sanders to Amendment SA 1058.(consideration: CR S5362-5364 text: CR S5362-5363)
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1066 proposed by Senator Vitter to Amendment SA 1058.(consideration: CR S5361-5362; text: CR S5361)
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1067 proposed by Senator Coburn to Amendment SA 1058.(consideration: CR S5349, S5359-5360; text: CR S5349)
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1068 proposed by Senator Coburn.(consideration: CR S5349-5351, text: CR S5349-5350)
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1084 proposed by Senator Gillibrand to Amendment SA 1058.(consideration: CR S5364-5365; text: CR S5364)
+- 2009-05-12 — Senate amendment proposed (on the floor): Amendment SA 1085 proposed by Senator McConnell for Senator Gregg to Amendment SA 1058.(consideration: CR S5360-5361; text: CR S5360-5361)
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-12 — Senate amendment submitted
+- 2009-05-13 — Amendment SA 1062 ruled out of order by the chair.
+- 2009-05-13 — Amendment SA 1066 not agreed to in Senate by Yea-Nay Vote. 28 - 65. Record Vote Number: 190.
+- 2009-05-13 — Amendment SA 1079 proposed by Senator Landrieu to Amendment SA 1058. (consideration: CR S5425-5426; text: CR S5425) To end abuse, promote disclosure, and provide protections to small businesses that rely on credit cards.
+- 2009-05-13 — Amendment SA 1084 agreed to in Senate by Unanimous Consent.
+- 2009-05-13 — Amendment SA 1085 ruled out of order by the chair.
+- 2009-05-13 — Amendment SA 1104 agreed to in Senate by Unanimous Consent.
+- 2009-05-13 — Amendment SA 1104 proposed by Senator Isakson to Amendment SA 1084. (consideration: CR S5416-5420; text: CR S5416-5417) To require the Comptroller General to conduct a study on the relationship between fluency in the English language and financial literacy.
+- 2009-05-13 — Amendment SA 1107 proposed by Senator Collins to Amendment SA 1058. (consideration: CR S5426-5429; text: CR S5426) To address stored value devices and cards.
+- 2009-05-13 — Cloture motion on amendment SA 1058 presented in Senate. (consideration: CR S5426; text: CR S5426)
+- 2009-05-13 — Cloture motion on the bill presented in Senate. (consideration: CR S5426; text: CR S5426)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409, S5416, S5420)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409, S5420, S5423)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409, S5421-5423)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409, S5423-5425)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409, S5426)
+- 2009-05-13 — Considered by Senate. (consideration: CR S5409-5429)
+- 2009-05-13 — Motion to waive the Budget Act with respect to amendment SA 1062 rejected in Senate by Yea-Nay Vote. 33 - 60. Record Vote Number: 191.
+- 2009-05-13 — Motion to waive the Budget Act with respect to amendment SA 1085 rejected in Senate by Yea-Nay Vote. 59 - 35. Record Vote Number: 192.
+- 2009-05-13 — Point of order raised in Senate with respect to amendment SA 1062.
+- 2009-05-13 — Point of order raised in Senate with respect to amendment SA 1085.
+- 2009-05-13 — Roll call votes on amendments in Senate: Amendment SA 1066 not agreed to in Senate by Yea-Nay Vote. 28 - 65. Record Vote Number: 190.
+- 2009-05-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1062 rejected in Senate by Yea-Nay Vote. 33 - 60. Record Vote Number: 191.
+- 2009-05-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1085 rejected in Senate by Yea-Nay Vote. 59 - 35. Record Vote Number: 192.
+- 2009-05-13 — Senate amendment agreed to: Amendment SA 1084 agreed to in Senate by Unanimous Consent.
+- 2009-05-13 — Senate amendment agreed to: Amendment SA 1104 agreed to in Senate by Unanimous Consent.
+- 2009-05-13 — Senate amendment not agreed to: Amendment SA 1066 not agreed to in Senate by Yea-Nay Vote. 28 - 65. Record Vote Number: 190.
+- 2009-05-13 — Senate amendment proposed (on the floor): Amendment SA 1079 proposed by Senator Landrieu to Amendment SA 1058.(consideration: CR S5425-5426; text: CR S5425)
+- 2009-05-13 — Senate amendment proposed (on the floor): Amendment SA 1104 proposed by Senator Isakson to Amendment SA 1084.(consideration: CR S5416-5420; text: CR S5416-5417)
+- 2009-05-13 — Senate amendment proposed (on the floor): Amendment SA 1107 proposed by Senator Collins to Amendment SA 1058.(consideration: CR S5426-5429; text: CR S5426)
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-13 — Senate amendment submitted
+- 2009-05-14 — Amendment SA 1126 proposed by Senator Lincoln to Amendment SA 1107. (consideration: CR S5474-5476; text: CR S5475) To amend the Federal Deposit Insurance Act with respect to the extension of certain limitations.
+- 2009-05-14 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S5495)
+- 2009-05-14 — Considered by Senate. (consideration: CR S5468)
+- 2009-05-14 — Considered by Senate. (consideration: CR S5468, S5471, S5488-5492; text as modified:  CR S5471)
+- 2009-05-14 — Considered by Senate. (consideration: CR S5468, S5471-5474; text as modified: CR S5471)
+- 2009-05-14 — Considered by Senate. (consideration: CR S5468-5494, S5496)
+- 2009-05-14 — Senate amendment proposed (on the floor): Amendment SA 1126 proposed by Senator Lincoln to Amendment SA 1107.(consideration: CR S5474-5476; text: CR S5475)
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-14 — Senate amendment submitted
+- 2009-05-19 — Amendment SA 1058 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Amendment SA 1079 ruled non-germane by the chair.
+- 2009-05-19 — Amendment SA 1107 ruled non-germane by the chair.
+- 2009-05-19 — Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Amendment SA 1130 proposed by Senator Dodd to Amendment SA 1058. (consideration: CR S5570) Of a perfecting nature.
+- 2009-05-19 — Cloture on amendment SA 1058 invoked in Senate by Yea-Nay Vote. 92 - 2. Record Vote Number: 193. (consideration: CR S5570)
+- 2009-05-19 — Considered by Senate. (consideration: CR S5570)
+- 2009-05-19 — Considered by Senate. (consideration: CR S5570)
+- 2009-05-19 — Considered by Senate. (consideration: CR S5570)
+- 2009-05-19 — Considered by Senate. (consideration: CR S5570)
+- 2009-05-19 — Considered by Senate. (consideration: CR S5570-5581)
+- 2009-05-19 — Message on Senate action sent to the House.
+- 2009-05-19 — Passed Senate with an amendment by Yea-Nay Vote. 90 - 5. Record Vote Number: 194. (text: CR S5573-5581)
+- 2009-05-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 90 - 5. Record Vote Number: 194.(text: CR S5573-5581)
+- 2009-05-19 — Point of order raised in Senate with respect to amendment SA 1079.
+- 2009-05-19 — Point of order raised in Senate with respect to amendment SA 1107.
+- 2009-05-19 — Roll call votes on amendments in Senate: Cloture on amendment SA 1058 invoked in Senate by Yea-Nay Vote. 92 - 2. Record Vote Number: 193.(consideration: CR S5570)
+- 2009-05-19 — SA 1126 fell when SA 1107 was ruled non-germane.
+- 2009-05-19 — Senate amendment agreed to: Amendment SA 1058 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Senate amendment agreed to: Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1130 proposed by Senator Dodd to Amendment SA 1058.(consideration: CR S5570)
+- 2009-05-19 — Senate amendment submitted
