@@ -1,7 +1,7 @@
 ---
 measure: H.R. 466
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,12 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after “uniformed service” the following: “, or who has an illness, injury, or disability determined by the Secretary of Veterans Affairs to have been incurred in or aggravated by such service,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or obligation” and inserting “obligation, or receipt of treatment for that illness, injury, or disability”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or obligation for service” the first time it appears and inserting “obligation for service, or receipt of treatment for an illness, injury, or disability incurred in or aggravated by service”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or obligation for service” the second time it appears and inserting “obligation for service, or receipt of treatment”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 43 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 4319 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4317 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4318 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “uniformed service” the following: “, or who has an illness, injury, or disability determined by the Secretary of Veterans Affairs to have been incurred in or aggravated by such service,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or obligation” and inserting “obligation, or receipt of treatment for that illness, injury, or disability”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or obligation for service” the first time it appears and inserting “obligation for service, or receipt of treatment for an illness, injury, or disability determined by the Secretary of Veterans Affairs to have been incurred … | the bill names no machine-readable US Code section |
 | — | replace | by striking “or obligation for service” the second time it appears and inserting “obligation for service, or receipt of treatment”. | the bill names no machine-readable US Code section |
