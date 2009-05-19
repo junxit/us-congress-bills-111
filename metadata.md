@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 35
@@ -47,3 +47,7 @@ Presidential Records Act Amendments of 2009
 - 2009-01-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 58 (Roll no. 5). (text: CR H42-43)
 - 2009-01-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 58 (Roll no. 5).(text: CR H42-43)
 - 2009-01-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-04-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-05-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-21.
+- 2009-05-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-21.
+- 2009-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
