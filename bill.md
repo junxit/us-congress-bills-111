@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1089
 
-> To amend title 38, United States Code, to provide for the enforcement through the Office of Special Counsel of the employment and unemployment rights of veterans and members of the Armed Forces employed by Federal executive agencies, and for other purposes.
+> To amend title 38, United States Code, to provide for the enforcement through the Office of Special Counsel of the employment and reemployment rights of veterans and members of the Armed Forces employed by Federal executive agencies, and for other purposes.
 
 ## § 1. Short title
 
