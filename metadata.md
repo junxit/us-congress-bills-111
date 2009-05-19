@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 111
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 111
@@ -16,9 +16,11 @@ A resolution recognizing June 6, 2009, as the 70th anniversary of the tragic dat
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ A resolution recognizing June 6, 2009, as the 70th anniversary of the tragic dat
 - 2009-04-23 — Introduced in Senate
 - 2009-04-23 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4698)
 - 2009-04-23 — Sponsor introductory remarks on measure. (CR S4698)
+- 2009-05-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5646)
+- 2009-05-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5646)
+- 2009-05-19 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5646)
+- 2009-05-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5646)
