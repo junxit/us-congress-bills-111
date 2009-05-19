@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -46,7 +46,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “manner, location, and time” and inserting “manner, and location”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 127 of the Truth in Lending Act (15 U.S.C. 1637), as amended by this Act, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 127 of the Truth in Lending Act (15 U.S.C. 1637), as amended by this Act, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 163 of the Truth in Lending Act (15 U.S.C. 1666b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 163 and inserting the following: | the bill names no machine-readable US Code section |
@@ -55,7 +55,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “term” and all that follows through “means” and inserting the following: “terms open end credit plan and open end consumer credit plan mean”; and | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting “or open end consumer credit plan” after “credit plan” each place that term appears. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3 of the Truth in Lending Act (15 U.S.C. 1666 et seq.), as amended by this title, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 3 of the Truth in Lending Act (15 U.S.C. 1661 et seq.) is amended in the table of sections for the chapter, by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 3 of the Truth in Lending Act (15 U.S.C. 1661 et seq.) is amended in the table of sections for the chapter, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 127(b)(11) of the Truth in Lending Act (15 U.S.C. 1637(b)(11)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 130(a) of the Truth in Lending Act (15 U.S.C. 1640(a)) is amended, in the undesignated paragraph following paragraph (4), by striking the second sentence and inserting the following: “In connection with the disclosures referred t… | the bill names no machine-readable US Code section |
 | — | amend | Section 127(b)(12) of the Truth in Lending Act (15 U.S.C. 1637(b)(12)) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -64,11 +64,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “Except as provided in paragraph (2), a card issuer” and inserting the following: “A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclo… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 122 of the Truth and Lending Act (15 U.S.C. 1632) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 612 of the Fair Credit Reporting Act (15 U.S.C. 1681j) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in clause (ii), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (iii), by striking the period at the end and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 140 of the Truth in Lending Act (15 U.S.C. 1650) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 140 of the Truth in Lending Act (15 U.S.C. 1650) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 127 of the Truth in Lending Act (15 U.S.C. 1637), as otherwise amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 915 through 921 as sections 916 through 922, respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 914 the following: | the bill names no machine-readable US Code section |

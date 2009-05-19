@@ -1,7 +1,7 @@
 ---
 measure: H.R. 627
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 627
@@ -230,7 +230,7 @@ Credit CARD Act of 2009
 
 - House — Financial Services Committee
 
-## Recorded votes (10)
+## Recorded votes (12)
 
 - 2009-04-30 — [House 111-1-225](votes/house-111-1-0225.md) — On Agreeing to the Amendment — **Agreed to** (276–154)
 - 2009-04-30 — [House 111-1-226](votes/house-111-1-0226.md) — On Agreeing to the Amendment — **Agreed to** (284–149)
@@ -242,6 +242,8 @@ Credit CARD Act of 2009
 - 2009-05-13 — [Senate 111-1-192](votes/senate-111-1-0192.md) — On the Motion — **Motion Rejected** (59–35)
 - 2009-05-19 — [Senate 111-1-193](votes/senate-111-1-0193.md) — On the Cloture Motion — **Cloture Motion Agreed to** (92–2)
 - 2009-05-19 — [Senate 111-1-194](votes/senate-111-1-0194.md) — On Passage of the Bill — **Bill Passed** (90–5)
+- 2009-05-20 — [House 111-1-276](votes/house-111-1-0276.md) — Concur In All But Sec. 512 of Sen Amdt. — **Passed** (361–64)
+- 2009-05-20 — [House 111-1-277](votes/house-111-1-0277.md) — Concur In Sec. 512 of Sen Amdt. — **Passed** (279–147)
 
 ## Actions
 
@@ -559,3 +561,21 @@ Credit CARD Act of 2009
 - 2009-05-19 — Senate amendment agreed to: Amendment SA 1130 agreed to in Senate by Unanimous Consent.
 - 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1130 proposed by Senator Dodd to Amendment SA 1058.(consideration: CR S5570)
 - 2009-05-19 — Senate amendment submitted
+- 2009-05-20 — Cleared for White House.
+- 2009-05-20 — DEBATE - Puruant to the provisions of H. Res. 456, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 627. Pursuant to the provisions of H. Res. 456 and at the conclusion of debate on the motion, the Chair will put the question in divided portions.
+- 2009-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-20 — Mr. Frank (MA) moved that the House agree to the Senate amendment. (consideration: CR H5823-5841; text as House agreed to Senate amendment: CR H5824-5832)
+- 2009-05-20 — On motion to agree to all but section 512 of the Senate amendment Agreed to by recorded vote: 361 - 64 (Roll no. 276).
+- 2009-05-20 — On motion to agree to section 512 of the Senate amendment Agreed to by the Yeas and Nays: 279 - 147 (Roll no. 277).
+- 2009-05-20 — Pursuant to the provisions of H. Res. 456, the House is considered to have agreed to the Senate amendment. (consideration: CR H5840-5841)
+- 2009-05-20 — Resolving differences -- House actions: On motion to agree to all but section 512 of the Senate amendment Agreed to by recorded vote: 361 - 64 (Roll no. 276).
+- 2009-05-20 — Resolving differences -- House actions: On motion to agree to section 512 of the Senate amendment Agreed to by the Yeas and Nays: 279 - 147 (Roll no. 277).
+- 2009-05-20 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 456, the House is considered to have agreed to the Senate amendment.(consideration: CR H5840-5841)
+- 2009-05-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5840)
+- 2009-05-21 — Presented to President.
+- 2009-05-21 — Presented to President.
+- 2009-05-22 — Became Public Law No: 111-24.
+- 2009-05-22 — Became Public Law No: 111-24.
+- 2009-05-22 — Signed by President.
+- 2009-05-22 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 627
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 627
 
-That the bill from the House of Representatives (H.R. 627) entitled “An Act to amend the Truth in Lending Act to establish fair and transparent practices relating to the extension of credit under an open end consumer credit plan, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Truth in Lending Act to establish fair and transparent practices relating to the extension of credit under an open end consumer credit plan, and for other purposes.
 
 ## § 1. Short title; table of contents
 
