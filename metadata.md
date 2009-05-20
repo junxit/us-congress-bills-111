@@ -1,7 +1,7 @@
 ---
 measure: H.R. 918
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 918
@@ -75,3 +75,13 @@ To designate the facility of the United States Postal Service located at 300 Eas
 - 2009-05-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-05-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
+- 2009-05-21 — Cleared for White House.
+- 2009-05-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5884)
+- 2009-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5884)
+- 2009-05-22 — Message on Senate action sent to the House.
+- 2009-06-09 — Presented to President.
+- 2009-06-09 — Presented to President.
+- 2009-06-19 — Became Public Law No: 111-27.
+- 2009-06-19 — Became Public Law No: 111-27.
+- 2009-06-19 — Signed by President.
+- 2009-06-19 — Signed by President.
