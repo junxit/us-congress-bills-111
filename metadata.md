@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 120
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 120
@@ -137,9 +137,10 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -153,3 +154,4 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - 2009-05-19 — Mrs. Capps moved to suspend the rules and agree to the resolution, as amended.
 - 2009-05-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5728)
 - 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5728)
+- 2009-05-20 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
