@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-49 amendatory instructions. 0 executed, 49 stated and not applied.
+59 amendatory instructions. 0 executed, 59 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (f), by inserting “(other than subsections (g), (h), and (i))” after “this section”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | The Small Business Act (15 U.S.C. 631 et seq.) is amended by redesignating section 44 as section 46 and by inserting the following new section after section 43: | the bill names no machine-readable US Code section |
+| — | redesignate | The Small Business Act (15 U.S.C. 631 et seq.) is amended by redesignating section 44 as section 47 and by inserting the following new section after section 43: | the bill names no machine-readable US Code section |
 | — | replace | by striking “five Associate Administrators” and inserting “six Associate Administrators”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “vested in the Administration.” the following: “One such Associate Administrator shall be the Associate Administrator for Native American Affairs, who shall administer the Office of Native American Affairs established … | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 44, as added by section 201 of this Act, the following: | the bill names no machine-readable US Code section |
@@ -50,6 +50,9 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 29(h)(1) of the Small Business Act (15 U.S.C. 656(h)(1)), as amended, is further amended by adding the following at the end thereof: | the bill names no machine-readable US Code section |
 | — | amend | In section 409(a) (15 U.S.C. 7109(a)), by adding the following at the end thereof: “Such studies shall include a study on the impact of the 2008–2009 financial markets crisis on women-owned businesses, and a study of the use of the Small… | the bill names no machine-readable US Code section |
 | — | replace | In section 410(a) (15 U.S.C. 7110(a)), by striking “2001 through 2003” and insert “2010 and 2011”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(i)” after “(B)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)), as amended, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -80,3 +83,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 21 of the Small Business Act (15 U.S.C. 648), as amended, is further amended by adding the following new subsection at the end thereof: | the bill names no machine-readable US Code section |
 | — | insert | Section 21(a)(4)(B) (15 U.S.C. 648(a)(4)(B)) is amended by inserting after “Federal program” the following: “and shall not include any funds obtained through the assessment of fees to small business clients”. | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note), as amended by sections 403(c) and 504 of this Act, is further amended by inserting after subsection (g) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 21 of the Small Business Act (15 U.S.C. 648), as amended, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 45, as added by section 301(b) of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 45, as added by section 301(b) of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Small Business Act (15 U.S.C. 631 et. seq.) is amended by inserting after section 45, as added by section 301(b) of this Act, the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (S), by striking the final “and”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (T), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
