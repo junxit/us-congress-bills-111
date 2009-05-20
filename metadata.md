@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 151
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 151
@@ -16,7 +16,7 @@ A resolution designates a national day of remembrance on October 30, 2009, for n
 
 - Sen. Bunning, Jim [R-KY] (B001066)
 
-## Cosponsors (11)
+## Cosponsors (16)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -29,6 +29,11 @@ A resolution designates a national day of remembrance on October 30, 2009, for n
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -38,3 +43,7 @@ A resolution designates a national day of remembrance on October 30, 2009, for n
 
 - 2009-05-14 — Introduced in Senate
 - 2009-05-14 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5530)
+- 2009-05-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5766)
+- 2009-05-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5766)
+- 2009-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5766)
+- 2009-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5766)
