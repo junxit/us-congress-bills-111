@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 Congress finds that—
 
 - **(1)** the Women Airforce Service Pilots of WWII, known as the “WASP”, were the first women in history to fly American military aircraft;
-- **(2)** more than 60 years ago, they flew fighter, bomber, transport, and training aircraft in defense of America's freedom;
+- **(2)** more than 60 years ago, they flew fighter, bomber, transport, and training aircraft in defense of America’s freedom;
 - **(3)** they faced overwhelming cultural and gender bias against women in nontraditional roles and overcame multiple injustices and inequities in order to serve their country;
 - **(4)** through their actions, the WASP eventually were the catalyst for revolutionary reform in the integration of women pilots into the Armed Services;
 - **(5)** during the early months of World War II, there was a severe shortage of combat pilots;
@@ -23,11 +23,11 @@ Congress finds that—
 - **(8)** it was not until August 1943, that the women aviators would receive their official name;
 - **(9)** General Arnold ordered that all women pilots flying military aircraft, including 28 civilian women ferry pilots, would be named “WASP”, Women Airforce Service Pilots;
 - **(10)** more than 25,000 American women applied for training, but only 1,830 were accepted and took the oath;
-- **(11)** exactly 1,074 of those trainees successfully completed the 21 to 27 weeks of Army Air Force flight training, graduated, and received their Army Air Force orders to report to their assigned air base;
-- **(12)** on November 16, 1942, the first class of 29 women pilots reported to the Houston, Texas Municipal Airport and began the same military flight training as the male Army Air Force cadets were taking;
+- **(11)** exactly 1,074 of those trainees successfully completed the 21 to 27 weeks of Army Air Forces flight training, graduated, and received their Army Air Forces orders to report to their assigned air base;
+- **(12)** on November 16, 1942, the first class of 29 women pilots reported to the Houston, Texas Municipal Airport and began the same military flight training as the male Army Air Forces cadets were taking;
 - **(13)** due to a lack of adequate facilities at the airport, 3 months later the training program was moved to Avenger Field in Sweetwater, Texas;
 - **(14)** WASP were eventually stationed at 120 Army air bases all across America;
-- **(15)** they flew more than 60,000,000 miles for their country in every type of aircraft and on every type of assignment flown by the male Army Air Force pilots, except combat;
+- **(15)** they flew more than 60,000,000 miles for their country in every type of aircraft and on every type of assignment flown by the male Army Air Forces pilots, except combat;
 - **(16)** WASP assignments included test piloting, instructor piloting, towing targets for air-to-air gunnery practice, ground-to-air anti-aircraft practice, ferrying, transporting personnel and cargo (including parts for the atomic bomb), simulated strafing, smoke laying, night tracking, and flying drones;
 - **(17)** in October 1943, male pilots were refusing to fly the B–26 Martin Marauder (known as the “Widowmaker”) because of its fatality records, and General Arnold ordered WASP Director, Jacqueline Cochran, to select 25 WASP to be trained to fly the B–26 to prove to the male pilots that it was safe to fly;
 - **(18)** during the existence of the WASP—
