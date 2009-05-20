@@ -1,7 +1,7 @@
 ---
 measure: H.R. 663
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 663
@@ -52,3 +52,8 @@ To designate the facility of the United States Postal Service located at 12877 B
 - 2009-02-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 2/12/2009 H1272)
 - 2009-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 2/12/2009 H1272)
 - 2009-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-03-20 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-05-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-05-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-05-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
