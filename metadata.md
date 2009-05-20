@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1089
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1089
@@ -16,9 +16,10 @@ Veterans Employment Rights Realignment Act of 2009
 
 - Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Veterans Employment Rights Realignment Act of 2009
 - 2009-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 270). (text: CR H5725)
 - 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 270).(text: CR H5725)
 - 2009-05-19 — The title of the measure was amended. Agreed to without objection.
+- 2009-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
