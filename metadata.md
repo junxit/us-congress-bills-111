@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 456
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 456
@@ -20,6 +20,10 @@ Providing for the consideration of the Senate amendment to the bill (H.R. 627) t
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2009-05-20 — [House 111-1-273](votes/house-111-1-0273.md) — On Agreeing to the Resolution — **Passed** (247–180)
+
 ## Actions
 
 - 2009-05-19 — Introduced in House
@@ -27,3 +31,11 @@ Providing for the consideration of the Senate amendment to the bill (H.R. 627) t
 - 2009-05-19 — Placed on the House Calendar, Calendar No. 55.
 - 2009-05-19 — The House Committee on Rules reported an original measure, H. Rept. 111-120, by Ms. Pingree (ME).
 - 2009-05-19 — The House Committee on Rules reported an original measure, H. Rept. 111-120, by Ms. Pingree (ME).
+- 2009-05-20 — Considered as privileged matter. (consideration: CR H5808-5815)
+- 2009-05-20 — Considered as unfinished business. (consideration: CR H5822)
+- 2009-05-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 456.
+- 2009-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-05-20 — On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 180 (Roll no. 273). (text: CR H5808)
+- 2009-05-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 456, the Chair put the question on agreeing to the resolution and by voice vote announced the ayes had prevailed. Mr. Sessions demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2009-05-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 247 - 180 (Roll no. 273).(text: CR H5808)
+- 2009-05-20 — The previous question was ordered without objection. (consideration: CR H5815)
