@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1170
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 21 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 21 of title 38, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2108` | amend | Chapter 21 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2108` | add-at-end | The table of sections at the beginning of chapter 21 of title 38, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
