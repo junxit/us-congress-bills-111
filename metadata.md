@@ -1,7 +1,7 @@
 ---
 measure: S. 614
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 614
@@ -93,9 +93,11 @@ A bill to award a Congressional Gold Medal to the Women Airforce Service Pilots 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -112,3 +114,8 @@ A bill to award a Congressional Gold Medal to the Women Airforce Service Pilots 
 - 2009-05-20 — Senate amendment agreed to: Amendment SA 1200 agreed to in Senate by Unanimous Consent.
 - 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1200 proposed by Senator Reid for Senator Hutchison.(consideration: CR S5765; text: CR S5765)
 - 2009-05-20 — Senate amendment submitted
+- 2009-05-21 — Message on Senate action sent to the House.
+- 2009-05-21 — Received in the House.
+- 2009-05-21 — Referred to House Administration
+- 2009-05-21 — Referred to House Financial Services
+- 2009-05-21 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
