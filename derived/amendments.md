@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1676
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -38,7 +38,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, locality, or Indian country of an Indian tribe” after “a State”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “to other than a distributor licensed by or located in such State,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or transfer and shipment” and inserting “, transfer, or shipment”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “with the tobacco tax administrator of the State” and inserting “with the Attorney General of the United States and with the tobacco tax administrators of the State and place”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “with the tobacco tax administrator of the State” and inserting “with the Attorney General and with the tobacco tax administrators of the State and place”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “; and” and inserting the following: “, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “and the quantity thereof.” and inserting “the quantity thereof, and the name, address, and phone number of the person delivering the shipment to the recipient on behalf of the delivery seller, with all invo… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
