@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 103
@@ -61,3 +61,5 @@ Supporting the goals and ideals of Malaria Awareness Day.
 - 2009-05-04 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
 - 2009-05-04 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5077)
 - 2009-05-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5077)
+- 2009-05-05 — Received in the Senate.
+- 2009-05-21 — Referred to the Committee on Foreign Relations.
