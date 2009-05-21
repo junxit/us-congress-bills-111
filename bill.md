@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2346
-congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2346

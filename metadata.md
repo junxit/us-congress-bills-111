@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2346
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 2346
@@ -168,7 +168,7 @@ Supplemental Appropriations Act, 2009
 
 - House — Appropriations Committee
 
-## Recorded votes (8)
+## Recorded votes (12)
 
 - 2009-05-14 — [House 111-1-264](votes/house-111-1-0264.md) — On Motion to Recommit with Instructions — **Failed** (191–237)
 - 2009-05-14 — [House 111-1-265](votes/house-111-1-0265.md) — On Passage — **Passed** (368–60)
@@ -178,6 +178,10 @@ Supplemental Appropriations Act, 2009
 - 2009-05-21 — [Senate 111-1-200](votes/senate-111-1-0200.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–1)
 - 2009-05-21 — [Senate 111-1-201](votes/senate-111-1-0201.md) — On the Amendment — **Amendment Rejected** (30–64)
 - 2009-05-21 — [Senate 111-1-202](votes/senate-111-1-0202.md) — On Passage of the Bill — **Bill Passed** (86–3)
+- 2009-06-11 — [House 111-1-329](votes/house-111-1-0329.md) — On Motion to Instruct Conferees — **Passed** (267–152)
+- 2009-06-16 — [House 111-1-348](votes/house-111-1-0348.md) — On Agreeing to the Conference Report — **Passed** (226–202)
+- 2009-06-18 — [Senate 111-1-209](votes/senate-111-1-0209.md) — On the Motion — **Motion Agreed to** (60–36)
+- 2009-06-18 — [Senate 111-1-210](votes/senate-111-1-0210.md) — On the Conference Report — **Conference Report Agreed to** (91–5)
 
 ## Actions
 
@@ -426,3 +430,43 @@ Supplemental Appropriations Act, 2009
 - 2009-05-21 — Senate amendment submitted
 - 2009-05-21 — Senate amendment submitted
 - 2009-05-21 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Mikulski; Kohl; Murray; Dorgan; Feinstein; Durbin; Johnson; Landrieu; Reed; Lautenberg; Nelson NE; Pryor; Tester; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Murkowski. (consideration: CR S5804)
+- 2009-05-26 — Message on Senate action sent to the House.
+- 2009-06-11 — Conferees agreed to file conference report.
+- 2009-06-11 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-06-11 — Considered as unfinished business. (consideration: CR H6550)
+- 2009-06-11 — DEBATE - The House proceeded with one hour of debate on the Lewis (CA) motion to instruct conferees on H.R. 2346. The instructions contained in the motion seek to require the managers on part of the House agree to funding levels that will result in a total funding level that does not exceed the total funding level provided in the Senate amendment.
+- 2009-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-11 — Mr. Lewis (CA) moved that the House instruct conferees. (consideration: CR H6545-6550; text: CR H6545)
+- 2009-06-11 — Mr. Obey asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H6545-6550)
+- 2009-06-11 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2009-06-11 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 267 - 152 (Roll no. 329). (consideration: CR H6550)
+- 2009-06-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lewis (CA) Motion to Instruct Conferees, the Chair put the question on adoption, and by voice vote announced that the noes had prevailed. Mr. Lewis (CA) objected to the vote on the grounds that a quorum was not present, and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-11 — The Speaker appointed conferees: Obey, Murtha, DeLauro, Lowey, Edwards (TX), Lewis (CA), Young (FL), and Granger.
+- 2009-06-11 — The previous question was ordered without objection. (consideration: CR H6549)
+- 2009-06-12 — Conference report H. Rept. 111-151 filed. (text of conference report: CR H6683-6741)
+- 2009-06-12 — Conference report filed: Conference report H. Rept. 111-151 filed.(text of conference report: CR H6683-6741)
+- 2009-06-12 — Mr. Obey asked unanimous consent that managers on the part of the House have until 11:59 p.m. on June 12 to file a conference report on H.R. 2346. Agreed to without objection.
+- 2009-06-15 — Rules Committee Resolution H. Res. 545 Reported to House. Rule provides for consideration of the conference report to H.R. 2346. Conference report shall be considered as read and shall be debatable for one hour, equally divided and controlled.
+- 2009-06-16 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 226 - 202 (Roll no. 348).
+- 2009-06-16 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2346.
+- 2009-06-16 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-06-16 — Mr. Obey brought up conference report H. Rept. 111-151 for consideration under the provisions of H. Res. 545. (consideration: CR H6865-6885)
+- 2009-06-16 — On agreeing to the conference report Agreed to by the Yeas and Nays: 226 - 202 (Roll no. 348).
+- 2009-06-16 — Rule H. Res. 545 passed House.
+- 2009-06-16 — The previous question was ordered without objection. (consideration: CR H6884)
+- 2009-06-17 — Cloture motion on the Conference Report to accompany the bill presented in Senate. (consideration: CR S6710; text: CR S6710)
+- 2009-06-17 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-06-17 — Conference report considered in Senate. (consideration: CR S6710)
+- 2009-06-18 — Cleared for White House.
+- 2009-06-18 — Cloture motion on the Conference Report to accompany the bill withdrawn by unanimous consent in Senate. (consideration: CR S6789)
+- 2009-06-18 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 91 - 5. Record Vote Number: 210.(consideration: CR S6793)
+- 2009-06-18 — Conference report considered in Senate. (consideration: CR S6772-6793)
+- 2009-06-18 — Message on Senate action sent to the House.
+- 2009-06-18 — Motion to waive all applicable points of order under Rule XLIV on Conference Report with respect to the measure agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 209. (consideration: CR S6772, S6788-6789)
+- 2009-06-18 — Senate agreed to conference report by Yea-Nay Vote. 91 - 5. Record Vote Number: 210. (consideration: CR S6793)
+- 2009-06-19 — Presented to President.
+- 2009-06-19 — Presented to President.
+- 2009-06-24 — Became Public Law No: 111-32.
+- 2009-06-24 — Became Public Law No: 111-32.
+- 2009-06-24 — Signed by President.
+- 2009-06-24 — Signed by President.
