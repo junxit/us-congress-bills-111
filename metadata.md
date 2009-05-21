@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2346
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2346
@@ -16,14 +16,168 @@ Supplemental Appropriations Act, 2009
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
+## Cosponsors (145)
+
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cochran, Thad [R-MS] (C000567)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (8)
 
 - 2009-05-14 — [House 111-1-264](votes/house-111-1-0264.md) — On Motion to Recommit with Instructions — **Failed** (191–237)
 - 2009-05-14 — [House 111-1-265](votes/house-111-1-0265.md) — On Passage — **Passed** (368–60)
+- 2009-05-20 — [Senate 111-1-196](votes/senate-111-1-0196.md) — On the Amendment — **Amendment Agreed to** (90–6)
+- 2009-05-20 — [Senate 111-1-198](votes/senate-111-1-0198.md) — On the Amendment — **Amendment Agreed to** (92–3)
+- 2009-05-20 — [Senate 111-1-199](votes/senate-111-1-0199.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2009-05-21 — [Senate 111-1-200](votes/senate-111-1-0200.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–1)
+- 2009-05-21 — [Senate 111-1-201](votes/senate-111-1-0201.md) — On the Amendment — **Amendment Rejected** (30–64)
+- 2009-05-21 — [Senate 111-1-202](votes/senate-111-1-0202.md) — On Passage of the Bill — **Bill Passed** (86–3)
 
 ## Actions
 
@@ -48,3 +202,227 @@ Supplemental Appropriations Act, 2009
 - 2009-05-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2346.
 - 2009-05-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5631)
 - 2009-05-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5630)
+- 2009-05-19 — Amendment SA 1131 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Amendment SA 1131 proposed by Senator Inouye. (consideration: CR S5591) In the nature of a substitute.
+- 2009-05-19 — Amendment SA 1133 proposed by Senator Inouye. (consideration: CR S5591-5595; text: CR S5591) To prohibit funding to transfer, release, or incarcerate detainees detained at Guantanamo Bay, Cuba, to or within the United States.
+- 2009-05-19 — Amendment SA 1136 proposed by Senator McConnell. (consideration: CR S5595; text: CR S5595) To limit the release of detainees at Guantanamo Bay, Cuba, pending a report on the prisoner population at the detention facility at Guantanamo Bay.
+- 2009-05-19 — Amendment SA 1137 agreed to in Senate by Voice Vote.
+- 2009-05-19 — Amendment SA 1137 proposed by Senator Inouye. (consideration: CR S5595-5598, S5607; text: CR S5595-5596) Of a perfecting nature.
+- 2009-05-19 — Amendment SA 1139 proposed by Senator Cornyn. (consideration: CR S5598-5602; text: CR S5598-5599) To express the sense of the Senate that the interrogators, attorneys, and lawmakers who tried in good faith to protect the United States and abide by the law should not be prosecuted or otherwise sanctioned.
+- 2009-05-19 — Amendment SA 1140 proposed by Senator Brownback. (consideration: CR S5602-5607; text: CR S5602) To express the sense of the Senate on consultation with State and local governments in the transfer to the United States of detainees at Naval Station Guantanamo Bay, Cuba.
+- 2009-05-19 — Cloture motion on the bill presented in Senate. (consideration: CR S5607)
+- 2009-05-19 — Measure laid before Senate by unanimous consent. (consideration: CR S5589-5607)
+- 2009-05-19 — Senate amendment agreed to: Amendment SA 1131 agreed to in Senate by Unanimous Consent.
+- 2009-05-19 — Senate amendment agreed to: Amendment SA 1137 agreed to in Senate by Voice Vote.
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1131 proposed by Senator Inouye.(consideration: CR S5591)
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1133 proposed by Senator Inouye.(consideration: CR S5591-5595; text: CR S5591)
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1136 proposed by Senator McConnell.(consideration: CR S5595; text: CR S5595)
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1137 proposed by Senator Inouye.(consideration: CR S5595-5598, S5607; text: CR S5595-5596)
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1139 proposed by Senator Cornyn.(consideration: CR S5598-5602; text: CR S5598-5599)
+- 2009-05-19 — Senate amendment proposed (on the floor): Amendment SA 1140 proposed by Senator Brownback.(consideration: CR S5602-5607; text: CR S5602)
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-19 — Senate amendment submitted
+- 2009-05-20 — Amendment SA 1133 agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 196.
+- 2009-05-20 — Amendment SA 1136 as modified agreed to in Senate by Yea-Nay Vote. 92 - 3. Record Vote Number: 198. (text as modified: CR S5681)
+- 2009-05-20 — Amendment SA 1138 proposed by Senator Merkley for Senator DeMint. (consideration: CR S5690; text CR S5690) To strike the provisions relating to increased funding for the International Monetary Fund.
+- 2009-05-20 — Amendment SA 1140 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 199. (text as modified: CR S5667)
+- 2009-05-20 — Amendment SA 1143 proposed by Senator Risch. (consideration: CR S5677; text CR S5677) To appropriate, with an offset, an additional $2,000,000,000 for National Guard and Reserve Equipment.
+- 2009-05-20 — Amendment SA 1144 proposed by Senator Chambliss. (consideration: CR S5658-5663, S5663-5666; text CR S5664) To protect the national security of the United States by limiting the immigration rights of individuals detained by the Department of Defense at Guantanamo Bay Naval Base.
+- 2009-05-20 — Amendment SA 1147 proposed by Senator Kyl. (consideration: CR S5674-5675; text CR S5674) To prohibit funds made available for the Strategic Petroleum Reserve to be made available to any person that has engaged in certain activities with respect to the Islamic Republic of Iran.
+- 2009-05-20 — Amendment SA 1156 proposed by Senator Lieberman. (consideration: CR S5669-5673; text CR S5670) To increase the authorized end strength for active duty personnel of the Army.
+- 2009-05-20 — Amendment SA 1157 proposed by Senator Graham for Senator Lieberman. (consideration: CR S5673-5674; text CR S5673-5674) To provide that certain photographic records relating to the treatment of any individual engaged, captured, or detained after September 11, 2001, by the Armed Forces of the United States in operations outside the United States shall not be subject to disclosure under section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act).
+- 2009-05-20 — Amendment SA 1161 proposed by Senator Brown. (consideration: CR S5675; text CR S5675) To require the United States Executive Director of the International Monetary Fund to oppose loans and other programs of the Fund that do not exempt certain spending by the governments of heavily indebted poor countries from certain budget caps and restraints.
+- 2009-05-20 — Amendment SA 1164 proposed by Senator Isakson. (consideration: CR S5666-5667; text CR S5666-5667) To amend the Internal Revenue Code of 1986 to expand the application of the homebuyer credit, and for other purposes.
+- 2009-05-20 — Amendment SA 1167 proposed by Senator Bennet. (consideration: CR S5691; text CR S5691) To require the exclusion of combat pay from income for purposes of determining eligibility for child nutrition programs and the special supplemental nutrition program for women, infants, and children.
+- 2009-05-20 — Amendment SA 1173 proposed by Senator Corker. (consideration: CR S5669; text CR S5669) To provide for the development of objectives for the United States with respect to Afghanistan and Pakistan.
+- 2009-05-20 — Amendment SA 1179 proposed by Senator Kaufman. (consideration: CR S5677-5679, S5690; text CR S5677; text as modified: CR S5690) To ensure that civilian personnel assigned to serve in Afghanistan receive civilian-military coordination training that focuses on counterinsurgency and stability operations.
+- 2009-05-20 — Amendment SA 1181 proposed by Senator Lincoln. (consideration: CR S5676-5677; text CR S5676) To amend the Federal Deposit Insurance Act with respect to the extension of certain limitations.
+- 2009-05-20 — Amendment SA 1185 proposed by Senator Merkley. (consideration: CR S5689-5690; text CR S5689) To express the sense of the Senate on the use by the Department of Defense of funds in the Act for operations in Iraq in a manner consistent with the United States-Iraq Status of Forces Agreement.
+- 2009-05-20 — Amendment SA 1188 proposed by Senator McCain. (consideration: CR S5675-5676; text CR S5675) To make available from funds appropriated by title XI an additional $42,500,000 for assistance for Georgia.
+- 2009-05-20 — Amendment SA 1189 proposed by Senator Hutchison. (consideration: CR S5680-5681, S5689; text CR S5689) To protect auto dealers.
+- 2009-05-20 — Amendment SA 1191 proposed by Senator Leahy. (consideration: CR S5688-5689; text CR S5688-5689) To provide for consultation and reports to Congress regarding the International Monetary Fund.
+- 2009-05-20 — Amendment SA 1199 proposed by Senator Durbin to Amendment SA 1136. (consideration: CR S5683; text CR S5683) Of a perfecting nature.
+- 2009-05-20 — Amendment SA 1201 proposed by Senator Reid to Amendment SA 1167. (consideration: CR S5691; text CR S5691) To change the enactment date.
+- 2009-05-20 — Considered by Senate. (consideration: CR S5650)
+- 2009-05-20 — Considered by Senate. (consideration: CR S5650, S5667-5669, S5687-5688)
+- 2009-05-20 — Considered by Senate. (consideration: CR S5650, S5681-5683, S5685-5787)
+- 2009-05-20 — Considered by Senate. (consideration: CR S5650-5658, S5663)
+- 2009-05-20 — Considered by Senate. (consideration: CR S5650-5683, S5685)
+- 2009-05-20 — Proposed amendment SA 1199 withdrawn in Senate. (consideration: CR S5683)
+- 2009-05-20 — Roll call votes on amendments in Senate: Amendment SA 1133 agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 196.
+- 2009-05-20 — Roll call votes on amendments in Senate: Amendment SA 1136 as modified agreed to in Senate by Yea-Nay Vote. 92 - 3. Record Vote Number: 198.(text as modified: CR S5681)
+- 2009-05-20 — Roll call votes on amendments in Senate: Amendment SA 1140 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 199.(text as modified: CR S5667)
+- 2009-05-20 — Senate amendment agreed to: Amendment SA 1133 agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 196.
+- 2009-05-20 — Senate amendment agreed to: Amendment SA 1136 as modified agreed to in Senate by Yea-Nay Vote. 92 - 3. Record Vote Number: 198.(text as modified: CR S5681)
+- 2009-05-20 — Senate amendment agreed to: Amendment SA 1140 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 199.(text as modified: CR S5667)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1138 proposed by Senator Merkley for Senator DeMint.(consideration: CR S5690; text CR S5690)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1143 proposed by Senator Risch.(consideration: CR S5677; text CR S5677)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1144 proposed by Senator Chambliss.(consideration: CR S5658-5663, S5663-5666; text CR S5664)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1147 proposed by Senator Kyl.(consideration: CR S5674-5675; text CR S5674)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1156 proposed by Senator Lieberman.(consideration: CR S5669-5673; text CR S5670)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1157 proposed by Senator Graham for Senator Lieberman.(consideration: CR S5673-5674; text CR S5673-5674)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1161 proposed by Senator Brown.(consideration: CR S5675; text CR S5675)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1164 proposed by Senator Isakson.(consideration: CR S5666-5667; text CR S5666-5667)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1167 proposed by Senator Bennet.(consideration: CR S5691; text CR S5691)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1173 proposed by Senator Corker.(consideration: CR S5669; text CR S5669)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1179 proposed by Senator Kaufman.(consideration: CR S5677-5679, S5690; text CR S5677; text as modified: CR S5690)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1181 proposed by Senator Lincoln.(consideration: CR S5676-5677; text CR S5676)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1185 proposed by Senator Merkley.(consideration: CR S5689-5690; text CR S5689)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1188 proposed by Senator McCain.(consideration: CR S5675-5676; text CR S5675)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1189 proposed by Senator Hutchison.(consideration: CR S5680-5681, S5689; text CR S5689)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1191 proposed by Senator Leahy.(consideration: CR S5688-5689; text CR S5688-5689)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1199 proposed by Senator Durbin to Amendment SA 1136.(consideration: CR S5683; text CR S5683)
+- 2009-05-20 — Senate amendment proposed (on the floor): Amendment SA 1201 proposed by Senator Reid to Amendment SA 1167.(consideration: CR S5691; text CR S5691)
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-20 — Senate amendment submitted
+- 2009-05-21 — Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 30 - 64. Record Vote Number: 201.
+- 2009-05-21 — Amendment SA 1139 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1143 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1144 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1147 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1156 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1157 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5799)
+- 2009-05-21 — Amendment SA 1161 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5799)
+- 2009-05-21 — Amendment SA 1164 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1167 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1173 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5799)
+- 2009-05-21 — Amendment SA 1176 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5799)
+- 2009-05-21 — Amendment SA 1176 proposed by Senator Reid for Senator Hutchison. (consideration: CR S5799) To help communities impacted by Hurricane Ike.
+- 2009-05-21 — Amendment SA 1179 as modified agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Amendment SA 1181 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Amendment SA 1185 ruled out of order by the chair.
+- 2009-05-21 — Amendment SA 1188 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5799)
+- 2009-05-21 — Amendment SA 1189 ruled non-germane by the chair.
+- 2009-05-21 — Amendment SA 1191 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 200. (consideration: CR S5771; text: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770, S5775-5777, S5799-5801)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770, S5801-5804)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770-5771, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5770-5804)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5780-5781, S5788-5790, S5797-5798)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5782-5787)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5798-5799)
+- 2009-05-21 — Considered by Senate. (consideration: CR S5771, S5799)
+- 2009-05-21 — Passed Senate with an amendment by Yea-Nay Vote. 86 - 3. Record Vote Number: 202.
+- 2009-05-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 86 - 3. Record Vote Number: 202.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1139.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1143.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1144.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1147.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1156.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1164.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1167.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1185.
+- 2009-05-21 — Point of order raised in Senate with respect to amendment SA 1189.
+- 2009-05-21 — Roll call votes on amendments in Senate: Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 30 - 64. Record Vote Number: 201.
+- 2009-05-21 — SA 1201 fell when SA 1167 ruled out of order.
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1157 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5799)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1161 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5799)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1173 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5799)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1176 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5799)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1179 as modified agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1181 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1188 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5799)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1191 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Senate amendment not agreed to: Amendment SA 1138 not agreed to in Senate by Yea-Nay Vote. 30 - 64. Record Vote Number: 201.
+- 2009-05-21 — Senate amendment proposed (on the floor): Amendment SA 1176 proposed by Senator Reid for Senator Hutchison.(consideration: CR S5799)
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Mikulski; Kohl; Murray; Dorgan; Feinstein; Durbin; Johnson; Landrieu; Reed; Lautenberg; Nelson NE; Pryor; Tester; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Murkowski. (consideration: CR S5804)
