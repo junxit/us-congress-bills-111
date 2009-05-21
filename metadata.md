@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 133
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 133
@@ -30,3 +30,4 @@ Providing for an adjournment or recess of the two Houses.
 - 2009-05-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 237 - 184 (Roll no. 282).(text: CR H5904)
 - 2009-05-21 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5886-5887; text as passed Senate: CR S5886-5887)
 - 2009-05-21 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5886-5887; text as passed Senate: CR S5886-5887)
+- 2009-05-22 — Message on Senate action sent to the House.
