@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 19
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 19
@@ -40,3 +40,12 @@ A concurrent resolution expressing the sense of Congress that the Shi'ite Person
 - 2009-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2009-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2009-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
+- 2009-05-21 — Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Amendment SA 1224 proposed by Senator Reid for Senator DeMint. (consideration: CR S5883; text: CR S5883) To amend the preamble.
+- 2009-05-21 — Measure laid before Senate by unanimous consent. (consideration: CR S5883-5884; text of measure as reported in Senate: CR S5883)
+- 2009-05-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S5883-5884)
+- 2009-05-21 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S5883-5884)
+- 2009-05-21 — Senate amendment agreed to: Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2009-05-21 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator Reid for Senator DeMint.(consideration: CR S5883; text: CR S5883)
+- 2009-05-21 — Senate amendment submitted
+- 2009-05-21 — The committee substitute agreed to by Unanimous Consent.
