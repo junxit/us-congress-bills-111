@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2346
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 0 executed, 46 stated and not applied.
+49 amendatory instructions. 0 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | repeal | Section 132 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1392) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | by striking the first proviso in its entirety; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Provided further” the first place it appears and inserting “Provided”. | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (a) of section 9205 of Public Law 110–252 (122 Stat. 2412) is repealed. | the bill names no machine-readable US Code section |
 | — | insert | Subsection (b)(1) of such section is amended by inserting “the Commander of the United States Central Command;” after “the Secretary of Defense;”. | the bill names no machine-readable US Code section |
 | — | replace | Such subsection is further amended by striking “not later than 120 days after the date of the enactment of this Act and every 90 days thereafter” and inserting “not later than 45 days after the end of each fiscal year quarter”. | the bill names no machine-readable US Code section |
@@ -58,7 +61,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 552 of division E of the Consolidated Appropriations Act, 2008 (Public Law 110–161) is amended by striking “local educational agencies” and inserting “primary or secondary school sites” and by inserting “and section 406(c)(2)” af… | the bill names no machine-readable US Code section |
 | — | insert | Public Law 111–8, division E, title III, Department of Health and Human Services, Agency for Toxic Substances and Disease Registry, Toxic Substances and Environmental Public Health is amended by inserting “per eligible employee” after “$… | the bill names no machine-readable US Code section |
 | — | insert | Section 801(a) of division A of Public Law 111–5 is amended by inserting “, and may be transferred by the Department of Labor to any other account within the Department for such purposes” before the end period. | the bill names no machine-readable US Code section |
-| — | amend | The International Development Association Act (22 U.S.C. 284 et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The International Development Association Act (22 U.S.C. 284 et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The African Development Fund Act (22 U.S.C. 290 et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XVI of the International Financial Institutions Act (22 U.S.C. 262p et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XIII of the International Financial Institutions Act (22 U.S.C. 262m et seq.) is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
