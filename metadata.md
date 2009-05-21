@@ -1,7 +1,7 @@
 ---
 measure: S. 614
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 614
@@ -16,7 +16,7 @@ A bill to award a Congressional Gold Medal to the Women Airforce Service Pilots 
 
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 
-## Cosponsors (74)
+## Cosponsors (75)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -92,6 +92,7 @@ A bill to award a Congressional Gold Medal to the Women Airforce Service Pilots 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (3)
 
@@ -119,3 +120,16 @@ A bill to award a Congressional Gold Medal to the Women Airforce Service Pilots 
 - 2009-05-21 — Referred to House Administration
 - 2009-05-21 — Referred to House Financial Services
 - 2009-05-21 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-06-16 — Cleared for White House.
+- 2009-06-16 — Considered under suspension of the rules. (consideration: CR H6840-6843)
+- 2009-06-16 — DEBATE - The House proceeded with forty minutes of debate on S. 614.
+- 2009-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-16 — Mr. Green, Al moved to suspend the rules and pass the bill.
+- 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6840-6841)
+- 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6840-6841)
+- 2009-06-24 — Presented to President.
+- 2009-06-24 — Presented to President.
+- 2009-07-01 — Became Public Law No: 111-40.
+- 2009-07-01 — Became Public Law No: 111-40.
+- 2009-07-01 — Signed by President.
+- 2009-07-01 — Signed by President.
