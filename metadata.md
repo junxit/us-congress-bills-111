@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2352
@@ -33,9 +33,10 @@ Job Creation Through Entrepreneurship Act of 2009
 - Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (3)
 
@@ -148,3 +149,4 @@ Job Creation Through Entrepreneurship Act of 2009
 - 2009-05-20 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
 - 2009-05-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5861)
 - 2009-05-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5861)
+- 2009-05-21 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
