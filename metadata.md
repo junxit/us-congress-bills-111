@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 915
@@ -20,10 +20,11 @@ FAA Reauthorization Act of 2009
 
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (4)
 
@@ -158,3 +159,4 @@ FAA Reauthorization Act of 2009
 - 2009-05-21 — The previous question was ordered pursuant to the rule. (consideration: CR H5978)
 - 2009-05-21 — The title of the measure was amended. Agreed to without objection.
 - 2009-05-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-06-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
