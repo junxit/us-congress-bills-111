@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1676
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1676
@@ -22,9 +22,10 @@ Prevent All Cigarette Trafficking Act of 2009
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Prevent All Cigarette Trafficking Act of 2009
 - 2009-05-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 11 (Roll no. 287). (text: CR 5/19/2009 H5730-5736)
 - 2009-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 11 (Roll no. 287).(text: CR 5/19/2009 H5730-5736)
+- 2009-06-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
