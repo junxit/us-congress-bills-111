@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 19
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 19
@@ -28,9 +28,10 @@ A concurrent resolution expressing the sense of Congress that the Shi'ite Person
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,6 @@ A concurrent resolution expressing the sense of Congress that the Shi'ite Person
 - 2009-05-21 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator Reid for Senator DeMint.(consideration: CR S5883; text: CR S5883)
 - 2009-05-21 — Senate amendment submitted
 - 2009-05-21 — The committee substitute agreed to by Unanimous Consent.
+- 2009-05-22 — Message on Senate action sent to the House.
+- 2009-06-02 — Received in the House.
+- 2009-06-02 — Referred to the House Committee on Foreign Affairs.
