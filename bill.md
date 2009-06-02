@@ -25,11 +25,10 @@ This Act may be cited as the “Camp Hale Study Act”.
 
 ## § 3. Effect of study
 
-Nothing in this Act shall affect valid existing rights or the exercise of such rights, including—
+Nothing in this Act shall affect valid existing rights, including—
 
 - **(1)** all interstate water compacts in existence on the date of the enactment of this Act (including full development of any apportionment made in accordance with the compacts);
 - **(2)** water rights decreed at the Camp Hale site or flowing within, below, or through the Camp Hale site;
 - **(3)** water rights in the State of Colorado;
-- **(4)** water rights held by the United States;
-- **(5)** the management and operation of any reservoir, including the storage, management, release, or transportation of water; and
-- **(6)** the ability, subject to compliance with lawful existing local, State, and Federal regulatory requirements, to construct and operate that infrastructure determined necessary by those with decreed water rights to develop and place to beneficial use such rights.
+- **(4)** water rights held by the United States; and
+- **(5)** the management and operation of any reservoir, including the storage, management, release, or transportation of water.
