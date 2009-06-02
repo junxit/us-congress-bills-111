@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2430
@@ -33,3 +33,9 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Referred to the House Committee on Natural Resources.
+- 2009-06-02 — Considered under suspension of the rules. (consideration: CR H6024-6025)
+- 2009-06-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2430.
+- 2009-06-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6024)
+- 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6024)
