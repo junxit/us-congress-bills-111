@@ -1,7 +1,7 @@
 ---
 measure: H.R. 689
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 689
@@ -34,3 +34,9 @@ Shasta-Trinity National Forest Administrative Jurisdiction Transfer Act
 - 2009-05-14 — Placed on the Union Calendar, Calendar No. 52.
 - 2009-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-108.
 - 2009-05-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-108.
+- 2009-06-02 — Considered under suspension of the rules. (consideration: CR H6022-6023)
+- 2009-06-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 689.
+- 2009-06-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
+- 2009-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6022-6023)
+- 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6022-6023)
