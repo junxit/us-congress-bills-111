@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 137
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 137
@@ -30,3 +30,7 @@ A resolution recognizing and commending the people of the Great Smoky Mountains 
 
 - 2009-05-07 — Introduced in Senate
 - 2009-05-07 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5295-5296)
+- 2009-06-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5980-5981; text as passed Senate: CR S5980-5981)
+- 2009-06-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5980-5981; text as passed Senate: CR S5980-5981)
+- 2009-06-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2009-06-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
