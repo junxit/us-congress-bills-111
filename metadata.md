@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 40
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 40
@@ -37,3 +37,4 @@ Native American Heritage Day Act of 2009
 - 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the resolution, as amended.
 - 2009-06-02 — On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 293). (text: CR H6025-6026)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 293).(text: CR H6025-6026)
+- 2009-06-03 — Received in the Senate, read twice.
