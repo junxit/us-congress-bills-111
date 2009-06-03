@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1393
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1393
@@ -16,9 +16,10 @@ Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2009
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2009
 - 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6020-6021)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6020-6021)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
