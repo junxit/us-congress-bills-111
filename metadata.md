@@ -1,7 +1,7 @@
 ---
 measure: S. 1144
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1144
@@ -21,11 +21,15 @@ Rural Transit Improvement and Flexibility Act of 2009
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
 - 2009-05-21 — Introduced in Senate
 - 2009-05-21 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2009-06-03 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2009-06-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2009-06-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
