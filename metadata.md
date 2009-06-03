@@ -1,7 +1,7 @@
 ---
 measure: H.R. 689
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 689
@@ -16,9 +16,10 @@ Shasta-Trinity National Forest Administrative Jurisdiction Transfer Act
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Shasta-Trinity National Forest Administrative Jurisdiction Transfer Act
 - 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
 - 2009-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6022-6023)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6022-6023)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
