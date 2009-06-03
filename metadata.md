@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 437
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 437
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Mental Health Month.
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Cosponsors (105)
+## Cosponsors (113)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
@@ -123,6 +123,14 @@ Supporting the goals and ideals of Mental Health Month.
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 
 ## Committees (1)
 
@@ -133,3 +141,10 @@ Supporting the goals and ideals of Mental Health Month.
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Referred to the House Committee on Energy and Commerce.
+- 2009-05-15 — Referred to the Subcommittee on Health.
+- 2009-06-03 — Considered under suspension of the rules. (consideration: CR H6093-6099)
+- 2009-06-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 437.
+- 2009-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-03 — Mrs. Capps moved to suspend the rules and agree to the resolution, as amended.
+- 2009-06-03 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6093)
+- 2009-06-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6093)
