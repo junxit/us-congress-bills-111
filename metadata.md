@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1280
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1280
@@ -20,9 +20,10 @@ To modify a land grant patent issued by the Secretary of the Interior.
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To modify a land grant patent issued by the Secretary of the Interior.
 - 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6021-6022)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6021-6022)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
