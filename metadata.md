@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2430
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2430
@@ -24,9 +24,10 @@ North Cascades National Park Service Complex Fish Stocking Act
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2009-06-02 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6024)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6024)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
