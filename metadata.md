@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1380
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1380
@@ -97,10 +97,11 @@ Josh Miller HEARTS Act
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -117,3 +118,4 @@ Josh Miller HEARTS Act
 - 2009-06-02 — Mr. Tonko moved to suspend the rules and pass the bill.
 - 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6029-6030)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6029-6030)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
