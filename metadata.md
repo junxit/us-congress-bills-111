@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 40
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 40
@@ -38,3 +38,13 @@ Native American Heritage Day Act of 2009
 - 2009-06-02 — On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 293). (text: CR H6025-6026)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 293).(text: CR H6025-6026)
 - 2009-06-03 — Received in the Senate, read twice.
+- 2009-06-09 — Cleared for White House.
+- 2009-06-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6389)
+- 2009-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6389)
+- 2009-06-10 — Message on Senate action sent to the House.
+- 2009-06-16 — Presented to President.
+- 2009-06-16 — Presented to President.
+- 2009-06-26 — Became Public Law No: 111-33.
+- 2009-06-26 — Became Public Law No: 111-33.
+- 2009-06-26 — Signed by President.
+- 2009-06-26 — Signed by President.
