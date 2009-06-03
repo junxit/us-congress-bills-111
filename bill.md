@@ -2,7 +2,7 @@
 legis-num: H. RES. 471
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 471
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas on Monday, May 11, 2009, the Nation experienced a tragedy when a soldier at the combat stress clinic at Camp Liberty, Iraq, reportedly killed five innocent American servicemen, and wounded three others;
-- Whereas the shooting resulted in the tragic loss of Navy Commander Charles K. Springle, Army Major Matthew P. Houseal, Army Sergeant Christian E. Bueno-Galdos, Army Specialist Jacob D. Barton, and Army Private First Class Michael E. Yates;
+- Whereas the shooting resulted in the tragic loss of Navy Commander Charles K. Springle, Army Major Matthew P. Houseal, Army Sergeant Christian E. Bueno-Galdos, Army Specialist Jacob D. Barton, and Army Specialist Michael E. Yates;
 - Whereas the lives of the victims were taken while they were bravely and honorably serving the United States on the front lines in Iraq;
 - Whereas the combat stress clinic at Camp Liberty, Iraq, and similar clinics in theater and at home provide essential mental health services to the Nation’s servicemen and women;
 - Whereas the Nation’s protracted military engagements in Iraq and Afghanistan call for increased attention to the mental health challenges faced by the courageous members of the Armed Forces; and

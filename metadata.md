@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 471
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 471
@@ -16,7 +16,7 @@ Expressing sympathy to the victims, families, and friends of the tragic act of v
 
 - Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
 
-## Cosponsors (48)
+## Cosponsors (52)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
@@ -66,13 +66,29 @@ Expressing sympathy to the victims, families, and friends of the tragic act of v
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Lee, Christopher J. [R-NY-26] (L000568)
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2009-06-03 — [House 111-1-299](votes/house-111-1-0299.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (416–0)
 
 ## Actions
 
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Armed Services.
+- 2009-06-02 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Kratovil objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-06-02 — Considered under suspension of the rules. (consideration: CR H6038-6040)
+- 2009-06-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 471.
+- 2009-06-02 — Mr. Kratovil moved to suspend the rules and agree to the resolution, as amended.
+- 2009-06-03 — Considered as unfinished business. (consideration: CR H6123-6124)
+- 2009-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-03 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 299). (text: CR 6/2/2009 H6038)
+- 2009-06-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 299).(text: CR 6/2/2009 H6038)
