@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1662
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1662
@@ -51,9 +51,10 @@ Anthony DeJuan Boatwright Act
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Anthony DeJuan Boatwright Act
 - 2009-06-02 — Mr. Tonko moved to suspend the rules and pass the bill.
 - 2009-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6034)
 - 2009-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6034)
+- 2009-06-03 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

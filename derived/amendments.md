@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1662
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in subparagraph (E)(i) by adding at the end the following: “The State shall include as part of its regulatory process for issuance and renewal of licenses to providers of child care services, a recommendation to each provider that it car… | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii) by striking “and” at the end, | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii) by striking the period at the end and inserting a semicolon, | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (iii) the following: | the bill names no machine-readable US Code section |
-| — | insert | in the last sentence by inserting “clauses (i), (ii), or (iii) of” after “Nothing in”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 9858c` | add-at-end | in subparagraph (E)(i) by adding at the end the following: “The State shall include as part of its regulatory process for issuance and renewal of licenses to providers of child care services, a recommendation to each provider that it car… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9858c` | strike | in clause (ii) by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9858c` | replace | in clause (iii) by striking the period at the end and inserting a semicolon, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9858c` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9858c` | insert | in the last sentence by inserting “clauses (i), (ii), or (iii) of” after “Nothing in”. | the bill quotes the text inserted but describes where it goes |
