@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1320
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -39,7 +39,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended in the matter following subparagraph (C) by adding at the end the following: “An advisory committee is considered to be established by an agency, agencies, or … | the bill names no machine-readable US Code section |
-| — | amend | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking the section designation and heading and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (a) as subsection (d) and in that subsection— | the bill names no machine-readable US Code section |
 | — | insert | by inserting the following subsection heading: “Availability of Paper Copies of Transcripts.—”; and | the bill names no machine-readable US Code section |
