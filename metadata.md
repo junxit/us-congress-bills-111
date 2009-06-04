@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1385
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1385
@@ -27,9 +27,10 @@ Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2009
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2009
 - 2009-06-03 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
 - 2009-06-03 — The previous question was ordered pursuant to the rule. (consideration: CR H6115)
 - 2009-06-03 — The title of the measure was amended. Agreed to without objection.
+- 2009-06-04 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
