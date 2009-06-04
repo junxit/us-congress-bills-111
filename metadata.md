@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 109
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 109
@@ -187,3 +187,6 @@ Honoring the 20th anniversary of the Susan G. Komen Race for the Cure in the Nat
 - 2009-06-03 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 298). (text: CR H6090-6091)
 - 2009-06-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 298).(text: CR H6090-6091)
 - 2009-06-04 — Received in the Senate.
+- 2009-06-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6316)
+- 2009-06-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6316)
+- 2009-06-09 — Message on Senate action sent to the House.
