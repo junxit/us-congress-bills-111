@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 404
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 404
@@ -16,7 +16,7 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. Boehner, John A. [R-OH-8] (B000589)
 - Rep. Cantor, Eric [R-VA-7] (C001046)
@@ -32,6 +32,9 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
 ## Committees (1)
 
@@ -42,3 +45,8 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Referred to the House Committee on Homeland Security.
+- 2009-05-19 — Committee Consideration and Mark-up Session Held.
+- 2009-05-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-04 — Placed on the House Calendar, Calendar No. 63.
+- 2009-06-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-134.
+- 2009-06-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-134.
