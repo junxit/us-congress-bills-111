@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 0 executed, 64 stated and not applied.
+83 amendatory instructions. 0 executed, 83 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -65,8 +65,18 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 44918(a)(6) of title 49, United States Code, is amended by adding at the end the following: “The Assistant Secretary shall establish an oversight program for security training of cabin crewmembers that includes developing perform… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44903 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44903(j)(2)(C) of title 49, United States Code, is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (7) as paragraph (8); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 44901 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (121 Stat. 478) is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1604(b)(2) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (121 Stat. 481) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 44903 of title 49, United States Code (as amended by this Act), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) by striking “immediately in order to protect transportation security” and inserting “in order to respond to an imminent threat of finite duration”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B) by inserting “to determine if the regulation or security directive is needed to respond to an imminent threat of finite duration” before the period at the end of the first sentence; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (6) as paragraphs (3) through (7), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) through (j) as subsections (b) through (i), respectively; and | the bill names no machine-readable US Code section |
@@ -82,6 +92,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XIII of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53) is amended by adding at the end of title XIII (Transportation Security Enchantments) the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B), by inserting “bollards,” after “including”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting after “including” the following: “projects for the purpose of demonstrating or assessing the capability of such systems and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) through (k) as subsections (f) through (l), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (l) and (m) as subsections (n) and (o), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following new subsection (e): | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (l), as redesignated by paragraph (2) of this section, the following new subsection (m): | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following new paragraph (1): | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following new paragraph (3): | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “and”; | the bill names no machine-readable US Code section |
@@ -91,7 +110,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (f) and inserting the following new subsection (f): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 70105 of title 46, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 70105(b) of title 46, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 44903(j)(2)(C) of title 49, United States Code, as amended by section 213 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 44903(j)(2)(C) of title 49, United States Code, as amended by section 213 of the bill, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents contained in section 1(b) of the Homeland Security Act of 2002 (116 Stat. 2135) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 5103a of title 49, United States Code, and the item relating to that section in the analysis for chapter 51 of such title, are repealed. | the bill names no machine-readable US Code section |
