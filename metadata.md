@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2173
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2173
@@ -20,9 +20,10 @@ To designate the facility of the United States Postal Service located at 1009 Cr
 
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To designate the facility of the United States Postal Service located at 1009 Cr
 - 2009-06-03 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6087)
 - 2009-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6087)
+- 2009-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
