@@ -33,8 +33,9 @@ This Act may be cited as the “Federal Employees Paid Parental Leave Act of 200
     >     - **(i)** the benefits provided to the Federal Government of offering increased paid parental leave, including enhanced recruitment and retention of employees;
     >     - **(ii)** the cost to the Federal Government of increasing the amount of paid parental leave that is available to employees;
     >     - **(iii)** trends in the private sector and in State and local governments with respect to offering paid parental leave;
-    >     - **(iv)** the Federal Government’s role as a model employer; and
-    >     - **(v)** such other factors as the Director considers necessary; and
+    >     - **(iv)** the Federal Government’s role as a model employer;
+    >     - **(v)** the impact of increased paid parental leave on lower-income and economically disadvantaged employees and their children; and
+    >     - **(vi)** such other factors as the Director considers necessary; and
     >   - **(B)** shall prescribe any regulations necessary to carry out this subsection, including, subject to paragraph (4), the manner in which an employee may designate any day or other period as to which such employee wishes to use paid parental leave described in paragraph (3)(A).
 
 - **(b)** *Effective date* The amendment made by this section shall not be effective with respect to any birth or placement occurring before the end of the 6-month period beginning on the date of the enactment of this Act.
@@ -71,3 +72,9 @@ This Act may be cited as the “Federal Employees Paid Parental Leave Act of 200
   >     - **(ii)** if not used by the employee of such employer before the end of the 12-month period (as referred to in subsection (a)(1)) to which it relates, shall not accumulate for any subsequent use.
 
 - **(b)** *Effective date* The amendment made by this section shall not be effective with respect to any birth or placement occurring before the end of the 6-month period beginning on the date of the enactment of this Act.
+
+## § 5. Clarification for members of the National Guard and Reserves
+
+- **(a)** *Executive branch employees* For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under paragraph (1)(A) or (B) of section 6382(a) of title 5, United States Code, or to substitute such leave pursuant to paragraph (2) of such section (as added by section 2), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title.
+- **(b)** *Congressional Employees* For purposes of determining the eligibility of a covered employee (as such term is defined in section 101(3) of the Congressional Accountability Act) who is a member of the National Guard or Reserves to take leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (pursuant to section 202(a)(1) of the Congressional Accountability Act), or to substitute such leave pursuant to subsection (d) of section 202 of such Act (as added by section 3), any service by such employee on active duty (as defined in section 101(14) of the Family and Medical Leave Act of 1993) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act.
+- **(c)** *GAO and Library of Congress Employees* For purposes of determining the eligibility of an employee of the Government Accountability Office or Library of Congress who is a member of the National Guard or Reserves to take leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993, or to substitute such leave pursuant to paragraph (3) of section 102(d) of such Act (as added by section 4), any service by such employee on active duty (as defined in section 101(14) of such Act) shall be counted as time during which such employee has been employed for purposes of section 101(2)(A) of such Act.

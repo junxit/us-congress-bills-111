@@ -1,7 +1,7 @@
 ---
 measure: H.R. 626
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 626
@@ -79,6 +79,12 @@ Federal Employees Paid Parental Leave Act of 2009
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
 
+## Recorded votes (3)
+
+- 2009-06-04 — [House 111-1-308](votes/house-111-1-0308.md) — On Agreeing to the Amendment — **Failed** (157–258)
+- 2009-06-04 — [House 111-1-309](votes/house-111-1-0309.md) — On Motion to Recommit with Instructions — **Failed** (171–241)
+- 2009-06-04 — [House 111-1-310](votes/house-111-1-0310.md) — On Passage — **Passed** (258–154)
+
 ## Actions
 
 - 2009-01-22 — Introduced in House
@@ -97,3 +103,43 @@ Federal Employees Paid Parental Leave Act of 2009
 - 2009-05-18 — Placed on the Union Calendar, Calendar No. 59.
 - 2009-05-18 — Reported by the Committee on Oversight and Government. H. Rept. 111-116, Part I.
 - 2009-05-18 — Reported by the Committee on Oversight and Government. H. Rept. 111-116, Part I.
+- 2009-06-03 — Rules Committee Resolution H. Res. 501 Reported to House. Rule provides for consideration of H.R. 626 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
+- 2009-06-04 — Amendment (A001) offered by Mr. Issa. (consideration: CR H6234-6235, H6237; text: CR H6234)
+- 2009-06-04 — Amendment (A002) offered by Mr. Green, Al. (consideration: CR H6235-6236; text: CR H6235-6236)
+- 2009-06-04 — Amendment (A003) offered by Mr. Bright. (consideration: CR H6236-6237; text: CR H6236)
+- 2009-06-04 — Amendment agreed to Committee of the Whole
+- 2009-06-04 — Amendment agreed to Committee of the Whole
+- 2009-06-04 — Amendment failed in Committee of the Whole
+- 2009-06-04 — Considered under the provisions of rule H. Res. 501. (consideration: CR H6223-6240)
+- 2009-06-04 — DEBATE - Pursuant to the provisions of H.Res. 501, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment.
+- 2009-06-04 — DEBATE - Pursuant to the provisions of H.Res. 501, the Committee of the Whole proceeded with 10 minutes of debate on the Bright amendment.
+- 2009-06-04 — DEBATE - Pursuant to the provisions of H.Res. 501, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment.
+- 2009-06-04 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Issa motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment adding a new section to the end of the bill titled "LIMITATION".
+- 2009-06-04 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 626.
+- 2009-06-04 — House amendment agreed to: On agreeing to the Bright amendment (A003) Agreed to by voice vote.
+- 2009-06-04 — House amendment agreed to: On agreeing to the Green, Al amendment (A002) Agreed to by voice vote.
+- 2009-06-04 — House amendment not agreed to: On agreeing to the Issa amendment (A001) Failed by recorded vote: 157 - 258 (Roll no. 308).
+- 2009-06-04 — House amendment offered
+- 2009-06-04 — House amendment offered
+- 2009-06-04 — House amendment offered
+- 2009-06-04 — House amendment offered/reported by : Amendment (A001) offered by Mr. Issa.(consideration: CR H6234-6235, H6237; text: CR H6234)
+- 2009-06-04 — House amendment offered/reported by : Amendment (A002) offered by Mr. Green, Al.(consideration: CR H6235-6236; text: CR H6235-6236)
+- 2009-06-04 — House amendment offered/reported by : Amendment (A003) offered by Mr. Bright.(consideration: CR H6236-6237; text: CR H6236)
+- 2009-06-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 501 and Rule XVIII.
+- 2009-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-04 — Mr. Issa moved to recommit with instructions to Oversight and Government. (consideration: CR H6237-6239; text: CR H6237-6238)
+- 2009-06-04 — On agreeing to the Bright amendment (A003) Agreed to by voice vote.
+- 2009-06-04 — On agreeing to the Green, Al amendment (A002) Agreed to by voice vote.
+- 2009-06-04 — On agreeing to the Issa amendment (A001) Failed by recorded vote: 157 - 258 (Roll no. 308).
+- 2009-06-04 — On motion to recommit with instructions Failed by recorded vote: 171 - 241 (Roll no. 309).
+- 2009-06-04 — On passage Passed by recorded vote: 258 - 154, 1 Present (Roll no. 310).
+- 2009-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Issa demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-04 — Passed/agreed to in House: On passage Passed by recorded vote: 258 - 154, 1 Present (Roll no. 310).
+- 2009-06-04 — Roll call votes on amendments in House
+- 2009-06-04 — Rule H. Res. 501 passed House.
+- 2009-06-04 — Rule provides for consideration of H.R. 626 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI.
+- 2009-06-04 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H6233-6234)
+- 2009-06-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 626.
+- 2009-06-04 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
+- 2009-06-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6238)
+- 2009-06-04 — The previous question was ordered pursuant to the rule. (consideration: CR H6237)
