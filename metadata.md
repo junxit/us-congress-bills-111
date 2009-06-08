@@ -1,7 +1,7 @@
 ---
 measure: H.R. 626
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 626
@@ -74,10 +74,11 @@ Federal Employees Paid Parental Leave Act of 2009
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -143,3 +144,4 @@ Federal Employees Paid Parental Leave Act of 2009
 - 2009-06-04 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
 - 2009-06-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6238)
 - 2009-06-04 — The previous question was ordered pursuant to the rule. (consideration: CR H6237)
+- 2009-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
