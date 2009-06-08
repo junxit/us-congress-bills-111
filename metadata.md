@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 435
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 435
@@ -16,7 +16,7 @@ Celebrating Asian/Pacific-American Heritage.
 
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Cosponsors (54)
+## Cosponsors (56)
 
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
@@ -72,6 +72,8 @@ Celebrating Asian/Pacific-American Heritage.
 - Rep. Tanner, John S. [D-TN-8] (T000038)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Wu, David [D-OR-1] (W000793)
 
 ## Committees (1)
 
@@ -82,3 +84,12 @@ Celebrating Asian/Pacific-American Heritage.
 - 2009-05-13 — Introduced in House
 - 2009-05-13 — Introduced in House
 - 2009-05-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-06-08 — Considered under suspension of the rules. (consideration: CR H6279-6282)
+- 2009-06-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 435.
+- 2009-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-08 — Mr. Lynch moved to suspend the rules and agree to the resolution, as amended.
+- 2009-06-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6279)
+- 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6279)
+- 2009-06-08 — The title of the measure was amended. Agreed to without objection.
