@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 356
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 356
@@ -16,7 +16,7 @@ Expressing support for the designation of February 8, 2010, as "Boy Scouts of Am
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 
-## Cosponsors (68)
+## Cosponsors (73)
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. Ross, Mike [D-AR-4] (R000573)
@@ -86,6 +86,11 @@ Expressing support for the designation of February 8, 2010, as "Boy Scouts of Am
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
@@ -96,3 +101,11 @@ Expressing support for the designation of February 8, 2010, as "Boy Scouts of Am
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-05-06 — Committee Consideration and Mark-up Session Held.
+- 2009-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2009-06-08 — Considered under suspension of the rules. (consideration: CR H6277-6279)
+- 2009-06-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 356.
+- 2009-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-08 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-06-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6277)
+- 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6277)
