@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 142
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 142
@@ -16,7 +16,7 @@ A resolution designating July 25, 2009, as "National Day of the American Cowboy"
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -26,6 +26,9 @@ A resolution designating July 25, 2009, as "National Day of the American Cowboy"
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Risch, James E. [R-ID] (R000584)
 
 ## Committees (1)
 
@@ -36,3 +39,7 @@ A resolution designating July 25, 2009, as "National Day of the American Cowboy"
 - 2009-05-12 — Introduced in Senate
 - 2009-05-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5377)
 - 2009-05-12 — Sponsor introductory remarks on measure. (CR S5377)
+- 2009-06-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6316; text as passed Senate: CR S6316)
+- 2009-06-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6316; text as passed Senate: CR S6316)
+- 2009-06-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2009-06-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.
