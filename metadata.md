@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 256
@@ -16,7 +16,7 @@ Combat Methamphetamine Enhancement Act of 2009
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -37,6 +37,7 @@ Combat Methamphetamine Enhancement Act of 2009
 - Sen. Nelson, Ben [D-NE] (N000180)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
@@ -51,3 +52,5 @@ Combat Methamphetamine Enhancement Act of 2009
 - 2009-03-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2009-03-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2009-03-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
+- 2009-06-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6315-6316; text as passed Senate: CR S6315-6316)
+- 2009-06-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6315-6316; text as passed Senate: CR S6315-6316)
