@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1817
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1817
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 116 Nor
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Tanner, John S. [D-TN-8] (T000038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 116 Nor
 - 2009-06-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-06-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 302). (text: CR 6/3/2009 H6081)
 - 2009-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 302).(text: CR 6/3/2009 H6081)
+- 2009-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
