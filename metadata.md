@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2200
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2200
@@ -21,9 +21,10 @@ Transportation Security Administration Authorization Act
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (4)
 
@@ -175,3 +176,4 @@ Transportation Security Administration Authorization Act
 - 2009-06-04 — The Speaker designated the Honorable Alcee L. Hastings to act as Chairman of the Committee.
 - 2009-06-04 — The previous question was ordered pursuant to the rule. (consideration: CR H6213)
 - 2009-06-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-06-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
