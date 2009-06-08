@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1687
@@ -37,3 +37,10 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Introduced in House
 - 2009-03-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-03-25 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-04 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-06-08 — Placed on the House Calendar, Calendar No. 64.
+- 2009-06-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-140.
+- 2009-06-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-140.
