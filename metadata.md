@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2344
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2344
@@ -38,3 +38,9 @@ Webcaster Settlement Act of 2009
 - 2009-06-08 — Placed on the Union Calendar, Calendar No. 71.
 - 2009-06-08 — Reported by the Committee on Judiciary. H. Rept. 111-139.
 - 2009-06-08 — Reported by the Committee on Judiciary. H. Rept. 111-139.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6330-6332)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2344.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
+- 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6330)
