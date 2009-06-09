@@ -1,7 +1,7 @@
 ---
 measure: H.R. 31
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 31
@@ -237,3 +237,6 @@ Lumbee Recognition Act
 - 2009-06-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 179 (Roll No. 297).(text: CR H6115)
 - 2009-06-03 — Rule provides for consideration of H.R. 31 and H.R. 1385. General debate for each bill is limited to 1 hour equally divided and controlled. For H.R. 1385, specified amendments are in order. For each bill, the previous question shall be considered as ordered without intervening motions except one motion to recommit with or without instructions.
 - 2009-06-03 — The previous question was ordered pursuant to the rule. (consideration: CR H6120)
+- 2009-06-04 — Received in the Senate.
+- 2009-06-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-06-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
