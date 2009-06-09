@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 502
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 502
@@ -16,7 +16,7 @@ Recognizing National Homeownership Month and the importance of homeownership in 
 
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
@@ -30,6 +30,7 @@ Recognizing National Homeownership Month and the importance of homeownership in 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
 
 ## Committees (1)
 
@@ -40,3 +41,9 @@ Recognizing National Homeownership Month and the importance of homeownership in 
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Referred to the House Committee on Financial Services.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6370-6372)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 502.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Ms. Waters moved to suspend the rules and agree to the resolution.
+- 2009-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6370)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6370)
