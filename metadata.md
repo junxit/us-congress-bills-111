@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 385
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 385
@@ -16,7 +16,7 @@ Celebrating the life of Millard Fuller, a life which provides all the evidence o
 
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Cosponsors (68)
+## Cosponsors (70)
 
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Baca, Joe [D-CA-43] (B001234)
@@ -86,6 +86,8 @@ Celebrating the life of Millard Fuller, a life which provides all the evidence o
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
 
 ## Committees (1)
 
@@ -96,3 +98,9 @@ Celebrating the life of Millard Fuller, a life which provides all the evidence o
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Referred to the House Committee on Financial Services.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6372-6373)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 385.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Mr. Cleaver moved to suspend the rules and agree to the resolution.
+- 2009-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6372)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6372)
