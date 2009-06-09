@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2751
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2751
@@ -16,7 +16,7 @@ FDA Food Safety Modernization Act
 
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Cosponsors (51)
+## Cosponsors (59)
 
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
@@ -69,11 +69,23 @@ FDA Food Safety Modernization Act
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Griffith, Parker [D-AL-5] (G000557)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
 
 ## Committees (2)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2009-06-09 — [House 111-1-314](votes/house-111-1-0314.md) — On Motion to Suspend the Rules and Pass — **Passed** (298–119)
 
 ## Actions
 
@@ -82,3 +94,10 @@ FDA Food Safety Modernization Act
 - 2009-06-08 — Referred to House Energy and Commerce
 - 2009-06-08 — Referred to House Ways and Means
 - 2009-06-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6345-6357)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2751.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Ms. Sutton moved to suspend the rules and pass the bill.
+- 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 298 - 119, 2 Present (Roll no. 314). (text: CR H6345-6347)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 298 - 119, 2 Present (Roll no. 314).(text: CR H6345-6347)
+- 2009-06-09 — Referred to the Subcommittee on Energy and Environment.
