@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 505
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 505
@@ -16,7 +16,7 @@ Condemning the murder of Dr. George Tiller, who was shot to death at his church 
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Cosponsors (80)
+## Cosponsors (87)
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
@@ -98,13 +98,32 @@ Condemning the murder of Dr. George Tiller, who was shot to death at his church 
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Green, Gene [D-TX-29] (G000410)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2009-06-09 — [House 111-1-316](votes/house-111-1-0316.md) — On Motion to Suspend the Rules and Agree — **Passed** (423–0)
 
 ## Actions
 
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Referred to the House Committee on the Judiciary.
+- 2009-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-09 — Considered as unfinished business. (consideration: CR H6357-6358)
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6320-6325)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 505.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Mr. Nadler (NY) moved to suspend the rules and agree to the resolution.
+- 2009-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 316). (text: CR H6320)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 316).(text: CR H6320)
