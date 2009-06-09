@@ -1,7 +1,7 @@
 ---
 measure: H.R. 466
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 466
@@ -27,9 +27,10 @@ Wounded Veteran Job Security Act
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Wounded Veteran Job Security Act
 - 2009-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6287)
 - 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6287)
 - 2009-06-08 — The title of the measure was amended. Agreed to without objection.
+- 2009-06-09 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
