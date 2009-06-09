@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1741
 
-> To require the Attorney General to make competitive grants to eligible State, tribal, and local prosecutors to establish and maintain certain protection and witness assistance programs.
+> To require the Attorney General to make competitive grants to eligible State, tribal, and local governments to establish and maintain certain protection and witness assistance programs.
 
 ## § 1. Short title
 
