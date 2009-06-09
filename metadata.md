@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1709
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1709
@@ -34,10 +34,11 @@ STEM Education Coordination Act of 2009
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ STEM Education Coordination Act of 2009
 - 2009-06-08 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
 - 2009-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 39 (Roll no. 312). (text: CR H6272-6273)
 - 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 353 - 39 (Roll no. 312).(text: CR H6272-6273)
+- 2009-06-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
