@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 410
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 410
@@ -62,3 +62,9 @@ Recognizing the numerous contributions of the recreational boating community and
 - 2009-06-08 — Placed on the House Calendar, Calendar No. 66.
 - 2009-06-08 — Reported by the Committee on Transportation. H. Rept. 111-142.
 - 2009-06-08 — Reported by the Committee on Transportation. H. Rept. 111-142.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6366-6368)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 410.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Mr. Larsen (WA) moved to suspend the rules and agree to the resolution.
+- 2009-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6366)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6366)
