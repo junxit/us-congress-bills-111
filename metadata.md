@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1736
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1736
@@ -25,9 +25,10 @@ International Science and Technology Cooperation Act of 2009
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Miller, Brad [D-NC-13] (M001154)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ International Science and Technology Cooperation Act of 2009
 - 2009-06-08 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
 - 2009-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 52 (Roll no. 311). (text: CR H6270-6271)
 - 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 52 (Roll no. 311).(text: CR H6270-6271)
+- 2009-06-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
