@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2675
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2675
@@ -31,3 +31,9 @@ Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Referred to the House Committee on the Judiciary.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6329-6330)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2675.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
+- 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6329)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6329)
