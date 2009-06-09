@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 498
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 498
@@ -16,7 +16,7 @@ Honoring and congratulating the U.S. Border Patrol on its 85th anniversary.
 
 - Rep. Teague, Harry [D-NM-2] (T000466)
 
-## Cosponsors (37)
+## Cosponsors (46)
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
@@ -55,6 +55,15 @@ Honoring and congratulating the U.S. Border Patrol on its 85th anniversary.
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Green, Al [D-TX-9] (G000553)
 
 ## Committees (1)
 
@@ -65,3 +74,9 @@ Honoring and congratulating the U.S. Border Patrol on its 85th anniversary.
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Referred to the House Committee on Homeland Security.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6373-6377)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 498.
+- 2009-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-09 — Ms. Sanchez, Loretta moved to suspend the rules and agree to the resolution.
+- 2009-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6374)
+- 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6374)
