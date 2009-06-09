@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 256
@@ -39,9 +39,11 @@ Combat Methamphetamine Enhancement Act of 2009
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -54,3 +56,8 @@ Combat Methamphetamine Enhancement Act of 2009
 - 2009-03-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
 - 2009-06-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6315-6316; text as passed Senate: CR S6315-6316)
 - 2009-06-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6315-6316; text as passed Senate: CR S6315-6316)
+- 2009-06-09 — Message on Senate action sent to the House.
+- 2009-06-09 — Received in the House.
+- 2009-06-09 — Referred to House Energy and Commerce
+- 2009-06-09 — Referred to House Judiciary
+- 2009-06-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
