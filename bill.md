@@ -17,11 +17,11 @@ This Act may be cited as the “Good Neighbor Forestry Act”.
 
 In this Act:
 
-- **(1)** *Eligible State* The term “eligible State” means a State that contains National Forest System land or Bureau of Land Management land located west of the 100th meridian.
-- **(2)** *Secretary* The term “Secretary” means—
+- **(1)** *Eligible State* The term eligible State means a State that contains National Forest System land or Bureau of Land Management land located west of the 100th meridian.
+- **(2)** *Secretary* The term Secretary means—
   - **(A)** the Secretary of Agriculture, with respect to National Forest System land; or
   - **(B)** the Secretary of the Interior, with respect to Bureau of Land Management land.
-- **(3)** *State forester* The term “State forester” means the head of a State agency with jurisdiction over State forestry programs in an eligible State.
+- **(3)** *State forester* The term State forester means the head of a State agency with jurisdiction over State forestry programs in an eligible State.
 
 ## § 3. Cooperative agreements and contracts
 
