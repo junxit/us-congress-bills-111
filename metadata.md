@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 453
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 453
@@ -50,8 +50,20 @@ Recognizing the significant accomplishments of the AmeriCorps and encouraging al
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2009-06-10 — [House 111-1-318](votes/house-111-1-0318.md) — On Motion to Suspend the Rules and Agree — **Passed** (359–60)
+
 ## Actions
 
 - 2009-05-18 — Introduced in House
 - 2009-05-18 — Introduced in House
 - 2009-05-18 — Referred to the House Committee on Education and Labor.
+- 2009-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6338-6342)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 453.
+- 2009-06-09 — Mr. Tonko moved to suspend the rules and agree to the resolution.
+- 2009-06-10 — Considered as unfinished business. (consideration: CR H6429)
+- 2009-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-10 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 359 - 60 (Roll no. 318). (text: CR 6/9/2009 H6338)
+- 2009-06-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 359 - 60 (Roll no. 318).(text: CR 6/9/2009 H6338)
