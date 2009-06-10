@@ -1,7 +1,7 @@
 ---
 measure: S. 407
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 407
@@ -40,6 +40,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 
 - Senate — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2009-06-23 — [House 111-1-419](votes/house-111-1-0419.md) — On Motion to Suspend the Rules and Pass — **Passed** (403–0)
+
 ## Actions
 
 - 2009-02-10 — Introduced in Senate
@@ -52,3 +56,21 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 - 2009-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.
 - 2009-06-10 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6476-6477; text as passed Senate: CR S6476-6477)
 - 2009-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6476-6477; text as passed Senate: CR S6476-6477)
+- 2009-06-11 — Held at the desk.
+- 2009-06-11 — Message on Senate action sent to the House.
+- 2009-06-11 — Received in the House.
+- 2009-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-23 — Cleared for White House.
+- 2009-06-23 — Considered as unfinished business. (consideration: CR H7108-7109)
+- 2009-06-23 — Considered under suspension of the rules. (consideration: CR H7091-7093)
+- 2009-06-23 — DEBATE - The House proceeded with forty minutes of debate on S. 407.
+- 2009-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-23 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2009-06-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 419). (text: CR H7091-7092)
+- 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 419).(text: CR H7091-7092)
+- 2009-06-25 — Presented to President.
+- 2009-06-25 — Presented to President.
+- 2009-06-30 — Became Public Law No: 111-37.
+- 2009-06-30 — Became Public Law No: 111-37.
+- 2009-06-30 — Signed by President.
+- 2009-06-30 — Signed by President.
