@@ -1,7 +1,7 @@
 ---
 measure: S. 407
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 407
@@ -50,3 +50,5 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2009
 - 2009-06-04 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-24.
 - 2009-06-04 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-24.
 - 2009-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.
+- 2009-06-10 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6476-6477; text as passed Senate: CR S6476-6477)
+- 2009-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6476-6477; text as passed Senate: CR S6476-6477)
