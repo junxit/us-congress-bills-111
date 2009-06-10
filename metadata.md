@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2344
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2344
@@ -44,3 +44,4 @@ Webcaster Settlement Act of 2009
 - 2009-06-09 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
 - 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
 - 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6330)
+- 2009-06-10 — Received in the Senate, read twice.
