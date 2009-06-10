@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1741
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1741
@@ -32,9 +32,10 @@ Witness Security and Protection Grant Program Act of 2010
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ Witness Security and Protection Grant Program Act of 2010
 - 2009-06-09 — Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.
 - 2009-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 315). (text: CR H6325-6326)
 - 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 315).(text: CR H6325-6326)
+- 2009-06-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
