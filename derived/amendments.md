@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2344
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 17 U.S.C. § 114
-
-> in subparagraph (D), by striking “2008” and inserting “2008, the Webcaster Settlement Act of 2009,”;
-
-| | |
-|---|---|
-| Removed | `2008` |
-| Inserted | `2008, the Webcaster Settlement Act of 2009,` |
-
-### 17 U.S.C. § 114
-
-> in subparagraph (F), by striking “February 15, 2009” and inserting “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009”.
-
-| | |
-|---|---|
-| Removed | `February 15, 2009` |
-| Inserted | `at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009` |
 
 ## Stated, not applied
 
@@ -51,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `17 U.S.C. § 114` | strike | in subparagraph (E)(iii), by striking “to make eligible nonsubscription transmissions and ephemeral recordings”; and | the bill quotes the text struck but describes what replaces it |
+| — | replace | in subparagraph (D), by striking “2008” and inserting “2008, the Webcaster Settlement Act of 2009,”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (E)(iii), by striking “to make eligible nonsubscription transmissions and ephemeral recordings”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking “February 15, 2009” and inserting “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009”. | the bill names no machine-readable US Code section |

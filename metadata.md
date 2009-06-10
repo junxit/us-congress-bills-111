@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2344
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2344
@@ -45,3 +45,13 @@ Webcaster Settlement Act of 2009
 - 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
 - 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6330)
 - 2009-06-10 — Received in the Senate, read twice.
+- 2009-06-17 — Cleared for White House.
+- 2009-06-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6740-6741)
+- 2009-06-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6740-6741)
+- 2009-06-18 — Message on Senate action sent to the House.
+- 2009-06-19 — Presented to President.
+- 2009-06-19 — Presented to President.
+- 2009-06-30 — Became Public Law No: 111-36.
+- 2009-06-30 — Became Public Law No: 111-36.
+- 2009-06-30 — Signed by President.
+- 2009-06-30 — Signed by President.
