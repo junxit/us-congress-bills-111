@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2410
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2410
@@ -20,6 +20,18 @@ Foreign Relations Authorization Act, Fiscal Years 2010 and 2011
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (9)
+
+- 2009-06-10 — [House 111-1-320](votes/house-111-1-0320.md) — On Agreeing to the Amendment — **Agreed to** (257–171)
+- 2009-06-10 — [House 111-1-321](votes/house-111-1-0321.md) — On Agreeing to the Amendment — **Failed** (205–224)
+- 2009-06-10 — [House 111-1-322](votes/house-111-1-0322.md) — On Agreeing to the Amendment — **Agreed to** (429–0)
+- 2009-06-10 — [House 111-1-323](votes/house-111-1-0323.md) — On Agreeing to the Amendment — **Agreed to** (432–0)
+- 2009-06-10 — [House 111-1-324](votes/house-111-1-0324.md) — On Agreeing to the Amendment — **Failed** (178–254)
+- 2009-06-10 — [House 111-1-325](votes/house-111-1-0325.md) — On Agreeing to the Amendment — **Failed** (183–245)
+- 2009-06-10 — [House 111-1-326](votes/house-111-1-0326.md) — On Agreeing to the Amendment — **Agreed to** (428–3)
+- 2009-06-10 — [House 111-1-327](votes/house-111-1-0327.md) — On Motion to Recommit with Instructions — **Failed** (174–250)
+- 2009-06-10 — [House 111-1-328](votes/house-111-1-0328.md) — On Passage — **Passed** (235–187)
+
 ## Actions
 
 - 2009-05-14 — Introduced in House
@@ -30,3 +42,228 @@ Foreign Relations Authorization Act, Fiscal Years 2010 and 2011
 - 2009-06-04 — Placed on the Union Calendar, Calendar No. 69.
 - 2009-06-04 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 111-136.
 - 2009-06-04 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 111-136.
+- 2009-06-09 — Rules Committee Resolution H. Res. 522 Reported to House. Rule provides for consideration of H.R. 1886 and H.R. 2410. Measure will be considered read. A specified amendment is in order. Resolution provides for consideration of both H.R. 1886, H.R. 2410. In each case, all points of order against consideration of the bills are waived except for clause 9 and 10 of rule XXI. General debate on each bill shall continue for not to exceed one hour, equally divided and controlled.
+- 2009-06-10 — Amendment (A001) offered by Mr. Berman. (consideration: CR H6477-6483, H6509-6510; text: CR H6477-6481)
+- 2009-06-10 — Amendment (A002) offered by Ms. Ros-Lehtinen. (consideration: CR H6483-6484, H6510-6511; text: CR H6483)
+- 2009-06-10 — Amendment (A003) offered by Mr. Polis (CO). (consideration: CR H6484-6485; text: CR H6484)
+- 2009-06-10 — Amendment (A004) offered by Mr. Hunter. (consideration: CR H6485-6486; text: CR H6485)
+- 2009-06-10 — Amendment (A005) offered by Mr. Nadler (NY). (consideration: CR H6486-6487; text: CR H6486)
+- 2009-06-10 — Amendment (A006) offered by Mr. McCaul. (consideration: CR H6487-6489, H6511; text: CR H6487)
+- 2009-06-10 — Amendment (A007) offered by Mr. Larsen (WA). (consideration: CR H6489-6490, H6511-6512; text: CR H6489)
+- 2009-06-10 — Amendment (A008) offered by Mr. Sessions. (consideration: CR H6490-6492; text: CR H6490)
+- 2009-06-10 — Amendment (A009) offered by Mrs. Davis (CA). (consideration: CR H6492-6493; text: CR H6492)
+- 2009-06-10 — Amendment (A010) offered by Ms. Brown-Waite, Ginny. (consideration: CR H6493-6494, H6512-6513; text: CR H6493)
+- 2009-06-10 — Amendment (A011) offered by Mr. Holt. (consideration: CR H6494-6495; text: CR H6494)
+- 2009-06-10 — Amendment (A012) offered by Ms. Brown-Waite, Ginny. (consideration: CR H6495-6496; text: CR H6495)
+- 2009-06-10 — Amendment (A013) offered by Mr. Bishop (NY). (consideration: CR H6496-6497; text: CR H6496)
+- 2009-06-10 — Amendment (A014) offered by Ms. Moore (WI). (consideration: CR H6497-6498; text: CR H6497)
+- 2009-06-10 — Amendment (A015) offered by Mr. Royce. (consideration: CR H6498-6500, H6513; text: CR H6498-6499)
+- 2009-06-10 — Amendment (A016) offered by Mr. Meeks (NY). (consideration: CR H6500-6501; text: CR H6500)
+- 2009-06-10 — Amendment (A017) offered by Mrs. Kirkpatrick (AZ). (consideration: CR H6501-6502; text: CR H6501)
+- 2009-06-10 — Amendment (A018) offered by Mr. Kirk. (consideration: CR H6502, H6513-6514; text: CR H6502)
+- 2009-06-10 — Amendment (A019) offered by Mr. Lynch. (consideration: CR H6502-6503; text: CR H6502)
+- 2009-06-10 — Amendment (A020) offered by Mr. Berman. (consideration: CR H6503-6504; text: CR H6504)
+- 2009-06-10 — Amendment (A021) offered by Mr. Peters. (consideration: CR H6504-6505; text: CR H6504)
+- 2009-06-10 — Amendment (A022) offered by Mr. Berman. (consideration: CR H6505-6506; text: CR H6505)
+- 2009-06-10 — Amendment (A023) offered by Ms. Johnson, E. B.. (consideration: CR H6506; text: CR H6506)
+- 2009-06-10 — Amendment (A024) offered by Ms. Johnson, E. B.. (consideration: CR H6506-6507; text: CR H6507)
+- 2009-06-10 — Amendment (A025) offered by Mr. Poe (TX). (consideration: CR H6507-6508; text: CR H6507)
+- 2009-06-10 — Amendment (A026) offered by Mr. Castle. (consideration: CR H6508-6509; text: CR H6508)
+- 2009-06-10 — Amendment (A027) offered by Mr. Matheson. (consideration: CR H6509; text: CR H6509)
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment agreed to Committee of the Whole
+- 2009-06-10 — Amendment failed in Committee of the Whole
+- 2009-06-10 — Amendment failed in Committee of the Whole
+- 2009-06-10 — Amendment failed in Committee of the Whole
+- 2009-06-10 — Amendment failed in Committee of the Whole
+- 2009-06-10 — Considered under the provisions of rule H. Res. 522. (consideration: CR H6430-6518)
+- 2009-06-10 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Berman amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Berman amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Brown-Waite (FL) #10 amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Brown-Waite (FL) #12 amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Castle amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Davis (CA) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the E.B. Johnson (TX) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the E.B. Johnson (TX) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Kirk amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Kirkpatrick (AZ) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Larsen (WA) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the McCaul (TX) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Meeks (NY) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (WI) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Poe amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Polis (CO) amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Ros-Lehtinen amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Royce amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment.
+- 2009-06-10 — DEBATE - Pursuant to the provisions of H.Res. 522, the Committee of the Whole proceeded with twenty minutes of debate on the Berman amendment.
+- 2009-06-10 — DEBATE - The House proceeded with 10 minutes of debate on the Burton Motion to Recommit with Instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment inserting a section regarding Iran Refined Petroleum Sanctions.
+- 2009-06-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2410.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Berman amendment (A001) Agreed to by recorded vote: 257 - 171 (Roll no. 320).
+- 2009-06-10 — House amendment agreed to: On agreeing to the Berman amendment (A020) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Berman amendment (A022) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Bishop (NY) amendment (A013) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Castle amendment (A026) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Davis (CA) amendment (A009) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Holt amendment (A011) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Hunter amendment (A004) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A023) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A024) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Kirk amendment Agreed to by recorded vote: 428 - 3 (Roll no. 326).
+- 2009-06-10 — House amendment agreed to: On agreeing to the Kirkpatrick (AZ) amendment (A017) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Larsen (WA) amendment Agreed to by recorded vote: 432 - 0 (Roll no. 323).
+- 2009-06-10 — House amendment agreed to: On agreeing to the Lynch amendment (A019) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the McCaul amendment (A006) Agreed to by recorded vote: 429 - 0 (Roll no. 322).
+- 2009-06-10 — House amendment agreed to: On agreeing to the Meeks (NY) amendment Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Moore (WI) amendment (A014) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Nadler (NY) amendment (A005) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Peters amendment (A021) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A025) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Polis (CO) amendment (A003) Agreed to by voice vote.
+- 2009-06-10 — House amendment agreed to: On agreeing to the Sessions amendment (A008) Agreed to by voice vote.
+- 2009-06-10 — House amendment not agreed to: On agreeing to the Brown-Waite, Ginny amendment (A010) Failed by recorded vote: 178 - 254 (Roll no. 324).
+- 2009-06-10 — House amendment not agreed to: On agreeing to the Brown-Waite, Ginny amendment (A012) Failed by voice vote.
+- 2009-06-10 — House amendment not agreed to: On agreeing to the Ros-Lehtinen amendment (A002) Failed by recorded vote: 205 - 224 (Roll no. 321).
+- 2009-06-10 — House amendment not agreed to: On agreeing to the Royce amendment (A015) Failed by recorded vote: 183 - 245 (Roll no. 325).
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered
+- 2009-06-10 — House amendment offered/reported by : Amendment (A001) offered by Mr. Berman.(consideration: CR H6477-6483, H6509-6510; text: CR H6477-6481)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A002) offered by Ms. Ros-Lehtinen.(consideration: CR H6483-6484, H6510-6511; text: CR H6483)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A003) offered by Mr. Polis (CO).(consideration: CR H6484-6485; text: CR H6484)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A004) offered by Mr. Hunter.(consideration: CR H6485-6486; text: CR H6485)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A005) offered by Mr. Nadler (NY).(consideration: CR H6486-6487; text: CR H6486)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A006) offered by Mr. McCaul.(consideration: CR H6487-6489, H6511; text: CR H6487)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A007) offered by Mr. Larsen (WA).(consideration: CR H6489-6490, H6511-6512; text: CR H6489)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A008) offered by Mr. Sessions.(consideration: CR H6490-6492; text: CR H6490)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A009) offered by Mrs. Davis (CA).(consideration: CR H6492-6493; text: CR H6492)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A010) offered by Ms. Brown-Waite, Ginny.(consideration: CR H6493-6494, H6512-6513; text: CR H6493)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A011) offered by Mr. Holt.(consideration: CR H6494-6495; text: CR H6494)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A012) offered by Ms. Brown-Waite, Ginny.(consideration: CR H6495-6496; text: CR H6495)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A013) offered by Mr. Bishop (NY).(consideration: CR H6496-6497; text: CR H6496)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A014) offered by Ms. Moore (WI).(consideration: CR H6497-6498; text: CR H6497)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A015) offered by Mr. Royce.(consideration: CR H6498-6500, H6513; text: CR H6498-6499)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A016) offered by Mr. Meeks (NY).(consideration: CR H6500-6501; text: CR H6500)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A017) offered by Mrs. Kirkpatrick (AZ).(consideration: CR H6501-6502; text: CR H6501)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A018) offered by Mr. Kirk.(consideration: CR H6502, H6513-6514; text: CR H6502)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A019) offered by Mr. Lynch.(consideration: CR H6502-6503; text: CR H6502)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A020) offered by Mr. Berman.(consideration: CR H6503-6504; text: CR H6504)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A021) offered by Mr. Peters.(consideration: CR H6504-6505; text: CR H6504)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A022) offered by Mr. Berman.(consideration: CR H6505-6506; text: CR H6505)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A023) offered by Ms. Johnson, E. B..(consideration: CR H6506; text: CR H6506)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A024) offered by Ms. Johnson, E. B..(consideration: CR H6506-6507; text: CR H6507)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A025) offered by Mr. Poe (TX).(consideration: CR H6507-6508; text: CR H6507)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A026) offered by Mr. Castle.(consideration: CR H6508-6509; text: CR H6508)
+- 2009-06-10 — House amendment offered/reported by : Amendment (A027) offered by Mr. Matheson.(consideration: CR H6509; text: CR H6509)
+- 2009-06-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 522 and Rule XVIII.
+- 2009-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-10 — Mr. Berman moved that moved the Committee now rise.
+- 2009-06-10 — Mr. Burton (IN) moved to recommit with instructions to Foreign Affairs. (consideration: CR H6514-6517; text: CR H6514-6516)
+- 2009-06-10 — On agreeing to the Berman amendment (A001) Agreed to by recorded vote: 257 - 171 (Roll no. 320).
+- 2009-06-10 — On agreeing to the Berman amendment (A020) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Berman amendment (A022) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Bishop (NY) amendment (A013) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Brown-Waite, Ginny amendment (A010) Failed by recorded vote: 178 - 254 (Roll no. 324).
+- 2009-06-10 — On agreeing to the Brown-Waite, Ginny amendment (A012) Failed by voice vote.
+- 2009-06-10 — On agreeing to the Castle amendment (A026) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Davis (CA) amendment (A009) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Holt amendment (A011) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Hunter amendment (A004) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Johnson, E. B. amendment (A023) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Johnson, E. B. amendment (A024) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Kirk amendment Agreed to by recorded vote: 428 - 3 (Roll no. 326).
+- 2009-06-10 — On agreeing to the Kirkpatrick (AZ) amendment (A017) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Larsen (WA) amendment Agreed to by recorded vote: 432 - 0 (Roll no. 323).
+- 2009-06-10 — On agreeing to the Lynch amendment (A019) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the McCaul amendment (A006) Agreed to by recorded vote: 429 - 0 (Roll no. 322).
+- 2009-06-10 — On agreeing to the Meeks (NY) amendment Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Moore (WI) amendment (A014) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Nadler (NY) amendment (A005) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Peters amendment (A021) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Poe (TX) amendment (A025) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Polis (CO) amendment (A003) Agreed to by voice vote.
+- 2009-06-10 — On agreeing to the Ros-Lehtinen amendment (A002) Failed by recorded vote: 205 - 224 (Roll no. 321).
+- 2009-06-10 — On agreeing to the Royce amendment (A015) Failed by recorded vote: 183 - 245 (Roll no. 325).
+- 2009-06-10 — On agreeing to the Sessions amendment (A008) Agreed to by voice vote.
+- 2009-06-10 — On motion that moved the Committee now rise Agreed to by voice vote.
+- 2009-06-10 — On motion to recommit with instructions Failed by recorded vote: 174 - 250 (Roll no. 327). (CR H6517)
+- 2009-06-10 — On passage Passed by recorded vote: 235 - 187 (Roll no. 328).
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Berman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (NJ) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brown-Waite (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. Brown-Waite (FL) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kirk amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Kirk demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Larsen (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCaul (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. McCaul (TX) demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ros-Lehtinen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. Ros-Lehtinen demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Royce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Royce demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2009-06-10 — Passed/agreed to in House: On passage Passed by recorded vote: 235 - 187 (Roll no. 328).
+- 2009-06-10 — Pursuant to the provisions of H.Res. 522, an amendment in the nature of a substitute printed in Part B of House Report 111-143, is considered as adopted as original text for the purpose of further amendment.
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Roll call votes on amendments in House
+- 2009-06-10 — Rule H. Res. 522 passed House.
+- 2009-06-10 — Rule provides for consideration of H.R. 1886 and H.R. 2410. Measure will be considered read. A specified amendment is in order. Resolution provides for consideration of both H.R. 1886, H.R. 2410. In each case, all points of order against consideration of the bills are waived except for clause 9 and 10 of rule XXI. General debate on each bill shall continue for not to exceed one hour, equally divided and controlled.
+- 2009-06-10 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2410.
+- 2009-06-10 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H6442-6477)
+- 2009-06-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2410.
+- 2009-06-10 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
+- 2009-06-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6517)
+- 2009-06-10 — The previous question was ordered pursuant to the rule. (consideration: CR H6514)
+- 2009-06-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
