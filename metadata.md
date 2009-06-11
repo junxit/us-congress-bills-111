@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1256
@@ -16,7 +16,7 @@ Family Smoking Prevention and Tobacco Control Act
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (178)
+## Cosponsors (316)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
@@ -196,17 +196,160 @@ Family Smoking Prevention and Tobacco Control Act
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
 
 ## Committees (2)
 
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (3)
+## Recorded votes (8)
 
 - 2009-04-02 — [House 111-1-185](votes/house-111-1-0185.md) — On Agreeing to the Amendment — **Failed** (142–284)
 - 2009-04-02 — [House 111-1-186](votes/house-111-1-0186.md) — On Motion to Recommit with Instructions — **Failed** (169–256)
 - 2009-04-02 — [House 111-1-187](votes/house-111-1-0187.md) — On Passage — **Passed** (298–112)
+- 2009-06-02 — [Senate 111-1-203](votes/senate-111-1-0203.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–11)
+- 2009-06-08 — [Senate 111-1-204](votes/senate-111-1-0204.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–30)
+- 2009-06-09 — [Senate 111-1-205](votes/senate-111-1-0205.md) — On the Amendment — **Amendment Rejected** (36–60)
+- 2009-06-10 — [Senate 111-1-206](votes/senate-111-1-0206.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–30)
+- 2009-06-11 — [Senate 111-1-207](votes/senate-111-1-0207.md) — On Passage of the Bill — **Bill Passed** (79–17)
 
 ## Actions
 
@@ -254,3 +397,125 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-04-02 — The previous question was ordered on the bill, as amended, and the Buyer amendment thereto, pursuant to the rule. (consideration: CR H4412-4413)
 - 2009-04-03 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
+- 2009-05-21 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5887; text: CR S5887)
+- 2009-05-21 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5887)
+- 2009-05-21 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S5887)
+- 2009-06-02 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 203. (consideration: CR S5918-5922, S5922-5941; text: CR S5922)
+- 2009-06-02 — Senate amendment submitted
+- 2009-06-02 — Senate amendment submitted
+- 2009-06-02 — Senate amendment submitted
+- 2009-06-02 — Senate amendment submitted
+- 2009-06-02 — Senate amendment submitted
+- 2009-06-03 — Amendment SA 1246 proposed by Senator Burr to Amendment SA 1247. (consideration: CR S6019-6020) In the nature of a substitute.
+- 2009-06-03 — Amendment SA 1247 proposed by Senator Dodd. (consideration: CR S6017-6019) In the nature of a substitute.
+- 2009-06-03 — Amendment SA 1256 proposed by Senator Schumer for Senator Lieberman to Amendment SA 1247. (consideration: CR S6023) To modify provisions relating to Federal employees retirement.
+- 2009-06-03 — Measure laid before Senate by motion. (consideration: CR S6017-6020, S6020-6023)
+- 2009-06-03 — Motion to proceed to consideration of measure agreed to in Senate. (consideration: CR S6017)
+- 2009-06-03 — Motion to proceed to measure considered in Senate. (consideration: CR S5994-6017)
+- 2009-06-03 — Senate amendment proposed (on the floor): Amendment SA 1246 proposed by Senator Burr to Amendment SA 1247.(consideration: CR S6019-6020)
+- 2009-06-03 — Senate amendment proposed (on the floor): Amendment SA 1247 proposed by Senator Dodd.(consideration: CR S6017-6019)
+- 2009-06-03 — Senate amendment proposed (on the floor): Amendment SA 1256 proposed by Senator Schumer for Senator Lieberman to Amendment SA 1247.(consideration: CR S6023)
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-03 — Senate amendment submitted
+- 2009-06-04 — Cloture motion on amendment SA 1247 presented in Senate. (consideration: CR S6171; text: CR S6171)
+- 2009-06-04 — Cloture motion on the bill presented in Senate. (consideration: CR S6171; text: CR S6171)
+- 2009-06-04 — Considered by Senate. (consideration: CR S6170)
+- 2009-06-04 — Considered by Senate. (consideration: CR S6170)
+- 2009-06-04 — Considered by Senate. (consideration: CR S6170-6171)
+- 2009-06-04 — Considered by Senate. (consideration: CR S6170-6171)
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-04 — Senate amendment submitted
+- 2009-06-08 — Cloture on amendment SA 1247 invoked in Senate by Yea-Nay Vote. 61 - 30. Record Vote Number: 204. (consideration: CR S6244-6245; text: CR S6244)
+- 2009-06-08 — Considered by Senate. (consideration: CR S6231-6232, S6233-6234, S6241-6242, S6243-6244, S6244-6247)
+- 2009-06-08 — Considered by Senate. (consideration: CR S6244)
+- 2009-06-08 — Considered by Senate. (consideration: CR S6244)
+- 2009-06-08 — Considered by Senate. (consideration: CR S6244-6245)
+- 2009-06-08 — Roll call votes on amendments in Senate: Cloture on amendment SA 1247 invoked in Senate by Yea-Nay Vote. 61 - 30. Record Vote Number: 204.(consideration: CR S6244-6245; text: CR S6244)
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-08 — Senate amendment submitted
+- 2009-06-09 — Amendment SA 1246 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 205.
+- 2009-06-09 — Considered by Senate. (consideration: CR S6347)
+- 2009-06-09 — Considered by Senate. (consideration: CR S6347)
+- 2009-06-09 — Considered by Senate. (consideration: CR S6347)
+- 2009-06-09 — Considered by Senate. (consideration: CR S6347, S6352-6354)
+- 2009-06-09 — Roll call votes on amendments in Senate: Amendment SA 1246 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 205.
+- 2009-06-09 — Senate amendment not agreed to: Amendment SA 1246 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 205.
+- 2009-06-10 — Amendment SA 1247 agreed to in Senate by Unanimous Consent.
+- 2009-06-10 — Amendment SA 1256 ruled non-germane by the chair.
+- 2009-06-10 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 206. (consideration: CR S6412; text: CR S6412)
+- 2009-06-10 — Considered by Senate. (consideration: CR S6406)
+- 2009-06-10 — Considered by Senate. (consideration: CR S6406, S6412)
+- 2009-06-10 — Considered by Senate. (consideration: CR S6406-6412)
+- 2009-06-10 — Point of order raised in Senate with respect to amendment SA 1256.
+- 2009-06-10 — Senate amendment agreed to: Amendment SA 1247 agreed to in Senate by Unanimous Consent.
+- 2009-06-11 — Message on Senate action sent to the House.
+- 2009-06-11 — Passed Senate with an amendment by Yea-Nay Vote. 79 - 17. Record Vote Number: 207. (consideration: CR S6497-6523; text as passed Senate: CR S6501-6523)
+- 2009-06-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 79 - 17. Record Vote Number: 207.(consideration: CR S6497-6523; text as passed Senate: CR S6501-6523)
+- 2009-06-11 — Rules Committee Resolution H. Res. 532 Reported to House. Rule provides for consideration of Senate Amendment to H.R. 1256 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Waives all points of order against consideration of the motion except those arising under clause 10 of rule XXI. Provides that the Senate amendment shall be considered as read. Although the rule waives all points of order against consideration of the motion (except those arising under clause 10 of rule XXI), the Committee is not aware of any points of order against the motion. The waiver of all points of order (except those arising under clause 10 of rule XXI) is prophylactic.
