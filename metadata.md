@@ -1,7 +1,7 @@
 ---
 measure: H.R. 813
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 813
@@ -65,3 +65,13 @@ To designate the Federal building and United States courthouse located at 306 Ea
 - 2009-06-11 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2009-06-11 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2009-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
+- 2009-06-17 — Cleared for White House.
+- 2009-06-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6741)
+- 2009-06-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6741)
+- 2009-06-18 — Message on Senate action sent to the House.
+- 2009-06-19 — Presented to President.
+- 2009-06-19 — Presented to President.
+- 2009-06-30 — Became Public Law No: 111-34.
+- 2009-06-30 — Became Public Law No: 111-34.
+- 2009-06-30 — Signed by President.
+- 2009-06-30 — Signed by President.
