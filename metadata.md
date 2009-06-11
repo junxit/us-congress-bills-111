@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1256
@@ -16,7 +16,7 @@ Family Smoking Prevention and Tobacco Control Act
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (316)
+## Cosponsors (317)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
@@ -266,6 +266,7 @@ Family Smoking Prevention and Tobacco Control Act
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
@@ -340,7 +341,7 @@ Family Smoking Prevention and Tobacco Control Act
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (8)
+## Recorded votes (9)
 
 - 2009-04-02 — [House 111-1-185](votes/house-111-1-0185.md) — On Agreeing to the Amendment — **Failed** (142–284)
 - 2009-04-02 — [House 111-1-186](votes/house-111-1-0186.md) — On Motion to Recommit with Instructions — **Failed** (169–256)
@@ -350,6 +351,7 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-06-09 — [Senate 111-1-205](votes/senate-111-1-0205.md) — On the Amendment — **Amendment Rejected** (36–60)
 - 2009-06-10 — [Senate 111-1-206](votes/senate-111-1-0206.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–30)
 - 2009-06-11 — [Senate 111-1-207](votes/senate-111-1-0207.md) — On Passage of the Bill — **Bill Passed** (79–17)
+- 2009-06-12 — [House 111-1-335](votes/house-111-1-0335.md) — On Motion to Concur in the Senate Amendment — **Passed** (307–97)
 
 ## Actions
 
@@ -519,3 +521,17 @@ Family Smoking Prevention and Tobacco Control Act
 - 2009-06-11 — Passed Senate with an amendment by Yea-Nay Vote. 79 - 17. Record Vote Number: 207. (consideration: CR S6497-6523; text as passed Senate: CR S6501-6523)
 - 2009-06-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 79 - 17. Record Vote Number: 207.(consideration: CR S6497-6523; text as passed Senate: CR S6501-6523)
 - 2009-06-11 — Rules Committee Resolution H. Res. 532 Reported to House. Rule provides for consideration of Senate Amendment to H.R. 1256 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Waives all points of order against consideration of the motion except those arising under clause 10 of rule XXI. Provides that the Senate amendment shall be considered as read. Although the rule waives all points of order against consideration of the motion (except those arising under clause 10 of rule XXI), the Committee is not aware of any points of order against the motion. The waiver of all points of order (except those arising under clause 10 of rule XXI) is prophylactic.
+- 2009-06-12 — Cleared for White House.
+- 2009-06-12 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 1256.
+- 2009-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-12 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 307 - 97 (Roll no. 335). (text as House agreed to Senate amendment: CR H6630-6651)
+- 2009-06-12 — Pursuant to the provisions of H. Res. 532, the House moved to agree to the Senate amendment. (consideration: CR H6630-6660)
+- 2009-06-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 307 - 97 (Roll no. 335).(text as House agreed to Senate amendment: CR H6630-6651)
+- 2009-06-12 — Rule H. Res. 532 passed House.
+- 2009-06-12 — The previous question was ordered pursuant to the rule. (consideration: CR H6660)
+- 2009-06-16 — Presented to President.
+- 2009-06-16 — Presented to President.
+- 2009-06-22 — Became Public Law No: 111-31.
+- 2009-06-22 — Became Public Law No: 111-31.
+- 2009-06-22 — Signed by President.
+- 2009-06-22 — Signed by President.
