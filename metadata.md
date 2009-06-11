@@ -1,7 +1,7 @@
 ---
 measure: H.R. 837
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 837
@@ -40,3 +40,7 @@ To designate the Federal building located at 799 United Nations Plaza in New Yor
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-28.
 - 2009-03-10 — Reported by the Committee on Transportation. H. Rept. 111-28.
 - 2009-03-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-05-14 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2009-06-11 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2009-06-11 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2009-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.
