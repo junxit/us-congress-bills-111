@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2751
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2751
@@ -101,3 +101,5 @@ FDA Food Safety Modernization Act
 - 2009-06-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 298 - 119, 2 Present (Roll no. 314). (text: CR H6345-6347)
 - 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 298 - 119, 2 Present (Roll no. 314).(text: CR H6345-6347)
 - 2009-06-09 — Referred to the Subcommittee on Energy and Environment.
+- 2009-06-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-06-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
