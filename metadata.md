@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1687
@@ -32,6 +32,10 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2009-06-11 — [House 111-1-330](votes/house-111-1-0330.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–0)
+
 ## Actions
 
 - 2009-03-24 — Introduced in House
@@ -44,3 +48,12 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 - 2009-06-08 — Placed on the House Calendar, Calendar No. 64.
 - 2009-06-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-140.
 - 2009-06-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-140.
+- 2009-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-09 — Considered under suspension of the rules. (consideration: CR H6362-6366)
+- 2009-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1687.
+- 2009-06-09 — Mr. Boccieri moved to suspend the rules and pass the bill, as amended.
+- 2009-06-11 — Considered as unfinished business. (consideration: CR H6551)
+- 2009-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 330). (text: CR 6/9/2009 H6362)
+- 2009-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 330).(text: CR 6/9/2009 H6362)
+- 2009-06-11 — The title of the measure was amended. Agreed to without objection.
