@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 462
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 462
@@ -16,7 +16,7 @@ Requesting that the President transmit to the House of Representatives all infor
 
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
@@ -26,6 +26,7 @@ Requesting that the President transmit to the House of Representatives all infor
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
 ## Committees (1)
 
@@ -36,3 +37,8 @@ Requesting that the President transmit to the House of Representatives all infor
 - 2009-05-20 — Introduced in House
 - 2009-05-20 — Introduced in House
 - 2009-05-20 — Referred to the House Committee on Energy and Commerce.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported by Voice Vote.
+- 2009-06-12 — Placed on the House Calendar, Calendar No. 71.
+- 2009-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 111-147.
+- 2009-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 111-147.
