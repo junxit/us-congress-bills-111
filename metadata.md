@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 135
@@ -16,7 +16,7 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
@@ -40,6 +40,9 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
 
 ## Committees (1)
 
@@ -50,3 +53,8 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on House Administration.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported by Voice Vote.
+- 2009-06-12 — Placed on the Union Calendar, Calendar No. 76.
+- 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-153.
+- 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-153.
