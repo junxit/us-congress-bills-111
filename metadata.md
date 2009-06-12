@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2247
@@ -31,3 +31,8 @@ Congressional Review Act Improvement Act
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Referred to the House Committee on the Judiciary.
+- 2009-05-20 — Committee Consideration and Mark-up Session Held.
+- 2009-05-20 — Ordered to be Reported by Voice Vote.
+- 2009-06-12 — Placed on the Union Calendar, Calendar No. 74.
+- 2009-06-12 — Reported by the Committee on Judiciary. H. Rept. 111-150.
+- 2009-06-12 — Reported by the Committee on Judiciary. H. Rept. 111-150.
