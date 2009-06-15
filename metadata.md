@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1687
@@ -28,9 +28,10 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 - 2009-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 330). (text: CR 6/9/2009 H6362)
 - 2009-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 330).(text: CR 6/9/2009 H6362)
 - 2009-06-11 — The title of the measure was amended. Agreed to without objection.
+- 2009-06-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
