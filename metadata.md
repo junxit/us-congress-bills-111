@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1687
@@ -59,3 +59,15 @@ To designate the federally occupied building located at McKinley Avenue and Thir
 - 2009-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 330).(text: CR 6/9/2009 H6362)
 - 2009-06-11 — The title of the measure was amended. Agreed to without objection.
 - 2009-06-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-09-24 — Cleared for White House.
+- 2009-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9857)
+- 2009-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9857)
+- 2009-09-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2009-09-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2009-09-25 — Message on Senate action sent to the House.
+- 2009-10-07 — Presented to President.
+- 2009-10-07 — Presented to President.
+- 2009-10-19 — Became Public Law No: 111-74.
+- 2009-10-19 — Became Public Law No: 111-74.
+- 2009-10-19 — Signed by President.
+- 2009-10-19 — Signed by President.
