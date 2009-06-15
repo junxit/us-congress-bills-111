@@ -2,7 +2,7 @@
 legis-num: H. RES. 390
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 390
@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the leadership of Sir Winston Churchill during World War I, World War II, and the Cold War played a vital role in shaping the history of the United States and the world, and sacrifices made by Sir Winston Churchill and other leaders during those conflicts preserved liberty, democracy, and other founding principles of the United States for generations to come;
 - Whereas the “Lessons of Leadership” educational outreach programs offered by the Winston Churchill Memorial and Library use the resources of the Memorial and Library to educate teachers and students about the life and leadership of Sir Winston Churchill throughout World War I, World War II, and the Cold War by means of on-site visits, classroom curriculum development, distance learning, and other educational initiatives;
 - Whereas Sir Winston Churchill’s mother was a United States citizen and he was proud of his heritage from and connections to the United States; and
-- Whereas President John F. Kennedy, in 1962, declared Sir Winston Churchill an Honorary Citizen of the United States, the first person to be so honored: Now, therefore, be it
+- Whereas President John F. Kennedy, in 1963, declared Sir Winston Churchill an Honorary Citizen of the United States, the first person to be so honored: Now, therefore, be it
 
 That the House of Representatives recognizes—
 
