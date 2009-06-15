@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 493
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 493
@@ -16,7 +16,7 @@ Recognizing the significant contributions of Hillel: The Foundation for Jewish C
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (38)
+## Cosponsors (40)
 
 - Rep. Johnson, Timothy V. [R-IL-15] (J000285)
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
@@ -56,6 +56,8 @@ Recognizing the significant contributions of Hillel: The Foundation for Jewish C
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Capps, Lois [D-CA-23] (C001036)
 
 ## Committees (1)
 
@@ -66,3 +68,9 @@ Recognizing the significant contributions of Hillel: The Foundation for Jewish C
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Referred to the House Committee on Education and Labor.
+- 2009-06-15 — Considered under suspension of the rules. (consideration: CR H6760-6762)
+- 2009-06-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 493.
+- 2009-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-15 — Mr. Sablan moved to suspend the rules and agree to the resolution.
+- 2009-06-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6760)
+- 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6760)
