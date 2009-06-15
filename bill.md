@@ -2,7 +2,7 @@
 legis-num: H. RES. 430
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 430
@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas, in the early morning hours of April 6, 2009, a 6.3 magnitude earthquake struck the Abruzzo region of central Italy, killing over 250 people, damaging or destroying up to 15,000 buildings, and leaving tens of thousands homeless;
 - Whereas the epicenter of the quake was the town of L'Aquila, located 60 miles northeast of Rome, and massive destruction was reported in 26 surrounding cities, towns, and villages;
-- Whereas rescue workers, who have heroically pulled over 100 survivors from the rubble, continue to find survivors amongst the wreckage days after the quake struck;
-- Whereas strong aftershocks continue to rock the region and create hazardous conditions for residents and rescue workers;
+- Whereas rescue workers, who heroically pulled over 100 survivors from the rubble, continued to find survivors amongst the wreckage days after the quake struck;
+- Whereas strong aftershocks continued to rock the region and created hazardous conditions for residents and rescue workers;
 - Whereas this was Italy’s deadliest quake since 1980;
 - Whereas the earthquake damaged centuries old landmarks including churches and castles;
-- Whereas humanitarian aid agencies in the United States and around the world are mobilizing to provide much needed assistance to the relief and recovery efforts;
-- Whereas President Barack Obama has expressed his condolences, and those of the people of the United States, to families that have lost loved ones and assured Italian Prime Minister Berlusconi that the United States stands ready to help Italy at this time of need; and
+- Whereas humanitarian aid agencies in the United States and around the world mobilized to provide much needed assistance to the relief and recovery efforts;
+- Whereas President Barack Obama expressed his condolences, and those of the people of the United States, to families that have lost loved ones and assured Italian Prime Minister Berlusconi that the United States stood ready to help Italy at this time of need; and
 - Whereas Prime Minister Berlusconi said that Italy would accept the support offered by President Obama and would devote it to preserving the region’s cultural and artistic heritage and educational institutions: Now, therefore, be it
 
 That the House of Representatives—
