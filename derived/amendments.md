@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2661
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 119(a) of title 18, United States Code, is amended by striking “5 years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | strike | Section 631(a) of title 28, United States Code, is amended by striking “(including any judge in regular active service and any judge who has retired from regular active service under section 371(b) of this title, when designated and assi… | the bill names no machine-readable US Code section |
