@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2325
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2325
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1300 Ma
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Cosponsors (27)
+## Cosponsors (31)
 
 - Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
@@ -45,13 +45,31 @@ To designate the facility of the United States Postal Service located at 1300 Ma
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 - Rep. Granger, Kay [R-TX-12] (G000377)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Paul, Ron [R-TX-14] (P000583)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2009-06-15 — [House 111-1-337](votes/house-111-1-0337.md) — On Motion to Suspend the Rules and Pass — **Passed** (374–0)
 
 ## Actions
 
 - 2009-05-07 — Introduced in House
 - 2009-05-07 — Introduced in House
 - 2009-05-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported by Unanimous Consent.
+- 2009-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-15 — Considered as unfinished business. (consideration: CR H6780)
+- 2009-06-15 — Considered under suspension of the rules. (consideration: CR H6757-6758)
+- 2009-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2325.
+- 2009-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-15 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-06-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 337). (text: CR H6757)
+- 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 337).(text: CR H6757)
