@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 182
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 182
@@ -32,3 +32,7 @@ A resolution recognizing the democratic accomplishments of the people of Albania
 
 - 2009-06-10 — Introduced in Senate
 - 2009-06-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6475)
+- 2009-06-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2009-06-16 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-06-16 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
