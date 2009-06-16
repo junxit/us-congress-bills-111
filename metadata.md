@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1674
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1674
@@ -25,3 +25,9 @@ National Consumer Cooperative Bank Act Amendments of 2009
 - 2009-03-23 — Introduced in House
 - 2009-03-23 — Introduced in House
 - 2009-03-23 — Referred to the House Committee on Financial Services.
+- 2009-06-16 — Considered under suspension of the rules. (consideration: CR H6832-6833)
+- 2009-06-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1674.
+- 2009-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-16 — Mrs. Maloney moved to suspend the rules and pass the bill.
+- 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6832)
+- 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6832)
