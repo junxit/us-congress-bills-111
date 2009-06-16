@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2661
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2661
@@ -20,9 +20,10 @@ Court Security Enhancement Act of 2009
 
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Court Security Enhancement Act of 2009
 - 2009-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6775)
 - 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6775)
 - 2009-06-15 — The title of the measure was amended. Agreed to without objection.
+- 2009-06-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
