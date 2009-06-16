@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2765
@@ -30,9 +30,10 @@ Securing the Protection of our Enduring and Established Constitutional Heritage 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Securing the Protection of our Enduring and Established Constitutional Heritage 
 - 2009-06-15 — Placed on the Union Calendar, Calendar No. 77.
 - 2009-06-15 — Reported by the Committee on Judiciary. H. Rept. 111-154.
 - 2009-06-15 — Reported by the Committee on Judiciary. H. Rept. 111-154.
+- 2009-06-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
