@@ -16,7 +16,7 @@ This Act may be cited as the “Congressional Review Act Improvement Act”.
 ## § 2. Technical amendments to the Congressional Review Act
 
 - **(a)** *Government paperwork reduction* Section 801 of title 5, United States Code, is amended as follows:
-  - **(1)** *Repeal of requirement for submittal to both houses of congress of rules otherwise published in the federal register* Subsection (a)(1) is amended—
+  - **(1)** *Repeal of requirement for submittal of text of rules and certain other materials to both houses of Congress* Subsection (a)(1) is amended—
     - **(A)** by striking “each House of the Congress and to” in subparagraph (A);
     - **(B)** by striking “each House of”, and inserting “on request” after “Congress”, in subparagraph (B); and
     - **(C)** by striking subparagraph (C).
