@@ -1,7 +1,7 @@
 ---
 measure: H.R. 729
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 729
@@ -45,9 +45,10 @@ Phylicia's Law
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Farr, Sam [D-CA-17] (F000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Phylicia's Law
 - 2009-06-15 — Mr. Sablan moved to suspend the rules and pass the bill, as amended.
 - 2009-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 319 - 60 (Roll no. 338). (text: CR H6763)
 - 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 319 - 60 (Roll no. 338).(text: CR H6763)
+- 2009-06-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
