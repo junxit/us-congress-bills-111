@@ -1,7 +1,7 @@
 ---
 measure: S. 669
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 669
@@ -43,3 +43,8 @@ Veterans 2nd Amendment Protection Act
 - 2009-03-23 — Introduced in Senate
 - 2009-03-23 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S3617)
 - 2009-03-23 — Sponsor introductory remarks on measure. (CR S3616-3617)
+- 2009-04-22 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 111-76.
+- 2009-05-21 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2009-06-16 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-27.
+- 2009-06-16 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-27.
+- 2009-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.
