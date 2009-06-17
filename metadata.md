@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1674
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1674
@@ -16,9 +16,10 @@ National Consumer Cooperative Bank Act Amendments of 2009
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ National Consumer Cooperative Bank Act Amendments of 2009
 - 2009-06-16 — Mrs. Maloney moved to suspend the rules and pass the bill.
 - 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6832)
 - 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6832)
+- 2009-06-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
