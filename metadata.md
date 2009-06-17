@@ -1,7 +1,7 @@
 ---
 measure: H.R. 403
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 403
@@ -60,10 +60,11 @@ Homes for Heroes Act of 2009
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -84,3 +85,4 @@ Homes for Heroes Act of 2009
 - 2009-06-16 — Mr. Green, Al moved to suspend the rules and pass the bill.
 - 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 417 - 2 (Roll no. 344). (text: CR H6833-6838)
 - 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 417 - 2 (Roll no. 344).(text: CR H6833-6838)
+- 2009-06-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
