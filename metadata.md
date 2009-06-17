@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2470
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2470
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 19190 C
 - Rep. Grayson, Alan [D-FL-8] (G000556)
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ To designate the facility of the United States Postal Service located at 19190 C
 - 2009-06-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 340). (text: CR 6/15/2009 H6759)
 - 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 340).(text: CR 6/15/2009 H6759)
+- 2009-06-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
