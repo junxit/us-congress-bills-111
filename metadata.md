@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2247
@@ -22,9 +22,10 @@ Congressional Review Act Improvement Act
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Congressional Review Act Improvement Act
 - 2009-06-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-06-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 343). (text: CR 6/15/2009 H6773-6774)
 - 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 343).(text: CR 6/15/2009 H6773-6774)
+- 2009-06-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

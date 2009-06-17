@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,69 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+9 amendatory instructions. 6 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 5 U.S.C. § 801
+
+> by striking “each House of”, and inserting “on request” after “Congress”, in subparagraph (B); and
+
+| | |
+|---|---|
+| Removed | `each House of` |
+| Inserted | `on request` |
+
+### 5 U.S.C. § 801
+
+> in section 801(a)(3)(A)(i), by striking “Congress” and inserting “Comptroller General”;
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `Comptroller General` |
+
+### 5 U.S.C. § 801
+
+> in section 801(a)(4), by striking “Congress” and inserting “the Comptroller General”;
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `the Comptroller General` |
+
+### 5 U.S.C. § 801
+
+> in section 801(d)(2)(B), by striking “Congress” and inserting “the Comptroller General”;
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `the Comptroller General` |
+
+### 5 U.S.C. § 801
+
+> in section 802(a), by striking “Congress” the first place it appears and inserting “the Comptroller General”; and
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `the Comptroller General` |
+
+### 5 U.S.C. § 801
+
+> in section 802(b)(2)(A), by striking “Congress” and inserting “Comptroller General”.
+
+| | |
+|---|---|
+| Removed | `Congress` |
+| Inserted | `Comptroller General` |
 
 ## Stated, not applied
 
@@ -31,12 +87,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking “each House of the Congress and to” in subparagraph (A); | the bill names no machine-readable US Code section |
-| — | replace | by striking “each House of”, and inserting “on request” after “Congress”, in subparagraph (B); and | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
-| — | amend | Subsection (e) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in section 801(a)(3)(A)(i), by striking “Congress” and inserting “Comptroller General”; | the bill names no machine-readable US Code section |
-| — | replace | in section 801(a)(4), by striking “Congress” and inserting “the Comptroller General”; | the bill names no machine-readable US Code section |
-| — | replace | in section 801(d)(2)(B), by striking “Congress” and inserting “the Comptroller General”; | the bill names no machine-readable US Code section |
-| — | replace | in section 802(a), by striking “Congress” the first place it appears and inserting “the Comptroller General”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 802(b)(2)(A), by striking “Congress” and inserting “Comptroller General”. | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 801` | strike | by striking “each House of the Congress and to” in subparagraph (A); | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 801` | strike | by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 801` | amend | Subsection (e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
