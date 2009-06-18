@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1037
@@ -29,3 +29,13 @@ Veterans' Benefits Enhancement Act of 2009
 - 2009-02-12 — Introduced in House
 - 2009-02-12 — Introduced in House
 - 2009-02-12 — Referred to the House Committee on Veterans' Affairs.
+- 2009-02-13 — Referred to the Subcommittee on Economic Opportunity.
+- 2009-05-21 — Subcommittee Hearings Held.
+- 2009-05-22 — Subcommittee Hearings Held.
+- 2009-06-04 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-18 — Placed on the Union Calendar, Calendar No. 80.
+- 2009-06-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-162.
+- 2009-06-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-162.
