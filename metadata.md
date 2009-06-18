@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 153
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 153
@@ -16,10 +16,11 @@ A resolution expressing the sense of the Senate on the restitution of or compens
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ A resolution expressing the sense of the Senate on the restitution of or compens
 - 2009-06-16 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-06-16 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
+- 2009-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6824-6825; text as passed Senate: CR S6824-6825)
+- 2009-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6824-6825; text as passed Senate: CR S6824-6825)
