@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2847
@@ -20,9 +20,493 @@ Hiring Incentives to Restore Employment Act
 
 - House — Appropriations Committee
 
+## Recorded votes (57)
+
+- 2009-06-16 — [House 111-1-350](votes/house-111-1-0350.md) — On Motion that the Committee Rise — **Passed** (179–124)
+- 2009-06-17 — [House 111-1-353](votes/house-111-1-0353.md) — On Agreeing to the Amendment — **Agreed to** (411–14)
+- 2009-06-17 — [House 111-1-354](votes/house-111-1-0354.md) — On Agreeing to the Amendment — **Agreed to** (425–4)
+- 2009-06-17 — [House 111-1-355](votes/house-111-1-0355.md) — On Agreeing to the Amendment — **Agreed to** (422–2)
+- 2009-06-18 — [House 111-1-356](votes/house-111-1-0356.md) — On Agreeing to the Amendment — **Failed** (140–283)
+- 2009-06-18 — [House 111-1-357](votes/house-111-1-0357.md) — On Agreeing to the Amendment — **Agreed to** (418–3)
+- 2009-06-18 — [House 111-1-358](votes/house-111-1-0358.md) — On Agreeing to the Amendment — **Agreed to** (389–35)
+- 2009-06-18 — [House 111-1-359](votes/house-111-1-0359.md) — On Agreeing to the Amendment — **Failed** (105–323)
+- 2009-06-18 — [House 111-1-360](votes/house-111-1-0360.md) — On Agreeing to the Amendment — **Failed** (212–216)
+- 2009-06-18 — [House 111-1-361](votes/house-111-1-0361.md) — On Agreeing to the Amendment — **Failed** (212–213)
+- 2009-06-18 — [House 111-1-362](votes/house-111-1-0362.md) — On Agreeing to the Amendment — **Failed** (161–270)
+- 2009-06-18 — [House 111-1-363](votes/house-111-1-0363.md) — On Agreeing to the Amendment — **Agreed to** (343–87)
+- 2009-06-18 — [House 111-1-364](votes/house-111-1-0364.md) — On Agreeing to the Amendment — **Failed** (165–257)
+- 2009-06-18 — [House 111-1-365](votes/house-111-1-0365.md) — On Agreeing to the Amendment — **Agreed to** (422–0)
+- 2009-06-18 — [House 111-1-366](votes/house-111-1-0366.md) — On Agreeing to the Amendment — **Failed** (208–218)
+- 2009-06-18 — [House 111-1-367](votes/house-111-1-0367.md) — On Agreeing to the Amendment — **Failed** (177–248)
+- 2009-06-18 — [House 111-1-368](votes/house-111-1-0368.md) — On Agreeing to the Amendment — **Agreed to** (262–162)
+- 2009-06-18 — [House 111-1-369](votes/house-111-1-0369.md) — On Agreeing to the Amendment — **Failed** (188–236)
+- 2009-06-18 — [House 111-1-370](votes/house-111-1-0370.md) — On Agreeing to the Amendment — **Failed** (147–275)
+- 2009-06-18 — [House 111-1-371](votes/house-111-1-0371.md) — On Agreeing to the Amendment — **Agreed to** (417–1)
+- 2009-06-18 — [House 111-1-372](votes/house-111-1-0372.md) — On Agreeing to the Amendment — **Failed** (161–262)
+- 2009-06-18 — [House 111-1-373](votes/house-111-1-0373.md) — On Agreeing to the Amendment — **Failed** (134–294)
+- 2009-06-18 — [House 111-1-374](votes/house-111-1-0374.md) — On Agreeing to the Amendment — **Failed** (115–311)
+- 2009-06-18 — [House 111-1-375](votes/house-111-1-0375.md) — On Agreeing to the Amendment — **Failed** (123–303)
+- 2009-06-18 — [House 111-1-376](votes/house-111-1-0376.md) — On Agreeing to the Amendment — **Failed** (129–295)
+- 2009-06-18 — [House 111-1-377](votes/house-111-1-0377.md) — On Agreeing to the Amendment — **Failed** (102–317)
+- 2009-06-18 — [House 111-1-378](votes/house-111-1-0378.md) — On Agreeing to the Amendment — **Failed** (130–295)
+- 2009-06-18 — [House 111-1-379](votes/house-111-1-0379.md) — On Agreeing to the Amendment — **Failed** (107–320)
+- 2009-06-18 — [House 111-1-380](votes/house-111-1-0380.md) — On Agreeing to the Amendment — **Failed** (100–318)
+- 2009-06-18 — [House 111-1-381](votes/house-111-1-0381.md) — On Agreeing to the Amendment — **Failed** (119–306)
+- 2009-06-18 — [House 111-1-382](votes/house-111-1-0382.md) — On Agreeing to the Amendment — **Failed** (124–303)
+- 2009-06-18 — [House 111-1-383](votes/house-111-1-0383.md) — On Agreeing to the Amendment — **Agreed to** (251–168)
+- 2009-06-18 — [House 111-1-384](votes/house-111-1-0384.md) — On Agreeing to the Amendment — **Agreed to** (405–1)
+- 2009-06-18 — [House 111-1-385](votes/house-111-1-0385.md) — On Motion to Reconsider — **Failed** (172–245)
+- 2009-06-18 — [House 111-1-386](votes/house-111-1-0386.md) — On Agreeing to the Amendment — **Failed** (179–236)
+- 2009-06-18 — [House 111-1-387](votes/house-111-1-0387.md) — On Motion to Reconsider — **Failed** (177–241)
+- 2009-06-18 — [House 111-1-388](votes/house-111-1-0388.md) — On Agreeing to the Amendment — **Agreed to** (405–12)
+- 2009-06-18 — [House 111-1-389](votes/house-111-1-0389.md) — On Motion to Reconsider — **Failed** (172–239)
+- 2009-06-18 — [House 111-1-390](votes/house-111-1-0390.md) — On Agreeing to the Amendment — **Agreed to** (414–0)
+- 2009-06-18 — [House 111-1-391](votes/house-111-1-0391.md) — On Motion to Reconsider — **Failed** (170–248)
+- 2009-06-18 — [House 111-1-392](votes/house-111-1-0392.md) — On Agreeing to the Amendment — **Agreed to** (416–1)
+- 2009-06-18 — [House 111-1-393](votes/house-111-1-0393.md) — On Motion to Reconsider — **Failed** (125–295)
+- 2009-06-18 — [House 111-1-394](votes/house-111-1-0394.md) — On Agreeing to the Amendment — **Agreed to** (411–1)
+- 2009-06-18 — [House 111-1-395](votes/house-111-1-0395.md) — On Motion to Reconsider — **Failed** (163–246)
+- 2009-06-18 — [House 111-1-396](votes/house-111-1-0396.md) — On Agreeing to the Amendment — **Agreed to** (387–31)
+- 2009-06-18 — [House 111-1-397](votes/house-111-1-0397.md) — On Motion to Reconsider — **Failed** (166–250)
+- 2009-06-18 — [House 111-1-398](votes/house-111-1-0398.md) — On Agreeing to the Amendment — **Agreed to** (338–74)
+- 2009-06-18 — [House 111-1-399](votes/house-111-1-0399.md) — On Motion to Reconsider — **Failed** (165–245)
+- 2009-06-18 — [House 111-1-400](votes/house-111-1-0400.md) — On Agreeing to the Amendment — **Agreed to** (413–0)
+- 2009-06-18 — [House 111-1-401](votes/house-111-1-0401.md) — On Motion to Reconsider — **Failed** (165–247)
+- 2009-06-18 — [House 111-1-402](votes/house-111-1-0402.md) — Table Appeal of the Ruling of the Chair — **Passed** (246–171)
+- 2009-06-18 — [House 111-1-403](votes/house-111-1-0403.md) — On Motion to Reconsider — **Failed** (168–243)
+- 2009-06-18 — [House 111-1-404](votes/house-111-1-0404.md) — On Motion to Recommit with Instructions — **Passed** (312–103)
+- 2009-06-18 — [House 111-1-405](votes/house-111-1-0405.md) — On Motion to Reconsider — **Failed** (139–266)
+- 2009-06-18 — [House 111-1-406](votes/house-111-1-0406.md) — On Agreeing to the Amendment — **Agreed to** (402–13)
+- 2009-06-18 — [House 111-1-407](votes/house-111-1-0407.md) — On Motion to Reconsider — **Failed** (149–267)
+- 2009-06-18 — [House 111-1-408](votes/house-111-1-0408.md) — On Passage — **Passed** (259–157)
+
 ## Actions
 
 - 2009-06-12 — Introduced in House
 - 2009-06-12 — Placed on the Union Calendar, Calendar No. 73.
 - 2009-06-12 — The House Committee on Appropriations reported an original measure, H. Rept. 111-149, by Mr. Mollohan.
 - 2009-06-12 — The House Committee on Appropriations reported an original measure, H. Rept. 111-149, by Mr. Mollohan.
+- 2009-06-15 — Rules Committee Resolution H. Res. 544 Reported to House. Rule provides for consideration of H.R. 2847 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Specified amendments are in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived.
+- 2009-06-16 — Amendment (A001) offered by Mr. Mollohan. (consideration: CR H6895-6896; text: CR H6895)
+- 2009-06-16 — Amendment (A002) offered by Mr. Schock. (consideration: CR H6896-6897; text: CR H6896)
+- 2009-06-16 — Amendment agreed to Committee of the Whole
+- 2009-06-16 — Amendment agreed to Committee of the Whole
+- 2009-06-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 2847 as unfinished business.
+- 2009-06-16 — Considered under the provisions of rule H. Res. 544. (consideration: CR H6886-6898; text of Title I as reported in House: CR H6894-6895, CR 6/17/2009 H6919-6920, CR 6/17/2009 H6922, CR 6/17/2009 H6923)
+- 2009-06-16 — DEBATE - Pursuant to the provisions of H. Res. 544, debate on amendments offered in the Committee of the Whole will proceed under the five-minute rule.
+- 2009-06-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2847.
+- 2009-06-16 — House amendment agreed to: On agreeing to the Mollohan amendment (A001) Agreed to by voice vote.
+- 2009-06-16 — House amendment agreed to: On agreeing to the Schock amendment (A002) Agreed to by voice vote.
+- 2009-06-16 — House amendment offered/reported by : Amendment (A001) offered by Mr. Mollohan.(consideration: CR H6895-6896; text: CR H6895)
+- 2009-06-16 — House amendment offered/reported by : Amendment (A002) offered by Mr. Schock.(consideration: CR H6896-6897; text: CR H6896)
+- 2009-06-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 544 and Rule XVIII.
+- 2009-06-16 — Mr. Mollohan moved that the Committee rise. (consideration: CR H6897-6898)
+- 2009-06-16 — On agreeing to the Mollohan amendment (A001) Agreed to by voice vote.
+- 2009-06-16 — On agreeing to the Schock amendment (A002) Agreed to by voice vote.
+- 2009-06-16 — On motion that the Committee rise Agreed to by recorded vote: 179 - 124 (Roll no. 350).
+- 2009-06-16 — Rule H. Res. 544 passed House.
+- 2009-06-16 — Rule provides for consideration of H.R. 2847 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Specified amendments are in order. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived.
+- 2009-06-16 — The Speaker designated the Honorable Jason Altmire to act as Chairman of the Committee.
+- 2009-06-17 — Amendment (A003) offered by Ms. Bordallo. (consideration: CR H6920-6922, H6933-6934; text: H6920)
+- 2009-06-17 — Amendment (A004) offered by Ms. Moore (WI). (consideration: CR H6922-6923, H6934-6935; text: H6922)
+- 2009-06-17 — Amendment (A005) offered by Mr. Boswell. (consideration: CR H6924, H6935; text: H6924)
+- 2009-06-17 — Amendment (A006) offered by Mr. Roe (TN). (consideration: CR H6926-6927; text: H6926)
+- 2009-06-17 — Amendment (A007) offered by Mr. Nadler (NY). (consideration: CR H6928-6929; text: H6928)
+- 2009-06-17 — Amendment (A008) offered by Ms. Johnson, E. B.. (consideration: CR H6932-6933; text: H6932-6933)
+- 2009-06-17 — Amendment (A009) offered by Mr. Hensarling. (consideration: CR H6936-6937; text: H6936)
+- 2009-06-17 — Amendment (A010) offered by Mr. Lewis (CA). (consideration: CR H6940, H6942; text: H6940)
+- 2009-06-17 — Amendment (A011) offered by Mr. Tiahrt. (consideration: CR H6942-6943; text: H6942)
+- 2009-06-17 — Amendment (A012) offered by Mr. Cuellar. (consideration: CR H6943-6944; text: H6943)
+- 2009-06-17 — Amendment (A013) offered by Mr. Price (GA). (consideration: CR H6944; text: H6944)
+- 2009-06-17 — Amendment (A014) offered by Mr. Hodes. (consideration: CR H6944-6945; text: H6944-6945)
+- 2009-06-17 — Amendment (A015) offered by Mr. Nunes. (consideration: CR H6945-6948; text: H6945)
+- 2009-06-17 — Amendment (A016) offered by Mrs. Blackburn. (consideration: CR H6948-6949; text: H6948)
+- 2009-06-17 — Amendment (A017) offered by Mr. Burton (IN). (consideration: CR H6949-6950; text: H6949)
+- 2009-06-17 — Amendment (A018) offered by Mr. Price (GA). (consideration: CR H6950-6952; text: H6950)
+- 2009-06-17 — Amendment (A019) offered by Mr. Jordan (OH). (consideration: CR H6952-6953; text: H6952)
+- 2009-06-17 — Amendment (A020) offered by Mr. Reichert. (consideration: CR H6953; text: H6953)
+- 2009-06-17 — Amendment (A021) offered by Mr. Broun (GA). (consideration: CR H6953-6955; text: H6954)
+- 2009-06-17 — Amendment (A022) offered by Mr. Broun (GA). (consideration: CR H6955-6956; text: H6955)
+- 2009-06-17 — Amendment (A023) offered by Mr. Hensarling. (consideration: CR H6956-6957; text: H6956)
+- 2009-06-17 — Amendment (A024) offered by Mr. Hensarling. (consideration: CR H6957-6958; text: H6957)
+- 2009-06-17 — Amendment (A025) offered by Mr. Campbell. (consideration: CR H6958-6960; text: H6958)
+- 2009-06-17 — Amendment (A026) offered by Mr. Campbell. (consideration: CR H6960-6962; text: H6960)
+- 2009-06-17 — Amendment (A027) offered by Mr. Campbell. (consideration: CR H6962; text: H6962)
+- 2009-06-17 — Amendment (A028) offered by Mr. Flake. (consideration: CR H6963-6964; text: H6963)
+- 2009-06-17 — Amendment (A029) offered by Mr. Flake. (consideration: CR H6964-6965; text: H6964)
+- 2009-06-17 — Amendment (A030) offered by Mr. Flake. (consideration: CR H6965-6966; text: H6965)
+- 2009-06-17 — Amendment (A031) offered by Mr. Flake. (consideration: CR H6966-6968; text: H6966)
+- 2009-06-17 — Amendment (A032) offered by Mr. Flake. (consideration: CR H6968-6969; text: H6968)
+- 2009-06-17 — Amendment agreed to Committee of the Whole
+- 2009-06-17 — Amendment agreed to Committee of the Whole
+- 2009-06-17 — Amendment agreed to Committee of the Whole
+- 2009-06-17 — By unanimous consent, the Broun (GA) amendment was withdrawn. (consideration: CR H6956)
+- 2009-06-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2847 as unfinished business.
+- 2009-06-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 2847 as unfinished business.
+- 2009-06-17 — Considered as unfinished business. (consideration: CR H6919-6962; text of Title II as reported in House: CR H6923-6924, H6924-6926, H6927-6928, H6929-6931; text of Title III as reported in House: CR H6931-6932, H6935-6936; text of Title IV as reported in House: CR H6936, H6937; text of Title V as reported in House: CR H6937-6940)
+- 2009-06-17 — Considered as unfinished business. (consideration: CR H6963-6969)
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) #60 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell #104 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell #105 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell #107 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Flake #84 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Flake #85 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Flake #86 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Flake #87 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Flake #91 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling #76 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling #79 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Jordan amendment #100.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H. Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Reichert #114 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn #111 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Bordallo #19 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Boswell #41 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Burton #71 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar #102 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the E. B. Johnson (TX) #35 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling #6 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Hodes #98 amendment
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Lewis (CA) #118 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Moore of Wisconsin #3 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler (NY) #31 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Nunes #63 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Price #97 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Price (GA) #96 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Roe (TN) #25 amendment.
+- 2009-06-17 — DEBATE - Pursuant to the provisions of H.Res. 552, the Committee of the Whole proceeded with 10 minutes of debate on the Tiahrt #69 amendment.
+- 2009-06-17 — House amendment agreed to: On agreeing to the Bordallo amendment (A003) Agreed to by recorded vote: 411 - 14 (Roll no. 353).
+- 2009-06-17 — House amendment agreed to: On agreeing to the Boswell amendment (A005) Agreed to by recorded vote: 422 - 2 (Roll no. 355).
+- 2009-06-17 — House amendment agreed to: On agreeing to the Moore (WI) amendment (A004) Agreed to by recorded vote: 425 - 4 (Roll no. 354).
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered
+- 2009-06-17 — House amendment offered/reported by : Amendment (A003) offered by Ms. Bordallo.(consideration: CR H6920-6922, H6933-6934; text: H6920)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A004) offered by Ms. Moore (WI).(consideration: CR H6922-6923, H6934-6935; text: H6922)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A005) offered by Mr. Boswell.(consideration: CR H6924, H6935; text: H6924)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A006) offered by Mr. Roe (TN).(consideration: CR H6926-6927; text: H6926)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A007) offered by Mr. Nadler (NY).(consideration: CR H6928-6929; text: H6928)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A008) offered by Ms. Johnson, E. B..(consideration: CR H6932-6933; text: H6932-6933)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A009) offered by Mr. Hensarling.(consideration: CR H6936-6937; text: H6936)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A010) offered by Mr. Lewis (CA).(consideration: CR H6940, H6942; text: H6940)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A011) offered by Mr. Tiahrt.(consideration: CR H6942-6943; text: H6942)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A012) offered by Mr. Cuellar.(consideration: CR H6943-6944; text: H6943)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A013) offered by Mr. Price (GA).(consideration: CR H6944; text: H6944)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A014) offered by Mr. Hodes.(consideration: CR H6944-6945; text: H6944-6945)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A015) offered by Mr. Nunes.(consideration: CR H6945-6948; text: H6945)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A016) offered by Mrs. Blackburn.(consideration: CR H6948-6949; text: H6948)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A017) offered by Mr. Burton (IN).(consideration: CR H6949-6950; text: H6949)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A018) offered by Mr. Price (GA).(consideration: CR H6950-6952; text: H6950)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A019) offered by Mr. Jordan (OH).(consideration: CR H6952-6953; text: H6952)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A020) offered by Mr. Reichert.(consideration: CR H6953; text: H6953)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A021) offered by Mr. Broun (GA).(consideration: CR H6953-6955; text: H6954)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A022) offered by Mr. Broun (GA).(consideration: CR H6955-6956; text: H6955)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A023) offered by Mr. Hensarling.(consideration: CR H6956-6957; text: H6956)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A024) offered by Mr. Hensarling.(consideration: CR H6957-6958; text: H6957)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A025) offered by Mr. Campbell.(consideration: CR H6958-6960; text: H6958)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A026) offered by Mr. Campbell.(consideration: CR H6960-6962; text: H6960)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A027) offered by Mr. Campbell.(consideration: CR H6962; text: H6962)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A028) offered by Mr. Flake.(consideration: CR H6963-6964; text: H6963)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A029) offered by Mr. Flake.(consideration: CR H6964-6965; text: H6964)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A030) offered by Mr. Flake.(consideration: CR H6965-6966; text: H6965)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A031) offered by Mr. Flake.(consideration: CR H6966-6968; text: H6966)
+- 2009-06-17 — House amendment offered/reported by : Amendment (A032) offered by Mr. Flake.(consideration: CR H6968-6969; text: H6968)
+- 2009-06-17 — Mr. Mollohan moved that the Committee rise. (consideration: CR H6962)
+- 2009-06-17 — Mr. Mollohan moved that the committee rise. (consideration: CR H6969)
+- 2009-06-17 — On agreeing to the Bordallo amendment (A003) Agreed to by recorded vote: 411 - 14 (Roll no. 353).
+- 2009-06-17 — On agreeing to the Boswell amendment (A005) Agreed to by recorded vote: 422 - 2 (Roll no. 355).
+- 2009-06-17 — On agreeing to the Moore (WI) amendment (A004) Agreed to by recorded vote: 425 - 4 (Roll no. 354).
+- 2009-06-17 — On motion that the Committee rise Agreed to by voice vote.
+- 2009-06-17 — On motion that the committee rise Agreed to by voice vote.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn #111 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bordallo #19 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Wolf demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boswell #41 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) #59 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burton #71 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Mollahan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell #104 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell #105 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell #107 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cuellar #102 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the E. B. Johnson (TX) #35 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Culberson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake #84 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake #85 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake #86 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake #87 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake #91 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling #6 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Mollohan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling #76 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling #79 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hodes #98 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Burton demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jordan #100 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mollahan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lewis (CA) #118 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Lewis (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore of Wisconsin #3 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler (NY) #31 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nunes #63 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) #96 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) #97 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Reichert #114 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Reichert demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roe (TN) #25 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Roe (TN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-06-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tiahrt (CA) #69 amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Tiarht demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-06-17 — Roll call votes on amendments in House
+- 2009-06-17 — Roll call votes on amendments in House
+- 2009-06-17 — Roll call votes on amendments in House
+- 2009-06-17 — Rule H. Res. 552 passed House.
+- 2009-06-17 — Rules Committee Resolution H. Res. 552 Reported to House. Rule provides for consideration of H.R. 2847. Measure will be read by paragraph. Specified amendments are in order. The rule provides that no further amendments shall be in order except: (1) amendments numbered 3,6,19,22,25,31,35,41,59,60,62,63 69,71,93,96,97,98,100,102,111,114, and 118 printed in the Congressional Record of June 15, 2009. (2) not to exceed 10 of the following amendments if offered by the ranking minority member of the Committee on Appropriations or his designee: amendments numbered 76,77,78,79,80,81,82,83,84,85,86,87,8,89,90,91,104,105,106,1 7 and 108 printed in the Congressional Record of June 15, 2009.
+- 2009-06-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-06-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-06-18 — Amendment (A001) offered by Mr. Mollohan. (consideration: CR H7000; text: CR H7000)
+- 2009-06-18 — Amendment (A002) offered by Mr. Schock. (consideration: CR H7001-7002)
+- 2009-06-18 — Amendment (A003) offered by Ms. Bordallo. (consideration: CR H7002-7003)
+- 2009-06-18 — Amendment (A004) offered by Ms. Moore (WI). (consideration: CR H7004)
+- 2009-06-18 — Amendment (A005) offered by Mr. Boswell. (consideration: CR H7005-7006)
+- 2009-06-18 — Amendment (A008) offered by Ms. Johnson, E. B.. (consideration: CR H7008-7009)
+- 2009-06-18 — Amendment (A012) offered by Mr. Cuellar. (consideration: CR H7009-7010)
+- 2009-06-18 — Amendment (A014) offered by Mr. Hodes. (consideration: CR H7011)
+- 2009-06-18 — Amendment (A017) offered by Mr. Burton (IN). (consideration: CR H6999-7000)
+- 2009-06-18 — Amendment (A020) offered by Mr. Reichert. (consideration: CR H7012)
+- 2009-06-18 — Amendment (A033) offered by Mr. Obey. (consideration: CR H7016-7017)
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to Committee of the Whole
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Bordallo amendment (A003) Agreed to by the Yeas and Nays: 405 - 12 (Roll no. 388).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Boswell amendment (A005) Agreed to by recorded vote: 416 - 1 (Roll no. 392).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Burton (IN) amendment (A017) Agreed to by the Yeas and Nays: 251 - 168 (Roll no. 383).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Cuellar amendment (A012) Agreed to by recorded vote: 338 - 74 (Roll no. 398).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 413 - 0 (Roll no. 400).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 387 - 31 (Roll no. 396).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Mollohan amendment (A001) Agreed to by the Yeas and Nays: 405 - 1 (Roll no. 384).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Moore (WI) amendment (A004) Agreed to by recorded vote: 414 - 0 (Roll no. 390).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Obey amendment (A033) Agreed to by recorded vote: 402 - 13 (Roll no. 406).
+- 2009-06-18 — Amendment agreed to by House: On agreeing to the Reichert amendment (A020) Agreed to by voice vote.
+- 2009-06-18 — Amendment failed by House: On agreeing to the Lewis (CA) amendment (A010) Failed by the Yeas and Nays: 212 - 213 (Roll no. 361).(consideration: CR H6983)
+- 2009-06-18 — Amendment failed by House: On agreeing to the Schock amendment (A002) Failed by recorded vote: 179 - 236 (Roll no. 386).
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Amendment failed in Committee of the Whole
+- 2009-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2847 as unfinished business.
+- 2009-06-18 — Considered as unfinished business. (consideration: CR H6979-6983)
+- 2009-06-18 — Considered as unfinished business. (consideration: CR H6983-7018)
+- 2009-06-18 — DEBATE - The House proceeded with ten minutes of debate on the Lewis (CA) motion to recommit. The instructions contained in the motion see to require the the bill to be reported back to the House with an amendment that redirects funds.
+- 2009-06-18 — House amendment agreed to: On agreeing to the Bordallo amendment (A003) Agreed to by the Yeas and Nays: 405 - 12 (Roll no. 388).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Boswell amendment (A005) Agreed to by recorded vote: 416 - 1 (Roll no. 392).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Burton (IN) amendment (A017) Agreed to by recorded vote: 262 - 162 (Roll no. 368).(consideration: CR H6988-6989)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Burton (IN) amendment (A017) Agreed to by the Yeas and Nays: 251 - 168 (Roll no. 383).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Cuellar amendment (A012) Agreed to by recorded vote: 338 - 74 (Roll no. 398).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Cuellar amendment (A012) Agreed to by recorded vote: 343 - 87 (Roll no. 363).(consideration: CR H6984-6985)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 413 - 0 (Roll no. 400).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 422 - 0 (Roll no. 365).(consideration: CR H6986)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 387 - 31 (Roll no. 396).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 389 - 35 (Roll no. 358).(consideration: CR H6980-6981)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Mollohan amendment (A001) Agreed to by the Yeas and Nays: 405 - 1 (Roll no. 384).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Moore (WI) amendment (A004) Agreed to by recorded vote: 414 - 0 (Roll no. 390).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Nadler (NY) amendment (A007) Agreed to by recorded vote: 418 - 3 (Roll no. 357).(consideration: CR H6980, H7007)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Obey amendment (A033) Agreed to by recorded vote: 402 - 13 (Roll no. 406).
+- 2009-06-18 — House amendment agreed to: On agreeing to the Reichert amendment (A020) Agreed to by recorded vote: 417 - 1 (Roll no. 371).(consideration: CR H6990-6991)
+- 2009-06-18 — House amendment agreed to: On agreeing to the Reichert amendment (A020) Agreed to by voice vote.
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Blackburn amendment (A016) Failed by recorded vote: 177 - 248 (Roll no. 367).(consideration: CR H6987-6988)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A021) Failed by recorded vote: 161 - 262 (Roll no. 372).(consideration: CR H6991-6992)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Campbell amendment (A025) Failed by recorded vote: 123 - 303 (Roll no. 375).(consideration: CR H6993-6994)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Campbell amendment (A026) Failed by recorded vote: 129 - 295 (Roll no. 376).(consideration: CR H6994)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Campbell amendment (A027) Failed by recorded vote: 102 - 317 (Roll no. 377).(consideration: CR H6995)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Flake amendment (A028) Failed by recorded vote: 130 - 295 (Roll no. 378).(consideration: CR H6995-6996)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Flake amendment (A029) Failed by recorded vote: 107 - 320 (Roll no. 379).(consideration: CR H6996-6997)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Flake amendment (A030) Failed by recorded vote: 100 - 318 (Roll no. 380).(consideration: CR H6997)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Flake amendment (A031) Failed by recorded vote: 119 - 306 (Roll no. 381).(consideration: CR H6997-6998)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Flake amendment (A032) Failed by recorded vote: 124 - 303 (Roll no. 382).(consideration: CR H6998-6999)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Hensarling amendment (A009) Failed by recorded vote: 105 - 323 (Roll no. 359).(consideration: CR H6981-6982)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 134 - 294 (Roll no. 373).(consideration: CR H6992)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Hensarling amendment (A024) Failed by recorded vote: 115 - 311 (Roll no. 374).(consideration: CR H6992-6993)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Jordan (OH) amendment (A019) Failed by recorded vote: 147 - 275 (Roll no. 370).(consideration: CR H6990)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Lewis (CA) amendment (A010) Failed by recorded vote: 212 - 216 (Roll no. 360).(consideration: CR H6982-6983)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Lewis (CA) amendment (A010) Failed by the Yeas and Nays: 212 - 213 (Roll no. 361).(consideration: CR H6983)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Nunes amendment (A015) Failed by recorded vote: 208 - 218 (Roll no. 366).(consideration: CR H6986-6987)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A013) Failed by recorded vote: 165 - 257 (Roll no. 364).(consideration: CR H6985-6986)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A018) Failed by recorded vote: 188 - 236 (Roll no. 369).(consideration: CR H6989-6990)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Roe (TN) amendment (A006) Failed by recorded vote: 140 - 283 (Roll no. 356).(consideration: CR H6979-6980)
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Schock amendment (A002) Failed by recorded vote: 179 - 236 (Roll no. 386).
+- 2009-06-18 — House amendment not agreed to: On agreeing to the Tiahrt amendment (A011) Failed by recorded vote: 161 - 270 (Roll no. 362).(consideration: CR H6984)
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered
+- 2009-06-18 — House amendment offered/reported by : Amendment (A001) offered by Mr. Mollohan.(consideration: CR H7000; text: CR H7000)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A002) offered by Mr. Schock.(consideration: CR H7001-7002)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A003) offered by Ms. Bordallo.(consideration: CR H7002-7003)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A004) offered by Ms. Moore (WI).(consideration: CR H7004)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A005) offered by Mr. Boswell.(consideration: CR H7005-7006)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A008) offered by Ms. Johnson, E. B..(consideration: CR H7008-7009)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A012) offered by Mr. Cuellar.(consideration: CR H7009-7010)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A014) offered by Mr. Hodes.(consideration: CR H7011)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A017) offered by Mr. Burton (IN).(consideration: CR H6999-7000)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A020) offered by Mr. Reichert.(consideration: CR H7012)
+- 2009-06-18 — House amendment offered/reported by : Amendment (A033) offered by Mr. Obey.(consideration: CR H7016-7017)
+- 2009-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-18 — Mr. Boehner moved to reconsider the vote. (consideration: CR H7002)
+- 2009-06-18 — Mr. Broun (GA) moved to reconsider the vote. (consideration: CR H7009)
+- 2009-06-18 — Mr. Broun (GA) moved to reconsider the vote. (consideration: CR H7015-7016)
+- 2009-06-18 — Mr. Broun (GA) moved to reconsider the vote. (consideration: CR H7017)
+- 2009-06-18 — Mr. Hensarling moved to reconsider the vote. (consideration: CR H7010-7011)
+- 2009-06-18 — Mr. King (IA) moved to reconsider the vote. (consideration: CR H7003-7004)
+- 2009-06-18 — Mr. King (IA) moved to reconsider the vote. (consideration: CR H7004-7005)
+- 2009-06-18 — Mr. King (IA) moved to reconsider the vote. (consideration: CR H7006)
+- 2009-06-18 — Mr. King (IA) moved to reconsider the vote. (consideration: CR H7007-7008)
+- 2009-06-18 — Mr. King (IA) moved to reconsider the vote. (consideration: CR H7011-7012)
+- 2009-06-18 — Mr. Lewis (CA) moved to recommit with instructions to Appropriations. (consideration: CR H7012-7013; text: CR H7012)
+- 2009-06-18 — Mr. Lewis (CA) moved to recommit with instructions to Appropriations. (consideration: CR H7014-7015; text: CR H7014)
+- 2009-06-18 — Mr. Obey moved to table the appeal of the ruling of the Chair.
+- 2009-06-18 — Mr. Obey raised a point of order against the motion to recommit with instructions. The provisions of the motion to recommit include a limitation not specifically contained or authorized in existing law and not considered in the Committee of the Whole pursuant to clause 2(d) of rule 21. Sustained by the Chair.
+- 2009-06-18 — Mr. Price (GA) moved to reconsider the vote. (consideration: CR H7000-7001)
+- 2009-06-18 — Mr. Rogers (MI) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2009-06-18 — Mr. Rogers (MI) moved to reconsider the vote. (consideration: CR H7013-7014)
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Bordallo amendment (A003).
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Boswell amendment (A005).
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Burton (IN) amendment (A017).
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Mollohan amendment (A001).
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Moore (WI) amendment (A004).
+- 2009-06-18 — Mr. Westmoreland demanded a separate vote on the Schock amendment (A002).
+- 2009-06-18 — On agreeing to the Blackburn amendment (A016) Failed by recorded vote: 177 - 248 (Roll no. 367). (consideration: CR H6987-6988)
+- 2009-06-18 — On agreeing to the Bordallo amendment (A003) Agreed to by the Yeas and Nays: 405 - 12 (Roll no. 388).
+- 2009-06-18 — On agreeing to the Boswell amendment (A005) Agreed to by recorded vote: 416 - 1 (Roll no. 392).
+- 2009-06-18 — On agreeing to the Broun (GA) amendment (A021) Failed by recorded vote: 161 - 262 (Roll no. 372). (consideration: CR H6991-6992)
+- 2009-06-18 — On agreeing to the Burton (IN) amendment (A017) Agreed to by recorded vote: 262 - 162 (Roll no. 368). (consideration: CR H6988-6989)
+- 2009-06-18 — On agreeing to the Burton (IN) amendment (A017) Agreed to by the Yeas and Nays: 251 - 168 (Roll no. 383).
+- 2009-06-18 — On agreeing to the Campbell amendment (A025) Failed by recorded vote: 123 - 303 (Roll no. 375). (consideration: CR H6993-6994)
+- 2009-06-18 — On agreeing to the Campbell amendment (A026) Failed by recorded vote: 129 - 295 (Roll no. 376). (consideration: CR H6994)
+- 2009-06-18 — On agreeing to the Campbell amendment (A027) Failed by recorded vote: 102 - 317 (Roll no. 377). (consideration: CR H6995)
+- 2009-06-18 — On agreeing to the Cuellar amendment (A012) Agreed to by recorded vote: 338 - 74 (Roll no. 398).
+- 2009-06-18 — On agreeing to the Cuellar amendment (A012) Agreed to by recorded vote: 343 - 87 (Roll no. 363). (consideration: CR H6984-6985)
+- 2009-06-18 — On agreeing to the Flake amendment (A028) Failed by recorded vote: 130 - 295 (Roll no. 378). (consideration: CR H6995-6996)
+- 2009-06-18 — On agreeing to the Flake amendment (A029) Failed by recorded vote: 107 - 320 (Roll no. 379). (consideration: CR H6996-6997)
+- 2009-06-18 — On agreeing to the Flake amendment (A030) Failed by recorded vote: 100 - 318 (Roll no. 380). (consideration: CR H6997)
+- 2009-06-18 — On agreeing to the Flake amendment (A031) Failed by recorded vote: 119 - 306 (Roll no. 381). (consideration: CR H6997-6998)
+- 2009-06-18 — On agreeing to the Flake amendment (A032) Failed by recorded vote: 124 - 303 (Roll no. 382). (consideration: CR H6998-6999)
+- 2009-06-18 — On agreeing to the Hensarling amendment (A009) Failed by recorded vote: 105 - 323 (Roll no. 359). (consideration: CR H6981-6982)
+- 2009-06-18 — On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 134 - 294 (Roll no. 373). (consideration: CR H6992)
+- 2009-06-18 — On agreeing to the Hensarling amendment (A024) Failed by recorded vote: 115 - 311 (Roll no. 374). (consideration: CR H6992-6993)
+- 2009-06-18 — On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 413 - 0 (Roll no. 400).
+- 2009-06-18 — On agreeing to the Hodes amendment (A014) Agreed to by recorded vote: 422 - 0 (Roll no. 365). (consideration: CR H6986)
+- 2009-06-18 — On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 387 - 31 (Roll no. 396).
+- 2009-06-18 — On agreeing to the Johnson, E. B. amendment (A008) Agreed to by recorded vote: 389 - 35 (Roll no. 358). (consideration: CR H6980-6981)
+- 2009-06-18 — On agreeing to the Jordan (OH) amendment (A019) Failed by recorded vote: 147 - 275 (Roll no. 370). (consideration: CR H6990)
+- 2009-06-18 — On agreeing to the Lewis (CA) amendment (A010) Failed by recorded vote: 212 - 216 (Roll no. 360). (consideration: CR H6982-6983)
+- 2009-06-18 — On agreeing to the Lewis (CA) amendment (A010) Failed by the Yeas and Nays: 212 - 213 (Roll no. 361). (consideration: CR H6983)
+- 2009-06-18 — On agreeing to the Mollohan amendment (A001) Agreed to by the Yeas and Nays: 405 - 1 (Roll no. 384).
+- 2009-06-18 — On agreeing to the Moore (WI) amendment (A004) Agreed to by recorded vote: 414 - 0 (Roll no. 390).
+- 2009-06-18 — On agreeing to the Nadler (NY) amendment (A007) Agreed to by recorded vote: 411 - 1, 1 Present (Roll no. 394).
+- 2009-06-18 — On agreeing to the Nadler (NY) amendment (A007) Agreed to by recorded vote: 418 - 3 (Roll no. 357). (consideration: CR H6980, H7007)
+- 2009-06-18 — On agreeing to the Nunes amendment (A015) Failed by recorded vote: 208 - 218 (Roll no. 366). (consideration: CR H6986-6987)
+- 2009-06-18 — On agreeing to the Obey amendment (A033) Agreed to by recorded vote: 402 - 13 (Roll no. 406).
+- 2009-06-18 — On agreeing to the Price (GA) amendment (A013) Failed by recorded vote: 165 - 257 (Roll no. 364). (consideration: CR H6985-6986)
+- 2009-06-18 — On agreeing to the Price (GA) amendment (A018) Failed by recorded vote: 188 - 236 (Roll no. 369). (consideration: CR H6989-6990)
+- 2009-06-18 — On agreeing to the Reichert amendment (A020) Agreed to by recorded vote: 417 - 1 (Roll no. 371). (consideration: CR H6990-6991)
+- 2009-06-18 — On agreeing to the Reichert amendment (A020) Agreed to by voice vote.
+- 2009-06-18 — On agreeing to the Roe (TN) amendment (A006) Failed by recorded vote: 140 - 283 (Roll no. 356). (consideration: CR H6979-6980)
+- 2009-06-18 — On agreeing to the Schock amendment (A002) Failed by recorded vote: 179 - 236 (Roll no. 386).
+- 2009-06-18 — On agreeing to the Tiahrt amendment (A011) Failed by recorded vote: 161 - 270 (Roll no. 362). (consideration: CR H6984)
+- 2009-06-18 — On motion to recommit with instructions Agreed to by recorded vote: 312 - 103 (Roll no. 404).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 125 - 295 (Roll no. 393).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 139 - 266 (Roll no. 405).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 149 - 267 (Roll no. 407).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 163 - 246 (Roll no. 395).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 165 - 245 (Roll no. 399).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 165 - 247 (Roll no. 401).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 166 - 250 (Roll no. 397).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 168 - 243 (Roll no. 403).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 170 - 248 (Roll no. 391).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 172 - 239 (Roll no. 389).
+- 2009-06-18 — On motion to reconsider the vote Failed by recorded vote: 172 - 245 (Roll no. 385).
+- 2009-06-18 — On motion to reconsider the vote Failed by the Yeas and Nays: 177 - 241 (Roll no. 387).
+- 2009-06-18 — On motion to table the appeal of the ruling of the Chair Agreed to by recorded vote: 246 - 171 (Roll no. 402).
+- 2009-06-18 — On passage Passed by the Yeas and Nays: 259 - 157 (Roll no. 408).
+- 2009-06-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 259 - 157 (Roll no. 408).
+- 2009-06-18 — Point of order sustained against the motion to recommit with instructions.
+- 2009-06-18 — Pursuant to the provisions of clause 2(d) of rule XXIII of the rules of the House, the votes of the delegates were decisive on the previous vote and a separate vote in the House was required.
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — Roll call votes on amendments in House
+- 2009-06-18 — The House proceeded with ten minutes of debate on the Lewis (CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back into the House with an amendment prohibiting the use of funds to provide rights under Miranda v. Arizona, 384 U.S.436(1966) by the Department of Justice, including all component agencies, to detainees in the custody of the armed forces of the United States in Afghanistan.
+- 2009-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-06-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2847.
+- 2009-06-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7015)
+- 2009-06-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
