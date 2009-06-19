@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 23
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 23
@@ -27,9 +27,10 @@ A concurrent resolution supporting the goals and objectives of the Prague Confer
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ A concurrent resolution supporting the goals and objectives of the Prague Confer
 - 2009-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
 - 2009-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6825-6826; text as passed Senate: CR S6825-6826)
 - 2009-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6825-6826; text as passed Senate: CR S6825-6826)
+- 2009-06-19 — Message on Senate action sent to the House.
+- 2009-06-19 — Received in the House.
+- 2009-06-19 — Referred to the House Committee on Foreign Affairs.
