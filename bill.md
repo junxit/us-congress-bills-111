@@ -19,4 +19,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 For purposes of this Act:
 
 - **(1)** *Administrator* The term “Administrator” means the Administrator of the Environmental Protection Agency.
-- **(2)** *State* The term “State” has the meaning given that term in section 700 of the Clean Air Act, as added by section 312 of this Act.
+- **(2)** *State* The term “State” has the meaning given that term in section 302 of the Clean Air Act.
+
+## § 3. International participation
+
+The Administrator, in consultation with the Department of State and the United States Trade Representative, shall annually prepare and certify a report to the Congress regarding whether China and India have adopted greenhouse gas emissions standards at least as strict as those standards required under this Act. If the Administrator determines that China and India have not adopted greenhouse gas emissions standards at least as stringent as those set forth in this Act, the Administrator shall notify each Member of Congress of his determination, and shall release his determination to the media.
