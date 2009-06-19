@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 477
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 477
@@ -36,3 +36,8 @@ Directing the Secretary of Defense to transmit to the House of Representatives t
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Armed Services.
+- 2009-06-16 — Committee Consideration and Mark-up Session Held.
+- 2009-06-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-19 — Placed on the House Calendar, Calendar No. 77.
+- 2009-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-167.
+- 2009-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-167.
