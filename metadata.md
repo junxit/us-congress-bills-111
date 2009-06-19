@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1345
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1345
@@ -26,3 +26,10 @@ District of Columbia Hatch Act Reform Act of 2010
 - 2009-03-05 — Introduced in House
 - 2009-03-05 — Referred to the House Committee on Oversight and Government Reform.
 - 2009-03-05 — Sponsor introductory remarks on measure. (CR E576)
+- 2009-05-04 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported by Voice Vote.
+- 2009-06-04 — Subcommittee on Federal Workforce, Post Office, and the District of Columbia Discharged.
+- 2009-06-19 — Placed on the Union Calendar, Calendar No. 88.
+- 2009-06-19 — Reported by the Committee on Oversight and Government. H. Rept. 111-172.
+- 2009-06-19 — Reported by the Committee on Oversight and Government. H. Rept. 111-172.
