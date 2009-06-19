@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2728
@@ -29,3 +29,8 @@ William Orton Law Library Improvement and Modernization Act
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Referred to the House Committee on House Administration.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-19 — Placed on the Union Calendar, Calendar No. 86.
+- 2009-06-19 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-170.
+- 2009-06-19 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-170.

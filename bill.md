@@ -55,3 +55,7 @@ This Act may be cited as the “William Orton Law Library Improvement and Modern
 ## § 5. Sense of Congress Regarding Role and Status of Law Library of Library of Congress
 
 It is the sense of Congress that the Librarian of Congress should make decisions regarding the financing and operation of the law library of the Library of Congress, the maintenance of its collections, and the access of the public to its collections in a manner that preserves the role and status of the law library as the Nation’s law library.
+
+## § 5. Designation of Law Library of Library of Congress as National Law Library
+
+The law library of the Library of Congress shall be known and designated as the “National Law Library”, and any reference to the law library of the Library of Congress in any law, rule, regulation, or document shall be deemed to be a reference to the National Law Library.
