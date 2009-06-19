@@ -13,34 +13,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Veterans Health Care Budget Reform and Transparency Act of 2009”.
 
-## § 2. Findings
+## § 2. Sense of Congress
 
-Congress makes the following findings:
+It is the sense of Congress that the provision of health care services to veterans could be more effectively and efficiently planned and managed if funding was provided for the management and provision of such services in the form of advance appropriations.
 
-- **(1)** Title 38, United States Code, authorizes the Secretary of Veterans Affairs to furnish hospital and domiciliary care, medical services, nursing home care, and related services to eligible and enrolled veterans, but only to the extent that appropriated resources and facilities are available for such purposes.
-- **(2)** For 19 out of the past 22 fiscal years, appropriated funds for medical care were not provided to the Department of Veterans Affairs before the commencement of its new fiscal year, causing the Department great challenges in planning and managing care for enrolled veterans, to the detriment of veterans.
-- **(3)** The cumulative effect of insufficient, late, and unpredictable funding endangers the viability of the system and the specialized health care resources of the Department to maintain and improve the health of the Nation’s sick and disabled veterans.
-- **(4)** Appropriation levels for the health care programs of the Department have too often proven insufficient over the past decade, requiring the Secretary of Veterans Affairs to ration health care and Congress to approve supplemental appropriations.
-- **(5)** Providing sufficient, timely, and predictable funding would ensure the Government meets its obligation to provide health care to sick and disabled veterans and ensure that all veterans enrolled for care in the Department of Veterans Affairs have ready access to timely and high quality care.
-- **(6)** Providing sufficient, timely, and predictable funding would allow the Department of Veterans Affairs to properly plan for and meet the needs of veterans.
+## § 3. Presidents’ budget submissions
 
-## § 3. Advance appropriations for certain medical care accounts of the Department of Veterans Affairs
+Section 1105(a) of title 31, United States Code, is amended by adding at the end the following new paragraph:
 
-- **(a)** *Advance appropriations for certain medical care accounts*
-  - **(1)** *In general* Chapter 1 of title 38, United States Code, is amended by inserting after section 113 the following new section:
-    > ## § 113A. Advance appropriations for certain medical care accounts
+> - **(36)** information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following accounts of the Department of Veterans Affairs:
+>   - **(A)** Medical Services.
+>   - **(B)** Medical Support and Compliance.
+>   - **(C)** Medical Facilities.
+>   - **(D)** Information Technology Systems.
+>   - **(E)** Medical and Prosthetic Research.
+
+## § 4. Advance appropriations for certain accounts of the Department of Veterans Affairs
+
+- **(a)** *Advance appropriations for certain accounts*
+  - **(1)** *In general* Chapter 1 of title 38, United States Code, is amended by inserting after section 116 the following new section:
+    > ## § 117. Advance appropriations for certain accounts
     >
-    > - **(a)** *In general* For each fiscal year, beginning with fiscal year 2011, discretionary new budget authority provided in an appropriations Act for the appropriations accounts of the Department specified in subsection (b) shall—
+    > - **(a)** *In general* For each fiscal year, beginning with fiscal year 2011, discretionary new budget authority provided in an appropriations Act for the appropriations accounts of the Department specified in subsection (c) shall—
     >   - **(1)** be made available for that fiscal year; and
     >   - **(2)** include, for each such appropriations account, advance discretionary new budget authority that first becomes available for the first fiscal year after the budget year.
-    > - **(b)** *Medical care accounts affected* The appropriations accounts subject to subsection (a) of this section are the following medical care accounts of the “Veterans Health Administration, Department of Veterans Affairs” account:
+    > - **(b)** *Estimates required* The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to section 1105 of title 31, United States Code, detailed estimates of the funds necessary for the accounts of the Department specified in subsection (c) for the fiscal year following the fiscal year for which the budget is submitted.
+    > - **(c)** *Accounts specified* The accounts specified in this subsection are the following accounts of the Department of Veterans Affairs:
     >   - **(1)** Medical Services.
     >   - **(2)** Medical Support and Compliance.
     >   - **(3)** Medical Facilities.
+    >   - **(4)** Information Technology Systems.
+    >   - **(5)** Medical and Prosthetic Research.
+    > - **(d)** *Annual report* Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
-  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 113 the following new line:
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 116 the following new item:
 
-## § 4. Comptroller General study on adequacy and accuracy of baseline model projections of the Department of Veterans Affairs for health care expenditures
+## § 5. Comptroller General study on adequacy and accuracy of baseline model projections of the Department of Veterans Affairs for health care expenditures
 
 - **(a)** *Study of adequacy and accuracy of base line model projections* The Comptroller General shall conduct a study of the adequacy and accuracy of the budget projections made by the Enrollee Health Care Projection Model (in this section referred to as the “Model”), its equivalent, or other methodologies utilized for the purpose of estimating and projecting health care expenditures of the Department of Veterans Affairs with respect to the fiscal year involved and the subsequent four fiscal years.
 - **(b)** *Reports*
@@ -53,3 +61,10 @@ Congress makes the following findings:
   - **(4)** *Appropriate committees of congress defined* In this subsection, the term “appropriate committees of Congress” means—
     - **(A)** the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate; and
     - **(B)** the Committees on Veterans’ Affairs, Appropriations, and the Budget of the House of Representatives.
+
+## § 6. Report to Congress
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, shall submit to the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate and House of Representatives a report on the requirements of this Act and the amendments made by this Act. Such report shall include—
+
+- **(1)** the Secretary’s plans for improving the capability of the Department of Veterans Affairs to better and more accurately estimate future health care costs and demands; and
+- **(2)** a description of impediments, statutory or otherwise, to providing future year estimates and advance appropriations for the Medical Services, Medical Support and Compliance, Medical Facilities, Information Technology Systems, and Medical and Prosthetic Research accounts of the Department.
