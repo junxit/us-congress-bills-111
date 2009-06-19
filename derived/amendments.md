@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1752
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
