@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2410
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -39,16 +39,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Secretary of the Treasury” and inserting “Secretary of State”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and shall advise the Secretary of State of” and inserting “that will provide”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 37(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2709(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2671) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 4 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2671) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(f) Ineligibility.—An officer” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (b) of such section (22 U.S.C. 2708(b)) is amended in the matter preceding paragraph (1) by inserting “or to an officer or employee of a foreign government in accordance with subsection (f)(2)” after “individual”. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(1), by inserting “in accordance with subsection (e),” before “coordinate”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 of the Foreign Service Act of 1980 (22 U.S.C. 3941) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6553) is amended by striking “October 1, 2009” and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
 | — | amend | Section 604(c)(2) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469(c)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 604(a)(2) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469(a)(2)) is amended by adding at the end the following new sentences: “At least four members shall have substantial experience in the c… | the bill names no machine-readable US Code section |
@@ -73,7 +73,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 209(b), by striking “Board” and inserting “Secretary”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (8), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (a)(2), by adding at the end the following new sentence: “In the event that a fiscal year begins without such determination having been made, there is authorized to be admitted in the first quarter of such fiscal year 25 pe… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), in the matter preceding paragraph (1), by striking “discussions in person” and inserting “discussions in person, to be commenced not later than June 1 of each year,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2(c)(2) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)(2)) is amended by striking “$100,000,000” and inserting “$200,000,000”. | the bill names no machine-readable US Code section |
@@ -85,7 +85,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 618 of the Tibetan Policy Act of 2002 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 620(b) of the Tibetan Policy Act of 2002 is amended by adding before the period at the end the following: “, including the reincarnation system of Tibetan Buddhism”. | the bill names no machine-readable US Code section |
 | — | replace | Section 401(d) of the Arms Control and Disarmament Act (Public Law 87–297; 22 U.S.C. 2581) is amended, in the first proviso, by striking “the President” and inserting “the Secretary of State”. | the bill names no machine-readable US Code section |
@@ -94,9 +94,9 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “The Secretary”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 of the Foreign Service Act of 1980 (22 U.S.C. 3941), as amended by section 212(c) of this division, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (5) of section 1603 of the Reconstruction and Stabilization Civilian Management Act of 2008 (title XVI of Public Law 110–417) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents set forth in section 2 of such Act is amended by inserting after the item relating to section 414 the following: | the bill names no machine-readable US Code section |
@@ -117,7 +117,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding after the item relating to section 505 the following new item: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 5 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3981 et seq.) is amended by adding after section 506 (as added by section 321(a) of this division) the following new section: | the bill names no machine-readable US Code section |
 | — | amend | Section 2 of the Foreign Service Act of 1980 is amended, in the table of contents, by adding after the item relating to section 506 (as added by section 321(b)(2)(B) of this Act) the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 610 of the Foreign Service Act of 1980 (22 U.S.C. 4010) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 610 of the Foreign Service Act of 1980 (22 U.S.C. 4010) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Such section, as amended by subsection (a) of this section, is further amended, in the section heading, by inserting “; Suspension” before the period at the end. | the bill names no machine-readable US Code section |
 | — | amend | The item relating to such section in the table of contents in section 2 of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “subsection (b)” and inserting “subsection (b) or (c)”; | the bill names no machine-readable US Code section |
@@ -126,7 +126,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5550b of title 5, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1)(B), by striking “to facilitate the” and all that follows through “Afghanistan,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
@@ -134,17 +134,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “On” and inserting “(a) Report on minority groups and women.—On”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “April 1, 2003, and April 1, 2004,” and inserting “April 1, 2010, and April 1, 2011,”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraphs (1) and (2), by striking “minority groups” each place it appears and inserting “minority groups and women”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 324 of the Foreign Relations Authorization Act, Fiscal Year 2003, as amended by subsection (b) of this section, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in section 502B(b) (22 U.S.C. 2304(b)), by inserting after the eighth sentence the following new sentence: “Wherever applicable, violence or discrimination that affects the fundamental freedoms, consistent with United States law, of an i… | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “the Secretary for Democracy, Human Rights and Labor,” before “the Ambassador at Large”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 603(b) of the Foreign Service Act of 1980 (22 U.S.C. 4003) is amended, in the second sentence, by inserting before the period at the end the following: “, and should consider whether the member of the Service has served in a posi… | the bill names no machine-readable US Code section |
@@ -152,7 +152,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in the section heading, by striking “pilot”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “pilot”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “60” and inserting “125”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “2009” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and one employee abroad” after “D.C.”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “III” and inserting “II”; and | the bill names no machine-readable US Code section |
@@ -170,7 +170,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “For” and inserting “(a) In general.—For”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Office” and inserting “Directorate”; | the bill names no machine-readable US Code section |
 | — | amend | by amending the second sentence to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 38(b) of the Arms Export Control Act (22 U.S.C. 2778(b)) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 38 of the Arms Export Control Act (22 U.S.C. 2778) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 3 of the Arms Export Control Act (22 U.S.C. 2771 et seq.) is amended by inserting after section 38 the following new section: | the bill names no machine-readable US Code section |
@@ -191,7 +191,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraph (5). | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 38 of the Arms Export Control Act (22 U.S.C. 2778), as amended by section 809(a) of this division, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 36(h)(1) of the Arms Export Control Act (22 U.S.C. 2776(h)(1)) is amended by striking “a determination” and inserting “an unclassified determination”. | the bill names no machine-readable US Code section |
 | — | redesignate | in sections 3(d)(2)(B), 3(d)(3)(A)(i), 3(d)(5), 21(e)(2)(A), 36(b)(3) (as redesignated by section 822(a)(1)(B) of this division), 36(c)(2)(A), 36(d)(2)(A), 62(c)(1), and 63(a)(2) by inserting “Israel,” before “or New Zealand”; and | the bill names no machine-readable US Code section |
@@ -214,7 +214,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 514(b)(2)(A) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h(b)(2)(A)) is amended by striking “fiscal years 2007 and 2008” and inserting “fiscal years 2010 and 2011”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), in the heading by striking “Exception” and inserting “General exception”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “Whoever” and inserting “Subject to subsection (d), whoever,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (5) through (8), respectively; | the bill names no machine-readable US Code section |
@@ -224,7 +224,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 301 of the United States-Hong Kong Policy Act of 1992 (Public Law 102–383; 22 U.S.C. 5731) is amended, in the matter preceding paragraph (1), by striking “and March 31, 2006” and inserting “March 31, 2006, and March 31, 2010, and… | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (11), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (12), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 116 (22 U.S.C. 2151n), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 502B (22 U.S.C. 2304), as amended by section 1109(b)(2) of this division, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
