@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2847
@@ -16,9 +16,10 @@ Hiring Incentives to Restore Employment Act
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (57)
 
@@ -510,3 +511,4 @@ Hiring Incentives to Restore Employment Act
 - 2009-06-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2847.
 - 2009-06-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7015)
 - 2009-06-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-06-22 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
