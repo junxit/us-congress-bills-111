@@ -1,0 +1,36 @@
+---
+measure: H.R. 2995
+congress: 111
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2995 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+3 amendatory instructions. 0 executed, 3 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | insert | by inserting “, plus any increase in the State housing credit ceiling for 2009 attributable to any State housing credit ceiling returned in 2009 to the State by reason of section 1400N(c) of such Code (including as such section is applie… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, plus any increase in the State housing credit ceiling for 2009 attributable to any additional State housing credit ceiling made by reason of the application of such section 702(d)(2) and 704(b)” after “such section” in su… | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 1602 of such Act is amended by adding at the end the following flush sentence: “For purposes of subparagraph (B), in the case of any area to which such section 702(d)(2) or 704(b) applies, section 1400N(c)(1)(A)… | the bill names no machine-readable US Code section |
