@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-235 amendatory instructions. 160 executed, 75 stated and not applied.
+244 amendatory instructions. 157 executed, 87 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 20 U.S.C. § 1001
 
-> Section 101(b) of Higher Education Opportunity Act (Public Law 110–315) is amended by striking “July 1, 2010” and inserting “the date of the enactment of this Act”.
+> Section 101(b) of the Higher Education Opportunity Act (Public Law 110–315) is amended by striking “July 1, 2010” and inserting “the date of enactment of this Act”.
 
 | | |
 |---|---|
 | Removed | `July 1, 2010` |
-| Inserted | `the date of the enactment of this Act` |
-
-### 20 U.S.C. § 1002
-
-> in section 102(a)(2)(A)(iii) (20 U.S.C. 1002(a)(2)(A)(iii)), as added by section 102(a)(1)(D) of the Higher Education Opportunity Act (Public Law 110–315), in the matter preceding subclause (I), by striking “States—” and inserting “States (other than a public or private nonprofit nursing school located outside of the United States that was participating in the program under part B of title IV on August 13, 2008)—”;
-
-| | |
-|---|---|
-| Removed | `States—` |
-| Inserted | `States (other than a public or private nonprofit nursing school located outside of the United States that was participating in the program under part B of title IV on August 13, 2008)—` |
+| Inserted | `the date of enactment of this Act` |
 
 ### 20 U.S.C. § 1002
 
@@ -89,7 +80,7 @@ to guess them.
 
 ### 20 U.S.C. § 1018
 
-> in subsection (d)(3), by striking “appropriate committees of Congress” and inserting “authorizing committees”; and
+> in subsection (d)(3), by striking “appropriate committees of Congress” and inserting “authorizing committees”;
 
 | | |
 |---|---|
@@ -98,7 +89,7 @@ to guess them.
 
 ### 20 U.S.C. § 1019b
 
-> in section 153(a)(1)(B)(iii)(V) (20 U.S.C. 1019b(a)(1)(B)(iii)(V)), by striking “borrowers who take out loans under” each place the term appears and inserting “borrowers of loans made under”.
+> in section 153(a)(1)(B)(iii)(V) (20 U.S.C. 1019b(a)(1)(B)(iii)(V)), by striking “borrowers who take out loans under” each place the term appears and inserting “borrowers of loans made under”; and
 
 | | |
 |---|---|
@@ -107,12 +98,39 @@ to guess them.
 
 ### 20 U.S.C. § 1022a
 
-> in subsection (b)(6)(E)(ii), by striking “section 1111(b)(2)” and inserting “section 1111(b)(1)”; and
+> in subsection (b)(6)(E)(ii), by striking “section 1111(b)(2)” and inserting “section 1111(b)(1)”;
 
 | | |
 |---|---|
 | Removed | `section 1111(b)(2)` |
 | Inserted | `section 1111(b)(1)` |
+
+### 20 U.S.C. § 1022a
+
+> in the heading, by striking “Pre-Baccalaureate” and inserting “the”; and
+
+| | |
+|---|---|
+| Removed | `Pre-Baccalaureate` |
+| Inserted | `the` |
+
+### 20 U.S.C. § 1022a
+
+> in the matter preceding paragraph (1), by striking “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:” and inserting “An eligible partnership that receives a grant to carry out a program for the preparation of teachers shall carry out an effective pre-baccalaureate teacher preparation program or a 5th year initial licensing program that includes all of the following:”;
+
+| | |
+|---|---|
+| Removed | `An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:` |
+| Inserted | `An eligible partnership that receives a grant to carry out a program for the preparation of teachers shall carry out an effective pre-baccalaureate teacher preparation program or a 5th year initial licensing program that includes all of the following:` |
+
+### 20 U.S.C. § 1022a
+
+> in subparagraph (A)(ii), by striking “to earn” and inserting “leading to”; and
+
+| | |
+|---|---|
+| Removed | `to earn` |
+| Inserted | `leading to` |
 
 ### 20 U.S.C. § 1022a
 
@@ -134,7 +152,7 @@ to guess them.
 
 ### 20 U.S.C. § 1059c
 
-> in subsection (a), by striking “Indian Tribal” and inserting “Tribal”;
+> in subsection (a), by striking “Indian Tribal” and inserting “Tribal”; and
 
 | | |
 |---|---|
@@ -161,57 +179,21 @@ to guess them.
 
 ### 20 U.S.C. § 1059c
 
-> in paragraph (3)(A), by striking “the Navajo Community College Assistance Act of 1978” and inserting “the Navajo Community College Act”; and
+> in paragraph (3)(A), by striking “the Navajo Community College Assistance Act of 1978” and inserting “the Navajo Community College Act”;
 
 | | |
 |---|---|
 | Removed | `the Navajo Community College Assistance Act of 1978` |
 | Inserted | `the Navajo Community College Act` |
 
-### 20 U.S.C. § 1059c
-
-> in subsection (d)(4)(A), by striking “part B” and inserting “part B of this title”;
-
-| | |
-|---|---|
-| Removed | `part B` |
-| Inserted | `part B of this title` |
-
-### 20 U.S.C. § 1059e
-
-> in subsection (i), by striking “part B, or” and inserting “part B of this title, or”;
-
-| | |
-|---|---|
-| Removed | `part B, or` |
-| Inserted | `part B of this title, or` |
-
-### 20 U.S.C. § 1059f
-
-> in section 319(d)(3)(A) (20 U.S.C. 1059f(d)(3)(A)), by striking “part B, or” and inserting “part B of this title, or”;
-
-| | |
-|---|---|
-| Removed | `part B, or` |
-| Inserted | `part B of this title, or` |
-
-### 20 U.S.C. § 1059g
-
-> in section 320(d)(3)(A) (20 U.S.C. 1059g(d)(3)(A)), by striking “part B, or” and inserting “part B of this title, or”;
-
-| | |
-|---|---|
-| Removed | `part B, or` |
-| Inserted | `part B of this title, or` |
-
 ### 20 U.S.C. § 1062
 
-> in section 323(a) (20 U.S.C. 1062(a)), by striking “in any fiscal year” and inserting “for any fiscal year”;
+> in section 323(a) (20 U.S.C. 1062(a)), in the matter preceding paragraph (1), by striking “in any fiscal year” and inserting “for any fiscal year,”;
 
 | | |
 |---|---|
 | Removed | `in any fiscal year` |
-| Inserted | `for any fiscal year` |
+| Inserted | `for any fiscal year,` |
 
 ### 20 U.S.C. § 1063
 
@@ -305,21 +287,21 @@ to guess them.
 
 ### 20 U.S.C. § 1070a
 
-> in clause (vi), by striking “$105,000,000” and inserting “$140,000,000”; and
+> in clause (vi), by striking “$105,000,000” and inserting “$258,000,000”; and
 
 | | |
 |---|---|
 | Removed | `$105,000,000` |
-| Inserted | `$140,000,000` |
+| Inserted | `$258,000,000` |
 
 ### 20 U.S.C. § 1070a
 
-> in clause (viii), by striking “$4,400,000,000” and inserting “$4,470,000,000”;
+> in clause (viii), by striking “$4,400,000,000” and inserting “$4,452,000,000”;
 
 | | |
 |---|---|
 | Removed | `$4,400,000,000` |
-| Inserted | `$4,470,000,000` |
+| Inserted | `$4,452,000,000` |
 
 ### 20 U.S.C. § 1070a-11
 
@@ -339,9 +321,18 @@ to guess them.
 | Removed | `320.` |
 | Inserted | `320` |
 
+### 20 U.S.C. § 1070
+
+> in clause (i), by striking “If a” and inserting “Except as provided in clause (ii), if a”;
+
+| | |
+|---|---|
+| Removed | `If a` |
+| Inserted | `Except as provided in clause (ii), if a` |
+
 ### 20 U.S.C. § 1070d-34
 
-> in section 419D(d) (20 U.S.C. 1070d–34(d)), by striking “1134” and inserting “134”.
+> in section 419D(d) (20 U.S.C. 1070d–34(d)), by striking “1134” and inserting “134”; and
 
 | | |
 |---|---|
@@ -357,7 +348,7 @@ to guess them.
 | Removed | `section 493C` |
 | Inserted | `section 493C,` |
 
-### 15 U.S.C. § 1681c
+### 20 U.S.C. § 1078-6
 
 > by striking “paragraph (1) of this subsection” and inserting “paragraph (1)(A)(i)”; and
 
@@ -366,7 +357,7 @@ to guess them.
 | Removed | `paragraph (1) of this subsection` |
 | Inserted | `paragraph (1)(A)(i)` |
 
-### 15 U.S.C. § 1681c
+### 20 U.S.C. § 1078-6
 
 > by striking “paragraph (1)(B)(ii) of this subsection” and inserting “paragraph (1)(D)(ii)(I)”;
 
@@ -375,7 +366,7 @@ to guess them.
 | Removed | `paragraph (1)(B)(ii) of this subsection` |
 | Inserted | `paragraph (1)(D)(ii)(I)` |
 
-### 15 U.S.C. § 1681c
+### 20 U.S.C. § 1078-6
 
 > by striking “sold under paragraph (2)” and inserting “sold or assigned under paragraph (1)(A)”; and
 
@@ -384,7 +375,7 @@ to guess them.
 | Removed | `sold under paragraph (2)` |
 | Inserted | `sold or assigned under paragraph (1)(A)` |
 
-### 15 U.S.C. § 1681c
+### 20 U.S.C. § 1078-6
 
 > by striking “sale.” and inserting “sale or assignment.”;
 
@@ -393,7 +384,7 @@ to guess them.
 | Removed | `sale.` |
 | Inserted | `sale or assignment.` |
 
-### 15 U.S.C. § 1681c
+### 20 U.S.C. § 1078-6
 
 > in paragraph (4), by striking “which is sold under paragraph (1) of this subsection” and inserting “that is sold or assigned under paragraph (1)”; and
 
@@ -467,7 +458,7 @@ to guess them.
 
 ### 20 U.S.C. § 1078-3
 
-> in subsection (c)(2), by striking “subsection (b)(2)(F)” and inserting “subsection (b)(2)”;
+> by striking “subsection (b)(2)(F)” and inserting “subsection (b)(2)”; and
 
 | | |
 |---|---|
@@ -521,12 +512,21 @@ to guess them.
 
 ### 20 U.S.C. § 1080A
 
-> in section 430A(f) (20 U.S.C. 1080A(f)), by striking “(6)” each place it appears and inserting “(5)”;
+> by striking “and (6)” and inserting “and (5)”; and
 
 | | |
 |---|---|
-| Removed | `(6)` |
-| Inserted | `(5)` |
+| Removed | `and (6)` |
+| Inserted | `and (5)` |
+
+### 20 U.S.C. § 1080A
+
+> by striking “(a)(6)” and inserting “(a)(5)”;
+
+| | |
+|---|---|
+| Removed | `(a)(6)` |
+| Inserted | `(a)(5)` |
 
 ### 20 U.S.C. § 1082
 
@@ -602,7 +602,7 @@ to guess them.
 
 ### 20 U.S.C. § 1085
 
-> in subsection (p)(1), by striking “section 771” and inserting “section 781”;
+> in subsection (p)(1), by striking “section 771” and inserting “section 781”; and
 
 | | |
 |---|---|
@@ -629,21 +629,12 @@ to guess them.
 
 ### 20 U.S.C. § 1087-1
 
-> in the second sentence of subparagraph (F), by striking “427A(f)” and inserting “427A(i)”; and
+> in the second sentence of subparagraph (F), by striking “427A(f)” and inserting “427A(i)”.
 
 | | |
 |---|---|
 | Removed | `427A(f)` |
 | Inserted | `427A(i)` |
-
-### 20 U.S.C. § 1087-2
-
-> in section 439(r)(2)(A)(i) (20 U.S.C. 1087–2(r)(2)(A)(i)), by striking “appoint” and all that follows through “to conduct” and inserting “appoint and fix the compensation of such auditors and examiners as may be necessary to conduct”.
-
-| | |
-|---|---|
-| Removed | `appoint” and all that follows through “to conduct` |
-| Inserted | `appoint and fix the compensation of such auditors and examiners as may be necessary to conduct` |
 
 ### 42 U.S.C. § 2753
 
@@ -692,12 +683,21 @@ to guess them.
 
 ### 20 U.S.C. § 1087cc
 
-> in paragraph (3), by striking “(6)” each place it appears and inserting “(5)”;
+> by striking “and (6)” and inserting “and (5)”; and
 
 | | |
 |---|---|
-| Removed | `(6)` |
-| Inserted | `(5)` |
+| Removed | `and (6)` |
+| Inserted | `and (5)` |
+
+### 20 U.S.C. § 1087cc
+
+> by striking “(a)(6)” and inserting “(a)(5)”;
+
+| | |
+|---|---|
+| Removed | `(a)(6)` |
+| Inserted | `(a)(5)` |
 
 ### 20 U.S.C. § 1087dd
 
@@ -764,12 +764,12 @@ to guess them.
 
 ### 25 U.S.C. § 11a
 
-> in paragraph (1), by striking “under” and all that follows through “; and” and inserting “under Public Law 98–64 (25 U.S.C. 11a et seq.; 97 Stat. 365) (commonly known as the Per Capita Act or Public Law 93–134 (25 U.S.C. 1401 et seq.; 87 Stat. 466)(commonly known as the Indian Tribal Judgment Funds Use or Distribution Act); and”; and
+> in paragraph (1), by striking “under” and all that follows through “; and” and inserting “under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the Per Capita Act) or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and”; and
 
 | | |
 |---|---|
 | Removed | `under” and all that follows through “; and` |
-| Inserted | `under Public Law 98–64 (25 U.S.C. 11a et seq.; 97 Stat. 365) (commonly known as the Per Capita Act or Public Law 93–134 (25 U.S.C. 1401 et seq.; 87 Stat. 466)(commonly known as the Indian Tribal Judgment Funds Use or Distribution Act); and` |
+| Inserted | `under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the Per Capita Act) or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and` |
 
 ### 43 U.S.C. § 1601
 
@@ -1088,12 +1088,12 @@ to guess them.
 
 ### 20 U.S.C. § 1094
 
-> in subsection (f)(1), by striking “496(c)(4)” and inserting “496(c)(6)”; and
+> in subsection (f)(1), by striking “496(c)(4)” and inserting “496(c)(3)”; and
 
 | | |
 |---|---|
 | Removed | `496(c)(4)` |
-| Inserted | `496(c)(6)` |
+| Inserted | `496(c)(3)` |
 
 ### 20 U.S.C. § 1094
 
@@ -1103,6 +1103,24 @@ to guess them.
 |---|---|
 | Removed | `subsection (f)(2)` |
 | Inserted | `subsection (e)(2)` |
+
+### 20 U.S.C. § 1088
+
+> by striking “Any activities” and inserting “Any experimental sites”; and
+
+| | |
+|---|---|
+| Removed | `Any activities` |
+| Inserted | `Any experimental sites` |
+
+### 20 U.S.C. § 1088
+
+> by striking “June 30, 2009” and inserting “June 30, 2010”; and
+
+| | |
+|---|---|
+| Removed | `June 30, 2009` |
+| Inserted | `June 30, 2010` |
 
 ### 20 U.S.C. § 1096
 
@@ -1148,51 +1166,6 @@ to guess them.
 |---|---|
 | Removed | `for profit` |
 | Inserted | `for-profit` |
-
-### 20 U.S.C. § 1099d
-
-> Section 499 (20 U.S.C. 1099d) is amended by striking “2009” each place it appears and inserting “2010”.
-
-| | |
-|---|---|
-| Removed | `2009` |
-| Inserted | `2010` |
-
-### 20 U.S.C. § 1099d
-
-> Section 499(b)(1) (20 U.S.C. 1099d(b)(1)) is amended by striking “Communication” and inserting “Communications”.
-
-| | |
-|---|---|
-| Removed | `Communication` |
-| Inserted | `Communications` |
-
-### 20 U.S.C. § 1099d
-
-> in subparagraph (A), by striking “2010” and inserting “2011”;
-
-| | |
-|---|---|
-| Removed | `2010` |
-| Inserted | `2011` |
-
-### 20 U.S.C. § 1099d
-
-> in subparagraph (B), by striking “2012” and inserting “2013”; and
-
-| | |
-|---|---|
-| Removed | `2012` |
-| Inserted | `2013` |
-
-### 20 U.S.C. § 1099d
-
-> in subparagraph (C), by striking “2013” and inserting “2014”.
-
-| | |
-|---|---|
-| Removed | `2013` |
-| Inserted | `2014` |
 
 ### 20 U.S.C. § 1101a
 
@@ -1394,7 +1367,7 @@ to guess them.
 
 ### 20 U.S.C. § 1161l-4
 
-> in section 825(a) (20 U.S.C. 1161l-4(a)), by striking “the Family Educational Rights and Privacy Act of 1974” and inserting “commonly known as the Family Educational Rights and Privacy Act of 1974”;
+> in section 825(a) (20 U.S.C. 1161l–4(a)), by striking “the Family Educational Rights and Privacy Act of 1974” and inserting “commonly known as the Family Educational Rights and Privacy Act of 1974”;
 
 | | |
 |---|---|
@@ -1403,7 +1376,7 @@ to guess them.
 
 ### 20 U.S.C. § 1161l-5
 
-> in section 826(3) (20 U.S.C. 1161l-5(3)), by striking “the Family Educational Rights and Privacy Act of 1974” and inserting “commonly known as the Family Educational Rights and Privacy Act of 1974”;
+> in section 826(3) (20 U.S.C. 1161l–5(3)), by striking “the Family Educational Rights and Privacy Act of 1974” and inserting “commonly known as the Family Educational Rights and Privacy Act of 1974”;
 
 | | |
 |---|---|
@@ -1430,12 +1403,12 @@ to guess them.
 
 ### 20 U.S.C. § 1161n-2
 
-> in subparagraph (D), by striking “section” and inserting “part”;
+> in subparagraph (D), by striking “purposes of this section” and inserting “purpose of this part”;
 
 | | |
 |---|---|
-| Removed | `section` |
-| Inserted | `part` |
+| Removed | `purposes of this section` |
+| Inserted | `purpose of this part` |
 
 ### 20 U.S.C. § 1161o
 
@@ -1457,11 +1430,11 @@ to guess them.
 
 ### 20 U.S.C. § 4353
 
-> Section 203(b)(2) of the Education of the Deaf Act of 1986 (20 U.S.C. 4353(b)(2)) is amended by striking “and sub-sections (b) and (c) of section 209.” and inserting “and subsections (a), (b), and (c) of section 209.”.
+> Section 203(b)(2) of the Education of the Deaf Act of 1986 (20 U.S.C. 4353(b)(2)) is amended by striking “and subsections (b) and (c) of section 209.” and inserting “and subsections (a), (b), and (c) of section 209.”.
 
 | | |
 |---|---|
-| Removed | `and sub-sections (b) and (c) of section 209.` |
+| Removed | `and subsections (b) and (c) of section 209.` |
 | Inserted | `and subsections (a), (b), and (c) of section 209.` |
 
 ## Stated, not applied
@@ -1473,39 +1446,49 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 123` | amend | by amending subsection (b)(1)(F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | replace | Section 102(e) of the Higher Education Opportunity Act (Public Law 110–315) is amended by striking the period at the end and inserting “, except that, with respect to foreign nursing schools that were eligible to participate in part B of… | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1001` | replace | in section 155(a) (20 U.S.C. 1019d(a)), by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1021` | replace | in section 200(22) (20 U.S.C. 1021(22)), by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1022a` | strike | in subsection (c)(1), by striking “pre-baccalaureate”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1022a` | strike | in clause (i), by striking “one-year” before “teaching residency program”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1022a` | strike | in clause (iii)(I), by striking “one-year”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1059e` | replace | in section 318(b)(1) (20 U.S.C. 1059e(b)(1)), by striking subparagraph (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1063` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1063` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1063` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067a` | strike | by striking “of 1979”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 123` | amend | by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067d` | repeal | Section 1024 (20 U.S.C. 1067d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a` | strike | by striking paragraph (4) of section 401(f) (20 U.S.C. 1070a(f)), as added by section 401(c) of the Higher Education Opportunity Act (Public Law 110–315); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-11` | insert | in subsection (c)(8)(C)(iv)(I), by inserting “to be” after “determined”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1070d-33` | insert | in section 419C(b)(1) (20 U.S.C. 1070d–33(b)(1)), by inserting “and” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1070` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | insert | by inserting after clause (i) (as amended by subparagraph (A)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070d-33` | insert | in section 419C(b)(1) (20 U.S.C. 1070d–33(b)(1)), by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1070` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070` | add-at-end | Section 404 of the Higher Education Opportunity Act (Public Law 110–315) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | strike | Section 428(b)(1)(G)(i) (20 U.S.C. 1078(b)(1)(G)(i)), as amended by section 303 of the College Cost Reduction and Access Act (Public Law 110–84), is amended by striking “or 439(q)”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078` | insert | in subparagraph (C), by inserting “or 485(l)” after “section 485(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078` | insert | in subparagraph (D), by inserting “or 485(l)” after “section 485(b)”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1085` | insert | in subparagraph (E), by inserting “or 485(l)” after “section 485(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1085` | insert | in subparagraph (F), by inserting “or 485(l)” after “section 485(b)”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1681c` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681c` | insert | in paragraph (5), by inserting “(whether by loan sale or assignment)” after “rehabilitating a loan”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1078-6` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-6` | insert | in paragraph (5), by inserting “(whether by loan sale or assignment)” after “rehabilitating a loan”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078-6` | insert | in subsection (b), in the first sentence, by inserting “or assigned to the Secretary” after “sold to an eligible lender”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087` | insert | in subparagraph (B), by inserting “the reinstatement and resumption to be” after “determines”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078` | strike | in subsection (a)(2)(A)(i)(II), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078` | insert | in the matter following subclause (II) of paragraph (1)(M)(i), by inserting “section” before “428B”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078` | strike | in subparagraph (B), by striking “clause (i) or (ii) of”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078-2` | repeal | by repealing paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-3` | insert | by inserting a comma after “graduated”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-7` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-8` | amend | in subsection (d), by amending the text of the header of paragraph (2) to read as follows: “Limits for graduate, professional, and independent postbaccalaureate students”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1078-8` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-8` | amend | in subsection (e), by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-10` | add-at-end | in subsection (c)(1), by adding at the end the following: “No borrower may receive a reduction of loan obligations under both this section and section 460.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-10` | insert | in subparagraph (B), by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078-10` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-10` | redesignate | by redesignating subparagraph (D) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1082` | insert | in clause (i), by inserting “and” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1082` | replace | in clause (ii), by striking “; and” and inserting a period; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 2753` | strike | in subsection (e)(1), by striking “in accordance with such subsection”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2753` | strike | in subsection (e)(1), in the matter preceding subparagraph (A), by striking “in accordance with such subsection”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087i-1` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087i-1` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087c` | repeal | by repealing paragraph (3) of section 453(c) (20 U.S.C. 1087c(c)); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1518,7 +1501,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087bb` | replace | in section 462(a)(1) (20 U.S.C. 1087bb(a)(1)), by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087cc` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087cc-1` | strike | in the first sentence of the matter preceding paragraph (1) of section 463A(a) (20 U.S.C. 1087cc–1(a)), by striking “, in order to carry out the provisions of section 463(a)(8),”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1087mm` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087mm` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087oo` | insert | in section 475(c)(5)(B) (20 U.S.C. 1087oo(c)(5)(B)), by inserting “of 1986” after “Code”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087qq` | insert | in section 477(b)(5)(B) (20 U.S.C. 1087qq(b)(5)(B)), by inserting “of 1986” after “Code”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087ss` | amend | in paragraph (1)(A)(i), by amending subclause (III) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1536,15 +1519,17 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | insert | in the matter preceding subparagraph (A) of paragraph (1), by inserting “of” after “foreign institution”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | insert | in subsection (k)(2), by inserting “section” before “484(r)(1)”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1094` | insert | in subsection (a)(23)(A), by inserting “of 1993” after “Registration Act”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1088` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1098` | insert | in section 491(l)(2)(A) (20 U.S.C. 1098(l)(2)(A)), by inserting “the” after “enactment of”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1099b` | replace | in section 496(a)(6)(G) (20 U.S.C. 1099b(a)(6)(G)), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1124` | insert | in the matter preceding subparagraph (A) of paragraph (2), by inserting “the” before “Federal”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1131-1` | insert | in section 622(a) (20 U.S.C. 1131–1(a)), by inserting a period after “title”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1138c` | insert | in section 744(c)(6)(C) (20 U.S.C. 1138c(c)(6)(C)), by inserting “of the National Academies” after “Institute of Medicine”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1140` | insert | in section 760(1)(D) (20 U.S.C. 1140(1)(D)), by inserting “with nondisabled students” after “disabilities to participate”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1140` | replace | in section 760 (20 U.S.C. 1140), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 296` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161j` | insert | in section 819(b)(3) (20 U.S.C. 1161j(b)(3)), by inserting a period after “101(a)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161k` | insert | in subsection (d)(5), by inserting “the” before “grant”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161l-3` | insert | in subparagraph (A), by inserting “a” after “submitting”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161p` | insert | in section 851(j) (20 U.S.C. 1161p(j)), by inserting “to be appropriated” after “authorized”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1153` | amend | Section 821(h) of the Higher Education Amendments of 1998 (20 U.S.C. 1151(h)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1153` | insert | Section 841(c) of the Higher Education Amendments of 1998 (20 U.S.C. 1153(c)) is amended by inserting “this section” after “to carry out”. | the bill quotes the text inserted but describes where it goes |

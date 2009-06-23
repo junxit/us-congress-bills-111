@@ -2,12 +2,14 @@
 legis-num: H.R. 1777
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1777
 
-> To make technical corrections to the Higher Education Act of 1965, and for other purposes.
+That the bill from the House of Representatives (H.R. 1777) entitled “An Act to make technical corrections to the Higher Education Act of 1965, and for other purposes. ”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Table of contents
 
@@ -19,4 +21,4 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 ## § 3. Effective date
 
-Except as otherwise provided in this Act, the amendments made by this Act shall take effect as if enacted on the date of the enactment of the Higher Education Opportunity Act (Public Law 110–315).
+Except as otherwise provided in this Act, the amendments made by this Act shall take effect as if enacted on the date of enactment of the Higher Education Opportunity Act (Public Law 110–315).
