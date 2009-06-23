@@ -9,20 +9,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To convey certain submerged lands to the Commonwealth of the Northern Mariana Islands in order to give that territory the same benefits in its submerged lands as Guam, the Virgin Islands, and American Samoa have in their submerged lands.
 
-## § 1. Conveyance of certain submerged lands to the commonwealth of the northern mariana islands
+## § 1. Conveyance of certain submerged lands to the Commonwealth of the Northern Mariana Islands
 
-The first section of Public Law 93–435 (48 U.S.C. 1705) is amended—
-
-- **(1)** in the second sentence of subsection (b), by inserting “the Commonwealth of the Northern Mariana Islands,” after “Guam,” each place it appears; and
-- **(2)** by adding at the end the following:
-  > - **(e)**
-  >   - **(1)** Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line 3 geographical miles distant from the coastline of the territory of the Commonwealth of the Northern Mariana Islands (as modified before, on, or after the date of enactment of this subsection by accretion, erosion, or reliction, or in artificially made, filled in, or reclaimed lands that were formerly permanently or periodically covered by tidal waters) are conveyed to the Government of the Commonwealth of the Northern Mariana Islands to be administered in trust for the benefit of the people of the Commonwealth of the Northern Mariana Islands.
-  >   - **(2)** The conveyance shall be subject to subsections (b), (c), and (d) except that each reference to the “date of enactment of this Act” in those clauses shall (for the purposes of this subsection) be considered to be a reference to the date of enactment of this subsection.
-
-## § 2. Application of public law 93–435
-
-Public Law 93–435 (48 U.S.C. 1705 et seq.) is amended by adding at the end the following new section:
-
-> ## § 7. Consistent application
->
-> This Act is intended to be applied in a consistent manner to Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands, except to the extent that there is a specific and express exception in this Act regarding its application to one or more of these territories.
+- **(a)** *In general* The first section of Public Law 93–435 (48 U.S.C. 1705) is amended by inserting “the Commonwealth of the Northern Mariana Islands,” after “Guam,” each place it appears.
+- **(b)** *References to date of enactment* For the purposes of the amendment made by subsection (a), each reference in Public Law 93–435 (48 U.S.C. 1705) to the “date of enactment” shall be considered to be a reference to the date of the enactment of this section.
+- **(c)** Nothing in this section amends, repeals, or otherwise alters the Proclamation of the President dated January 6, 2009, establishing the Marianas Trench Marine National Monument.

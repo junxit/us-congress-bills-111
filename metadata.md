@@ -1,7 +1,7 @@
 ---
 measure: H.R. 934
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 934
@@ -16,10 +16,35 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Cosponsors (2)
+## Cosponsors (27)
 
 - Rep. Flake, Jeff [R-AZ-6] (F000444)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
 ## Committees (1)
 
@@ -30,3 +55,11 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Introduced in House
 - 2009-02-10 — Referred to the House Committee on Natural Resources.
+- 2009-02-13 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-02-25 — Subcommittee Hearings Held.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-06-10 — Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.
+- 2009-06-23 — Placed on the Union Calendar, Calendar No. 93.
+- 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-176.
+- 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-176.
