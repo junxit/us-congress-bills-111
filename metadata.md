@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1211
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1211
@@ -74,6 +74,10 @@ Women Veterans Health Care Improvement Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2009-06-23 — [House 111-1-421](votes/house-111-1-0421.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–0)
+
 ## Actions
 
 - 2009-02-26 — Introduced in House
@@ -88,3 +92,11 @@ Women Veterans Health Care Improvement Act
 - 2009-06-18 — Placed on the Union Calendar, Calendar No. 83.
 - 2009-06-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-165.
 - 2009-06-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-165.
+- 2009-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-06-23 — Considered as unfinished business. (consideration: CR H7110-7111)
+- 2009-06-23 — Considered under suspension of the rules. (consideration: CR H7097-7101)
+- 2009-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1211.
+- 2009-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2009-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 421). (text: CR H7097-7099)
+- 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 421).(text: CR H7097-7099)
