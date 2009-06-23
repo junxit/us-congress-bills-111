@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1016
 
-> To amend title 38, United States Code, to provide advance appropriations authority for certain medical care accounts of the Department of Veterans Affairs, and for other purposes.
+> To amend title 38, United States Code, to provide advance appropriations authority for certain accounts of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1016
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1016
@@ -148,6 +148,10 @@ Veterans Health Care Budget Reform and Transparency Act of 2009
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2009-06-23 — [House 111-1-420](votes/house-111-1-0420.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–1)
+
 ## Actions
 
 - 2009-02-12 — Introduced in House
@@ -160,3 +164,12 @@ Veterans Health Care Budget Reform and Transparency Act of 2009
 - 2009-06-19 — Placed on the Union Calendar, Calendar No. 87.
 - 2009-06-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-171.
 - 2009-06-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-171.
+- 2009-06-23 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Thompson (PA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-06-23 — Considered as unfinished business. (consideration: CR H7109-7110)
+- 2009-06-23 — Considered under suspension of the rules. (consideration: CR H7094-7097)
+- 2009-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1016.
+- 2009-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2009-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 409 - 1 (Roll no. 420). (text: CR H7094-7095)
+- 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 409 - 1 (Roll no. 420).(text: CR H7094-7095)
+- 2009-06-23 — The title of the measure was amended. Agreed to without objection.
