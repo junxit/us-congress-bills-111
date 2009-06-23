@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1777
@@ -62,3 +62,9 @@ To make technical corrections to the Higher Education Act of 1965, and for other
 - 2009-06-23 — Senate amendment agreed to: Amendment SA 1364 agreed to in Senate by Unanimous Consent.
 - 2009-06-23 — Senate amendment proposed (on the floor): Amendment SA 1364 proposed by Senator Reid for Senator Kennedy.(consideration: CR S6899)
 - 2009-06-23 — Senate amendment submitted
+- 2009-06-26 — Presented to President.
+- 2009-06-26 — Presented to President.
+- 2009-07-01 — Became Public Law No: 111-39.
+- 2009-07-01 — Became Public Law No: 111-39.
+- 2009-07-01 — Signed by President.
+- 2009-07-01 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1777
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1777
 
-That the bill from the House of Representatives (H.R. 1777) entitled “An Act to make technical corrections to the Higher Education Act of 1965, and for other purposes. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To make technical corrections to the Higher Education Act of 1965, and for other purposes.
 
 ## § 1. Table of contents
 
