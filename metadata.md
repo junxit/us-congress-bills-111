@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1275
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1275
@@ -29,3 +29,11 @@ Utah Recreational Land Exchange Act of 2009
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Referred to the House Committee on Natural Resources.
+- 2009-03-06 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-03-24 — Subcommittee Hearings Held.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-06-10 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-06-23 — Placed on the Union Calendar, Calendar No. 96.
+- 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-179.
+- 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-179.

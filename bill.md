@@ -21,14 +21,14 @@ In this Act:
   - **(A)** “BLM Subsurface only Proposed for Transfer to State Trust Lands”;
   - **(B)** “BLM Surface only Proposed for Transfer to State Trust Lands”; and
   - **(C)** “BLM Lands Proposed for Transfer to State Trust Lands”.
-- **(2)** *Grand county map* The term “Grand County Map” means the map prepared by the Bureau of Land Management entitled “Utah Recreational Land Exchange Act Grand County”, dated November 13, 2008, and relating to the exchange of Federal land and non-Federal land in Grand and San Juan Counties, Utah.
+- **(2)** *Grand county map* The term “Grand County Map” means the map prepared by the Bureau of Land Management entitled “Utah Recreational Land Exchange Act Grand County”, dated May 14, 2009, and relating to the exchange of Federal land and non-Federal land in Grand and San Juan Counties, Utah.
 - **(3)** *Maps* The term “maps” means the Grand County Map and the Uintah County Map.
 - **(4)** *Non-federal land* The term “non-Federal land” means the land in Grand, San Juan, and Uintah Counties, Utah, that is identified on the maps as—
   - **(A)** “State Trust Land Proposed for Transfer to BLM”; and
   - **(B)** “State Trust Minerals Proposed for Transfer to BLM”.
 - **(5)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(6)** *State* The term “State” means the State of Utah, as trustee under the Utah State School and Institutional Trust Lands Management Act (Utah Code Ann. 53C–1–101 et seq.).
-- **(7)** *Uintah county map* The term “Uintah County Map” means the map prepared by the Bureau of Land Management entitled “Utah Recreational Land Exchange Act Uintah County”, dated November 13, 2008, and relating to the exchange of Federal land and non-Federal land in Uintah County, Utah.
+- **(7)** *Uintah county map* The term “Uintah County Map” means the map prepared by the Bureau of Land Management entitled “Utah Recreational Land Exchange Act Uintah County”, dated May 14, 2009, and relating to the exchange of Federal land and non-Federal land in Uintah County, Utah.
 
 ## § 3. Exchange of land
 
@@ -39,15 +39,16 @@ In this Act:
   - **(1)** valid existing rights;
   - **(2)** except as otherwise provided by this section—
     - **(A)** section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716); and
-    - **(B)** any other applicable laws; and
-  - **(3)** any additional terms and conditions that the Secretary and the State mutually determine to be appropriate.
+    - **(B)** any other applicable laws;
+  - **(3)** all costs of land exchanges under this Act, including but not limited to appraisals, surveys, and related costs, shall be paid equally by the Secretary and the State; and
+  - **(4)** any additional terms and conditions that the Secretary and the State mutually determine to be appropriate.
 - **(c)** *Title approval* Title to the Federal land and non-Federal land to be exchanged under this section shall be in a format acceptable to the Secretary and the State.
 - **(d)** *Appraisals*
   - **(1)** *In general* The value of the Federal land and the non-Federal land shall be determined by appraisals conducted by 1 or more independent appraisers selected jointly by the Secretary and the State.
   - **(2)** *Applicable law* The appraisals conducted under paragraph (1) shall be conducted in accordance with section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
   - **(3)** *Approval* The appraisals conducted under paragraph (1) shall be submitted to the Secretary and the State for approval.
   - **(4)** *Adjustment*
-    - **(A)** *In general* If value is attributed to any parcel of Federal land because of the presence of minerals subject to leasing under the Mineral Leasing Act (30 U.S.C. 181 et seq.), the value of the parcel (as otherwise established under this subsection) shall be reduced by the percentage of the Federal revenue sharing with a State under section 35(a) of the Mineral Leasing Act (30 U.S.C. 191(a)).
+    - **(A)** *In general* If value is attributed to any parcel of Federal land because of the presence of minerals subject to leasing under the Mineral Leasing Act (30 U.S.C. 181 et seq.), the value of the parcel (as otherwise established under this subsection) shall be reduced by the estimated value of the payments that would have been made to the State of Utah from bonuses, rentals, and royalties that the United States would have received if such minerals were leased pursuant to the Mineral Leasing Act (30 U.S.C. 181 et seq.).
     - **(B)** *Limitation* An adjustment under subparagraph (A) shall not be considered as a property right of the State.
   - **(5)** *Availability of appraisals*
     - **(A)** *In general* All final appraisals, appraisal reviews, and determinations of value for land to be exchanged under this section shall be available for public review at the Utah State Office of the Bureau of Land Management at least 30 days before the conveyance of the applicable parcels.
@@ -84,10 +85,13 @@ In this Act:
     - **(A)** shall be equal; or
     - **(B)** shall be made equal in accordance with paragraph (2).
   - **(2)** *Equalization*
-    - **(A)** *Surplus of Federal land* If the value of the Federal land exceeds the value of the non-Federal land, the value of the Federal land and non-Federal land shall be equalized, as determined to be appropriate and acceptable by the Secretary and the State—
-      - **(i)** by reducing the acreage of the Federal land to be conveyed; or
-      - **(ii)** by adding additional State land to the non-Federal land to be conveyed.
-    - **(B)** *Surplus of non-Federal land* If the value of the non-Federal land exceeds the value of the Federal land, the value of the Federal land and non-Federal land shall be equalized by reducing the acreage of the non-Federal land to be conveyed, as determined to be appropriate and acceptable by the Secretary and the State.
+    - **(A)** *Surplus of Federal land* If the value of the Federal land exceeds the value of the non-Federal land, the value of the Federal land and non-Federal land shall be equalized, as determined to be appropriate and acceptable by the Secretary and the State, by one or more of the following:
+      - **(i)** By reducing the acreage of the Federal land to be conveyed.
+      - **(ii)** By adding additional State land to the non-Federal land to be conveyed.
+      - **(iii)** Consistent with section 206(b) of the Federal Land Policy and Management Act (43 U.S.C. 1716), by cash equalization of not more than 5 percent of the total value of the lands or interests in lands to be transferred out of Federal ownership.
+    - **(B)** *Surplus of non-Federal land* If the value of the non-Federal land exceeds the value of the Federal land, the value of the Federal land and non-Federal land shall be equalized, as determined to be appropriate and acceptable by the Secretary and the State, by one or both of the following:.
+      - **(i)** By reducing the acreage of the non-Federal land to be conveyed.
+      - **(ii)** Consistent with section 206(b) of the Federal Land Policy and Management Act (43 U.S.C. 1716), by cash equalization of not more than 5 percent of the total value of the lands or interests in lands to be transferred out of Federal ownership.
   - **(3)** *Notice and public inspection*
     - **(A)** *In general* If the Secretary and the State determine to add or remove land from the exchange, the Secretary or the State shall—
       - **(i)** publish in a newspaper of general circulation in Salt Lake County, Utah, a notice that identifies when and where a revised exchange map will be available for public inspection; and
@@ -98,11 +102,7 @@ In this Act:
 
 - **(a)** *Administration of Non-Federal Land*
   - **(1)** *In general* Subject to paragraph (2) and in accordance with section 206(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(c)), the non-Federal land acquired by the United States under this Act shall become part of, and be managed as part of, the Federal administrative unit or area in which the land is located.
-  - **(2)** *Mineral leasing and occupancy*
-    - **(A)** *In general* Subject to valid existing rights, the non-Federal land acquired by the United States under this Act shall be withdrawn from the operation of the mineral leasing laws until the later of—
-      - **(i)** the date that is 2 years after the date of enactment of this Act; or
-      - **(ii)** the date on which the Record of Decision authorizing the implementation of the applicable resource management plans under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is signed.
-    - **(B)** *Exception* Any land identified on the maps as “Withdrawal Parcels” is withdrawn from the operation of the mineral leasing and mineral material disposal laws.
+  - **(2)** *Withdrawal Parcels* Any non-Federal land acquired by the United States under this Act identified on the maps as “Withdrawal Parcels” is withdrawn from the operation of the mineral leasing and mineral material disposal laws.
   - **(3)** *Receipts*
     - **(A)** *In general* Any mineral receipts derived from the non-Federal land acquired under this Act shall be paid into the general fund of the Treasury.
     - **(B)** *Applicable law* Mineral receipts from the non-Federal land acquired under this Act shall not be subject to section 35 of the Mineral Leasing Act (30 U.S.C. 191).
@@ -118,6 +118,10 @@ In this Act:
   - **(2)** *Costs* The costs of remedial actions relating to hazardous materials on land acquired under this Act shall be paid by those entities responsible for the costs under applicable law.
 - **(d)** *Easement* The conveyance of Federal land in sec. 33, T. 4 S., R. 24 E., and sec. 4, T. 5 S., R. 24 E., of the Salt Lake Meridian, shall be subject to a 1,000 foot wide scenic easement and a 200 foot wide road right-of-way previously granted to the National Park Service for the Dinosaur National Monument, as described in Land Withdrawal No. U–0141143, pursuant to the Act of September 8, 1960 (74 Stat. 857,861).
 
-## § 5. Authorization of appropriations
+## § 5. Termination of authority
+
+The provisions of this Act shall terminate 5 years after the date of enactment.
+
+## § 6. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this Act.

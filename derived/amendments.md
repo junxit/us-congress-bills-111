@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1275
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | by adding additional State land to the non-Federal land to be conveyed. | the bill names no machine-readable US Code section |
+| — | amend | By adding additional State land to the non-Federal land to be conveyed. | the bill names no machine-readable US Code section |
