@@ -2,7 +2,7 @@
 legis-num: H. RES. 565
 congress: 111th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. RES. 565
