@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -41,6 +41,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after the item relating to Adjutant General’s Office of Emergency Preparedness the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Public Works Department of the City of Santa Cruz, CA” and inserting “Monterey County Water Resources Agency, CA”. | the bill names no machine-readable US Code section |
 | — | replace | Section 203(m) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(m)) is amended by striking “September 30, 2009” and inserting “September 30, 2010”. | the bill names no machine-readable US Code section |
-| — | replace | Section 143 of Division A of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 (Public Law 110-329; 122 Stat. 3580 et seq.), as amended by section 101 of division J of the Omnibus Appropriations Act,… | the bill names no machine-readable US Code section |
+| — | replace | Section 143 of Division A of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 (Public Law 110–329; 122 Stat. 3580 et seq.), as amended by section 101 of division J of the Omnibus Appropriations Act,… | the bill names no machine-readable US Code section |
 | — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295; 6 U.S.C. 121 note) is amended by striking “three years after the date of enactment of this Act” and inserting “October 4, 2010”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44903(j)(2)(C) of title 49, United States Code, is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
