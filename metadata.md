@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1172
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1172
@@ -21,9 +21,10 @@ To direct the Secretary of Veterans Affairs to include on the Internet website o
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ To direct the Secretary of Veterans Affairs to include on the Internet website o
 - 2009-06-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 422). (text: CR H7093)
 - 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 422).(text: CR H7093)
+- 2009-06-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
