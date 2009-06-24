@@ -80,8 +80,8 @@ It is the policy of the United States—
 - **(6)** to work with the Government of Pakistan to prevent any Pakistani territory from being used as a base or conduit for terrorist attacks in Pakistan, Afghanistan, India, or elsewhere in the world;
 - **(7)** to work in close cooperation with the Government of Pakistan to coordinate military, paramilitary, and police action against terrorist targets;
 - **(8)** to work with the Government of Pakistan to help bring peace, stability, and development to all regions of Pakistan, especially those in the Pakistan-Afghanistan border areas, including support for an effective counterinsurgency strategy;
-- **(9)** to expand people-to-people engagement between the United States and Pakistan, through increased educational, technical, and cultural exchanges and other methods; and;
-- **(10)** to encourage and promote public-private partnerships in Pakistan in order to bolster ongoing development efforts and strengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan.; and
+- **(9)** to expand people-to-people engagement between the United States and Pakistan, through increased educational, technical, and cultural exchanges and other methods;
+- **(10)** to encourage and promote public-private partnerships in Pakistan in order to bolster ongoing development efforts and strengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan; and
 - **(11)** to encourage the development of local analytical capacity to measure progress on an integrated basis across the areas of donor country expenditure in Pakistan, and better hold the Government of Pakistan accountable for how the funds are being spent.
 
 ## § 5. Authorization of funds
@@ -92,21 +92,16 @@ It is the policy of the United States—
   - **(3)** For fiscal year 2011, up to $1,500,000,000.
   - **(4)** For fiscal year 2012, up to $1,500,000,000.
   - **(5)** For fiscal year 2013, up to $1,500,000,000.
-- **(b)** *Availability of Funds* Of the amounts Funds.—
+- **(b)** *Availability of Funds*
   - **(1)** *In general* Of the funds appropriated in each fiscal year pursuant to the authorization of appropriations in subsection (a)—
-  - **(1)** none of the amounts
     - **(A)** none of the amounts appropriated may be made available after the date of the enactment of this Act for assistance to Pakistan unless the Pakistan Assistance Strategy Report has been submitted to the appropriate congressional committees in accordance with subsection (j); and
-  - **(2)** not more than $750,000,000
     - **(B)** not more than $750,000,000 may be made available for assistance to Pakistan in any fiscal year after 2009 unless the President’s Special Representative to Afghanistan and Pakistan submits to the appropriate congressional committees during that fiscal year—
-    - **(A)** a certification
       - **(i)** a certification that assistance provided to Pakistan under this Act to date has made or is making substantial progress toward achieving the principal objectives of United States assistance to Pakistan contained in the Pakistan Assistance Strategy Report pursuant to subsection (j)(1); and
-    - **(B)** a memorandum
-      - **(ii)** a memorandum explaining the reasons justifying the certification described in subsection (A)clause (i).
-- **(c)** *Maker of Certification* In the event
-  - **(2)** *Maker of certification* In the event of a vacancy in, or the termination of, the position of the President's Special Representative to Afghanistan and Pakistan, the certification described under subsection (b)(2)paragraph (1)(B) may be made by the Secretary of State.
+      - **(ii)** a memorandum explaining the reasons justifying the certification described in clause (i).
+  - **(2)** *Maker of certification* In the event of a vacancy in, or the termination of, the position of the President's Special Representative to Afghanistan and Pakistan, the certification described under paragraph (1)(B) may be made by the Secretary of State.
 - **(c)** *Waiver* The Secretary of State may waive the limitations in subsection (b) if the Secretary determines, and certifies to the appropriate congressional committees, that it is in the national security interests of the United States to provide such waiver.
 - **(d)** *Sense of Congress on foreign assistance funds* It is the sense of Congress that, subject to an improving political and economic climate in Pakistan, there should be authorized to be appropriated up to $1,500,000,000 per year for fiscal years 2014 through 2018 for the purpose of providing assistance to Pakistan under the Foreign Assistance Act of 1961.
-- **(e)** *Sense of Congress on security-related assistance* It is the sense of Congress that security-related assistance to the Government of Pakistan should be provided in close coordination with the Government of Pakistan, designed to improve the Government's capabilities in areas of mutual concern, and maintained at a level that will bring significant gains in pursuing the policies set forth in paragraphs (6), (7), and (8) of section 4.Government of Pakistan—
+- **(e)** *Sense of Congress on security-related assistance* It is the sense of Congress that security-related assistance to the Government of Pakistan—
   - **(1)** should be provided in close coordination with the Government of Pakistan, designed to improve the Government’s capabilities in areas of mutual concern, and maintained at a level that will bring significant gains in pursuing the policies set forth in paragraphs (6), (7), and (8) of section 4; and
   - **(2)** should be geared primarily toward bolstering the counter-insurgency capabilities of the Government to effectively defeat the Taliban-backed insurgency and deny popular support to al Qaeda and other foreign terrorist organizations that are based in Pakistan.
 - **(f)** *Use of funds*
@@ -117,39 +112,37 @@ It is the policy of the United States—
       - **(iii)** political pluralism, equality, and the rule of law;
       - **(iv)** respect for human and civil rights and the promotion of an independent media;
       - **(v)** transparency and accountability of all branches of government and judicial proceedings;
-      - **(vi)** anticorruption efforts among bureaucrats, elected officials, and public servants at all levels of military and civilian government administration; and
-      - **(vii)** countering the narcotics trade;administration;
+      - **(vi)** anticorruption efforts among bureaucrats, elected officials, and public servants at all levels of military and civilian government administration;
       - **(vii)** countering the narcotics trade; and
       - **(viii)** the implementation of legal and political reforms in the FATA;
     - **(B)** economic freedom, including—
       - **(i)** sustainable economic growth, including in rural areas, and the sustainable management of natural resources;
       - **(ii)** investments in energy and water, including energy generation and cross-border infrastructure projects with Afghanistan;
       - **(iii)** employment generation, including essential basic infrastructure projects such as roads and irrigation projects and other physical infrastructure; and
-      - **(iv)** worker rights, including the right to form labor unions and legally enforce provisions safeguarding the rights of workers and local community stakeholders; and;
+      - **(iv)** worker rights, including the right to form labor unions and legally enforce provisions safeguarding the rights of workers and local community stakeholders;
     - **(C)** investments in people, particularly women and children, including—
       - **(i)** broad-based public primary and secondary education and vocational training for both boys and girls;
       - **(ii)** food security and agricultural development to ensure food staples and other crops that provide economic growth and income opportunities in times of severe shortage;
-      - **(iii)** quality public health, including medical clinics with well trained staff serving rural and urban communities; and
-      - **(iv)** higher educationcommunities;
+      - **(iii)** quality public health, including medical clinics with well trained staff serving rural and urban communities;
       - **(iv)** vocational training for women and access to microfinance for small business establishment and income generation for women; and
-      - **(v)** higher education to ensure a breadth and consistency of Pakistani graduates to prepare citizens to help strengthen the foundation for improved governance and economic vitality, including through public-private partnerships.; and
+      - **(v)** higher education to ensure a breadth and consistency of Pakistani graduates to prepare citizens to help strengthen the foundation for improved governance and economic vitality, including through public-private partnerships; and
     - **(D)** long-term development in regions of Pakistan where internal conflict has caused large-scale displacement.
   - **(2)** *Funding for police reform, equipping, and training* Up to $100,000,000 of the funds appropriated pursuant to subsection (a) should be used for police reform, equipping, and training.
 - **(g)** *Preference for building local capacity* The President is encouraged, as appropriate, to utilize Pakistani firms and community and local nongovernmental organizations in Pakistan, including through host country contacts, and to work with local leaders to provide assistance under this section.
 - **(h)** *Authority To use funds for operational and audit expenses*
   - **(1)** *In general* Of the amounts appropriated for a fiscal year pursuant to subsection (a)—
     - **(A)** up to $10,000,000 may be used for administrative expenses of Federal departments and agencies in connection with the provision of assistance authorized by this section;
-    - **(B)** up to $20,000,000$30,000,000 may be made available to the Inspectors General of the Department of State, the United States Agency for International Development, and other relevant Executive branch agencies in order to provide audits and program reviews of projects funded pursuant to this section; and
+    - **(B)** up to $30,000,000 may be made available to the Inspectors General of the Department of State, the United States Agency for International Development, and other relevant Executive branch agencies in order to provide audits and program reviews of projects funded pursuant to this section; and
     - **(C)** up to $5,000,000 may be used by the Secretary to establish a Chief of Mission Fund for use by the Chief of Mission in Pakistan to provide assistance to Pakistan under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to address urgent needs or opportunities, consistent with the purposes outlined in subsection (f) or for purposes of humanitarian relief.
   - **(2)** *Authority in addition to existing amounts* The amounts authorized under subparagraphs (A) and (B) of paragraph (1) to be used for the purposes described in such subparagraphs are in addition to other amounts that are available for such purposes.
 - **(i)** *Use of funds* Amounts appropriated or otherwise made available to carry out this section shall be utilized to the maximum extent possible as direct expenditures for projects and programs, subject to existing reporting and notification requirements.
-- **(j)** *Pakistan assistance strategy report* Not later than 30 days45 days after the date of enactment of this Act, or September 15, 2009, whichever date comes later, the PresidentSecretary of State shall submit to the appropriate congressional committees a report describing United States policy and strategy with respect to assistance to Pakistan. The report shall include—
+- **(j)** *Pakistan assistance strategy report* Not later than 45 days after the date of enactment of this Act, or September 15, 2009, whichever date comes later, the Secretary of State shall submit to the appropriate congressional committees a report describing United States policy and strategy with respect to assistance to Pakistan. The report shall include—
   - **(1)** a description of the principal objectives of United States assistance to Pakistan to be provided under this Act;
   - **(2)** the amounts of funds authorized to be appropriated under subsection (a) proposed to be allocated to programs or projects designed to achieve each of the purposes of assistance listed in subsection (f);
   - **(3)** a description of the specific projects and programs for which amounts authorized to be appropriated pursuant to subsection (a) are proposed to be allocated;
-  - **(4)** a list of criteria to be used to measure the effectiveness of projects described under subsection (f), including a systematic, qualitative basiscriteria and benchmarks to be used to measure the effectiveness of projects described under subsection (f), including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
-  - **(5)** a description of the role to be played by Pakistani national, regional, and local officials and members of Pakistani civil society and local private sector, civic, religious, and tribal leaders in helping to identify and implement programs and projects for which assistance is to be provided under this Act, and of consultations with such officialssuch representatives in developing the strategy; and;
-  - **(6)** a description of all amounts made available for assistance to Pakistan during fiscal year 2009 prior to submission of the report, including a description of each project or program for which funds were made available and the amounts allocated to each such program or project.;
+  - **(4)** a list of criteria and benchmarks to be used to measure the effectiveness of projects described under subsection (f), including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
+  - **(5)** a description of the role to be played by Pakistani national, regional, and local officials and members of Pakistani civil society and local private sector, civic, religious, and tribal leaders in helping to identify and implement programs and projects for which assistance is to be provided under this Act, and of consultations with such representatives in developing the strategy;
+  - **(6)** a description of all amounts made available for assistance to Pakistan during fiscal year 2009 prior to submission of the report, including a description of each project or program for which funds were made available and the amounts allocated to each such program or project;
   - **(7)** a description of the steps taken, or to be taken, to ensure assistance provided under this Act is not awarded to individuals or entities affiliated with terrorist organizations; and
   - **(8)** a projection of the levels of assistance to be provided to Pakistan under this Act, broken down into the following categories as described in the annual “Report on the Criteria and Methodology for Determining the Eligibility of Candidate Countries for Millennium Challenge Account Assistance”:
     - **(A)** Civil liberties.
@@ -171,12 +164,12 @@ It is the policy of the United States—
     - **(Q)** Fiscal policy.
 - **(k)** *Notification requirements*
   - **(1)** *Notice of assistance for budget support* The President shall notify the appropriate congressional committees not later than 15 days before obligating any assistance under this section as budgetary support to the Government of Pakistan or any element of such Government and shall describe the purpose and conditions attached to any such budgetary support.
-  - **(2)** *Semiannual report* Not later than 90 days after the submission of the Pakistan Assistance Strategy Report pursuant to subsection (j), and every 180 days thereafter, the PresidentSecretary of State shall submit a report to the appropriate congressional committees that describes the assistance provided under this section. The report shall include—
+  - **(2)** *Semiannual report* Not later than 90 days after the submission of the Pakistan Assistance Strategy Report pursuant to subsection (j), and every 180 days thereafter, the Secretary of State shall submit a report to the appropriate congressional committees that describes the assistance provided under this section. The report shall include—
     - **(A)** a description of all assistance provided pursuant to this Act since the submission of the last report, including each program or project for which assistance was provided and the amount of assistance provided for each program or project;
     - **(B)** a description of all assistance provided pursuant to this Act, including—
       - **(i)** the total amount of assistance provided for each of the purposes described in subsection (f); and
       - **(ii)** the total amount of assistance allocated to programs or projects in each region in Pakistan;
-    - **(C)** a list of persons or entities from the United States or other countries that have received funds in excess of $250,000$100,000 to conduct projects under this section during the period covered by the report, which may be included in a classified annex, if necessary to avoid a security risk, and a justification for the classification;
+    - **(C)** a list of persons or entities from the United States or other countries that have received funds in excess of $100,000 to conduct projects under this section during the period covered by the report, which may be included in a classified annex, if necessary to avoid a security risk, and a justification for the classification;
     - **(D)** an assessment of the effectiveness of assistance provided pursuant to this Act during the period covered by the report in achieving desired objectives and outcomes, measured on the basis of the criteria contained in the Pakistan Assistant Strategy Report pursuant to subsection (j)(4);
     - **(E)** a description of—
       - **(i)** the programs and projects for which amounts appropriated pursuant to subsection (a) are proposed to be allocated during the 180-day period after the submission of the report;
@@ -185,8 +178,8 @@ It is the policy of the United States—
     - **(F)** a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
     - **(G)** a description of any negative impact, including the absorptive capacity of the region for which the resources are intended, of United States bilateral or multilateral assistance and recommendations for modification of funding, if any;
     - **(H)** any incidents or reports of waste, fraud, and abuse of expenditures under this section;
-    - **(I)** the amount of funds appropriated pursuant to subsection (a) that were used during the reporting period for administrative expenses or for audits and program reviews pursuant to the authority under subsection (h); andsubsection (h);
-    - **(J)** a description of the expenditures made from any Chief of Mission Fund established pursuant to subsection (h)(3) during the period covered by the report, the purposes for which such expenditures were made, and a list of the recipients of any expenditures from the Chief of Mission Fund in excess of $10,000.; and
+    - **(I)** the amount of funds appropriated pursuant to subsection (a) that were used during the reporting period for administrative expenses or for audits and program reviews pursuant to the authority under subsection (h);
+    - **(J)** a description of the expenditures made from any Chief of Mission Fund established pursuant to subsection (h)(3) during the period covered by the report, the purposes for which such expenditures were made, and a list of the recipients of any expenditures from the Chief of Mission Fund in excess of $10,000; and
     - **(K)** an accounting of assistance provided to Pakistan under this Act, broken down into the categories set forth in subsection (j)(8).
 - **(l)** *Government Accountability Office Report* Not later than one year after the submission of the Pakistan Assistance Strategy Report under subsection (j), and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that contains—
   - **(1)** a review of, and comments addressing, the Pakistan Assistance Strategy Report; and
@@ -199,8 +192,8 @@ It is the policy of the United States—
 - **(a)** *Limitation on certain military assistance* Beginning in fiscal year 2010, no grant assistance to carry out section 23 of the Arms Export Control Act (22 U.S.C. 2763) and no assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.) may be provided to Pakistan in a fiscal year until the Secretary of State makes the certification required under subsection (c).
 - **(b)** *Limitation on Arms transfers* Beginning in fiscal year 2012, no letter of offer to sell major defense equipment to Pakistan may be issued pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) and no license to export major defense equipment to Pakistan may be issued pursuant to such Act in a fiscal year until the Secretary of State makes the certification required under subsection (c).
 - **(c)** *Certification* The certification required by this subsection is a certification to the appropriate congressional committees by the Secretary of State, after consultation with the Secretary of Defense and the Director of National Intelligence, that the security forces of Pakistan—
-  - **(1)** are making concerted and consistent efforts to prevent al Qaeda and associated terrorist groups, including Lashkar-e-Taiba and Jaish-e-Mohammed, from operating in the territory of Pakistan;
-  - **(2)** are making concerted and consistent efforts to prevent the Taliban and associated militant groups from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan; and
+  - **(1)** are making concerted efforts to prevent al Qaeda and associated terrorist groups, including Lashkar-e-Taiba and Jaish-e-Mohammed, from operating in the territory of Pakistan;
+  - **(2)** are making concerted efforts to prevent the Taliban and associated militant groups from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan; and
   - **(3)** are not materially interfering in the political or judicial processes of Pakistan.
 - **(d)** *Waiver* The Secretary of State may waive the limitations in subsections (a) and (b) if the Secretary determines it is important to the national security interests of the United States to provide such waiver.
 - **(e)** *Prior notice of waiver* A waiver pursuant to subsection (d) may not be exercised until 15 days after the Secretary of State provides to the appropriate congressional committees written notice of the intent to issue such waiver and the reasons therefor. The notice may be submitted in classified or unclassified form, as necessary.
@@ -228,8 +221,8 @@ It is the sense of Congress that the United States should—
 
 - **(1)** recognize the bold political steps the Pakistan electorate has taken during a time of heightened sensitivity and tension in 2007 and 2008 to elect a new civilian government, as well as the continued quest for good governance and the rule of law under the elected government in 2008 and 2009;
 - **(2)** seize this strategic opportunity in the interests of Pakistan as well as in the national security interests of the United States to expand its engagement with the Government and people of Pakistan in areas of particular interest and importance to the people of Pakistan;
-- **(3)** continue to build a responsible and reciprocal security relationship taking into account the national security interests of the United States as well as regional and national dynamics in Pakistan to further strengthen and enable the position of Pakistan as a major non-NATO ally; and;
-- **(4)** seek ways to strengthen our countries’ mutual understanding and promote greater insight and knowledge of each other’s social, cultural and historical diversity through personnel exchanges and support for the establishment of institutions of higher learning with international accreditation.; and
+- **(3)** continue to build a responsible and reciprocal security relationship taking into account the national security interests of the United States as well as regional and national dynamics in Pakistan to further strengthen and enable the position of Pakistan as a major non-NATO ally;
+- **(4)** seek ways to strengthen our countries’ mutual understanding and promote greater insight and knowledge of each other’s social, cultural and historical diversity through personnel exchanges and support for the establishment of institutions of higher learning with international accreditation; and
 - **(5)** explore means to consult with and utilize the relevant expertise and skills of the Pakistani-American community.
 
 ## § 10. Term of years

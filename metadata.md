@@ -1,7 +1,7 @@
 ---
 measure: S. 962
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 962
@@ -43,3 +43,5 @@ Enhanced Partnership with Pakistan Act of 2009
 - 2009-06-23 — Committee on Foreign Relations. Reported by Senator Kerry with amendments. With written report No. 111-33.
 - 2009-06-23 — Committee on Foreign Relations. Reported by Senator Kerry with amendments. With written report No. 111-33.
 - 2009-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.
+- 2009-06-24 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7015-7022; text of measure as reported: CR S7015-7018; text as passed Senate: CR S7018-7022)
+- 2009-06-24 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S7015-7022; text of measure as reported: CR S7015-7018; text as passed Senate: CR S7018-7022)
