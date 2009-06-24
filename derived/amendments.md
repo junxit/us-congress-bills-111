@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1211
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,11 +33,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subchapter VIII of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1785 the following new item: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (f); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (c) the following new subsections: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of clause (ii); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of clause (iii) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (iii) the following new clause: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of clause (iii); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of clause (iv) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (iv) the following new clause: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1720D` | redesignate | by redesignating subsection (d) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1720D` | insert | by inserting after subsection (c) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 542` | strike | by striking “and” at the end of clause (ii); | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 542` | replace | by striking the period at the end of clause (iii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 542` | insert | by inserting after clause (iii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 544` | strike | by striking “and” at the end of clause (iii); | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 544` | replace | by striking the period at the end of clause (iv) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 544` | insert | by inserting after clause (iv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

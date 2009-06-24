@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1211
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1211
@@ -70,9 +70,10 @@ Women Veterans Health Care Improvement Act
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -100,3 +101,4 @@ Women Veterans Health Care Improvement Act
 - 2009-06-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 421). (text: CR H7097-7099)
 - 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 421).(text: CR H7097-7099)
+- 2009-06-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
