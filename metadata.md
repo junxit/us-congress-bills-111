@@ -1,7 +1,7 @@
 ---
 measure: S. 1358
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1358
