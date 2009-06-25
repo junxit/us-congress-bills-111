@@ -1,7 +1,7 @@
 ---
 measure: S. 1107
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1107
@@ -30,3 +30,7 @@ Judicial Survivors Protection Act of 2009
 - 2009-05-20 — Introduced in Senate
 - 2009-05-20 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5724)
 - 2009-05-20 — Sponsor introductory remarks on measure. (CR S5723-5724)
+- 2009-06-18 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2009-06-25 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2009-06-25 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2009-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.
