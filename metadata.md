@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 29
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 29
@@ -38,3 +38,11 @@ A concurrent resolution expressing the sense of the Congress that John Arthur "J
 - 2009-06-25 — Message on Senate action sent to the House.
 - 2009-06-25 — Received in the House.
 - 2009-06-25 — Referred to the House Committee on the Judiciary.
+- 2009-07-23 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2009-07-29 — Committee on Judiciary discharged.
+- 2009-07-29 — Committee on Judiciary discharged.
+- 2009-07-29 — Considered by unanimous consent. (consideration: CR H9036-9037)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Johnson (GA) asked unanimous consent to discharge from committee and consider.
+- 2009-07-29 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9037)
+- 2009-07-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9037)
