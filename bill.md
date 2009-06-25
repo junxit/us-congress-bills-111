@@ -1,0 +1,19 @@
+---
+legis-num: S. 1363
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1363
+
+> To streamline the regulation of nonadmitted insurance and reinsurance, and for other purposes.
+
+## § 1. Short title and table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Nonadmitted and Reinsurance Reform Act of 2009”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Effective date
+
+Except as otherwise specifically provided in this Act, this Act shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this Act.
