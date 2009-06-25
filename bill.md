@@ -1,0 +1,30 @@
+---
+legis-num: S. 1369
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1369
+
+> To amend the Wild and Scenic Rivers Act to designate segments of the Molalla River in the State of Oregon, as components of the National Wild and Scenic Rivers System, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Molalla River Wild and Scenic Rivers Act”.
+
+## § 2. Designation of wild and scenic river segments, Molalla River, Oregon
+
+Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
+
+> - **(208)** *Molalla river, Oregon*
+>   - **(A)** *In general* The following segments in the State of Oregon, to be administered by the Secretary of the Interior as a recreational river:
+>     - **(i)** *Molalla river* The approximately 15.1-mile segment from the southern boundary line of T. 7 S., R. 4 E., sec. 19, downstream to the edge of the Bureau of Land Management boundary in T. 6 S., R. 3 E., sec. 7.
+>     - **(ii)** *Table Rock Fork Molalla River* The approximately 6.2-mile segment from the easternmost Bureau of Land Management boundary line in the NE1/4 sec. 4, T. 7 S., R. 4 E., downstream to the confluence with the Molalla River.
+>   - **(B)** *Withdrawal* Subject to valid existing rights, the Federal land within the boundaries of the river segments designated by subparagraph (A) is withdrawn from all forms of—
+>     - **(i)** entry, appropriation, or disposal under the public land laws;
+>     - **(ii)** location, entry, and patent under the mining laws; and
+>     - **(iii)** disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+>   - **(C)** *Effect of designation*
+>     - **(i)** *In general* The designation of the river segments under this paragraph shall not affect valid existing rights (including rights-of-way and easements) in, through, and to the land designated as part of the Wild and Scenic River System under this paragraph.
+>     - **(ii)** *Private land* Nothing in this paragraph requires management of private land within the basins of the river segments designated under this paragraph in a manner different than that required under State law, including Chapter 527 of the Oregon Revised Statutes.
