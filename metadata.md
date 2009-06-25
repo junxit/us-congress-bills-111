@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 29
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 29
@@ -22,9 +22,10 @@ A concurrent resolution expressing the sense of the Congress that John Arthur "J
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Reid, Harry [D-NV] (R000146)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A concurrent resolution expressing the sense of the Congress that John Arthur "J
 - 2009-06-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7022)
 - 2009-06-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7022)
 - 2009-06-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7022)
+- 2009-06-25 — Message on Senate action sent to the House.
+- 2009-06-25 — Received in the House.
+- 2009-06-25 — Referred to the House Committee on the Judiciary.
