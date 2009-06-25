@@ -7,18 +7,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2647
 
-> To authorize appropriations for fiscal year 2010 for military activities of the Department of Defense, to prescribe military personnel strengths for fiscal year 2010, and for other purposes.
+> To authorize appropriations for fiscal year 2010 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, to provide special pays and allowances to certain members of the Armed Forces, expand concurrent receipt of military retirement and VA disability benefits to disabled military retirees, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2010”.
+Divisions A through C of this Act may be cited as the “National Defense Authorization Act for Fiscal Year 2010”.
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into three divisions as follows:
+- **(a)** *Divisions* This Act is organized into four divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Disabled Military Retiree Relief Act of 2009.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
