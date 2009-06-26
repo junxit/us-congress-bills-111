@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2454
@@ -31,6 +31,11 @@ American Clean Energy and Security Act of 2009
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (2)
+
+- 2009-06-26 — [House 111-1-476](votes/house-111-1-0476.md) — On Agreeing to the Amendment — **Failed** (172–256)
+- 2009-06-26 — [House 111-1-477](votes/house-111-1-0477.md) — On Passage — **Passed** (219–212)
 
 ## Actions
 
@@ -84,3 +89,20 @@ American Clean Energy and Security Act of 2009
 - 2009-06-19 — Committee on Ways and Means discharged.
 - 2009-06-19 — Committee on Ways and Means discharged.
 - 2009-06-19 — Placed on the Union Calendar, Calendar No. 90.
+- 2009-06-26 — Amendment (A002) in the nature of a substitute offered by Mr. Forbes. (considered: CR H7672-7680; text: CR H7672-7674)
+- 2009-06-26 — Amendment failed by House: On agreeing to the Forbes amendment (A002) Failed by recorded vote: 172 - 256 (Roll no. 476).
+- 2009-06-26 — Considered under the provisions of rule H. Res. 587. (consideration: CR H7471-7686)
+- 2009-06-26 — DEBATE - Pursuant to the provisions of H.Res. 587, the House proceeded with 30 minutes of debate on the Forbes amendment.
+- 2009-06-26 — DEBATE - The House proceeded with three hour of debate on H.R. 2454.
+- 2009-06-26 — House amendment not agreed to: On agreeing to the Forbes amendment (A002) Failed by recorded vote: 172 - 256 (Roll no. 476).
+- 2009-06-26 — House amendment offered
+- 2009-06-26 — House amendment offered
+- 2009-06-26 — House amendment offered/reported by : Amendment (A002) in the nature of a substitute offered by Mr. Forbes.(considered: CR H7672-7680; text: CR H7672-7674)
+- 2009-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-06-26 — On agreeing to the Forbes amendment (A002) Failed by recorded vote: 172 - 256 (Roll no. 476).
+- 2009-06-26 — On passage Passed by recorded vote: 219 - 212 (Roll no. 477). (text: CR H7471-7619)
+- 2009-06-26 — Passed/agreed to in House: On passage Passed by recorded vote: 219 - 212 (Roll no. 477).(text: CR H7471-7619)
+- 2009-06-26 — Roll call votes on amendments in House
+- 2009-06-26 — Rule H. Res. 587 passed House.
+- 2009-06-26 — Rule provides for consideration of H.R. 2454 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. In lieu of the amendment recommended by the Committee on Energy and Commerce now printed in the bill, an amendment in the nature of a substitute consisting of the text of H.R. 2998, modified by an amendment printed in part A of this report shall be considered as adopted.
+- 2009-06-26 — Rules Committee Resolution H. Res. 587 Reported to House. Rule provides for consideration of H.R. 2454 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. In lieu of the amendment recommended by the Committee on Energy and Commerce now printed in the bill, an amendment in the nature of a substitute consisting of the text of H.R. 2998, modified by an amendment printed in part A of this report shall be considered as adopted.

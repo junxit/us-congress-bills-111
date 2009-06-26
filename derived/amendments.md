@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-285 amendatory instructions. 0 executed, 285 stated and not applied.
+371 amendatory instructions. 0 executed, 371 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,8 +43,8 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 112(c) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(c)) is amended by adding the following at the end: “In the case of the standards established by paragraph (20) of section 111(d), the reference containe… | the bill names no machine-readable US Code section |
 | — | replace | Section 112(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(d)) is amended by striking “(19)” and inserting “(20)” before “of section 111(d)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 136(d)(1) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013(d)(1)) is amended by striking “$25,000,000,000” and inserting “$50,000,000,000”. | the bill names no machine-readable US Code section |
-| — | amend | Section 211(o)(1)(I) of the Clean Air Act (42 U.S.C. 7545(o)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)) is amended by inserting the following at the end thereof: | the bill names no machine-readable US Code section |
+| — | amend | Section 211(o)(1)(I) of the Clean Air Act (42 U.S.C. 7545(o)(1)(I)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The last sentence of section 211(o)(7)(D) of the Clean Air Act (42 U.S.C. 7545(o)(7)(D)) is amended to read as follows: “For any calendar year in which the Administrator makes such a reduction, the Administrator shall also reduce the app… | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 329 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding clause (i) in section 791(3)(B), by inserting “in any State” after “nonprofit organization or institution”; | the bill names no machine-readable US Code section |
 | — | replace | in section 791(9), by striking “The term State includes the District of Columbia.” and inserting “The term State includes the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and … | the bill names no machine-readable US Code section |
@@ -52,8 +52,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(A), by striking “1.96 percent” and inserting “1.785 percent”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking “51 States” and inserting “56 States”; and | the bill names no machine-readable US Code section |
 | — | amend | in paragraph (2)(B), by amending clause (ii) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in section 797, by striking “2011” and inserting “2016”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1701 of the Energy Policy Act of 2005 (42 U.S.C. 16511) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1703(b) the Energy Policy Act of 2005 (42 U.S.C. 16513) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | By adding the following new paragraph at the end of subsection (a): | the bill names no machine-readable US Code section |
+| — | amend | By adding the following new paragraph at the end of subsection (b): | the bill names no machine-readable US Code section |
 | — | amend | Section 324(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)) is amended by adding the following at the end: | the bill names no machine-readable US Code section |
 | — | amend | By amending the section heading to read as follows: “Energy efficiency and Smart Grid public information initiative”. | the bill names no machine-readable US Code section |
 | — | replace | In paragraph (1) of subsection (a) by striking “reduce energy consumption during the 4-year period beginning on the date of enactment of this Act” and inserting “increase energy efficiency and to adopt Smart Grid technology and practices”. | the bill names no machine-readable US Code section |
@@ -72,10 +75,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | In subsection (e)(3), by inserting “, with separate consideration as applicable if the product is also a smart appliance,” after “Energy Star product” the first place it appears and by inserting “or smart appliance” before the period at … | the bill names no machine-readable US Code section |
 | — | replace | In subsection (f), by striking “$50,000,000” through the period at the end and inserting “$100,000,000 for each fiscal year from 2010 through 2015.”. | the bill names no machine-readable US Code section |
 | — | amend | The item relating to section 124 in the table of contents for the Energy Policy Act of 2005 (42 U.S.C. 15801 and following) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended by adding after section 216 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | In subsection (b), in paragraph (5), by striking “; and” and inserting a semicolon, in paragraph (6) by striking the period and inserting “; and” and by adding the following at the end thereof: | the bill names no machine-readable US Code section |
+| — | insert | In subsection (k), by inserting at the end the following: “Subsections (a), (b), (c), and (h) of this section shall not apply in the Western interconnection.”. | the bill names no machine-readable US Code section |
+| — | replace | In subsections (d) and (e), by striking “subsection (b)” in each place and inserting “subsection (b) or section 216B”, and by striking “permit” and inserting “permit or certificate” in each place it appears. | the bill names no machine-readable US Code section |
+| — | insert | The Federal Power Act (16 U.S.C. 824p) is amended by inserting the following new sections after section 216: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 113 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2623) is amended by adding the following new paragraph at the end thereof: | the bill names no machine-readable US Code section |
 | — | amend | Section 115 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2625) is amended by adding the following new subsection at the end thereof: | the bill names no machine-readable US Code section |
-| — | amend | Section 1705(a) of the Energy Policy Act of 2005 (42 U.S.C. 16515(a)), as added by section 406 of the American Recovery and Reinvestment Act of 2009 (Public Law 109-58; 119 Stat. 594) is amended by adding the following new paragraph at t… | the bill names no machine-readable US Code section |
+| — | amend | Section 1705(a) of the Energy Policy Act of 2005 (42 U.S.C. 16515(a)), as added by section 406 of the American Recovery and Reinvestment Act of 2009 (Public Law 109–58; 119 Stat. 594) is amended by adding the following new paragraph at t… | the bill names no machine-readable US Code section |
 | — | amend | Section 1703 of the Energy Policy Act of 2005 (42 U.S.C. 16513) is amended by adding the following new paragraph at the end of subsection (b): | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (7) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4) (as so redesignated), by striking “supplies is” and inserting “supply is”. | the bill names no machine-readable US Code section |
@@ -145,10 +151,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1702(h) of the Energy Policy Act of 2005 (42 U.S.C. 16512(h)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 1702(g)(2) of the Energy Policy Act of 2005 (42 U.S.C. 16512(g)(2)) is amended by striking subparagraphs (B) and (C) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “the Administrator of the Clean Energy Deployment Administration;” after “Export-Import Bank;”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “the Clean Energy Deployment Administration,” after “Export-Import Bank,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (l) of section 501 of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (3) of section 9101 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 319 of the Federal Power Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 304 of the Energy Conservation and Production Act (42 U.S.C. 6833) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 453(c)(1) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17112(c)(1)) is amended by inserting “but not later than 2 years after the date of enactment of this Act” after “described in subsection (b)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 104 of the Housing and Community Development Act of 1974 (42 U.S.C. 5304) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 340(1) of the Energy Policy and Conservation Act (42 U.S.C. 6311(1)) is amended by striking subparagraph (L) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 342 of the Energy Policy and Conservation Act (42 U.S.C. 6313) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 343(a) of the Energy Policy and Conservation Act (42 U.S.C. 6314(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -190,6 +201,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end of subparagraph (B) and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | amend | Section 334 of the Energy Policy and Conservation Act (42 U.S.C. 6304) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The item relating to section 334 in the table of contents for such Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 327(f)(3) of the Energy Policy and Conservation Act (42 U.S.C. 6297(f)(3)) is amended by striking subparagraphs (B) through (G) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 327(f)(4)(B) of the Energy Policy and Conservation Act (42 U.S.C. 6297(f)(4)(B)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6)(B), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
@@ -197,18 +209,42 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Title VIII of the Clean Air Act, as added by section 331 of this Act, is amended by inserting after part A the following new part: | the bill names no machine-readable US Code section |
 | — | insert | Title VIII of the Clean Air Act, as added by section 331 of this Act, is further amended by inserting after part C the following new part: | the bill names no machine-readable US Code section |
+| — | replace | by striking “minimizing” and inserting “reducing”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, reliance on oil, impacts on the environment, transportation-related greenhouse gas emissions” after “consumption”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “sustainability and livability, reduce surface transportation-related greenhouse gas emissions and reliance on oil, adapt to the effects of climate change,” after “energy conservation”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and public health” after “quality of life”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including housing and land use patterns” after “development patterns”. | the bill names no machine-readable US Code section |
+| — | insert | In subsection (i)(4)(A) by inserting “air quality, public health, housing, transportation,” after “conservation,”. | the bill names no machine-readable US Code section |
+| — | insert | In subsection (k) by inserting at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “sustainability and livability, reduce surface transportation-related greenhouse gas emissions and reliance on oil, adapt to the effects of climate change,” after “energy conservation”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and public health” after “quality of life”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including housing and land use patterns” after “development patterns”. | the bill names no machine-readable US Code section |
+| — | insert | In subsection (f)(2)(D)(i) by inserting “air quality, public health, housing, transportation,” after “conservation,”. | the bill names no machine-readable US Code section |
+| — | insert | In subsection (f) by inserting at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Part B of title VIII of the Clean Air Act, as added by section 221 of this Act is amended by adding after section 821 the following section: | the bill names no machine-readable US Code section |
 | — | amend | Section 507(o) of the Energy Policy Act of 1992 (42 U.S.C. 13257) is amended by adding the following new paragraph at the end thereof: | the bill names no machine-readable US Code section |
 | — | replace | by striking “that qualifies for” and inserting “who elects to claim”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “from that project” after “for waste heat recovery”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Part C of title III of the Energy Policy and Conservation Act (42 U.S.C. 6311 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents of the Energy Policy and Conservation Act (42 U.S.C. prec. 6201) is amended by adding at the end of the items relating to part C of title III the following: | the bill names no machine-readable US Code section |
+| — | insert | The National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.) is amended by inserting after section 26 the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “or as provided in paragraph (5)” after “not to exceed six years”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(B), by striking “not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years” and inserting “50 percent of the costs incurred or such lesser percentage of the… | the bill names no machine-readable US Code section |
+| — | strike | by striking “at declining levels”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “one third” and inserting “50 percent”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, or such lesser percentage as determined appropriate by the Secretary by rule,” after “maintenance costs”. | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking “(hereafter in this Act referred to as the Centers)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Division B of title II of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2879; 15 U.S.C. 278k note) is amended under the heading “industrial technology services” by striking “2007: Provided further, That” and al… | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (a) of section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287(a)) is amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking “electric”; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(2), by inserting “or thermal” after “means electric”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (c) of section 203 of the Energy Policy Act of 2005 (42 U.S.C. 15852) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 801(a)(2)(E) of the National Energy Conservation Policy Act (42 U.S.C. 8287(a)(2)(E)) is amended by striking “In” and inserting “Notwithstanding any other provision of law, in”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(5), by striking “or a designee” and inserting “a not-for-profit hospital or not-for-profit inpatient health care facility, or a designated agent”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(5), by striking “or a designee” and inserting “an Indian tribe, a not-for-profit hospital or not-for-profit inpatient health care facility, or a designated agent”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c)(1), by striking subparagraph (C); | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f)(3)(A), by striking “$1,000,000” and inserting “$2,500,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (i)(1), by striking “$250,000,000 for each of fiscal years 2009 through 2013” and inserting “$250,000,000 for each of fiscal years 2010 through 2015”. | the bill names no machine-readable US Code section |
@@ -219,7 +255,46 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 541(3)(A) of the Energy Independence and Security Act of 2007 is amended in clause (i) by striking “and” at the end of subclause (II), in clause (ii) by striking the period at the end of subclause (II) and inserting “; or”, and b… | the bill names no machine-readable US Code section |
 | — | replace | Section 541(3)(B) of the Energy Independence and Security Act of 2007 is amended in clause (i) by striking “or”, in clause (ii) by striking the period at the end and inserting “; or”, and by inserting the following new clause (iii): | the bill names no machine-readable US Code section |
 | — | amend | Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “paragraph (5)” and inserting “paragraphs (5) and (6)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a)(1), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Title V of the National Housing Act is amended by adding after section 542 (12 U.S.C. 1735f–20) the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 540(b) of the National Housing Act (12 U.S.C. 1735f–18(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (l) as subsection (m); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (k) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 540(b) of the National Housing Act (12 U.S.C. 1735f–18(b)), as amended by subsection (a)(2) of this section, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 184A of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13b) is amended by inserting after subsection (l) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 540(b) of the National Housing Act (12 U.S.C. 1735f–18(b)), as amended by the preceding provisions of this section, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 106 of the Energy Policy Act of 1992 (12 U.S.C. 1701z–16) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | strike | by striking “, other than manufactured homes,” each place such term appears; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the period at the end the following: “The energy performance requirements developed and established by the Secretary under this section for manufactured homes shall require energy star rating for wall fixtures, applian… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(a)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b), by striking “, other than a manufactured home,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (19); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (20) and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | insert | and by inserting after paragraph (20) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 24(e) of the United States Housing Act of 1937 (42 U.S.C. 1437v(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (K), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (L) as subparagraph (M); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (K) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting before the period at the end the following: “, and meets the requirements established pursuant to subsection (f) for qualifications regarding consideration of any renewable energy sources for, or energy ef… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), by inserting before the period at the end the following: “, which shall include compliance with the requirements established pursuant to subsection (f) regarding consideration of any renewable energy sources for, or en… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “The” and inserting “Except as provided in subsection (f), the”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1122 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3351) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 206 of the Federal Credit Union Act (12 U.S.C. 1786) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | The Clean Air Act (42 U.S.C. and following) is amended by adding after title VI the following new title: | the bill names no machine-readable US Code section |
+| — | amend | A term offset credit shall expire in the year after its term ends. The term of a term offset credit shall be calculated by adding to the year of issuance the number of years equal to the length of the crediting period for the practice or… | the bill names no machine-readable US Code section |
 | — | amend | Any person may petition the Administrator to modify the list established under subsection (a) by adding or removing a project type pursuant to subsection (b). Any such petition shall include a showing by the petitioner that there is adeq… | the bill names no machine-readable US Code section |
 | — | insert | Title VII of the Clean Air Act, as added by section 311 of this Act, is amended by inserting before part A the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VII of the Clean Air Act, as added by section 311 of this Act, is amended by adding at the end the following part: | the bill names no machine-readable US Code section |
@@ -235,7 +310,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Title VIII of the Clean Air Act, as added by section 331 of this Act, and amended by section 222 of this Act, is further amended by adding after part D the following new part: | the bill names no machine-readable US Code section |
 | — | amend | Section 116 of the Clean Air Act (42 U.S.C. 7416) is amended by adding the following at the end thereof: “For the purposes of this section, the phrases standard or limitation respecting emissions of air pollutants and requirements respec… | the bill names no machine-readable US Code section |
 | — | amend | Title VIII of the Clean Air Act, as added by section 331 of this Act and amended by several sections of this Act, is further amended by adding after part E (as added by section 333(c) of this Act) the following new part: | the bill names no machine-readable US Code section |
-| — | amend | Section 307(b) of the Clean Air Act (42 U.S.C. 7607(b)) is amended by adding the following new paragraph at the end thereof: | the bill names no machine-readable US Code section |
+| — | amend | Section 307(b) of the Clean Air Act (42 U.S.C. 7607(b)) is amended by adding the following new paragraphs at the end thereof: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after the second sentence “If a petition for reconsideration is filed, the Administrator shall take final action on such petition, including promulgation of final action either revising or determining not to revise the actio… | the bill names no machine-readable US Code section |
 | — | amend | By amending the third sentence to read as follows: “Such person may seek judicial review of such denial, or of any other final action, by the Administrator, in response to a petition for reconsideration, in the United States court of app… | the bill names no machine-readable US Code section |
 | — | replace | In subsection (a)(3), by striking “or title VI,” and inserting “title VI, title VII, or title VIII”. | the bill names no machine-readable US Code section |
@@ -256,6 +331,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “section 120,” in the first sentence and inserting “section 120, any final action under title VII or VIII,”. | the bill names no machine-readable US Code section |
 | — | amend | In subsection (d)(1) by amending subparagraph (S) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Federal Power Act (16 U.S.C. 791a and following) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 1a(14) of the Commodity Exchange Act (7 U.S.C. 1a(14)) is amended by striking “or an agricultural commodity” and inserting “, an agricultural commodity, or any emission allowance, compensatory allowance, offset credit, or Federal… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4(c) of such Act (7 U.S.C. 6(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (14), by inserting “, an energy commodity,” after “excluded commodity”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (13) through (21) and paragraphs (22) through (34) as paragraphs (14) through (22) and paragraphs (24) through (36), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (12) the following: | the bill names no machine-readable US Code section |
@@ -281,7 +360,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding after and below the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4 of such Act (7 U.S.C. 6) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4a of such Act (7 U.S.C. 6a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by adding at the end the following:. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 12(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Coch… | the bill names no machine-readable US Code section |
 | — | replace | Section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 1530… | the bill names no machine-readable US Code section |
 | — | strike | Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “the Commodity Futures Trading Commission,”. | the bill names no machine-readable US Code section |
@@ -303,16 +382,23 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 4(c)(1) of such Act (7 U.S.C. 6(c)(1)) is amended by inserting “the agreement, contract, or transaction, except as provided in section 4(h), will be settled and cleared through a derivatives clearing organization registered with … | the bill names no machine-readable US Code section |
 | — | replace | Section 2(h)(7)(D) of such Act (7 U.S.C. 2(h)(7)(D)) is amended by striking the designation and heading for the subparagraph and all that follows through “As part of” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4 of such Act (7 U.S.C. 6), as amended by section 351(h) of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5b(c)(2) of such Act (7 U.S.C. 7a-1(c)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5b(c)(2) of such Act (7 U.S.C. 7a–1(c)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4422) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 407 of the Legal Certainty for Bank Products Act of 2000 (7 U.S.C. 27e) is amended by inserting “and the settlement and clearing requirements of sections 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C), and 4(c)(1) of suc… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4c of the Commodity Exchange Act (7 U.S.C. 6c) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 12(e)(2)(B) of such Act (7 U.S.C. 16(e)(2)(B)) is amended by inserting “(other than a credit default swap in which the purchaser of the swap would not experience financial loss if an event that is the subject of the swap occurred… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1a of such Act (7 U.S.C. 1a), as amended by section 351(a) of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 12 of the Commodity Exchange Act (7 U.S.C. 16) is amended by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively, and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2), as amended by section 352 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 20 of the Natural Gas Act (15 U.S.C. 717s) is amended by adding the following at the end: | the bill names no machine-readable US Code section |
 | — | amend | Section 504 of the Natural Gas Policy Act of 1978 (15 U.S.C. 3414) is amended by adding the following at the end: | the bill names no machine-readable US Code section |
 | — | insert | Title VII of the Clean Air Act is amended by inserting after part E the following new part: | the bill names no machine-readable US Code section |
 | — | replace | Section 171(e)(8) of the Workforce Investment Act of 1998 (29 U.S.C. 2916(e)(8)) is amended by striking “$125,000,000” and inserting “$150,000,000”. | the bill names no machine-readable US Code section |
-| — | insert | Subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 36A the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Social Security Act (42 U.S.C. 201 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 32 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 201 of the Social Security Act (42 U.S.C. 401) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1817 of such Act (42 U.S.C. 1395i) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | The Global Change Research Act of 1990 (15 U.S.C. 2921 et seq.) is amended by striking titles I and III thereof. | the bill names no machine-readable US Code section |
+| — | repeal | The National Climate Program Act (15 U.S.C. 2901 et seq.) is repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1245 of the Food Security Act of 1985 (16 U.S.C. 3854), as added by section 2709 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1809), is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 211(o) of the Clean Air Act (42 U.S.C. 7545(o)) is amended by adding at the end the following | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 211(o)(2)(A) of the Clean Air Act (42 U.S.C. 7545(o)(2)(A)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
