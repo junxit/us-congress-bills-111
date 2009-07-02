@@ -1,7 +1,7 @@
 ---
 measure: S. 1229
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1229
@@ -29,3 +29,7 @@ Entrepreneurial Development Act of 2009
 - 2009-06-10 — Introduced in Senate
 - 2009-06-10 — Read twice and referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S6460-6470)
 - 2009-06-10 — Sponsor introductory remarks on measure. (CR S6459-6460)
+- 2009-06-18 — Committee on Small Business and Entrepreneurship. Ordered to be reported with amendments favorably.
+- 2009-07-02 — Committee on Small Business and Entrepreneurship. Reported by Senator Landrieu under authority of the order of the Senate of 06/25/2009 with an amendment in the nature of a substitute. With written report No. 111-36.
+- 2009-07-02 — Committee on Small Business and Entrepreneurship. Reported by Senator Landrieu under authority of the order of the Senate of 06/25/2009 with an amendment in the nature of a substitute. With written report No. 111-36.
+- 2009-07-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
