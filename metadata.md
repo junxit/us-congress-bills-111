@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2647
@@ -206,3 +206,4 @@ National Defense Authorization Act for Fiscal Year 2010
 - 2009-06-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7388)
 - 2009-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H7387)
 - 2009-06-25 — The title of the measure was amended. Agreed to without objection.
+- 2009-07-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
