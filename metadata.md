@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 89
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 89
@@ -47,9 +47,10 @@ Supporting the goals and objectives of the Prague Conference on Holocaust Era As
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Supporting the goals and objectives of the Prague Conference on Holocaust Era As
 - 2009-06-26 — Mr. Wexler asked unanimous consent to discharge from committee and consider.
 - 2009-06-26 — On agreeing to the resolution Agreed to without objection. (text: CR H7687)
 - 2009-06-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7687)
+- 2009-07-06 — Received in the Senate and referred to the Committee on Foreign Relations.
