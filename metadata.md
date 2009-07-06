@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2647
@@ -24,7 +24,7 @@ National Defense Authorization Act for Fiscal Year 2010
 
 - House — Armed Services Committee
 
-## Recorded votes (8)
+## Recorded votes (13)
 
 - 2009-06-25 — [House 111-1-453](votes/house-111-1-0453.md) — On Agreeing to the Amendment — **Failed** (138–278)
 - 2009-06-25 — [House 111-1-454](votes/house-111-1-0454.md) — On Agreeing to the Amendment — **Agreed to** (224–190)
@@ -34,6 +34,11 @@ National Defense Authorization Act for Fiscal Year 2010
 - 2009-06-25 — [House 111-1-458](votes/house-111-1-0458.md) — On Agreeing to the Amendment — **Agreed to** (416–0)
 - 2009-06-25 — [House 111-1-459](votes/house-111-1-0459.md) — On Motion to Recommit with Instructions — **Failed** (170–244)
 - 2009-06-25 — [House 111-1-460](votes/house-111-1-0460.md) — On Passage — **Passed** (389–22)
+- 2009-10-06 — [House 111-1-754](votes/house-111-1-0754.md) — On Motion to Instruct Conferees — **Failed** (178–234)
+- 2009-10-08 — [House 111-1-769](votes/house-111-1-0769.md) — On Motion to Recommit with Instructions — **Failed** (208–216)
+- 2009-10-08 — [House 111-1-770](votes/house-111-1-0770.md) — On Agreeing to the Conference Report — **Passed** (281–146)
+- 2009-10-22 — [Senate 111-1-326](votes/senate-111-1-0326.md) — On the Cloture Motion — **Cloture Motion Agreed to** (64–35)
+- 2009-10-22 — [Senate 111-1-327](votes/senate-111-1-0327.md) — On the Conference Report — **Conference Report Agreed to** (68–29)
 
 ## Actions
 
@@ -207,3 +212,65 @@ National Defense Authorization Act for Fiscal Year 2010
 - 2009-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H7387)
 - 2009-06-25 — The title of the measure was amended. Agreed to without objection.
 - 2009-07-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
+- 2009-07-23 — Measure laid before Senate by unanimous consent. (consideration: CR S8024, S8024)
+- 2009-07-23 — Passed Senate with an amendment by Unanimous Consent. (text: CR 7/29/2009 S8287-8499)
+- 2009-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR 7/29/2009 S8287-8499)
+- 2009-07-23 — Senate insists on its amendment, asks for a conference, appoints conferees Levin; Kennedy; Byrd; Lieberman; Reed; Akaka; Nelson FL; Nelson NE; Bayh; Webb; McCaskill; Udall CO; Hagan; Begich; Burris; McCain; Inhofe; Sessions; Chambliss; Graham; Thune; Martinez; Wicker; Burr; Vitter; Collins. (consideration: CR S8024)
+- 2009-07-23 — Senate struck all after the Enacting Clause and substituted the language of S.1390 amended. (consideration: CR S8024)
+- 2009-07-28 — Message on Senate action sent to the House.
+- 2009-09-29 — Senate appointed conferee(s) Kirk in lieu of Kennedy by unanimous consent. (consideration: CR S9940)
+- 2009-09-29 — Senate appointed conferee(s) LeMieux in lieu of Martinez. (consideration: CR S9940)
+- 2009-09-30 — Message on Senate action sent to the House.
+- 2009-10-06 — DEBATE - The House proceeded with one hour of debate on the Forbes motion to instruct conferees on H.R. 2647. The instructions contained in the motion seek to require the managers on the part of the House to not recede to the Senate on division E of the Senate amendment (regarding the Matthew Shephard Hate Crimes Prevention Act).
+- 2009-10-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-06 — Mr. Forbes moved that the House instruct conferees. (consideration: CR H10477-10478, H10484, H10485-10486)
+- 2009-10-06 — Mr. Skelton moved that the House close portions of the conference. (consideration: CR H10484-10485)
+- 2009-10-06 — Mr. Skelton moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H10477-10486, H10488-10489)
+- 2009-10-06 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.
+- 2009-10-06 — On motion that the House instruct conferees Failed by the Yeas and Nays: 178 - 234 (Roll no. 754).
+- 2009-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to instruct conferees, the Chair put the question on adoption of the motion and by voice vote announced that the noes had prevailed. Mr. Forbes demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Skelton, Spratt, Ortiz, Taylor, Abercrombie, Reyes, Snyder, Smith (WA), Sanchez, Loretta, McIntyre, Brady (PA), Andrews, Davis (CA), Langevin, Larsen (WA), Cooper, Marshall, Bordallo, McKeon, Bartlett, Thornberry, Jones, Akin, Forbes, Miller (FL), Wilson (SC), LoBiondo, Bishop (UT), Turner, and Wittman.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Education and Labor for consideration of secs. 243, 551-553, 585, 2833 and 2834 of the House bill and secs. 531-534 and 3136 of the Senate amendment, and modifications committed to conference: Woolsey, Altmire, and Biggert.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 247, 315 and 601 of the House bill and secs. 311, 601, 2835 and 3118 of the Senate amendment, and modifications committed to conference: Waxman, Markey (MA), and Barton (TX).
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 812, 907, 912, 1011, 1013, 1046, 1201, 1211, 1213-1215, 1226, 1230A, 1231, 1236, 1239, 1240, Title XIII, secs. 1513, 1516, 1517, and 2903 of the House bill and secs. 1021, 1023, 1201-1203, 1205-1208, 1211-1214, Subtitle D of Title XII, Title XIII and sec. 1517 of the Senate amendment, and modifications committed to conference: Berman, Ackerman, and Ros-Lehtinen.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of sec. 1101 of the House bill, and modifications committed to conference: Thompson (MS), Titus, and Bilirakis.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on House Administration for consideration of Subtitle H of Title V of the Senate amendment, and modifications committed to conference: Capuano, Gonzalez, and Lungren, Daniel E. of California.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 1091 and 2308 of the Senate amendment, and modifications committed to conference: Rahall, Faleomavaega, and Hastings (WA).
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 321, 322, 326-329, 335, 537, 666, 814, 815, 834, 1101-1107, 1110-1113 and Title II of Division D of the House bill and secs. 323, 323A-323C, 814, 822, 824, 901, 911, 1056, 1086, 1101-1105 and 1162 of the Senate amendment, and modifications committed to conference
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Science and Technology for consideration of secs. 248, 819, 836, and 911 of the House bill and secs. 801, 814, 833, 834, 912 and Division F of the Senate amendment, and modifications committed to conference: Gordon (TN), Wu, and Smith (NE).
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Small Business for consideration of sec. 830 of the House bill and secs. 833, 834, 838, 1090 and Division F of the Senate amendment, and modifications committed to conference
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 315, 601 and 2811 of the House bill and secs. 311, 601, 933, 2835, 3301, 6002, 6007, 6008, 6012 and 6013 of the Senate amendment, and modifications committed to conference: Cummings, Richardson, and Mica.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 525, 583, 584 and sec. 121 of Division D of the House bill and secs. 573-575, 617, 711, Subtitle E of Title X, secs. 1084 and 1085 of the Senate amendment, and modifications committed to conference: Rodriguez, Donnelly (IN), and Buyer.
+- 2009-10-06 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 583, 584, 1021 and 1604 of the House bill and secs. 821, 911, 1031, 1033, 1056, 1086 and Division E of the Senate amendment, and modifications committed to conference: Nadler (NY), Lofgren, Zoe, and Gohmert.
+- 2009-10-06 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Hastings (FL), Schiff, and Hoekstra.
+- 2009-10-07 — Conference report H. Rept. 111-288 filed. (text of conference report: CR H10565-11052)
+- 2009-10-07 — Conference report filed: Conference report H. Rept. 111-288 filed.(text of conference report: CR H10565-11052)
+- 2009-10-07 — Rules Committee Resolution H. Res. 808 Reported to House. Rule provides for consideration of the conference report to H.R. 2647 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the conference report and against its consideration are waived. Considered as read.
+- 2009-10-08 — Conference papers: message on House action held at the desk in Senate.
+- 2009-10-08 — Conference report agreed to in House: On agreeing to the conference report Agreed to by recorded vote: 281 - 146 (Roll no. 770).
+- 2009-10-08 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2647.
+- 2009-10-08 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-10-08 — Mr. McKeon moved to recommit with instructions to the conference committee. (consideration: CR H11140-11141; text: CR H11140)
+- 2009-10-08 — Mr. Skelton brought up conference report H. Rept. 111-288 for consideration under the provisions of H. Res. 808. (consideration: CR H11127-11140)
+- 2009-10-08 — On agreeing to the conference report Agreed to by recorded vote: 281 - 146 (Roll no. 770).
+- 2009-10-08 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 208 - 216, 2 Present (Roll no. 769).
+- 2009-10-08 — Rule H. Res. 808 passed House.
+- 2009-10-08 — The House proceeded to consider the conference report H.Rept. 111-288 as unfinished business. (consideration: CR H11140-11142)
+- 2009-10-08 — The previous question was ordered pursuant to the rule. (consideration: CR H11140)
+- 2009-10-20 — Cloture motion on the conference report to accompany H.R. 2647 presented in Senate. (consideration: CR S10567-10568; text: CR S10568)
+- 2009-10-20 — Conference committee actions: Conference report considered in Senate.(consideration: CR S10567-10568)
+- 2009-10-20 — Conference report considered in Senate. (consideration: CR S10567-10568)
+- 2009-10-21 — Conference report considered in Senate. (consideration: CR S10614-10632)
+- 2009-10-22 — Cleared for White House.
+- 2009-10-22 — Cloture on the conference report to accompany H.R. 2647 invoked in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 326. (consideration: CR S10669-10670; text: CR S10669)
+- 2009-10-22 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 68 - 29. Record Vote Number: 327.(consideration: CR S10686-10687)
+- 2009-10-22 — Conference report considered in Senate. (consideration: CR S10663-10670, S10670-10687)
+- 2009-10-22 — Message on Senate action sent to the House.
+- 2009-10-22 — Senate agreed to conference report by Yea-Nay Vote. 68 - 29. Record Vote Number: 327. (consideration: CR S10686-10687)
+- 2009-10-22 — The title was amended in conference to read as follows: "to authorize appropriations for fiscal year 2010 for military activities of the Department of Defense, to prescribe military personnel strengths for fiscal year 2010, and for other purposes".
+- 2009-10-26 — Presented to President.
+- 2009-10-26 — Presented to President.
+- 2009-10-28 — Became Public Law No: 111-84.
+- 2009-10-28 — Became Public Law No: 111-84.
+- 2009-10-28 — Signed by President.
+- 2009-10-28 — Signed by President.
