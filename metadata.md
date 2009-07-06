@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2892
@@ -198,3 +198,4 @@ Department of Homeland Security Appropriations Act, 2010
 - 2009-06-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2892.
 - 2009-06-24 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
 - 2009-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H7232)
+- 2009-07-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
