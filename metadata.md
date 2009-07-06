@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2996
@@ -16,9 +16,10 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (9)
 
@@ -151,3 +152,4 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-06-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2009-06-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2996.
 - 2009-06-26 — The previous question was ordered pursuant to the rule. (consideration: CR H7470-7471)
+- 2009-07-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
