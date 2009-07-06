@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2918
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2918
@@ -25,7 +25,7 @@ Legislative Branch Appropriations Act, 2010
 
 - House — Appropriations Committee
 
-## Recorded votes (6)
+## Recorded votes (12)
 
 - 2009-06-19 — [House 111-1-412](votes/house-111-1-0412.md) — On Motion to Recommit with Instructions — **Passed** (374–34)
 - 2009-06-19 — [House 111-1-413](votes/house-111-1-0413.md) — On Passage — **Passed** (232–178)
@@ -33,6 +33,12 @@ Legislative Branch Appropriations Act, 2010
 - 2009-07-06 — [Senate 111-1-215](votes/senate-111-1-0215.md) — On the Amendment — **Amendment Rejected** (31–61)
 - 2009-07-06 — [Senate 111-1-216](votes/senate-111-1-0216.md) — On the Point of Order — **Point of Order Not Sustained** (70–23)
 - 2009-07-06 — [Senate 111-1-217](votes/senate-111-1-0217.md) — On Passage of the Bill — **Bill Passed** (67–25)
+- 2009-09-23 — [House 111-1-733](votes/house-111-1-0733.md) — On Ordering the Previous Question — **Passed** (240–171)
+- 2009-09-23 — [House 111-1-734](votes/house-111-1-0734.md) — On Motion to Instruct Conferees — **Failed** (191–213)
+- 2009-09-25 — [House 111-1-739](votes/house-111-1-0739.md) — On Agreeing to the Conference Report — **Passed** (217–190)
+- 2009-09-30 — [Senate 111-1-300](votes/senate-111-1-0300.md) — On the Motion — **Motion Agreed to** (61–39)
+- 2009-09-30 — [Senate 111-1-301](votes/senate-111-1-0301.md) — On the Motion — **Motion Agreed to** (61–39)
+- 2009-09-30 — [Senate 111-1-302](votes/senate-111-1-0302.md) — On the Conference Report — **Conference Report Agreed to** (62–38)
 
 ## Actions
 
@@ -105,3 +111,42 @@ Legislative Branch Appropriations Act, 2010
 - 2009-07-06 — Senate amendment submitted
 - 2009-07-06 — Senate amendment submitted
 - 2009-07-06 — Senate insists on its amendment, asks for a conference, appoints conferees Nelson NE; Inouye; Pryor; Tester; Murkowski; Cochran. (consideration: CR S7132)
+- 2009-07-07 — Message on Senate action sent to the House.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Mr. Aderholt moved that the House instruct conferees. (consideration: CR H9869-9871; text: CR H9869)
+- 2009-09-23 — Ms. Wasserman Schultz moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H9869)
+- 2009-09-23 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.
+- 2009-09-23 — On motion that the House instruct conferees Failed by the Yeas and Nays: 191 - 213 (Roll no. 734).
+- 2009-09-23 — On ordering the previous question Agreed to by recorded vote: 240 - 171 (Roll no. 733). (consideration: CR H9869)
+- 2009-09-23 — The House proceeded with one hour of debate on the Aderholt motion to instruct conferees on H.R. 2918. The instructions contained in the motion seek to require managers on the part of the House to agree to the provisions contained in section 209 of the House bill; include any additional funding or language not committed to the conference; include matter not committed to the conference committee by either House; modify specific matter committed to conference by either or both Houses beyond the scope of the specific matter as committed to the conference committee and not record their approval of final conference agreement unless the text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 48 hours prior to the time described in such clause.
+- 2009-09-23 — The Speaker appointed conferees: Wasserman Schultz, Honda, McCollum, Ryan (OH), Ruppersberger, Rodriguez, Obey, Aderholt, LaTourette, Cole, and Lewis (CA).
+- 2009-09-23 — The previous question was ordered without objection. (consideration: CR H9871)
+- 2009-09-24 — Conferees agreed to file conference report.
+- 2009-09-24 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-09-24 — Conference report H. Rept. 111-265 filed. (text of conference report: CR H9924-9946)
+- 2009-09-24 — Conference report filed: Conference report H. Rept. 111-265 filed.(text of conference report: CR H9924-9946)
+- 2009-09-24 — Rules Committee Resolution H. Res. 772 Reported to House. Rule provides for consideration of the conference report to H.R. 2918 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The resolution waives all points of order against the conference report and against its consideration. The conference report shall be considered as read.
+- 2009-09-25 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-09-25 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 217 - 190 (Roll No. 739).(consideration: CR H9970-9976)
+- 2009-09-25 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2918.
+- 2009-09-25 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-09-25 — Ms. Wasserman Schultz brought up conference report H. Rept. 111-265 for consideration under the provisions of H. Res. 772. (consideration: CR H9970-9976)
+- 2009-09-25 — On agreeing to the conference report Agreed to by the Yeas and Nays: 217 - 190 (Roll No. 739). (consideration: CR H9970-9976)
+- 2009-09-25 — Pursuant to the provisions of H. Con. Res. 191, enrollment corrections on H.R. 2918 have been made.
+- 2009-09-25 — Rule H. Res. 772 passed House.
+- 2009-09-25 — The previous question was ordered without objection. (consideration: CR H9976)
+- 2009-09-30 — Cleared for White House.
+- 2009-09-30 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 62 - 38. Record Vote Number: 302.
+- 2009-09-30 — Conference report considered in Senate. (consideration: CR S9953-9957, S9959-9964, S9965-9969)
+- 2009-09-30 — Message on Senate action sent to the House.
+- 2009-09-30 — Motion to waive Rule XXVIII with respect to the conference report agreed to by Yea-Nay Vote. 61 - 39. Record Vote Number: 300.
+- 2009-09-30 — Motion to waive the CBA with respect to the conference report agreed to by Yea-Nay Vote. 61 - 39. Record Vote Number: 301.
+- 2009-09-30 — Point of order that the conference report violates Rule XXVIII raised in Senate.
+- 2009-09-30 — Point of order that the conference report violates the CBA raised in Senate.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Senate agreed to conference report by Yea-Nay Vote. 62 - 38. Record Vote Number: 302.
+- 2009-10-01 — Became Public Law No: 111-68.
+- 2009-10-01 — Became Public Law No: 111-68.
+- 2009-10-01 — Signed by President.
+- 2009-10-01 — Signed by President.

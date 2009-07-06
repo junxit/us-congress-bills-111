@@ -1,12 +1,14 @@
 ---
 legis-num: H.R. 2918
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2918
 
-That the bill from the House of Representatives (H.R. 2918) entitled “An Act making appropriations for the Legislative Branch for the fiscal year ending September 30, 2010, and for other purposes.”, do pass with the following
+> Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2010, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1.
+
+Except as expressly provided otherwise, any reference to “this Act” or “this joint resolution” contained in any division of this Act shall be treated as referring only to the provisions of that division.
