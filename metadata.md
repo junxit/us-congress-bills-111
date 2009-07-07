@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 135
@@ -48,6 +48,10 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 
 - House — Committee on House Administration
 
+## Recorded votes (1)
+
+- 2009-07-07 — [House 111-1-478](votes/house-111-1-0478.md) — On Motion to Suspend the Rules and Agree — **Passed** (399–1)
+
 ## Actions
 
 - 2009-05-21 — Introduced in House
@@ -58,3 +62,11 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 - 2009-06-12 — Placed on the Union Calendar, Calendar No. 76.
 - 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-153.
 - 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-153.
+- 2009-07-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-07 — Considered as unfinished business. (consideration: CR H7725)
+- 2009-07-07 — Considered under suspension of the rules. (consideration: CR H7719-7721)
+- 2009-07-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 135.
+- 2009-07-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-07 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
+- 2009-07-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478). (text: CR H7719)
+- 2009-07-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478).(text: CR H7719)
