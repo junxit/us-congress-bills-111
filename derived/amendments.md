@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 6 executed, 9 stated and not applied.
+25 amendatory instructions. 6 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,3 +96,13 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 7142` | replace | in paragraph (2)(B), by striking ‘‘; and’’ and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7142` | replace | in paragraph (3), by striking the period and inserting ‘‘; and’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7142` | insert | by inserting after paragraph (3), the following: “(4) to reimburse all or part of the costs incurred by the county to pay the salaries and benefits of county employees who supervise adults or juveniles performing mandatory community serv… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | For necessary expenses of the Department of the Interior and any of its component offices and bureaus for the response action, including associated activities, performed pursuant to the Comprehensive Environmental Response, Compensation,… | the bill names no machine-readable US Code section |
+| — | replace | Section 101(a)(1) of Public Law 109–131 is amended by striking “2009” and inserting “2013”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (g) through (i) as subsections (h) through (j), respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h)(1) (as redesignated by paragraph (1)), in the matter preceding subparagraph (A), by striking “subsection (i)” and inserting “subsection (j)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 120 of title I of H.R. 3423 (Appendix C) as enacted into law by section 1000(a)(3) of division B of Public Law 106–113 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | replace | Section 325 of Public Law 108–108 is amended by striking “fiscal years 2004–2008” and inserting “fiscal year 2010.” | the bill names no machine-readable US Code section |
+| — | replace | Section 331 of the Department of the Interior and Related Agencies Appropriations Act, 2001, as amended, is amended in subsection (e) by striking “September 30, 2009,” and inserting “September 30, 2014,”. | the bill names no machine-readable US Code section |
+| — | replace | In the first sentence of subsection (b)(1)(C), by striking “14” and inserting in lieu thereof “18”; and | the bill names no machine-readable US Code section |
+| — | replace | In the second sentence of subsection (d)(1), by striking “Eight” and inserting in lieu thereof “Ten”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2996
@@ -153,3 +153,6 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-06-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2996.
 - 2009-06-26 — The previous question was ordered pursuant to the rule. (consideration: CR H7470-7471)
 - 2009-07-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2009-07-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 111-38.
+- 2009-07-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 111-38.
+- 2009-07-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
