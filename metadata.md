@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2454
@@ -106,3 +106,5 @@ American Clean Energy and Security Act of 2009
 - 2009-06-26 — Rule H. Res. 587 passed House.
 - 2009-06-26 — Rule provides for consideration of H.R. 2454 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. In lieu of the amendment recommended by the Committee on Energy and Commerce now printed in the bill, an amendment in the nature of a substitute consisting of the text of H.R. 2998, modified by an amendment printed in part A of this report shall be considered as adopted.
 - 2009-06-26 — Rules Committee Resolution H. Res. 587 Reported to House. Rule provides for consideration of H.R. 2454 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. In lieu of the amendment recommended by the Committee on Energy and Commerce now printed in the bill, an amendment in the nature of a substitute consisting of the text of H.R. 2998, modified by an amendment printed in part A of this report shall be considered as adopted.
+- 2009-07-06 — Received in the Senate, read the first time.
+- 2009-07-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 97.
