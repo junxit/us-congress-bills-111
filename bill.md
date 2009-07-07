@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3114
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3114
+
+> To authorize the Director of the United States Patent and Trademark Office to use funds made available under the Trademark Act of 1946 for patent operations in order to avoid furloughs and reductions-in-force, and for other purposes.
+
+## § 1. Authority of PTO Director to use trademark funds
+
+- **(a)** *Authority*
+  - **(1)** *In general* The Director of the United States Patent and Trademark Office—
+    - **(A)** may use funds made available for fiscal year 2009, pursuant to section 31 of the Trademark Act of 1946 (15 U.S.C. 1113), under the heading “Department of Commerce—United States Patent and Trademark Office—Salaries and Expenses” in title I of division B of the Omnibus Appropriations Act, 2009 (Public Law 111-8), up to $70,000,000, to support the processing of patents and other activities, services, and materials relating to patents, notwithstanding section 42(c) of title 35, United States Code; and
+    - **(B)** notwithstanding any other provision of law, shall, upon the exercise of the authority under subparagraph (A), establish a surcharge, in amounts up to $70,000,000, on patent fees in effect under title 35, United States Code, to repay any funds drawn down pursuant to subparagraph (A),
+  - **(2)** *Surcharges deposited in treasury* All surcharges paid under paragraph (1)(B) shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
+- **(b)** *Limitations on authority* The authority under subsection (a)(1)(A) shall terminate on June 30, 2010. The surcharge established under subsection (a)(1)(B) shall take effect no later than September 30, 2011, and all funds drawn down pursuant to subsection (a)(1)(A) shall be repaid pursuant to subsection (a)(1)(B) no later than September 30, 2014.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Director* The terms “Director of the United States Patent and Trademark Office” and “Director” mean the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+  - **(2)** *Trademark Act of 1946* The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
