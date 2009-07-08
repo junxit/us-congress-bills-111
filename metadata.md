@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 135
@@ -70,3 +70,4 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 - 2009-07-07 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
 - 2009-07-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478). (text: CR H7719)
 - 2009-07-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478).(text: CR H7719)
+- 2009-07-08 — Received in the Senate.
