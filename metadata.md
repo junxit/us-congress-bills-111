@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1129
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1129
@@ -23,9 +23,10 @@ To authorize the Secretary of the Interior to provide an annual grant to facilit
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Shuler, Heath [D-NC-11] (S001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To authorize the Secretary of the Interior to provide an annual grant to facilit
 - 2009-07-07 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-07-07 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 329 - 75 (Roll no. 479). (text: CR H7712)
 - 2009-07-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 329 - 75 (Roll no. 479).(text: CR H7712)
+- 2009-07-08 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
