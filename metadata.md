@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3114
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3114
@@ -39,3 +39,4 @@ To authorize the Director of the United States Patent and Trademark Office to us
 - 2009-07-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7723)
 - 2009-07-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7723)
 - 2009-07-07 — Referred to the House Committee on the Judiciary.
+- 2009-07-08 — Received in the Senate, read twice.
