@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 135
@@ -71,3 +71,6 @@ Directing the Architect of the Capitol to place a marker in Emancipation Hall in
 - 2009-07-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478). (text: CR H7719)
 - 2009-07-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 478).(text: CR H7719)
 - 2009-07-08 — Received in the Senate.
+- 2009-07-10 — Message on Senate action sent to the House.
+- 2009-07-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7372)
+- 2009-07-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7372)
