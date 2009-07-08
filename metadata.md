@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 142
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 142
@@ -16,7 +16,7 @@ Supporting National Men's Health Week.
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Cosponsors (38)
+## Cosponsors (50)
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Moran, James P. [D-VA-8] (M000933)
@@ -56,13 +56,39 @@ Supporting National Men's Health Week.
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2009-07-08 — [House 111-1-495](votes/house-111-1-0495.md) — On Motion to Suspend the Rules and Agree — **Passed** (417–3)
 
 ## Actions
 
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Introduced in House
 - 2009-06-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-06-18 — Committee Consideration and Mark-up Session Held.
+- 2009-06-18 — Ordered to be Reported by Unanimous Consent.
+- 2009-07-07 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Harper objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-07 — Considered under suspension of the rules. (consideration: CR H7714-7716)
+- 2009-07-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 142.
+- 2009-07-07 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-07-08 — Considered as unfinished business. (consideration: CR H7798-7799)
+- 2009-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-08 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 3 (Roll no. 495). (text: CR 7/7/2009 H7714)
+- 2009-07-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 3 (Roll no. 495).(text: CR 7/7/2009 H7714)
