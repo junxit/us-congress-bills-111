@@ -89,7 +89,7 @@ In this Act:
       - **(i)** By reducing the acreage of the Federal land to be conveyed.
       - **(ii)** By adding additional State land to the non-Federal land to be conveyed.
       - **(iii)** Consistent with section 206(b) of the Federal Land Policy and Management Act (43 U.S.C. 1716), by cash equalization of not more than 5 percent of the total value of the lands or interests in lands to be transferred out of Federal ownership.
-    - **(B)** *Surplus of non-Federal land* If the value of the non-Federal land exceeds the value of the Federal land, the value of the Federal land and non-Federal land shall be equalized, as determined to be appropriate and acceptable by the Secretary and the State, by one or both of the following:.
+    - **(B)** *Surplus of non-Federal land* If the value of the non-Federal land exceeds the value of the Federal land, the value of the Federal land and non-Federal land shall be equalized, as determined to be appropriate and acceptable by the Secretary and the State, by one or both of the following:
       - **(i)** By reducing the acreage of the non-Federal land to be conveyed.
       - **(ii)** Consistent with section 206(b) of the Federal Land Policy and Management Act (43 U.S.C. 1716), by cash equalization of not more than 5 percent of the total value of the lands or interests in lands to be transferred out of Federal ownership.
   - **(3)** *Notice and public inspection*
