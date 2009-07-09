@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1275
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1275
@@ -20,9 +20,10 @@ Utah Recreational Land Exchange Act of 2009
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Utah Recreational Land Exchange Act of 2009
 - 2009-07-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 481). (text: CR 7/7/2009 H7710-7712)
 - 2009-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 481).(text: CR 7/7/2009 H7710-7712)
+- 2009-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
