@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3081
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “$16,769,000” and inserting “$18,606,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “fiscal year 2009” and inserting “fiscal year 2010”. | the bill names no machine-readable US Code section |
 | — | replace | Section 404(b)(2)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, (22 U.S.C. 287e note) is amended by striking clause (v) and inserting in lieu thereof: | the bill names no machine-readable US Code section |
-| — | insert | Section 17(a)(2) of the Bretton Woods Agreements Act (22 U.S.C. 286e-2(a)(2)) is amended by inserting ‘‘: Provided further, That the authority to make loans under this section shall expire on the date that is 5 years after the date of th… | the bill names no machine-readable US Code section |
+| — | insert | Section 17(a)(2) of the Bretton Woods Agreements Act (22 U.S.C. 286e–2(a)(2)) is amended by inserting ‘‘: Provided further, That the authority to make loans under this section shall expire on the date that is 5 years after the date of th… | the bill names no machine-readable US Code section |
