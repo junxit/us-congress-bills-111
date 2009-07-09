@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2892
@@ -16,11 +16,77 @@ Department of Homeland Security Appropriations Act, 2010
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
+## Cosponsors (63)
+
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Murray, Patty [D-WA] (M001111)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (16)
+## Recorded votes (28)
 
 - 2009-06-24 — [House 111-1-435](votes/house-111-1-0435.md) — On Agreeing to the Amendment — **Agreed to** (345–85)
 - 2009-06-24 — [House 111-1-436](votes/house-111-1-0436.md) — On Agreeing to the Amendment — **Agreed to** (375–55)
@@ -38,6 +104,18 @@ Department of Homeland Security Appropriations Act, 2010
 - 2009-06-24 — [House 111-1-448](votes/house-111-1-0448.md) — On Agreeing to the Amendment — **Failed** (112–320)
 - 2009-06-24 — [House 111-1-449](votes/house-111-1-0449.md) — On Motion to Recommit with Instructions — **Passed** (234–193)
 - 2009-06-24 — [House 111-1-450](votes/house-111-1-0450.md) — On Passage — **Passed** (389–37)
+- 2009-07-07 — [Senate 111-1-218](votes/senate-111-1-0218.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2009-07-08 — [Senate 111-1-219](votes/senate-111-1-0219.md) — On the Motion — **Motion Rejected** (44–53)
+- 2009-07-08 — [Senate 111-1-220](votes/senate-111-1-0220.md) — On the Amendment — **Amendment Agreed to** (54–44)
+- 2009-07-08 — [Senate 111-1-221](votes/senate-111-1-0221.md) — On the Amendment — **Amendment Rejected** (38–60)
+- 2009-07-08 — [Senate 111-1-222](votes/senate-111-1-0222.md) — On the Amendment — **Amendment Rejected** (37–61)
+- 2009-07-09 — [Senate 111-1-223](votes/senate-111-1-0223.md) — On the Amendment — **Amendment Rejected** (36–59)
+- 2009-07-09 — [Senate 111-1-224](votes/senate-111-1-0224.md) — On the Amendment — **Amendment Rejected** (35–61)
+- 2009-07-09 — [Senate 111-1-225](votes/senate-111-1-0225.md) — On the Amendment — **Amendment Agreed to** (55–36)
+- 2009-07-09 — [Senate 111-1-226](votes/senate-111-1-0226.md) — On the Amendment — **Amendment Agreed to** (67–24)
+- 2009-07-09 — [Senate 111-1-227](votes/senate-111-1-0227.md) — On the Amendment — **Amendment Rejected** (31–60)
+- 2009-07-09 — [Senate 111-1-228](votes/senate-111-1-0228.md) — On the Amendment — **Amendment Rejected** (32–58)
+- 2009-07-09 — [Senate 111-1-229](votes/senate-111-1-0229.md) — On Passage of the Bill — **Bill Passed** (84–6)
 
 ## Actions
 
@@ -199,3 +277,245 @@ Department of Homeland Security Appropriations Act, 2010
 - 2009-06-24 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
 - 2009-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H7232)
 - 2009-07-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
+- 2009-07-07 — Amendment SA 1371 proposed by Senator Sessions to Amendment SA 1373. (consideration: CR S7166-7167, S7168-7169; text: CR S7167) To make the pilot program for employment eligibility confirmation for aliens permanent and to improve verification of immigration status of employees.
+- 2009-07-07 — Amendment SA 1373 proposed by Senator Reid for Senator Byrd. (consideration: CR S7164-7166, S7168-7170) In the nature of a substitute.
+- 2009-07-07 — Amendment SA 1399 proposed by Senator DeMint to Amendment SA 1373. (consideration: CR S7170-7172; text: CR S7172) To require the completion of at least 700 miles of reinforced fencing along the southwest border by December 31, 2010.
+- 2009-07-07 — Amendment SA 1400 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 218.
+- 2009-07-07 — Amendment SA 1400 proposed by Senator McCain to Amendment SA 1373. (consideration: CR S7172-7174, S7178-7179; text: CR S7172) To eliminate the appropriation for the Over-the-Road Bus Security Assistance, as recommended by the Administration.
+- 2009-07-07 — Amendment SA 1402 proposed by Senator Feingold to Amendment SA 1373. (consideration: CR S7179; text: CR S7179) To require grants for Emergency Operations Centers and financial assistance for the predisaster mitigation program to be awarded without regard to earmarks.
+- 2009-07-07 — Measure laid before Senate by unanimous consent. (consideration: CR S7164-7167, S7168-7182)
+- 2009-07-07 — Roll call votes on amendments in Senate: Amendment SA 1400 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 218.
+- 2009-07-07 — Senate amendment not agreed to: Amendment SA 1400 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 218.
+- 2009-07-07 — Senate amendment proposed (on the floor): Amendment SA 1371 proposed by Senator Sessions to Amendment SA 1373.(consideration: CR S7166-7167, S7168-7169; text: CR S7167)
+- 2009-07-07 — Senate amendment proposed (on the floor): Amendment SA 1373 proposed by Senator Reid for Senator Byrd.(consideration: CR S7164-7166, S7168-7170)
+- 2009-07-07 — Senate amendment proposed (on the floor): Amendment SA 1399 proposed by Senator DeMint to Amendment SA 1373.(consideration: CR S7170-7172; text: CR S7172)
+- 2009-07-07 — Senate amendment proposed (on the floor): Amendment SA 1400 proposed by Senator McCain to Amendment SA 1373.(consideration: CR S7172-7174, S7178-7179; text: CR S7172)
+- 2009-07-07 — Senate amendment proposed (on the floor): Amendment SA 1402 proposed by Senator Feingold to Amendment SA 1373.(consideration: CR S7179; text: CR S7179)
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-07 — Senate amendment submitted
+- 2009-07-08 — Amendment SA 1371 agreed to in Senate by Voice Vote.
+- 2009-07-08 — Amendment SA 1375 proposed by Senator Vitter to Amendment SA 1373. (consideration: CR S7231; text: S7231; text as modified: CR S7231) To prohibit amounts made available under this Act from being used to amend the final rule to hold employers accountable if they hire illegal aliens, and for other purposes.
+- 2009-07-08 — Amendment SA 1399 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 220.
+- 2009-07-08 — Amendment SA 1402 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 221.
+- 2009-07-08 — Amendment SA 1406 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 222.
+- 2009-07-08 — Amendment SA 1406 proposed by Senator McCain to Amendment SA 1373. (consideration: CR S7243-7248; text: CR S7243) To strike the provision relating to the Loran-C signal, as recommended by the Administration.
+- 2009-07-08 — Amendment SA 1407 agreed to in Senate by Voice Vote.
+- 2009-07-08 — Amendment SA 1407 proposed by Senator Leahy to Amendment SA 1371. (consideration: CR S7230; text: CR S7230) To permanently reauthorize the EB-5 Regional Center Program.
+- 2009-07-08 — Amendment SA 1415 proposed by Senator Grassley to Amendment SA 1373. (consideration: CR S7231-7233; text: CR S7231-7232) To authorize employers to voluntarily verify the immigration status of existing employees.
+- 2009-07-08 — Amendment SA 1428 proposed by Senator Hatch to Amendment SA 1373. (consideration: CR S7241-7243) To amend the Immigration and Nationality Act to extend the religious workers and Conrad-30 visa programs, to protect orphans and widows with pending or approved visa petitions, and for other purposes.
+- 2009-07-08 — Amendment SA 1432 proposed by Senator Kyl to Amendment SA 1373. (consideration: CR S7241, S7248-7251; text: CR S7241) To strike the earmark for the City of Whitefish Emergency Operations Center.
+- 2009-07-08 — Cloture motion on Amendment SA 1373 presented in Senate.
+- 2009-07-08 — Cloture motion on the bill presented in Senate. (consideration: CR S7253; text: CR S7253)
+- 2009-07-08 — Considered by Senate. (consideration: CR S7227, S7228-7230)
+- 2009-07-08 — Considered by Senate. (consideration: CR S7227, S7233-7241)
+- 2009-07-08 — Considered by Senate. (consideration: CR S7227, S7253)
+- 2009-07-08 — Considered by Senate. (consideration: CR S7227-7228, S7230-7231)
+- 2009-07-08 — Considered by Senate. (consideration: CR S7227-7251, S7253)
+- 2009-07-08 — Motion to table amendment SA 1371 rejected in Senate by Yea-Nay. 44 - 53. Record Vote Number: 219.
+- 2009-07-08 — Roll call votes on amendments in Senate: Amendment SA 1399 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 220.
+- 2009-07-08 — Roll call votes on amendments in Senate: Amendment SA 1402 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 221.
+- 2009-07-08 — Roll call votes on amendments in Senate: Amendment SA 1406 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 222.
+- 2009-07-08 — Roll call votes on amendments in Senate: Motion to table amendment SA 1371 rejected in Senate by Yea-Nay. 44 - 53. Record Vote Number: 219.
+- 2009-07-08 — Senate amendment agreed to: Amendment SA 1371 agreed to in Senate by Voice Vote.
+- 2009-07-08 — Senate amendment agreed to: Amendment SA 1399 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 220.
+- 2009-07-08 — Senate amendment agreed to: Amendment SA 1407 agreed to in Senate by Voice Vote.
+- 2009-07-08 — Senate amendment not agreed to: Amendment SA 1402 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 221.
+- 2009-07-08 — Senate amendment not agreed to: Amendment SA 1406 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 222.
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1375 proposed by Senator Vitter to Amendment SA 1373.(consideration: CR S7231; text: S7231; text as modified: CR S7231)
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1406 proposed by Senator McCain to Amendment SA 1373.(consideration: CR S7243-7248; text: CR S7243)
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1407 proposed by Senator Leahy to Amendment SA 1371.(consideration: CR S7230; text: CR S7230)
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1415 proposed by Senator Grassley to Amendment SA 1373.(consideration: CR S7231-7233; text: CR S7231-7232)
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1428 proposed by Senator Hatch to Amendment SA 1373.(consideration: CR S7241-7243)
+- 2009-07-08 — Senate amendment proposed (on the floor): Amendment SA 1432 proposed by Senator Kyl to Amendment SA 1373.(consideration: CR S7241, S7248-7251; text: CR S7241)
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-08 — Senate amendment submitted
+- 2009-07-09 — Amendment SA 1373 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1375 as modified agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 224.
+- 2009-07-09 — Amendment SA 1378 proposed by Senator McCain to Amendment SA 1373. (consideration: CR S7289, S7290-7292, S7296-7297; text: CR S7289) To strike the appropriation for the Advanced Training Center.
+- 2009-07-09 — Amendment SA 1401 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1401 proposed by Senator Murray for Senator Rockefeller to Amendment SA 1373. (consideration: CR S7303-7305; text: CR S7303) To amend title 46, United States Code, to ensure that the prohibition on disclosure of maritime transportation security information is not used inappropriately to shield certain other information from public disclosure, and for other purposes.
+- 2009-07-09 — Amendment SA 1415 agreed to in Senate by Voice Vote.
+- 2009-07-09 — Amendment SA 1428 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7292)
+- 2009-07-09 — Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 58. Record Vote Number: 228.
+- 2009-07-09 — Amendment SA 1430 proposed by Senator Sanders to Amendment SA 1373. (consideration: CR S7309-7310; text: CR S7309) To increase funding for firefighter assistance grants and recruitment and retention grants.
+- 2009-07-09 — Amendment SA 1432 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 223.
+- 2009-07-09 — Amendment SA 1433 agreed to in Senate by Voice.
+- 2009-07-09 — Amendment SA 1433 proposed by Senator Coburn to Amendment SA 1373. (consideration: CR S7307-7308; text: CR S7307) To prohibit the payment of bonuses to government contractors for poor performance.
+- 2009-07-09 — Amendment SA 1434 not agreed to in Senate by Yea-Nay Vote. 31 - 60. Record Vote Number: 227.
+- 2009-07-09 — Amendment SA 1434 proposed by Senator Coburn to Amendment SA 1373. (consideration: CR S7308-7309; text: CR S7308) To prohibit no bid contracts by requiring the use of competitive procedures to award contracts and grants funded under this Act.
+- 2009-07-09 — Amendment SA 1447 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1447 proposed by Senator Murray for Senator Cornyn to Amendment SA 1373. (consideration: CR S7303-7305; text: CR S7303) To clarify the definition of switchblade knives.
+- 2009-07-09 — Amendment SA 1454 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7304)
+- 2009-07-09 — Amendment SA 1454 proposed by Senator Murray for Senator Sanders to Amendment SA 1373. (consideration: CR S7303-7305) To require the Secretary of Homeland Security to submit to Congress a report on reducing the time to travel between locations in the United States and locations in Ontario and Quebec by intercity passenger rail.
+- 2009-07-09 — Amendment SA 1455 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7302)
+- 2009-07-09 — Amendment SA 1455 proposed by Senator Murray for Senator Kyl to Amendment SA 1373. (consideration: CR S7301-7302) To require the Secretary of Homeland Security to submit a detailed report to Congress regarding the utilization and potential expansion of Operation Streamline programs.
+- 2009-07-09 — Amendment SA 1456 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1456 proposed by Senator Murray for Senator Lieberman to Amendment SA 1373. (consideration: CR S7303-7305; text: CR S7303-7304) To provide that certain photographic records relating to the treatment of any individual engaged, captured, or detained after September 11, 2001, by the Armed Forces of the United States in operations outside the United States shall not be subject to disclosure under section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act) to provide that statutory exemptions to the disclosure requirements of that Act shall specifically cite to the provision of that Act authorizing such exemptions, to ensure an open and deliberative process in Congress by providing for related legislative proposals to explicitly state such required citations, and for other purposes.
+- 2009-07-09 — Amendment SA 1457 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1457 proposed by Senator Murray for Senator Bennet to Amendment SA 1373. (consideration: CR S7303-7305; text: CR S7303) To protect taxpayers by improving financial accountability at the Department of Homeland Security.
+- 2009-07-09 — Amendment SA 1458 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1458 proposed by Senator Murray for Senator Dodd to Amendment SA 1373. (consideration: CR S7302, S7307; text: CR S7302) To provide additional funds for FIRE grants under section 33 of the Federal Fire Prevention and Control Act of 1974.
+- 2009-07-09 — Amendment SA 1459 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1459 proposed by Senator Murray for Senator Tester to Amendment SA 1373. (consideration: CR S7301-7302; text: CR S7302) To condition funding for the National Bio and Agro-defense Facility.
+- 2009-07-09 — Amendment SA 1463 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7303)
+- 2009-07-09 — Amendment SA 1463 proposed by Senator Murray for Senator Lincoln to Amendment SA 1373. (consideration: CR S7303-7305) To make a technical correction to the Federal Deposit Insurance Act.
+- 2009-07-09 — Amendment SA 1464 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7304)
+- 2009-07-09 — Amendment SA 1464 proposed by Senator Murray for Senator Gregg to Amendment SA 1373. (consideration: CR S7303-7305) To protect the privacy of personal information provided by United States travelers who participated in the Registered Traveler program.
+- 2009-07-09 — Amendment SA 1465 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Amendment SA 1465 proposed by Senator Murray for Senator Landrieu to Amendment SA 1373. (consideration: CR S7303-7305; text: CR S7304) To authorize the temporary reemployment of administrative law judge annuitants for disputes relating to certain public assistance applications under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+- 2009-07-09 — Amendment SA 1466 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7304)
+- 2009-07-09 — Amendment SA 1466 proposed by Senator Murray for Senator Landrieu to Amendment SA 1373. (consideration: CR S7303-7305) To require a report from the Federal Emergency Management Agency relative to housing and the Post-Katrina
+- 2009-07-09 — Amendment SA 1467 agreed to in Senate by Yea-Nay Vote. 55 - 36. Record Vote Number: 225.
+- 2009-07-09 — Amendment SA 1467 proposed by Senator Vitter to Amendment SA 1458. (consideration: CR S7302, S7307; text: CR S7302) To prevent funds from being used to prevent individuals from importing prescription drugs under certain circumstances.
+- 2009-07-09 — Amendment SA 1468 agreed to in Senate by Yea-Nay Vote. 67 - 24. Record Vote Number: 226.
+- 2009-07-09 — Amendment SA 1468 proposed by Senator Murray to Amendment SA 1373. (consideration: CR S7308; text: CR S7308) To prohibit certain funds from being used for certain efforts.
+- 2009-07-09 — Cloture motion on amendment SA 1373 withdrawn by unanimous consent in Senate. (consideration: CR S7307)
+- 2009-07-09 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S7307)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288, S7289-7290)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288, S7292, S7305)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288, S7307)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288, S7309)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288-7289)
+- 2009-07-09 — Considered by Senate. (consideration: CR S7288-7312)
+- 2009-07-09 — Passed Senate with an amendment by Yea-Nay Vote. 84 - 6. Record Vote Number: 229. (text: CR 7/10/2009 S7361-7372)
+- 2009-07-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 84 - 6. Record Vote Number: 229.(text: CR 7/10/2009 S7361-7372)
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 224.
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 58. Record Vote Number: 228.
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1432 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 223.
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1434 not agreed to in Senate by Yea-Nay Vote. 31 - 60. Record Vote Number: 227.
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1467 agreed to in Senate by Yea-Nay Vote. 55 - 36. Record Vote Number: 225.
+- 2009-07-09 — Roll call votes on amendments in Senate: Amendment SA 1468 agreed to in Senate by Yea-Nay Vote. 67 - 24. Record Vote Number: 226.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1373 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1375 as modified agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1401 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1415 agreed to in Senate by Voice Vote.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1428 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7292)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1433 agreed to in Senate by Voice.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1447 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1454 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7304)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1455 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7302)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1456 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1457 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1458 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1459 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1463 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7303)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1464 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7304)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1465 agreed to in Senate by Unanimous Consent.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1466 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7304)
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1467 agreed to in Senate by Yea-Nay Vote. 55 - 36. Record Vote Number: 225.
+- 2009-07-09 — Senate amendment agreed to: Amendment SA 1468 agreed to in Senate by Yea-Nay Vote. 67 - 24. Record Vote Number: 226.
+- 2009-07-09 — Senate amendment not agreed to: Amendment SA 1378 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 224.
+- 2009-07-09 — Senate amendment not agreed to: Amendment SA 1430 not agreed to in Senate by Yea-Nay Vote. 32 - 58. Record Vote Number: 228.
+- 2009-07-09 — Senate amendment not agreed to: Amendment SA 1432 not agreed to in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 223.
+- 2009-07-09 — Senate amendment not agreed to: Amendment SA 1434 not agreed to in Senate by Yea-Nay Vote. 31 - 60. Record Vote Number: 227.
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1378 proposed by Senator McCain to Amendment SA 1373.(consideration: CR S7289, S7290-7292, S7296-7297; text: CR S7289)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1401 proposed by Senator Murray for Senator Rockefeller to Amendment SA 1373.(consideration: CR S7303-7305; text: CR S7303)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1430 proposed by Senator Sanders to Amendment SA 1373.(consideration: CR S7309-7310; text: CR S7309)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1433 proposed by Senator Coburn to Amendment SA 1373.(consideration: CR S7307-7308; text: CR S7307)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1434 proposed by Senator Coburn to Amendment SA 1373.(consideration: CR S7308-7309; text: CR S7308)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1447 proposed by Senator Murray for Senator Cornyn to Amendment SA 1373.(consideration: CR S7303-7305; text: CR S7303)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1454 proposed by Senator Murray for Senator Sanders to Amendment SA 1373.(consideration: CR S7303-7305)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1455 proposed by Senator Murray for Senator Kyl to Amendment SA 1373.(consideration: CR S7301-7302)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1456 proposed by Senator Murray for Senator Lieberman to Amendment SA 1373.(consideration: CR S7303-7305; text: CR S7303-7304)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1457 proposed by Senator Murray for Senator Bennet to Amendment SA 1373.(consideration: CR S7303-7305; text: CR S7303)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1458 proposed by Senator Murray for Senator Dodd to Amendment SA 1373.(consideration: CR S7302, S7307; text: CR S7302)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1459 proposed by Senator Murray for Senator Tester to Amendment SA 1373.(consideration: CR S7301-7302; text: CR S7302)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1463 proposed by Senator Murray for Senator Lincoln to Amendment SA 1373.(consideration: CR S7303-7305)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1464 proposed by Senator Murray for Senator Gregg to Amendment SA 1373.(consideration: CR S7303-7305)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1465 proposed by Senator Murray for Senator Landrieu to Amendment SA 1373.(consideration: CR S7303-7305; text: CR S7304)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1466 proposed by Senator Murray for Senator Landrieu to Amendment SA 1373.(consideration: CR S7303-7305)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1467 proposed by Senator Vitter to Amendment SA 1458.(consideration: CR S7302, S7307; text: CR S7302)
+- 2009-07-09 — Senate amendment proposed (on the floor): Amendment SA 1468 proposed by Senator Murray to Amendment SA 1373.(consideration: CR S7308; text: CR S7308)
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate amendment submitted
+- 2009-07-09 — Senate insists on its amendment, asks for a conference, appoints conferees Byrd; Inouye; Leahy; Mikulski; Murray; Landrieu; Lautenberg; Tester; Specter; Voinovich; Cochran; Gregg; Shelby; Brownback; Murkowski. (consideration: CR S7311-7312)
