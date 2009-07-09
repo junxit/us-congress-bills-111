@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2965
@@ -121,3 +121,4 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - 2009-07-08 — The Speaker designated the Honorable Mike Ross to act as Chairman of the Committee.
 - 2009-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H7778)
 - 2009-07-08 — Velazquez amendment (A001) modified pursuant to the rule. The modification makes clarifying and technical changes.
+- 2009-07-09 — Received in the Senate, read twice.
