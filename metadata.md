@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 131
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 131
@@ -183,6 +183,10 @@ Directing the Architect of the Capitol to engrave the Pledge of Allegiance to th
 
 - House — Committee on House Administration
 
+## Recorded votes (1)
+
+- 2009-07-09 — [House 111-1-515](votes/house-111-1-0515.md) — On Motion to Suspend the Rules and Agree — **Passed** (410–8)
+
 ## Actions
 
 - 2009-05-20 — Introduced in House
@@ -193,3 +197,11 @@ Directing the Architect of the Capitol to engrave the Pledge of Allegiance to th
 - 2009-06-12 — Placed on the Union Calendar, Calendar No. 75.
 - 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-152.
 - 2009-06-12 — Reported by the Committee on House Administration. H. Rept. 111-152.
+- 2009-07-07 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Harper objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-07 — Considered under suspension of the rules. (consideration: CR H7721-7723)
+- 2009-07-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 131.
+- 2009-07-07 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
+- 2009-07-09 — Considered as unfinished business. (consideration: CR H7867-7868)
+- 2009-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-09 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 410 - 8, 2 Present (Roll no. 515). (text: CR 7/7/2009 H7721)
+- 2009-07-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 410 - 8, 2 Present (Roll no. 515).(text: CR 7/7/2009 H7721)
