@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 142
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 142
@@ -69,9 +69,10 @@ Supporting National Men's Health Week.
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -92,3 +93,4 @@ Supporting National Men's Health Week.
 - 2009-07-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-08 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 3 (Roll no. 495). (text: CR 7/7/2009 H7714)
 - 2009-07-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 3 (Roll no. 495).(text: CR 7/7/2009 H7714)
+- 2009-07-09 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
