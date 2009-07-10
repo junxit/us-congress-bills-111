@@ -25,12 +25,12 @@ This Act may be cited as the “Joint Ventures for Bird Habitat Conservation Act
   - **(7)** the Department of the Interior, through the United States Fish and Wildlife Service, is authorized under a number of broad statutes to undertake many activities with partners to conserve natural resources, including migratory birds and their habitat;
   - **(8)** through these authorities, the Service has created and supported a number of joint ventures with diverse partners to help protect, manage, enhance, and restore migratory bird habitat throughout much of the United States and to conserve migratory bird species;
   - **(9)** the North American Waterfowl Management Plan, adopted by the United States and Canada in 1986, with Mexico joining as a signatory in 1994, was the first truly landscape-level approach to conserving migratory game birds and the wetland habitats on which they depend, and became the foundation for the voluntary formation of Joint Ventures;
-  - **(10)** since the adoption of the North American Waterfowl Management Plan, joint ventures have expanded their application to all native birds and other wildlife species that depend on wetlands and associated upland habitats, resulting in significant conservation benefits over the last 20 years;
+  - **(10)** since the adoption of the North American Waterfowl Management Plan, joint ventures have expanded their application to all native birds and other wildlife species that depend on wetlands and associated upland habitats, resulting in significant conservation benefits over the last twenty years;
   - **(11)** States possess broad trustee and management authority over fish and wildlife resources within their borders, and have utilized their authorities to undertake conservation programs to conserve resident and migratory birds and their habitats;
   - **(12)** consistent with applicable Federal and State laws, the Federal Government and the States each have management responsibilities affecting fish and wildlife resources, and should work cooperatively in fulfilling these responsibilities;
   - **(13)** other domestic and international conservation projects authorized under the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6101 et seq.) and the North American Wetlands Conservation Act (16 U.S.C. 4401 et seq.), and additional bird conservation projects authorized under other Federal authorities, can expand and increase the effectiveness of the joint ventures in protecting and enhancing migratory bird habitats throughout the different ranges of species native to the United States; and
   - **(14)** the voluntary partnerships fostered by these joint ventures have served as innovative models for cooperative and effective landscape conservation, with far-reaching benefits to other fish and wildlife populations, and similar joint ventures should be authorized specifically to reinforce the importance and multiple benefits of these models to encourage adaptive resource management and the implementation of flexible conservation strategies in the 21st century.
-- **(b)** *Purpose* The purpose of this Act is to establish a program administered by the Director, in coordination with other Federal agencies with management authority over fish and wildlife resources and the States, to develop, implement, and support innovative, voluntary, cooperative, and effective conservation strategies and conservation projects to—
+- **(b)** *Purpose* The purpose of this Act is to establish a program administered by the Director, in coordination with other Federal agencies with management authority over fish and wildlife resources and the States, to develop, implement, and support innovative, voluntary, cooperative, and effective conservation strategies and conservation actions to—
   - **(1)** promote, primarily, sustainable populations of migratory birds, and, secondarily, the fish and wildlife species associated with their habitats;
   - **(2)** encourage stakeholder and government partnerships consistent with the goals of protecting, improving, and restoring habitat;
   - **(3)** establish, implement, and improve science-based migratory bird conservation plans and promote and facilitate broader landscape-level conservation of fish and wildlife habitat; and
@@ -40,7 +40,7 @@ This Act may be cited as the “Joint Ventures for Bird Habitat Conservation Act
 
 In this Act:
 
-- **(1)** *Conservation project* The term “conservation project” means activities that—
+- **(1)** *Conservation action* The term “conservation action” means activities that—
   - **(A)** support the protection, restoration, adaptive management, conservation, or enhancement of migratory bird populations, their terrestrial, wetland, marine, or other habitats, and other wildlife species supported by those habitats, including—
     - **(i)** biological and geospatial planning;
     - **(ii)** landscape and conservation design;
@@ -82,7 +82,7 @@ In this Act:
     - **(B)** the United States Shorebird Conservation Plan;
     - **(C)** the North American Waterbird Conservation Plan;
     - **(D)** the Partners in Flight North American Landbird Conservation Plan; and
-    - **(E)** other treaties, conventions, or agreements entered into by the United States and implemented by the Secretary that promote the conservation of migratory bird populations and their habitats.
+    - **(E)** other treaties, conventions, agreements, or strategies entered into by the United States and implemented by the Secretary that promote the conservation of migratory bird populations and their habitats.
 - **(b)** *Guidelines* Within 180 days after the date of enactment of this Act the Secretary, through the Director, shall publish in the Federal Register guidelines for the implementation of this Act, including regarding requirements for approval of proposed Joint Ventures and administration, oversight, coordination among, and evaluation of approved Joint Ventures.
 - **(c)** *Coordination with states* In the administration of the program authorized under this section, the Director shall coordinate and cooperate with the States to fulfill the purposes of this Act.
 
@@ -115,12 +115,12 @@ In this Act:
     - **(A)** A strategic framework for migratory bird conservation that includes biological planning; conservation design; habitat restoration, protection, and enhancement; applied research; and monitoring and evaluation activities.
     - **(B)** Provisions for effective communication among member participants within the Joint Venture.
     - **(C)** A long-term strategy to conduct public outreach and education regarding the purposes and activities of the Joint Venture and activities to regularly communicate to the general public information generated by the Joint Venture.
-    - **(D)** Coordination with laws and conservation plans referred to in section 4(a) (3) and (4) that are relevant to migratory birds, and other relevant regional, national, or international initiatives identified by the Director to conserve migratory birds, their habitats, ecological functions, and associated populations of fish and wildlife.
+    - **(D)** Coordination with laws and conservation plans referred to in section 4(a)(3) and (4) that are relevant to migratory birds, and other relevant regional, national, or international initiatives identified by the Director to conserve migratory birds, their habitats, ecological functions, and associated populations of fish and wildlife.
     - **(E)** An organizational plan that—
       - **(i)** identifies the initial membership of the Management Board and establishes procedures for updating the membership of the Management Board as appropriate;
       - **(ii)** describes the organizational structure of the Joint Venture, including proposed committees and subcommittees, and procedures for revising and updating the structure, as necessary; and
       - **(iii)** provides a strategy to increase stakeholder participation or membership in the Joint Venture.
-    - **(F)** Procedures to coordinate the development, implementation, oversight, monitoring, tracking, and reporting of conservation projects approved by the Management Board and an evaluation process to determine overall effectiveness of activities undertaken by the Joint Venture.
+    - **(F)** Procedures to coordinate the development, implementation, oversight, monitoring, tracking, and reporting of conservation actions approved by the Management Board and an evaluation process to determine overall effectiveness of activities undertaken by the Joint Venture.
     - **(G)** A strategy to encourage the contribution of non-Federal financial resources, donations, gifts and in-kind contributions to support the objectives of the Joint Venture and fulfillment of the Implementation Plan.
   - **(2)** *Review* The Director shall—
     - **(A)** coordinate the review of a proposed Implementation Plan submitted under this section; and
@@ -132,24 +132,22 @@ In this Act:
       - **(v)** nongovernmental conservation organizations, academic institutions, or other stakeholders engaged in existing Joint Ventures that have knowledge or expertise of the geographic or ecological scope of the Joint Venture; and
       - **(vi)** other relevant stakeholders considered necessary by the Director to ensure a comprehensive review of the proposed Implementation Plan.
   - **(3)** *Approval* The Director shall approve an Implementation Plan submitted by the Management Board for a Joint Venture if the Director finds that—
-    - **(A)** the plan provides for implementation of conservation projects to conserve waterfowl and other native migratory birds and their habitats and ecosystems either—
+    - **(A)** the plan provides for implementation of conservation actions to conserve waterfowl and other native migratory birds and their habitats and ecosystems either—
       - **(i)** in a specific geographic area of the United States; or
       - **(ii)** across the range of a specific species or similar group of like species;
     - **(B)** the members of the Joint Venture—
       - **(i)** accept the responsibility for implementation of national or international bird conservation plans in the region of the United States to which the plan applies; and
-      - **(ii)** have demonstrated to the satisfaction of the Director the capacity to implement conservation actions identified in the plan, including—
-        - **(I)** the design, funding, monitoring, and tracking of conservation projects that advance the objectives of the Joint Venture; and
-        - **(II)** reporting and conduct of public outreach regarding such projects; and
+      - **(ii)** have demonstrated to the satisfaction of the Director the capacity to implement conservation actions identified in the plan, including (I) the design, funding, monitoring, and tracking of conservation projects that advance the objectives of the Joint Venture; and (II) reporting and conduct of public outreach regarding such projects; and
     - **(C)** the plan maximizes, to the extent practicable, coordination with other relevant and active conservation plans or programs within the geographic scope of the Joint Venture to conserve, protect, recover, or restore migratory bird habitats and other fish and wildlife habitat within the operating region of the Joint Venture.
 
 ## § 6. Grants and other assistance
 
 - **(a)** *In general* Except as provided in subsection (b), and subject to the availability of appropriations, the Director may award grants of financial assistance to implement a Joint Venture through—
   - **(1)** support of the activities of the Management Board of the Joint Venture and to pay for necessary administrative costs and services, personnel, and meetings, travel, and other business activities; and
-  - **(2)** support for specific conservation projects and other activities necessary to carry out the Implementation Plan.
+  - **(2)** support for specific conservation actions and other activities necessary to carry out the Implementation Plan.
 - **(b)** *Limitation* A Joint Venture is not eligible for assistance or support authorized in this section unless the Joint Venture is operating under an Implementation Plan approved by the Director under section 5.
-- **(c)** *Conservation project grant criteria* The Secretary, through the Director, within 180 days after date of enactment of this Act and after consultation with representatives from Management Boards and equivalent entities of joint ventures referred to in section 8, shall publish guidelines for determining priorities for funding among conservation project proposals to meet the purpose of this Act and respective Implementation Plans.
-- **(d)** *Matching requirements* If a Management Board determines that two or more proposed conservation projects are of equal value toward fulfillment of the relevant Implementation Plan, priority shall be given to the project or projects for which there exist non-Federal matching contributions that are equal to or exceed the amount of Federal funds available for such project or projects.
+- **(c)** *Conservation action grant criteria* The Secretary, through the Director, within 180 days after date of enactment of this Act and after consultation with representatives from Management Boards and equivalent entities of joint ventures referred to in section 8, shall publish guidelines for determining funding allocations among joint ventures and priorities for funding among conservation action proposals to meet the purpose of this Act and respective Implementation Plans.
+- **(d)** *Matching requirements* If a Management Board determines that two or more proposed conservation actions are of equal value toward fulfillment of the relevant Implementation Plan, priority shall be given to the action or actions for which there exist non-Federal matching contributions that are equal to or exceed the amount of Federal funds available for such action or actions.
 - **(e)** *Technical assistance* The Secretary, through the Director, may provide technical and administrative assistance for implementation of Joint Ventures and the expenditure of financial assistance under this subsection.
 - **(f)** *Acceptance and use of donations* The Secretary, through the Director, may accept and use donations of funds, gifts, and in-kind contributions to provide assistance under this section.
 
@@ -160,13 +158,13 @@ In this Act:
     - **(A)** require each Management Board to submit annual reports for all approved Joint Ventures of the Management Board; and
     - **(B)** publish within 180 days after the date of enactment of this Act guidelines to implement this subsection.
   - **(2)** *Contents* Each annual report shall include—
-    - **(A)** a description and justification of all conservation projects approved and implemented by the Management Board during the period covered by the report;
-    - **(B)** when appropriate based upon the goals and objectives of an Implementation Plan, an estimate of the total number of acres of migratory bird habitat either restored, protected, or enhanced as a result of such conservation projects;
-    - **(C)** the amounts and sources of Federal and non-Federal funding for such conservation projects;
+    - **(A)** a description and justification of all conservation actions approved and implemented by the Management Board during the period covered by the report;
+    - **(B)** when appropriate based upon the goals and objectives of an Implementation Plan, an estimate of the total number of acres of migratory bird habitat either restored, protected, or enhanced as a result of such conservation actions;
+    - **(C)** the amounts and sources of Federal and non-Federal funding for such conservation actions;
     - **(D)** the amounts and sources of funds expended for administrative and other expenses of the Joint Venture of the Management Board, including all donations, gifts, and in-kind contributions provided for the Joint Venture;
     - **(E)** the status of progress made in achieving the strategic framework of the Implementation Plan of such Joint Venture and fulfillment of the purpose of this Act; and
     - **(F)** other elements considered necessary by the Director to insure transparency and accountability by Management Boards in the implementation of its responsibilities under this Act.
-- **(b)** *Joint Venture Program five-year reviews*
+- **(b)** *Joint Venture Program five-Year reviews*
   - **(1)** *In general* The Secretary, acting through the Director, shall at five years after the date of enactment of this Act and at five-year intervals thereafter, complete an objective and comprehensive review and evaluation of the Program.
   - **(2)** *Review contents* Each review under this subsection shall include—
     - **(A)** an evaluation of the effectiveness of the Program in meeting the purpose of this Act specified in section 2(b);
@@ -174,7 +172,7 @@ In this Act:
     - **(C)** recommendations to revise the Program or to amend or otherwise revise Implementation Plans to ensure that activities undertaken pursuant to this Act address the effects of climate change on migratory bird populations and their habitats, and fish and wildlife habitats, in general.
   - **(3)** *Consultation* The Secretary, acting through the Director, in the implementation of this subsection—
     - **(A)** shall consult with other appropriate Federal agencies with responsibility for the conservation or management of fish and wildlife habitat and appropriate State agencies; and
-    - **(B)** may consult with appropriate Indian tribes, Flyway Councils, or regional conservation organizations, public and private landowners, members of academia and the scientific community, and other nonprofit conservation or private stakeholders.
+    - **(B)** may consult with appropriate, Indian tribes, Flyway Councils, or regional conservation organizations, public and private landowners, members of academia and the scientific community, and other nonprofit conservation or private stakeholders.
   - **(4)** *Public comment* The Secretary, through the Director, shall provide for adequate opportunities for general public review and comment of the Program as part of the five-year evaluations conducted pursuant to this subsection.
 
 ## § 8. Treatment of existing joint ventures

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2188
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2188
@@ -31,3 +31,11 @@ Joint Ventures for Bird Habitat Conservation Act of 2009
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Referred to the House Committee on Natural Resources.
+- 2009-05-06 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-05-13 — Subcommittee Hearings Held.
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-06-10 — Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.
+- 2009-07-10 — Placed on the Union Calendar, Calendar No. 108.
+- 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-201.
+- 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-201.
