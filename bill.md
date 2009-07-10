@@ -2,11 +2,11 @@
 legis-num: H.R. 2892
 congress: 111th CONGRESS
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2892
 
-That the bill from the House of Representatives (H.R. 2892) entitled “An Act making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2010, and for other purposes.”, do pass with the following
+> Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2010, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the Department of Homeland Security for the fiscal year ending September 30, 2010, and for other purposes, namely:
