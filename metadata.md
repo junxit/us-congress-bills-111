@@ -1,7 +1,7 @@
 ---
 measure: H.R. 860
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 860
@@ -16,7 +16,7 @@ Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009
 
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -34,6 +34,9 @@ Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Baca, Joe [D-CA-43] (B001234)
 
 ## Committees (1)
 
@@ -45,3 +48,11 @@ Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Referred to the House Committee on Natural Resources.
 - 2009-02-04 — Sponsor introductory remarks on measure. (CR E212)
+- 2009-02-06 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-02-25 — Subcommittee Hearings Held.
+- 2009-04-22 — Committee Consideration and Mark-up Session Held.
+- 2009-04-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-04-22 — Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.
+- 2009-07-10 — Placed on the Union Calendar, Calendar No. 103.
+- 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-196.
+- 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-196.

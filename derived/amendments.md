@@ -1,7 +1,7 @@
 ---
 measure: H.R. 860
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -37,20 +37,20 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraph (10); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 206 (16 U.S.C. 6405) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively, and by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) through (6) as paragraphs (3) through (7), respectively, and by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by amending paragraph (4), as so redesignated, to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by striking “and” after the semicolon at the end of paragraph (6), as so redesignated, by striking the period at the end of paragraph (6), as so redesignated, and inserting “; and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking “and” after the semicolon at the end of paragraph (6), as so redesignated, by striking the period at the end of paragraph (7), as so redesignated, and inserting “; and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 203(b)(8) (16 U.S.C. 6402(b)(8)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | by striking “cooperative conservation” and inserting “cooperative research, conservation,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “partners.” and inserting “partners, including academic institutions located in States;”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 204(g) (16 U.S.C. 6403(g)) is further amended by striking “or” after the semicolon at the end of paragraph (10), by redesignating paragraph (11) as paragraph (12), and by inserting after paragraph (10) the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b) (as amended by subsection (b) of this section) by striking “and” after the semicolon at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting “; and ”, and by adding at the end the f… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (b) (as amended by subsection (b) of this section) by striking “and” after the semicolon at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting “; and ”, and by adding at the end the f… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 208 (16 U.S.C. 6407) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 205(a) (16 U.S.C. 6404(a)), by striking “organization solely” and all that follows and inserting “organization— | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of section 205(b) (16 U.S.C. 6404(b)) “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response actions under sec… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of section 205(b) (16 U.S.C. 6404(b)) the following: “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response ac… | the bill names no machine-readable US Code section |
 | — | replace | in section 205(c) (16 U.S.C. 6404(c)), by striking “the grant program” and inserting “any grant program or emergency response action”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 209 and 210 as sections 217 and 218, respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 208 the following: | the bill names no machine-readable US Code section |
@@ -66,4 +66,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b) is amended by inserting before the period at the end the following: “, including coral reef ecosystems (as such term is defined in section 218 of the Coral Reef Conserv… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (7) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by amending paragraph (8), as redesignated by section 107(5) of this Act, to read as follows: | the bill names no machine-readable US Code section |
