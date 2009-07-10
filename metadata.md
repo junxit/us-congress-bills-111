@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 131
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 131
@@ -205,3 +205,6 @@ Directing the Architect of the Capitol to engrave the Pledge of Allegiance to th
 - 2009-07-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-09 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 410 - 8, 2 Present (Roll no. 515). (text: CR 7/7/2009 H7721)
 - 2009-07-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 410 - 8, 2 Present (Roll no. 515).(text: CR 7/7/2009 H7721)
+- 2009-07-10 — Message on Senate action sent to the House.
+- 2009-07-10 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7372)
+- 2009-07-10 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7372)
