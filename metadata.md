@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 127
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 127
@@ -71,9 +71,10 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -94,3 +95,4 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - 2009-07-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 514). (text: CR 7/7/2009 H7716)
 - 2009-07-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 514).(text: CR 7/7/2009 H7716)
+- 2009-07-10 — Received in the Senate and referred to the Committee on the Judiciary.
