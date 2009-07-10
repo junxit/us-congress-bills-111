@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 2892
@@ -86,7 +86,7 @@ Department of Homeland Security Appropriations Act, 2010
 
 - House — Appropriations Committee
 
-## Recorded votes (28)
+## Recorded votes (32)
 
 - 2009-06-24 — [House 111-1-435](votes/house-111-1-0435.md) — On Agreeing to the Amendment — **Agreed to** (345–85)
 - 2009-06-24 — [House 111-1-436](votes/house-111-1-0436.md) — On Agreeing to the Amendment — **Agreed to** (375–55)
@@ -116,6 +116,10 @@ Department of Homeland Security Appropriations Act, 2010
 - 2009-07-09 — [Senate 111-1-227](votes/senate-111-1-0227.md) — On the Amendment — **Amendment Rejected** (31–60)
 - 2009-07-09 — [Senate 111-1-228](votes/senate-111-1-0228.md) — On the Amendment — **Amendment Rejected** (32–58)
 - 2009-07-09 — [Senate 111-1-229](votes/senate-111-1-0229.md) — On Passage of the Bill — **Bill Passed** (84–6)
+- 2009-10-01 — [House 111-1-746](votes/house-111-1-0746.md) — On Motion to Instruct Conferees — **Passed** (258–163)
+- 2009-10-15 — [House 111-1-783](votes/house-111-1-0783.md) — On Motion to Recommit Conference Report With Instructions — **Failed** (193–224)
+- 2009-10-15 — [House 111-1-784](votes/house-111-1-0784.md) — On Agreeing to the Conference Report — **Passed** (307–114)
+- 2009-10-20 — [Senate 111-1-323](votes/senate-111-1-0323.md) — On the Conference Report — **Conference Report Agreed to** (79–19)
 
 ## Actions
 
@@ -519,3 +523,38 @@ Department of Homeland Security Appropriations Act, 2010
 - 2009-07-09 — Senate amendment submitted
 - 2009-07-09 — Senate amendment submitted
 - 2009-07-09 — Senate insists on its amendment, asks for a conference, appoints conferees Byrd; Inouye; Leahy; Mikulski; Murray; Landrieu; Lautenberg; Tester; Specter; Voinovich; Cochran; Gregg; Shelby; Brownback; Murkowski. (consideration: CR S7311-7312)
+- 2009-07-13 — Message on Senate action sent to the House.
+- 2009-10-01 — DEBATE - The House proceeded with one hour of debate on the Rogers (KY) motion to instruct conferees on H.R. 2892. The instructions contained in the motion seek to require the managers on the part of the House to 1) recede to subsection (a) of section 567 of the Senate amendment; 2) insist on subsections (b) and (c) of section 552 of the House bill; 3) recede to the Senate position on subsections (a) and (d) of section 552 of the House bill; and 4) not record their approval of the final conference agreement unless the text of such agreement (as such term is used in clause 12(a)(4) of rule XXII of the Rules of the House of Representatives) unless the text of such agreement has been available to the managers in an electronic, searchable, and downloadable for for at least 72 hours prior to the time described in such clause.
+- 2009-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-01 — Mr. Price (NC) asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H10413-10418)
+- 2009-10-01 — Mr. Rogers (KY) moved that the House instruct conferees. (consideration: CR H10413-10418; text: CR H10413)
+- 2009-10-01 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2009-10-01 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 258 - 163 (Roll no. 746). (consideration: CR H10417-10418)
+- 2009-10-01 — The Speaker appointed conferees: Price (NC), Serrano, Rodriguez, Ruppersberger, Mollohan, Lowey, Roybal-Allard, Farr, Rothman (NJ), Obey, Rogers (KY), Carter, Culberson, Kirk, Calvert, and Lewis (CA).
+- 2009-10-01 — The previous question was ordered without objection. (consideration: CR H10417)
+- 2009-10-07 — Conferees agreed to file conference report.
+- 2009-10-07 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-10-13 — Conference report H. Rept. 111-298 filed. (text of conference report: CR H11195-11257)
+- 2009-10-13 — Conference report filed: Conference report H. Rept. 111-298 filed.(text of conference report: CR H11195-11257)
+- 2009-10-14 — Rules Committee Resolution H. Res. 829 Reported to House. Rule provides for consideration of the conference report to H.R. 2892. Previous question shall be considered as ordered without intervening motions except motion to recommit. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
+- 2009-10-15 — Conference papers: message on House action held at the desk in Senate.
+- 2009-10-15 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 307 - 114 (Roll no. 784).
+- 2009-10-15 — DEBATE - The House proceeded with one hour of general debate on the conference report to accompany H.R. 2892.
+- 2009-10-15 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-10-15 — Mr. Price (NC) brought up conference report H. Rept. 111-298 for consideration under the provisions of H. Res. 829. (consideration: CR H11389-11410)
+- 2009-10-15 — Mr. Rogers (KY) moved to recommit with instructions to the conference committee. (consideration: CR H11409; text: CR H11409)
+- 2009-10-15 — On agreeing to the conference report Agreed to by the Yeas and Nays: 307 - 114 (Roll no. 784).
+- 2009-10-15 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 193 - 224 (Roll no. 783).
+- 2009-10-15 — Rule H. Res. 829 passed House.
+- 2009-10-15 — The previous question was ordered without objection. (consideration: CR H11409)
+- 2009-10-20 — Cleared for White House.
+- 2009-10-20 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 79 - 19. Record Vote Number: 323.(consideration: CR S10558)
+- 2009-10-20 — Conference report considered in Senate. (consideration: CR S10542-10544, S10544-10559)
+- 2009-10-20 — Message on Senate action sent to the House.
+- 2009-10-20 — Senate agreed to conference report by Yea-Nay Vote. 79 - 19. Record Vote Number: 323. (consideration: CR S10558)
+- 2009-10-22 — Presented to President.
+- 2009-10-22 — Presented to President.
+- 2009-10-28 — Became Public Law No: 111-83.
+- 2009-10-28 — Became Public Law No: 111-83.
+- 2009-10-28 — Signed by President.
+- 2009-10-28 — Signed by President.
