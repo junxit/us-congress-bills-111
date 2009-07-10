@@ -1,7 +1,7 @@
 ---
 measure: S. 1289
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1289
@@ -38,3 +38,17 @@ Foreign Evidence Request Efficiency Act of 2009
 - 2009-07-10 — Referred to the House Committee on the Judiciary.
 - 2009-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7373-7374)
 - 2009-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7373-7374)
+- 2009-08-19 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2009-09-30 — Cleared for White House.
+- 2009-09-30 — Considered under suspension of the rules. (consideration: CR H10092-10094)
+- 2009-09-30 — DEBATE - The House proceeded with forty minutes of debate on S. 1289.
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — Mr. Schiff moved to suspend the rules and pass the bill.
+- 2009-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10092-10093)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10092-10093)
+- 2009-10-07 — Presented to President.
+- 2009-10-07 — Presented to President.
+- 2009-10-19 — Became Public Law No: 111-79.
+- 2009-10-19 — Became Public Law No: 111-79.
+- 2009-10-19 — Signed by President.
+- 2009-10-19 — Signed by President.
