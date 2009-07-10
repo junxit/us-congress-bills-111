@@ -1,7 +1,7 @@
 ---
 measure: H.R. 509
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 7 of the Marine Turtle Conservation Act of 2004 (Public Law 108–266; 16 U.S.C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2009 through 2014”. | the bill names no machine-readable US Code section |
+| — | strike | in section 2(b) (16 U.S.C. 6601(b)), by striking “in foreign countries ”; | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding subparagraph (A), by striking “in foreign countries ”; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (D), by striking “of foreign countries”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1)(A), by inserting “State or” before “foreign country”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d), by striking “in foreign countries ”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of such Act (16 U.S.C. 6602) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “$80,000” and inserting “$150,000”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 7 of the Marine Turtle Conservation Act of 2004 (16 U. S. C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2009 through 2014”. | the bill names no machine-readable US Code section |

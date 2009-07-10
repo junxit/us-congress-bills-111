@@ -13,6 +13,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Marine Turtle Conservation Reauthorization Act of 2009”.
 
-## § 2. Reauthorization of the Marine Turtle Conservation Act of 2004
+## § 2. Amendments to provisions preventing funding of projects in the United States
 
-Section 7 of the Marine Turtle Conservation Act of 2004 (Public Law 108–266; 16 U.S.C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2009 through 2014”.
+- **(a)** *In general* The Marine Turtle Conservation Act of 2004 is amended—
+  - **(1)** in section 2(b) (16 U.S.C. 6601(b)), by striking “in foreign countries ”;
+  - **(2)** in section 3(2) (16 U.S.C. 6602(2))—
+    - **(A)** in the matter preceding subparagraph (A), by striking “in foreign countries ”; and
+    - **(B)** in subparagraph (D), by striking “of foreign countries”; and
+  - **(3)** in section 4 (16 U.S.C. 6603)—
+    - **(A)** in subsection (b)(1)(A), by inserting “State or” before “foreign country”; and
+    - **(B)** in subsection (d), by striking “in foreign countries ”.
+- **(b)** *State defined* Section 3 of such Act (16 U.S.C. 6602) is amended by adding at the end the following new paragraph:
+  > - **(7)** *State* The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, and any Indian tribe.
+
+## § 3. Limitations on expenditures
+
+Section 5(b) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6604(b)) is amended—
+
+- **(1)** in paragraph (2), by striking “$80,000” and inserting “$150,000”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(3)** *Limitation on projects in the United States* Not more than 20 percent of the amounts made available from the Fund for any fiscal year may be used for projects relating to the conservation of marine turtles in the United States.
+
+## § 4. Reauthorization of the Marine Turtle Conservation Act of 2004
+
+Section 7 of the Marine Turtle Conservation Act of 2004 (16 U. S. C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2009 through 2014”.
