@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3081
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3081
@@ -125,3 +125,4 @@ Continuing Appropriations Act, 2011
 - 2009-07-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7918)
 - 2009-07-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7914)
 - 2009-07-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
