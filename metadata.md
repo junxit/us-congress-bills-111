@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2965
@@ -122,3 +122,8 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - 2009-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H7778)
 - 2009-07-08 — Velazquez amendment (A001) modified pursuant to the rule. The modification makes clarifying and technical changes.
 - 2009-07-09 — Received in the Senate, read twice.
+- 2009-07-13 — Measure laid before Senate by unanimous consent. (consideration: CR S7433-7439)
+- 2009-07-13 — Passed Senate in lieu of S. 1233 with an amendment by Unanimous Consent. (text: CR S7433-7439)
+- 2009-07-13 — Passed/agreed to in Senate: Passed Senate in lieu of S. 1233 with an amendment by Unanimous Consent.(text: CR S7433-7439)
+- 2009-07-13 — See also S. 1233.
+- 2009-07-13 — Senate struck all after the Enacting Clause and substituted the language of S. 1233 amended.

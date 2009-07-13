@@ -2,14 +2,11 @@
 legis-num: H.R. 2965
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2965
 
-> To amend the Small Business Act with respect to the Small Business Innovation Research Program and the Small Business Technology Transfer Program, and for other purposes.
+That the bill from the House of Representatives (H.R. 2965) entitled “An Act to amend the Small Business Act with respect to the Small Business Innovation Research Program and the Small Business Technology Transfer Program, and for other purposes.”, do pass with the following
 
-## § 1. Short title; table of contents
-
-- **(a)** *Short title* This Act may be cited as the “Enhancing Small Business Research and Innovation Act of 2009”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+*Strike out all after the enacting clause and insert:*
