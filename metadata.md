@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3082
@@ -96,3 +96,4 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2009-07-10 — The Speaker designated the Honorable Tammy Baldwin to act as Chairwoman of the Committee.
 - 2009-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H7991)
 - 2009-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
