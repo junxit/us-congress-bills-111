@@ -2,7 +2,7 @@
 legis-num: H. RES. 469
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 469
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas Wayman Lawrence Tisdale was born and raised in Tulsa, Oklahoma, and became a outstanding athlete as a student at Booker T. Washington High School;
+- Whereas Wayman Lawrence Tisdale was raised in Tulsa, Oklahoma, and became a outstanding athlete as a student at Booker T. Washington High School;
 - Whereas in 1982 Mr. Tisdale was named Oklahoma's only McDonald's All American and was named Converse National High School Player of the Year;
 - Whereas Mr. Tisdale’s 3-year career at the University of Oklahoma, from 1982 to 1985, has left a legacy of excellence and respect for the program and the sport of basketball;
 - Whereas Mr. Tisdale in 1983, 1984, and 1985 received the honor of being named Big Eight Player of the year for the University of Oklahoma;
