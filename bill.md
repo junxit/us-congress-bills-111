@@ -35,28 +35,43 @@ Congress finds the following:
 
 ## § 2. National Environmental Research Parks
 
-- **(a)** *Designation* The Secretary of Energy shall designate the seven National Environmental Research Parks located on Department of Energy sites, including—
+- **(a)** *Designation* The Secretary of Energy shall designate the seven National Environmental Research Parks located on Department of Energy sites as permanent protected outdoor research reserves for the purposes of conducting long-term environmental research on the impacts of human activities on the natural environment. The seven National Environmental Research Parks shall include—
   - **(1)** the Savannah River National Environmental Research Park;
   - **(2)** the Idaho National Environmental Research Park;
   - **(3)** the Los Alamos National Environmental Research Park;
   - **(4)** the Fermi Lab National Environmental Research Park;
   - **(5)** the Hanford National Environmental Research Park;
   - **(6)** the Oak Ridge National Environmental Research Park; and
-  - **(7)** the Nevada National Environmental Research Park,
-- **(b)** *Purposes* Each site shall support environmental research and monitoring activities as well as public outreach and education activities to characterize and monitor present and future site conditions, and serve as control areas for comparison with environmental impacts of Department of Energy land management, energy technology development, remediation, and other site activities outside the National Environmental Research Park areas. Areas of research and monitoring on the sites shall include—
-  - **(1)** ecology of the site and the region;
-  - **(2)** population biology and ecology;
-  - **(3)** radioecology;
-  - **(4)** ecosystem science;
-  - **(5)** pollution fate and transport research;
-  - **(6)** surface and groundwater modeling; and
-  - **(7)** undergraduate and graduate student training.
-- **(c)** *Cooperative agreement* To ensure the independence of the research, monitoring, public education, and outreach activities conducted on each site, the Secretary shall enter into a cooperative agreement with a university or consortium of universities with expertise in ecology and environmental science of the region in which the National Environmental Research Park is located.
-- **(d)** *Environmental education and outreach* Each site shall support an outreach program to inform the public of the diverse ecological activities conducted at the park and to educate students at various levels in environmental science. Program activities shall include—
+  - **(7)** the Nevada National Environmental Research Park.
+- **(b)** *Purposes* Each site shall support—
+  - **(1)** environmental research and monitoring activities to characterize and monitor present and future site conditions, and serve as control areas for comparison with environmental impacts of Department of Energy land management, energy technology development, remediation, and other site activities outside the National Environmental Research Park areas. Areas of research and monitoring on the sites may include—
+    - **(A)** ecology of the site and the region;
+    - **(B)** population biology and ecology;
+    - **(C)** radioecology;
+    - **(D)** effects of climate variability and change on ecosystems;
+    - **(E)** ecosystem science;
+    - **(F)** pollution fate and transport research;
+    - **(G)** surface and groundwater modeling; and
+    - **(H)** environmental impacts of development and use of energy generation technologies, including renewable energy technologies; and
+  - **(2)** public education and outreach activities consistent with subsection (d).
+- **(c)** *Cooperative agreement* To ensure the independence of the research, monitoring, public education, and outreach activities conducted on each site, the Secretary shall enter into a cooperative agreement with a university, community college, or consortium of institutions of higher education with expertise in ecology and environmental science of the region in which the National Environmental Research Park is located.
+- **(d)** *Environmental education and outreach* Each site shall support an outreach program to inform the public of the diverse ecological activities conducted at the park and to educate students at various levels in environmental science. Program activities may include—
   - **(1)** on-site and in-classroom education programs for elementary and secondary students;
   - **(2)** presentations to school, civic, and professional groups;
   - **(3)** exhibits at local and regional events;
   - **(4)** development of educational projects and materials for students at all levels;
-  - **(5)** undergraduate internship and graduate research opportunities; and
+  - **(5)** undergraduate and community college internships and graduate research opportunities; and
   - **(6)** regularly scheduled public tours.
-- **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy for carrying out this section $35,000,000, including $5,000,000 for each National Environmental Research Park, for each of the fiscal years 2010 through 2014.
+- **(e)** *Coordination* The Secretary of Energy shall designate a National Environmental Research Park Coordinator within the Department of Energy Office of Science. The Coordinator shall—
+  - **(1)** coordinate research activities among the National Environmental Research Parks as appropriate;
+  - **(2)** ensure that information on best practices for research, education, and outreach activities is shared among the sites; and
+  - **(3)** serve as liaison to other Federal agencies to facilitate collaborative work at the Parks.
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy, acting through the Director of the Office of Science, for carrying out this section $35,000,000, including $5,000,000 for each National Environmental Research Park, for each of the fiscal years 2010 through 2014.
+
+## § 3. Savings
+
+Nothing in this Act shall be construed to limit the activities that the Federal Government may carry out or authorize on a site on which a National Environmental Research Park is located.
+
+## § 4. Summer institutes program
+
+The National Environmental Research Parks may be utilized to provide educational opportunities through the Summer Institutes program authorized in section 3185 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381n).
