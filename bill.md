@@ -15,18 +15,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Purpose* The program under this section shall focus on—
   - **(1)** the continued improvement and development of new, cleaner, more efficient light-duty, medium-duty, and heavy-duty natural gas vehicle engines;
   - **(2)** the integration of those engines into light-duty, medium-duty, and heavy-duty natural gas vehicles for onroad and offroad applications;
-  - **(3)** expanding product availability by assisting manufacturers with the certification of the engines or vehicles described in paragraph (1) or (2) to Federal or California certification requirements and in-use emission standards;
+  - **(3)** expanding product availability by ensuring that technologies researched and developed assist engines and vehicles in meeting Federal and State requirements and standards;
   - **(4)** the demonstration and proper operation and use of the vehicles described in paragraph (2) under all operating conditions;
   - **(5)** the development and improvement of nationally recognized codes and standards for the continued safe operation of natural gas vehicles and their components;
   - **(6)** improvement in the reliability and efficiency of natural gas fueling station infrastructure;
   - **(7)** the certification of natural gas fueling station infrastructure to nationally recognized and industry safety standards;
   - **(8)** the improvement in the reliability and efficiency of onboard natural gas fuel storage systems;
   - **(9)** the development of new natural gas fuel storage materials;
-  - **(10)** the certification of onboard natural gas fuel storage systems to nationally recognized and industry safety standards; and
-  - **(11)** the use of natural gas engines in hybrid vehicles.
-- **(c)** *Certification of conversion systems* The Secretary shall coordinate with the Administrator on issues related to streamlining the certification of natural gas conversion systems to the appropriate Federal certification requirements and in-use emission standards.
-- **(d)** *Cooperation and Coordination with Industry* In developing and carrying out the program under this section, the Secretary shall coordinate with the natural gas vehicle industry to ensure cooperation between the public and the private sector.
-- **(e)** *Conduct of program* The program under this section shall be conducted in accordance with sections 3001 and 3002 of the Energy Policy Act of 1992.
-- **(f)** *Report* Not later than 2 years after the date of enactment of this Act, the Secretary shall provide a report to Congress on the implementation of this section.
-- **(g)** *Authorization of Appropriations* There are authorized to be appropriated to the Secretary $30,000,000 for each of the fiscal years 2010 through 2014 to carry out this section.
-- **(h)** *Definition* For purposes of this section, the term natural gas means compressed natural gas, liquefied natural gas, biomethane, and mixtures of hydrogen and methane or natural gas.
+  - **(10)** the certification of onboard natural gas fuel storage systems to nationally recognized and industry safety standards;
+  - **(11)** the use of natural gas engines in hybrid vehicles; and
+  - **(12)** researching and developing technologies and processes so as to improve and streamline the process by which natural gas conversion systems meet Federal and State requirements and standards.
+- **(c)** *Cooperation and Coordination with Industry* In developing and carrying out the program under this section, the Secretary shall coordinate with the natural gas vehicle industry to ensure cooperation between the public and the private sector.
+- **(d)** *Conduct of program* The program under this section shall be conducted in accordance with sections 3001 and 3002 of the Energy Policy Act of 1992.
+- **(e)** *Report* Not later than 2 years after the date of enactment of this Act, the Secretary shall provide a report to Congress on the implementation of this section.
+- **(f)** *Authorization of Appropriations* There are authorized to be appropriated to the Secretary $30,000,000 for each of the fiscal years 2010 through 2014 to carry out this section.
+- **(g)** *Definition* For purposes of this section, the term natural gas means compressed natural gas, liquefied natural gas, biomethane, and mixtures of hydrogen and methane or natural gas.
