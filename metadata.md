@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 612
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 612
@@ -83,8 +83,22 @@ Expressing the profound sympathies of the House of Representatives for the victi
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-07-14 — [House 111-1-533](votes/house-111-1-0533.md) — On Motion to Suspend the Rules and Agree — **Passed** (421–0)
+
 ## Actions
 
 - 2009-07-07 — Introduced in House
 - 2009-07-07 — Introduced in House
 - 2009-07-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-07-10 — Committee Consideration and Mark-up Session Held.
+- 2009-07-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-14 — Considered as unfinished business. (consideration: CR H8061-8062)
+- 2009-07-14 — Considered under suspension of the rules. (consideration: CR H8039-8041)
+- 2009-07-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 612.
+- 2009-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-14 — Ms. Norton moved to suspend the rules and agree to the resolution.
+- 2009-07-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 533). (text: CR H8039)
+- 2009-07-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 533).(text: CR H8039)
