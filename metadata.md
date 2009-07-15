@@ -1,7 +1,7 @@
 ---
 measure: S. 1005
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1005
@@ -30,3 +30,7 @@ Water Infrastructure Financing Act
 
 - 2009-05-07 — Introduced in Senate
 - 2009-05-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-05-14 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-07-15 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-47. Additional views filed.
+- 2009-07-15 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-47. Additional views filed.
+- 2009-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
