@@ -1,7 +1,7 @@
 ---
 measure: S. 509
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 509
@@ -24,3 +24,7 @@ A bill to authorize a major medical facility project at the Department of Vetera
 
 - 2009-03-02 — Introduced in Senate
 - 2009-03-02 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2009-07-15 — Passed Senate without amendment by Unanimous Consent. (text: CR S7573)
+- 2009-07-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7573)
+- 2009-07-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7573)
+- 2009-07-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7573)
