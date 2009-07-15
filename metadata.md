@@ -1,7 +1,7 @@
 ---
 measure: H.R. 934
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 934
@@ -50,6 +50,10 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-15 — [House 111-1-541](votes/house-111-1-0541.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–0)
+
 ## Actions
 
 - 2009-02-10 — Introduced in House
@@ -63,3 +67,11 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2009-06-23 — Placed on the Union Calendar, Calendar No. 93.
 - 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-176.
 - 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-176.
+- 2009-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-14 — Considered under suspension of the rules. (consideration: CR H8048-8050)
+- 2009-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 934.
+- 2009-07-14 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-07-15 — Considered as unfinished business. (consideration: CR H8115-8116)
+- 2009-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 541). (text: CR 7/14/2009 H8048)
+- 2009-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 541).(text: CR 7/14/2009 H8048)

@@ -13,4 +13,3 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* The first section of Public Law 93–435 (48 U.S.C. 1705) is amended by inserting “the Commonwealth of the Northern Mariana Islands,” after “Guam,” each place it appears.
 - **(b)** *References to date of enactment* For the purposes of the amendment made by subsection (a), each reference in Public Law 93–435 (48 U.S.C. 1705) to the “date of enactment” shall be considered to be a reference to the date of the enactment of this section.
-- **(c)** Nothing in this section amends, repeals, or otherwise alters the Proclamation of the President dated January 6, 2009, establishing the Marianas Trench Marine National Monument.
