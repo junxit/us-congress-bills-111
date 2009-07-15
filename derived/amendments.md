@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1044
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (c) as subsection (f); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following new subsections: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), (as redesignated by paragraph (1)), by striking “Secretary of the Navy to provide public access to the Memorial.” and inserting “Secretary of Defense to provide as much public access as possible to the Memorial without… | the bill names no machine-readable US Code section |
+| — | replace | Section 203 of the Port Chicago National Memorial Act of 1992 (Public Law 102–562; 16 U.S.C. 431; 106 Stat. 4235) is amended by striking subsection (c) and inserting the following new subsections: | the bill names no machine-readable US Code section |
