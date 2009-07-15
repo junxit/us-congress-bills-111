@@ -1,7 +1,7 @@
 ---
 measure: H.R. 762
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 762
@@ -25,6 +25,10 @@ To validate final patent number 27-2005-0081, and for other purposes.
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-15 — [House 111-1-542](votes/house-111-1-0542.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–0)
+
 ## Actions
 
 - 2009-01-28 — Introduced in House
@@ -38,3 +42,11 @@ To validate final patent number 27-2005-0081, and for other purposes.
 - 2009-06-23 — Placed on the Union Calendar, Calendar No. 95.
 - 2009-06-23 — Reported by the Committee on Natural Resources. H. Rept. 111-178.
 - 2009-06-23 — Reported by the Committee on Natural Resources. H. Rept. 111-178.
+- 2009-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-14 — Considered under suspension of the rules. (consideration: CR H8050-8051)
+- 2009-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 762.
+- 2009-07-14 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2009-07-15 — Considered as unfinished business. (consideration: CR H8116-8117)
+- 2009-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 542). (text: CR 7/15/2009 H8050-8051)
+- 2009-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 542).(text: CR 7/15/2009 H8050-8051)
