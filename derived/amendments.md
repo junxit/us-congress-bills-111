@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3170
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 122(g)(1) of Public Law 105–119 (5 U.S.C. 3104 note), is further amended by striking “11 years” and inserting “12 years.” | the bill names no machine-readable US Code section |
+| — | replace | Section 122(g)(1) of Public Law 105–119 (5 U.S.C. 3104 note), is further amended by striking “11 years” and inserting “12 years”. | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence (relating to the District of Kansas), by striking “18 years” and inserting “19 years”; and | the bill names no machine-readable US Code section |
 | — | replace | in the sixth sentence (relating to the Northern District of Ohio), by striking “18 years” and inserting “19 years”. | the bill names no machine-readable US Code section |
-| — | amend | Section 101(a)(1) of the Federal and District of Columbia Government Real Property Act of 2006 (Public Law 109-396; 120 Stat. 2711) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 101(a)(1) of the Federal and District of Columbia Government Real Property Act of 2006 (Public Law 109–396; 120 Stat. 2711) is amended to read as follows: | the bill names no machine-readable US Code section |
