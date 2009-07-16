@@ -35,11 +35,11 @@ Title XIII of the International Financial Institutions Act (22 U.S.C. 262m et se
 >   - **(5)** considering global social costs of the emissions when evaluating the economic cost benefit of such projects; and
 >   - **(6)** performing greenhouse gas accounting for each such project.
 > - **(c)** *Expansion of climate change mitigation activities* The Secretary of the Treasury shall work to ensure that the multilateral development banks (as defined in section 1701(c)(4)) expand their activities supporting climate change mitigation by—
->   - **(1)** expending support for investments in energy efficiency and renewable energy;
+>   - **(1)** expending support for low-cost, high-gain investments in energy efficiency and renewable energy;
 >   - **(2)** reviewing all proposed infrastructure investments to ensure that all opportunities for integrating viable energy efficiency measures have been considered;
 >   - **(3)** increasing the dialogue with the governments of developing countries regarding—
 >     - **(A)** analysis and policy measures needed for low carbon emission economic development; and
->     - **(B)** reforms needed to promote private sector engagement in renewable and energy efficiency investments; and
+>     - **(B)** reforms needed to promote private sector engagement in low-cost, high-gain renewable and energy efficiency investments; and
 >   - **(4)** integrate low carbon emission economic development objectives into multilateral development bank country strategies.
 > - **(d)** *Report to Congress* Not later than 1 year after the date of the enactment of this section, and annually thereafter, the Secretary of the Treasury shall submit a report on the status of efforts to implement this section to the Committee on Foreign Relations of the Senate and the Committee on Financial Services of the House of Representatives.
 
