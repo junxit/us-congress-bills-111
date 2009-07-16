@@ -1,0 +1,38 @@
+---
+legis-num: S. 1467
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1467
+
+> To amend title 38, United States Code, to provide coverage under Traumatic Servicemembers' Group Life Insurance for adverse reactions to vaccinations administered by the Department of Defense, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Lance Corporal Josef Lopez Fairness for Servicemembers Harmed by Vaccines Act of 2009”.
+
+## § 2. Traumatic Servicemembers' Group Life Insurance coverage for adverse reactions to vaccinations administered by Department of Defense
+
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** Section 1032 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13), which was enacted on May 11, 2005, established the Traumatic Servicemember’s Group Life Insurance program by adding section 1980A to title 38, United States Code.
+  - **(2)** The Traumatic Servicemember's Group Life Insurance program was established to provide members of the Armed Forces who suffer a loss as a direct result of traumatic injury with short-term monetary assistance to mitigate the economic burden on such members and their families. The families of such members often incur financial hardships because they relocate to be with such members as they undergo long and difficult treatment and rehabilitation periods.
+  - **(3)** The Secretary of Veterans Affairs is the executive agent for the Traumatic Servicemember’s Group Life Insurance benefit and has established policies and procedures for dispensing the benefit based on the Secretary's interpretation of section 1980A of title 38, United States Code.
+  - **(4)** The Department of Veterans Affairs Insurance Center has implemented a policy that does not extend the Traumatic Servicemember’s Group Life Insurance benefit to those members of the Armed Forces who sustain a life altering and permanent disability caused by an adverse reaction to a vaccine administered by the Department of Defense as a component of accessions, training, or pre-deployment preparations for duty in a combat or imminent danger zone.
+  - **(5)** There are multiple documented cases of members of the Armed Forces suffering severe, adverse reactions to vaccinations administered by the Department of Defense. Such adverse reactions include the traumatic injuries of coma, amputation, paralysis, and loss of the activities of daily living (ADL). All such adverse reactions are covered under existing Traumatic Servicemember’s Group Life Insurance program guidelines.
+  - **(6)** Lance Corporal Josef Lopez is a Marine from Springfield, Missouri, who, in September 2006, was administered a smallpox vaccination by the Department of Defense just prior to a deployment to Iraq. One week after his arrival in Iraq, Lance Corporal Lopez suffered complete paralysis, a coma, and the loss of two activities of daily living, all of which were subsequently diagnosed as resulting from a rare adverse reaction to the smallpox vaccine.
+  - **(7)** Lance Corporal Lopez was medically evacuated from Iraq to Landstuhl, Germany, and ultimately to the National Naval Medical Center at Bethesda, Maryland, where he remained for six weeks. Lance Corporal Lopez later endured multiple hospitalizations and physical therapy treatments in his native Missouri.
+  - **(8)** Lance Corporal Lopez was wheelchair-bound for one year and now walks with a permanent limp, is unable to stand for long periods, and must use a urine collection bag because he has no control over his bladder. Daily, Lance Corporal Lopez must take prescription medications to control spasms in his legs and bladder. These injuries and issues are a result of Lance Corporal Lopez's adverse reaction to the smallpox vaccine described in paragraph (6).
+  - **(9)** Lance Corporal Lopez was medically retired from the Marine Corps on June 30, 2009.
+  - **(10)** During the course of the treatment that Lance Corporal Lopez received for the adverse reaction described in paragraph (6), he and his family endured substantial hardship. His mother spent extensive periods at Lance Corporal Lopez’s side during his initial treatment and she had to make expensive modifications to her home to accommodate Lance Corporal Lopez’s wheelchair.
+  - **(11)** Lance Corporal Lopez's mother represents the very finest attributes of love and loyalty to her heroic son to whom she has provided care and assistance. Such care and assistance is critical for the healing of injured members of the Armed Forces like Lance Corporal Lopez. The provision of such care and assistance by family members is encouraged and recognized by the Armed Forces, by healthcare providers, and by the Congress as highly valuable for the care of injured members of the Armed Forces.
+  - **(12)** Lance Corporal Lopez applied for Traumatic Servicemember’s Group Life Insurance benefits because his injuries resulted in qualifying losses under the Traumatic Servicemember’s Group Life Insurance program, including coma, paralysis, and loss of activities of daily living. Under the Traumatic Servicemember’s Group Life Insurance program as in effect on the day before the date of the enactment of this Act, Lance Corporal Lopez and his family would have received $75,000 in associated benefits if his claim was accepted. However, his claim was denied because the current policy of the Department of Veterans Affairs Insurance Center prohibits extending Traumatic Servicemember’s Group Life Insurance benefits to those who have adverse reactions to vaccinations administered by the Department of Defense to facilitate military service in combat theaters.
+  - **(13)** Lance Corporal Lopez and his family endured undue financial hardship in the time immediately following his traumatic injuries and during his recovery process. They were not able to mitigate the financial challenges they faced with assistance from the Traumatic Servicemember’s Group Life Insurance program, which was created to provide assistance to families of members of the Armed Forces when facing the challenges of traumatic events precisely like that experienced by Lance Corporal Lopez.
+  - **(14)** The policy of the Department of Veterans Affairs in effect on the day before the date of the enactment of this Act that denies Traumatic Servicemember’s Group Life Insurance benefits to members of the Armed Forces who experience traumatic injuries as a result of being administered vaccines consequent to their preparation to serve the United States in combat is inconsistent with the intent of the Traumatic Servicemember’s Group Life Insurance program, as enacted by Congress.
+- **(b)** *Traumatic Servicemembers' Group Life Insurance coverage* Section 1980A(b)(3) of title 38, United States Code, is amended—
+  - **(1)** by striking “The Secretary” and inserting “(A) Except as provided in subparagraph (B), the Secretary”; and
+  - **(2)** by adding at the end the following new subparagraph:
+    > - **(B)** The Secretary shall not exclude under subparagraph (A) a qualifying loss experienced by a member as a result of an adverse reaction to a vaccination administered by the Department of Defense, whether voluntarily or involuntarily, for the purposes of military accession, training, or deployment.
+
+- **(c)** *Effective date* The amendments made by subsection (b) shall take effect as if included in the provisions of and amendments made by section 1032 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 257).
