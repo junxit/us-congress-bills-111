@@ -2,12 +2,12 @@
 legis-num: H. RES. 476
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 476
 
-> Celebrating the 30th anniversary of June as “Black Music Month”.
+> Celebrating the goals and ideals of “Black Music Month”.
 
 ## Preamble
 
@@ -29,7 +29,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Hitsville USA produced an astonishing amount of Top 100 hits that spanned over three decades and by the 1970s was the largest independent record company in the world;
 - Whereas by the 1970s and 80s, new genres of music emerged in the form of funk, rhythm and blues, hip hop, and rap in cities across the country including Los Angeles, Philadelphia, New York City, and Atlanta;
 - Whereas African-American music illustrates exceptional musicianship;
-- Whereas African-American composers, writers, singers, instrumentalists, and producers are at the top of many charts and in the Gospel Music Hall of Fame, the Blues Hall of Fame, and the Rock and Roll Hall of Fame; and
-- Whereas African-American music embodies an original expression of the human experience by entertaining, inspiring, and stirring countless people in the United States and around the world: Now, therefore, be it
+- Whereas African-American composers, writers, singers, instrumentalists, and producers are at the top of many charts and in the Gospel Music Hall of Fame, the Blues Hall of Fame, and the Rock and Roll Hall of Fame;
+- Whereas African-American music embodies an original expression of the human experience by entertaining, inspiring, and stirring countless people in the United States and around the world; and
+- Whereas June 2009 marks the 30th anniversary of “Black Music Month”: Now, therefore, be it
 
-That the House of Representatives celebrates the 30th anniversary of “Black Music Month”.
+That the House of Representatives celebrates the goals and ideals of “Black Music Month”.
