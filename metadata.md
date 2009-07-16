@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1604
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1604
@@ -16,7 +16,7 @@ Universal Right to Vote by Mail Act of 2009
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (32)
+## Cosponsors (50)
 
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
@@ -50,6 +50,24 @@ Universal Right to Vote by Mail Act of 2009
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Berry, Marion [D-AR-1] (B000420)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
 ## Committees (1)
 
@@ -61,3 +79,8 @@ Universal Right to Vote by Mail Act of 2009
 - 2009-03-19 — Introduced in House
 - 2009-03-19 — Referred to the House Committee on House Administration.
 - 2009-03-19 — Sponsor introductory remarks on measure. (CR E715)
+- 2009-06-10 — Committee Consideration and Mark-up Session Held.
+- 2009-06-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 4 - 2.
+- 2009-07-16 — Placed on the Union Calendar, Calendar No. 115.
+- 2009-07-16 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-211.
+- 2009-07-16 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-211.
