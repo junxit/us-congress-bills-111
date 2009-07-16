@@ -1,7 +1,7 @@
 ---
 measure: H.R. 409
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 409
@@ -20,6 +20,10 @@ To provide for the conveyance of certain Bureau of Land Management land in the S
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-16 — [House 111-1-551](votes/house-111-1-0551.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (406–0)
+
 ## Actions
 
 - 2009-01-09 — Introduced in House
@@ -33,3 +37,11 @@ To provide for the conveyance of certain Bureau of Land Management land in the S
 - 2009-07-10 — Placed on the Union Calendar, Calendar No. 106.
 - 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-199.
 - 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-199.
+- 2009-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-14 — Considered under suspension of the rules. (consideration: CR H8058-8059)
+- 2009-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 409.
+- 2009-07-14 — Mr. Baca moved to suspend the rules and pass the bill, as amended.
+- 2009-07-16 — Considered as unfinished business. (consideration: CR H8202-8203)
+- 2009-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 551). (text: CR 7/14/2009 H8058-8059)
+- 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 551).(text: CR 7/14/2009 H8058-8059)
