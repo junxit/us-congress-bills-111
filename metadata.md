@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3183
@@ -20,9 +20,237 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 
 - House — Appropriations Committee
 
+## Recorded votes (20)
+
+- 2009-07-15 — [House 111-1-543](votes/house-111-1-0543.md) — On Agreeing to the Amendment — **Agreed to** (261–172)
+- 2009-07-15 — [House 111-1-544](votes/house-111-1-0544.md) — On Agreeing to the Amendment — **Agreed to** (362–69)
+- 2009-07-15 — [House 111-1-545](votes/house-111-1-0545.md) — On Agreeing to the Amendment — **Agreed to** (432–0)
+- 2009-07-15 — [House 111-1-546](votes/house-111-1-0546.md) — On Agreeing to the Amendment — **Agreed to** (429–4)
+- 2009-07-15 — [House 111-1-547](votes/house-111-1-0547.md) — On Agreeing to the Amendment — **Agreed to** (431–1)
+- 2009-07-17 — [House 111-1-578](votes/house-111-1-0578.md) — On Agreeing to the Amendment — **Agreed to** (424–0)
+- 2009-07-17 — [House 111-1-579](votes/house-111-1-0579.md) — On Agreeing to the Amendment — **Agreed to** (423–1)
+- 2009-07-17 — [House 111-1-580](votes/house-111-1-0580.md) — On Agreeing to the Amendment — **Failed** (167–259)
+- 2009-07-17 — [House 111-1-581](votes/house-111-1-0581.md) — On Agreeing to the Amendment — **Failed** (121–303)
+- 2009-07-17 — [House 111-1-582](votes/house-111-1-0582.md) — On Agreeing to the Amendment — **Failed** (89–338)
+- 2009-07-17 — [House 111-1-583](votes/house-111-1-0583.md) — On Agreeing to the Amendment — **Failed** (89–335)
+- 2009-07-17 — [House 111-1-584](votes/house-111-1-0584.md) — On Agreeing to the Amendment — **Failed** (102–318)
+- 2009-07-17 — [House 111-1-585](votes/house-111-1-0585.md) — On Agreeing to the Amendment — **Failed** (125–301)
+- 2009-07-17 — [House 111-1-586](votes/house-111-1-0586.md) — On Agreeing to the Amendment — **Failed** (81–341)
+- 2009-07-17 — [House 111-1-587](votes/house-111-1-0587.md) — On Agreeing to the Amendment — **Failed** (111–316)
+- 2009-07-17 — [House 111-1-588](votes/house-111-1-0588.md) — On Agreeing to the Amendment — **Failed** (133–290)
+- 2009-07-17 — [House 111-1-589](votes/house-111-1-0589.md) — On Agreeing to the Amendment — **Failed** (128–299)
+- 2009-07-17 — [House 111-1-590](votes/house-111-1-0590.md) — On Agreeing to the Amendment — **Failed** (119–308)
+- 2009-07-17 — [House 111-1-591](votes/house-111-1-0591.md) — On Motion to Recommit with Instructions — **Failed** (30–388)
+- 2009-07-17 — [House 111-1-592](votes/house-111-1-0592.md) — On Passage — **Passed** (320–97)
+
 ## Actions
 
 - 2009-07-13 — Introduced in House
 - 2009-07-13 — Placed on the Union Calendar, Calendar No. 110.
 - 2009-07-13 — The House Committee on Appropriations reported an original measure, H. Rept. 111-203, by Mr. Pastor (AZ).
 - 2009-07-13 — The House Committee on Appropriations reported an original measure, H. Rept. 111-203, by Mr. Pastor (AZ).
+- 2009-07-14 — Rules Committee Resolution H. Res. 645 Reported to House. Rule provides for consideration of H.R. 3183 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived.
+- 2009-07-15 — Amendment (A001) offered by Mr. Pastor (AZ). (consideration: CR H8133-8134, H8143-8144; text: CR H8133)
+- 2009-07-15 — Amendment (A002) offered by Mr. Connolly (VA). (consideration: CR H8134-8135, H8144; text: CR H8134)
+- 2009-07-15 — Amendment (A003) offered by Mr. Wamp. (consideration: CR H8135-8136; text: CR H8135)
+- 2009-07-15 — Amendment (A004) offered by Mr. Hastings (WA). (consideration: CR H8136-8137, H8144-8145; text: CR H8136)
+- 2009-07-15 — Amendment (A005) offered by Mr. Costa. (consideration: CR H8137; text: CR H8137)
+- 2009-07-15 — Amendment (A006) offered by Mr. Cardoza. (consideration: CR H8137-8138; text: CR H8138)
+- 2009-07-15 — Amendment (A007) offered by Mr. Boren. (consideration: CR H8138-8140, H8145-8146; text: CR H8138-8139)
+- 2009-07-15 — Amendment (A008) offered by Mrs. Miller (MI). (consideration: CR H8140-8141, H8146-8147; text: CR H8140)
+- 2009-07-15 — Amendment (A009) offered by Mr. Heinrich. (consideration: CR H8141-8142; text: CR H8141)
+- 2009-07-15 — Amendment (A010) offered by Mr. Cao. (consideration: CR H8142; text: CR H8142)
+- 2009-07-15 — Amendment (A011) offered by Mrs. Blackburn. (consideration: CR H8142-8143; text: CR H8142)
+- 2009-07-15 — Amendment (A012) offered by Mr. Campbell. (consideration: CR H8147-8148; text: CR H8147)
+- 2009-07-15 — Amendment (A013) offered by Mr. Flake. (consideration: CR H8148-8149; text: CR H8148)
+- 2009-07-15 — Amendment (A014) offered by Mr. Flake. (consideration: CR H8149-8151; text: CR H8149-8150; text as modified: CR H8150)
+- 2009-07-15 — Amendment (A015) offered by Mr. Flake. (consideration: CR H8151-8152; text: CR H8151)
+- 2009-07-15 — Amendment (A016) offered by Mr. Flake. (consideration: CR H8152-8153; text: CR H8152)
+- 2009-07-15 — Amendment (A017) offered by Mr. Flake. (consideration: CR H8153-8155; text: CR H8153-8154)
+- 2009-07-15 — Amendment (A018) offered by Mr. Flake. (consideration: CR H8155-8156; text: CR H8155)
+- 2009-07-15 — Amendment (A019) offered by Mr. Hensarling. (consideration: CR H8156-8157; text: CR H8156)
+- 2009-07-15 — Amendment (A020) offered by Mr. Hensarling. (consideration: CR H8157-8158; text: CR H8157)
+- 2009-07-15 — Amendment (A021) offered by Mr. Hensarling. (consideration: CR H8158-8159; text: CR H8158)
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Amendment agreed to Committee of the Whole
+- 2009-07-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 3183 as unfinished business.
+- 2009-07-15 — Considered under the provisions of rule H. Res. 645. (consideration: CR H8117-8159; text of measure as reported in House: CR H8126-8133)
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Boren amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell amendment No. 2.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Cao amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Cardoza amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 1.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 10.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 11.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 3.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 4.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 5.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (WA) amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Heinrich amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 1.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 1.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 2.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 4.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Miller(MI) amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Pastor amendment.
+- 2009-07-15 — DEBATE - Pursuant to the provisions of H. Res. 645, the Committee of the Whole proceeded with 10 minutes of debate on the Wamp amendment.
+- 2009-07-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3183.
+- 2009-07-15 — House amendment agreed to: On agreeing to the Boren amendment (A007) Agreed to by recorded vote: 429 - 4 (Roll no. 546).
+- 2009-07-15 — House amendment agreed to: On agreeing to the Cardoza amendment (A006) Agreed to by voice vote.
+- 2009-07-15 — House amendment agreed to: On agreeing to the Connolly (VA) amendment (A002) Agreed to by recorded vote: 362 - 69 (Roll no. 544).
+- 2009-07-15 — House amendment agreed to: On agreeing to the Costa amendment (A005) Agreed to by voice vote.
+- 2009-07-15 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A004) Agreed to by recorded vote: 432 - 0 (Roll no. 545).
+- 2009-07-15 — House amendment agreed to: On agreeing to the Miller (MI) amendment (A008) Agreed to by recorded vote: 431 - 1 (Roll no. 547).
+- 2009-07-15 — House amendment agreed to: On agreeing to the Pastor (AZ) amendment (A001) Agreed to by recorded vote: 261 - 172 (Roll no. 543).
+- 2009-07-15 — House amendment agreed to: On agreeing to the Wamp amendment (A003) Agreed to by voice vote.
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered
+- 2009-07-15 — House amendment offered/reported by : Amendment (A001) offered by Mr. Pastor (AZ).(consideration: CR H8133-8134, H8143-8144; text: CR H8133)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A002) offered by Mr. Connolly (VA).(consideration: CR H8134-8135, H8144; text: CR H8134)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A003) offered by Mr. Wamp.(consideration: CR H8135-8136; text: CR H8135)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A004) offered by Mr. Hastings (WA).(consideration: CR H8136-8137, H8144-8145; text: CR H8136)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A005) offered by Mr. Costa.(consideration: CR H8137; text: CR H8137)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A006) offered by Mr. Cardoza.(consideration: CR H8137-8138; text: CR H8138)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A007) offered by Mr. Boren.(consideration: CR H8138-8140, H8145-8146; text: CR H8138-8139)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Miller (MI).(consideration: CR H8140-8141, H8146-8147; text: CR H8140)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A009) offered by Mr. Heinrich.(consideration: CR H8141-8142; text: CR H8141)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A010) offered by Mr. Cao.(consideration: CR H8142; text: CR H8142)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A011) offered by Mrs. Blackburn.(consideration: CR H8142-8143; text: CR H8142)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A012) offered by Mr. Campbell.(consideration: CR H8147-8148; text: CR H8147)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A013) offered by Mr. Flake.(consideration: CR H8148-8149; text: CR H8148)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A014) offered by Mr. Flake.(consideration: CR H8149-8151; text: CR H8149-8150; text as modified: CR H8150)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A015) offered by Mr. Flake.(consideration: CR H8151-8152; text: CR H8151)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A016) offered by Mr. Flake.(consideration: CR H8152-8153; text: CR H8152)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A017) offered by Mr. Flake.(consideration: CR H8153-8155; text: CR H8153-8154)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A018) offered by Mr. Flake.(consideration: CR H8155-8156; text: CR H8155)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A019) offered by Mr. Hensarling.(consideration: CR H8156-8157; text: CR H8156)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A020) offered by Mr. Hensarling.(consideration: CR H8157-8158; text: CR H8157)
+- 2009-07-15 — House amendment offered/reported by : Amendment (A021) offered by Mr. Hensarling.(consideration: CR H8158-8159; text: CR H8158)
+- 2009-07-15 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 645 and Rule XVIII.
+- 2009-07-15 — Mr. Pastor (AZ) moved that the Committee now rise.
+- 2009-07-15 — On agreeing to the Boren amendment (A007) Agreed to by recorded vote: 429 - 4 (Roll no. 546).
+- 2009-07-15 — On agreeing to the Cardoza amendment (A006) Agreed to by voice vote.
+- 2009-07-15 — On agreeing to the Connolly (VA) amendment (A002) Agreed to by recorded vote: 362 - 69 (Roll no. 544).
+- 2009-07-15 — On agreeing to the Costa amendment (A005) Agreed to by voice vote.
+- 2009-07-15 — On agreeing to the Hastings (WA) amendment (A004) Agreed to by recorded vote: 432 - 0 (Roll no. 545).
+- 2009-07-15 — On agreeing to the Miller (MI) amendment (A008) Agreed to by recorded vote: 431 - 1 (Roll no. 547).
+- 2009-07-15 — On agreeing to the Pastor (AZ) amendment (A001) Agreed to by recorded vote: 261 - 172 (Roll no. 543).
+- 2009-07-15 — On agreeing to the Wamp amendment (A003) Agreed to by voice vote.
+- 2009-07-15 — On motion that the Committee now rise Agreed to by voice vote.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boren amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cao amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heinrich amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller(MI) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pastor amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-07-15 — Roll call votes on amendments in House
+- 2009-07-15 — Roll call votes on amendments in House
+- 2009-07-15 — Roll call votes on amendments in House
+- 2009-07-15 — Roll call votes on amendments in House
+- 2009-07-15 — Roll call votes on amendments in House
+- 2009-07-15 — Rule H. Res. 645 passed House.
+- 2009-07-15 — Rule provides for consideration of H.R. 3183 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived.
+- 2009-07-15 — The Speaker designated the Honorable John F. Tierney to act as Chairman of the Committee.
+- 2009-07-17 — Amendment agreed to Committee of the Whole
+- 2009-07-17 — Amendment agreed to Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Amendment failed in Committee of the Whole
+- 2009-07-17 — Considered as unfinished business. (consideration: CR H8328-8340)
+- 2009-07-17 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Simpson motion to recommit with instructions. The instructions contained in the motion seek to strike the sections titled "Nuclear Waste Disposal" and "Defense Nuclear Waste Disposal" from the bill.
+- 2009-07-17 — House amendment agreed to: On agreeing to the Cao amendment (A010) Agreed to by recorded vote: 423 - 1 (Roll no. 579).(consideration: CR H8329-8330; text: CR H8329)
+- 2009-07-17 — House amendment agreed to: On agreeing to the Heinrich amendment (A009) Agreed to by recorded vote: 424 - 0, 1 Present (Roll no. 578).(consideration: CR H8328-8329; text: CR H8328)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Blackburn amendment (A011) Failed by recorded vote: 167 - 259 (Roll no. 580).(consideration: CR H8330; text: CR H8330)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Campbell amendment (A012) Failed by recorded vote: 121 - 303 (Roll no. 581).(consideration: CR H8330-8331; text: CR H8330)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A013) Failed by recorded vote: 89 - 338 (Roll no. 582).(consideration: CR H8331-8332; text: CR H8331)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A014) Failed by recorded vote: 89 - 335 (Roll no. 583).(consideration: CR H8332; text: CR H8332)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A015) Failed by recorded vote: 102 - 318 (Roll no. 584).(consideration: CR H8332-8333; text: CR H8333)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A016) Failed by recorded vote: 125 - 301 (Roll no. 585).(consideration: CR H8333-8334; text: CR H8333)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A017) Failed by recorded vote: 81 - 341 (Roll no. 586).(consideration: CR H8334-8335; text: CR H8334)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Flake amendment (A018) Failed by recorded vote: 111 - 316 (Roll no. 587).(consideration: CR H8335; text: CR H8335)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Hensarling amendment (A019) Failed by recorded vote: 133 - 290 (Roll no. 588).(consideration: CR H8335-8336; text: CR H8336)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Hensarling amendment (A020) Failed by recorded vote: 128 - 299 (Roll no. 589).(consideration: CR H8336-8337; text: CR H8336)
+- 2009-07-17 — House amendment not agreed to: On agreeing to the Hensarling amendment (A021) Failed by recorded vote: 119 - 308 (Roll no. 590).(consideration: CR H8337-8338; text: CR H8337)
+- 2009-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-17 — Mr. Simpson moved to recommit with instructions to Appropriations. (consideration: CR H8338-8339; text: CR H8338)
+- 2009-07-17 — On agreeing to the Blackburn amendment (A011) Failed by recorded vote: 167 - 259 (Roll no. 580). (consideration: CR H8330; text: CR H8330)
+- 2009-07-17 — On agreeing to the Campbell amendment (A012) Failed by recorded vote: 121 - 303 (Roll no. 581). (consideration: CR H8330-8331; text: CR H8330)
+- 2009-07-17 — On agreeing to the Cao amendment (A010) Agreed to by recorded vote: 423 - 1 (Roll no. 579). (consideration: CR H8329-8330; text: CR H8329)
+- 2009-07-17 — On agreeing to the Flake amendment (A013) Failed by recorded vote: 89 - 338 (Roll no. 582). (consideration: CR H8331-8332; text: CR H8331)
+- 2009-07-17 — On agreeing to the Flake amendment (A014) Failed by recorded vote: 89 - 335 (Roll no. 583). (consideration: CR H8332; text: CR H8332)
+- 2009-07-17 — On agreeing to the Flake amendment (A015) Failed by recorded vote: 102 - 318 (Roll no. 584). (consideration: CR H8332-8333; text: CR H8333)
+- 2009-07-17 — On agreeing to the Flake amendment (A016) Failed by recorded vote: 125 - 301 (Roll no. 585). (consideration: CR H8333-8334; text: CR H8333)
+- 2009-07-17 — On agreeing to the Flake amendment (A017) Failed by recorded vote: 81 - 341 (Roll no. 586). (consideration: CR H8334-8335; text: CR H8334)
+- 2009-07-17 — On agreeing to the Flake amendment (A018) Failed by recorded vote: 111 - 316 (Roll no. 587). (consideration: CR H8335; text: CR H8335)
+- 2009-07-17 — On agreeing to the Heinrich amendment (A009) Agreed to by recorded vote: 424 - 0, 1 Present (Roll no. 578). (consideration: CR H8328-8329; text: CR H8328)
+- 2009-07-17 — On agreeing to the Hensarling amendment (A019) Failed by recorded vote: 133 - 290 (Roll no. 588). (consideration: CR H8335-8336; text: CR H8336)
+- 2009-07-17 — On agreeing to the Hensarling amendment (A020) Failed by recorded vote: 128 - 299 (Roll no. 589). (consideration: CR H8336-8337; text: CR H8336)
+- 2009-07-17 — On agreeing to the Hensarling amendment (A021) Failed by recorded vote: 119 - 308 (Roll no. 590). (consideration: CR H8337-8338; text: CR H8337)
+- 2009-07-17 — On motion to recommit with instructions Failed by recorded vote: 30 - 388 (Roll no. 591). (consideration: CR H8339-8340)
+- 2009-07-17 — On passage Passed by the Yeas and Nays: 320 - 97 (Roll no. 592).
+- 2009-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 320 - 97 (Roll no. 592).
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — Roll call votes on amendments in House
+- 2009-07-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2009-07-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-07-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3183.
+- 2009-07-17 — The previous question was ordered pursuant to the rule. (consideration: CR H8338)
