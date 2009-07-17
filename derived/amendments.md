@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1018
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -104,7 +104,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “pursuant to section 3(h)” after “agents of the Secretary” . | the bill names no machine-readable US Code section |
 | — | insert | Section 6 (16 U.S.C. 1336) is amended by inserting “and other private entities” after “landowners”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “nine” and inserting “12”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “Governments” and all that follows “management.” and inserting “Governments and shall include at a minimum three representatives of the livestock industry; three representatives of the environmental community; three represent… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Governments” and all that follows “management.” and inserting “Governments and shall include three representatives of the livestock industry; three representatives of the environmental community; three representatives of the… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new sentence: “Nomination of members of the board shall be conducted by public notice and comment in accordance with the Federal Advisory Committee Act (5 U.S.C. Appendix) and shall be for a term of fou… | the bill names no machine-readable US Code section |
 | — | replace | by striking “Any person who” and inserting “(a) Any person who”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “except as provided in section 3(e),”; | the bill names no machine-readable US Code section |

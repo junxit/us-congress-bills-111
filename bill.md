@@ -85,7 +85,7 @@ Section 2 (16 U.S.C. 1332) is amended—
     - **(A)** by striking “on any such lands shall take” and inserting “are made after taking”; and
     - **(B)** by striking “which inhabit such lands.” and inserting “; and”.
   - **(12)** At the end of such subsection, add the following:
-    > - **(7)** ensure that the acreage available for wild and free-roaming horses and burros shall never be less than the acreage where wild and free-roaming horses and burros were found in 1971.
+    > - **(7)** ensure that, to the extent practicable, the acreage available for wild and free-roaming horses and burros shall never be less than the acreage where wild and free-roaming horses and burros were found in 1971.
 
 - **(b)** Subsection (b)(1) of section 3 is amended as follows:
   - **(1)** By striking “(b)(1) The Secretary shall” and inserting the following:
@@ -123,7 +123,7 @@ Section 2 (16 U.S.C. 1332) is amended—
     > - **(7)** Identify new, appropriate rangeland for wild free roaming horses and burros, including use of land acquisitions, exchanges, conservation easements, voluntary grazing buyouts, and agreements with private landowners to allow for the federally supervised protection of wild horses and burros on private lands, except that the Secretary shall assess the effects of new range for wild free-roaming horses and burros on rangeland health, riparian zones, water quality, soil compaction, seed bed disturbance, native wildlife, and endangered or threatened species and transmit the results of the assessment to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
     > - **(8)** Establish sanctuaries or exclusive use areas, except that the Secretary shall assess the effects of sanctuaries or exclusive use areas for wild free-roaming horses and burros on rangeland health, riparian zones, water quality, soil compaction, seed bed disturbance, native wildlife and endangered or threatened species and transmit the results of the assessment to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
     > - **(9)** In identifying or designating any new rangeland, or establishing any sanctuary or exclusive use area for wild free-roaming horses and burros, the Secretary of the Interior and the Secretary of Agriculture shall take into account and avoid any potential conflicts with wind, solar, geothermal, oil, natural gas, energy transmission, and mineral resources potential of the lands affected by the identification, designation, or establishment.
-    > - **(10)** Research, develop, and implement enhanced surgical or immunocontraception sterilization or other safe methods of fertility control.
+    > - **(10)** Research, develop, and implement enhanced fertility control for mares, stallions, or both, such as surgical or immunocontraception sterilization or other safe, humane, and effective methods of fertility control.
 
 - **(c)** In subsection (b) of section 3, by striking “(2) Where” and inserting “(d) If”.
 - **(d)** In subsection (d) (as so designated) of section 3—
@@ -138,7 +138,7 @@ Section 2 (16 U.S.C. 1332) is amended—
     - **(A)** by striking “animals” the first two places it appears and inserting “wild free-roaming horses and burros”;
     - **(B)** by striking “such” the first place it appears and inserting “the”; and
     - **(C)** by striking “and” after the semicolon and adding the following:
-      > - **(2)** each individual adopter shall execute an appropriate attestation, pursuant to section 1001 of title 18, United States Code, affirming that adopted animals and their remains shall not be used for commercial purposes; and
+      > - **(2)** each individual adopter shall execute an appropriate attestation, pursuant to section 1001 of title 18, United States Code, affirming that adopted animals or their remains shall not be sold or transferred for consideration for processing into commercial products; and
       > - **(3)** wild free-roaming horses and burros may not be contained in corrals or short-term holding facilities for more than 6 months while awaiting disposition.
 
   - **(6)** by striking subparagraph (C) and paragraph (3).
@@ -197,7 +197,7 @@ Section 6 (16 U.S.C. 1336) is amended by inserting “and other private entities
 Section 7 (16 U.S.C. 1337) is amended—
 
 - **(1)** by striking “nine” and inserting “12”;
-- **(2)** by striking “Governments” and all that follows “management.” and inserting “Governments and shall include at a minimum three representatives of the livestock industry; three representatives of the environmental community; three representatives of the animal protection community; and three scientists with expertise in wildlife management, animal husbandry, or natural resource management.”; and
+- **(2)** by striking “Governments” and all that follows “management.” and inserting “Governments and shall include three representatives of the livestock industry; three representatives of the environmental community; three representatives of the animal protection community; and three scientists with expertise in wildlife management, animal husbandry, or natural resource management.”; and
 - **(3)** by adding at the end the following new sentence: “Nomination of members of the board shall be conducted by public notice and comment in accordance with the Federal Advisory Committee Act (5 U.S.C. Appendix) and shall be for a term of four years. No individual shall serve more then two consecutive terms.” .
 
 ## § 9. Criminal provisions
@@ -231,7 +231,7 @@ Section 10 (as so redesignated by section 10 of this Act) is amended as follows:
   >   - **(E)** a description of the methods used to determine the wild free-roaming horse and burro population;
   >   - **(F)** any land acquisitions, exchanges, conservation easements, and voluntary grazing buyouts that the Secretary has acquired or pursued for wild free-roaming horses and burros;
   >   - **(G)** any sanctuaries or exclusive use areas established for wild free-roaming horses and burros;
-  >   - **(H)** programs established for immunocontraception research, development, and management level implementation;
+  >   - **(H)** programs established for fertility control research, development, and management level implementation;
   >   - **(I)** the extent to which fertility control is being used by the Secretary to control the population of wild free-roaming horses and burros;
   >   - **(J)** the percentage of the Bureau of Land Management budget devoted to contraception annually;
   >   - **(K)** the ratio of animals the agency has contracepted and put back on the range; and
