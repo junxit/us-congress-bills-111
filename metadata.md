@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1442
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1442
@@ -20,9 +20,10 @@ To provide for the sale of the Federal Government's reversionary interest in app
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ To provide for the sale of the Federal Government's reversionary interest in app
 - 2009-07-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 548). (text: CR 7/14/2009 H8052)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 548).(text: CR 7/14/2009 H8052)
+- 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
