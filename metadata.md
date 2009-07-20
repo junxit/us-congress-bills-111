@@ -1,7 +1,7 @@
 ---
 measure: H.R. 80
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 80
@@ -72,3 +72,7 @@ Captive Primate Safety Act
 - 2009-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 323 - 95 (Roll no. 76).(text: CR 2/23/2009 H1617)
 - 2009-02-25 — Received in the Senate.
 - 2009-03-12 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-05-14 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-53.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-53.
+- 2009-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.
