@@ -2,7 +2,7 @@
 legis-num: H. RES. 607
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 607
@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Apollo 11 Moon landing was experienced by millions of people all around the world by means of radio and television broadcasts;
 - Whereas the Apollo 11 astronauts left a plaque on the lunar surface that stated: “We came in peace for all mankind”;
 - Whereas the successful Apollo 11 Moon landing was one of the most significant events of the 20th century and inspired a generation to strive towards great accomplishments in space and on Earth; and
-- Whereas the Apollo 11 achievement continues to inspire Americans as we prepare for future human journeys back to the Moon and other destinations in the solar system: Now, therefore be it
+- Whereas the Apollo 11 achievement continues to inspire Americans as we prepare for future human journeys back to the Moon and other destinations in the solar system: Now, therefore, be it
 
 That the House of Representatives—
 
