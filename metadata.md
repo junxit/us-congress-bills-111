@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2093
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2093
@@ -16,7 +16,7 @@ Clean Coastal Environment and Public Health Act of 2009
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Cosponsors (23)
+## Cosponsors (27)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Adler, John H. [D-NJ-3] (A000364)
@@ -41,6 +41,10 @@ Clean Coastal Environment and Public Health Act of 2009
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Rep. Farr, Sam [D-CA-17] (F000030)
 
 ## Committees (1)
 
@@ -51,3 +55,10 @@ Clean Coastal Environment and Public Health Act of 2009
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Introduced in House
 - 2009-04-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-04-24 — Referred to the Subcommittee on Water Resources and Environment.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-06-04 — Subcommittee on Water Resources and Environment Discharged.
+- 2009-07-20 — Placed on the Union Calendar, Calendar No. 116.
+- 2009-07-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-214.
+- 2009-07-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-214.
