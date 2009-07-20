@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -41,7 +41,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “a transfer between a San Joaquin River Exchange Contractor and a Friant Division contractor, a transfer between a San Joaquin River Exchange Contractor and a south-of-Delta CVP agricultural water service contractor, and a t… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “an ultra efficient vehicle or” after “means”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, ultra efficient vehicle manufacturers,” after “automobile manufacturers”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subparagraph (A); | the bill names no machine-readable US Code section |
 | — | replace | by striking “and” at the end of subparagraph (B) and inserting “or”; and | the bill names no machine-readable US Code section |

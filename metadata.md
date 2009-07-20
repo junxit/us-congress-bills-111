@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3183
@@ -254,3 +254,4 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 - 2009-07-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2009-07-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3183.
 - 2009-07-17 — The previous question was ordered pursuant to the rule. (consideration: CR H8338)
+- 2009-07-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
