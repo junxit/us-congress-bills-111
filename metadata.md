@@ -1,7 +1,7 @@
 ---
 measure: H.R. 129
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 129
@@ -16,9 +16,10 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 - 2009-07-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 549). (text: CR 7/14/2009 H8056)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 549).(text: CR 7/14/2009 H8056)
+- 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
