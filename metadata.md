@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 156
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 156
@@ -49,9 +49,10 @@ Condemning the attack on the AMIA Jewish Community Center in Buenos Aires, Argen
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ Condemning the attack on the AMIA Jewish Community Center in Buenos Aires, Argen
 - 2009-07-17 — On agreeing to the Berman amendment (A001) Agreed to by voice vote.
 - 2009-07-17 — On agreeing to the resolution Agreed to by voice vote. (text: CR H8340-8341)
 - 2009-07-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H8340-8341)
+- 2009-07-20 — Received in the Senate and referred to the Committee on Foreign Relations.
