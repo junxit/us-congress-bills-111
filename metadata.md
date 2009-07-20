@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2188
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2188
@@ -22,9 +22,10 @@ Joint Ventures for Bird Habitat Conservation Act of 2009
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Joint Ventures for Bird Habitat Conservation Act of 2009
 - 2009-07-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 550). (text: CR 7/14/2009 H8053-8055)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 550).(text: CR 7/14/2009 H8053-8055)
+- 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
