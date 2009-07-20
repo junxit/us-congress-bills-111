@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1018
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1018
@@ -26,9 +26,10 @@ Restore Our American Mustangs Act
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -73,3 +74,4 @@ Restore Our American Mustangs Act
 - 2009-07-17 — Rule H. Res. 653 passed House.
 - 2009-07-17 — Rule provides for consideration of H.R. 1018 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill except for clauses 9 and 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources shall be considered as adopted. The resolution waives all points of order against provisions of the bill, as amended. This waiver does not affect the point of order available under clause 9 of rule XXI.
 - 2009-07-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H8317-8318)
+- 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
