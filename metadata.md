@@ -1,7 +1,7 @@
 ---
 measure: H.R. 409
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 409
@@ -16,9 +16,10 @@ To provide for the conveyance of certain Bureau of Land Management land in the S
 
 - Rep. Heller, Dean [R-NV-2] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To provide for the conveyance of certain Bureau of Land Management land in the S
 - 2009-07-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 551). (text: CR 7/14/2009 H8058-8059)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 551).(text: CR 7/14/2009 H8058-8059)
+- 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
