@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 11
@@ -16,7 +16,7 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (52)
+## Cosponsors (84)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
@@ -70,6 +70,38 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 - Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -84,3 +116,12 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - 2009-04-02 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2009-04-02 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2009-04-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
+- 2009-07-20 — Amendment SA 1639 agreed to in Senate by Unanimous Consent.
+- 2009-07-20 — Amendment SA 1639 proposed by Senator Hagan for Senator Collins. (consideration: CR S7720; text: CR S7720) To amend the preamble.
+- 2009-07-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7719-7721; text of measure as introduced: CR S7719-7720)
+- 2009-07-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text as passed Senate: CR S7720-7721)
+- 2009-07-20 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text as passed Senate: CR S7720-7721)
+- 2009-07-20 — Senate amendment agreed to: Amendment SA 1639 agreed to in Senate by Unanimous Consent.
+- 2009-07-20 — Senate amendment proposed (on the floor): Amendment SA 1639 proposed by Senator Hagan for Senator Collins.(consideration: CR S7720; text: CR S7720)
+- 2009-07-20 — Senate amendment submitted
+- 2009-07-20 — The committee amendments to the preamble were agreed to by Unanimous Consent.
