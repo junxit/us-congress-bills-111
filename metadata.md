@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1665
@@ -31,3 +31,10 @@ Coast Guard Acquisition Reform Act of 2009
 - 2009-03-23 — Introduced in House
 - 2009-03-23 — Introduced in House
 - 2009-03-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-03-24 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2009-04-02 — Committee Consideration and Mark-up Session Held.
+- 2009-04-02 — Ordered to be Reported by Voice Vote.
+- 2009-04-02 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2009-07-20 — Placed on the Union Calendar, Calendar No. 117.
+- 2009-07-20 — Reported by the Committee on Transportation. H. Rept. 111-215.
+- 2009-07-20 — Reported by the Committee on Transportation. H. Rept. 111-215.
