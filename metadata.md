@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3170
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3170
@@ -221,3 +221,4 @@ Financial Services and General Government Appropriations Act, 2010
 - 2009-07-16 — The Speaker designated the Honorable Alcee L. Hastings to act as Chairman of the Committee.
 - 2009-07-16 — The previous question was ordered pursuant to the rule. (consideration: CR H8266)
 - 2009-07-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoptopn of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2009-07-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.
