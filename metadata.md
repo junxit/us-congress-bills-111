@@ -1,7 +1,7 @@
 ---
 measure: H.R. 388
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 388
@@ -54,3 +54,7 @@ Crane Conservation Act of 2009
 - 2009-04-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 288 - 116 (Roll no. 193). (text: CR H4530-4531)
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 288 - 116 (Roll no. 193).(text: CR H4530-4531)
 - 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-05-14 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-54.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-54.
+- 2009-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.
