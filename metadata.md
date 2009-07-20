@@ -1,7 +1,7 @@
 ---
 measure: S. 529
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 529
@@ -16,7 +16,7 @@ Great Cats and Rare Canids Act of 2009
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Udall, Tom [D-NM] (U000039)
@@ -25,6 +25,8 @@ Great Cats and Rare Canids Act of 2009
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ Great Cats and Rare Canids Act of 2009
 - 2009-03-05 — Introduced in Senate
 - 2009-03-05 — Read twice and referred to the Committee on Environment and Public Works.
 - 2009-03-05 — Sponsor introductory remarks on measure. (CR S2829-2830)
+- 2009-05-14 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-52.
+- 2009-07-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-52.
+- 2009-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
