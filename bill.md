@@ -21,7 +21,7 @@ Congress finds the following:
   - **(B)** explore methods for eliminating or minimizing adverse effects of energy development and nuclear materials on the environment;
   - **(C)** train people in ecological and environmental sciences; and
   - **(D)** educate the public.
-- **(5)** The seven National Environmental Research Parks are located within six major ecological regions of the United States, covering more than half of the Nation.
+- **(5)** The National Environmental Research Parks are located within six major ecological regions of the United States, covering more than half of the Nation.
 - **(6)** The parks are especially valuable research sites because within their borders they provide secure settings for scientists to conduct long-term research on a broad range of subjects including—
   - **(A)** plant succession;
   - **(B)** biomass production;
@@ -35,14 +35,13 @@ Congress finds the following:
 
 ## § 2. National Environmental Research Parks
 
-- **(a)** *Designation* The Secretary of Energy shall designate the seven National Environmental Research Parks located on Department of Energy sites as permanent protected outdoor research reserves for the purposes of conducting long-term environmental research on the impacts of human activities on the natural environment. The seven National Environmental Research Parks shall include—
+- **(a)** *Designation* The Secretary of Energy shall designate the six National Environmental Research Parks located on Department of Energy sites as protected outdoor research reserves for the purposes of conducting long-term environmental research on the impacts of human activities on the natural environment. The six National Environmental Research Parks shall include—
   - **(1)** the Savannah River National Environmental Research Park;
   - **(2)** the Idaho National Environmental Research Park;
   - **(3)** the Los Alamos National Environmental Research Park;
   - **(4)** the Fermi Lab National Environmental Research Park;
-  - **(5)** the Hanford National Environmental Research Park;
-  - **(6)** the Oak Ridge National Environmental Research Park; and
-  - **(7)** the Nevada National Environmental Research Park.
+  - **(5)** the Oak Ridge National Environmental Research Park; and
+  - **(6)** the Nevada National Environmental Research Park.
 - **(b)** *Purposes* Each site shall support—
   - **(1)** environmental research and monitoring activities to characterize and monitor present and future site conditions, and serve as control areas for comparison with environmental impacts of Department of Energy land management, energy technology development, remediation, and other site activities outside the National Environmental Research Park areas. Areas of research and monitoring on the sites may include—
     - **(A)** ecology of the site and the region;
@@ -66,7 +65,7 @@ Congress finds the following:
   - **(1)** coordinate research activities among the National Environmental Research Parks as appropriate;
   - **(2)** ensure that information on best practices for research, education, and outreach activities is shared among the sites; and
   - **(3)** serve as liaison to other Federal agencies to facilitate collaborative work at the Parks.
-- **(f)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy, acting through the Director of the Office of Science, for carrying out this section $35,000,000, including $5,000,000 for each National Environmental Research Park, for each of the fiscal years 2010 through 2014.
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy, acting through the Director of the Office of Science, for carrying out this section $30,000,000, including $5,000,000 for each National Environmental Research Park, for each of the fiscal years 2010 through 2014.
 
 ## § 3. Savings
 
