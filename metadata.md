@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1933
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1933
@@ -16,7 +16,7 @@ A Child Is Missing Alert and Recovery Center Act
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (16)
+## Cosponsors (28)
 
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
@@ -34,13 +34,38 @@ A Child Is Missing Alert and Recovery Center Act
 - Rep. Neal, Richard E. [D-MA-2] (N000015)
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2009-07-21 — [House 111-1-603](votes/house-111-1-0603.md) — On Motion to Suspend the Rules and Pass — **Passed** (417–5)
 
 ## Actions
 
 - 2009-04-02 — Introduced in House
 - 2009-04-02 — Introduced in House
 - 2009-04-02 — Referred to the House Committee on the Judiciary.
+- 2009-05-26 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2009-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-20 — Considered under suspension of the rules. (consideration: CR H8377-8379)
+- 2009-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1933.
+- 2009-07-20 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
+- 2009-07-21 — Considered as unfinished business. (consideration: CR H8457)
+- 2009-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 5 (Roll No. 603).
+- 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 5 (Roll No. 603).
