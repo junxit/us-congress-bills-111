@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1622
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1622
@@ -33,6 +33,10 @@ To provide for a program of research, development, and demonstration on natural 
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2009-07-21 — [House 111-1-598](votes/house-111-1-0598.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–35)
+
 ## Actions
 
 - 2009-03-19 — Introduced in House
@@ -46,3 +50,11 @@ To provide for a program of research, development, and demonstration on natural 
 - 2009-07-14 — Placed on the Union Calendar, Calendar No. 112.
 - 2009-07-14 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-206.
 - 2009-07-14 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-206.
+- 2009-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-20 — Considered under suspension of the rules. (consideration: CR H8364-8367)
+- 2009-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1622.
+- 2009-07-20 — Mr. Lujan moved to suspend the rules and pass the bill, as amended.
+- 2009-07-21 — Considered as unfinished business. (consideration: CR H8446-8447)
+- 2009-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 35 (Roll no. 598). (text: CR 7/20/2009 H8364-8365)
+- 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 35 (Roll no. 598).(text: CR 7/20/2009 H8364-8365)
