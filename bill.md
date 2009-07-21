@@ -2,7 +2,7 @@
 legis-num: H. CON. RES. 164
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. CON. RES. 164

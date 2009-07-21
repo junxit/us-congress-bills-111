@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 164
 congress: 111
-version: Agreed to Senate
+version: Engrossed in House
 ---
 
 # H.Con.Res. 164
