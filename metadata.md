@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 164
 congress: 111
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 164
@@ -43,3 +43,4 @@ Recognizing the 40th anniversary of the Food and Nutrition Service of the Depart
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 596).(text: CR 7/20/2009 H8371)
 - 2009-07-21 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S7807-7808)
 - 2009-07-21 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7807-7808)
+- 2009-07-22 — Message on Senate action sent to the House.
