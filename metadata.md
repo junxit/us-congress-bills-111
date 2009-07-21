@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2245
 congress: 111
-version: Considered and Passed Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2245
@@ -342,3 +342,10 @@ New Frontier Congressional Gold Medal Act
 - 2009-07-21 — Cleared for White House.
 - 2009-07-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7808)
 - 2009-07-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7808)
+- 2009-07-22 — Message on Senate action sent to the House.
+- 2009-07-27 — Presented to President.
+- 2009-07-27 — Presented to President.
+- 2009-08-07 — Became Public Law No: 111-44.
+- 2009-08-07 — Became Public Law No: 111-44.
+- 2009-08-07 — Signed by President.
+- 2009-08-07 — Signed by President.
