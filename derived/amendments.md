@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 56
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 9(b)(3) of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by striking “six years” and inserting “nine years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 13031(j)(3)(B)(i) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)(B)(i)) is amended by striking “January 31, 2018” and inserting “February 7, 2018”. | the bill names no machine-readable US Code section |
