@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2245
 congress: 111
-version: Engrossed in House
+version: Considered and Passed Senate
 ---
 
 # H.R. 2245
@@ -339,3 +339,6 @@ New Frontier Congressional Gold Medal Act
 - 2009-07-20 — Mr. Grayson moved to suspend the rules and pass the bill.
 - 2009-07-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 595). (text: CR H8385-8386)
 - 2009-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 595).(text: CR H8385-8386)
+- 2009-07-21 — Cleared for White House.
+- 2009-07-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7808)
+- 2009-07-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7808)
