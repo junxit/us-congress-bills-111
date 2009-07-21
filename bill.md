@@ -2,7 +2,7 @@
 legis-num: H. RES. 507
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 507
@@ -11,8 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, since 1939, June has been celebrated as National Dairy Month by the dairy industry;
-- Whereas the American Dairy Association and National Dairy Council have designated June 2009 as National Dairy Month;
+- Whereas, since 1939, June has been celebrated as National Dairy Month;
 - Whereas there are nearly 70,000 dairy farms throughout the United States, and approximately 99 percent of these farms are family owned;
 - Whereas the dairy industry in the United States produces more than 170 billion pounds of milk annually and contributes tens of billions of dollars to the economy;
 - Whereas dairy products are an important source of calcium and have been long recognized as an integral part of a healthy diet for both children and adults;
