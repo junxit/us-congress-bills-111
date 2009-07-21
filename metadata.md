@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 11
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 11
@@ -103,9 +103,10 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -125,3 +126,6 @@ A concurrent resolution condemning all forms of anti-Semitism and reaffirming th
 - 2009-07-20 — Senate amendment proposed (on the floor): Amendment SA 1639 proposed by Senator Hagan for Senator Collins.(consideration: CR S7720; text: CR S7720)
 - 2009-07-20 — Senate amendment submitted
 - 2009-07-20 — The committee amendments to the preamble were agreed to by Unanimous Consent.
+- 2009-07-21 — Message on Senate action sent to the House.
+- 2009-07-21 — Received in the House.
+- 2009-07-21 — Referred to the House Committee on Foreign Affairs.
