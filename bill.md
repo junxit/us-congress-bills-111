@@ -32,8 +32,26 @@ Section 502 of title 40, United States Code, is amended by adding at the end the
 > - **(e)** *Use of supply schedules for economic recovery*
 >   - **(1)** *In general* The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are funded by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
 >   - **(2)** *Voluntary use* In the case of the use by a State or local government of a Federal supply schedule under paragraph (1), participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
->   - **(3)** *Definitions* The definitions in subsection (c)(3) shall apply for purposes of this subsection.
+>   - **(3)** *Provisions to ensure proper usage by non-Federal users* The Administrator shall, for authorized non-Federal users of Federal Supply Schedules—
+>     - **(A)** review the existing ordering guidance and, as necessary, prescribe additional guidance to ensure proper usage and to maximize task and delivery order competition;
+>     - **(B)** make available the online electronic Request for Quote (RFQ)/Request for Proposal (RFP) system; and
+>     - **(C)** make available, free of charge, training related to proper Schedule usage, including online training courses.
+>   - **(3)(4)** *Definitions* The definitions in subsection (c)(3) shall apply for purposes of this subsection.
 
 ## § 4. Definition of jobs created and jobs retained
 
 Section 1512(g) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by adding at the end “The Director of the Office of Management and Budget shall issue guidance to ensure accurate and consistent reporting of “jobs created” and “jobs retained” as those terms are used in subsection (c)(3)(D).”.
+
+## § 5. Federal Awards under the American Recovery and Reinvestment Act of 2009
+
+Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note; Public Law 109–282) is amended—
+
+- **(1)** in subsection (b)—
+  - **(A)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
+  - **(B)** by inserting after paragraph (1) the following:
+    > - **(2)** *Additional website content* Not later than 30 days after the date of enactment of the Enhanced Oversight of State and Local Economic Recovery Act, the Office of Management and Budget shall ensure that the website under this subsection—
+    >   - **(A)** clearly differentiates between projects funded under the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) and other Federal awards; and
+    >   - **(B)** provides users with the ability to perform searches for information in the website relating only to Federal awards funded by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
+
+- **(2)** by adding after subsection (g) the following:
+  > - **(h)** *Weblink* The website Recovery.gov established under the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) shall contain a prominently displayed weblink on its front page to the website under this section.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1064
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,3 +38,6 @@ complete account of the bill's effect, which it is not.
 | — | amend | The heading for section 1552 of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1512(g) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by adding at the end “The Director of the Office of Management and Budget shall issue guidance to ensure accurate and cons… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding after subsection (g) the following: | the bill names no machine-readable US Code section |
