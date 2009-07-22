@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2920
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2920
@@ -16,7 +16,7 @@ Statutory Pay-As-You-Go Act of 2009
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Cosponsors (156)
+## Cosponsors (169)
 
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
@@ -174,13 +174,54 @@ Statutory Pay-As-You-Go Act of 2009
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 
 ## Committees (1)
 
 - House — Budget Committee
+
+## Recorded votes (3)
+
+- 2009-07-22 — [House 111-1-610](votes/house-111-1-0610.md) — On Agreeing to the Amendment — **Failed** (169–259)
+- 2009-07-22 — [House 111-1-611](votes/house-111-1-0611.md) — On Motion to Recommit with Instructions — **Failed** (196–234)
+- 2009-07-22 — [House 111-1-612](votes/house-111-1-0612.md) — On Passage — **Passed** (265–166)
 
 ## Actions
 
 - 2009-06-17 — Introduced in House
 - 2009-06-17 — Introduced in House
 - 2009-06-17 — Referred to the House Committee on the Budget.
+- 2009-07-21 — Rules Committee Resolution H. Res. 665 Reported to House. Rule provides for consideration of H.R. 2920 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute printed in part A of the report, as modified by the amendment printed in part B of this report shall be considered as adopted and the bill, as amended shall be considered as read. The resolution waives all points of order against the bill, as amended.
+- 2009-07-22 — Amendment (A002) in the nature of a substitute offered by Mr. Ryan (WI). (consideration: CR H8527-8538; text: CR H8527-8528)
+- 2009-07-22 — Amendment failed by House: On agreeing to the Ryan (WI) amendment (A002) Failed by recorded vote: 169 - 259 (Roll no. 610).
+- 2009-07-22 — Considered under the provisions of rule H. Res. 665. (consideration: CR H8513-8541)
+- 2009-07-22 — DEBATE - Pursuant to the provisions of H.Res. 665, the House proceeded with 1 hour of debate on the Ryan (WI) amendment in the nature of a substitute.
+- 2009-07-22 — DEBATE - The House proceeded with 10 minutes of debate on the Ryan (WI) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to insert the following new sections: 1.) to extend the discretionary spending caps; 2.) Disclosure of Interest cost; and 3.) CBO scoring of conference reports.
+- 2009-07-22 — DEBATE - The House proceeded with one hour of debate on H.R. 2920.
+- 2009-07-22 — House amendment not agreed to: On agreeing to the Ryan (WI) amendment (A002) Failed by recorded vote: 169 - 259 (Roll no. 610).
+- 2009-07-22 — House amendment offered
+- 2009-07-22 — House amendment offered
+- 2009-07-22 — House amendment offered/reported by : Amendment (A002) in the nature of a substitute offered by Mr. Ryan (WI).(consideration: CR H8527-8538; text: CR H8527-8528)
+- 2009-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-22 — Mr. Ryan (WI) moved to recommit with instructions to The Budget. (consideration: CR H8538-8540; text: CR H8538-8539)
+- 2009-07-22 — On agreeing to the Ryan (WI) amendment (A002) Failed by recorded vote: 169 - 259 (Roll no. 610).
+- 2009-07-22 — On motion to recommit with instructions Failed by recorded vote: 196 - 234 (Roll no. 611).
+- 2009-07-22 — On passage Passed by recorded vote: 265 - 166 (Roll no. 612). (text: CR H8513-8517)
+- 2009-07-22 — Passed/agreed to in House: On passage Passed by recorded vote: 265 - 166 (Roll no. 612).(text: CR H8513-8517)
+- 2009-07-22 — Roll call votes on amendments in House
+- 2009-07-22 — Rule H. Res. 665 passed House.
+- 2009-07-22 — Rule provides for consideration of H.R. 2920 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute printed in part A of the report, as modified by the amendment printed in part B of this report shall be considered as adopted and the bill, as amended shall be considered as read. The resolution waives all points of order against the bill, as amended.
+- 2009-07-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8540)
+- 2009-07-22 — The previous question was ordered on the amendment (A002) without objection. (consideration: CR H8538)
