@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2632
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `4 U.S.C. § 6` | insert | Section 6(d) of title 4, United States Code, is amended by inserting “National Korean War Veterans Armistice Day, July 27;” after “July 4;”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 6(d) of title 4, United States Code, is amended by inserting “National Korean War Veterans Armistice Day, July 27;” after “July 4;”. | the bill names no machine-readable US Code section |

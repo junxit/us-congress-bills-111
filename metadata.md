@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2632
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2632
@@ -101,3 +101,13 @@ Korean War Veterans Recognition Act
 - 2009-07-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 604). (text: CR 7/20/2009 H8379)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 604).(text: CR 7/20/2009 H8379)
 - 2009-07-22 — Received in the Senate, read twice.
+- 2009-07-24 — Cleared for White House.
+- 2009-07-24 — Message on Senate action sent to the House.
+- 2009-07-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8101)
+- 2009-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8101)
+- 2009-07-27 — Became Public Law No: 111-41.
+- 2009-07-27 — Became Public Law No: 111-41.
+- 2009-07-27 — Presented to President.
+- 2009-07-27 — Presented to President.
+- 2009-07-27 — Signed by President.
+- 2009-07-27 — Signed by President.
