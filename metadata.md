@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 123
@@ -32,9 +32,10 @@ Recognizing the historical and national significance of the many contributions o
 - Rep. Posey, Bill [R-FL-15] (P000599)
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Recognizing the historical and national significance of the many contributions o
 - 2009-07-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-21 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 602). (text: CR 7/20/2009 H8376)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 602).(text: CR 7/20/2009 H8376)
+- 2009-07-22 — Received in the Senate and referred to the Committee on the Judiciary.
