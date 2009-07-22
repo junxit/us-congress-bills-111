@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1511
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1511
@@ -16,7 +16,7 @@ Torture Victims Relief Reauthorization Act of 2009
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (19)
+## Cosponsors (26)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
@@ -37,6 +37,13 @@ Torture Victims Relief Reauthorization Act of 2009
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
 
 ## Committees (2)
 
@@ -50,3 +57,10 @@ Torture Victims Relief Reauthorization Act of 2009
 - 2009-03-16 — Referred to House Energy and Commerce
 - 2009-03-16 — Referred to House Foreign Affairs
 - 2009-03-16 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-03-17 — Referred to the Subcommittee on Health.
+- 2009-07-22 — Considered under suspension of the rules. (consideration: CR H8552-8554)
+- 2009-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1511.
+- 2009-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-22 — Mr. Klein (FL) moved to suspend the rules and pass the bill.
+- 2009-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8552)
+- 2009-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8552)
