@@ -1,0 +1,29 @@
+---
+measure: H.Res. 669
+congress: 111
+version: Reported in House
+---
+
+# H.Res. 669
+
+Providing for consideration of the bill (H.R. 3288) making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2010, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+
+## Committees (1)
+
+- House — Rules Committee
+
+## Actions
+
+- 2009-07-22 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. Notwithstanding clause 11 of rule XVIII, except as provided in section 2, no amendment shall be in order except: (1) the amendments printed in part A of the report of the Committee on Rules accompanying this resolution; (2) not to exceed seven of the amendments printed in part B of the report of the Committee on Rules if offered by Representative Flake of Arizona or his designee; and (3) not to exceed two of the amendments printed in part C of the report of the Committee on Rules if offered by Representative Hensarling of Texas or his designee. The Chair may entertain a motion that the Committee rise only if offered by the chair of the Committee on Appropriations or his designee. The Chair may not entertain a motion to strike out the enacting words of the bill (as described in clause 9 of rule XVIII). During consideration of H.R. 3288, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule XVIII and clauses 8 and 9 of rule XX.
+- 2009-07-22 — Introduced in House
+- 2009-07-22 — Placed on the House Calendar, Calendar No. 94.
+- 2009-07-22 — The House Committee on Rules reported an original measure, H. Rept. 111-219, by Mr. Arcuri.
+- 2009-07-22 — The House Committee on Rules reported an original measure, H. Rept. 111-219, by Mr. Arcuri.
