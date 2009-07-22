@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 56
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 56
@@ -64,3 +64,13 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2009-07-21 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H8460)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H8460)
 - 2009-07-22 — Received in the Senate, read twice.
+- 2009-07-23 — Cleared for White House.
+- 2009-07-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8060-8061)
+- 2009-07-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8060-8061)
+- 2009-07-24 — Message on Senate action sent to the House.
+- 2009-07-27 — Presented to President.
+- 2009-07-27 — Presented to President.
+- 2009-07-28 — Became Public Law No: 111-42.
+- 2009-07-28 — Became Public Law No: 111-42.
+- 2009-07-28 — Signed by President.
+- 2009-07-28 — Signed by President.
