@@ -14,14 +14,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 Congress finds that—
 
 - **(1)** black carbon—
-  - **(A)** is a component of ambient particulate matter, the mixture of which has been found to harm public health by causing serious re­spi­ra­to­ry and cardiovascular effects in developed and developing countries;
+  - **(A)** is a component of ambient particulate matter, the mixture of which has been found to harm public health by causing serious respiratory and cardiovascular effects in developed and developing countries;
   - **(B)** plays a role in climate change by—
     - **(i)** absorbing solar radiation; and
     - **(ii)** reducing the reflectivity of snow and ice; and
   - **(C)** is emitted from incomplete combustion of fossil fuels, biomass, and biofuels;
 - **(2)** recent studies have shown that, in the United States, old diesel engines are a major contributor of black carbon;
 - **(3)**
-  - **(A)** the United States has made great prog­ress in reducing black carbon emissions through regulations on new vehicles and engines and a voluntary national diesel retrofit program; but
+  - **(A)** the United States has made great progress in reducing black carbon emissions through regulations on new vehicles and engines and a voluntary national diesel retrofit program; but
   - **(B)** there remain in the United States more than 11,000,000 diesel engines lacking the latest diesel emission control technology; and
 - **(4)** the collection of information relating to, and research regarding, black carbon would be useful to identify cost-effective methods of reducing black carbon emissions in ways and from sources that would have beneficial effects on the public health and the climate.
 
