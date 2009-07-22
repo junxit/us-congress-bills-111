@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2729
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2729
@@ -24,9 +24,10 @@ To authorize the designation of National Environmental Research Parks by the Sec
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ To authorize the designation of National Environmental Research Parks by the Sec
 - 2009-07-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 330 - 96 (Roll no. 597). (text: CR 7/20/2009 H8363)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 330 - 96 (Roll no. 597).(text: CR 7/20/2009 H8363)
+- 2009-07-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
