@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 56
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 56
@@ -63,3 +63,4 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2009-07-21 — Mr. Levin moved to suspend the rules and pass the resolution, as amended.
 - 2009-07-21 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H8460)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H8460)
+- 2009-07-22 — Received in the Senate, read twice.
