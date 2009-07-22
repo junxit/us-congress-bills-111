@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 885
@@ -56,9 +56,10 @@ Improved Financial and Commodity Markets Oversight and Accountability Act
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -76,3 +77,5 @@ Improved Financial and Commodity Markets Oversight and Accountability Act
 - 2009-06-08 — Mr. Lynch moved to suspend the rules and pass the bill, as amended.
 - 2009-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6284)
 - 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6284)
+- 2009-06-10 — Received in the Senate.
+- 2009-07-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
