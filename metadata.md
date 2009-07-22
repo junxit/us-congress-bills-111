@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1622
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1622
@@ -29,9 +29,10 @@ To provide for a program of research, development, and demonstration on natural 
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To provide for a program of research, development, and demonstration on natural 
 - 2009-07-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 35 (Roll no. 598). (text: CR 7/20/2009 H8364-8365)
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 35 (Roll no. 598).(text: CR 7/20/2009 H8364-8365)
+- 2009-07-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
