@@ -2,7 +2,7 @@
 legis-num: H. RES. 566
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 566
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the Los Angeles Lakers are one of the most successful and respected franchises in the history of the National Basketball Association (NBA);
-- Whereas prior to the 2008–2009 season, the Lakers won 14 NBA championships, with a cast of players that, over the years, have included NBA greats such as Wilt Chamberlain, Erving “Magic” Johnson, James Worthy, Kareem Abdul-Jabbar, Shaquille O’Neal, Michael Cooper, Elgin Baylor, A.C. Green, and other Lakers stars, whose accomplishments were captured courtside by legendary Lakers sportscaster Francis Dayle “Chick/Chicky Baby” Hearn;
+- Whereas prior to the 2008–2009 season, the Lakers won 14 NBA championships, with a cast of players that, over the years, have included NBA greats such as Wilt Chamberlain, Earvin “Magic” Johnson, Jr., James Worthy, Kareem Abdul-Jabbar, Shaquille O’Neal, Michael Cooper, Elgin Baylor, A.C. Green, and other Lakers stars, whose accomplishments were captured courtside by legendary Lakers sportscaster Francis Dayle “Chick/Chicky Baby” Hearn;
 - Whereas in the off-season, the Lakers’ General Manager, Mitch Kupchak, with the support of the team’s owner, Jerry Buss, maintained the Lakers core of Kobe Bryant, Lamar Odom, Derek Fisher, Pau Gasol, and Trevor Ariza;
 - Whereas the combination of Bryant, Odom, Fisher, Gasol, and Ariza, led the 2008–2009 Lakers to a 65–17 regular season record and the number one spot in the Western Conference playoffs;
 - Whereas Ariza first came to fame as a member of the 2002 and 2003 California State Championship teams at Westchester High School in Los Angeles, California;

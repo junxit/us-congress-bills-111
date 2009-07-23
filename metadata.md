@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 566
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 566
@@ -16,7 +16,7 @@ Congratulating the 2008-2009 National Basketball Association Champions, the Los 
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Cosponsors (49)
+## Cosponsors (50)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
@@ -67,13 +67,29 @@ Congratulating the 2008-2009 National Basketball Association Champions, the Los 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Miller, George [D-CA-7] (M000725)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2009-07-23 — [House 111-1-618](votes/house-111-1-0618.md) — On Motion to Suspend the Rules and Agree — **Passed** (413–8)
 
 ## Actions
 
 - 2009-06-19 — Introduced in House
 - 2009-06-19 — Introduced in House
 - 2009-06-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-06-24 — Sponsor introductory remarks on measure. (CR E1558)
+- 2009-07-10 — Committee Consideration and Mark-up Session Held.
+- 2009-07-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-07-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-21 — Considered under suspension of the rules. (consideration: CR H8465-8466)
+- 2009-07-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 566.
+- 2009-07-21 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-07-23 — Considered as unfinished business. (consideration: CR H8602-8603)
+- 2009-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 8, 8 Present (Roll no. 618). (text: CR 7/21/2009 H8465)
+- 2009-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 8, 8 Present (Roll no. 618).(text: CR 7/21/2009 H8465)
