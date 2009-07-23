@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1393
 
-> To authorize appropriations for fiscal year 2010 for defense activities of the Department of Energy, and for other purposes
+> To authorize appropriations for fiscal year 2010 for defense activities of the Department of Energy, and for other purposes.
 
 ## § 1. Short title
 
