@@ -47,11 +47,9 @@ This Act may be cited as the “Veterans Nonprofit Research and Education Corpor
 
 ## § 3. Clarification of purposes of corporations
 
-- **(a)** *Clarification of purposes* Subsection (a) of section 7362 of title 38, United States Code, is amended—
-  - **(1)** in the first sentence—
-    - **(A)** by striking “Any corporation” and all that follows through “facilitate” and inserting “A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of”; and
-    - **(B)** by inserting before the period at the end the following: “or centers”; and
-  - **(2)** in the second sentence, by inserting “or centers” after “medical center”.
+- **(a)** *Clarification of purposes* Subsection (a) of section 7362 of title 38, United States Code, is amended in the first sentence—
+  - **(1)** by striking “Any corporation” and all that follows through “facilitate” and inserting “A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of”; and
+  - **(2)** by inserting before the period at the end the following: “or centers”.
 - **(b)** *Modification of defined term relating to education and training* Subsection (b) of such section is amended in the matter preceding paragraph (1) by striking “the term education and training” and inserting “the term education includes education and training and”.
 - **(c)** *Repeal of role of corporations with respect to fellowships* Paragraph (1) of subsection (b) of such section is amended by striking the flush matter following subparagraph (C).
 - **(d)** *Availability of education for families of veteran patients* Paragraph (2) of subsection (b) of such section is amended by striking “to patients and to the families” and inserting “and includes education and training for patients and families”.
@@ -69,7 +67,8 @@ This Act may be cited as the “Veterans Nonprofit Research and Education Corpor
 - **(b)** *Requirements for non-department board members* Paragraph (2) of such section is amended—
   - **(1)** by inserting “not less than two” before “members”; and
   - **(2)** by striking “and who” and all that follows through the period at the end and inserting “and who have backgrounds, or business, legal, financial, medical, or scientific expertise, of benefit to the operations of the corporation.”.
-- **(c)** *Conflicts of interest* Subsection (c) of section 7363 of such title is amended by striking “, employed by, or have any other financial relationship with” and inserting “or employed by”.
+- **(c)** *Clarification that Department employees may serve as executive directors* Subsection (b) of section 7363 of such title is amended in the first sentence, by inserting after “executive director who” the following: “may be an employee of the Department and who”.
+- **(d)** *Conflicts of interest* Subsection (c) of section 7363 of such title is amended by striking “, employed by, or have any other financial relationship with” and inserting “or employed by”.
 
 ## § 5. Clarification of powers of corporations
 
@@ -108,19 +107,14 @@ This Act may be cited as the “Veterans Nonprofit Research and Education Corpor
   > - **(b)**
   >   - **(1)** Each corporation shall submit to the Secretary each year a report providing a detailed statement of the operations, activities, and accomplishments of the corporation during that year.
   >   - **(2)**
-  >     - **(A)** A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year.
-  >     - **(B)** A corporation with annual revenues between $10,000 and $300,000 shall obtain an audit of the corporation at least once every three years.
+  >     - **(A)** A corporation with revenues in excess of $500,000 for any year shall obtain an audit of the corporation for that year.
+  >     - **(B)** A corporation with annual revenues between $100,000 and $500,000 shall obtain an audit of the corporation at least once every three years.
   >     - **(C)** Any audit under this paragraph shall be performed by an independent auditor.
   >   - **(3)** The corporation shall include in each report to the Secretary under paragraph (1) the following:
   >     - **(A)** The most recent audit of the corporation under paragraph (2).
   >     - **(B)** The most recent Internal Revenue Service Form 990 “Return of Organization Exempt from Income Tax” or equivalent and the applicable schedules under such form.
 
-- **(b)** *Confirmation of application of conflict of interest regulations to appropriate corporation positions* Subsection (c) of such section is amended—
-  - **(1)** by striking “laws and” each place it appears;
-  - **(2)** in paragraph (1)—
-    - **(A)** by inserting “each officer and” after “under this subchapter,”; and
-    - **(B)** by striking “, and each employee of the Department” and all that follows through “during any year”; and
-  - **(3)** in paragraph (2)—
-    - **(A)** by inserting “, officer,” after “verifying that each director”; and
-    - **(B)** by striking “in the same manner” and all that follows before the period at the end.
+- **(b)** *Conflict of interest policies* Subsection (c) of such section is amended to read as follows:
+  > - **(c)** Each director, officer, and employee of a corporation established under this subchapter shall be subject to a conflict of interest policy adopted by that corporation.
+
 - **(c)** *Establishment of appropriate payee reporting threshold* Subsection (d)(3)(C) of such section is amended by striking “$35,000” and inserting “$50,000”.

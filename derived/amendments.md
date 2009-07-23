@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 0 executed, 29 stated and not applied.
+25 amendatory instructions. 0 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,23 +40,19 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subsection (c) the following new subsection (d): | the bill names no machine-readable US Code section |
 | — | redesignate | Subsection (e) of section 7361 of such title, as redesignated by subsection (a)(1) of this section, is further amended by inserting “section 501(c)(3) of” after “exempt from taxation under”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Any corporation” and all that follows through “facilitate” and inserting “A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and … | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period at the end the following: “or centers”; and | the bill names no machine-readable US Code section |
-| — | insert | in the second sentence, by inserting “or centers” after “medical center”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period at the end the following: “or centers”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of such section is amended in the matter preceding paragraph (1) by striking “the term education and training” and inserting “the term education includes education and training and”. | the bill names no machine-readable US Code section |
 | — | strike | Paragraph (1) of subsection (b) of such section is amended by striking the flush matter following subparagraph (C). | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of subsection (b) of such section is amended by striking “to patients and to the families” and inserting “and includes education and training for patients and families”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 7363(a) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “not less than two” before “members”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and who” and all that follows through the period at the end and inserting “and who have backgrounds, or business, legal, financial, medical, or scientific expertise, of benefit to the operations of the corporation.”. | the bill names no machine-readable US Code section |
+| — | insert | Subsection (b) of section 7363 of such title is amended in the first sentence, by inserting after “executive director who” the following: “may be an employee of the Department and who”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (c) of section 7363 of such title is amended by striking “, employed by, or have any other financial relationship with” and inserting “or employed by”. | the bill names no machine-readable US Code section |
 | — | amend | Section 7364 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 7362(a) of such title, as amended by section 3(a)(1) of this Act, is further amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | by striking the item relating to section 7364A; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 7365 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 7366 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking “laws and” each place it appears; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “each officer and” after “under this subchapter,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “, and each employee of the Department” and all that follows through “during any year”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, officer,” after “verifying that each director”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “in the same manner” and all that follows before the period at the end. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (d)(3)(C) of such section is amended by striking “$35,000” and inserting “$50,000”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2770
@@ -16,9 +16,16 @@ Veterans Nonprofit Research and Education Corporations Enhancement Act of 2009
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Cosponsors (1)
+## Cosponsors (8)
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
 ## Committees (1)
 
@@ -30,3 +37,12 @@ Veterans Nonprofit Research and Education Corporations Enhancement Act of 2009
 - 2009-06-09 — Introduced in House
 - 2009-06-09 — Referred to the House Committee on Veterans' Affairs.
 - 2009-06-09 — Sponsor introductory remarks on measure. (CR E1359)
+- 2009-06-12 — Referred to the Subcommittee on Health.
+- 2009-06-18 — Subcommittee Hearings Held.
+- 2009-07-09 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-07-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-07-15 — Committee Consideration and Mark-up Session Held.
+- 2009-07-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-07-23 — Placed on the Union Calendar, Calendar No. 123.
+- 2009-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-225.
+- 2009-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-225.
