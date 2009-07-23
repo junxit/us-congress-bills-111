@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 17
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 17
@@ -16,11 +16,73 @@ A joint resolution approving the renewal of import restrictions contained in the
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 
-## Cosponsors (3)
+## Cosponsors (65)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
 
 ## Committees (1)
 
@@ -31,3 +93,7 @@ A joint resolution approving the renewal of import restrictions contained in the
 - 2009-06-09 — Introduced in Senate
 - 2009-06-09 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6384)
 - 2009-06-09 — Sponsor introductory remarks on measure. (CR S6384)
+- 2009-07-23 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2009-07-23 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2009-07-23 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2009-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 127.

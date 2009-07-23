@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 17
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
