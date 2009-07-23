@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3155
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 0 executed, 17 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,11 +40,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following new paragraph (2): | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 17 of title 38, United States Code, is amended by striking the item relating to section 1782 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “title.” and inserting “title or who receives care from a family caregiver.”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “and” at the end; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence of subsection (b), by striking “dependent or survivor” and inserting “dependent, survivor, or family caregiver”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “When” and inserting the following: “(1) Except as provided in paragraph (2), when”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
