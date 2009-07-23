@@ -1,7 +1,7 @@
 ---
 measure: S. 1391
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-306 amendatory instructions. 0 executed, 306 stated and not applied.
+463 amendatory instructions. 0 executed, 463 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,21 +45,32 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsection (f) of such section is amended by striking “September 30, 2011” and inserting “September 30, 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2374a(f) of title 10, United States Code, is amended by striking “September 30, 2010” and inserting “September 30, 2013”. | the bill names no machine-readable US Code section |
 | — | replace | Section 212 of the National Defense Authorization Act for Fiscal Year 2000 (10 U.S.C. 2501 note) is amended by striking subsection (b), (c), and (d) and inserting the following new subsections: | the bill names no machine-readable US Code section |
+| — | replace | Section 232(c)(1) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4392) is amended by striking “October 31, 2010” and inserting “March 1, 2011”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 270 of the National Defense Authorization Act for Fiscal Year 1997 (10 U.S.C. 2501 note) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 2358 note) is amended by striking subsection (e) and inserting the following new subsection (e): | the bill names no machine-readable US Code section |
 | — | insert | The second sentence of section 4544(a) of title 10, United States Code, as added by section 328(a)(1) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 66), is amended by inserting after “not m… | the bill names no machine-readable US Code section |
 | — | replace | by striking “a report assessing the advisability” and inserting the following: “a report— | the bill names no machine-readable US Code section |
 | — | replace | by striking “pursuant to such authority.” and inserting the following: “pursuant to such authority; | the bill names no machine-readable US Code section |
+| — | replace | by striking “A function” and inserting “No function”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “10 or more”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “may not be converted” and inserting “may be converted”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2461(a) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g)(1), by striking “2010” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2466(d)(1) of title 10, United States Code, is amended by striking “April 1 of each year” and inserting “90 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1… | the bill names no machine-readable US Code section |
 | — | amend | Section 317(e) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1054) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 173 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such subchapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(5) At the same time” and inserting “(5)(A) At the same time”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 115(g) of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 525 of title 10, United States Code, is amended by striking subsections (a) and (b) and inserting the following new subsections: | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “subsection (b)(2)” and inserting “this section”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(A), by striking “the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)” and inserting “15”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(B), by striking “the number equal to 15 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps” and inserting “5”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:” in the matter preceding par… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “307” and inserting “230”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “216” and inserting “160”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “279” and inserting “208”; and | the bill names no machine-readable US Code section |
@@ -70,7 +81,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (2) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (d), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | repeal | Section 721 of such title is repealed. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections at the beginning of chapter 41 of such title is amended by striking the item relating to section 721. | the bill names no machine-readable US Code section |
 | — | repeal | Section 506 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4434; 10 U.S.C. 525 note) is repealed. | the bill names no machine-readable US Code section |
@@ -94,15 +105,94 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2113a(b)(1) of title 10, United States Code, is amended by striking “health and health education” and inserting “health care, higher education administration, and public policy”. | the bill names no machine-readable US Code section |
 | — | insert | Chapter 101 of title 10, United States Code, is amended by inserting after section 2004 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 101 of such title is amended by inserting after the item relating to section 2004 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 903 of title 10, United States Code, is amended by inserting after section 9361 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 9361 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Section 572(b)(4) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3271; 20 U.S.C. 7703b(b)(4)) is amended by striking “September 30, 2010” and inserting “September 30, 2012”. | the bill names no machine-readable US Code section |
 | — | strike | Subsection (a)(2) of section 1404A of the Defense Dependents' Education Act of 1978 (20 U.S.C. 923a) is amended by striking “, and only through the 2010–2011 school year”. | the bill names no machine-readable US Code section |
 | — | insert | Subsection (c)(1) of such section is amended by inserting after “Secretary” the following: “, with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2164 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following new subparagraph (C): | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), as redesignated by paragraph (1), by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”. | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (4) through (15) as paragraphs (3) through (14), respectively; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 576(e)(1) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1924; 10 U.S.C. 4331 note) is amended by striking “one year after the initiation of its examination under su… | the bill names no machine-readable US Code section |
 | — | amend | Section 974 of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The item relating to such section in the table of sections at the beginning of chapter 49 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “For” and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | in the section heading, by inserting “and spouses of military personnel” before the period at the end. | the bill names no machine-readable US Code section |
+| — | replace | The table of contents in section 1(b) of such Act (50 U.S.C. App. 501) is amended by striking the item relating to section 705 and inserting the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “A servicemember” and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “or the spouse of a servicemember” after “The personal property of a servicemember”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or the spouse’s” after “servicemember’s”. | the bill names no machine-readable US Code section |
+| — | insert | Section 508 of the Servicemembers Civil Relief Act (50 U.S.C. App. 568) is amended in subsection (b) by inserting “or the spouse of such servicemember” after “a servicemember in military service”. | the bill names no machine-readable US Code section |
+| — | replace | Section 509(d)(1) of title 32, United States Code, is amended by striking “may not exceed” and all that follows and inserting “may not exceed the amount as follows: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (7), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) is amended by inserting after section 103 the following new section: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (8), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of such Act (42 U.S.C. 1973ff–1(a)), as amended by section 586, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (7); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (8) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “general elections for Federal office” and inserting “general, special, primary, and runoff elections for Federal office”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), in the matter preceding paragraph (1), by striking “a general election” and inserting “a general, special, primary, or runoff election for Federal office”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), by striking “the general election” each place it appears and inserting “the general, special, primary, or runoff election for Federal office”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “General.—The Presidential” and inserting “General.— | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–1), as amended by section 587, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.), as amended by section 587, is amended by inserting after section 103A the following new section: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (8); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (9) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–1), as amended by section 589, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (9); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (10) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (9), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (10), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | repeal | Subsections (a) through (d) of section 104 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–3) are repealed. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “, for use by States in accordance with section 104”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “for use by States in accordance with section 104”; and | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “Use of single application for all subsequent elections” and inserting “Prohibition of refusal of applications on grounds of early submission”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (e), by striking “(e) Prohibition of refusal of applications on grounds of early submission.—”. | the bill names no machine-readable US Code section |
+| — | insert | The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) is amended by inserting after section 105 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Attorney” and inserting “(a) In general.—The Attorney”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 254(a) of the Help America Vote Act of 2002 (42 U.S.C. 15404(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A), by striking “section 254” and inserting “subsection (a) of section 254 (or, in the case where a State is seeking a requirements payment made using funds appropriated pursuant to the authorization under section 257(4)… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(2) The State” and inserting “(2)(A) Subject to subparagraph (B), the State”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A), as added by clause (i), the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 257(a) of the Help America Vote Act of 2002 (42 U.S.C. 15407(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “$500” and inserting “$1,100”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(B), by striking “$500” and inserting “$1,100”. | the bill names no machine-readable US Code section |
 | — | replace | Section 308b(g) of title 37, United States Code, is amended by striking “December 31, 2009” and inserting “December 31, 2010”. | the bill names no machine-readable US Code section |
@@ -149,7 +239,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “family members of a member described in paragraph (2)” and inserting “individuals who, with respect to a member described in paragraph (2), are designated individuals for that member”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “that the presence of the family member” and inserting “, with respect to any such individual, that the presence of such individual”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “of family members” and inserting “of designated individuals”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of subsection (b) of such section is amended by striking “the term” and all that follows and inserting | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of such subsection is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “in or outside the United States”; and | the bill names no machine-readable US Code section |
@@ -177,17 +267,42 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
 | — | insert | Subsection (a) of such section is amended by inserting “of Defense” after “the Secretary”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraph (2): | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (a)(1)” the first place it appears and inserting “paragraphs (1) and (2) of subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (a)(1)” the second place it appears and inserting “paragraph (1) or (2) of subsection (a)”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (i) of section 681 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3321) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | In section 1450, by striking subsection (c). | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively. | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (k); and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (m). | the bill names no machine-readable US Code section |
+| — | strike | In section 1451(g)(1), by striking subparagraph (C). | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(2), by striking “does not apply—” and all that follows and inserting “does not apply in the case of a deduction made through administrative error.”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (g). | the bill names no machine-readable US Code section |
+| — | strike | In section 1455(c), by striking “, 1450(k)(2),”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “Except as provided in paragraph (2)(B), the Secretary concerned” and inserting “The Secretary concerned”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Dependent children.—” and all that follows through “In the case of a member described in paragraph (1),” and inserting “Dependent children annuity when no eligible surviving spouse.—In the case of a member described in parag… | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (B). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1218 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1222 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 61 of title 10, United States Code, is amended by inserting after section 1218 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 61 of such title is amended by inserting after the item relating to section 1218 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008” and inserting “September 11, 2001”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “in any fiscal year after such date” and inserting “in any fiscal year after fiscal year 2001”. | the bill names no machine-readable US Code section |
 | — | insert | Chapter 55 of title 10, United States Code, is amended by inserting after section 1076d the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 55 of such title is amended by inserting after the item relating to section 1076d the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Section 1076a(k)(3) of title 10, United States Code, is amended by inserting before the period at the end the following: “, except that, in the case of a dependent described by subparagraph (D) or (I) of section 1072(2) of this title, th… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraph (4): | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 55 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “paragraph (3)” and inserting “paragraph (4)”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “except as provided in paragraph (3),” before “medical and dental care”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3), (4), (5), and (6) as paragraphs (4), (5), (6), and (7), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph (3): | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) of paragraph (6), as redesignated by paragraph (2) of this section, by striking “paragraph (4)” and inserting “paragraph (5)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1074i(a) of title 10, United States Code, is amended by striking “100 miles” and inserting “50 miles”. | the bill names no machine-readable US Code section |
 | — | insert | Chapter 139 of title 10, United States Code, is amended by inserting after section 2359b the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 139 of such title is amended by inserting after the item relating to section 2359b the following new item: | the bill names no machine-readable US Code section |
 | — | repeal | section 2359c of title 10, United States Code (as added by subsection (a)), is repealed; and | the bill names no machine-readable US Code section |
@@ -195,11 +310,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2445d of title 10, United States Code, is amended by striking “of this title” and all that follows and inserting “of this title, the Secretary may designate the program to be treated only as a major automated information system p… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following new subparagraph (B): | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (A) of paragraph (2) of such subsection is amended by striking “, other than” and all that follows and inserting “from amounts available for operation and maintenance.”. | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (B) of paragraph (2) of such subsection is amended by inserting “, from amounts available to such military department or Defense Agency, as the case may be, for operation and maintenance,” after “remit to the Secretary of De… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking “Not later than” and inserting “Subject to paragraph (4), not later than”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of such subsection is further amended by striking subparagraphs (C) and (D) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e)(5) of such section is amended by striking “as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008” and inserting “serving in a position in the acquisition workforce as of January 28,… | the bill names no machine-readable US Code section |
 | — | insert | Subsection (a) of such section is amended by inserting “Development” after “Workforce”. | the bill names no machine-readable US Code section |
@@ -217,16 +332,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsection (d)(3) of section 841 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 230) is amended by striking “two years” and inserting “three years”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection (f): | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (6) and (7) as paragraphs (8) and (9), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (5) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | Section 2473(c) of title 10, United States Code, is amended by inserting before the period at the end the following: “, and any subsequent modifications to such list of firms pursuant to a review by the Secretary of Defense”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “The authorization” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “With respect” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 9(y) of the Small Business Act (15 U.S.C. 638(y)) is amended in paragraphs (1), (2), and (4) by inserting “and the Small Business Technology Transfer Program” after “Small Business Innovation Research Program”. | the bill names no machine-readable US Code section |
 | — | strike | Such section is further amended by striking paragraph (6). | the bill names no machine-readable US Code section |
 | — | strike | in the subsection heading, by striking “Pilot”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “Pilot” each place it appears. | the bill names no machine-readable US Code section |
 | — | repeal | Section 813 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1543) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 31(b)(2)(B) of the Small Business Act (15 U.S.C. 657a(b)(2)(B)) is amended by striking “shall” and inserting “may”. | the bill names no machine-readable US Code section |
 | — | amend | Chapter 4 of title 10, United States Code, is amended by adding after section 137 the following new section: | the bill names no machine-readable US Code section |
 | — | replace | in such section, as so transferred and redesignated, by striking “Deputy Under Secretary” each place it appears and inserting “Assistant Secretary”. | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (a) and inserting the following new subsection (a): | the bill names no machine-readable US Code section |
@@ -256,6 +374,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | The heading of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The item relating to such section in the table of sections at the beginning of chapter 2 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | The following provisions of law are repealed: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 10505 as section 10505a; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 10504 the following new section 10505: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections at the beginning of chapter 1011 of such title is amended by striking the item relating to section 10505 and inserting the following new items: | the bill names no machine-readable US Code section |
+| — | replace | Section 10506(a)(1) of such title is amended by striking “and the Director of the Joint Staff of the National Guard Bureau” and inserting “, the Vice Chief of the National Guard Bureau, and the Director of the Joint Staff of the National… | the bill names no machine-readable US Code section |
 | — | amend | Section 2274 of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 135 of such title is amended by striking the item relating to section 2274 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Section 423 of title 10, United States Code, is amended by inserting “and the Defense Intelligence Agency” after “the military departments” each place it appears in subsections (a) and (c). | the bill names no machine-readable US Code section |
@@ -276,6 +398,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
 | — | amend | Chapter 47A of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (13) of section 802 of title 10, United States Code (article 2 of the Uniform Code of Military Justice), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 47A of title 10, United States Code, as amended by section 1031(a), is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections of the beginning of such subchapter, as amended by section 1031(a), is further amended by adding after the item relating to section 948d the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Section 8111(d)(3) of title 38, United States Code, is amended by striking “September 30, 2010” and inserting “September 30, 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 127b(c)(3)(C) of title 10, United States Code, is amended by striking “September, 30, 2009” and inserting “September, 30, 2010”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
@@ -285,16 +409,33 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “The Secretary of Defense”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E) of paragraph (1), as designated by this paragraph, by striking “paragraphs (1) through (4)” and inserting “subparagraphs (A) through (D)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph (2): | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Secretary of Defense” and inserting “the Secretary of Commerce”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives” and inserting “Congress”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph (2): | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Secretary of Defense” and inserting “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation,… | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives” and inserting “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and t… | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following new paragraph (2): | the bill names no machine-readable US Code section |
 | — | insert | by inserting “validated” before “performance requirements”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “in accordance with Office of Management and Budget Circular A–109” after “Plan”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8 of the Inspector General Act of 1978 (5 U.S.C. App. 8) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by indenting such subparagraphs, as so redesignated, four ems from the left margin; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “other department” and inserting “other departments”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(e) The” and inserting “(e)(1) Except as provided in paragraph (2), the”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (2), by adding “or” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), in the first sentence, by inserting “, except that a law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer eligible for retirement under 8412(d)(3) shall be separa… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), in the first sentence, by inserting “, except that a member of the Capitol Police eligible for retirement under 8412(d)(3) shall be separated from service on the last day of the month in which that employee becomes 57 … | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d), in the first sentence, by inserting “, except that a member of the Supreme Court Police eligible for retirement under 8412(d)(3) shall be separated from service on the last day of the month in which that employee becom… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “total service as” and inserting “civilian service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, customs and border protection of… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “so much of such individual's total service as exceeds 20 years” and inserting “the remainder of such individual’s total service”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h), as redesignated by paragraph (1), by striking “September 30, 2009” and inserting “September 30, 2010”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 31(b)(2)(B) of the Small Business Act (15 U.S.C. 657a(b)(2)(B)) is amended by striking “shall” and inserting “may”. | the bill names no machine-readable US Code section |
+| — | insert | Section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)) is amended in the fourth sentence by inserting “and subcontract” after “not less than 3 percent of the total value of all prime contract”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (a), (b), (c), (d), (e), (i), and (j); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f), (g), and (h) as subsections (d), (e), and (f) respectively. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 9902 of such title is further amended by inserting before subsection (d), as redesignated by subsection (a)(2) of this section, the following new subsections: | the bill names no machine-readable US Code section |
@@ -311,12 +452,22 @@ complete account of the bill's effect, which it is not.
 | — | amend | Paragraph (1) of subsection (g) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a) of section 1101 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4615) is amended by striking “calendar year 2009” and inserting “calendar years 2009 and 2010”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of such section is amended by striking “Section 5307 of title 5, United States Code” and inserting “Aggregate limitations on pay, whether established by law or regulation”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (l) as subsection (m); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (k) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(k)” and inserting “(l)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or (k)” and inserting “(k), or (l)”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(h)” and inserting “(i)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or (h)” and inserting “(h), or (i)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(l)(2)” and inserting “(m)(2)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(i)(2)” and inserting “(j)(2)”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e)(1)(A) of section 166a of title 10, United States Code, is amended by striking “$15,000” and inserting “the investment unit threshold in effect under section 2245a of this title”. | the bill names no machine-readable US Code section |
 | — | amend | The section heading of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 6 of such title is amended by striking the item relating to section 166a and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | replace | by striking “assigned temporarily” and inserting “assigned temporarily as follows:”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), as so designated, by striking “to the headquarters” and inserting “To the headquarters”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1206(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3456), as amended by section 1206 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–36… | the bill names no machine-readable US Code section |
 | — | replace | Section 1208(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086) is amended in the second sentence by striking “shall describe the support” and all that follows through … | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the bill names no machine-readable US Code section |
@@ -324,7 +475,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | Paragraph (2) of subsection (c) of such section, as redesignated by subsection (a)(1) of this section, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (1) of subsection (d) of such section, as so redesignated, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e) of such section, as so redesignated, is amended by striking “shall—” and all that follows and inserting “shall notify the congressional defense committees not later than 15 days before making any reimbursement under the au… | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 1232(b)(6) of the National Defense Authorization Act for Fiscal Year 2008 (122 Stat. 393), as amended by section 1217 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 463… | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading, by striking “fiscal years 2008 and 2009” and inserting “fiscal year 2010”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “each of fiscal years 2008 and 2009” and inserting “fiscal year 2010”; | the bill names no machine-readable US Code section |
@@ -336,4 +487,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subsection (f) the following new subsection (g): | the bill names no machine-readable US Code section |
 | — | replace | Subsections (e)(1) and (f)(1) of such section are amended by striking “the date of the enactment of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009” and inserting “October 14, 2008,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1207(g) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3458), as amended by section 1210 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat.… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A), by striking “the Secretary of Defense shall submit” and inserting “the Secretary of Defense, after consultation with the Secretary of State, shall submit”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and indenting each clause, as so redesignated, 6 ems from the left margin; | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall include an itemized description” and inserting the following: “shall include the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “until December 31, 2010, the President shall submit” and inserting “(but not later than the first of each May), the Director of the Office of Management and Budget shall submit”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 3305(a)(5) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 50 U.S.C. 98d note), as most recently amended by section 1412(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Yea… | the bill names no machine-readable US Code section |
