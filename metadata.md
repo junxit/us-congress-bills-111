@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1675
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1675
@@ -30,9 +30,10 @@ Frank Melville Supportive Housing Investment Act of 2009
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Frank Melville Supportive Housing Investment Act of 2009
 - 2009-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 51 (Roll no. 607). (text: CR 7/20/2009 H8381-8384)
 - 2009-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 51 (Roll no. 607).(text: CR 7/20/2009 H8381-8384)
+- 2009-07-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
