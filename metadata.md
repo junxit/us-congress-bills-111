@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3288
@@ -20,6 +20,27 @@ Consolidated Appropriations Act, 2010
 
 - House — Appropriations Committee
 
+## Recorded votes (18)
+
+- 2009-07-23 — [House 111-1-620](votes/house-111-1-0620.md) — On Agreeing to the Amendment — **Failed** (152–276)
+- 2009-07-23 — [House 111-1-621](votes/house-111-1-0621.md) — On Agreeing to the Amendment — **Failed** (136–284)
+- 2009-07-23 — [House 111-1-622](votes/house-111-1-0622.md) — On Agreeing to the Amendment — **Failed** (116–313)
+- 2009-07-23 — [House 111-1-623](votes/house-111-1-0623.md) — On Agreeing to the Amendment — **Failed** (181–252)
+- 2009-07-23 — [House 111-1-624](votes/house-111-1-0624.md) — On Agreeing to the Amendment — **Failed** (145–287)
+- 2009-07-23 — [House 111-1-625](votes/house-111-1-0625.md) — On Agreeing to the Amendment — **Failed** (166–267)
+- 2009-07-23 — [House 111-1-626](votes/house-111-1-0626.md) — On Agreeing to the Amendment — **Failed** (152–279)
+- 2009-07-23 — [House 111-1-627](votes/house-111-1-0627.md) — On Agreeing to the Amendment — **Failed** (108–327)
+- 2009-07-23 — [House 111-1-628](votes/house-111-1-0628.md) — On Agreeing to the Amendment — **Failed** (105–328)
+- 2009-07-23 — [House 111-1-629](votes/house-111-1-0629.md) — On Agreeing to the Amendment — **Failed** (124–310)
+- 2009-07-23 — [House 111-1-630](votes/house-111-1-0630.md) — On Agreeing to the Amendment — **Failed** (125–310)
+- 2009-07-23 — [House 111-1-631](votes/house-111-1-0631.md) — On Agreeing to the Amendment — **Failed** (98–331)
+- 2009-07-23 — [House 111-1-632](votes/house-111-1-0632.md) — On Agreeing to the Amendment — **Failed** (105–329)
+- 2009-07-23 — [House 111-1-633](votes/house-111-1-0633.md) — On Agreeing to the Amendment — **Failed** (105–329)
+- 2009-07-23 — [House 111-1-634](votes/house-111-1-0634.md) — On Agreeing to the Amendment — **Failed** (124–309)
+- 2009-07-23 — [House 111-1-635](votes/house-111-1-0635.md) — On Agreeing to the Amendment — **Failed** (109–326)
+- 2009-07-23 — [House 111-1-636](votes/house-111-1-0636.md) — On Motion to Recommit with Instructions — **Failed** (192–226)
+- 2009-07-23 — [House 111-1-637](votes/house-111-1-0637.md) — On Passage — **Passed** (256–168)
+
 ## Actions
 
 - 2009-07-22 — Introduced in House
@@ -27,3 +48,211 @@ Consolidated Appropriations Act, 2010
 - 2009-07-22 — Rules Committee Resolution H. Res. 669 Reported to House. Rule provides for consideration of H.R. 3288 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-07-22 — The House Committee on Appropriations reported an original measure, H. Rept. 111-218, by Mr. Olver.
 - 2009-07-22 — The House Committee on Appropriations reported an original measure, H. Rept. 111-218, by Mr. Olver.
+- 2009-07-23 — Amendment (A001) offered by Mr. Olver. (consideration: CR H8638-8639; text: CR H8638)
+- 2009-07-23 — Amendment (A002) offered by Mr. Hensarling. (consideration: CR H8639-8641, H8664; text: CR H8639)
+- 2009-07-23 — Amendment (A003) offered by Mr. Latham. (consideration: CR H8641-8642, H8664-8665; text: CR H8641)
+- 2009-07-23 — Amendment (A004) offered by Mr. McHenry. (consideration: CR H8642-8643; text: CR H8642)
+- 2009-07-23 — Amendment (A005) offered by Mr. Schock. (consideration: CR H8643; text: CR H8643)
+- 2009-07-23 — Amendment (A006) offered by Mr. Cao. (consideration: CR H8643-8644; text: CR H8643)
+- 2009-07-23 — Amendment (A007) offered by Mr. Frelinghuysen. (consideration: CR H8644-8645, H8665-8666; text: CR H8644)
+- 2009-07-23 — Amendment (A008) offered by Mrs. Blackburn. (consideration: CR H8645-8646, H8666; text: CR H8645)
+- 2009-07-23 — Amendment (A009) offered by Mr. Burton (IN). (consideration: CR H8646-8647; text: CR H8646)
+- 2009-07-23 — Amendment (A010) offered by Mr. Jordan (OH). (consideration: CR H8647, H8666-8667; text: CR H8647)
+- 2009-07-23 — Amendment (A011) offered by Mr. Neugebauer. (consideration: CR H8647-8649, H8667-8668; text: CR H8647-8648)
+- 2009-07-23 — Amendment (A012) offered by Mr. Stearns. (consideration: CR H8649-8650, H8668; text: CR H8649)
+- 2009-07-23 — Amendment (A013) offered by Mr. Turner. (consideration: CR H8650; text: CR H8650)
+- 2009-07-23 — Amendment (A014) offered by Mr. Rangel. (consideration: CR H8650-8652; text: CR H8650)
+- 2009-07-23 — Amendment (A015) offered by Mr. Flake. (consideration: CR H8652-8653, H8668-8669; text: CR H8652)
+- 2009-07-23 — Amendment (A016) offered by Mr. Flake. (consideration: CR H8653-8655, H8669-8670; text: CR H8653)
+- 2009-07-23 — Amendment (A017) offered by Mr. Flake. (consideration: CR H8655-8656, H8670; text: CR H8655)
+- 2009-07-23 — Amendment (A018) offered by Mr. Flake. (consideration: CR H8656-8657, H8670-8671; text: CR H8656)
+- 2009-07-23 — Amendment (A019) offered by Mr. Flake. (consideration: CR H8657-8658, H8671-8672; text: CR H8657)
+- 2009-07-23 — Amendment (A020) offered by Mr. Flake. (consideration: CR H8658-8660, H8672; text: CR H8658-8659)
+- 2009-07-23 — Amendment (A021) offered by Mr. Flake. (consideration: CR H8660-8661, H8672-8673; text: CR H8660)
+- 2009-07-23 — Amendment (A022) offered by Mr. Hensarling. (consideration: CR H8661-8662, H8673-8674; text: CR H8661)
+- 2009-07-23 — Amendment (A023) offered by Mr. Hensarling. (consideration: CR H8662-8664, H8674; text: CR H8662)
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment agreed to Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — Amendment failed in Committee of the Whole
+- 2009-07-23 — By unanimous consent, the McHenry amendment was withdrawn. (consideration: CR H8643)
+- 2009-07-23 — Considered under the provisions of rule H. Res. 669. (consideration: CR H8604-8582)
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Cao amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 1.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 10.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 11.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 4.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 7.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 8.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 9.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Frelinghuysen amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 3.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment No. 4.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Hensarling amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Jordan amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Latham amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the McHenry amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Olver amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Rangel amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Stearns amendment.
+- 2009-07-23 — DEBATE - Pursuant to the provisions of H.Res. 669, the Committee of the Whole proceeded with 10 minutes of debate on the Turner amendment.
+- 2009-07-23 — DEBATE - The House proceeded with 10 minutes of debate on the Latham motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to make reductions in the appropriations for the Department of Transportation, the Department of Housing and Urban Development, and other related agencies.
+- 2009-07-23 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3288.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Burton (IN) amendment (A009) Agreed to by voice vote.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Cao amendment (A006) Agreed to by voice vote.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Olver amendment (A001) Agreed to by voice vote.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Rangel amendment (A014) Agreed to by voice vote.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Schock amendment (A005) Agreed to by voice vote.
+- 2009-07-23 — House amendment agreed to: On agreeing to the Turner amendment (A013) Agreed to by voice vote.
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Blackburn amendment (A008) Failed by recorded vote: 181 - 252 (Roll no. 623).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A015) Failed by recorded vote: 108 - 327 (Roll no. 627).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A016) Failed by recorded vote: 105 - 328 (Roll no. 628).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A017) Failed by recorded vote: 124 - 310 (Roll no. 629).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A018) Failed by recorded vote: 125 - 310 (Roll no. 630).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A019) Failed by recorded vote: 98 - 331 (Roll no. 631).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A020) Failed by recorded vote: 105 - 329 (Roll no. 632).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Flake amendment (A021) Failed by recorded vote: 105 - 329 (Roll no. 633).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Frelinghuysen amendment (A007) Failed by recorded vote: 116 - 313 (Roll no. 622).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Hensarling amendment (A002) Failed by recorded vote: 152 - 276 (Roll no. 620).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Hensarling amendment (A022) Failed by recorded vote: 124 - 309 (Roll no. 634).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 109 - 326 (Roll no. 635).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Jordan (OH) amendment (A010) Failed by recorded vote: 145 - 287 (Roll no. 624).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Latham amendment (A003) Failed by recorded vote: 136 - 284 (Roll no. 621).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Neugebauer amendment (A011) Failed by recorded vote: 166 - 267 (Roll no. 625).
+- 2009-07-23 — House amendment not agreed to: On agreeing to the Stearns amendment (A012) Failed by recorded vote: 152 - 279 (Roll no. 626).
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered
+- 2009-07-23 — House amendment offered/reported by : Amendment (A001) offered by Mr. Olver.(consideration: CR H8638-8639; text: CR H8638)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A002) offered by Mr. Hensarling.(consideration: CR H8639-8641, H8664; text: CR H8639)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A003) offered by Mr. Latham.(consideration: CR H8641-8642, H8664-8665; text: CR H8641)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A004) offered by Mr. McHenry.(consideration: CR H8642-8643; text: CR H8642)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A005) offered by Mr. Schock.(consideration: CR H8643; text: CR H8643)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A006) offered by Mr. Cao.(consideration: CR H8643-8644; text: CR H8643)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A007) offered by Mr. Frelinghuysen.(consideration: CR H8644-8645, H8665-8666; text: CR H8644)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Blackburn.(consideration: CR H8645-8646, H8666; text: CR H8645)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A009) offered by Mr. Burton (IN).(consideration: CR H8646-8647; text: CR H8646)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A010) offered by Mr. Jordan (OH).(consideration: CR H8647, H8666-8667; text: CR H8647)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A011) offered by Mr. Neugebauer.(consideration: CR H8647-8649, H8667-8668; text: CR H8647-8648)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A012) offered by Mr. Stearns.(consideration: CR H8649-8650, H8668; text: CR H8649)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A013) offered by Mr. Turner.(consideration: CR H8650; text: CR H8650)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A014) offered by Mr. Rangel.(consideration: CR H8650-8652; text: CR H8650)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A015) offered by Mr. Flake.(consideration: CR H8652-8653, H8668-8669; text: CR H8652)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A016) offered by Mr. Flake.(consideration: CR H8653-8655, H8669-8670; text: CR H8653)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A017) offered by Mr. Flake.(consideration: CR H8655-8656, H8670; text: CR H8655)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A018) offered by Mr. Flake.(consideration: CR H8656-8657, H8670-8671; text: CR H8656)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A019) offered by Mr. Flake.(consideration: CR H8657-8658, H8671-8672; text: CR H8657)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A020) offered by Mr. Flake.(consideration: CR H8658-8660, H8672; text: CR H8658-8659)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A021) offered by Mr. Flake.(consideration: CR H8660-8661, H8672-8673; text: CR H8660)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A022) offered by Mr. Hensarling.(consideration: CR H8661-8662, H8673-8674; text: CR H8661)
+- 2009-07-23 — House amendment offered/reported by : Amendment (A023) offered by Mr. Hensarling.(consideration: CR H8662-8664, H8674; text: CR H8662)
+- 2009-07-23 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 669 and Rule XVIII.
+- 2009-07-23 — Motion to recommit with instructions withdrawn. (consideration: CR H8679)
+- 2009-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-23 — Mr. Latham moved to recommit with instructions to Appropriations. (consideration: CR H8674-8679; text: CR H8674-8679)
+- 2009-07-23 — Mr. Latham moved to recommit with instructions to Appropriations. (consideration: CR H8679-8681; text: CR H8679-8680)
+- 2009-07-23 — On agreeing to the Blackburn amendment (A008) Failed by recorded vote: 181 - 252 (Roll no. 623).
+- 2009-07-23 — On agreeing to the Burton (IN) amendment (A009) Agreed to by voice vote.
+- 2009-07-23 — On agreeing to the Cao amendment (A006) Agreed to by voice vote.
+- 2009-07-23 — On agreeing to the Flake amendment (A015) Failed by recorded vote: 108 - 327 (Roll no. 627).
+- 2009-07-23 — On agreeing to the Flake amendment (A016) Failed by recorded vote: 105 - 328 (Roll no. 628).
+- 2009-07-23 — On agreeing to the Flake amendment (A017) Failed by recorded vote: 124 - 310 (Roll no. 629).
+- 2009-07-23 — On agreeing to the Flake amendment (A018) Failed by recorded vote: 125 - 310 (Roll no. 630).
+- 2009-07-23 — On agreeing to the Flake amendment (A019) Failed by recorded vote: 98 - 331 (Roll no. 631).
+- 2009-07-23 — On agreeing to the Flake amendment (A020) Failed by recorded vote: 105 - 329 (Roll no. 632).
+- 2009-07-23 — On agreeing to the Flake amendment (A021) Failed by recorded vote: 105 - 329 (Roll no. 633).
+- 2009-07-23 — On agreeing to the Frelinghuysen amendment (A007) Failed by recorded vote: 116 - 313 (Roll no. 622).
+- 2009-07-23 — On agreeing to the Hensarling amendment (A002) Failed by recorded vote: 152 - 276 (Roll no. 620).
+- 2009-07-23 — On agreeing to the Hensarling amendment (A022) Failed by recorded vote: 124 - 309 (Roll no. 634).
+- 2009-07-23 — On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 109 - 326 (Roll no. 635).
+- 2009-07-23 — On agreeing to the Jordan (OH) amendment (A010) Failed by recorded vote: 145 - 287 (Roll no. 624).
+- 2009-07-23 — On agreeing to the Latham amendment (A003) Failed by recorded vote: 136 - 284 (Roll no. 621).
+- 2009-07-23 — On agreeing to the Neugebauer amendment (A011) Failed by recorded vote: 166 - 267 (Roll no. 625).
+- 2009-07-23 — On agreeing to the Olver amendment (A001) Agreed to by voice vote.
+- 2009-07-23 — On agreeing to the Rangel amendment (A014) Agreed to by voice vote.
+- 2009-07-23 — On agreeing to the Schock amendment (A005) Agreed to by voice vote.
+- 2009-07-23 — On agreeing to the Stearns amendment (A012) Failed by recorded vote: 152 - 279 (Roll no. 626).
+- 2009-07-23 — On agreeing to the Turner amendment (A013) Agreed to by voice vote.
+- 2009-07-23 — On motion to recommit with instructions Failed by the Yeas and Nays: 192 - 226 (Roll no. 636).
+- 2009-07-23 — On passage Passed by the Yeas and Nays: 256 - 168 (Roll no. 637).
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 9, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frelinghuysen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jordan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Jordan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Latham amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Latham demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stearns amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Stearns demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-07-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 256 - 168 (Roll no. 637).
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Roll call votes on amendments in House
+- 2009-07-23 — Rule H. Res. 669 passed House.
+- 2009-07-23 — Rule provides for consideration of H.R. 3288 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2009-07-23 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H8620-8638, H8674)
+- 2009-07-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3288.
+- 2009-07-23 — The Speaker designated the Honorable Vic Snyder to act as Chairman of the Committee.
+- 2009-07-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8680-8681)
+- 2009-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H8674)
+- 2009-07-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

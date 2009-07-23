@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -48,11 +48,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | In the explanatory statement referenced in section 125 of title I of division I of Public Law 111–8 (123 Stat. 928), the item relating to “Highway 53 Interchanges, WI” is deemed to be amended by striking “Interchanges” and inserting “Int… | the bill names no machine-readable US Code section |
 | — | insert | In the Explanatory Statement referenced in division I of Public Law 111–8 under the heading Railroad Research and Development the item relating to “San Gabriel trench grade separation project, Alameda Corridor, CA” is deemed to be amende… | the bill names no machine-readable US Code section |
 | — | insert | In the Explanatory Statement referenced in division K of Public Law 110–161 under the heading Rail Line Relocation and Improvement Program the item relating to “Mt. Vernon railroad cut, NY” is deemed to be amended by inserting “Rail Line… | the bill names no machine-readable US Code section |
-| — | replace | In the explanatory statement referenced in section 186 of title I of division K of Public Law 110-161 (121 Stat. 2406), the item relating to “Broward County Southwest Transit Facility” in the table of projects under the heading “Bus and … | the bill names no machine-readable US Code section |
+| — | replace | In the explanatory statement referenced in section 186 of title I of division K of Public Law 110–161 (121 Stat. 2406), the item relating to “Broward County Southwest Transit Facility” in the table of projects under the heading “Bus and … | the bill names no machine-readable US Code section |
 | — | replace | The explanatory statement referenced in section 186 of title I of division I of Public Law 111–8 for “Alternatives analysis” under “Federal Transit Administration–Formula and Bus Grants” is deemed to be amended by striking “Hudson–Bergen… | the bill names no machine-readable US Code section |
 | — | insert | Section 51314 of title 46, United States Code, is amended in subsection (b) by inserting at the end “Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, … | the bill names no machine-readable US Code section |
-| — | replace | The referenced statement of the managers under this heading “Community Planning and Development” in title II of division K of Public Law 110-161 is deemed to be amended by striking “Custer County, ID for acquisition of an unused middle s… | the bill names no machine-readable US Code section |
-| — | replace | The referenced statement of the managers under this heading “Community Planning and Development” in title II of division I of Public Law 111-8 is deemed to be amended by striking “Custer County, ID, to purchase a middle school building” … | the bill names no machine-readable US Code section |
+| — | replace | The referenced statement of the managers under this heading “Community Planning and Development” in title II of division K of Public Law 110–161 is deemed to be amended by striking “Custer County, ID for acquisition of an unused middle s… | the bill names no machine-readable US Code section |
+| — | replace | The referenced statement of the managers under this heading “Community Planning and Development” in title II of division I of Public Law 111–8 is deemed to be amended by striking “Custer County, ID, to purchase a middle school building” … | the bill names no machine-readable US Code section |
 | — | replace | in subsection (m)(1), by striking “fiscal year” and all that follows through the period at the end and inserting “fiscal year 2010.”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (o), by striking “September ” and all that follows through the period at the end and inserting “September 30, 2010.”. | the bill names no machine-readable US Code section |
-| — | add-at-end | For payment to the Neighborhood Reinvestment Corporation for use in neighborhood reinvestment activities, as authorized by the Neighborhood Reinvestment Corporation Act (42 U.S.C. 8101–8107), $133,000,000: Provided, That Section 605(a) o… | the bill names no machine-readable US Code section |
+| — | add-at-end | For payment to the Neighborhood Reinvestment Corporation for use in neighborhood reinvestment activities, as authorized by the Neighborhood Reinvestment Corporation Act (42 U.S.C. 8101–8107), $133,000,000: Provided, That section 605(a) o… | the bill names no machine-readable US Code section |
