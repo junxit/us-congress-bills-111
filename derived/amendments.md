@@ -1,0 +1,59 @@
+---
+measure: H.R. 3306
+congress: 111
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 3306 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+26 amendatory instructions. 0 executed, 26 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) (as amended by section 2 of this Act) is amended further by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) (as amended by the preceding provisions of this Act) is amended further by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) (as amended by the preceding provisions of this Act) is amended further by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) (as amended by the preceding provisions of this Act) is amended further by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) (as amended by the preceding provisions of this Act) is amended further by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | insert | Title II of the Social Security Act is amended by inserting after section 208 (42 U.S.C. 408) the following new section: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting “or” at the end of paragraph (8) and by inserting after paragraph (8) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) through (e) as subsections (c) through (f), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (c)(1) (as so redesignated), by inserting “or (b)” after “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (4) and (5), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) (as designated under paragraph (2) of this subsection) the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 208 of the Social Security Act (as amended by section 9) is amended further by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “shall be fined” and all that follows and inserting the following: “shall be fined, imprisoned, or both, as provided in subsection (c).”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2)(B)(ii) (as added by section 9), by striking “be fined” and all that follows and inserting the following: “be fined, imprisoned, or both, as provided in subsection (c).”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “shall be fined” and all that follows and inserting “shall be fined, imprisoned, or both, as provided in subsection (b).”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “shall be fined” and all that follows and inserting “shall be fined, imprisoned, or both, as provided in subsection (b).”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Title XI of the Social Security Act is amended by inserting after section 1129B (42 U.S.C. 1320a–7b) the following new section: | the bill names no machine-readable US Code section |
