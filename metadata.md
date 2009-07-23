@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3219
@@ -16,7 +16,7 @@ Veterans' Benefits Act of 2010
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
@@ -46,6 +46,7 @@ Veterans' Benefits Act of 2010
 - Rep. Adler, John H. [D-NJ-3] (A000364)
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
 
 ## Committees (1)
 
@@ -58,3 +59,6 @@ Veterans' Benefits Act of 2010
 - 2009-07-15 — Introduced in House
 - 2009-07-15 — Ordered to be Reported by Voice Vote.
 - 2009-07-15 — Referred to the House Committee on Veterans' Affairs.
+- 2009-07-23 — Placed on the Union Calendar, Calendar No. 121.
+- 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-223.
+- 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-223.
