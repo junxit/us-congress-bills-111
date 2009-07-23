@@ -1,7 +1,7 @@
 ---
 measure: S. 1392
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 0 executed, 27 stated and not applied.
+31 amendatory instructions. 0 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2403(b)(2) of that Act (122 Stat. 524) is amended by striking “$84,300,000” and inserting “$139,300,000”. | the bill names no machine-readable US Code section |
 | — | replace | The table relating to the Defense Logistics Agency in section 2401(b) of the Military Construction Authorization Act for Fiscal Year 2009 (division B of Public Law 110–417; 122 Stat. 4691) is amended in the item relating to Souda Bay, Gr… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “$246,360,000” and inserting “$238,360,000”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 118 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “2009” and inserting “2010”; and | the bill names no machine-readable US Code section |
@@ -58,3 +58,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subsection (f) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The item relating to such section in the table of sections at the beginning of chapter 169 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 2881a of title 10, United States Code, is amended by striking “2009” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2863(a) of the Military Construction Act for Fiscal Year 1998 (division B of Public Law 105–85; 111 Stat. 2010), as amended by section 2865(a) of the Military Construction Act for Fiscal Year 2001 (as enacted into law by Public L… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Foundation” each place it appears in subsections (c) and (e) and inserting “Authority”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “137.56 acres” and inserting “120.70 acres”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraphs (C), (D), and (E). | the bill names no machine-readable US Code section |
