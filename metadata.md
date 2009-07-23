@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1511
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1511
@@ -45,10 +45,11 @@ Torture Victims Relief Reauthorization Act of 2009
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Torture Victims Relief Reauthorization Act of 2009
 - 2009-07-22 — Mr. Klein (FL) moved to suspend the rules and pass the bill.
 - 2009-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8552)
 - 2009-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8552)
+- 2009-07-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
