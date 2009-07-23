@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2972
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2972
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 115 Wes
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Fleming, John [R-LA-4] (F000456)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To designate the facility of the United States Postal Service located at 115 Wes
 - 2009-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 615). (text: CR 7/21/2009 H8464)
 - 2009-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 615).(text: CR 7/21/2009 H8464)
+- 2009-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
