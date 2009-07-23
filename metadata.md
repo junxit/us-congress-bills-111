@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2920
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2920
@@ -188,9 +188,10 @@ Statutory Pay-As-You-Go Act of 2009
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (3)
 
@@ -225,3 +226,4 @@ Statutory Pay-As-You-Go Act of 2009
 - 2009-07-22 — Rule provides for consideration of H.R. 2920 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute printed in part A of the report, as modified by the amendment printed in part B of this report shall be considered as adopted and the bill, as amended shall be considered as read. The resolution waives all points of order against the bill, as amended.
 - 2009-07-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8540)
 - 2009-07-22 — The previous question was ordered on the amendment (A002) without objection. (consideration: CR H8538)
+- 2009-07-23 — Received in the Senate and Read twice and referred to the Committee on the Budget.
