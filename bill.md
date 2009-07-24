@@ -29,10 +29,12 @@ In this Act the following definitions apply:
 
 - **(1)** *National Monument* The term national monument means the Waco Mammoth National Monument, established in section 4.
 - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Map* The term “map” means the map titled “Proposed Boundary Waco-Mammoth National Monument”, numbered T21/80,000, and dated April, 2009.
 
 ## § 4. Waco Mammoth National Monument, Texas
 
-- **(a)** *Establishment* There is established the Waco Mammoth National Monument in the State of Texas, as a unit of the National Park System.
+- **(a)** *Establishment* There is established the Waco Mammoth National Monument in the State of Texas, as a unit of the National Park System, as generally depicted on the map.
+- **(b)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 ## § 5. Administration of National Monument
 
@@ -44,7 +46,7 @@ In this Act the following definitions apply:
 - **(a)** *Acquisition of property* The Secretary is authorized to acquire from willing sellers lands, or interests in lands, within the proposed boundary of the national monument necessary for effective management.
 - **(b)** *Conditions* Lands identified in subsection (a) may be acquired—
   - **(1)** by donation, purchase with donated or appropriated funds, transfer from another Federal agency, or by exchange; and
-  - **(2)** in the case of lands owned by the State of Texas, or a political subdivision thereof, only by donation or exchange.
+  - **(2)** in the case of lands owned by the State of Texas, or a political subdivision thereof, or Baylor University only by donation or exchange.
 
 ## § 7. Construction of facilities on Nonfederal lands
 
