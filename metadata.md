@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1121
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1121
@@ -16,6 +16,22 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
+## Cosponsors (13)
+
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +41,11 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Referred to the House Committee on Natural Resources.
+- 2009-02-25 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-04-23 — Subcommittee Hearings Held.
+- 2009-07-09 — Committee Consideration and Mark-up Session Held.
+- 2009-07-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-07-09 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-07-24 — Placed on the Union Calendar, Calendar No. 125.
+- 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-227.
+- 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-227.
