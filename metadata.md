@@ -1,7 +1,7 @@
 ---
 measure: S. 151
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 151
@@ -21,9 +21,11 @@ Indian Arts and Crafts Amendments Act of 2009
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Indian Affairs Committee
+- House — Judiciary Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +36,10 @@ Indian Arts and Crafts Amendments Act of 2009
 - 2009-07-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. Without written report.
 - 2009-07-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. Without written report.
 - 2009-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.
+- 2009-07-24 — Message on Senate action sent to the House.
+- 2009-07-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8100-8101; text as passed Senate: CR S8100-8101)
+- 2009-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8100-8101; text as passed Senate: CR S8100-8101)
+- 2009-07-24 — Received in the House.
+- 2009-07-24 — Referred to House Judiciary
+- 2009-07-24 — Referred to House Natural Resources
+- 2009-07-24 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
