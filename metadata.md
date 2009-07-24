@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 35
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 35
@@ -28,3 +28,10 @@ A concurrent resolution authorizing printing of the pocket version of the United
 - 2009-07-24 — Received in the House.
 - 2009-07-24 — Referred to the House Committee on House Administration.
 - 2009-07-24 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S8099; text as passed Senate: CR S8099; text of measure as introduced: CR S8099)
+- 2009-07-29 — Committee on House Administration discharged.
+- 2009-07-29 — Committee on House Administration discharged.
+- 2009-07-29 — Considered by unanimous consent. (consideration: CR H9035-9036)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
+- 2009-07-29 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9035-9036)
+- 2009-07-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9035-9036)
