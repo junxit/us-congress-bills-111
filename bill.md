@@ -33,10 +33,18 @@ This Act may be cited as the “Illegal, Unreported, and Unregulated Fishing Enf
   >   - **(2)** *Additional enforcement authority* In addition to the powers of officers authorized pursuant to subsection (c), any officer who is authorized by the Secretary, or the head of any Federal or State agency that has entered into an agreement with the Secretary under subsection (a), to enforce the provisions of any Act to which this section applies may, with the same jurisdiction, powers, and duties as though section 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861) were incorporated into and made a part of each such Act—
   >     - **(A)** search or inspect any facility or conveyance used or employed in, or which reasonably appears to be used or employed in, the storage, processing, transport, or trade of fish or fish products;
   >     - **(B)** inspect records pertaining to the storage, processing, transport, or trade of fish or fish products;
-  >     - **(C)** detain, for a period of up to 5 days, any shipment of fish or fish product imported into, landed on, introduced into, exported from, or transported within the jurisdiction of the United States, or, if such fish or fish product is deemed to be perishable, sell and retain the proceeds therefrom for a period of up to 5 days; and
+  >     - **(C)** detain, for a period of up to 5 days, any shipment of fish or fish product imported into, landed on, introduced into, exported from, or transported within the jurisdiction of the United States, or, if such fish or fish product is deemed to be perishable, sell and retain the proceeds therefrom for a period of up to 5 days;
   >     - **(D)** make an arrest, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person’s presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony;
   >     - **(E)** search and seize, in accordance with any guidelines that are issued by the Attorney General; and
   >     - **(F)** execute and serve any subpoena, arrest warrant, search warrant issued in accordance with rule 41 of the Federal Rules of Criminal Procedure, or other warrant or civil or criminal process issued by any officer or court of competent jurisdiction.
+  >   - **(3)** *Disclosure of enforcement information* The Secretary may disclose, as necessary and appropriate, information, including information collected under joint authority of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 71 et seq.) or the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6901 et seq.) or other statutes implementing international fishery agreements, to any other Federal or State government agency, the Food and Agriculture Organization of the United Nations, the secretariat or equivalent of an international fishery management organization or arrangement made pursuant to an international fishery agreement, or a foreign government, if—
+  >     - **(A)** such government, organization, or arrangement has policies and procedures to protect such information from unintended or unauthorized disclosure; and
+  >     - **(B)** such disclosure is necessary—
+  >       - **(i)** to ensure compliance with any law or regulation enforced or administered by the Secretary;
+  >       - **(ii)** to administer or enforce any international fishery agreement to which the United States is a party;
+  >       - **(iii)** to administer or enforce a binding conservation measure adopted by any international organization or arrangement to which the United States is a party;
+  >       - **(iv)** to assist in any investigative, judicial, or administrative enforcement proceeding in the United States; or
+  >       - **(v)** to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government.
   > - **(e)** *Prohibited acts* It is unlawful for any person—
   >   - **(1)** to violate any provision of this title or any regulation or permit issued pursuant to this title;
   >   - **(2)** to refuse to permit any officer authorized to enforce the provisions of this title to board, search, or inspect a vessel, aircraft, vehicle, or shoreside facility subject to such person’s control for the purposes of conducting any search, investigation, or inspection in connection with the enforcement of this title, any regulation promulgated under this title, or any Act to which this section applies;
@@ -54,18 +62,11 @@ This Act may be cited as the “Illegal, Unreported, and Unregulated Fishing Enf
   - **(1)** inserting before the first sentence the following: “(a) In general.—”;
   - **(2)** in subsection (a) (as designated by paragraph (1) of this subsection) in the first sentence, inserting “, or arrangements made pursuant to an international fishery agreement,” after “organizations”; and
   - **(3)** adding at the end the following new subsections:
-    > - **(b)** *Data confidentiality*
-    >   - **(1)** *Disclosure authorized* The Secretary may disclose, as necessary and appropriate, information, including information collected under joint authority of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 71 et seq.), the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6901 et seq.), or any other statute implementing an international fishery agreement, to any person that is a Federal or State agency, the Food and Agriculture Organization of the United Nations, an international fishery management organization or arrangement made pursuant to an international fishery agreement, or a foreign government, if—
-    >     - **(A)** such person has polices and procedures to safeguard such information from unintended or unauthorized disclosure; and
-    >     - **(B)** the exchange of information is necessary—
-    >       - **(i)** to ensure compliance with any law or regulation enforced or administered by the Secretary;
-    >       - **(ii)** to implement, administer, or enforce any treaty to which the United States is a party;
-    >       - **(iii)** to implement, administer, or enforce any binding conservation measure adopted by any international organization or arrangement to which the United States is a party;
-    >       - **(iv)** to assist in any investigative, judicial, or administrative enforcement proceeding in the United States; or
-    >       - **(v)** to assist in any fisheries or living marine resource-related law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government.
-    >   - **(2)** *Confidentiality not applicable* Such disclosure shall not be subject to section 402(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b)).
+    > - **(b)** *Disclosure of information* The Secretary may disclose, as necessary and appropriate, information, including information collected under joint authority of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 71 et seq.), the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6901 et seq.), any other statute implementing an international fishery agreement, to any other Federal or State government agency, the Food and Agriculture Organization of the United Nations, or the secretariat or equivalent of an international fishery management organization or arrangement made pursuant to an international fishery agreement, if such government, organization, or arrangement, respectively, has policies and procedures to protect such information from unintended or unauthorized disclosure.
     > - **(c)** *IUU vessel lists* The Secretary may—
-    >   - **(1)** develop, maintain, and make public a list of vessels and vessel owners engaged in illegal, unreported, or unregulated fishing, including vessels or vessel owners identified by an international fishery management organization or arrangement made pursuant to an international fishery agreement, whether or not the United States is a party to such organization or agreement; and
+    >   - **(1)** develop, maintain, and make public a list of vessels and vessel owners engaged in illegal, unreported, or unregulated fishing or fishing-related activities in support of illegal, unreported, or unregulated fishing, including vessels or vessel owners identified by an international fishery management organization or arrangement made pursuant to an international fishery agreement, that—
+    >     - **(A)** the United States is party to; or
+    >     - **(B)** the United States is not party to, but whose procedures and criteria in developing and maintaining a list of such vessels and vessel owners are substantially similar to such procedures and criteria adopted pursuant to an international fishery agreement to which the United States is a party; and
     >   - **(2)** take appropriate action against listed vessels and vessel owners, including action against fish, fish parts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management agreements and trade agreements.
     > - **(d)** *Regulations* The Secretary may promulgate regulations to implement this section.
 
@@ -73,16 +74,27 @@ This Act may be cited as the “Illegal, Unreported, and Unregulated Fishing Enf
   > - **(b)** *Notification* The Secretary shall notify the President and that nation of such an identification.
 
 - **(d)** *Nations identified under section 610* Section 610(b)(1) of such Act (16 U.S.C. 1826k(b)(1)) is amended to read as follows:
-  > - **(2)** notify, by as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
+  > - **(1)** notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
 
 - **(e)** *Effect of certification under section 609* Section 609(d)(3)(A)(i) of such Act (16 U.S.C. 1826j(d)(3)(A)(i)) is amended by striking “that has not been certified by the Secretary under this subsection, or”.
-- **(f)** *Effect of certification under section 610* Section 610(c)(5) of such Act (16 U.S.C.1826k(c)(5)) is amended by striking “that has not been certified by the Secretary under this subsection, or”.
+- **(f)** *Effect of certification under section 610* Section 610(c)(5) of such Act (16 U.S.C. 1826k(c)(5)) is amended by striking “that has not been certified by the Secretary under this subsection, or”.
 - **(g)** *Identification of nations*
-  - **(1)** *Scope of identification* Section 609(a) of such Act (16 U.S.C. 1826j(a)) is amended—
+  - **(1)** *Scope of identification for actions of fishing vessels* Section 609(a) of such Act (16 U.S.C. 1826j(a)) is amended—
     - **(A)** in the matter preceding paragraph (1) by striking “2 years” and inserting “3 years”;
-    - **(B)** in paragraph (1) by inserting “that undermines the effectiveness of measures required by an international fishery management organization , taking into account whether” after “(1)”; and
-    - **(C)** in paragraph (1) by striking “vessels of”.
-  - **(2)** *Period of fishing practices supporting identification* Section 610(a)(1) of such Act (16 U.S.C. 1826k(a)(1)) is amended by striking “calendar year” and replacing with “three years”.
+    - **(B)** in paragraph (1), by inserting “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” after “(1)”; and
+    - **(C)** in paragraph (1), by striking “vessels of”.
+  - **(2)** *Additional grounds for identification* Section 609(a) of such Act (16 U.S.C. 1826j(a)) is further amended—
+    - **(A)** by redesignating paragraphs (1) and (2) in order as subparagraphs (A) and (B) (and by moving the margins of such subparagraphs 2 ems to the right);
+    - **(B)** by inserting before the first sentence the following:
+      > - **(1)** *Identification for actions of fishing vessels*
+
+    - **(C)** by adding at the end the following:
+      > - **(2)** *Identification for actions of nation* Taking into account the factors described under section 609(a)(1), the Secretary shall also identify, and list in such report, a nation—
+      >   - **(A)** if it is violating, or has violated at any point during the preceding three years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+      >   - **(B)** if it is failing, or has failed at any point during the preceding three years, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
+      > - **(3)** *Application to other entities* Where the provisions of this Act are applicable to nations, they shall also be applicable, as appropriate, to other entities that have competency to enter into international fishery management agreements.
+
+  - **(3)** *Period of fishing practices supporting identification* Section 610(a)(1) of such Act (16 U.S.C. 1826k(a)(1)) is amended by striking “calendar year” and replacing with “three years”.
 - **(h)** *Authorization of appropriations*
   - **(1)** Section 609(f) of such Act (16 U.S.C. 1826j) is amended by—
     - **(A)** striking “2007” and inserting “2010”; and
@@ -95,31 +107,31 @@ This Act may be cited as the “Illegal, Unreported, and Unregulated Fishing Enf
   - **(2)** Section 609(d)(1) of such Act (16 U.S.C. 1826j(d)(1)) is amended by striking “of its fishing vessels”.
   - **(3)** Section 609(d)(1)(A) of such Act (16 U.S.C. 1826j(d)(1)(A)) is amended by striking “of its fishing vessels”.
   - **(4)** Section 609(d)(2) of such Act (16 U.S.C. 1826j(d)(2)) is amended—
-    - **(A)** by striking “certification”;
-    - **(B)** by inserting “allowing importation” after “or other basis”;
-    - **(C)** by striking “harvesting”;
-    - **(D)** by striking “not certified under paragraph (1)” and inserting “issued a negative certification under paragraph (1)”; and
-    - **(E)** by striking “not certified under”.
+    - **(A)** by striking “for certification” and inserting “to authorize”;
+    - **(B)** by inserting “the importation” after “or other basis”;
+    - **(C)** by striking “harvesting”; and
+    - **(D)** by striking “not certified under paragraph (1)” and inserting “issued a negative certification under paragraph (1)”.
   - **(5)** Section 610 of such Act (16 U.S.C. 1826k) is amended as follows:
     - **(A)** In subsection (a)(1), by striking “practices;” and inserting “practices—”.
-    - **(B)** In subsection (c)(1)(A), by striking all after “United States” and inserting the following: “, (including mandatory use of circle hooks, careful handling and release equipment, and training and observer programs in the case of pelagic longline fishing), taking into account different conditions, and”.
-    - **(C)** In subsection (c)(4), by striking all text preceding subparagraph (B) and inserting the following:
-      > - **(4)** *Alternative procedure* The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis entry of fish or fish products from a vessel of a nation if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
-      >   - **(A)** are comparable to those of the United States (including mandatory use of circle hooks, careful handling and release equipment, and training and observer programs in the case of pelagic longline fishing), taking into account different conditions; and
+    - **(B)** In subsection (c)(1)(A), by striking “, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs”.
+    - **(C)** In subsection (c)(4), by striking all preceding subparagraph (B) and inserting the following:
+      > - **(4)** *Alternative procedure* The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
+      >   - **(A)** are comparable to those of the United States, taking into account different conditions; and
 
 ## § 3. Amendments to the High Seas Driftnet Fisheries Enforcement Act
 
 - **(a)** *Negative certification effects* Section 101 of the High Seas Driftnet Fisheries Enforcement Act (16 U.S.C. 1826a) is amended—
   - **(1)** in subsection (a)(2), by striking “recognized principles of” after “in accordance with”;
-  - **(2)** in subsection (a)(2)(A), inserting “or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826)” after “(1)”;
-  - **(3)** in subsection (b)(1)(A)(i), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing”;
-  - **(4)** in subsection (b)(1)(B), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing”;
-  - **(5)** in subsection (b)(3)(A)(i), by inserting “or a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “(1)(A)”;
-  - **(6)** in subsection (b)(4)(A), by inserting “or issues a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “paragraph (1)”;
-  - **(7)** in subsection (b)(4)(A)(i), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing”; and
-  - **(8)** in subsection (b)(4)(A)(i), by inserting “, or to address the offending activities for which a nation received a negative certification under section 609(d) or 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “beyond the exclusive economic zone of any nation”.
+  - **(2)** in subsection (a)(2)(A), by inserting “or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826)” after “(1)”;
+  - **(3)** in subsection (a)(2)(B), by inserting before the period the following: “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”;
+  - **(4)** in subsection (b)(1)(A)(i), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing”;
+  - **(5)** in subsection (b)(1)(B) and subsection (b)(2), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing” each place it appears;
+  - **(6)** in subsection (b)(3)(A)(i), by inserting “or a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “(1)(A)”;
+  - **(7)** in subsection (b)(4)(A), by inserting “or issues a negative certification under section 609(d) or section 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “paragraph (1)”;
+  - **(8)** in subsection (b)(4)(A)(i), by striking “or illegal, unreported, or unregulated fishing” after “driftnet fishing”; and
+  - **(9)** in subsection (b)(4)(A)(i), by inserting “, or to address the offending activities for which a nation received a negative certification under section 609(d) or 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” after “beyond the exclusive economic zone of any nation”.
 - **(b)** *Duration of negative certification effects* Section 102 of such Act (16 U.S.C. 1826b) is amended by—
-  - **(1)** striking “or illegal, unreported , or unregulated fishing”; and
+  - **(1)** striking “or illegal, unreported, or unregulated fishing”; and
   - **(2)** inserting “or effectively addressed the offending activities for which the nation received a negative certification under 609(d) or 610(c) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(d), 1826k(c))” before the period at the end.
 
 ## § 4. Amendments to the Tuna Conventions Act of 1950
@@ -137,7 +149,7 @@ Section 8 of the Tuna Conventions Act of 1950 (16 U.S.C. 957) is amended—
 - **(a)** *Unlawful activities* Section 810 of the North Pacific Anadromous Stocks Act of 1992 (16 U.S.C. 5009) is amended—
   - **(1)** in paragraph (5), by inserting “, investigation,” after “search”; and
   - **(2)** in paragraph (6), by inserting “, investigation,” after “search”.
-- **(b)** *Additional prohibitions and enforcement* Section 811 of the Northern Pacific Anadromous Stocks Convention Act of 1992 (16 U.S.C. 5010) is amended to read as follows:
+- **(b)** *Additional prohibitions and enforcement* Section 811 of the Northern Pacific Anadromous Stocks Act of 1992 (16 U.S.C. 5010) is amended to read as follows:
   > ## § 811. Additional prohibitions and enforcement
   >
   > For additional prohibitions relating to this Act and enforcement of this Act, see section 606 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g).
@@ -148,7 +160,7 @@ Section 8 of the Pacific Salmon Treaty Act of 1985 (16 U.S.C. 3637) is amended�
 
 - **(1)** in subsection (a)(2)—
   - **(A)** by inserting “, investigation,” after “search”; and
-  - **(B)** by striking “this title;” and inserting “this Act”;
+  - **(B)** by striking “this title;” and inserting “this Act;”;
 - **(2)** in subsection (a)(3)—
   - **(A)** by inserting “, investigation,” after “search”; and
   - **(B)** by striking “subparagraph (2) ;” and inserting “paragraph (2);”;
@@ -161,8 +173,8 @@ Section 8 of the Pacific Salmon Treaty Act of 1985 (16 U.S.C. 3637) is amended�
 The Western and Central Pacific Fisheries Convention Implementation Act (title V of Public Law 109–479) is amended—
 
 - **(1)** in section 503(a) (16 U.S.C. 6902(a)), by striking “one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council and the Pacific Fishery Management Council” and inserting “one of whom shall be a member of the Western Pacific Fishery Management Council, and one of whom shall be a member of the Pacific Fishery Management Council”;
-- **(2)** in section 503(c)(1) (16 U.S.C. 6902(c)(1)), by striking “shall be considered Federal employees” and all that follows through the end of the sentence and inserting “shall not be considered Federal employees except for purposes of injury compensation and tort claims liability as provided in chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.”;
-- **(3)** in section 503(d)(2)(B) (16 U.S.C. 6902(d)(2)(B)), by amending clause (ii) to read as follow:
+- **(2)** in section 503(c)(1) (16 U.S.C. 6902(c)(1)), by striking “shall be considered to be Federal employees” and all that follows through the end of the sentence and inserting “shall not be considered Federal employees except for purposes of injury compensation and tort claims liability as provided in chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.”;
+- **(3)** in section 503(d)(2)(B) (16 U.S.C. 6902(d)(2)(B)), by amending clause (ii) to read as follows:
   > - **(ii)** shall not be considered Federal employees while performing service except for the purposes of injury compensation and tort claims liability as provided in chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
 
 - **(4)** by amending section 506(c) (16 U.S.C. 6905(c)) to read as follows:
@@ -198,7 +210,7 @@ The Antarctic Marine Living Resources Convention Act of 1984 is amended—
     >     - **(A)** that has been in effect for 12 months or less;
     >     - **(B)** that is adopted by the Commission; and
     >     - **(C)** with respect to which the Secretary of State does not notify Commission in accordance with section 305(a)(1) within the time period allotted for objections under Article IX of the Convention.
-    >   - **(2)** Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
+    >   - **(2)** *Entering into force* Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
 
 - **(3)** by striking sections 308 and 309 (16 U.S.C. 2437 and 2438) and inserting the following:
   > ## § 308. Additional prohibitions and enforcement
@@ -216,13 +228,13 @@ The Atlantic Tunas Convention Act of 1975 is amended—
   - **(D)** by adding at the end the following:
     > - **(B)** Notwithstanding the requirements of subparagraph (A) and subsections (b) and (c) of section 553 of title 5, United States Code, the Secretary may issue final regulations to implement Commission recommendations referred to in paragraph (1) concerning trade restrictive measures against nations or fishing entities.
 
-- **(2)** in section 7 (16 U.S.C. 971e) by striking subsections (e) and (f) and redesignating subsection (g) as subsection (e); and
+- **(2)** in section 7 (16 U.S.C. 971e) by striking subsections (e) and (f) and redesignating subsection (g) as subsection (e);
 - **(3)** in section 8 (16 U.S.C. 971f)—
   - **(A)** by striking subsections (a) and (c); and
   - **(B)** by inserting before subsection (b) the following:
     > - **(a)** For additional prohibitions relating to this Act and enforcement of this Act, see section 606 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g).
 
-- **(4)** in subsection (b) by striking “the enforcement activities specified in section 8(a) of this Act” each place it appears and inserting “enforcement activities with respect to this Act that are otherwise authorized by law”; and
+- **(4)** in section 8(b) by striking “the enforcement activities specified in section 8(a) of this Act” each place it appears and inserting “enforcement activities with respect to this Act that are otherwise authorized by law”; and
 - **(5)** by striking section 11 (16 U.S.C. 971j) and redesignating sections 12 and 13 as sections 11 and 12, respectively.
 
 ## § 11. Amendments to the High Seas Fishing Compliance Act of 1965
@@ -238,17 +250,13 @@ Section 104(f) of the High Seas Fishing Compliance Act of 1995 (16 U.S.C. 5503(f
 - **(a)** *Scientific experts on joint technical committee* Section 605(a)(1) of the Pacific Whiting Act of 2006 (16 U.S.C. 7004)(a)(1)) is amended to read as follows:
   > - **(1)** *In general* The Secretary, in consultation with the Secretary of State, shall appoint no more than two individuals to serve as scientific experts on the joint technical committee, at least one of whom shall be an official of the National Oceanic and Atmospheric Administration.
 
-- **(b)** *Treatment as Federal employees* Section 609(a) of the Pacific Whiting Act of 2006 (16 U.S.C. 7008(a)) is amended by striking “shall be considered to be Federal employees while performing such service, only for purposes of—” and all that follows and inserting “shall not be considered Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.” after “United States Government,”.
+- **(b)** *Treatment as Federal employees* Section 609(a) of the Pacific Whiting Act of 2006 (16 U.S.C. 7008(a)) is amended by striking “shall be considered to be Federal employees while performing such service, only for purposes of—” and all that follows and inserting “shall not be considered Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.”.
 
 ## § 13. Amendments to the Dolphin Protection Consumer Information Act
 
-The Dolphin Protection Consumer Information Act (16 U.S.C. 1385) is amended—
+The Dolphin Protection Consumer Information Act (16 U.S.C. 1385) is amended by amending subsection (e) to read as follows:
 
-- **(1)** by adding at the end of subsection (d) the following:
-  > - **(4)** An act that is a violation of section 5 of the Federal Trade Commission Act under paragraph (1) is deemed also to be a violation of section 609 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j).
-
-- **(2)** by amending subsection (e) to read as follows:
-  > - **(e)** *Additional prohibitions and enforcement* For additional prohibitions relating to this Act and enforcement of this Act, see section 606 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g).
+> - **(e)** *Additional prohibitions and enforcement* For additional prohibitions relating to this Act and enforcement of this Act, see section 606 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g).
 
 ## § 14. Amendments to the Northern Pacific Halibut Act of 1982
 
@@ -269,10 +277,10 @@ The Dolphin Protection Consumer Information Act (16 U.S.C. 1385) is amended—
 
 Section 207 of the Northwest Atlantic Fisheries Convention Act of 1995 (16 U.S.C. 5606) is amended—
 
-- **(1)** in the section heading, by striking “and penalties” and inserting “and enforcement.”;
+- **(1)** in the section heading, by striking “and penalties” and inserting “and enforcement”;
 - **(2)** in subsection (a)(2), by inserting “, investigation,” before “or inspection”;
-- **(3)** in subsection (a)(3), by inserting “, investigation,” before “or inspection”;
-- **(4)** by striking subsection (b) through (f) and inserting the following:
+- **(3)** in subsection (a)(3), by inserting “, investigation,” before “or inspection”; and
+- **(4)** by striking subsections (b) through (f) and inserting the following:
   > - **(b)** *Additional prohibitions and enforcement* For additional prohibitions relating to this Act and enforcement of this Act, see section 606 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826g).
 
 ## § 16. Amendment to the Magnuson-Stevens Fishery Conservation and Management Act
@@ -281,12 +289,12 @@ Section 307(1)(Q) of the Magnuson-Stevens Fishery Conservation and Management Ac
 
 ## § 17. International cooperation and assistance program
 
-- **(a)** *International cooperation and assistance program* The Secretary of Commerce, acting through the National Marine Fisheries Service may establish an international cooperation and assistance program, including grants, to provide assistance for international fishing capacity building efforts.
+- **(a)** *International cooperation and assistance program* The Secretary of Commerce, acting through the National Marine Fisheries Service, may establish an international cooperation and assistance program, including grants, to provide assistance for sustainable fishery management capacity building efforts.
 - **(b)** *Authorized activities* In carrying out the program, the Secretary may—
   - **(1)** provide funding and technical expertise to other nations to assist them in addressing illegal, unreported, or unregulated fishing activities;
   - **(2)** provide funding and technical expertise to other nations to assist them in reducing the loss and environmental impacts of derelict fishing gear, reducing the bycatch of living marine resources, and promoting international marine resource conservation;
   - **(3)** provide funding, technical expertise, and training to other nations to aid them in building capacity for enhanced fisheries management, fisheries monitoring, catch and trade tracking activities, enforcement, and international marine resource conservation;
-  - **(4)** establish partnerships with other Federal agencies, as appropriate, to ensure that fisheries development assistance to other nations is directed toward projects that promote sustainable fisheries; and
+  - **(4)** establish partnerships with other Federal agencies or non-governmental organizations, as appropriate, to ensure that fisheries development assistance to other nations is directed toward projects that promote sustainable fisheries; and
   - **(5)** conduct outreach and education efforts in order to promote public and private sector awareness of international fisheries sustainability issues, including the need to combat illegal, unreported, or unregulated fishing activity and to promote international marine resource conservation.
 - **(c)** *Guidelines* The Secretary may establish guidelines necessary to implement the program.
 - **(d)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $5,000,000 for each of fiscal years 2010 through 2015 to carry out this section.
