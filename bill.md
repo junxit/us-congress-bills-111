@@ -2,16 +2,16 @@
 legis-num: H. RES. 538
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 538
 
-> Supporting Olympic Day on June 23, 2009, and encouraging the International Olympic Committee to select Chicago, Illinois, as the host city for the 2016 Olympic and Paralympic Games.
+> Resolution supporting Olympic Day and encouraging the International Olympic Committee to select Chicago, Illinois, as the host city for the 2016 Olympic and Paralympic Games.
 
 ## Preamble
 
-- Whereas Olympic Day, June 23, 2009, celebrates the Olympic ideal of developing peace through sport;
+- Whereas Olympic Day, June 23, 2009, celebrated the Olympic ideal of developing peace through sport;
 - Whereas June 23 marks the anniversary of the founding of the modern Olympic movement, the date on which the Congress of Paris approved the proposal of Pierre de Coubertin to found the modern Olympics;
 - Whereas for more than 100 years, the Olympic movement has built a more peaceful and better world by educating young people through amateur athletics, by bringing together athletes from many countries in friendly competition, and by forging new relationships bound by friendship, solidarity, and fair play;
 - Whereas the United States and Chicago, Illinois, advocate the ideals of the Olympic movement;
