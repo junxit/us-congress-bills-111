@@ -2,7 +2,7 @@
 legis-num: H. RES. 593
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 593
@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas August 21, 2009, marks the 50th Anniversary of President Dwight D. Eisenhower’s signing of Proclamation 3309, which admitted Hawaii into the Union in compliance with the Hawaii Admission Act, enacted by the United States Congress on March 18, 1959;
 - Whereas Hawaii is “a place like no other, with a people like no other” and bridges the mainland United States to the Asia-Pacific region;
-- Whereas the 44th President of the United States, Barack Obama, was born in Hawaii;
-- Whereas Hawaii has contributed to the diversity of Congress in electing the first Native Hawaiian member of Congress, Prince Jonah Kuhio Kalaniana‘ole, the first Asian-American member, Hiram Fong, the first woman of color, Patsy T. Mink, and the first Native Hawaiian to serve in the Senate, Daniel Kahikina Akaka;
+- Whereas the 44th President of the United States, Barack Obama, was born in Hawaii on August 4, 1961;
+- Whereas Hawaii has contributed to the diversity of Congress in electing— (1)the first Native Hawaiian to serve in Congress, Prince Jonah Kuhio Kalaniana‘ole; (2)the first Asian-American to serve in the Senate, Hiram Fong; (3)the first woman of color to serve in Congress, Patsy T. Mink; (4)the first Native Hawaiian to serve in the Senate, Daniel Kahikina Akaka; and (5)the first Japanese-American to serve in the Senate, Daniel Ken Inouye;
 - Whereas Hawaii is an example to the rest of the world of unity and positive race relations;
 - Whereas Pearl Harbor is a strategic military base for the U.S. in the Pacific and also a historical site for the Nation, being the location of the December 7, 1941, surprise Japanese aerial attack that thrust the Nation into World War II;
 - Whereas Hawaii is home to 1/4 of the endangered species in the United States;
