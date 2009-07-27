@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1016
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1016
@@ -173,3 +173,5 @@ Veterans Health Care Budget Reform and Transparency Act of 2009
 - 2009-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 409 - 1 (Roll no. 420). (text: CR H7094-7095)
 - 2009-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 409 - 1 (Roll no. 420).(text: CR H7094-7095)
 - 2009-06-23 — The title of the measure was amended. Agreed to without objection.
+- 2009-06-24 — Received in the Senate.
+- 2009-07-27 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
