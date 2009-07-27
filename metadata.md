@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1376
@@ -20,6 +20,10 @@ Waco Mammoth National Monument Establishment Act of 2009
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-27 — [House 111-1-648](votes/house-111-1-0648.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (308–74)
+
 ## Actions
 
 - 2009-03-06 — Introduced in House
@@ -33,3 +37,12 @@ Waco Mammoth National Monument Establishment Act of 2009
 - 2009-07-24 — Placed on the Union Calendar, Calendar No. 127.
 - 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-229.
 - 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-229.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered as unfinished business. (consideration: CR H8846-8847)
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8826-8829)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1376.
+- 2009-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-27 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 308 - 74 (Roll no. 648). (text: CR H8826-8827)
+- 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 308 - 74 (Roll no. 648).(text: CR H8826-8827)
+- 2009-07-27 — The title of the measure was amended. Agreed to without objection.

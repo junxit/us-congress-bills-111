@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1376
 
-> To authorize the Secretary of the Interior to establish the Waco Mammoth National Monument in the State of Texas.
+> To establish the Waco Mammoth National Monument in the State of Texas, and for other purposes.
 
 ## § 1. SHORT TITLE
 
