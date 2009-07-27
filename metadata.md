@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1121
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1121
@@ -36,6 +36,10 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-27 — [House 111-1-649](votes/house-111-1-0649.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (377–0)
+
 ## Actions
 
 - 2009-02-23 — Introduced in House
@@ -49,3 +53,11 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 - 2009-07-24 — Placed on the Union Calendar, Calendar No. 125.
 - 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-227.
 - 2009-07-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-227.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Bordallo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered as unfinished business. (consideration: CR H8847-8848)
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8829-8830)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1121.
+- 2009-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-27 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 377 - 0 (Roll no. 649). (text: CR H8829)
+- 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 377 - 0 (Roll no. 649).(text: CR H8829)
