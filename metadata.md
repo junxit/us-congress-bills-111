@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3288
@@ -16,9 +16,10 @@ Consolidated Appropriations Act, 2010
 
 - Rep. Olver, John W. [D-MA-1] (O000085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (18)
 
@@ -256,3 +257,4 @@ Consolidated Appropriations Act, 2010
 - 2009-07-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8680-8681)
 - 2009-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H8674)
 - 2009-07-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-07-27 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
