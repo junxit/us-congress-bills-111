@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3221
@@ -16,7 +16,7 @@ Student Aid and Fiscal Responsibility Act of 2009
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (22)
+## Cosponsors (41)
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
@@ -40,6 +40,25 @@ Student Aid and Fiscal Responsibility Act of 2009
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Chu, Judy [D-CA-32] (C001080)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
@@ -50,3 +69,8 @@ Student Aid and Fiscal Responsibility Act of 2009
 - 2009-07-15 — Introduced in House
 - 2009-07-15 — Introduced in House
 - 2009-07-15 — Referred to the House Committee on Education and Labor.
+- 2009-07-21 — Committee Consideration and Mark-up Session Held.
+- 2009-07-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 17.
+- 2009-07-27 — Placed on the Union Calendar, Calendar No. 129.
+- 2009-07-27 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-232.
+- 2009-07-27 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-232.

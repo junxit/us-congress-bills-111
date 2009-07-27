@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-179 amendatory instructions. 0 executed, 179 stated and not applied.
+201 amendatory instructions. 0 executed, 201 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,15 +33,33 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | by amending paragraph (2)(A) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (8), as amended by the Higher Education Opportunity Act (Public Law 110–315), to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in section 401(b)(6), as amended by the Higher Education Opportunity Act (Public Law 110–315), by striking “the grant level specified in the appropriate Appropriation Act for this subpart for such year” and inserting “the Federal Pell Gr… | the bill names no machine-readable US Code section |
+| — | replace | in section 402D(d)(1), by striking “exceed the maximum appropriated Pell Grant ” and inserting “exceed the Federal Pell Grant amount, determined under section 401(b)(2)(A), for which a student is eligible”; | the bill names no machine-readable US Code section |
+| — | replace | in section 435(a)(5)(A)(i)(I), by striking “one-half the maximum Federal Pell Grant award for which a student would be eligible” and inserting “one-half the Federal Pell Grant amount, determined under section 401(b)(2)(A), for which a st… | the bill names no machine-readable US Code section |
+| — | replace | in section 483(e)(3)(ii), by striking “based on the maximum Federal Pell Grant award at the time of application” and inserting “based on the Federal Pell Grant amount, determined under section 401(b)(2)(A), for which a student is eligibl… | the bill names no machine-readable US Code section |
+| — | replace | in section 485E(b)(1)(A), by striking “of such students' potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A” and inserting “of such students' potential eligibility for the Federal Pell Grant amount, determin… | the bill names no machine-readable US Code section |
+| — | replace | in section 894(f)(2)(C)(ii)(I), by striking “the maximum Federal Pell Grant for each award year” and inserting “the Federal Pell Grant amount, determined under section 401(b)(2)(A), for which a student may be eligible for each award year”. | the bill names no machine-readable US Code section |
 | — | replace | Part E of title VII (20 U.S.C. 1141 et seq.) is amended by striking the header of such part and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Part E of title VII (20 U.S.C. 1141 et seq.) is further amended by inserting before section 781 the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 781(a) (20 U.S.C. 1141(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part E of title VII (20 U.S.C. 1141 et seq.) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(A), by striking “$255,000,000” and all that follows and inserting “$255,000,000 for each of the fiscal years 2008 through 2014.”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “section 502” and inserting “section 502(a)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “section 316” and inserting “section 316(b)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “in subsection (c)” and inserting “in section 318(b)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking “in subsection (c)” and inserting “in section 320(b)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking “in subsection (c)” and inserting “in section 319(b)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A), by striking “$255,000,000” and all that follows and inserting “$255,000,000 for each of the fiscal years 2008 through 2019.”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2)(B) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(C)(ii), by striking “and shall be available for a competitive” and all that follows and inserting “and shall be made available as grants under section 318 and allotted among such institutions under section 318(e), treati… | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “for activities described in section 311(c)” and inserting “and shall be made available as grants under section 320, treating such $5,000,000 as part of the amount appropriated for such fiscal year in a regul… | the bill names no machine-readable US Code section |
+| — | replace | in clause (iv), by striking “described in subsection (a)(7)—” and all that follows and inserting “and shall be made available as grants under section 319, treating such $5,000,000 as part of the amount appropriated for such fiscal year i… | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (c). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 484B(b)(2) (20 U.S.C. 1091b(b)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subpart 1 of part A of title IV (20 U.S.C. 1070a et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The header for subpart 1 of part A of title IV (20 U.S.C. 1070a et seq.) is amended by inserting “; Veterans Educational Equity Supplemental Grants” after “Pell Grants”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Except” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and subject to subsection (b)” after “therein”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (4); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively. | the bill names no machine-readable US Code section |
 | — | strike | by striking “adjusted”; and | the bill names no machine-readable US Code section |
@@ -91,20 +109,17 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | by repealing subsection (d); and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (e), by striking “adjusted” both places it appears. | the bill names no machine-readable US Code section |
-| — | replace | Section 475(c)(3) (20 U.S.C. 1087oo(c)(3)) is amended by striking “amount earned by” and inserting “total income (as defined in section 480) of”. | the bill names no machine-readable US Code section |
-| — | replace | Section 476(b)(3) (20 U.S.C. 1087pp(b)(3)) is amended by striking “amount earned by” and inserting “total income (as defined in section 480) of”. | the bill names no machine-readable US Code section |
-| — | replace | Section 477(b)(3) (20 U.S.C. 1087qq(b)(3)) is amended by striking “amount estimated to be earned by” and inserting “total income (as defined in section 480) of”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraphs (A), (B), (C), (E), (F), and (I); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (D), (G), and (H) as subparagraphs (A), (B), and (C), respectively; | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (B) (as redesignated by paragraph (2)), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (C) (as redesignated by paragraph (2)), by striking “; and” and inserting a period. | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subparagraph (B); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (C) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 479A(b) (20 U.S.C. 1087tt) is amended in the subsection heading, by striking “to assets”. | the bill names no machine-readable US Code section |
 | — | amend | Section 484(r)(1) (20 U.S.C. 1091(r)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), in the matter following paragraph (6), by inserting “, except that no sums may be expended after June 30, 2010, with respect to loans under this part for which the first disbursement would be made after such date” afte… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 424(a) (20 U.S.C. 1074(a)) is amended by striking “September 30, 1976,” and all that follows and inserting “September 30, 1976, for each of the succeeding fiscal years ending prior to October 1, 2009, and for the period from Octo… | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “and before July 1, 2010,” after “July 1, 2006,”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “and before July 1, 2010,” after “July 1, 2006,”; | the bill names no machine-readable US Code section |
@@ -122,7 +137,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 428B(a)(1) (20 U.S.C. 1078–2(a)(1)) is amended by striking “A graduate” and inserting “Prior to July 1, 2010, a graduate”. | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3)(B)(i)(V) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4)(A), by inserting “, and first disbursed before July 1, 2010” after “under this part”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1)(E), by inserting before the semicolon “, and before July 1, 2010” and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1)(E), by inserting before the semicolon “, and before July 1, 2010”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking “In the event that” and inserting “If, before July 1, 2010,”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A)(ii), by inserting “and that is disbursed before July 1, 2010,” after “2006,”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting “and first disbursed before July 1, 2010,” after “1994,”; and | the bill names no machine-readable US Code section |
@@ -148,7 +163,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (6), by inserting “and first disbursed before July 1, 2010,” after “1992,”; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (d)(2)(B), by inserting “, and before July 1, 2010” after “2007”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 438(b)(2)(I) of the Higher Education Act of 1965 (20 U.S.C. 1087–1(b)(2)(I)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | Section 438(b)(2)(I) of such Act (20 U.S.C. 1087–1(b)(2)(I)) is further amended in clause (v)(III) by striking “(iv), and (vi)” and inserting “(iv), (vi), and (vii)”. | the bill names no machine-readable US Code section |
+| — | replace | in clause (i)(II), by striking “such average bond equivalent rate” and inserting “the rate determined under subclause (I)”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (v)(III) by striking “(iv), and (vi)” and inserting “(iv), (vi), and (vii)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 452 (20 U.S.C. 1087b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “part B” each place it appears and inserting “part D”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(1)(C), by inserting “, consistent with the requirements of section 452(d)” before the period at the end; and | the bill names no machine-readable US Code section |
@@ -168,8 +184,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the last sentence and inserting the following: “In awarding contracts to such State agencies, and such eligible not-for-profit servicers, the Secretary shall, to the extent practicable and consistent with the purposes of this… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4), and by inserting in such paragraph “, or of any eligible not-for-profit servicer to enter into an agreement for the purposes of this section as a member of a consortium of such entities” b… | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 455(a) (20 U.S.C. 1087e(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 455(b)(7) (20 U.S.C. 1087e(b)(7)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | Part D of title IV (20 U.S.C. 1087a et seq.) is amended by inserting after section 455 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “, before July 1, 2010,” after “The Secretary shall”; | the bill names no machine-readable US Code section |
@@ -185,7 +200,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (4), by striking “thereon—” and all that follows and inserting “thereon, if the institution has failed to maintain an acceptable collection record with respect to such loan, as determined by the Secretary in accordance with … | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking “and the Secretary shall apportion” and all that follows through “in accordance with section 462” and inserting “and the Secretary shall return a portion of funds from loan repayments to the institution as s… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Each institution” and inserting “For loans made before July 1, 2010, each institution”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “Each institution” and inserting “For loans made before July 1, 2010, each institution”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1), by striking “section 463” and inserting “section 463(a)”; | the bill names no machine-readable US Code section |
@@ -207,6 +222,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (a), by inserting “and before July 1, 2010,” after “June 30, 1972,”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 466 (20 U.S.C. 1087ff) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(E), by striking “July 1, 2011” and inserting “July 1, 2012”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (iii), (iv), and (v) as clauses (iv), (v), and (vi), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (ii) the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(A), by striking “two consecutive” and inserting “three consecutive”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “any institutional fiscal year” and inserting “two consecutive institutional fiscal years”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the two institutional fiscal years after the institutional fiscal year” and inserting “the institutional fiscal year after the second consecutive institutional fiscal year”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “two consecutive” in clause (ii) of such paragraph and inserting “three consecutive”. | the bill names no machine-readable US Code section |
 | — | strike | in the second sentence, by striking “or under part E of this title”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and” after “subpart 3 of part A,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “compensation of students,” and all that follows through the period and inserting “compensation of students.”. | the bill names no machine-readable US Code section |
