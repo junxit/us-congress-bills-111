@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3219
@@ -62,3 +62,9 @@ Veterans' Benefits Act of 2010
 - 2009-07-23 — Placed on the Union Calendar, Calendar No. 121.
 - 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-223.
 - 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-223.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8813-8818)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3219.
+- 2009-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-27 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8814-8815)
+- 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8814-8815)
