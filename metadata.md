@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2182
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2182
@@ -45,3 +45,5 @@ Enhanced Oversight of State and Local Economic Recovery Act
 - 2009-05-19 — Mr. Towns moved to suspend the rules and pass the bill.
 - 2009-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5722)
 - 2009-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5722)
+- 2009-05-20 — Received in the Senate.
+- 2009-07-27 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
