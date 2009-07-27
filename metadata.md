@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3293
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3293
@@ -16,9 +16,10 @@ Departments of Labor, Health and Human Services, and Education, and Related Agen
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (6)
 
@@ -98,3 +99,4 @@ Departments of Labor, Health and Human Services, and Education, and Related Agen
 - 2009-07-24 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
 - 2009-07-24 — The previous question was ordered pursuant to the rule. (consideration: CR H8791)
 - 2009-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-07-27 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
