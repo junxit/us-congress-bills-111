@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1803
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1803
@@ -16,6 +16,12 @@ Veterans Business Center Act of 2009
 
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 
+## Cosponsors (3)
+
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+
 ## Committees (1)
 
 - House — Small Business Committee
@@ -26,3 +32,12 @@ Veterans Business Center Act of 2009
 - 2009-03-31 — Introduced in House
 - 2009-03-31 — Referred to the House Committee on Small Business.
 - 2009-03-31 — Referred to the Subcommittee on Rural Development, Entrepreneurship and Trade.
+- 2009-04-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-05-13 — Provisions of measure incorporated into H.R. 2352.
+- 2009-07-28 — Considered under suspension of the rules. (consideration: CR H8912-8915)
+- 2009-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1803.
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8912-8913)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8912-8913)
