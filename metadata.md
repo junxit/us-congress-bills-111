@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1376
@@ -16,9 +16,10 @@ Waco Mammoth National Monument Establishment Act of 2009
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Waco Mammoth National Monument Establishment Act of 2009
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 308 - 74 (Roll no. 648). (text: CR H8826-8827)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 308 - 74 (Roll no. 648).(text: CR H8826-8827)
 - 2009-07-27 — The title of the measure was amended. Agreed to without objection.
+- 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

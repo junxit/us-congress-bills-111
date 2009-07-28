@@ -2,7 +2,7 @@
 legis-num: H.R. 1376
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1376
@@ -60,4 +60,4 @@ In this Act the following definitions apply:
   - **(1)** measures for the preservation of the resources of the national monument;
   - **(2)** requirements for the type and extent of development and use of the national monument;
   - **(3)** identification of visitor carrying capacities for national monument; and
-  - **(4)** opportunities for involvement by Baylor University, the City of Waco, the State of Texas, and other local and national entities in the formulation of educational programs for the national monument and for developing and supporting the national monument.
+  - **(4)** opportunities for involvement by Baylor University, the City of Waco, the State of Texas, and other local and national entities in the formulation of educational programs for the national monu-ment and for developing and supporting the national monument.
