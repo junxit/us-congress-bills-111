@@ -1,7 +1,7 @@
 ---
 measure: H.R. 556
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 556
@@ -54,6 +54,10 @@ Southern Sea Otter Recovery and Research Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-28 — [House 111-1-651](votes/house-111-1-0651.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (316–107)
+
 ## Actions
 
 - 2009-01-15 — Introduced in House
@@ -67,3 +71,11 @@ Southern Sea Otter Recovery and Research Act
 - 2009-06-23 — Placed on the Union Calendar, Calendar No. 92.
 - 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-175.
 - 2009-06-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-175.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8830-8831)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 556.
+- 2009-07-27 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-07-28 — Considered as unfinished business. (consideration: CR H8933-8934)
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 316 - 107 (Roll no. 651). (text: CR 7/28/2009 H8930)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 316 - 107 (Roll no. 651).(text: CR 7/28/2009 H8930)
