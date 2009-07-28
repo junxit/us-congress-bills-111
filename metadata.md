@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1293
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1293
@@ -39,6 +39,10 @@ Disabled Veterans Home Improvement and Structural Alteration Grant Increase Act 
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2009-07-28 — [House 111-1-650](votes/house-111-1-0650.md) — On Motion to Suspend the Rules and Pass — **Passed** (426–0)
+
 ## Actions
 
 - 2009-03-04 — Introduced in House
@@ -54,3 +58,11 @@ Disabled Veterans Home Improvement and Structural Alteration Grant Increase Act 
 - 2009-07-23 — Placed on the Union Calendar, Calendar No. 124.
 - 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-226.
 - 2009-07-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-226.
+- 2009-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8818-8819)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1293.
+- 2009-07-27 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2009-07-28 — Considered as unfinished business. (consideration: CR H8933)
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 650). (text: CR 7/27/2009 H8818)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 650).(text: CR 7/27/2009 H8818)
