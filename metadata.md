@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1035
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1035
@@ -37,3 +37,13 @@ Morris K. Udall Scholarship and Excellence in National Environmental Policy Amen
 - 2009-02-12 — Referred to House Natural Resources
 - 2009-02-12 — Referred to the Committee on Education and Labor, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-02-12 — Sponsor introductory remarks on measure. (CR E258)
+- 2009-03-30 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+- 2009-06-03 — Committee Hearings Held.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cassidy objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8834-8836)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1035.
+- 2009-07-27 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2009-07-28 — Considered as unfinished business. (consideration: CR H8935)
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/27/2009 H8834)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/27/2009 H8834)
