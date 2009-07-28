@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3155
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3155
@@ -28,9 +28,10 @@ Caregiver Assistance and Resource Enhancement Act
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Caregiver Assistance and Resource Enhancement Act
 - 2009-07-27 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8822-8823)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8822-8823)
+- 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
