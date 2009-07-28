@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 509
 
-> To reauthorize the Marine Turtle Conservation Act of 2004.
+> To reauthorize the Marine Turtle Conservation Act of 2004, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 509
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 509
@@ -34,6 +34,10 @@ Marine Turtle Conservation Reauthorization Act of 2009
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-07-28 — [House 111-1-652](votes/house-111-1-0652.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (354–72)
+
 ## Actions
 
 - 2009-01-14 — Introduced in House
@@ -48,3 +52,12 @@ Marine Turtle Conservation Reauthorization Act of 2009
 - 2009-07-10 — Placed on the Union Calendar, Calendar No. 107.
 - 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-200.
 - 2009-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-200.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Bordallo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8831-8832)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 509.
+- 2009-07-27 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-07-28 — Considered as unfinished business. (consideration: CR H8934-8935)
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652). (text: CR 7/27/2009 H8831)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652).(text: CR 7/27/2009 H8831)
+- 2009-07-28 — The title of the measure was amended. Agreed to without objection.
