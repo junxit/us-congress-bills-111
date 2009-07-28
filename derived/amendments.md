@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -55,4 +55,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the item relating to section 7365 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 7366 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (c) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (d)(3)(C) of such section is amended by striking “$35,000” and inserting “$50,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (d)(3)(C) of such sec-tion is amended by striking “$35,000” and inserting “$50,000”. | the bill names no machine-readable US Code section |

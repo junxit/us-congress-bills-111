@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2770
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2770
@@ -27,9 +27,10 @@ Veterans Nonprofit Research and Education Corporations Enhancement Act of 2009
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Veterans Nonprofit Research and Education Corporations Enhancement Act of 2009
 - 2009-07-27 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8820-8821)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8820-8821)
+- 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

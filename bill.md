@@ -2,7 +2,7 @@
 legis-num: H.R. 2770
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2770
@@ -117,4 +117,4 @@ This Act may be cited as the “Veterans Nonprofit Research and Education Corpor
 - **(b)** *Conflict of interest policies* Subsection (c) of such section is amended to read as follows:
   > - **(c)** Each director, officer, and employee of a corporation established under this subchapter shall be subject to a conflict of interest policy adopted by that corporation.
 
-- **(c)** *Establishment of appropriate payee reporting threshold* Subsection (d)(3)(C) of such section is amended by striking “$35,000” and inserting “$50,000”.
+- **(c)** *Establishment of appropriate payee reporting threshold* Subsection (d)(3)(C) of such sec-tion is amended by striking “$35,000” and inserting “$50,000”.
