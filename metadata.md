@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3219
@@ -48,9 +48,10 @@ Veterans' Benefits Act of 2010
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 - Rep. Boccieri, John A. [D-OH-16] (B001263)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Veterans' Benefits Act of 2010
 - 2009-07-27 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8814-8815)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8814-8815)
+- 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
