@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1121
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1121
@@ -32,9 +32,10 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009
 - 2009-07-27 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 377 - 0 (Roll no. 649). (text: CR H8829)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 377 - 0 (Roll no. 649).(text: CR H8829)
+- 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
