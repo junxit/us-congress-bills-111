@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 44
@@ -16,7 +16,7 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Cosponsors (29)
+## Cosponsors (49)
 
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Marshall, Jim [D-GA-8] (M001146)
@@ -47,6 +47,26 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Bright, Bobby [D-AL-2] (B001264)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
 
 ## Committees (1)
 
@@ -57,3 +77,12 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Referred to the House Committee on Armed Services.
+- 2009-05-22 — Referred to the Subcommittee on Military Personnel.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Wilson (SC) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8836-8839)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 44.
+- 2009-07-27 — Mr. Marshall moved to suspend the rules and pass the resolution.
+- 2009-07-28 — Considered as unfinished business. (consideration: CR H8935-8936)
+- 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-28 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 7/27/2009 H8836-8837)
+- 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR 7/27/2009 H8836-8837)
