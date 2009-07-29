@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1807
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1807
@@ -22,9 +22,10 @@ Educating Entrepreneurs through Today's Technology Act
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Educating Entrepreneurs through Today's Technology Act
 - 2009-07-28 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8915-8916)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8915-8916)
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
