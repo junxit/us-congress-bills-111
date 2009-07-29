@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1293
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1293
@@ -35,9 +35,10 @@ Disabled Veterans Home Improvement and Structural Alteration Grant Increase Act 
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. Bright, Bobby [D-AL-2] (B001264)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Disabled Veterans Home Improvement and Structural Alteration Grant Increase Act 
 - 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 650). (text: CR 7/27/2009 H8818)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 650).(text: CR 7/27/2009 H8818)
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
