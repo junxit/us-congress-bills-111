@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2749
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-101 amendatory instructions. 0 executed, 101 stated and not applied.
+108 amendatory instructions. 0 executed, 108 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,16 +42,18 @@ complete account of the bill's effect, which it is not.
 | — | amend | Chapter VII (21 U.S.C. 371 et seq.) is amended by adding at the end of subchapter C the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402 (21 U.S.C. 342) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IV (21 U.S.C. 341 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by section 102(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 402 (21 U.S.C. 342), as amended by subsection (a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter IV (21 U.S.C. 341 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by section 102, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IV (21 U.S.C. 341 et seq.), as amended by section 102(b), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by sections 102(a) and 103(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by sections 102 and 103(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IV (21 U.S.C. 341 et seq.), as amended by sections 102(b) and 103(b), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 704 (21 U.S.C. 374) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (a) of section 414 (21 U.S.C. 350c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 414 (21 U.S.C. 350c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “farm,” before “factory” each place it appears; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “produced,” before “manufactured”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “(excluding farms or restaurants)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “(excluding farms and restaurants)”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “produces,” before “manufactures”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “receives,” before “holds”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “described in section 414” and inserting “described in or required under section 414”; and | the bill names no machine-readable US Code section |
@@ -66,29 +68,30 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 403 (21 U.S.C. 343), as amended by section 101(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 801(a), as amended by section 107(b), by inserting after the third sentence the following: “If an article of food being imported or offered for import into the United States is not in compliance with the requirement of subsect… | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence of section 801(b), by striking “the fourth sentence” and inserting “the fifth sentence”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of section 801 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of section 801 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 (21 U.S.C. 331) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter A of chapter VII (21 U.S.C. 371 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 (21 U.S.C. 331), as amended by section 110, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IV (21 U.S.C. 341 et seq.), as amended by sections 102, 103, and 104, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The third sentence of subsection (a) of section 801 (21 U.S.C. 381), as amended by section 107(b), is amended by inserting “or (5) such article is subject to an order under section 420 to cease distribution of or recall the article,” bef… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1), by striking “means a person” and all that follows through the end of paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “information reasonably available to” after “after”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “determines” and inserting “indicates”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (b), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting “following a timely review of any reasonably available data and information,” after “reportable food,”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “if the responsible party is required to register” after “415(a)(3)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary” and inserting “(a) The Secretary”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 301(j) (21 U.S.C. 331(j)) is amended by striking “or to the courts when relevant in any judicial proceeding under this Act,” and inserting “to the courts when relevant in any judicial proceeding under this Act, or as specified in… | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter VIII (21 U.S.C. 381 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343) as amended by sections 101(a) and 109(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b)(1), by adding at the end the following: “The quality factor requirements established under this paragraph may include requirements for one or more clinical studies to demonstrate that the new infant formula supports nor… | the bill names no machine-readable US Code section |
+| — | amend | in subsection (b)(4), by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “(c)(1).” at the end and inserting “(d)(1), and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking subparagraphs (C) and (D) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 304(b) (21 U.S.C. 334(b)) is amended by inserting “and except that, with respect to proceedings relating to food, Rule G of the Supplemental Rules of Admiralty or Maritime Claims and Asset Forfeiture Actions shall not apply in an… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “credible evidence or information indicating” and inserting “reason to believe”; | the bill names no machine-readable US Code section |
@@ -99,11 +102,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 301 (21 U.S.C. 331), as amended by sections 110 and 111, is amended by adding at the end by adding the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 304 (21 U.S.C. 334) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “Any” and inserting “Except as provided in paragraph (2) or (3), any”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of section 303(f) (21 U.S.C. 331 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 (21 U.S.C. 331), as amended by sections 110, 111, and 133, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 801 (21 U.S.C. 381), as amended by section 109, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (t) of section 201 (21 U.S.C. 321) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 409 (21 U.S.C. 348) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 403 (21 U.S.C. 343), as amended by sections 101(a), 109(a), and 114(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “from the United States” after “exports”; and | the bill names no machine-readable US Code section |
@@ -115,20 +117,25 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the drug or device” and inserting “the food, drug, or device”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 (21 U.S.C. 331), as amended by sections 110, 111, 133, and 136, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 403 (21 U.S.C. 343) as amended by sections 101(a), 109(a), 114(a), and 203, is amended by adding at the end: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 403 (21 U.S.C. 343) as amended by sections 101(a), 109(a), 114(a), and 202(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 801, as amended by sections 109 and 136, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter C of chapter VII (21 U.S.C. 379f et seq.) as added and amended by sections 101 and 108, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 704 (21 U.S.C. 374), as amended by sections 105, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 704 (21 U.S.C. 374), as amended by section 105, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 301(tt) (21 U.S.C. 331), as added by section 204, is amended by inserting “or 801(s)” after “801(r)”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or a customs broker or filer” after “by an importer”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or 801(s)” after “801(r)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 801, as amended by sections 109, 136, and 204, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 704 (21 U.S.C. 374), as amended by sections 105 and 204, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IX (21 U.S.C. 391 et seq) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by section 102(a), 103(a), and 104(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in the first sentence, by inserting “, including any such food factory, warehouse, or establishment whether foreign or domestic,” after “factory, warehouse, or establishment”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 402 (21 U.S.C. 342), as amended by sections 102, 103(a), and 104(a), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in the first sentence, by inserting “, including any such food factory, warehouse, or establishment whether foreign or domestic,” after “factory, warehouse, or establishment”; and | the bill names no machine-readable US Code section |
 | — | insert | in the third sentence, by inserting “, including any food factory, warehouse, establishment, or consulting laboratory whether foreign or domestic,” after “factory, warehouse, establishment, or consulting laboratory”. | the bill names no machine-readable US Code section |
-| — | amend | Section 704 (21 U.S.C. 374), as amended by sections 105 and 205, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 704 (21 U.S.C. 374), as amended by sections 105, 204, and 205, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 301(q)(2) (21 U.S.C. 331(q)(2)) is amended by inserting after “device” the following: “or food”. | the bill names no machine-readable US Code section |
-| — | insert | Section 301(f) is amended by inserting before the period “or the failure or refusal to obey a subpoena issued pursuant to section 311”. | the bill names no machine-readable US Code section |
+| — | insert | Section 301(f) is amended by inserting before the period the following: “or the failure or refusal to obey a subpoena issued pursuant to section 311”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter III (21 U.S.C. 331 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IX (21 U.S.C. 391 et seq.), as amended by section 206, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 301 (21 U.S.C. 331), as amended by sections 110, 111, 133, 136, and 205, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 301 (21 U.S.C. 331), as amended by sections 110, 111, 133, 136, and 204, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter III (21 U.S.C. 331 et seq.), as amended by section 211, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
