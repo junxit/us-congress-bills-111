@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 19
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 19
@@ -34,3 +34,17 @@ A joint resolution granting the consent and approval of Congress to amendments m
 - 2009-07-29 — Message on Senate action sent to the House.
 - 2009-07-29 — Received in the House.
 - 2009-07-29 — Referred to the House Committee on the Judiciary.
+- 2009-07-31 — Cleared for White House.
+- 2009-07-31 — Committee on Judiciary discharged.
+- 2009-07-31 — Committee on Judiciary discharged.
+- 2009-07-31 — Considered by unanimous consent. (consideration: CR H9245-9246)
+- 2009-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-31 — Mr. Cohen asked unanimous consent to discharge from committee and consider.
+- 2009-07-31 — On passage Passed without objection. (text: CR H9245-9246)
+- 2009-07-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9245-9246)
+- 2009-08-07 — Presented to President.
+- 2009-08-07 — Presented to President.
+- 2009-08-19 — Became Public Law No: 111-62.
+- 2009-08-19 — Became Public Law No: 111-62.
+- 2009-08-19 — Signed by President.
+- 2009-08-19 — Signed by President.
