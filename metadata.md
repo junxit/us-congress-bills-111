@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 483
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 483
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Veterans of Foreign Wars Day.
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (48)
+## Cosponsors (62)
 
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
@@ -66,6 +66,20 @@ Supporting the goals and ideals of Veterans of Foreign Wars Day.
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
@@ -76,3 +90,13 @@ Supporting the goals and ideals of Veterans of Foreign Wars Day.
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-06-18 — Committee Consideration and Mark-up Session Held.
+- 2009-06-18 — Ordered to be Reported by Unanimous Consent.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Kline (MN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8844-8846)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 483.
+- 2009-07-27 — Mr. Clay moved to suspend the rules and agree to the resolution.
+- 2009-07-29 — Considered as unfinished business. (consideration: CR H9024)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/27/2009 H8844)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/27/2009 H8844)
