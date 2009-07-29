@@ -1,7 +1,7 @@
 ---
 measure: H.R. 509
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 509
@@ -30,9 +30,10 @@ Marine Turtle Conservation Reauthorization Act of 2009
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Marine Turtle Conservation Reauthorization Act of 2009
 - 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652). (text: CR 7/27/2009 H8831)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652).(text: CR 7/27/2009 H8831)
 - 2009-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

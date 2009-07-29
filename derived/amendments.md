@@ -1,7 +1,7 @@
 ---
 measure: H.R. 509
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -38,5 +38,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (d), by striking “in foreign countries ”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of such Act (16 U.S.C. 6602) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “$80,000” and inserting “$150,000”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 7 of the Marine Turtle Conservation Act of 2004 (16 U. S. C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2009 through 2014”. | the bill names no machine-readable US Code section |
