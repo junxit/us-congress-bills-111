@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3325
@@ -21,9 +21,10 @@ WIPA and PABSS Reauthorization Act of 2009
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ WIPA and PABSS Reauthorization Act of 2009
 - 2009-07-28 — Mr. Tanner moved to suspend the rules and pass the bill.
 - 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8911)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8911)
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
