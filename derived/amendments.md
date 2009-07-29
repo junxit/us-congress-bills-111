@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1803
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (f), by inserting “(other than subsections (g), (h), and (i))” after “this section”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 657b` | insert | in subsection (f), by inserting “(other than subsections (g), (h), and (i))” after “this section”; and | the bill quotes the text inserted but describes where it goes |
+| `10 U.S.C. § 10101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 657b` | add-at-end | Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
