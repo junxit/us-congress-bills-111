@@ -25,17 +25,17 @@ The Congress finds as follows:
 
 ## § 3. Bank leasing of foreclosed properties
 
-- **(a)** *In general* Section 18 of the Federal Deposit Insurance Act (U.S.C. 1828) is amended by adding at the end the following new subsection:
+- **(a)** *In general* Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following new subsection:
   > - **(y)** *Leasing of foreclosed property*
-  >   - **(1)** *Leasing authorized* Notwithstanding any other provision of law and subject to this subsection and regulations prescribed under this subsection, any depository institution, and any affiliate of a depository institution, may lease to any person, including a lease with an option to purchase, for not to exceed 5 years an interest in residential property which—
+  >   - **(1)** *Leasing authorized* Notwithstanding any provision of Federal or State law restricting the time during which a depository institution, or any affiliate of a depository institution, may hold or lease property, or any provision of Federal or State law prohibiting a depository institution, or any affiliate of a depository institution, from leasing property and subject to this subsection and regulations prescribed under this subsection, any depository institution, and any affiliate of a depository institution, may lease to any individual, including a lease with an option to purchase, for not to exceed 5 years an interest in residential property which—
   >     - **(A)** was or is security for an extension of credit by such depository institution or affiliate; and
-  >     - **(B)** came under the ownership or control of the depository institution or affiliate through foreclosure on the extension of credit or the bankruptcy or liquidation of the owner of the property to whom the credit was extended.
-  >   - **(2)** *Safety and soundness regulations* The Federal banking agencies shall prescribe regulations which—
+  >     - **(B)** came under the ownership or control of the depository institution or affiliate through foreclosure, or a deed in lieu of foreclosure, on the extension of credit.
+  >   - **(2)** *Safety and soundness regulations* The Federal banking agencies shall jointly prescribe regulations which—
   >     - **(A)** establish criteria and minimum requirements for the leasing activity of any depository institution or affiliate of a depository institution, including minimum capital requirements, that the agency determines to be appropriate for the preservation of the safety and soundness of the institution or affiliate;
   >     - **(B)** establish requirements or exceptions that the agency determines are appropriate under this subsection for any such institution or affiliate for any other purpose; and
   >     - **(C)** provide for appropriate actions under section 38 with respect to any such lease if necessary to protect the capital or safety and soundness of the institution or affiliate or any other necessary enforcement action.
-  >   - **(3)** *Length of lease* If the provision of any Federal or State law, including the Bank Holding Company Act of 1956, governing the leasing activities of depository institutions or affiliates of depository institutions permits an appropriate Federal banking agency to allow any such depository institution or affiliate to lease property described in paragraph (1) to any person for a period of longer than 5 years, any lease under paragraph (1) may be extended to the extent permitted by such provision of law.
-  >   - **(4)** *Sunset* This section shall apply only with respect to leases entered into during the 2-year period ending on the date of the enactment of the Neighborhood Preservation Act.
+  >   - **(3)** *Length of lease* If any provision of any Federal or State law, including the Bank Holding Company Act of 1956, governing the permissible activities of depository institutions or affiliates of depository institutions permits a depository institution or any such affiliate to hold property as described in paragraph (1) for a period longer than 5 years, any lease under paragraph (1) may be extended to the extent permitted by such provision of law.
+  >   - **(4)** *Sunset* This section shall apply only with respect to leases entered into during the 2-year period beginning on the date of the enactment of the Neighborhood Preservation Act.
 
 - **(b)** *Intent of the Congress* It is the intent of the Congress that—
   - **(1)** no permanent change in policy on leasing foreclosed property is being established with respect to depository institutions and depository institution holding companies; and

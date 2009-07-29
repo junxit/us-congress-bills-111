@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2529
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 18 of the Federal Deposit Insurance Act (U.S.C. 1828) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
