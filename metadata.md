@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 675
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 675
@@ -60,3 +60,11 @@ Condemning the July 17, 2009, terrorist bombings in Indonesia and expressing con
 - 2009-07-23 — Introduced in House
 - 2009-07-23 — Introduced in House
 - 2009-07-23 — Referred to the House Committee on Foreign Affairs.
+- 2009-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-28 — Considered under suspension of the rules. (consideration: CR H8944-8946)
+- 2009-07-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 675.
+- 2009-07-28 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution.
+- 2009-07-29 — Considered as unfinished business. (consideration: CR H9038)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/28/2009 H8944)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/28/2009 H8944)
