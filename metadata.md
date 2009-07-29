@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3072
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3072
@@ -36,3 +36,13 @@ To designate the facility of the United States Postal Service located at 9810 Ha
 - 2009-06-26 — Introduced in House
 - 2009-06-26 — Introduced in House
 - 2009-06-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-07-10 — Committee Consideration and Mark-up Session Held.
+- 2009-07-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-07-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Bachmann objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-27 — Considered under suspension of the rules. (consideration: CR H8843-8844)
+- 2009-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3072.
+- 2009-07-27 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2009-07-29 — Considered as unfinished business. (consideration: CR H9024)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/27/2009 H8843)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/27/2009 H8843)
