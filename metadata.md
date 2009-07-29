@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3330
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3330
@@ -31,3 +31,9 @@ Improved Oversight by Financial Inspectors General Act of 2009
 - 2009-07-24 — Introduced in House
 - 2009-07-24 — Introduced in House
 - 2009-07-24 — Referred to the House Committee on Financial Services.
+- 2009-07-29 — Considered under suspension of the rules. (consideration: CR H8967-8970)
+- 2009-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3330.
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
+- 2009-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8967-8968)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8967-8968)
