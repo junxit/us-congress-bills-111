@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3325
@@ -38,3 +38,15 @@ WIPA and PABSS Reauthorization Act of 2009
 - 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8911)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8911)
 - 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2009-08-06 — Cleared for White House.
+- 2009-08-06 — Passed Senate without amendment by Unanimous Consent.
+- 2009-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2009-08-06 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S9059)
+- 2009-08-06 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S9059)
+- 2009-08-07 — Message on Senate action sent to the House.
+- 2009-09-10 — Presented to President.
+- 2009-09-10 — Presented to President.
+- 2009-09-18 — Became Public Law No: 111-63.
+- 2009-09-18 — Became Public Law No: 111-63.
+- 2009-09-18 — Signed by President.
+- 2009-09-18 — Signed by President.
