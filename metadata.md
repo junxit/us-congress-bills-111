@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3183
@@ -16,11 +16,60 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 
+## Cosponsors (46)
+
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Udall, Tom [D-NM] (U000039)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (20)
+## Recorded votes (26)
 
 - 2009-07-15 — [House 111-1-543](votes/house-111-1-0543.md) — On Agreeing to the Amendment — **Agreed to** (261–172)
 - 2009-07-15 — [House 111-1-544](votes/house-111-1-0544.md) — On Agreeing to the Amendment — **Agreed to** (362–69)
@@ -42,6 +91,12 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 - 2009-07-17 — [House 111-1-590](votes/house-111-1-0590.md) — On Agreeing to the Amendment — **Failed** (119–308)
 - 2009-07-17 — [House 111-1-591](votes/house-111-1-0591.md) — On Motion to Recommit with Instructions — **Failed** (30–388)
 - 2009-07-17 — [House 111-1-592](votes/house-111-1-0592.md) — On Passage — **Passed** (320–97)
+- 2009-07-28 — [Senate 111-1-243](votes/senate-111-1-0243.md) — On the Amendment — **Amendment Rejected** (25–72)
+- 2009-07-29 — [Senate 111-1-244](votes/senate-111-1-0244.md) — On the Motion — **Motion Rejected** (38–59)
+- 2009-07-29 — [Senate 111-1-245](votes/senate-111-1-0245.md) — On the Amendment — **Amendment Rejected** (35–62)
+- 2009-07-29 — [Senate 111-1-246](votes/senate-111-1-0246.md) — On the Amendment — **Amendment Agreed to** (79–18)
+- 2009-07-29 — [Senate 111-1-247](votes/senate-111-1-0247.md) — On the Amendment — **Amendment Rejected** (26–71)
+- 2009-07-29 — [Senate 111-1-248](votes/senate-111-1-0248.md) — On Passage of the Bill — **Bill Passed** (85–9)
 
 ## Actions
 
@@ -255,3 +310,209 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 - 2009-07-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3183.
 - 2009-07-17 — The previous question was ordered pursuant to the rule. (consideration: CR H8338)
 - 2009-07-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
+- 2009-07-27 — Amendment SA 1813 proposed by Senator Dorgan. (consideration: CR S8110) In the nature of a substitute.
+- 2009-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S8110-8121)
+- 2009-07-27 — Senate amendment proposed (on the floor): Amendment SA 1813 proposed by Senator Dorgan.(consideration: CR S8110)
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-27 — Senate amendment submitted
+- 2009-07-28 — Amendment SA 1814 not agreed to in Senate by Yea-Nay Vote. 25 - 72. Record Vote Number: 243.
+- 2009-07-28 — Amendment SA 1814 proposed by Senator McCain to Amendment SA 1813. (consideration: CR S8177-8181; text: CR S8177) To prohibit the use of funds to carry out any project or site-specific location identified in the committee report unless the project is specifically authorized or to carry out an unauthorized appropriation.
+- 2009-07-28 — Amendment SA 1841 agreed to in Senate by Voice Vote.
+- 2009-07-28 — Amendment SA 1841 proposed by Senator Voinovich to Amendment SA 1813. (consideration: CR S8159-8163, S8169, S8175; text: CR S8159) To clarify the authority of the Nuclear Regulatory Commission regarding the acquisition and lease of certain additional office space.
+- 2009-07-28 — Amendment SA 1846 proposed by Senator Reid to Amendment SA 1813. (consideration: CR S8176-8177; text: CR S8176-8177) To modify provisions relating to the Department of the Interior.
+- 2009-07-28 — Amendment SA 1862 proposed by Senator Alexander to Amendment SA 1813. (consideration: CR S8181-8183; text: CR S8183) To limit disbursement of additional funds under the Troubled Asset Relief Program to certain automobile manufacturers, to impose fiduciary duties on the Secretary of the Treasury with respect to shareholders of such automobile manufacturers, to require the issuance of shares of common stock to eligible taxpayers which represent the common stock holdings of the United States Government in such automobile manufacturers, and for other purposes.
+- 2009-07-28 — Cloture motion on Amendment SA 1813 presented in Senate. (consideration: CR S8213; text: CR S8213)
+- 2009-07-28 — Cloture motion on the bill presented in Senate. (consideration: CR S8213; text: CR S8213)
+- 2009-07-28 — Considered by Senate. (consideration: CR S8157)
+- 2009-07-28 — Considered by Senate. (consideration: CR S8157-8163, S8163-8183, S8213-8214)
+- 2009-07-28 — Roll call votes on amendments in Senate: Amendment SA 1814 not agreed to in Senate by Yea-Nay Vote. 25 - 72. Record Vote Number: 243.
+- 2009-07-28 — Senate amendment agreed to: Amendment SA 1841 agreed to in Senate by Voice Vote.
+- 2009-07-28 — Senate amendment not agreed to: Amendment SA 1814 not agreed to in Senate by Yea-Nay Vote. 25 - 72. Record Vote Number: 243.
+- 2009-07-28 — Senate amendment proposed (on the floor): Amendment SA 1814 proposed by Senator McCain to Amendment SA 1813.(consideration: CR S8177-8181; text: CR S8177)
+- 2009-07-28 — Senate amendment proposed (on the floor): Amendment SA 1841 proposed by Senator Voinovich to Amendment SA 1813.(consideration: CR S8159-8163, S8169, S8175; text: CR S8159)
+- 2009-07-28 — Senate amendment proposed (on the floor): Amendment SA 1846 proposed by Senator Reid to Amendment SA 1813.(consideration: CR S8176-8177; text: CR S8176-8177)
+- 2009-07-28 — Senate amendment proposed (on the floor): Amendment SA 1862 proposed by Senator Alexander to Amendment SA 1813.(consideration: CR S8181-8183; text: CR S8183)
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-28 — Senate amendment submitted
+- 2009-07-29 — Amendment SA 1813 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1842 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1842 proposed by Senator Dorgan for Senator Tester to Amendment SA 1813. (consideration: CR S8252-8259; text: CR S8253) To extend the period for offering certain leases for cabin sites at Fort Peck Lake, Montana.
+- 2009-07-29 — Amendment SA 1844 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1844 proposed by Senator Dorgan to Amendment SA 1813. (consideration: CR S8222; text: CR S8221-8222) Provides a technical correction to a Corps of Engineers project.
+- 2009-07-29 — Amendment SA 1845 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1845 proposed by Senator Dorgan to Amendment SA 1813. (consideration: CR S8222; text: CR S8222) Provides transfer authority for the Corps of Engineers and the Bureau of Reclamation.
+- 2009-07-29 — Amendment SA 1846 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Amendment SA 1852 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Amendment SA 1852 proposed by Senator Nelson FL to Amendment SA 1813. (consideration: CR S8259; text: CR S8259) To provide for the Federal share of the cost of the Ten Mile Creek Water Preserve Area.
+- 2009-07-29 — Amendment SA 1855 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Amendment SA 1855 proposed by Senator Dorgan to Amendment SA 1813. (consideration: CR S8234-8243; text: CR S8234-8235) To require all agencies to include a separate category for administrative expenses when submitting their appropriation requests to the Office of Management and Budget for fiscal years 2011 and each fiscal year thereafter, and for other purposes.
+- 2009-07-29 — Amendment SA 1859 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8253)
+- 2009-07-29 — Amendment SA 1859 proposed by Senator Dorgan for Senator Boxer to Amendment SA 1813. (consideration: CR S8252-8259) To permit certain water transfers.
+- 2009-07-29 — Amendment SA 1862 ruled out of order by the chair.
+- 2009-07-29 — Amendment SA 1864 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8251)
+- 2009-07-29 — Amendment SA 1864 proposed by Senator Hutchison to Amendment SA 1813. (consideration: CR S8251-8252) Of a perfecting nature.
+- 2009-07-29 — Amendment SA 1865 proposed by Senator Corker to Amendment SA 1813. (consideration: CR S8217-8221; text: CR S8217-8218; text as modified: CR S8218-8219) To authorize the Secretary of the Treasury to delegate management authority over troubled assets purchased under the Troubled Asset Relief Program, to require the establishment of a trust to manage assets of certain designated TARP recipients, and for other purposes.
+- 2009-07-29 — Amendment SA 1865 ruled non-germane by the chair.
+- 2009-07-29 — Amendment SA 1867 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8253)
+- 2009-07-29 — Amendment SA 1867 proposed by Senator Dorgan for Senator Merkley to Amendment SA 1813. (consideration: CR S8252-8259) To clarify that the Secretary of Energy is required to consider low-risk finance programs that substantially reduce or eliminate upfront costs for building owners to renovate or retrofit existing buildings to install energy efficiency or renewable energy technologies as eligible for certain loan guarantees.
+- 2009-07-29 — Amendment SA 1874 proposed by Senator Nelson NE to Amendment SA 1813. (consideration: CR S8222-8223; text: CR S8222) To express the sense of the Senate that the investment by the Federal Government in the automotive industry of the United States is temporary.
+- 2009-07-29 — Amendment SA 1874 ruled non-germane by the chair.
+- 2009-07-29 — Amendment SA 1878 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1878 proposed by Senator Coburn. (consideration: CR S8245; text as modified: CR S8245) To require public disclosure of reports required in appropriations bills.
+- 2009-07-29 — Amendment SA 1879 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 245.
+- 2009-07-29 — Amendment SA 1879 proposed by Senator Coburn to Amendment SA 1813. (consideration: CR S8244-8245, S8245, S8246-8250, S8250; text: CR S8244) To reduce the appropriation for Departmental Administration of the Department of Energy so that the Department can set an example for all Americans by reducing unnecessary energy usage.
+- 2009-07-29 — Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 26 - 71. Record Vote Number: 247.
+- 2009-07-29 — Amendment SA 1884 proposed by Senator Coburn to Amendment SA 1813. (consideration: CR S8245-8246, S8251; text: CR S8245-8246) To prohibit no bid contracts by requiring the use of competitive procedures to award contracts and grants funded under this Act.
+- 2009-07-29 — Amendment SA 1888 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8253)
+- 2009-07-29 — Amendment SA 1888 proposed by Senator Dorgan for Senator Landrieu to Amendment SA 1813. (consideration: CR S8252-8259) To require the Secretary of the Army to conduct a study of the residual risks associated with the options relating to the project for permanent pumps and closure structures, Lake Pontchartrain, Louisiana.
+- 2009-07-29 — Amendment SA 1891 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1891 proposed by Senator Dorgan for Senator Kaufman to Amendment SA 1813. (consideration: CR S8252-8259; text: CR S8253) To prevent Federal preemption of the planning processes of the State of Delaware regarding the Delaware River Main Channel Deepening Project.
+- 2009-07-29 — Amendment SA 1892 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1892 proposed by Senator Dorgan for Senator Kyl to Amendment SA 1813. (consideration: CR S8253-8254; text: CR S8253-8254) To prohibit funds appropriated for the Strategic Petroleum Reserve from being made available to any person that has engaged in certain activities with respect to the Islamic Republic of Iran.
+- 2009-07-29 — Amendment SA 1893 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8259)
+- 2009-07-29 — Amendment SA 1893 proposed by Senator Nelson FL for Senator Martinez to Amendment SA 1813. (consideration: CR S8259-8262) To ensure that previously appropriated funding for the Tampa Harbor Big Bend Channel project is used for the original intended purpose of the funding and not reprogrammed.
+- 2009-07-29 — Amendment SA 1895 agreed to in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 246.
+- 2009-07-29 — Amendment SA 1895 proposed by Senator Dorgan to Amendment SA 1813. (consideration: CR S8244, S8250-8251; text: CR S8244) To provide requirements regarding the authority of the Department of Energy to enter into certain contracts.
+- 2009-07-29 — Amendment SA 1903 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Amendment SA 1903 proposed by Senator Sanders to Amendment SA 1813. (consideration: CR S8243-8244; text: CR S8243) To provide additional amounts for technical assistance grants.
+- 2009-07-29 — Cloture motion on Amendment SA 1813 rendered moot.
+- 2009-07-29 — Cloture motion on the bill rendered moot.
+- 2009-07-29 — Considered by Senate. (consideration: CR S8216)
+- 2009-07-29 — Considered by Senate. (consideration: CR S8216, S8223-8225)
+- 2009-07-29 — Considered by Senate. (consideration: CR S8216, S8262-8263)
+- 2009-07-29 — Considered by Senate. (consideration: CR S8216-8263)
+- 2009-07-29 — Motion to waive the Budget Act with respect to amendment SA 1862 rejected in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 244.
+- 2009-07-29 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 9. Record Vote Number: 248. (text: CR 7/30/2009 S8609-8618)
+- 2009-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 9. Record Vote Number: 248.(text: CR 7/30/2009 S8609-8618)
+- 2009-07-29 — Point of order raised in Senate with respect to amendment SA 1862.
+- 2009-07-29 — Point of order raised in Senate with respect to amendment SA 1865 that the amendment violates Rule XVI.
+- 2009-07-29 — Point of order raised in Senate with respect to amendment SA 1874 that the amendment violates Rule XVI.
+- 2009-07-29 — Roll call votes on amendments in Senate: Amendment SA 1879 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 245.
+- 2009-07-29 — Roll call votes on amendments in Senate: Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 26 - 71. Record Vote Number: 247.
+- 2009-07-29 — Roll call votes on amendments in Senate: Amendment SA 1895 agreed to in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 246.
+- 2009-07-29 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1862 rejected in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 244.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1813 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1842 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1844 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1845 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1846 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1852 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1855 agreed to in Senate by Voice Vote.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1859 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8253)
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1864 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8251)
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1867 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8253)
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1878 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1888 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8253)
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1891 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1892 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1893 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8259)
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1895 agreed to in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 246.
+- 2009-07-29 — Senate amendment agreed to: Amendment SA 1903 agreed to in Senate by Unanimous Consent.
+- 2009-07-29 — Senate amendment not agreed to: Amendment SA 1879 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 245.
+- 2009-07-29 — Senate amendment not agreed to: Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 26 - 71. Record Vote Number: 247.
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1842 proposed by Senator Dorgan for Senator Tester to Amendment SA 1813.(consideration: CR S8252-8259; text: CR S8253)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1844 proposed by Senator Dorgan to Amendment SA 1813.(consideration: CR S8222; text: CR S8221-8222)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1845 proposed by Senator Dorgan to Amendment SA 1813.(consideration: CR S8222; text: CR S8222)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1852 proposed by Senator Nelson FL to Amendment SA 1813.(consideration: CR S8259; text: CR S8259)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1855 proposed by Senator Dorgan to Amendment SA 1813.(consideration: CR S8234-8243; text: CR S8234-8235)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1859 proposed by Senator Dorgan for Senator Boxer to Amendment SA 1813.(consideration: CR S8252-8259)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1864 proposed by Senator Hutchison to Amendment SA 1813.(consideration: CR S8251-8252)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1865 proposed by Senator Corker to Amendment SA 1813.(consideration: CR S8217-8221; text: CR S8217-8218; text as modified: CR S8218-8219)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1867 proposed by Senator Dorgan for Senator Merkley to Amendment SA 1813.(consideration: CR S8252-8259)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1874 proposed by Senator Nelson NE to Amendment SA 1813.(consideration: CR S8222-8223; text: CR S8222)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1878 proposed by Senator Coburn.(consideration: CR S8245; text as modified: CR S8245)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1879 proposed by Senator Coburn to Amendment SA 1813.(consideration: CR S8244-8245, S8245, S8246-8250, S8250; text: CR S8244)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1884 proposed by Senator Coburn to Amendment SA 1813.(consideration: CR S8245-8246, S8251; text: CR S8245-8246)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1888 proposed by Senator Dorgan for Senator Landrieu to Amendment SA 1813.(consideration: CR S8252-8259)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1891 proposed by Senator Dorgan for Senator Kaufman to Amendment SA 1813.(consideration: CR S8252-8259; text: CR S8253)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1892 proposed by Senator Dorgan for Senator Kyl to Amendment SA 1813.(consideration: CR S8253-8254; text: CR S8253-8254)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1893 proposed by Senator Nelson FL for Senator Martinez to Amendment SA 1813.(consideration: CR S8259-8262)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1895 proposed by Senator Dorgan to Amendment SA 1813.(consideration: CR S8244, S8250-8251; text: CR S8244)
+- 2009-07-29 — Senate amendment proposed (on the floor): Amendment SA 1903 proposed by Senator Sanders to Amendment SA 1813.(consideration: CR S8243-8244; text: CR S8243)
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate amendment submitted
+- 2009-07-29 — Senate insists on its amendment, asks for a conference, appoints conferees Dorgan; Byrd; Murray; Feinstein; Johnson; Landrieu; Reed; Lautenberg; Harkin; Tester; Inouye; Bennett; Cochran; McConnell; Bond; Hutchison; Shelby; Alexander; Voinovich.
