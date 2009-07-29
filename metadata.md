@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3139
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3139
@@ -37,3 +37,9 @@ National Flood Insurance Program Extension Act of 2009
 - 2009-07-09 — Introduced in House
 - 2009-07-09 — Introduced in House
 - 2009-07-09 — Referred to the House Committee on Financial Services.
+- 2009-07-29 — Considered under suspension of the rules. (consideration: CR H8973-8975)
+- 2009-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3139.
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
+- 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8973-8974)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8973-8974)
