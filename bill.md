@@ -7,15 +7,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3357
 
-> To restore sums to the Highway Trust Fund, and for other purposes.
+> To restore sums to the Highway Trust Fund and for other purposes.
 
 ## § 1. Funding of the Highway Trust Fund
 
 Subsection (f) of section 9503 of the Internal Revenue Code of 1986 (relating to determination of trust fund balances after September 30, 1998) is amended—
 
-- **(1)** by striking paragraph (2), and
+- **(1)** by striking paragraph (2); and
 - **(2)** by adding at the end the following new paragraph:
-  > - **(2)** *Increase in fund balance* Out of money in the Treasury not otherwise appropriated, there is hereby appropriated (without fiscal year limitation) to the Highway Trust Fund $5,000,000,000.
+  > - **(2)** *Increase in fund balance* Out of money in the Treasury not otherwise appropriated, there is hereby appropriated (without fiscal year limitation) to the Highway Trust Fund $7,000,000,000.
 
 ## § 2. Advances to the unemployment trust fund and other funds
 
