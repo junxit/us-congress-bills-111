@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 44
@@ -68,9 +68,10 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 - 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-28 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 7/27/2009 H8836-8837)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR 7/27/2009 H8836-8837)
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
