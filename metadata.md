@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 44
@@ -88,3 +88,15 @@ Recognizing the service, sacrifice, honor, and professionalism of the Noncommiss
 - 2009-07-28 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 7/27/2009 H8836-8837)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR 7/27/2009 H8836-8837)
 - 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2009-08-04 — Cleared for White House.
+- 2009-08-04 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8778)
+- 2009-08-04 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8778)
+- 2009-08-04 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2009-08-04 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2009-08-05 — Message on Senate action sent to the House.
+- 2009-08-11 — Presented to President.
+- 2009-08-11 — Presented to President.
+- 2009-08-19 — Became Public Law No: 111-61.
+- 2009-08-19 — Became Public Law No: 111-61.
+- 2009-08-19 — Signed by President.
+- 2009-08-19 — Signed by President.
