@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2623
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2623
@@ -25,3 +25,9 @@ To amend the Federal securities laws to clarify and expand the definition of cer
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Financial Services.
+- 2009-07-29 — Considered under suspension of the rules. (consideration: CR H8975-8976)
+- 2009-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2623.
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2009-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8975-8976)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8975-8976)
