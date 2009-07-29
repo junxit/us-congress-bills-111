@@ -1,7 +1,7 @@
 ---
 measure: H.R. 556
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 556
@@ -50,9 +50,10 @@ Southern Sea Otter Recovery and Research Act
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Harman, Jane [D-CA-36] (H000213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ Southern Sea Otter Recovery and Research Act
 - 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 316 - 107 (Roll no. 651). (text: CR 7/28/2009 H8930)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 316 - 107 (Roll no. 651).(text: CR 7/28/2009 H8930)
+- 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
