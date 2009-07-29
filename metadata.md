@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 631
 congress: 111
-version: Referred to Committee House
+version: Engrossed in House
 ---
 
 # H.Res. 631
@@ -64,3 +64,10 @@ Congratulating Continental Airlines on its 75th Anniversary.
 - 2009-07-22 — Committee on Science and Technology discharged.
 - 2009-07-22 — Mr. Gordon (TN) asked unanimous consent that the Committee on Science and Technology be discharged from public consideration of H.Res. 631 and that the resolution be referred to the Committee on Energy and Commerce. Agreed to without objection.
 - 2009-07-22 — Rereferred to the House Committee on Energy and Commerce.
+- 2009-07-23 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2009-07-29 — Considered under suspension of the rules. (consideration: CR H8988-8990)
+- 2009-07-29 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 631.
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Green, Gene moved to suspend the rules and agree to the resolution.
+- 2009-07-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8988-8989)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8988-8989)
