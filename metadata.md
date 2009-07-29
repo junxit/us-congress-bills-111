@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3183
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 3183
@@ -69,7 +69,7 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 
 - House — Appropriations Committee
 
-## Recorded votes (26)
+## Recorded votes (29)
 
 - 2009-07-15 — [House 111-1-543](votes/house-111-1-0543.md) — On Agreeing to the Amendment — **Agreed to** (261–172)
 - 2009-07-15 — [House 111-1-544](votes/house-111-1-0544.md) — On Agreeing to the Amendment — **Agreed to** (362–69)
@@ -97,6 +97,9 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 - 2009-07-29 — [Senate 111-1-246](votes/senate-111-1-0246.md) — On the Amendment — **Amendment Agreed to** (79–18)
 - 2009-07-29 — [Senate 111-1-247](votes/senate-111-1-0247.md) — On the Amendment — **Amendment Rejected** (26–71)
 - 2009-07-29 — [Senate 111-1-248](votes/senate-111-1-0248.md) — On Passage of the Bill — **Bill Passed** (85–9)
+- 2009-10-01 — [House 111-1-752](votes/house-111-1-0752.md) — On Agreeing to the Conference Report — **Passed** (308–114)
+- 2009-10-14 — [Senate 111-1-321](votes/senate-111-1-0321.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–17)
+- 2009-10-15 — [Senate 111-1-322](votes/senate-111-1-0322.md) — On the Conference Report — **Conference Report Agreed to** (80–17)
 
 ## Actions
 
@@ -516,3 +519,40 @@ Energy and Water Development and Related Agencies Appropriations Act, 2010
 - 2009-07-29 — Senate amendment submitted
 - 2009-07-29 — Senate amendment submitted
 - 2009-07-29 — Senate insists on its amendment, asks for a conference, appoints conferees Dorgan; Byrd; Murray; Feinstein; Johnson; Landrieu; Reed; Lautenberg; Harkin; Tester; Inouye; Bennett; Cochran; McConnell; Bond; Hutchison; Shelby; Alexander; Voinovich.
+- 2009-07-30 — Message on Senate action sent to the House.
+- 2009-09-25 — DEBATE - The House proceeded with ten minutes of debate on the Frelinghuysen motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to not record their approval of the final conference agreement (within the meaning of clause 12(a)(4) of House rule XXII) unless the text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 48 hours prior to the time described in such clause.
+- 2009-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-25 — Mr. Frelinghuysen moved that the House instruct conferees. (consideration: CR H9969)
+- 2009-09-25 — Mr. Pastor (AZ) moved that the House disagree to the Senate amendment, and agree to a conference.
+- 2009-09-25 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote. (consideration: CR H9969-9970)
+- 2009-09-25 — On motion that the House instruct conferees Agreed to by voice vote. (consideration: CR H9969)
+- 2009-09-25 — The Speaker appointed conferees: Visclosky, Edwards (TX), Pastor (AZ), Berry, Fattah, Israel, Ryan (OH), Olver, Davis (TN), Salazar, Obey, Frelinghuysen, Wamp, Simpson, Rehberg, Calvert, Alexander, and Lewis (CA).
+- 2009-09-30 — Conferees agreed to file conference report.
+- 2009-09-30 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-09-30 — Conference report H. Rept. 111-278 filed. (text of conference report: CR H10150-10358)
+- 2009-09-30 — Conference report filed: Conference report H. Rept. 111-278 filed.(text of conference report: CR H10150-10358)
+- 2009-09-30 — Rules Committee Resolution H. Res. 788 Reported to House. Rule provides for consideration of the conference report to H.R. 3183 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Rule provides for consideration of the conference report to H.R. 3183 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the conference report are waived. the previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+- 2009-09-30 — Rules Committee Resolution H. Res. 789 Reported to House. Rule provides for consideration of the conference report to H.R. 3183 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the conference report are waived. the previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+- 2009-10-01 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-10-01 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 308 - 114 (Roll no. 752).(consideration: CR H10432-10433)
+- 2009-10-01 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 3183.
+- 2009-10-01 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-10-01 — Mr. Pastor (AZ) brought up conference report H. Rept. 111-278 for consideration under the provisions of H. Res. 788. (consideration: CR H10424-10433)
+- 2009-10-01 — On agreeing to the conference report Agreed to by the Yeas and Nays: 308 - 114 (Roll no. 752). (consideration: CR H10432-10433)
+- 2009-10-01 — Rule H. Res. 788 passed House.
+- 2009-10-01 — The previous question was ordered pursuant to the rule. (consideration: CR H10432)
+- 2009-10-08 — Cloture motion on the conference report to accompany H.R. 3183 presented in Senate. (consideration: CR S10328; text: CR S10328)
+- 2009-10-08 — Conference report considered in Senate by Unanimous Consent. (consideration: CR S10328)
+- 2009-10-14 — Cloture on the conference report to accompany H.R. 3183 invoked in Senate by Yea-Nay Vote. 79 - 17. Record Vote Number: 321. (consideration: CR S10399; text: CR S10399)
+- 2009-10-14 — Conference report considered in Senate. (consideration: CR S10397-10402, S10402-10427)
+- 2009-10-15 — Cleared for White House.
+- 2009-10-15 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 80 - 17. Record Vote Number: 322.
+- 2009-10-15 — Conference report considered in Senate. (consideration: CR S10462-10464)
+- 2009-10-15 — Message on Senate action sent to the House.
+- 2009-10-15 — Senate agreed to conference report by Yea-Nay Vote. 80 - 17. Record Vote Number: 322.
+- 2009-10-21 — Presented to President.
+- 2009-10-21 — Presented to President.
+- 2009-10-28 — Became Public Law No: 111-85.
+- 2009-10-28 — Became Public Law No: 111-85.
+- 2009-10-28 — Signed by President.
+- 2009-10-28 — Signed by President.
