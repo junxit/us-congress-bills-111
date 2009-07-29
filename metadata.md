@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2093
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2093
@@ -62,3 +62,11 @@ Clean Coastal Environment and Public Health Act of 2009
 - 2009-07-20 — Placed on the Union Calendar, Calendar No. 116.
 - 2009-07-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-214.
 - 2009-07-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-214.
+- 2009-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-28 — Considered under suspension of the rules. (consideration: CR H8928-8932)
+- 2009-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2093.
+- 2009-07-28 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2009-07-29 — Considered as unfinished business. (consideration: CR H9038)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/28/2009 H8928-8929)
+- 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/28/2009 H8928-8929)
