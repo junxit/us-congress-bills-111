@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 682
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 682
@@ -36,3 +36,10 @@ Honoring the memory and lasting legacy of Sally Crowe.
 - 2009-07-28 — Introduced in House
 - 2009-07-28 — Introduced in House
 - 2009-07-28 — Referred to the House Committee on House Administration.
+- 2009-07-29 — Committee on House Administration discharged.
+- 2009-07-29 — Committee on House Administration discharged.
+- 2009-07-29 — Considered by unanimous consent. (consideration: CR H9035)
+- 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-29 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
+- 2009-07-29 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9035)
+- 2009-07-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9035)
