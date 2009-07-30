@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3139
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3139
@@ -28,9 +28,10 @@ National Flood Insurance Program Extension Act of 2009
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ National Flood Insurance Program Extension Act of 2009
 - 2009-07-29 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
 - 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8973-8974)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8973-8974)
+- 2009-07-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
