@@ -1,7 +1,7 @@
 ---
 measure: S. 748
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 748
@@ -29,3 +29,8 @@ A bill to redesignate the facility of the United States Postal Service located a
 - 2009-03-31 — Introduced in Senate
 - 2009-03-31 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2009-03-31 — Sponsor introductory remarks on measure. (CR S4072)
+- 2009-04-23 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
