@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 172
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 172
@@ -29,3 +29,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2009-07-30 — On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 191 (Roll no. 676). (text: CR H9137)
 - 2009-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 191 (Roll no. 676).(text: CR H9137)
 - 2009-07-30 — Received in the Senate.
+- 2009-07-31 — Message on Senate action sent to the House.
+- 2009-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8633; text as passed Senate: CR S8633)
+- 2009-07-31 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8633; text as passed Senate: CR S8633)
