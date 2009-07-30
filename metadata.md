@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2470
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2470
@@ -68,3 +68,9 @@ To designate the facility of the United States Postal Service located at 19190 C
 - 2009-06-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 340). (text: CR 6/15/2009 H6759)
 - 2009-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 340).(text: CR 6/15/2009 H6759)
 - 2009-06-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-07-16 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
+- 2009-07-30 — Star Print ordered on the bill.
