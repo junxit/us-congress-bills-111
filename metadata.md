@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 535
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 535
@@ -16,7 +16,7 @@ Commending the Congress of Leaders of World and Traditional Religions for callin
 
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
-## Cosponsors (24)
+## Cosponsors (27)
 
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -42,6 +42,9 @@ Commending the Congress of Leaders of World and Traditional Religions for callin
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Herger, Wally [R-CA-2] (H000528)
 
 ## Committees (1)
 
@@ -52,3 +55,12 @@ Commending the Congress of Leaders of World and Traditional Religions for callin
 - 2009-06-11 — Introduced in House
 - 2009-06-11 — Introduced in House
 - 2009-06-11 — Referred to the House Committee on Foreign Affairs.
+- 2009-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-28 — Considered under suspension of the rules. (consideration: CR H8940-8941)
+- 2009-07-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 535.
+- 2009-07-28 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.
+- 2009-07-30 — Considered as unfinished business. (consideration: CR H9166)
+- 2009-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 7/28/2009 H8940)
+- 2009-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 7/28/2009 H8940)
