@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2422
@@ -70,3 +70,8 @@ To designate the facility of the United States Postal Service located at 2300 Sc
 - 2009-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6758)
 - 2009-06-15 — The title of the measure was amended. Agreed to without objection.
 - 2009-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-07-16 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
