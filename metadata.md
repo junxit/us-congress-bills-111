@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1665
@@ -22,9 +22,10 @@ Coast Guard Acquisition Reform Act of 2009
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Coast Guard Acquisition Reform Act of 2009
 - 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 426 - 0 (Roll no. 658). (text: CR 7/28/2009 H8918-8924)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 426 - 0 (Roll no. 658).(text: CR 7/28/2009 H8918-8924)
+- 2009-07-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

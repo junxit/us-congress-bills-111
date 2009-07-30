@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -37,6 +37,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “, and the number of officers the board may recommend for promotion”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(a) In general.—” before the existing text; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) (as so designated) by striking the colon at the end of the material preceding paragraph (1) and inserting “—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 259(a), by inserting after “whom the board” the following: “, giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Commandant… | the bill names no machine-readable US Code section |
 | — | insert | in section 260(b), by inserting after “qualified for promotion” the following: “to meet the needs of the service (as noted in specific direction furnished the board by the Commandant under section 258 of this title)”. | the bill names no machine-readable US Code section |
