@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3357
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9503` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9503` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | The item relating to “Department of Labor—Employment and Training Administration—Advances to the Unemployment Trust Fund and Other Funds” in title I of division F of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 123 Stat. 754) … | the bill names no machine-readable US Code section |
 | — | replace | The item relating to “Federal Housing Administration—Mutual Mortgage Insurance Program Account” in title II of division I of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 123 Stat. 966) is amended by striking “$315,000,000,000”… | the bill names no machine-readable US Code section |
 | — | replace | The item relating to “Government National Mortgage Association—Guarantees of Mortgage-Backed Securities Loan Guarantee Program Account” in title II of division I of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 123 Stat. 967) i… | the bill names no machine-readable US Code section |
