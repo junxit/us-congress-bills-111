@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3269
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by inserting after section 10A the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 10A the following new section: | the bill names no machine-readable US Code section |
