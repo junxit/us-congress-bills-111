@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 310 of the Supplemental Appropriations Act, 2009 (Public Law 111–32) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 1244(g) of the Refugee Crisis in Iraq Act of 2007 (subtitle C of title XII of division A of Public Law 110–181; 122 Stat. 398) is amended by striking ‘‘for a period not to exceed eight months’’ and inserting “to the same extent, … | the bill names no machine-readable US Code section |
-| — | replace | Section 602(b)(8) of the Afghan Allies Protection Act of 2009 (title VI of division F of Public Law 111–8; 123 Stat. 809) is amended by striking ‘‘for a period not to exceed 8 months’’ and inserting “to the same extent, and for the same … | the bill names no machine-readable US Code section |
+| — | replace | Section 1244(g) of the Refugee Crisis in Iraq Act of 2007 (subtitle C of title XII of division A of Public Law 110–181; 122 Stat. 398) is amended by striking “for a period not to exceed eight months” and inserting “to the same extent, an… | the bill names no machine-readable US Code section |
+| — | replace | Section 602(b)(8) of the Afghan Allies Protection Act of 2009 (title VI of division F of Public Law 111–8; 123 Stat. 809) is amended by striking “for a period not to exceed 8 months” and inserting “to the same extent, and for the same pe… | the bill names no machine-readable US Code section |
