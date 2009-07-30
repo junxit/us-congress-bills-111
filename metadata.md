@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2529
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2529
@@ -25,9 +25,10 @@ Neighborhood Preservation Act
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Neighborhood Preservation Act
 - 2009-07-29 — Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.
 - 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8971-8973)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8971-8973)
+- 2009-07-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
