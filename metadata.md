@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2510
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2510
@@ -38,3 +38,11 @@ Absentee Ballot Track, Receive, and Confirm Act
 - 2009-06-19 — Placed on the Union Calendar, Calendar No. 85.
 - 2009-06-19 — Reported by the Committee on House Administration. H. Rept. 111-169.
 - 2009-06-19 — Reported by the Committee on House Administration. H. Rept. 111-169.
+- 2009-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lungren, Daniel E. objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-07-28 — Considered under suspension of the rules. (consideration: CR H8938-8940)
+- 2009-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2510.
+- 2009-07-28 — Mrs. Davis (CA) moved to suspend the rules and pass the bill.
+- 2009-07-30 — Considered as unfinished business. (consideration: CR H9139)
+- 2009-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/28/2009 H8938-8939)
+- 2009-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/28/2009 H8938-8939)
