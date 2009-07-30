@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3357
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3357
@@ -82,3 +82,10 @@ To restore sums to the Highway Trust Fund, and for other purposes.
 - 2009-07-30 — Senate amendment proposed (on the floor): Amendment SA 1907 proposed by Senator Vitter.(consideration: CR S8508-8514, S8528-8529; text as modified: CR S8508)
 - 2009-07-30 — Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator Sessions.(consideration: CR S8528, S8530; text: CR S8528)
 - 2009-07-30 — Senate amendment submitted
+- 2009-07-31 — Message on Senate action sent to the House.
+- 2009-08-04 — Presented to President.
+- 2009-08-04 — Presented to President.
+- 2009-08-07 — Became Public Law No: 111-46.
+- 2009-08-07 — Became Public Law No: 111-46.
+- 2009-08-07 — Signed by President.
+- 2009-08-07 — Signed by President.
