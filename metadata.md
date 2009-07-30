@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2749
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2749
@@ -28,9 +28,11 @@ Food Safety Enhancement Act of 2009
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2009-07-29 — [House 111-1-657](votes/house-111-1-0657.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (280–150)
+- 2009-07-30 — [House 111-1-679](votes/house-111-1-0679.md) — On Motion to Recommit with Instructions — **Failed** (186–240)
+- 2009-07-30 — [House 111-1-680](votes/house-111-1-0680.md) — On Passage — **Passed** (283–142)
 
 ## Actions
 
@@ -51,3 +53,18 @@ Food Safety Enhancement Act of 2009
 - 2009-07-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-234.
 - 2009-07-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-234.
 - 2009-07-29 — Rules Committee Resolution H. Res. 691 Reported to House. Rule provides for consideration of H.R. 2749 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. In lieu of the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill, the amendment in the nature of a substitute printed in the report of the Committee on Rules shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2009-07-30 — Considered under the provisions of rule H. Res. 691. (consideration: CR H9140-9165)
+- 2009-07-30 — DEBATE - The House continued with further debate on H.R. 2749.
+- 2009-07-30 — DEBATE - The House proceeded with 10 minutes of debate on the Lucas(OK) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments, pending the reservation of a point of order.
+- 2009-07-30 — DEBATE - The House proceeded with one hour of debate on H.R. 2749.
+- 2009-07-30 — House amendment offered
+- 2009-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-30 — Mr. Dingell raised a point of order against the motion to recommit with instructions. Mr. Dingell stated that the provisions of the motion to recommit exceeds the scope of the bill. Overruled by the Chair.
+- 2009-07-30 — Mr. Lucas moved to recommit with instructions to Energy and Commerce. (consideration: CR H9161-9162; text: CR H9161-9162)
+- 2009-07-30 — On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 240 (Roll no. 679).
+- 2009-07-30 — On passage Passed by recorded vote: 283 - 142 (Roll no. 680). (text: CR H9140-9156)
+- 2009-07-30 — Passed/agreed to in House: On passage Passed by recorded vote: 283 - 142 (Roll no. 680).(text: CR H9140-9156)
+- 2009-07-30 — Rule H. Res. 691 passed House.
+- 2009-07-30 — Rule provides for consideration of H.R. 2749 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. In lieu of the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill, the amendment in the nature of a substitute printed in the report of the Committee on Rules shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2009-07-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9164)
+- 2009-07-30 — The previous question was ordered pursuant to the rule. (consideration: CR H9161)
