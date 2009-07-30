@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3072
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3072
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 9810 Ha
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 9810 Ha
 - 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/27/2009 H8843)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/27/2009 H8843)
+- 2009-07-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
