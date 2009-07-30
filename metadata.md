@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 159
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 159
@@ -48,9 +48,10 @@ Recognizing the fifth anniversary of the declaration by the United States Congre
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Recognizing the fifth anniversary of the declaration by the United States Congre
 - 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/28/2009 H8946)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/28/2009 H8946)
+- 2009-07-30 — Received in the Senate and referred to the Committee on Foreign Relations.
