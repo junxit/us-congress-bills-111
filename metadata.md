@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 171
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 171
@@ -25,3 +25,11 @@ Authorizing the use of the Capitol Grounds for an event to honor military person
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-07-30 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-31 — Committee on Transportation discharged.
+- 2009-07-31 — Committee on Transportation discharged.
+- 2009-07-31 — Considered by unanimous consent. (consideration: CR H9244)
+- 2009-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-07-31 — Mr. Oberstar asked unanimous consent to discharge from committee and consider.
+- 2009-07-31 — On agreeing to the resolution Agreed to without objection. (text: CR H9244)
+- 2009-07-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9244)
