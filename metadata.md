@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2053
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2053
@@ -16,7 +16,7 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Cosponsors (14)
+## Cosponsors (18)
 
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Edwards, Chet [D-TX-17] (E000063)
@@ -32,6 +32,10 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
 ## Committees (1)
 
@@ -42,3 +46,10 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 - 2009-04-22 — Introduced in House
 - 2009-04-22 — Introduced in House
 - 2009-04-22 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-04-23 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-06-04 — Committee Consideration and Mark-up Session Held.
+- 2009-06-04 — Ordered to be Reported by Voice Vote.
+- 2009-06-04 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-07-31 — Placed on the House Calendar, Calendar No. 102.
+- 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-241.
+- 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-241.
