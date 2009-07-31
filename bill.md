@@ -1,0 +1,34 @@
+---
+legis-num: H. CON. RES. 177
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 177
+
+> Raising the awareness of the need for crime prevention in communities across the country and expressing support for designation of October 1, 2009, through October 3, 2009, as “Celebrate Safe Communities” Week, and October as “Crime Prevention Month”.
+
+## Preamble
+
+- Whereas communities across the country face localized increases in violence and other crime;
+- Whereas local law enforcement-community partnerships are an effective tool for crime prevention and addressing the fear of crime;
+- Whereas the National Sheriffs’ Association (NSA) and the National Crime Prevention Council (NCPC) are leading national resources providing community safety and crime prevention tools tested and valued by local law enforcement agencies and communities nationwide;
+- Whereas the NSA and the NCPC have joined together to create the “Celebrate Safe Communities” (CSC) initiative in partnership with the Bureau of Justice Assistance, Office of Justice Programs, Department of Justice;
+- Whereas in its premiere year, 153 communities in over 32 States and the District of Columbia participated in “Celebrate Safe Communities”;
+- Whereas “Celebrate Safe Communities” will take place the first week of October 2009 to help kickoff recognition of October as “Crime Prevention Month”;
+- Whereas “Crime Prevention Month” was established 25 years ago to encourage public education on being alert to criminal activity within their communities;
+- Whereas “Celebrate Safe Communities” is designated to help local communities highlight the importance of law enforcement-community partnerships to keep communities safe places to live, learn, work, and play;
+- Whereas “Celebrate Safe Communities” will enhance the public awareness of vital crime prevention and safety messages and motivate people in the United States of all ages to learn what they can do to stay safe from crime;
+- Whereas “Celebrate Safe Communities” will help promote year-round support for locally based and law enforcement-led community safety initiatives that help keep families, neighborhoods, schools, and businesses from crime;
+- Whereas the week of October 1, 2009, through October 3, 2009, would be an appropriate week to designate as “Celebrate Safe Communities” Week; and
+- Whereas the month of October is designated as “Crime Prevention Month”: Now, therefore, be it
+
+That Congress—
+
+- **(1)** supports the designation of “Celebrate Safe Communities” Week;
+- **(2)** supports “Crime Prevention Month”;
+- **(3)** commends the efforts of the thousands of local law enforcement agencies and their countless community partners educating and engaging residents of all ages in the fight against crime;
+- **(4)** asks communities across the country to consider how “Celebrate Safe Communities” can help them highlight local successes in the fight against crime;
+- **(5)** encourages the National Sheriffs’ Association and the National Crime Prevention Council to continue to promote through “Celebrate Safe Communities” and year-round, individual and collective action, in collaboration with law enforcement and other supporting local agencies, to reduce crime and build safer communities throughout the United States; and
+- **(6)** encourages government agencies, civic groups, schools, businesses, and youth organizations to educate the public, showcase their accomplishments, and explore new partnerships during “Crime Prevention Month”.
