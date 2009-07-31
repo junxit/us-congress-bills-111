@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 636
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 636
@@ -26,3 +26,8 @@ Directing the Attorney General to transmit to the House of Representatives all i
 - 2009-07-13 — Introduced in House
 - 2009-07-13 — Referred to the House Committee on the Judiciary.
 - 2009-07-13 — Sponsor introductory remarks on measure. (CR H8013, E1732)
+- 2009-07-29 — Committee Consideration and Mark-up Session Held.
+- 2009-07-29 — Ordered to be Reported Adversely by the Yeas and Nays: 14 - 12.
+- 2009-07-31 — Placed on the House Calendar, Calendar No. 103.
+- 2009-07-31 — Reported adversely by the Committee on Judiciary. H. Rept. 111-242.
+- 2009-07-31 — Reported adversely by the Committee on Judiciary. H. Rept. 111-242.
