@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3326
@@ -16,9 +16,10 @@ Department of Defense Appropriations Act, 2010
 
 - Rep. Murtha, John P. [D-PA-12] (M001120)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (15)
 
@@ -203,3 +204,4 @@ Department of Defense Appropriations Act, 2010
 - 2009-07-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9130)
 - 2009-07-30 — The previous question was ordered pursuant to the rule. (consideration: CR H9129)
 - 2009-07-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
