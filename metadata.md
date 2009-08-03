@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2728
@@ -20,9 +20,10 @@ William Orton Law Library Improvement and Modernization Act
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ William Orton Law Library Improvement and Modernization Act
 - 2009-07-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 383 - 44 (Roll no. 678). (text: CR 7/28/2009 H8936)
 - 2009-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 383 - 44 (Roll no. 678).(text: CR 7/28/2009 H8936)
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
