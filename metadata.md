@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 12
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 12
@@ -80,9 +80,10 @@ Expressing support for designation of September 2009 as "Gospel Music Heritage M
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -96,3 +97,4 @@ Expressing support for designation of September 2009 as "Gospel Music Heritage M
 - 2009-07-31 — Mr. Clay asked unanimous consent to discharge from committee and consider.
 - 2009-07-31 — On passage Passed without objection. (text: CR H9246-9247)
 - 2009-07-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9246-9247)
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
