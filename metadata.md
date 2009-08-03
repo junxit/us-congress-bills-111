@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2749
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2749
@@ -24,9 +24,10 @@ Food Safety Enhancement Act of 2009
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -68,3 +69,4 @@ Food Safety Enhancement Act of 2009
 - 2009-07-30 — Rule provides for consideration of H.R. 2749 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. In lieu of the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill, the amendment in the nature of a substitute printed in the report of the Committee on Rules shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-07-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9164)
 - 2009-07-30 — The previous question was ordered pursuant to the rule. (consideration: CR H9161)
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
