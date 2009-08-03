@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2510
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2510
@@ -23,9 +23,10 @@ Absentee Ballot Track, Receive, and Confirm Act
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Absentee Ballot Track, Receive, and Confirm Act
 - 2009-07-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/28/2009 H8938-8939)
 - 2009-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/28/2009 H8938-8939)
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
