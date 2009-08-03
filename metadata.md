@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 171
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 171
@@ -33,3 +33,4 @@ Authorizing the use of the Capitol Grounds for an event to honor military person
 - 2009-07-31 — Mr. Oberstar asked unanimous consent to discharge from committee and consider.
 - 2009-07-31 — On agreeing to the resolution Agreed to without objection. (text: CR H9244)
 - 2009-07-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H9244)
+- 2009-08-03 — Received in the Senate.
