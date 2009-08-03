@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3269
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3269
@@ -30,9 +30,10 @@ Corporate and Financial Institution Compensation Fairness Act of 2009
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -84,3 +85,4 @@ Corporate and Financial Institution Compensation Fairness Act of 2009
 - 2009-07-31 — Roll call votes on amendments in House
 - 2009-07-31 — Rule H. Res. 697 passed House.
 - 2009-07-31 — Rule provides for consideration of H.R. 3269 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill shall be considered as adopted. All points of order against provisions of the bill, as amended, are waived.
+- 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

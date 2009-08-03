@@ -2,7 +2,7 @@
 legis-num: H.R. 3269
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3269
@@ -100,4 +100,4 @@ Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by 
       - **(ii)** the Federal National Mortgage Association;
       - **(iii)** the Federal Home Loan Mortgage Corporation; and
       - **(iv)** companies that participated in the Security and Exchange Commission’s Consolidated Supervised Entities Program as of January 2008.
-  - **(2)** *Report* Not later than the end of the 1-year period beginning on the date of the enactment of this Act, the Comptroller General shall issue a report to the Congress containing the results of the study required under paragraph (1).
+  - **(2)** *Report* Not later than the end of the 1-year period beginning on the date of the enactment of this Act, the Comptroller General shall issue a re-port to the Congress containing the results of the study required under paragraph (1).
