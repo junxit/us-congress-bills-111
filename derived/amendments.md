@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 111
-version: Public Print
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “the District of Columbia and” after the first instance of “institutions located in”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “ten” and inserting “eleven”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “eight” and inserting “nine”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Connecticut,” after the first instance of “States shall be”. | the bill names no machine-readable US Code section |
 | — | insert | Section 10101 of division B of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, (Public Law 110–329) is amended in subsection (b) by inserting at the end the following: “In carrying out this sectio… | the bill names no machine-readable US Code section |
-| — | replace | by striking “ten” and inserting “eleven”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “eight” and inserting “nine”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Wisconsin,” after the first instance of “States shall be”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “the District of Columbia and” after the first instance of “institutions located in”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “ten” and inserting “thirteen”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “eight” and inserting “eleven”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Connecticut, Nevada, Wisconsin,” after the first instance of “States shall be”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9(b) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
@@ -46,3 +43,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | in clause (i), by inserting “or multiyear production losses” after “a production loss”. | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding clause (i), by inserting “(including multiyear assistance)” after “assistance”; and | the bill names no machine-readable US Code section |
 | — | insert | in clause (i), by inserting “or multiyear production losses” after “a production loss”. | the bill names no machine-readable US Code section |
+| — | replace | Section 6(e)(1)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755(e)(1)(B)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9(f)(5) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(f)(5)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9(h)(3) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(h)(3)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9(h)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(h)(4)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 18(h)(5) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769(h)(5)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 21(g)(1)(A)(ii) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769b-1(g)(1)(A)(ii)) is amended by striking “and October 1, 2008” and inserting “October 1, 2008, and October 1, 2009”. | the bill names no machine-readable US Code section |
+| — | replace | Section 26(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769g(d)) is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |

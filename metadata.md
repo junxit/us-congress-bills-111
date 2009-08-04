@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 2997
@@ -16,7 +16,7 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (74)
+## Cosponsors (76)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -55,6 +55,8 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
@@ -97,7 +99,7 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 
 - House — Appropriations Committee
 
-## Recorded votes (20)
+## Recorded votes (23)
 
 - 2009-07-09 — [House 111-1-498](votes/house-111-1-0498.md) — On Agreeing to the Amendment — **Agreed to** (266–161)
 - 2009-07-09 — [House 111-1-499](votes/house-111-1-0499.md) — On Agreeing to the Amendment — **Agreed to** (404–27)
@@ -119,6 +121,9 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 - 2009-08-04 — [Senate 111-1-259](votes/senate-111-1-0259.md) — On the Motion — **Motion Rejected** (32–65)
 - 2009-08-04 — [Senate 111-1-260](votes/senate-111-1-0260.md) — On the Motion — **Motion Agreed to** (60–37)
 - 2009-08-04 — [Senate 111-1-261](votes/senate-111-1-0261.md) — On Passage of the Bill — **Bill Passed** (80–17)
+- 2009-09-29 — [House 111-1-742](votes/house-111-1-0742.md) — On Motion to Instruct Conferees — **Passed** (359–41)
+- 2009-10-07 — [House 111-1-761](votes/house-111-1-0761.md) — On Agreeing to the Conference Report — **Passed** (263–162)
+- 2009-10-08 — [Senate 111-1-318](votes/senate-111-1-0318.md) — On the Conference Report — **Conference Report Agreed to** (76–22)
 
 ## Actions
 
@@ -820,3 +825,37 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 - 2009-08-04 — Senate amendment submitted
 - 2009-08-04 — Senate amendment submitted
 - 2009-08-04 — Senate insists on its amendment, asks for a conference, appoints conferees Kohl; Harkin; Dorgan; Feinstein; Durbin; Johnson; Nelson NE; Reed; Pryor; Specter; Inouye; Brownback; Bennett; Cochran; Bond; McConnell; Collins; Shelby.
+- 2009-08-05 — Message on Senate action sent to the House.
+- 2009-09-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-09-29 — DEBATE - The House proceeded with one hour of debate on the Kingston motion to instruct conferees on H.R. 2997. The instructions contained in the motion seek to require the managers on the part of the House to not record their approval of the final conference agreement (within the meaning of clause 12(a)(4) of House rule XXII) unless the text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 72 hours piror to the time described in such clause.
+- 2009-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-29 — Mr. Kingston moved that the House instruct conferees.
+- 2009-09-29 — Ms. DeLauro asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H10021-10023, H10041-10042)
+- 2009-09-29 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2009-09-29 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 359 - 41 (Roll no. 742). (consideration: CR H10041-10042)
+- 2009-09-29 — The Speaker appointed conferees: DeLauro, Farr, Boyd, Bishop (GA), Davis (TN), Kaptur, Hinchey, Jackson (IL), Obey, Kingston, Latham, Emerson, Alexander, and Lewis (CA).
+- 2009-09-29 — The previous question was ordered without objection. (consideration: CR H10023)
+- 2009-09-30 — Conferees agreed to file conference report.
+- 2009-09-30 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-09-30 — Conference report H. Rept. 111-279 filed. (text of conference report: CR H10358-10402)
+- 2009-09-30 — Conference report filed: Conference report H. Rept. 111-279 filed.(text of conference report: CR H10358-10402)
+- 2009-10-06 — Rules Committee Resolution H. Res. 799 Reported to House. Rule provides for consideration of the conference report to H.R. 2997. All points of order against the conference report and against its consideration are waived. The previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1)one hour of debate; and (2) one motion to recommit if applicable.
+- 2009-10-07 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-10-07 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 263 - 162 (Roll no. 761).
+- 2009-10-07 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2997.
+- 2009-10-07 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-10-07 — Ms. DeLauro brought up conference report H. Rept. 111-279 for consideration under the provisions of H. Res. 799. (consideration: CR H11061-11077)
+- 2009-10-07 — On agreeing to the conference report Agreed to by the Yeas and Nays: 263 - 162 (Roll no. 761).
+- 2009-10-07 — Rule H. Res. 799 passed House.
+- 2009-10-07 — The previous question was ordered pursuant to the rule. (consideration: CR H11076)
+- 2009-10-08 — Cleared for White House.
+- 2009-10-08 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 76 - 22. Record Vote Number: 318.
+- 2009-10-08 — Conference report considered in Senate. (consideration: CR S10280-10284)
+- 2009-10-08 — Message on Senate action sent to the House.
+- 2009-10-08 — Senate agreed to conference report by Yea-Nay Vote. 76 - 22. Record Vote Number: 318.
+- 2009-10-16 — Presented to President.
+- 2009-10-16 — Presented to President.
+- 2009-10-21 — Became Public Law No: 111-80.
+- 2009-10-21 — Became Public Law No: 111-80.
+- 2009-10-21 — Signed by President.
+- 2009-10-21 — Signed by President.
