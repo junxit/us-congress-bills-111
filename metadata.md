@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2938
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2938
@@ -44,3 +44,7 @@ To extend the deadline for commencement of construction of a hydroelectric proje
 - 2009-07-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 608). (text: CR 7/21/2009 H8449)
 - 2009-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 608).(text: CR 7/21/2009 H8449)
 - 2009-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-08-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2009-08-04 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-68.
+- 2009-08-04 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-68.
+- 2009-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.
