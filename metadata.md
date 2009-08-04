@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 111
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2997
@@ -16,11 +16,88 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
+## Cosponsors (74)
+
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Brownback, Sam [R-KS] (B000953)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (13)
+## Recorded votes (20)
 
 - 2009-07-09 — [House 111-1-498](votes/house-111-1-0498.md) — On Agreeing to the Amendment — **Agreed to** (266–161)
 - 2009-07-09 — [House 111-1-499](votes/house-111-1-0499.md) — On Agreeing to the Amendment — **Agreed to** (404–27)
@@ -35,6 +112,13 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 - 2009-07-09 — [House 111-1-508](votes/house-111-1-0508.md) — On Agreeing to the Amendment — **Failed** (140–292)
 - 2009-07-09 — [House 111-1-509](votes/house-111-1-0509.md) — Table Appeal of the Ruling of the Chair — **Passed** (246–179)
 - 2009-07-09 — [House 111-1-510](votes/house-111-1-0510.md) — On Passage — **Passed** (266–160)
+- 2009-08-03 — [Senate 111-1-255](votes/senate-111-1-0255.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–11)
+- 2009-08-03 — [Senate 111-1-256](votes/senate-111-1-0256.md) — On the Amendment — **Amendment Rejected** (41–55)
+- 2009-08-04 — [Senate 111-1-257](votes/senate-111-1-0257.md) — On the Amendment — **Amendment Rejected** (27–70)
+- 2009-08-04 — [Senate 111-1-258](votes/senate-111-1-0258.md) — On the Amendment — **Amendment Rejected** (37–60)
+- 2009-08-04 — [Senate 111-1-259](votes/senate-111-1-0259.md) — On the Motion — **Motion Rejected** (32–65)
+- 2009-08-04 — [Senate 111-1-260](votes/senate-111-1-0260.md) — On the Motion — **Motion Agreed to** (60–37)
+- 2009-08-04 — [Senate 111-1-261](votes/senate-111-1-0261.md) — On Passage of the Bill — **Bill Passed** (80–17)
 
 ## Actions
 
@@ -182,3 +266,557 @@ Agriculture, Rural Development, Food and Drug Administration, and Related Agenci
 - 2009-07-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2009-07-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2997.
 - 2009-07-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7852)
+- 2009-07-10 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2009-07-30 — Amendment SA 1908 proposed by Senator Kohl. (consideration: CR S8534-8536) In the nature of a substitute.
+- 2009-07-30 — Amendment SA 2230 proposed by Senator Kohl for Senator Tester to Amendment SA 1908. (consideration: CR S8536-8537; text: CR S8536-8537) To clarify a provision relating to funding for a National Animal Identification Program.
+- 2009-07-30 — Measure laid before Senate by unanimous consent. (consideration: CR S8534-8537)
+- 2009-07-30 — Senate amendment proposed (on the floor): Amendment SA 1908 proposed by Senator Kohl.(consideration: CR S8534-8536)
+- 2009-07-30 — Senate amendment proposed (on the floor): Amendment SA 2230 proposed by Senator Kohl for Senator Tester to Amendment SA 1908.(consideration: CR S8536-8537; text: CR S8536-8537)
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-30 — Senate amendment submitted
+- 2009-07-31 — Amendment SA 2225 proposed by Senator Kohl for Senator Murray to Amendment SA 1908. (consideration: CR S8622-8623; text: CR S8623) To allow State and local governments to participate in the conservation reserve program.
+- 2009-07-31 — Amendment SA 2226 proposed by Senator Kohl for Senator Nelson FL to Amendment SA 1908. (consideration: CR S8622-8623; text: CR S8623) To prohibit funds made available under this Act from being used to enforce a travel or conference policy that prohibits an event from being held in a location based on a perception that the location is a resort or vacation destination.
+- 2009-07-31 — Amendment SA 2229 proposed by Senator Brownback to Amendment SA 1908. (consideration: CR S8620-8622; text: CR S8620) To establish within the Food and Drug Administration 2 review groups to recommend solutions for the prevention, diagnosis, and treatment of rare diseases and neglected diseases of the developing world.
+- 2009-07-31 — Amendment SA 2234 agreed to in Senate by Voice Vote.
+- 2009-07-31 — Amendment SA 2234 proposed by Senator Kohl for Senator Leahy to Amendment SA 1908. (consideration: CR S8622-8623; text: CR S8623) To provide funding for the Office of Inspector General to conduct inspections of the national organic program.
+- 2009-07-31 — Cloture motion on Amendment SA 1908 presented in Senate. (consideration: CR S8619-8620; text: CR S8619)
+- 2009-07-31 — Cloture motion on the bill presented in Senate. (consideration: CR S8620; text: CR S8620)
+- 2009-07-31 — Considered by Senate. (consideration: CR S8619)
+- 2009-07-31 — Considered by Senate. (consideration: CR S8619-8620)
+- 2009-07-31 — Considered by Senate. (consideration: CR S8619-8623)
+- 2009-07-31 — Senate amendment agreed to: Amendment SA 2234 agreed to in Senate by Voice Vote.
+- 2009-07-31 — Senate amendment proposed (on the floor): Amendment SA 2225 proposed by Senator Kohl for Senator Murray to Amendment SA 1908.(consideration: CR S8622-8623; text: CR S8623)
+- 2009-07-31 — Senate amendment proposed (on the floor): Amendment SA 2226 proposed by Senator Kohl for Senator Nelson FL to Amendment SA 1908.(consideration: CR S8622-8623; text: CR S8623)
+- 2009-07-31 — Senate amendment proposed (on the floor): Amendment SA 2229 proposed by Senator Brownback to Amendment SA 1908.(consideration: CR S8620-8622; text: CR S8620)
+- 2009-07-31 — Senate amendment proposed (on the floor): Amendment SA 2234 proposed by Senator Kohl for Senator Leahy to Amendment SA 1908.(consideration: CR S8622-8623; text: CR S8623)
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-07-31 — Senate amendment submitted
+- 2009-08-03 — Amendment SA 1910 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 256.
+- 2009-08-03 — Amendment SA 1910 proposed by Senator McCain to Amendment SA 1908. (consideration: CR S8647-8648, S8657-8658, S8661-8662; text: CR S8648) To strike a setaside for certain grants authorized under the Rural Electrification Act.
+- 2009-08-03 — Amendment SA 1912 proposed by Senator McCain to Amendment SA 1908. (consideration: CR S8648; text: CR S8648) To strike a provision relating to certain watershed and flood prevention operations.
+- 2009-08-03 — Amendment SA 2030 proposed by Senator McCain to Amendment SA 1908. (consideration: CR S8648-8650; text: CR S8648) To prohibit funding for an earmark.
+- 2009-08-03 — Amendment SA 2229 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8651)
+- 2009-08-03 — Amendment SA 2230 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Amendment SA 2233 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Amendment SA 2233 proposed by Senator Kohl to Amendment SA 1908. (consideration: CR S8650-8651; text: CR S8650) To provide the Food and Drug Administration the ability to collect user fees as authorized by the Family Smoking Prevention and Tobacco Control Act.
+- 2009-08-03 — Amendment SA 2240 proposed by Senator Brownback for Senator Barrasso to Amendment SA 1908. (consideration: CR S8658-8659; text: CR S8659) To require the Secretary of Agriculture to conduct a State-by-State analysis of the impacts on agricultural producers of the American Clean Energy and Security Act of 2009 (H.R. 2452, as passed by the House of Representatives on June 26, 2009).
+- 2009-08-03 — Amendment SA 2241 proposed by Senator Johanns to Amendment SA 1908. (consideration: CR S8653-8654; text: CR S8653) To provide funding for the tuberculosis program of the Animal and Plant Health Inspection Service.
+- 2009-08-03 — Amendment SA 2243 proposed by Senator Coburn to Amendment SA 1908. (consideration: CR S8659; text: CR S8659) To eliminate the double-dipped stimulus funds for the Rural Business-Cooperative Service account.
+- 2009-08-03 — Amendment SA 2244 proposed by Senator Coburn to Amendment SA 1908. (consideration: CR S8659; text: CR S8659) To support the proposal of the President to eliminate funding in the bill for digital conversion efforts of the Department of Agriculture that are duplicative of existing Federal efforts.
+- 2009-08-03 — Amendment SA 2245 proposed by Senator Coburn to Amendment SA 1908. (consideration: CR S8659; text: CR S8659) To strike a provision providing $3,000,000 for specialty cheeses in Vermont and Wisconsin.
+- 2009-08-03 — Amendment SA 2246 proposed by Senator Coburn to Amendment SA 2226. (consideration: CR S8659-8660; text: CR S8660) To provide additional transparency and accountability for spending on conferences and meetings of the Department of Agriculture.
+- 2009-08-03 — Amendment SA 2248 proposed by Senator Coburn to Amendment SA 1908. (consideration: CR S8659; text: CR S8659) To prohibit no-bid contracts and grants.
+- 2009-08-03 — Amendment SA 2253 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8656)
+- 2009-08-03 — Amendment SA 2253 proposed by Senator Brownback for Senator Chambliss to Amendment SA 1908. (consideration: CR S8656) To require a report on the status of the reorganization of the Foreign Agricultural Service and future plans to modify office structures.
+- 2009-08-03 — Amendment SA 2254 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Amendment SA 2254 proposed by Senator Brownback for Senator Chambliss to Amendment SA 1908. (consideration: CR S8660; text: CR S8660) To prohibit the use of funds to assess greenbook charges to agencies or to use previously assessed funds.
+- 2009-08-03 — Amendment SA 2255 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Amendment SA 2255 proposed by Senator Brownback for Senator Vitter to Amendment SA 1908. (consideration: CR S8660; text: CR S8660) To require the Commissioner of Food and Drugs to conduct a study on imported seafood.
+- 2009-08-03 — Amendment SA 2259 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8661)
+- 2009-08-03 — Amendment SA 2259 proposed by Senator Kohl for Senator Landrieu to Amendment SA 1908. (consideration: CR S8661) To require a report on increasing participation of rural small businesses in tourism activities.
+- 2009-08-03 — Amendment SA 2271 proposed by Senator Sanders to Amendment SA 1908. (consideration: CR S8663; text: CR S8663) To provide funds for the school community garden pilot program, with an offset.
+- 2009-08-03 — Amendment SA 2276 proposed by Senator Sanders to Amendment SA 1908. (consideration: CR S8663; text: CR S8663) To modify the amount made available for the Farm Service Agency.
+- 2009-08-03 — Amendment SA 2288 proposed by Senator Kohl to Amendment SA 2248. (consideration: CR S8660; text: CR S8660) To provide requirements regarding the authority of the Secretary of Agriculture and the Commissioner of Food and Drugs to enter into certain contracts.
+- 2009-08-03 — Amendment SA 2289 agreed to in Senate by Voice Vote.
+- 2009-08-03 — Amendment SA 2289 proposed by Senator Kohl to Amendment SA 1908. (consideration: CR S8660; text: CR S8660) To ensure the compliance of the United States regarding obligations under the international trade agreements.
+- 2009-08-03 — Cloture on Amendment SA 1908 invoked in Senate by Yea-Nay Vote. 83 - 11. Record Vote Number: 255. (consideration: CR S8661; text: CR S8661)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647, S8650-8651)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647, S8651)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647, S8659)
+- 2009-08-03 — Considered by Senate. (consideration: CR S8647-8663)
+- 2009-08-03 — Roll call votes on amendments in Senate: Amendment SA 1910 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 256.
+- 2009-08-03 — Roll call votes on amendments in Senate: Cloture on Amendment SA 1908 invoked in Senate by Yea-Nay Vote. 83 - 11. Record Vote Number: 255.(consideration: CR S8661; text: CR S8661)
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2229 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8651)
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2230 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2233 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2253 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8656)
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2254 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2255 agreed to in Senate by Unanimous Consent.
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2259 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8661)
+- 2009-08-03 — Senate amendment agreed to: Amendment SA 2289 agreed to in Senate by Voice Vote.
+- 2009-08-03 — Senate amendment not agreed to: Amendment SA 1910 not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 256.
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 1910 proposed by Senator McCain to Amendment SA 1908.(consideration: CR S8647-8648, S8657-8658, S8661-8662; text: CR S8648)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 1912 proposed by Senator McCain to Amendment SA 1908.(consideration: CR S8648; text: CR S8648)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2030 proposed by Senator McCain to Amendment SA 1908.(consideration: CR S8648-8650; text: CR S8648)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2233 proposed by Senator Kohl to Amendment SA 1908.(consideration: CR S8650-8651; text: CR S8650)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2240 proposed by Senator Brownback for Senator Barrasso to Amendment SA 1908.(consideration: CR S8658-8659; text: CR S8659)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2241 proposed by Senator Johanns to Amendment SA 1908.(consideration: CR S8653-8654; text: CR S8653)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2243 proposed by Senator Coburn to Amendment SA 1908.(consideration: CR S8659; text: CR S8659)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2244 proposed by Senator Coburn to Amendment SA 1908.(consideration: CR S8659; text: CR S8659)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2245 proposed by Senator Coburn to Amendment SA 1908.(consideration: CR S8659; text: CR S8659)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2246 proposed by Senator Coburn to Amendment SA 2226.(consideration: CR S8659-8660; text: CR S8660)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2248 proposed by Senator Coburn to Amendment SA 1908.(consideration: CR S8659; text: CR S8659)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2253 proposed by Senator Brownback for Senator Chambliss to Amendment SA 1908.(consideration: CR S8656)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2254 proposed by Senator Brownback for Senator Chambliss to Amendment SA 1908.(consideration: CR S8660; text: CR S8660)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2255 proposed by Senator Brownback for Senator Vitter to Amendment SA 1908.(consideration: CR S8660; text: CR S8660)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2259 proposed by Senator Kohl for Senator Landrieu to Amendment SA 1908.(consideration: CR S8661)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2271 proposed by Senator Sanders to Amendment SA 1908.(consideration: CR S8663; text: CR S8663)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2276 proposed by Senator Sanders to Amendment SA 1908.(consideration: CR S8663; text: CR S8663)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2288 proposed by Senator Kohl to Amendment SA 2248.(consideration: CR S8660; text: CR S8660)
+- 2009-08-03 — Senate amendment proposed (on the floor): Amendment SA 2289 proposed by Senator Kohl to Amendment SA 1908.(consideration: CR S8660; text: CR S8660)
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-03 — Senate amendment submitted
+- 2009-08-04 — Amendment SA 1908 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Amendment SA 1912 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 257.
+- 2009-08-04 — Amendment SA 2030 not agreed to in Senate by Voice Vote.
+- 2009-08-04 — Amendment SA 2225 ruled non-germane by the chair.
+- 2009-08-04 — Amendment SA 2226 ruled non-germane by the chair.
+- 2009-08-04 — Amendment SA 2240 ruled non-germane by the chair.
+- 2009-08-04 — Amendment SA 2241 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Amendment SA 2244 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 258.
+- 2009-08-04 — Amendment SA 2245 not agreed to in Senate by Voice Vote.
+- 2009-08-04 — Amendment SA 2246 ruled non-germane by the chair.
+- 2009-08-04 — Amendment SA 2248 ruled non-germane by the chair.
+- 2009-08-04 — Amendment SA 2249 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8723)
+- 2009-08-04 — Amendment SA 2249 proposed by Senator Kohl for Senator Hutchison to Amendment SA 1908. (consideration: CR S8722-8723) To express the sense of the Senate relating to the provision of disaster assistance.
+- 2009-08-04 — Amendment SA 2266 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8723)
+- 2009-08-04 — Amendment SA 2266 proposed by Senator Kohl for Senator Sanders to Amendment SA 1908. (consideration: CR S8722-8723) To require the Center for Food Safety and Applied Nutrition to use certain funds to conduct a study on obesity.
+- 2009-08-04 — Amendment SA 2271 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8722)
+- 2009-08-04 — Amendment SA 2276 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Amendment SA 2276 ruled in order by the chair.
+- 2009-08-04 — Amendment SA 2280 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Amendment SA 2280 proposed by Senator Kohl to Amendment SA 1908. (consideration: CR S8722-8723, S8725-8726) Of a perfecting nature.
+- 2009-08-04 — Amendment SA 2280, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S8725-8726)
+- 2009-08-04 — Amendment SA 2282 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8722-8723)
+- 2009-08-04 — Amendment SA 2282 proposed by Senator Kohl for Senator Cardin to Amendment SA 1908. (consideration: CR S8722-8723) To seek recommendations from the Commissioner of Food and Drugs regarding the need to establish labeling standards for personal care products for which organic content claims are made.
+- 2009-08-04 — Amendment SA 2284 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Amendment SA 2284 proposed by Senator Kohl for Senator Dodd to Amendment SA 1908. (consideration: CR S8722; text: CR S8722) To require the Secretary of Agriculture to fund certain projects in communities and municipal districts in Connecticut, Massachusetts, and Rhode Island.
+- 2009-08-04 — Amendment SA 2285 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Amendment SA 2285 proposed by Senator Kohl for Senator Nelson NE to Amendment SA 1908. (consideration: CR S8724, S8726; text: CR S8724) To express the sense of the Senate regarding the livestock indemnity program.
+- 2009-08-04 — Amendment SA 2288 ruled non-germane by the chair.
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8712-8713)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8714, S8715, S8716, S8729)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8714, S8725, S8726-8727)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716, S8718)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716, S8718)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716, S8718)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716, S8718-8719)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716, S8719)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8716-8718, S8720, S8726)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8720)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8722-8723)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8722-8723)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8723)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711, S8726)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711-8712)
+- 2009-08-04 — Considered by Senate. (consideration: CR S8711-8713, S8714, S8715-8716, S8716-8719, S8720-8730)
+- 2009-08-04 — Motion by Senator Coburn to commit to Senate Committee on Appropriations with instructions made in Senate. (consideration: CR S8724, S8726; text: CR S8724)
+- 2009-08-04 — Motion by Senator Coburn to commit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 32 - 65. Record Vote Number: 259. (consideration: CR S8726)
+- 2009-08-04 — Motion to waive the Budget Act with respect to amendment SA 2276 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 260.
+- 2009-08-04 — Passed Senate with an amendment by Yea-Nay Vote. 80 - 17. Record Vote Number: 261. (text as passed Senate: CR 8/5/2009 S8877-8887)
+- 2009-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 80 - 17. Record Vote Number: 261.(text as passed Senate: CR 8/5/2009 S8877-8887)
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2225.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2226.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2240.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2246.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2248.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2276.
+- 2009-08-04 — Point of order raised in Senate with respect to amendment SA 2288.
+- 2009-08-04 — Proposed amendment SA 2243 withdrawn in Senate. (consideration: CR S8720)
+- 2009-08-04 — Roll call votes on amendments in Senate: Amendment SA 1912 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 257.
+- 2009-08-04 — Roll call votes on amendments in Senate: Amendment SA 2244 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 258.
+- 2009-08-04 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2276 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 260.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 1908 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2241 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2249 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8723)
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2266 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8723)
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2271 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8722)
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2276 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2280 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2282 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8722-8723)
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2284 agreed to in Senate by Voice Vote.
+- 2009-08-04 — Senate amendment agreed to: Amendment SA 2285 agreed to in Senate by Unanimous Consent.
+- 2009-08-04 — Senate amendment not agreed to: Amendment SA 1912 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 257.
+- 2009-08-04 — Senate amendment not agreed to: Amendment SA 2030 not agreed to in Senate by Voice Vote.
+- 2009-08-04 — Senate amendment not agreed to: Amendment SA 2244 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 258.
+- 2009-08-04 — Senate amendment not agreed to: Amendment SA 2245 not agreed to in Senate by Voice Vote.
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2249 proposed by Senator Kohl for Senator Hutchison to Amendment SA 1908.(consideration: CR S8722-8723)
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2266 proposed by Senator Kohl for Senator Sanders to Amendment SA 1908.(consideration: CR S8722-8723)
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2280 proposed by Senator Kohl to Amendment SA 1908.(consideration: CR S8722-8723, S8725-8726)
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2282 proposed by Senator Kohl for Senator Cardin to Amendment SA 1908.(consideration: CR S8722-8723)
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2284 proposed by Senator Kohl for Senator Dodd to Amendment SA 1908.(consideration: CR S8722; text: CR S8722)
+- 2009-08-04 — Senate amendment proposed (on the floor): Amendment SA 2285 proposed by Senator Kohl for Senator Nelson NE to Amendment SA 1908.(consideration: CR S8724, S8726; text: CR S8724)
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate insists on its amendment, asks for a conference, appoints conferees Kohl; Harkin; Dorgan; Feinstein; Durbin; Johnson; Nelson NE; Reed; Pryor; Specter; Inouye; Brownback; Bennett; Cochran; Bond; McConnell; Collins; Shelby.
