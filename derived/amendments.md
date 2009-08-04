@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,11 +32,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “For” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in the section heading, by inserting “and spouses of military personnel” before the period at the end. | the bill names no machine-readable US Code section |
 | — | replace | The table of contents in section 1(b) of such Act (50 U.S.C. App. 501) is amended by striking the item relating to section 705 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | replace | by striking “A servicemember” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “or the spouse of a servicemember” after “The personal property of a servicemember”; and | the bill names no machine-readable US Code section |

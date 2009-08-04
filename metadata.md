@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 475
@@ -16,7 +16,7 @@ Military Spouses Residency Relief Act
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (43)
+## Cosponsors (44)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Johanns, Mike [R-NE] (J000291)
@@ -61,6 +61,7 @@ Military Spouses Residency Relief Act
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -75,3 +76,5 @@ Military Spouses Residency Relief Act
 - 2009-07-15 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-46. Supplemental views filed.
 - 2009-07-15 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-46. Supplemental views filed.
 - 2009-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.
+- 2009-08-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8778; text as passed Senate: CR S8778)
+- 2009-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8778; text as passed Senate: CR S8778)
