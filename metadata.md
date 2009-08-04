@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1275
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1275
@@ -55,3 +55,13 @@ Utah Recreational Land Exchange Act of 2009
 - 2009-08-04 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-67.
 - 2009-08-04 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-67.
 - 2009-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 150.
+- 2009-08-05 — Cleared for White House.
+- 2009-08-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8889)
+- 2009-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8889)
+- 2009-08-06 — Message on Senate action sent to the House.
+- 2009-08-11 — Presented to President.
+- 2009-08-11 — Presented to President.
+- 2009-08-19 — Became Public Law No: 111-53.
+- 2009-08-19 — Became Public Law No: 111-53.
+- 2009-08-19 — Signed by President.
+- 2009-08-19 — Signed by President.

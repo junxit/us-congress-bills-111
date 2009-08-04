@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1275
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 1716` | amend | By adding additional State land to the non-Federal land to be conveyed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | By adding additional State land to the non-Federal land to be conveyed. | the bill names no machine-readable US Code section |
