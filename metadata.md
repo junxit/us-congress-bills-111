@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3435
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3435
@@ -38,3 +38,7 @@ Making supplemental appropriations for fiscal year 2009 for the Consumer Assista
 - 2009-07-31 — Mr. Obey moved to suspend the rules and pass the bill.
 - 2009-07-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 316 - 109, 2 Present (Roll no. 682). (text: CR H9233-9234)
 - 2009-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 316 - 109, 2 Present (Roll no. 682).(text: CR H9233-9234)
+- 2009-08-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-08-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.
+- 2009-08-04 — Senate amendment submitted
+- 2009-08-04 — Senate amendment submitted

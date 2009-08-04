@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3435
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
