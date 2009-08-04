@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | insert | by inserting “the District of Columbia and” after the first instance of “institutions located in”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “ten” and inserting “eleven”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “eight” and inserting “nine”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Connecticut,” after the first instance of “States shall be”. | the bill names no machine-readable US Code section |
 | — | insert | Section 10101 of division B of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, (Public Law 110–329) is amended in subsection (b) by inserting at the end the following: “In carrying out this sectio… | the bill names no machine-readable US Code section |
 | — | replace | by striking “ten” and inserting “eleven”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “eight” and inserting “nine”; and | the bill names no machine-readable US Code section |
