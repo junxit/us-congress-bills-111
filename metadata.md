@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3293
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3293
@@ -100,3 +100,7 @@ Departments of Labor, Health and Human Services, and Education, and Related Agen
 - 2009-07-24 — The previous question was ordered pursuant to the rule. (consideration: CR H8791)
 - 2009-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-07-27 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2009-07-30 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-08-04 — Committee on Appropriations. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 111-66.
+- 2009-08-04 — Committee on Appropriations. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 111-66.
+- 2009-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.
