@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 475
@@ -78,3 +78,19 @@ Military Spouses Residency Relief Act
 - 2009-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.
 - 2009-08-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8778; text as passed Senate: CR S8778)
 - 2009-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8778; text as passed Senate: CR S8778)
+- 2009-08-05 — Message on Senate action sent to the House.
+- 2009-09-08 — Held at the desk.
+- 2009-09-08 — Received in the House.
+- 2009-11-02 — Cleared for White House.
+- 2009-11-02 — Considered under suspension of the rules. (consideration: CR H12145-12147)
+- 2009-11-02 — DEBATE - The House proceeded with forty minutes of debate on S. 475.
+- 2009-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-02 — Mr. Carson (IN) moved to suspend the rules and pass the bill.
+- 2009-11-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12145-12146)
+- 2009-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12145-12146)
+- 2009-11-04 — Presented to President.
+- 2009-11-04 — Presented to President.
+- 2009-11-11 — Became Public Law No: 111-97.
+- 2009-11-11 — Became Public Law No: 111-97.
+- 2009-11-11 — Signed by President.
+- 2009-11-11 — Signed by President.
