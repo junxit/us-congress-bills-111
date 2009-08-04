@@ -1,7 +1,7 @@
 ---
 measure: S. 1314
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1314
@@ -33,3 +33,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.
+- 2009-08-04 — Message on Senate action sent to the House.
+- 2009-08-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8714-8715; text as passed Senate: CR S8715)
+- 2009-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8714-8715; text as passed Senate: CR S8715)
