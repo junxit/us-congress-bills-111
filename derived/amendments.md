@@ -1,7 +1,7 @@
 ---
 measure: S. 1547
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
@@ -40,9 +40,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (b)(1)(A), by inserting “new construction,” before “expansion”; and | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “A grant” and inserting “(1) A grant”; | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence of paragraph (1), as designated by subparagraph (A), by striking “The amount” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 2013 of such title is amended by striking “subchapter $150,000,000” and all that follows through the period and inserting the following: “subchapter— | the bill names no machine-readable US Code section |
 | — | amend | Section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter VII of chapter 20 of title 38, United States Code, as amended by section 3(b), is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Subchapter VII of chapter 20 of title 38, United States Code, as amended by section 3(b), is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 20 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |

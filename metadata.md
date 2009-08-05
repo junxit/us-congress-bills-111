@@ -1,7 +1,7 @@
 ---
 measure: S. 1547
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1547
@@ -33,3 +33,6 @@ Zero Tolerance for Veterans Homelessness Act of 2009
 - 2009-07-30 — Introduced in Senate
 - 2009-07-30 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S8562-8564)
 - 2009-07-30 — Sponsor introductory remarks on measure. (CR S8562)
+- 2009-08-05 — Referred to the Committee on Veterans' Affairs.
+- 2009-08-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S8863, S8890)
+- 2009-08-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S8863, S8890)
