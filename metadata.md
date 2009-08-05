@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3288
@@ -258,3 +258,7 @@ Consolidated Appropriations Act, 2010
 - 2009-07-23 — The previous question was ordered pursuant to the rule. (consideration: CR H8674)
 - 2009-07-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-07-27 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2009-07-30 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-08-05 — Committee on Appropriations. Reported by Senator Murray with an amendment in the nature of a substitute. With written report No. 111-69.
+- 2009-08-05 — Committee on Appropriations. Reported by Senator Murray with an amendment in the nature of a substitute. With written report No. 111-69.
+- 2009-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
