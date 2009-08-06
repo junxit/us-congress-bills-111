@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1016
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1016
@@ -175,3 +175,8 @@ Veterans Health Care Budget Reform and Transparency Act of 2009
 - 2009-06-23 — The title of the measure was amended. Agreed to without objection.
 - 2009-06-24 — Received in the Senate.
 - 2009-07-27 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
+- 2009-08-06 — Measure laid before Senate by unanimous consent. (consideration: CR S9059)
+- 2009-08-06 — Passed Senate in lieu of S. 423 with an amendment by Unanimous Consent. (text as passed Senate: CR S9059)
+- 2009-08-06 — Passed/agreed to in Senate: Passed Senate in lieu of S. 423 with an amendment by Unanimous Consent.(text as passed Senate: CR S9059)
+- 2009-08-06 — See also S.423.
+- 2009-08-06 — Senate struck all after the Enacting Clause and substituted the language of S. 423.
