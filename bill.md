@@ -1,0 +1,274 @@
+---
+legis-num: S. 1608
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1608
+
+> To prepare young people in disadvantaged situations for a competitive future.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Reengaging Americans in Serious Education by Uniting Programs Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Purpose
+
+The purposes of this Act are—
+
+- **(1)** to prepare young people in disadvantaged situations for a competitive future; and
+- **(2)** to challenge and support young people who have dropped out of secondary school to—
+  - **(A)** attain a secondary school diploma;
+  - **(B)** attain a 2-year or 4-year credential from a recognized postsecondary educational institution, an industry recognized credential, or certification from a registered apprenticeship program; and
+  - **(C)** secure and succeed in a family-supporting career.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Disability* The term disability has the meaning given the term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
+- **(2)** *Eligible entity* The term eligible entity means a partnership that includes—
+  - **(A)** a mayor, or appropriate chief executive officer of general purpose local government, of the community to be assisted under the grant awarded under section 4;
+  - **(B)** a representative of—
+    - **(i)** each local educational agency serving the community to be assisted under the grant;
+    - **(ii)** the local juvenile justice system serving the community;
+    - **(iii)** the local criminal justice system serving the community;
+    - **(iv)** the local workforce system serving the community;
+    - **(v)** the local housing agency serving the community;
+    - **(vi)** the local mental health agency serving the community; and
+    - **(vii)** the local child welfare agency serving the community;
+  - **(C)** a representative of a State agency serving youth in the community to be assisted under the grant;
+  - **(D)** not less than 1 representative of an institution of higher education, which may include a community college;
+  - **(E)** a representative of—
+    - **(i)** a local secondary school;
+    - **(ii)** not less than 1 community-based organization;
+    - **(iii)** a public or private, nonprofit agency providing services to young people;
+    - **(iv)** a labor management committee; and
+    - **(v)** a business; and
+  - **(F)** young people in disadvantaged situations, and parents or caregivers of young people in disadvantaged situations.
+- **(3)** *Federal Youth Development Council* The term Federal Youth Development Council means the Federal Youth Development Council established under the Tom Osborne Federal Youth Coordination Act (Public Law 109–365; 120 Stat. 2594).
+- **(4)** *Homeless children and youths* The term homeless children and youths has the meaning given the term in section 725 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a).
+- **(5)** *In a disadvantaged situation* The term in a disadvantaged situation, when referring to an individual, includes an individual who—
+  - **(A)** has left secondary school without obtaining a secondary school diploma;
+  - **(B)** is attending secondary school and is at risk of leaving secondary school without obtaining a secondary school diploma; or
+  - **(C)**
+    - **(i)** has a secondary school diploma or its recognized equivalent; and
+    - **(ii)** faces a barrier to employment or does not have the skills to obtain employment or enter postsecondary education.
+- **(6)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+- **(7)** *One-stop center* The term one-stop center means a one-stop center described in section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)).
+- **(8)** *Postsecondary education* The term postsecondary education means—
+  - **(A)** a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward a baccalaureate degree, offered by an institution of higher education; or
+  - **(B)** a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a nonprofit educational institution.
+- **(9)** *Registered apprenticeship program* The term registered apprenticeship program means an industry skills training program at the postsecondary level that combines technical and theoretical training through structured on-the-job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhanced job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship of the Department of Labor or by a State agency recognized by the Department of Labor.
+- **(10)** *Secondary school* The term secondary school has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+- **(11)** *Secretary* The term Secretary means the Secretary of Labor.
+- **(12)** *Young people* The term young people means individuals who are between the ages of 14 and 24, inclusive, at the time of commencement of participation in services funded through a grant under section 4.
+
+## § 4. Grants authorized
+
+- **(a)** *In general* The Secretary, in consultation with the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Attorney General of the United States, the Federal Youth Development Council, and leaders in the field of working with young people in disadvantaged situations, shall award grants, on a competitive basis, to eligible entities to enable the eligible entities to pay the costs of—
+  - **(1)** developing and implementing a strategy to identify young people in disadvantaged situations; and
+  - **(2)** providing such young people with support needed to—
+    - **(A)** graduate from secondary school;
+    - **(B)** attain a postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program; and
+    - **(C)** secure and succeed in a family-supporting career.
+- **(b)** *Minimum grant amount* The Secretary shall award a grant under this section in an amount that—
+  - **(1)** is appropriate to achieve the goals and implement the activities described in the application submitted under section 5; and
+  - **(2)** is not less than $1,000,000 per year.
+- **(c)** *Duration of grant* A grant under this section shall be awarded for a period of 5 years, and may be renewed at the discretion of the Secretary based on the effective performance of the eligible entity under the preceding grant in accordance with the levels of performance determined by the eligible entity and the Secretary pursuant to section 9(b).
+- **(d)** *Equitable geographic distribution of funds* The Secretary shall ensure an equitable and appropriate distribution of grants awarded under this section among eligible entities—
+  - **(1)** serving urban, rural, and suburban areas; and
+  - **(2)** with varying degrees of experience and expertise in serving young people in disadvantaged situations.
+- **(e)** *Fiscal and administrative agents* An eligible entity shall choose an entity to be the fiscal agent and an entity to be the administrative agent for the grant funds received under this section.
+- **(f)** *Existing partnership* An existing workforce, education, or youth development partnership, coalition, or organization may serve as the eligible entity for the purposes of grants under this section if the partnership, coalition, or organization includes, or modifies the members of the partnership, coalition, or organization to include, the individuals required to be included in the eligible entity under section 3(2).
+
+## § 5. Application
+
+- **(a)** *In general* An eligible entity that desires a grant under section 4 shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+- **(b)** *Contents* An application submitted under this section shall include—
+  - **(1)** a description of the eligible entity submitting the application, including a description of the fiscal agent and the administrative agent for the grant;
+  - **(2)** a description of the strategy that the eligible entity will use to carry out the purpose of this Act, which shall include—
+    - **(A)** a well-developed education component, which may include an emphasis on basic literacy and the skills needed in science, technology, engineering, and mathematics;
+    - **(B)** a work preparation component, which may include a hands-on internship, work experience, or national or community service, that promotes the development of applied skills such as oral and written communication, teamwork, leadership, and critical thinking; and
+    - **(C)** a youth support component, including the array of comprehensive support services that will—
+      - **(i)** address the challenges that caused the young people in disadvantaged situations to leave school without a secondary school diploma;
+      - **(ii)** remove barriers to and support the attainment of—
+        - **(I)** the graduation of such young people from secondary school;
+        - **(II)** a postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program; and
+        - **(III)** success in a family-supporting career; and
+      - **(iii)** provide appropriate case management to ensure young people achieve the purposes described in section 2;
+  - **(3)** a needs assessment of the community to be assisted under the grant, including—
+    - **(A)** an estimate of the number of young people in disadvantaged situations in the community; and
+    - **(B)** an assessment of resources available in the community that can help such young people—
+      - **(i)** address the challenges that caused such young people to leave school without a secondary school diploma;
+      - **(ii)** return to an appropriate educational setting;
+      - **(iii)** attain a secondary school diploma;
+      - **(iv)** attain a postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program; and
+      - **(v)** secure and succeed in a family-supporting career;
+  - **(4)** a plan for identifying and engaging young people in disadvantaged situations and connecting such young people with a continuum of comprehensive and coordinated resources that can help such young people attain a secondary school diploma, a recognized postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program, and secure and succeed in a family-supporting career, including a description of—
+    - **(A)** the needs of such young people that will be met by the eligible entity through the grant;
+    - **(B)** the identities, roles, and capacity of the partners in the eligible entity to fulfill the needs described in subparagraph (A), including a description of the role to be played by—
+      - **(i)** secondary schools and postsecondary institutions in constructing education programming;
+      - **(ii)** the local workforce system, including one-stop career centers and businesses, in developing and implementing the workforce preparation activities; and
+      - **(iii)** youth serving systems, including the juvenile justice system, and other community-based organizations in providing outreach, support, and direct service;
+    - **(C)** a plan to leverage non-Federal (including in-kind) resources and a plan for sustainability beyond the grant period;
+    - **(D)** the services to be provided through the grant to carry out the strategy described in paragraph (2) and a description of the process that will be used to award subgrants and contracts under section 7 for the provision of such services;
+    - **(E)** the research and evidence base indicating why the selected strategy and selection of services will be effective in meeting the comprehensive needs of the young people in disadvantaged situations identified in the community;
+    - **(F)** the goals, intended outcomes, and performance measures of the eligible entity's strategy in accordance with the performance measures under section 9(b);
+    - **(G)** a statement of concurrence on the application, signed by the partners in the eligible entity, that outlines the specific roles and responsibilities of the partners as the roles and responsibilities relate to the functioning of the eligible entity; and
+    - **(H)** a plan to create, or include an existing, youth advisory council, that is composed of young people in disadvantaged situations from the community to be served, to make recommendations regarding the services to be provided under the grant;
+  - **(5)** a description of the system that will be put in place to—
+    - **(A)** provide case management, counseling, intensive placement and follow-up services, adult advocacy, or mentoring to help young people in disadvantaged situations and their families access the various systems, resources, and supports necessary to ensure such young people's success; and
+    - **(B)** ensure that young people receiving services through the grant will receive individualized case management to ensure that the young people achieve the purposes described in section 2(2), including—
+      - **(i)** an assessment of needs;
+      - **(ii)** coordination of appropriate services; and
+      - **(iii)** academic preparation and support for entry, persistence, and completion of postsecondary education;
+  - **(6)** a description of how the eligible entity will ensure that every young person served under the grant receives comprehensive services, including receiving not less than 1 workforce preparation service as described in section 7(b)(1), not less than 1 education support service as described in section 7(b)(2), and not less than 1 youth support service as described in section 7(b)(3), until the young person—
+    - **(A)** attains a secondary school diploma, a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program; and
+    - **(B)** secures and succeeds in a family-supporting career;
+  - **(7)** a description of how the strategy to be implemented under the grant will identify, engage, and provide services to young people in disadvantaged situations who—
+    - **(A)** are or were previously homeless children and youths;
+    - **(B)** were previously under the care and placement responsibility of the State agency responsible for administering a plan under parts B and E of title IV of the Social Security Act (42 U.S.C. 621 et seq., 670 et seq.);
+    - **(C)** were under the custody of the State’s juvenile justice system or criminal justice system; or
+    - **(D)** have a disability;
+  - **(8)** a description of how public and private services that exist on the date of submission of the application will be coordinated and integrated in order to implement and sustain the strategy under the grant;
+  - **(9)** a description of how Federal, State, and local private and public funds will be leveraged, coordinated, and integrated in order to implement the strategy under the grant;
+  - **(10)** a description of how the strategy to be implemented under the grant strengthens, and does not duplicate, efforts within the community to be served under the grant that are funded under chapter 4 of subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2851 et seq.); and
+  - **(11)** a description of how the strategy to be implemented under the grant aligns with the efforts of the local educational agency serving the community assisted under the grant to improve secondary schools, including efforts focused on—
+    - **(A)** students who are off-track to an on-time graduation; and
+    - **(B)** recuperative strategies.
+- **(c)** *Existing plans, assessments, and strategies* Plans, needs assessments, and strategies that have been developed by an eligible entity or the partners in the eligible entity may be used to satisfy the requirements of this section if such plans, needs assessments, or strategies—
+  - **(1)** include the information required by this section, or can be modified to include the information required by this section; and
+  - **(2)** are submitted to the Secretary with such modifications.
+
+## § 6. Priority
+
+In awarding grants to eligible entities under section 4, the Secretary shall give priority to applications from eligible entities proposing—
+
+- **(1)** to serve areas with disproportionately high numbers or percentages of young people who have left secondary school without obtaining a secondary school diploma or its recognized equivalent;
+- **(2)** to serve areas with high concentrations of young people in families whose family income is not more than 200 percent of the poverty line (as determined under section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2))); and
+- **(3)** to serve areas with high numbers or percentages of young people who are unemployed or underemployed.
+
+## § 7. Selection criteria
+
+The Secretary shall award grants to eligible entities under section 4 based on selection criteria that includes the following:
+
+- **(1)** *Best practices or research* The extent to which the application submitted by an eligible entity under section 5 is rooted in documented best practices or research.
+- **(2)** *Integration* The extent to which the application demonstrates the integration of multiple services into a comprehensive, coordinated continuum that meets the holistic needs of young people, including health services, mental health services, housing, civic opportunities, job readiness, work experience, school readiness, reenrollment in school, and connections to family and community.
+- **(3)** *Leadership and community involvement* The extent to which the application demonstrates the leadership and substantive involvement of the business community, the mayor or appropriate chief executive officers of the general purpose local government, and the public and nonprofit sectors of the community served by the grant.
+- **(4)** *Leveraging and sustainability* The extent to which the application demonstrates that resources from multiple sources will be leveraged to implement the grant, and the extent to which the application demonstrates a plan for sustainability beyond the grant period.
+
+## § 8. Use of funds
+
+- **(a)** *Subgrants*
+  - **(1)** *In general* Each eligible entity receiving a grant under section 4 shall use the grant funds—
+    - **(A)** to award subgrants and contracts to community-based organizations and other entities to enable the organizations and entities to provide a comprehensive array of coordinated activities that will—
+      - **(i)** support the educational, vocational, social, emotional, and civic needs of young people in disadvantaged situations; and
+      - **(ii)** allow such young people to graduate from secondary school, attain a postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program, and secure and succeed in a family-supporting career;
+    - **(B)** for training, technical assistance, and professional development for the organizations and entities that is offered by local or national organizations;
+    - **(C)** for coordinating the overall effort of the eligible entity; or
+    - **(D)** for the reasonable costs associated with the administration and oversight of the grants under section 4.
+  - **(2)** *Use of subgrant funds* Each organization or entity receiving a subgrant or contract under this Act—
+    - **(A)** shall use the subgrant or contract funds to carry out a workforce preparation service, an education support service, or a youth support service, described in paragraphs (1), (2), and (3) of subsection (b), respectively; and
+    - **(B)** may use the subgrant or contract funds to carry out an activity described in paragraph (4) or (5) of subsection (b).
+- **(b)** *Allowable activities* The services and activities referred to in subsection (a)(2) include the following:
+  - **(1)** *Work and career preparation*
+    - **(A)** *Workforce preparation* Job training, youth entrepreneurship, technological and vocational skill building, meaningful internship and apprenticeship opportunities, and other workforce preparation activities developed in partnership with the business community and other employers.
+    - **(B)** *Exposure and preparation for careers* Strategies that will expose young people in disadvantaged situations to, and prepare such young people for, careers, including careers in high-growth, high-demand industries that require the use of science, technology, engineering, and mathematics skills.
+    - **(C)** *Applied skills* Strategies that promote the development of applied skills in such young people, including oral and written communication, teamwork, leadership, critical thinking, and a commitment to social and civic responsibility, including service-learning activities.
+    - **(D)** *Compensation* Compensation for employment opportunities for such young people, including summer and year-round employment opportunities, national and community service, service-learning, and work experience.
+  - **(2)** *Education support*
+    - **(A)** *Education programming* Education programming for such young people, including assessment, instruction, tutoring, and technology supports to academic instruction.
+    - **(B)** *Career and technical education* Career and technical education.
+    - **(C)** *Dual enrollment programs and early college high schools* Participation in dual enrollment programs, early college high schools, and other proven models for supporting the educational achievement of disadvantaged youth.
+    - **(D)** *Postsecondary credentials* Programs that provide young people with a postsecondary credential from an institution of higher education, a non-profit educational institution that offers an industry recognized credential, or a registered apprenticeship program, which may include attainment of a GED, only if the GED attainment is an element of the pathway toward achieving such credential or certification.
+    - **(E)** *Transition support* Support for young people in their transition into and their successful completion of postsecondary education.
+    - **(F)** *Financial assistance* Financial assistance for such young people for education support services and for higher education.
+  - **(3)** *Youth support*
+    - **(A)** *Case management* Case management, including using subgrant or contract funds for youth centers to serve as points of access and continued support.
+    - **(B)** *Health, mental health, or drug treatment services* Health services, mental health services, or drug treatment services.
+    - **(C)** *Housing* Housing.
+    - **(D)** *Transportation* Transportation.
+    - **(E)** *Childcare or family support services* Childcare services or family support services.
+    - **(F)** *Mentoring activities* Mentoring activities for such young people, including one-to-one relationship building and tutoring.
+  - **(4)** *Curriculum development* Curriculum development that promotes contextual learning.
+  - **(5)** *Other services or opportunities* Other services or opportunities that the Secretary or the eligible entity determine will help carry out the purposes of this Act.
+- **(c)** *Eligible participants* An eligible entity receiving a grant under section 4 shall ensure that, of the group of young people in disadvantaged situations who receive the services and participate in the activities described in subsections (a) and (b) under the grant, not less than 75 percent of the group shall be young people who—
+  - **(1)** left secondary school without receiving a secondary school diploma; and
+  - **(2)** regardless of educational status—
+    - **(A)** face a barrier to employment or do not have the skills to obtain employment or enter postsecondary education; and
+    - **(B)**
+      - **(i)** are or were previously homeless children and youths;
+      - **(ii)** were previously under the care and placement responsibility of the State agency responsible for administering a plan under parts B and E of title IV of the Social Security Act (42 U.S.C. 621 et seq., 670 et seq.);
+      - **(iii)** were under the custody of the juvenile justice or criminal justice system; or
+      - **(iv)** have a disability.
+- **(d)** *Waiver of multiple service requirement* The Secretary may waive the requirement of subsection (a) regarding the provision of a comprehensive array of coordinated activities for an eligible entity receiving a grant under section 4 to permit not more than 25 percent of the young people served by the eligible entity under the grant to receive only 1 or more services among the allowable activities described in subsection (b) if the eligible entity determines that such young people only need 1 or more such services in order to—
+  - **(1)** attain a secondary school diploma;
+  - **(2)** attain a recognized postsecondary credential, including a 2-year or 4-year credential from an institution of higher education, an industry-recognized credential, or certification from a registered apprenticeship program; and
+  - **(3)** secure and succeed in a family-supporting career.
+
+## § 9. Accountability, performance measures, and evaluation
+
+- **(a)** *Purpose* The purpose of this section is to establish an accountability system, comprised of the activities described in this section, in order to—
+  - **(1)** assess the effectiveness of grants under section 4 in helping disadvantaged youth—
+    - **(A)** attain a secondary school diploma;
+    - **(B)** attain a 2-year or 4-year credential from an institution of higher education, an industry recognized credential, or certification from a registered apprenticeship program; and
+    - **(C)** secure and succeed in a family-supporting career;
+  - **(2)** identify and disseminate effective practices to strengthen performance; and
+  - **(3)** maximize the return on investment of Federal funds in activities assisted pursuant to a grant under section 4.
+- **(b)** *Performance measures*
+  - **(1)** *In general* For each eligible entity, performance measures shall consist of the indicators of performance described in paragraph (2) and the level of performance described in paragraph (3).
+  - **(2)** *Indicators of performance* The indicators of performance referred to in paragraph (1) shall consist of the following:
+    - **(A)** *Interim indicators*
+      - **(i)** *Youth participation* Youth participation in activities funded under section 4.
+      - **(ii)** *Youth progress* Youth progress towards attainment of a secondary school diploma.
+      - **(iii)** *Youth attainment* Youth attainment of a secondary school diploma.
+    - **(B)** *Transitional indicators*
+      - **(i)** *Diploma, and entrance into education or employment* Youth acquisition of a secondary school diploma, and entrance into postsecondary education or employment.
+      - **(ii)** *Credential* Youth attainment of 1 or more recognized postsecondary credentials, which may include a certificate, a license, a journey-status card, or an associate degree or baccalaureate degree.
+    - **(C)** *Long-term indicators*
+      - **(i)** *Employment, diploma, and credential* Employment of individuals who participated in activities funded under section 4, attained a secondary school diploma, and attained 1 or more recognized credentials, which may include a certificate, license, journey-status card, or associate degree or baccalaureate degree.
+      - **(ii)** *Initial wage or salary level* The initial wage or salary level of individuals described in clause (i).
+  - **(3)** *Level of performance* For each indicator of performance described in paragraph (2), the Secretary, in coordination with the eligible entity, shall determine a level of performance expressed in objective, quantifiable, and measurable form and in a way to show the progress of the eligible entity toward continuously improving performance.
+  - **(4)** *Eligible entity measures*
+    - **(A)** *In general* Each eligible entity that receives a grant under section 4 shall reach agreement with the Secretary on the levels of performance for the years covered by the grant. The levels of performance shall take into account the economic conditions of the area served, youth characteristics, secondary school graduation rates, and the activities or services provided under the grant.
+    - **(B)** *Adjustments* If unanticipated circumstances arise resulting in a significant change in the economic conditions, youth characteristics, secondary school graduation rates, or activities or services provided in the community served under the grant, then the eligible entity may request that the Secretary adjust the level of performance for the eligible entity.
+- **(c)** *Assurance* Each eligible entity that receives a grant under section 4 shall provide an assurance to the Secretary, as part of the application submitted under section 5, that the eligible entity will—
+  - **(1)** report progress toward achieving the indicators under subsection (b) beyond the grant period for young people served under the grant; and
+  - **(2)** use funds provided under the grant for such progress reporting.
+- **(d)** *Reports*
+  - **(1)** *In general* Each eligible entity that receives a grant under section 4 shall annually, for each year of the grant, provide a report to the Secretary that includes the progress of the eligible entity in accomplishing the performance measures for the eligible entity. The annual report shall include—
+    - **(A)** information on the progress each eligible entity made in accomplishing its performance measures, disaggregated by the subgroups described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II));
+    - **(B)** the costs of the activities supported under the grant under section 4, including—
+      - **(i)** the type of cost, such as cash, personnel, equipment, supplies, or materials, or other cost;
+      - **(ii)** the sources used to pay such costs, such as—
+        - **(I)** funding from other Federal, State, or local public programs; or
+        - **(II)** private sector or philanthropic contributions; and
+      - **(iii)** the dollar value of the resources leveraged to cover such costs and support the activities;
+    - **(C)** any fiscal and management accountability information required by the Secretary, which information shall use sound financial and management practices;
+    - **(D)** the characteristics and number of young people in disadvantaged situations served by the services and activities provided under the grant; and
+    - **(E)** the services and supports provided under the grant.
+  - **(2)** *Valid and reliable information* In preparing the reports under this subsection, each eligible entity shall establish procedures, consistent with guidelines issued by the Secretary, to ensure that the information contained in the reports is valid and reliable.
+- **(e)** *Evaluation* Not later than 90 days after the date of enactment of this Act, the Secretary shall award a grant or a contract to an entity outside the Department of Labor for an evaluation of the activities assisted under the grants awarded under section 4. Such evaluation shall—
+  - **(1)** evaluate a subgroup of eligible entities that received a grant under section 4;
+  - **(2)** include an analysis and documentation of the strategies implemented by the eligible entities assisted under the grants awarded under section 4 and the key lessons learned, as such lessons relate to program design, systems coordination, and implementation;
+  - **(3)** measure the outcomes, and progress toward the outcomes, of the strategies implemented under the grants under section 4 in terms of the interim and transitional indicators of performance under subsection (b)(2), and if feasible, the long-term indicators of performance under such subsection;
+  - **(4)** document the incremental progress of such young people over time on the outcomes measured under paragraph (3);
+  - **(5)** measure the return on investment resulting from the activities funded with grants under section 4; and
+  - **(6)** begin as soon as practicable after the awarding of the grant or contract under this section and continue throughout the duration of the periods of the grants under section 4 so that the plans included in the applications under section 5 may be informed by, and conducive to, the evaluation.
+
+## § 10. Technical assistance and best practices
+
+The Secretary shall—
+
+- **(1)** in consultation with the Federal Youth Development Council and the Coordinating Council on Juvenile Justice and Delinquency Prevention established under section 206 of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5616), the Shared Youth Vision, and other related agencies, disseminate best practices that emerge from the program assisted under this Act in identifying young people in disadvantaged situations, and in implementing effective public and private strategies for preparing such young people to be successful students, workers, and citizens during and after implementation of the program; and
+- **(2)** provide, directly or through a grant or contract with 1 or more nonprofit organizations selected through a competitive process, training, technical assistance, and professional development for organizations serving young people in disadvantaged situations, including organizations serving such young people that do not receive funding under this Act.
+
+## § 11. Authorization of appropriations
+
+- **(a)** *In general* There are authorized to be appropriated to carry out this Act $1,000,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014.
+- **(b)** *Allocation* Of the amounts appropriated to carry out this section for each fiscal year, the Secretary shall use—
+  - **(1)** not less than 90 percent of such amount for grants to eligible entities under section 4; and
+  - **(2)** a total of not more than 10 percent of such amount for the evaluation under section 9(b) and the training, technical assistance, and dissemination of best practices under section 10.
