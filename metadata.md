@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 241
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 241
@@ -29,3 +29,7 @@ A resolution designating the period beginning on September 13, 2009, and ending 
 - 2009-08-05 — Introduced in Senate
 - 2009-08-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8871-8872)
 - 2009-08-05 — Sponsor introductory remarks on measure. (CR S8872)
+- 2009-08-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9090-9091)
+- 2009-08-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9090-9091)
+- 2009-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9090-9091)
+- 2009-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9090-9091)
