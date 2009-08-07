@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1035
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1035
@@ -24,10 +24,11 @@ Morris K. Udall Scholarship and Excellence in National Environmental Policy Amen
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Education and the Workforce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,5 @@ Morris K. Udall Scholarship and Excellence in National Environmental Policy Amen
 - 2009-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/27/2009 H8834)
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/27/2009 H8834)
+- 2009-07-29 — Received in the Senate.
+- 2009-08-07 — Read twice and referred to the Committee on Environment and Public Works.
