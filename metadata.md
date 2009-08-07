@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2913
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2913
@@ -35,9 +35,10 @@ To designate the United States courthouse located at 301 Simonton Street in Key 
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -56,3 +57,5 @@ To designate the United States courthouse located at 301 Simonton Street in Key 
 - 2009-07-31 — Placed on the House Calendar, Calendar No. 101.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-240.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-240.
+- 2009-08-03 — Received in the Senate.
+- 2009-08-07 — Read twice and referred to the Committee on Environment and Public Works.
