@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2093
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2093
@@ -46,9 +46,10 @@ Clean Coastal Environment and Public Health Act of 2009
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Rep. Farr, Sam [D-CA-17] (F000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -70,3 +71,5 @@ Clean Coastal Environment and Public Health Act of 2009
 - 2009-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/28/2009 H8928-8929)
 - 2009-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/28/2009 H8928-8929)
+- 2009-07-30 — Received in the Senate.
+- 2009-08-07 — Read twice and referred to the Committee on Environment and Public Works.
