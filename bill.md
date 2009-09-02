@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Veterans' Insurance and Benefits Enhancement Act of 2009”.
+- **(a)** *Short title* This Act may be cited as the “Veterans' Benefits Enhancement Act of 2009”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Reference to title 38, United States Code
