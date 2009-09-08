@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 179
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 179
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2009-09-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9287)
 - 2009-09-08 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S9141)
 - 2009-09-08 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S9141)
+- 2009-09-09 — Message on Senate action sent to the House.
