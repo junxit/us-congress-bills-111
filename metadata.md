@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3193
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3193
@@ -16,7 +16,7 @@ To designate the United States courthouse under construction at 101 South United
 
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Mack, Connie [R-FL-14] (M001155)
@@ -25,6 +25,8 @@ To designate the United States courthouse under construction at 101 South United
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
 ## Committees (1)
 
@@ -35,3 +37,10 @@ To designate the United States courthouse under construction at 101 South United
 - 2009-07-13 — Introduced in House
 - 2009-07-13 — Introduced in House
 - 2009-07-13 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-07-14 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported by Voice Vote.
+- 2009-07-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-09-08 — Placed on the House Calendar, Calendar No. 104.
+- 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-245.
+- 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-245.
