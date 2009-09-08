@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2121
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2121
@@ -25,3 +25,10 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-04-28 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-07-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-09-08 — Placed on the Union Calendar, Calendar No. 135.
+- 2009-09-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-246.
+- 2009-09-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-246.
