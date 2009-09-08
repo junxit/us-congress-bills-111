@@ -2,7 +2,7 @@
 legis-num: H. RES. 361
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 361
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 1979, the site was transferred from the county to the City of Miami with the stipulation that the beach be kept open and maintained as a public park and recreation area;
 - Whereas in 1982, citing the high cost of maintenance and operations, the City of Miami closed Virginia Key Beach Park shortly after assuming its responsibility;
 - Whereas in 1990, the City of Miami Commission responded to citizen outcry and established the Virginia Key Beach Park Trust (hereafter referred to as the “Trust”) to restore, reopen, and preserve the site for public use;
-- Whereas the late M. Athalie Range, an African-American community leader and the first woman to sit on the City of Miami Commission, worked with the community to save Virginia Key Beach Park from the grasp of developers, and deliver it back to the people. She lobbied to place the property on the National Register of Historic Landmarks, spearheaded funding for a multi-billion dollar restoration program, and planned a new museum/cultural center that would one day, impart the message of social equality and responsible citizenry for future generations;
+- Whereas the late M. Athalie Range, an African-American community leader and the first woman to sit on the City of Miami Commission, worked with the community to save Virginia Key Beach Park from the grasp of developers, and deliver it back to the people. She lobbied to place the property on the National Register of Historic Places, spearheaded funding for a multi-billion dollar restoration program, and planned a new museum/cultural center that would one day, impart the message of social equality and responsible citizenry for future generations;
 - Whereas in June 2002, the Trust successfully petitioned Federal and State government officials to place the site on the National Register of Historic Places and give it a Florida Historical Marker;
 - Whereas in 2003, the Dade Community Foundation established the Historic Virginia Key Beach Park Trust Fund to collect charitable donations to help restore and preserve the park; and
 - Whereas on February 22, 2008, after extensive renovation by the Trust, Historic Virginia Key Beach Park celebrated its grand re-opening for public use by the entire community with a ribbon cutting ceremony and community concert: Now, therefore, be it
@@ -26,6 +26,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** recognizes the extraordinary historical, cultural, and recreational significance of Historic Virginia Key Beach Park of Miami, Florida;
-- **(2)** recommits its attempt to protect and preserve American history through national parks and historic sites;
-- **(3)** acknowledges the significance of the African-American community’s struggle for equality through its collaborative efforts to preserve this historic site; and
-- **(4)** affirms its desire and commitment to support and fund the operations of Historic Virginia Key Beach Park and the historical museum soon to be constructed through an endowment.
+- **(2)** recommits its attempt to protect and preserve American history through national parks and historic sites; and
+- **(3)** acknowledges the significance of the African-American community’s struggle for equality through its collaborative efforts to preserve this historic site.
