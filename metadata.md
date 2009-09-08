@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 136
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 136
@@ -16,7 +16,7 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
@@ -39,6 +39,7 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
 ## Committees (1)
 
@@ -49,3 +50,10 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-05-22 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported by Voice Vote.
+- 2009-07-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-09-08 — Placed on the House Calendar, Calendar No. 105.
+- 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-247.
+- 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-247.
