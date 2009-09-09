@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1043
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1043
@@ -16,9 +16,10 @@ Deafy Glade Land Exchange Act
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Deafy Glade Land Exchange Act
 - 2009-09-08 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2009-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9288)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9288)
+- 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
