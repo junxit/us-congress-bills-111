@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 136
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 136
@@ -57,3 +57,9 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 - 2009-09-08 — Placed on the House Calendar, Calendar No. 105.
 - 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-247.
 - 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-247.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9366-9367)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 136.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Ms. Norton moved to suspend the rules and agree to the resolution.
+- 2009-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H9366)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H9366)
