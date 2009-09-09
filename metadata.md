@@ -1,7 +1,7 @@
 ---
 measure: H.R. 310
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 310
@@ -16,9 +16,10 @@ HALE Scouts Act
 
 - Rep. Boren, Dan [D-OK-2] (B001254)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -38,3 +39,4 @@ HALE Scouts Act
 - 2009-09-08 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2009-09-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0, 7 Present (Roll no. 688). (text: CR H9293)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0, 7 Present (Roll no. 688).(text: CR H9293)
+- 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
