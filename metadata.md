@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1858
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1858
@@ -16,9 +16,10 @@ To provide for a boundary adjustment and land conveyances involving Roosevelt Na
 
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To provide for a boundary adjustment and land conveyances involving Roosevelt Na
 - 2009-09-08 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2009-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9292)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9292)
+- 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
