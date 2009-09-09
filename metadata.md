@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2498
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2498
@@ -20,6 +20,10 @@ To designate the Federal building located at 844 North Rush Street in Chicago, I
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2009-09-09 — [House 111-1-692](votes/house-111-1-0692.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
+
 ## Actions
 
 - 2009-05-19 — Introduced in House
@@ -32,3 +36,11 @@ To designate the Federal building located at 844 North Rush Street in Chicago, I
 - 2009-07-20 — Placed on the House Calendar, Calendar No. 92.
 - 2009-07-20 — Reported by the Committee on Transportation. H. Rept. 111-213.
 - 2009-07-20 — Reported by the Committee on Transportation. H. Rept. 111-213.
+- 2009-09-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-09-09 — Considered as unfinished business. (consideration: CR H9388-9389)
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9367-9368)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2498.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 692). (text: CR H9367)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 692).(text: CR H9367)
