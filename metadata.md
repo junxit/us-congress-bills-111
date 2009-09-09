@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3193
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3193
@@ -44,3 +44,9 @@ To designate the United States courthouse under construction at 101 South United
 - 2009-09-08 — Placed on the House Calendar, Calendar No. 104.
 - 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-245.
 - 2009-09-08 — Reported by the Committee on Transportation. H. Rept. 111-245.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9370-9371)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3193.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9370)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9370)
