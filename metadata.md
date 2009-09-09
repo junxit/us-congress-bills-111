@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3165
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3165
@@ -51,3 +51,9 @@ Wind Energy Research and Development Act of 2009
 - 2009-09-08 — Placed on the Union Calendar, Calendar No. 136.
 - 2009-09-08 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-248.
 - 2009-09-08 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-248.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9351-9352)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3165.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Mr. Tonko moved to suspend the rules and pass the bill, as amended.
+- 2009-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9351)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9351)
