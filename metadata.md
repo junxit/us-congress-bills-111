@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2571
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2571
@@ -16,7 +16,7 @@ Nonadmitted and Reinsurance Reform Act of 2009
 
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
@@ -39,6 +39,7 @@ Nonadmitted and Reinsurance Reform Act of 2009
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
 - Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
 
 ## Committees (2)
 
@@ -52,3 +53,10 @@ Nonadmitted and Reinsurance Reform Act of 2009
 - 2009-05-21 — Referred to House Financial Services
 - 2009-05-21 — Referred to House Judiciary
 - 2009-05-21 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-08-19 — Referred to the Subcommittee on Commercial and Administrative Law.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9360-9363)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2571.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
+- 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9360-9362)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9360-9362)
