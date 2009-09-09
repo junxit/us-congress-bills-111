@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2053
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2053
@@ -53,3 +53,9 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 - 2009-07-31 — Placed on the House Calendar, Calendar No. 102.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-241.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-241.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9368-9370)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2053.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9368-9369)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9368-9369)
