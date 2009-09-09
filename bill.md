@@ -2,7 +2,7 @@
 legis-num: H. RES. 722
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 722
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas on the morning of September 11, 2001, terrorists hijacked and destroyed four civilian aircraft, crashing two of them into the towers of the World Trade Center in New York City and a third into the Pentagon outside of Washington, DC;
 - Whereas the passengers and crew aboard United Flight 93 fought heroically and sacrificed their own lives by crashing the plane in Shanksville, Pennsylvania, to prevent terrorist hijackers from killing additional innocent Americans;
 - Whereas nearly 3,000 innocent men, women, and children were murdered in the attacks;
-- Whereas eight years later, the United States of America continues to mourn the lives lost on September 11, 2001;
+- Whereas 8 years later, the United States of America continues to mourn the lives lost on September 11, 2001;
 - Whereas by targeting symbols of American strength and prosperity, the attacks were intended to assail the principles and values of the American people and to intimidate the Nation and its allies;
 - Whereas the United States remains steadfast in its determination to defeat, disrupt, and destroy terrorist organizations and seeks to harness all elements of national power, including its military, economic, and diplomatic resources, to do so;
 - Whereas Congress has passed, and the President has signed, numerous laws to protect the Nation, prevent terrorism at home and abroad, assist victims of terrorism, and support, in the field and upon return, the members of the Armed Forces who courageously defend the United States;
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in doing so, brave members of the Armed Forces left loved ones in order to defend the Nation; and
 - Whereas many members of the Armed Forces remain abroad, defending the Nation from further terrorist attacks and continuing to battle al-Qaeda and the Taliban: Now, therefore, be it
 
-by the House of Representatives, That the House of Representatives—
+That the House of Representatives—
 
 - **(1)** recognizes September 11 as both a day to mourn and remember those taken from their loved ones and fellow citizens, and a day for the people of the United States to recommit to the Nation and to each other;
 - **(2)** once again extends its deepest sympathies to the friends, families, and loved ones of the innocent victims of the September 11, 2001, terrorist attacks;
