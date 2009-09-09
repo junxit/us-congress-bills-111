@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2760
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2760
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 1615 No
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To designate the facility of the United States Postal Service located at 1615 No
 - 2009-09-08 — Ms. Watson moved to suspend the rules and pass the bill.
 - 2009-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9300)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9300)
+- 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
