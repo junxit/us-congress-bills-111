@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 167
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 167
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Aerospace Day, and for other purpose
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 
-## Cosponsors (22)
+## Cosponsors (29)
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
@@ -40,6 +40,13 @@ Supporting the goals and ideals of National Aerospace Day, and for other purpose
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
 ## Committees (1)
 
@@ -50,3 +57,10 @@ Supporting the goals and ideals of National Aerospace Day, and for other purpose
 - 2009-07-20 — Introduced in House
 - 2009-07-20 — Introduced in House
 - 2009-07-20 — Referred to the House Committee on Science and Technology.
+- 2009-07-22 — Referred to the Subcommittee on Space and Aeronautics.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9353-9355)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 167.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Mr. Tonko moved to suspend the rules and agree to the resolution.
+- 2009-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H9353-9354)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H9353-9354)
