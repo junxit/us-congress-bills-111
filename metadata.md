@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2004
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2004
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 4282 Be
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 4282 Be
 - 2009-09-08 — Ms. Watson moved to suspend the rules and pass the bill.
 - 2009-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9297)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9297)
+- 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
