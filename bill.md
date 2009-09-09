@@ -75,7 +75,7 @@ This Act may be cited as the “Heavy Duty Hybrid Vehicle Research, Development,
   - **(4)** *Retrofit* The term retrofit means the process of creating an advanced heavy duty hybrid vehicle by converting an existing, fuel-powered vehicle.
   - **(5)** *Secretary* The term Secretary means the Secretary of Energy.
 - **(j)** *Authorization of appropriations*
-  - **(1)** There are authorized to be appropriated to the Secretary $16,000,000 for each of fiscal years 2009 through 2011 to carry out this section.
+  - **(1)** There are authorized to be appropriated to the Secretary $16,000,000 for each of fiscal years 2010 through 2012 to carry out this section.
   - **(2)** Of the funds authorized under paragraph (1), not more than $1,000,000 per fiscal year may be used for—
     - **(A)** carrying out the studies required under subsection (d);
     - **(B)** carrying out the pilot program required under subsection (h); and

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 445
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 445
@@ -16,12 +16,17 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (4)
+## Cosponsors (9)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Peters, Gary C. [D-MI-9] (P000595)
 
 ## Committees (1)
 
@@ -33,3 +38,9 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009
 - 2009-01-09 — Introduced in House
 - 2009-01-09 — Referred to the House Committee on Science and Technology.
 - 2009-01-09 — Referred to the Subcommittee on Energy and Environment.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9355-9357)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 445.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Mr. Tonko moved to suspend the rules and pass the bill, as amended.
+- 2009-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9355-9356)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9355-9356)
