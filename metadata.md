@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2664
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2664
@@ -32,3 +32,9 @@ Promoting Transparency in Financial Reporting Act of 2009
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Referred to the House Committee on Financial Services.
+- 2009-09-09 — Considered under suspension of the rules. (consideration: CR H9359-9360)
+- 2009-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2664.
+- 2009-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-09 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
+- 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9359)
+- 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9359)
