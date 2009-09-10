@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2053
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2053
@@ -37,9 +37,10 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ To designate the United States courthouse located at 525 Magoffin Avenue in El P
 - 2009-09-09 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9368-9369)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9368-9369)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
