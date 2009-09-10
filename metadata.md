@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2097
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2097
@@ -315,9 +315,10 @@ Star-Spangled Banner Commemorative Coin Act
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -336,3 +337,4 @@ Star-Spangled Banner Commemorative Coin Act
 - 2009-09-09 — Mr. Watt moved to suspend the rules and pass the bill.
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 691). (text: CR H9363-9364)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 691).(text: CR H9363-9364)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
