@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2664
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2664
@@ -23,9 +23,10 @@ Promoting Transparency in Financial Reporting Act of 2009
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Promoting Transparency in Financial Reporting Act of 2009
 - 2009-09-09 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9359)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9359)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
