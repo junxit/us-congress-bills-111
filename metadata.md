@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 247
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 247
@@ -16,7 +16,7 @@ A resolution designating September 26, 2009, as "National Estuaries Day".
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Burr, Richard [R-NC] (B001135)
@@ -34,6 +34,8 @@ A resolution designating September 26, 2009, as "National Estuaries Day".
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -43,3 +45,7 @@ A resolution designating September 26, 2009, as "National Estuaries Day".
 
 - 2009-08-06 — Introduced in Senate
 - 2009-08-06 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S9045-9046)
+- 2009-09-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9273)
+- 2009-09-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9273)
+- 2009-09-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9273)
+- 2009-09-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9273)
