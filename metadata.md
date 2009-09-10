@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 726
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 726
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 965) to amend the Chesapeake Bay I
 - 2009-09-09 — Placed on the House Calendar, Calendar No. 106.
 - 2009-09-09 — The House Committee on Rules reported an original measure, H. Rept. 111-249, by Mr. Arcuri.
 - 2009-09-09 — The House Committee on Rules reported an original measure, H. Rept. 111-249, by Mr. Arcuri.
+- 2009-09-10 — Considered as privileged matter. (consideration: CR H9401-9402)
+- 2009-09-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 726.
+- 2009-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-10 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9401)
+- 2009-09-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9401)
+- 2009-09-10 — The previous question was ordered without objection. (consideration: CR H9402)
