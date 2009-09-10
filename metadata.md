@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1002
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1002
@@ -41,3 +41,10 @@ Pisgah National Forest Boundary Adjustment Act of 2009
 - 2009-02-11 — Introduced in House
 - 2009-02-11 — Introduced in House
 - 2009-02-11 — Referred to the House Committee on Agriculture.
+- 2009-04-23 — Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.
+- 2009-07-29 — Committee Consideration and Mark-up Session Held.
+- 2009-07-29 — Ordered to be Reported by Voice Vote.
+- 2009-07-29 — Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.
+- 2009-09-10 — Placed on the Union Calendar, Calendar No. 139.
+- 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-251.
+- 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-251.
