@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 111
-version: Reference Change Senate
+version: Reported to Senate
 derived: true
 ---
 

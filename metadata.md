@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 111
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # S. 1599
@@ -34,3 +34,7 @@ Reserve Officers Association Modernization Act of 2009
 - 2009-09-09 — Referred to the Committee on the Judiciary.
 - 2009-09-09 — Senate Committee on Armed Services discharged by Unanimous Consent.
 - 2009-09-09 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2009-09-10 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2009-09-10 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2009-09-10 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2009-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
