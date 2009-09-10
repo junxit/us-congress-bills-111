@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 245
 
-> Recognizing September 11 as a “National Day of Service and Remembrance”.
+> Recognizing September 11, 2009, as a “National Day of Service and Remembrance”.
 
 ## Preamble
 
@@ -26,5 +26,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** calls upon all people in the United States to annually observe a “National Day of Service and Remembrance”, with appropriate and personal expressions of reflection, including performing good deeds, attending memorial and remembrance services, and voluntarily engaging in community service or other charitable activities of their own choosing in honor of those who lost their lives or were injured in the attacks of September 11, 2001, in tribute to those who rose to come to the aid of those in need, and in defense of our Nation; and
+- **(1)** calls upon all people in the United States to observe a “National Day of Service and Remembrance” on September 11, 2009, with appropriate and personal expressions of reflection, including performing good deeds, attending memorial and remembrance services, and voluntarily engaging in community service or other charitable activities of their own choosing in honor of those who lost their lives or were injured in the attacks of September 11, 2001, in tribute to those who rose to come to the aid of those in need, and in defense of our Nation; and
 - **(2)** urges all people in the United States to continue to live their lives throughout the year with the same spirit of unity, service, and compassion that was exhibited throughout the Nation following the terrorist attacks of September 11, 2001.
