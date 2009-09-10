@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 511
@@ -25,3 +25,10 @@ To authorize the Secretary of Agriculture to terminate certain easements held by
 - 2009-01-14 — Introduced in House
 - 2009-01-14 — Introduced in House
 - 2009-01-14 — Referred to the House Committee on Agriculture.
+- 2009-04-23 — Referred to the Subcommittee on Conservation, Credit, Energy, and Research.
+- 2009-07-29 — Committee Consideration and Mark-up Session Held.
+- 2009-07-29 — Ordered to be Reported by Voice Vote.
+- 2009-07-29 — Subcommittee on Conservation, Credit, Energy, and Research Discharged.
+- 2009-09-10 — Placed on the Union Calendar, Calendar No. 141.
+- 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-253.
+- 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-253.
