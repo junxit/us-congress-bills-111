@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2571
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2571
@@ -41,10 +41,11 @@ Nonadmitted and Reinsurance Reform Act of 2009
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Nonadmitted and Reinsurance Reform Act of 2009
 - 2009-09-09 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9360-9362)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9360-9362)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
