@@ -1,7 +1,7 @@
 ---
 measure: H.R. 445
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 445
@@ -28,9 +28,10 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009
 - 2009-09-09 — Mr. Tonko moved to suspend the rules and pass the bill, as amended.
 - 2009-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9355-9356)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9355-9356)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
