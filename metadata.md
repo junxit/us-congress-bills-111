@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2121
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2121
@@ -16,9 +16,10 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 
 - Rep. Paul, Ron [R-TX-14] (P000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 - 2009-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9368)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9368)
 - 2009-09-09 — The title of the measure was amended. Agreed to without objection.
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
