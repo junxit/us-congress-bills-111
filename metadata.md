@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2498
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2498
@@ -16,9 +16,10 @@ To designate the Federal building located at 844 North Rush Street in Chicago, I
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To designate the Federal building located at 844 North Rush Street in Chicago, I
 - 2009-09-09 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 692). (text: CR H9367)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 692).(text: CR H9367)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
