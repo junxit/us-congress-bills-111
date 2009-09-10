@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2097
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2097
@@ -338,3 +338,15 @@ Star-Spangled Banner Commemorative Coin Act
 - 2009-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 691). (text: CR H9363-9364)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 691).(text: CR H9363-9364)
 - 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-08-02 — Cleared for White House.
+- 2010-08-02 — Passed Senate without amendment by Unanimous Consent.
+- 2010-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-08-02 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6594)
+- 2010-08-02 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6594)
+- 2010-08-03 — Message on Senate action sent to the House.
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Presented to President.
+- 2010-08-16 — Became Public Law No: 111-232.
+- 2010-08-16 — Became Public Law No: 111-232.
+- 2010-08-16 — Signed by President.
+- 2010-08-16 — Signed by President.
