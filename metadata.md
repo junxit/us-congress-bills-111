@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3326
@@ -205,3 +205,7 @@ Department of Defense Appropriations Act, 2010
 - 2009-07-30 — The previous question was ordered pursuant to the rule. (consideration: CR H9129)
 - 2009-07-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-08-03 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2009-09-10 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-09-10 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 111-74.
+- 2009-09-10 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 111-74.
+- 2009-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
