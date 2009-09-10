@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3165
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3165
@@ -33,9 +33,10 @@ Wind Energy Research and Development Act of 2009
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Wind Energy Research and Development Act of 2009
 - 2009-09-09 — Mr. Tonko moved to suspend the rules and pass the bill, as amended.
 - 2009-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9351)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9351)
+- 2009-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
