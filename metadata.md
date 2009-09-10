@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 167
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 167
@@ -48,9 +48,10 @@ Supporting the goals and ideals of National Aerospace Day, and for other purpose
 - Rep. Posey, Bill [R-FL-15] (P000599)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Supporting the goals and ideals of National Aerospace Day, and for other purpose
 - 2009-09-09 — Mr. Tonko moved to suspend the rules and agree to the resolution.
 - 2009-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H9353-9354)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H9353-9354)
+- 2009-09-10 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
