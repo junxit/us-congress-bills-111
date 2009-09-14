@@ -27,10 +27,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** focuses on learning more about senior care and being prepared to manage the needs of our aging population;
-- **(2)** recognizes caregiving as a profession;
-- **(3)** supports the efforts of family caregivers nationwide by encouraging individuals to provide care to family, friends, and neighbors;
-- **(4)** fosters a private home care industry environment that supports enterprise to provide accessible and affordable caregiving services to seniors while providing standardized training to paid caregivers that offers opportunity for their continued growth and development;
-- **(5)** studies alternatives to make caregiving for seniors even more accessible and affordable, and reviews Federal policies that relate to caregiving for seniors;
-- **(6)** examines and continues to fund current Federal programs which address the accessibility and affordability needs of seniors and their family caregivers; and
-- **(7)** encourages the Secretary of Health and Human Services to continue working to educate people in the United States on the impact of aging and the importance of knowing the options available to seniors when they need care to meet their personal needs.
+- **(1)** recognizes caregiving as a profession;
+- **(2)** supports the private home care industry and the efforts of family caregivers nationwide by encouraging individuals to provide care to family, friends, and neighbors;
+- **(3)** encourages accessible and affordable care for seniors;
+- **(4)** reviews Federal policies and supports current Federal programs which address the needs of seniors and their family caregivers; and
+- **(5)** encourages the Secretary of Health and Human Services to continue working to educate people in the United States on the impact of aging and the importance of knowing the options available to seniors when they need care to meet their personal needs.
