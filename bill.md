@@ -2,12 +2,12 @@
 legis-num: H. RES. 57
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 57
 
-> Expressing the importance of swimming lessons and recognizing the danger of drowning in the United States, especially among minority children.
+> A resolution recognizing the persistently high rates of drowning fatalities among children.
 
 ## Preamble
 
@@ -32,7 +32,7 @@ That the House of Representatives—
 
 - **(1)** expresses the importance of access to swimming lessons for all communities in the United States as an integral part of drowning prevention;
 - **(2)** recognizes the danger of fatal unintentional drowning in the United States;
-- **(3)** condemns the persistent high rates of fatal drowning among all children, especially minority children;
+- **(3)** condemns the persistently high rates of fatal drowning among all children, and the particularly high rates of fatal drowning among minority children;
 - **(4)** celebrates the passage of the Virginia Graeme Baker Pool and Spa Safety Act;
 - **(5)** celebrates the work of initiatives like USA Swimming Foundation’s “Make A Splash” and Safe Kids USA to educate parents and caregivers on water safety and drowning prevention messages; and
 - **(6)** encourages public and private funding to support current and future initiatives that provide all children access to swimming education.
