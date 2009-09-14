@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 258
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 258
@@ -29,3 +29,7 @@ A resolution commemorating the 100th anniversary of the University of Wisconsin-
 - 2009-09-10 — Introduced in Senate
 - 2009-09-10 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S9268-9269)
 - 2009-09-10 — Sponsor introductory remarks on measure. (CR S9269)
+- 2009-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9333)
+- 2009-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9333)
+- 2009-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9333)
+- 2009-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9333)
