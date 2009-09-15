@@ -1,7 +1,7 @@
 ---
 measure: H.R. 940
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 940
@@ -41,3 +41,9 @@ To provide for the conveyance of National Forest System land in the State of Lou
 - 2009-09-10 — Placed on the Union Calendar, Calendar No. 138.
 - 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-250.
 - 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-250.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9516-9517)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 940.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Holden moved to suspend the rules and pass the bill.
+- 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9516)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9516)
