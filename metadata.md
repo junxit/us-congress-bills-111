@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 59
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 59
@@ -85,3 +85,8 @@ Supporting the goals and ideals of senior caregiving and affordability.
 - 2009-09-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 698). (text: CR H9453)
 - 2009-09-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 698).(text: CR H9453)
 - 2009-09-15 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2009-09-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S9757-9758)
+- 2009-09-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S9757-9758)
+- 2009-09-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2009-09-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2009-09-24 — Message on Senate action sent to the House.
