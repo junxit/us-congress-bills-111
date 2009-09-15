@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3179
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 121(c) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(c)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 121(i) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(i)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

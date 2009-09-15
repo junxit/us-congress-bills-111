@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3179
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3179
@@ -16,6 +16,10 @@ SIG TARP Small Business Awareness Act of 2009
 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
+## Cosponsors (1)
+
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,9 @@ SIG TARP Small Business Awareness Act of 2009
 - 2009-07-10 — Introduced in House
 - 2009-07-10 — Introduced in House
 - 2009-07-10 — Referred to the House Committee on Financial Services.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9527-9529)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3179.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.
+- 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9528)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9528)

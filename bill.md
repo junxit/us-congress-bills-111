@@ -24,13 +24,17 @@ The Congress finds as follows:
 
 ## § 3. Duties of the Special Inspector General for the Troubled Asset Relief Program relating to small financial institutions and businesses
 
-Section 121(c) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(c)) is amended by adding at the end the following new paragraph:
+- **(a)** *In general* Section 121(c) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(c)) is amended by adding at the end the following new paragraph:
+  > - **(5)** *Effects of program on small financial institutions and small businesses*
+  >   - **(A)** *Small financial institutions* In conducting audits and providing oversight of the Troubled Asset Relief Program in accordance with this section, the Special Inspector General shall examine how smaller financial institutions are being affected by—
+  >     - **(i)** expenditures under the Program (including the adequacy of financial assistance provided to or on behalf of such smaller financial institutions); and
+  >     - **(ii)** the considerations and determinations of—
+  >       - **(I)** the Secretary under this title; and
+  >       - **(II)** the regulators of such smaller financial institutions, with respect to capital adequacy and troubled assets.
+  >   - **(B)** *Small businesses* In conducting audits and providing oversight of the Troubled Asset Relief Program, the Special Inspector General shall examine the effects the provision of financial assistance under this title has had on small businesses, including both positive and negative effects and the extent of such effects on small businesses generally and by type and region.
+  >   - **(C)** *Reports* Any report prepared by the Special Inspector General under this section shall include the results of the activities of the Special Inspector General under paragraphs (1) and (2).
 
-> - **(4)** *Effects of program on small financial institutions and small businesses*
->   - **(A)** *Small financial institutions* In conducting audits and providing oversight of the Troubled Asset Relief Program in accordance with this section, the Special Inspector General shall examine how smaller financial institutions are being affected by—
->     - **(i)** expenditures under the Program (including the adequacy of financial assistance provided to or on behalf of such smaller financial institutions); and
->     - **(ii)** the considerations and determinations of—
->       - **(I)** the Secretary under this title; and
->       - **(II)** the regulators of such smaller financial institutions, with respect to capital adequacy and troubled assets.
->   - **(B)** *Small businesses* In conducting audits and providing oversight of the Troubled Asset Relief Program, the Special Inspector General shall examine the effects the provision of financial assistance under this title has had on small businesses, including both positive and negative effects and the extent of such effects on small businesses generally and by type and region.
->   - **(C)** *Reports* Any report prepared by the Special Inspector General under this section shall include the results of the activities of the Special Inspector General under paragraphs (1) and (2).
+- **(b)** *Report on inclusion and utilization of women and minorities* Section 121(i) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(i)) is amended by adding at the end the following new paragraph:
+  > - **(6)** *Report on inclusion and utilization of women and minorities*
+  >   - **(A)** *In general* The Special Inspector General shall include in each quarterly report to the Congress under paragraph (1) information on the activities of the Secretary and any financial institutions receiving financial assistance under this title to include and utilize minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 21A(r)(4) of the Federal Home Loan Bank Act), in any solicitation or contract, including any contract to asset managers, servicers, property managers, and other service providers or expert consultants.
+  >   - **(B)** *Information to be included* The quarterly report shall include information on the levels of inclusion and utilization of women, minorities, and women- and minority-owned businesses, including the type of such contracts or solicitations, the dollar amount of such contracts or solicitations, the total number of such contracts or solicitations, and any other information on the activities of the Secretary and any financial institutions receiving financial assistance under this title to increase the participation of women, minorities ,and women- and minority-owned businesses including recommendations related to increasing such participation.
