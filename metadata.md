@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 22
@@ -362,6 +362,10 @@ United States Postal Service Financial Relief Act of 2009
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-09-15 — [House 111-1-701](votes/house-111-1-0701.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (388–32)
+
 ## Actions
 
 - 2009-01-06 — Introduced in House
@@ -375,3 +379,11 @@ United States Postal Service Financial Relief Act of 2009
 - 2009-07-21 — Placed on the Union Calendar, Calendar No. 118.
 - 2009-07-21 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-216.
 - 2009-07-21 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-216.
+- 2009-09-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9502-9506, H9535-9536)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 22.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Towns moved to suspend the rules and pass the bill, as amended.
+- 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 32 (Roll no. 701). (text: CR H9502)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 32 (Roll no. 701).(text: CR H9502)
+- 2009-09-15 — The title of the measure was amended. Agreed to without objection.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 8906(g)(2)(A) of title 5, United States Code, is amended by striking “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter”. | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (2)(A) of section 8906(g) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Clause (iii) of section 8909a(d)(3)(A) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The heading for section 8909a of title 5, United States Code, is amended by striking “Benefit” and inserting “Benefits”. | the bill names no machine-readable US Code section |

@@ -7,9 +7,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 22
 
-> To amend chapter 89 of title 5, United States Code, to allow the United States Postal Service to pay its share of contributions for annuitants’ health benefits out of the Postal Service Retiree Health Benefits Fund.
+> To amend title 5, United States Code, to reduce the amount that the United States Postal Service is required to pay into the Postal Service Retiree Health Benefits Fund by the end of fiscal year 2009.
 
-## § 1. Government contributions for postal annuitants’ health benefits
+## § 1. Short title
 
-- **(a)** *In general* Section 8906(g)(2)(A) of title 5, United States Code, is amended by striking “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter”.
-- **(b)** *Effective date* The amendment made by subsection (a) shall be effective as of October 1, 2008.
+This Act may be cited as the “United States Postal Service Financial Relief Act of 2009”.
+
+## § 2. Government contributions for postal annuitants’ health benefits
+
+- **(a)** *In general* Clause (iii) of section 8909a(d)(3)(A) of title 5, United States Code, is amended to read as follows:
+  > - **(iii) $1,400,000,000, not later than September 30, 2009;)**
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251).
+
+## § 3. Technical correction
+
+The heading for section 8909a of title 5, United States Code, is amended by striking “Benefit” and inserting “Benefits”.
