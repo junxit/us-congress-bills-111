@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 59
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 59
@@ -61,9 +61,10 @@ Supporting the goals and ideals of senior caregiving and affordability.
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -83,3 +84,4 @@ Supporting the goals and ideals of senior caregiving and affordability.
 - 2009-09-14 — Mr. Sablan moved to suspend the rules and agree to the resolution, as amended.
 - 2009-09-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 698). (text: CR H9453)
 - 2009-09-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 698).(text: CR H9453)
+- 2009-09-15 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
