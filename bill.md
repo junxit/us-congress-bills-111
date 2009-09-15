@@ -2,7 +2,7 @@
 legis-num: H. RES. 215
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 215
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas minority businesses are twice as likely to generate revenues through exports compared to nonminority businesses due to their language capabilities, cultural competencies, ancestral ties, and business agility;
 - Whereas in 1969, there were only 322,000 minority businesses with $11,000,000,000 in gross receipts and the number of minority businesses continues to grow, currently estimated at more than 4,000,000 with $661,000,000,000 in gross receipts;
 - Whereas minority groups represent 26.1 percent of the population, but own only 11.6 percent of the Nation's businesses and receive only 6.2 percent of total sales;
-- Whereas the Minority Business Development Agency was established by Executive Order 11458 on March 5, 1969;
+- Whereas the Minority Business Development Agency was established by Executive Order No. 11458 on March 5, 1969;
 - Whereas the Minority Business Development Agency has operated for the last 40 years as the only Federal agency created specifically to serve minority entrepreneurs;
 - Whereas the Minority Business Development Agency operates a network of business development centers throughout the United States to assist with the start-up, expansion, and development of minority businesses;
 - Whereas the Minority Business Development Agency supports the Gulf Coast Recovery through its five centers located in Louisiana, Alabama, and Mississippi;
