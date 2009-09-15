@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1002
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1002
@@ -48,3 +48,9 @@ Pisgah National Forest Boundary Adjustment Act of 2009
 - 2009-09-10 — Placed on the Union Calendar, Calendar No. 139.
 - 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-251.
 - 2009-09-10 — Reported by the Committee on Agriculture. H. Rept. 111-251.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9519-9520)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1002.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Holden moved to suspend the rules and pass the bill.
+- 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9519)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9519)
