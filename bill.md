@@ -40,3 +40,7 @@ Section 214 of the National Housing Act (12 U.S.C. 1715d) is amended—
   - **(A)** by inserting “, or with respect to a project consisting of more than four dwelling units located in an extremely high-cost area as determined by the Secretary,” after “or the Virgin Islands” the first place such term appears; and
   - **(B)** by inserting “, or in the case of a project consisting of more than four dwelling units in an extremely high-cost area as determined by the Secretary, in such extremely high-cost area,” after “or the Virgin Islands” the second place such term appears; and
 - **(3)** in the section heading, by striking “and the virgin islands” and inserting “the virgin islands, and extremely high-cost areas”.
+
+## § 4. Effective date
+
+The amendments made by this Act shall apply to mortgages insured under title II of the National Housing Act after September 30, 2009.
