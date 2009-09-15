@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3146
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -38,5 +38,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Section 230 of the National Housing Act (12 U.S.C. 1715u) is amended by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |

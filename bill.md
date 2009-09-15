@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “21 Century FHA Housing Act of 2009”.
+This Act may be cited as the “21st Century FHA Housing Act of 2009”.
 
 ## § 2. Mortgage insurance for condominiums
 
@@ -37,7 +37,7 @@ Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at
 >   - **(4)** *Outside experts and consultants* The Secretary may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, to assist the work of the Department in carrying out the functions referred to in paragraph (1).
 > - **(h)** *Information technology*
 >   - **(1)** *In general* In carrying out any program under this Act or any other program of the Federal Housing Administration, the Secretary may utilize any amounts as may be made available for such programs to ensure that an appropriate level of investment in information technology is maintained in order for the Secretary to upgrade the technology systems of the Department used in carrying out the functions referred to in subsection (g)(1).
->   - **(2)** *Use of premium-generated income* To the extent that income derived in any fiscal year from premium fees charged under section 203(c) is in excess of the level of income estimated for that such year for such premium fees and assumed in the baseline projection prepared by the Director of the Office of Management and Budget for inclusion in the President's annual budget request, not more than $72,000,000 of such excess amounts may be used from such amounts for the purpose of carrying out this subsection.
+>   - **(2)** *Use of premium-generated income* To the extent that income derived in any fiscal year from premium fees charged under section 203(c) is in excess of the level of income estimated for that such year for such premium fees and assumed in the baseline projection prepared by the Director of the Office of Management and Budget for inclusion in the President's annual budget request and subject to approval in advance in an appropriation Act, not more than $72,000,000 of such excess amounts may be used from such amounts for the purpose of carrying out this subsection.
 > - **(i)** *Training and education program*
 >   - **(1)** *Establishment* The Secretary of Housing and Urban Development shall carry out a comprehensive training and education program to improve the service provided by personnel of the Department carrying out functions referred to in subsection (g)(1) to users of the mortgage insurance programs under this Act and any other FHA mortgage insurance programs.
 >   - **(2)** *Topics* The training and education program under this subsection shall—
@@ -52,7 +52,8 @@ Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at
   > - **(j)** *Risk management improvement*
   >   - **(1)** *Review of delinquencies among recent originations*
   >     - **(A)** *In general* The Secretary shall conduct an ongoing review of mortgages on single family housing originated during the preceding 12 months and insured pursuant to this Act under which the mortgagor has become 60 or more days delinquent with respect to payment under the mortgage during the first 90 days of the term of the mortgage to determine which mortgages should not have been originated or insured and the characteristics of such mortgages, and which lenders have relatively high incidences of such delinquent mortgages;
-  >     - **(B)** *Sufficient resources* There is authorized to be appropriated to the Secretary for each of fiscal years 2010 through 2014 the amount necessary to provide 90 additional full-time equivalent positions for the Department, or for entering into such contracts as are necessary, to conduct reviews in accordance with the requirements of this section.
+  >     - **(B)** *Reporting to Congress* Not later than 90 days after the date of enactment of the 21st Century FHA Housing Act of 2009, the Secretary shall make available to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate any information and conclusions pursuant to the review required under subparagraph (A).
+  >     - **(C)** *Sufficient resources* There is authorized to be appropriated to the Secretary for each of fiscal years 2010 through 2014 the amount necessary to provide 90 additional full-time equivalent positions for the Department, or for entering into such contracts as are necessary, to conduct reviews in accordance with the requirements of this section.
   >   - **(2)** *Lender monitoring* In conducting monitoring and analysis of the performance of lenders for mortgages on single family housing insured under this Act, the Secretary shall utilize a one-year period for such monitoring and analysis, to promote earlier identification of problem lenders and allow earlier intervention and sanctions.
 
 - **(b)** *Analysis of mortgage performance* Section 203(g)(2) of the Helping Families Save Their Homes Act of 2009 (12 U.S.C. 1708 note) is amended—

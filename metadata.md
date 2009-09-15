@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3146
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3146
@@ -16,11 +16,12 @@ version: Introduced in House
 
 - Rep. Adler, John H. [D-NJ-3] (A000364)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Lee, Christopher J. [R-NY-26] (L000568)
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
 ## Committees (1)
 
@@ -31,3 +32,9 @@ version: Introduced in House
 - 2009-07-09 — Introduced in House
 - 2009-07-09 — Introduced in House
 - 2009-07-09 — Referred to the House Committee on Financial Services.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9520-9522)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3146.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Adler (NJ) moved to suspend the rules and pass the bill, as amended.
+- 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9520-9521)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9520-9521)
