@@ -2,7 +2,7 @@
 legis-num: H. RES. 81
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 81
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas hardwood trees grown in the United States are an abundant, sustainable, and legal resource, as documented by annually by the Forest Inventory and Analysis Program of the United States Forest Service;
-- Whereas, despite development pressure and cropland needs, Department of Agriculture data shows that the inventory of United States hardwood has more than doubled over the past 50 years;
+- Whereas, despite development pressure and cropland needs, Department of Agriculture data show that the inventory of United States hardwood has more than doubled over the past 50 years;
 - Whereas the Department of Agriculture reports that annual United States hardwood growth exceeds hardwood removals by a significant margin of 1.9 to 1, and net annual growth has exceeded removals continuously since 1952;
 - Whereas the World Bank ranks the United States in the top 10 percent of all countries for government effectiveness, regulatory quality, and rule of law with respect to hardwood resources;
 - Whereas United States hardwoods have been awarded the highest conservation crop rating available under the Department of Agriculture Environmental Benefits Index;
