@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3386
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3386
@@ -32,3 +32,11 @@ To designate the facility of the United States Postal Service located at 1165 2n
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-15 — Considered under suspension of the rules. (consideration: CR H9507-9508)
+- 2009-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3386.
+- 2009-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-15 — Mr. Towns moved to suspend the rules and pass the bill.
+- 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9507)
+- 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9507)
