@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 745
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 745
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3246) to provide for a program of 
 - 2009-09-15 — Placed on the House Calendar, Calendar No. 107.
 - 2009-09-15 — The House Committee on Rules reported an original measure, H. Rept. 111-255, by Ms. Matsui.
 - 2009-09-15 — The House Committee on Rules reported an original measure, H. Rept. 111-255, by Ms. Matsui.
+- 2009-09-16 — Considered as privileged matter. (consideration: CR H9566-9568)
+- 2009-09-16 — DEBATE - The House proceeded with one hour of debate on H. Res. 745.
+- 2009-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-16 — On agreeing to the resolution Agreed to by voice vote. (text: CR H9566-9567)
+- 2009-09-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H9566-9567)
+- 2009-09-16 — The previous question was ordered without objection. (consideration: CR H9568)
