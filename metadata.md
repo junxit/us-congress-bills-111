@@ -1,7 +1,7 @@
 ---
 measure: H.R. 940
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 940
@@ -25,9 +25,10 @@ To provide for the conveyance of National Forest System land in the State of Lou
 - Rep. Cassidy, Bill [R-LA-6] (C001075)
 - Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To provide for the conveyance of National Forest System land in the State of Lou
 - 2009-09-15 — Mr. Holden moved to suspend the rules and pass the bill.
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9516)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9516)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
