@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 242
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 242
@@ -16,9 +16,10 @@ A resolution supporting the goals and ideals of "National Aerospace Day".
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution supporting the goals and ideals of "National Aerospace Day".
 
 - 2009-08-05 — Introduced in Senate
 - 2009-08-05 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S8872-8873)
+- 2009-09-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9487)
+- 2009-09-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9487)
+- 2009-09-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S9486-9487)
+- 2009-09-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S9486-9487)
