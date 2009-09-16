@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 746
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 746
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 3221) to amend the Higher Educatio
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2009-09-16 — [House 111-1-703](votes/house-111-1-0703.md) — On Agreeing to the Resolution — **Passed** (241–179)
+
 ## Actions
 
 - 2009-09-15 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
@@ -27,3 +31,11 @@ Providing for consideration of the bill (H.R. 3221) to amend the Higher Educatio
 - 2009-09-15 — Placed on the House Calendar, Calendar No. 108.
 - 2009-09-15 — The House Committee on Rules reported an original measure, H. Rept. 111-256, by Mr. Polis (CO).
 - 2009-09-15 — The House Committee on Rules reported an original measure, H. Rept. 111-256, by Mr. Polis (CO).
+- 2009-09-16 — Considered as privileged matter. (consideration: CR H9558-9566)
+- 2009-09-16 — Considered as unfinished business. (consideration: CR H9569)
+- 2009-09-16 — DEBATE - The House proceeded with one hour of debate on H. Res. 746.
+- 2009-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-16 — On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 179 (Roll no. 703). (text: CR H9558)
+- 2009-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 746, the Chair put the question on adoption of the resolution and by voice vote announced that the yeas had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings on adoption of the resolution until later in the legislative day.
+- 2009-09-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 179 (Roll no. 703).(text: CR H9558)
+- 2009-09-16 — The previous question was ordered without objection. (consideration: CR H9566)
