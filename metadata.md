@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2947
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2947
@@ -16,9 +16,10 @@ Securities Law Technical Corrections Act of 2009
 
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Securities Law Technical Corrections Act of 2009
 - 2009-09-15 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9524-9525)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9524-9525)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
