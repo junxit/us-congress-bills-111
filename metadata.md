@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1713
@@ -35,3 +35,12 @@ To name the South Central Agricultural Research Laboratory of the Department of 
 - 2009-03-25 — Referred to House Agriculture
 - 2009-03-25 — Referred to House Oversight and Government Reform
 - 2009-03-25 — Referred to the Committee on Agriculture, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-04-28 — Referred to the Subcommittee on Conservation, Credit, Energy, and Research.
+- 2009-07-10 — Committee Consideration and Mark-up Session Held.
+- 2009-07-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-16 — Considered under suspension of the rules. (consideration: CR H9591-9593)
+- 2009-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1713.
+- 2009-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-16 — Mr. Ellsworth moved to suspend the rules and pass the bill.
+- 2009-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9591-9592)
+- 2009-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9591-9592)
