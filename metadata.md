@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3175
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3175
@@ -23,9 +23,10 @@ To direct the Secretary of Agriculture to convey to Miami-Dade County certain fe
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To direct the Secretary of Agriculture to convey to Miami-Dade County certain fe
 - 2009-09-15 — Mr. Holden moved to suspend the rules and pass the bill.
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9514-9515)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9514-9515)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
