@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2423
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2423
@@ -30,3 +30,10 @@ A bill to designate the Federal building and United States courthouse located at
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-05-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-07-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-09-16 — Placed on the House Calendar, Calendar No. 109.
+- 2009-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-257.
+- 2009-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-257.
