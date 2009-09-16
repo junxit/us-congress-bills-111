@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 511
@@ -16,9 +16,10 @@ To authorize the Secretary of Agriculture to terminate certain easements held by
 
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To authorize the Secretary of Agriculture to terminate certain easements held by
 - 2009-09-15 — Mr. Holden moved to suspend the rules and pass the bill.
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9514)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9514)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
