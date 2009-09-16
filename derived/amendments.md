@@ -1,7 +1,7 @@
 ---
 measure: S. 1494
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-270 amendatory instructions. 0 executed, 270 stated and not applied.
+269 amendatory instructions. 0 executed, 269 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -123,7 +123,6 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (C) through (N) as subparagraphs (A) through (L), respectively; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking subparagraph (D). | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (4) of section 7342(f) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 119 of the National Security Act of 1947 (50 U.S.C. Section 404o) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (B) of section 504(a)(3) of the National Security Act of 1947 (50 U.S.C. 414(a)(3)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), as amended by section 353, by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (C), by adding “and” at the end; and | the bill names no machine-readable US Code section |
@@ -174,7 +173,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (8) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the National Security Act of 1947 (50 U.S.C. 401 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947 is amended by inserting after the item relating to section 119B the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title VII of the National Security Act of 1947 (50 U.S.C. 431 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Title VII of the National Security Act of 1947 (50 U.S.C. 431 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947 is amended by inserting after the item relating to section 705 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1) In” and inserting “In”; and | the bill names no machine-readable US Code section |
@@ -298,6 +297,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), by striking “Director of Central Intelligence” and inserting “Director of National Intelligence”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “Director of Central Intelligence” and inserting “Director of National Intelligence”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “Director of Central Intelligence” and inserting “Director of the Central Intelligence Agency”. | the bill names no machine-readable US Code section |
-| — | replace | Section 403 of the Intelligence Authorization Act, Fiscal Year 1992 (50 U.S.C. 403-2) is amended by striking “The Director of Central Intelligence” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 403 of the Intelligence Authorization Act, Fiscal Year 1992 (50 U.S.C. 403–2) is amended by striking “The Director of Central Intelligence” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Intelligence Community” and insert “intelligence community”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the second sentence and inserting the following: | the bill names no machine-readable US Code section |
