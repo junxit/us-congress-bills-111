@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3137
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3137
@@ -16,9 +16,10 @@ To amend title 39, United States Code, to provide clarification relating to the 
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -38,3 +39,4 @@ To amend title 39, United States Code, to provide clarification relating to the 
 - 2009-09-15 — Mr. Towns moved to suspend the rules and pass the bill.
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 702). (text: CR H9506)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 702).(text: CR H9506)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
