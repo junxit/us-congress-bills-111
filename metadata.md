@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3146
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3146
@@ -23,9 +23,10 @@ version: Engrossed in House
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ version: Engrossed in House
 - 2009-09-15 — Mr. Adler (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9520-9521)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9520-9521)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

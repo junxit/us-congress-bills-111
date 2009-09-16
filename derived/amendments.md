@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3146
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+9 amendatory instructions. 1 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 12712
+
+> in clause (ii), by striking “203(b)(2)(B)” and inserting “203(b)(2)(A)(ii)”.
+
+| | |
+|---|---|
+| Removed | `203(b)(2)(B)` |
+| Inserted | `203(b)(2)(A)(ii)` |
 
 ## Stated, not applied
 
@@ -31,12 +42,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | in clause (i), by inserting “(i)” after “(A)” each place such term appears; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “203(b)(2)(B)” and inserting “203(b)(2)(A)(ii)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 230 of the National Housing Act (12 U.S.C. 1715u) is amended by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 1709` | add-at-end | Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12712` | insert | in clause (i), by inserting “(i)” after “(A)” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1708` | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1708` | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1708` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1708` | replace | in paragraph (2)(B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1708` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1715u` | insert | Section 230 of the National Housing Act (12 U.S.C. 1715u) is amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
