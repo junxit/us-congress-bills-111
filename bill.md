@@ -1,8 +1,8 @@
 ---
 legis-num: S. 1677
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1677
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Termination of Act*
   - **(1)** *Termination* Section 717 of the Defense Production Act of 1950 (50 U.S.C. App. 2166) is amended—
     - **(A)** by striking subsections (a) and (b) and inserting the following:
-      > - **(a)** Title I (except section 104), title III, and title VII (except sections 707, 708, and 721 ) shall terminate on September 30, 2014, except that all authority extended under title III on or after the date of enactment of the Defense Production Act Reauthorization of 2009 shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+      > - **(a)** Title I (except section 104), title III, and title VII (except sections 707, 708, and 721) shall terminate on September 30, 2014, except that all authority extended under title III on or after the date of enactment of the Defense Production Act Reauthorization of 2009 shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
       > - **(b)** Notwithstanding subsection (a), any agency created under a provision of law that is terminated under subsection (a) may continue in existence, for purposes of liquidation, for a period not to exceed 6 months, beginning on the date of termination of the provision authorizing the creation of such agency under subsection (a).
 
     - **(B)** in subsection (c), by striking the second undesignated paragraph.
