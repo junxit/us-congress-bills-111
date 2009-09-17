@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1713
@@ -23,10 +23,11 @@ To name the South Central Agricultural Research Laboratory of the Department of 
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Agriculture Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To name the South Central Agricultural Research Laboratory of the Department of 
 - 2009-09-16 — Mr. Ellsworth moved to suspend the rules and pass the bill.
 - 2009-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9591-9592)
 - 2009-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9591-9592)
+- 2009-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
