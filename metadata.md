@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 3288
@@ -69,7 +69,7 @@ Consolidated Appropriations Act, 2010
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (31)
+## Recorded votes (37)
 
 - 2009-07-23 — [House 111-1-620](votes/house-111-1-0620.md) — On Agreeing to the Amendment — **Failed** (152–276)
 - 2009-07-23 — [House 111-1-621](votes/house-111-1-0621.md) — On Agreeing to the Amendment — **Failed** (136–284)
@@ -102,6 +102,12 @@ Consolidated Appropriations Act, 2010
 - 2009-09-17 — [Senate 111-1-285](votes/senate-111-1-0285.md) — On the Amendment — **Amendment Rejected** (37–60)
 - 2009-09-17 — [Senate 111-1-286](votes/senate-111-1-0286.md) — On the Motion — **Motion Rejected** (34–64)
 - 2009-09-17 — [Senate 111-1-287](votes/senate-111-1-0287.md) — On Passage of the Bill — **Bill Passed** (73–25)
+- 2009-12-08 — [House 111-1-931](votes/house-111-1-0931.md) — On Motion to Instruct Conferees — **Passed** (212–193)
+- 2009-12-10 — [House 111-1-949](votes/house-111-1-0949.md) — On Agreeing to the Conference Report — **Passed** (221–202)
+- 2009-12-10 — [Senate 111-1-371](votes/senate-111-1-0371.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (56–43)
+- 2009-12-11 — [Senate 111-1-372](votes/senate-111-1-0372.md) — On the Motion — **Motion Agreed to** (60–36)
+- 2009-12-12 — [Senate 111-1-373](votes/senate-111-1-0373.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–34)
+- 2009-12-13 — [Senate 111-1-374](votes/senate-111-1-0374.md) — On the Conference Report — **Conference Report Agreed to** (57–35)
 
 ## Actions
 
@@ -542,3 +548,45 @@ Consolidated Appropriations Act, 2010
 - 2009-09-17 — Senate amendment not agreed to: Amendment SA 2410 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 284.
 - 2009-09-17 — Senate insists on its amendment, asks for a conference, appoints conferees Murray; Byrd; Mikulski; Kohl; Durbin; Dorgan; Leahy; Harkin; Feinstein; Johnson; Lautenberg; Specter; Inouye; Bond; Shelby; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Cochran. (consideration: CR S9541)
 - 2009-09-17 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2009-09-21 — Message on Senate action sent to the House.
+- 2009-12-08 — Conferees agreed to file conference report.
+- 2009-12-08 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-12-08 — Conference report H. Rept. 111-366 filed. (text of conference report: CR H13631-14080, H14081-14369)
+- 2009-12-08 — Conference report filed: Conference report H. Rept. 111-366 filed.(text of conference report: CR H13631-14080, H14081-14369)
+- 2009-12-08 — DEBATE - The House proceeded with one hour of debate on the Latham motion to instruct conferees on H.R. 3288. The instructions contained in the motion seek to require the managers on the part of the House to disagree to any proposition in violation of clause 9 of Rule XXII which includes matter not committed to the conference committee by either House. The instructions contained in the motion seek to require the managers on the part of the House to not record their approval of the final conference agreement unless text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 72 hours prior to the time described in clause 12(a)(4) of rule XXII of the Rules of the House of Representatives.
+- 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-08 — Mr. Latham moved that the House instruct conferees.
+- 2009-12-08 — Mr. Olver moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H13556-13557, H13570, H13573)
+- 2009-12-08 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.
+- 2009-12-08 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 212 - 193 (Roll no. 931).
+- 2009-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to instruct conferees on H.R. 3288, the Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced that the noes had prevailed. Mr. Latham demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct conferees on H.R. 3288 until a time to be announced.
+- 2009-12-08 — The Speaker appointed conferees: Olver, Pastor (AZ), Kaptur, Price (NC), Roybal-Allard, Berry, Kilpatrick (MI), Lowey, Obey, Latham, Wolf, Tiahrt, Wamp, and Lewis (CA). (consideration: CR H13573)
+- 2009-12-08 — The previous question on the motion that the House instruct conferees was ordered without objection. (consideration: CR H13557, H13570)
+- 2009-12-09 — Rules Committee Resolution H. Res. 961 Reported to House. Rule provides for consideration of the conference report to H.R. 3288 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. All points of order against the conference report and against its consideration are waived.
+- 2009-12-10 — Cloture motion on the conference report to accompany H.R. 3288 presented in Senate. (consideration: CR S12898; text: CR S12898)
+- 2009-12-10 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2009-12-10 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 221 - 202, 1 Present (Roll no. 949).
+- 2009-12-10 — Conference report considered in Senate. (consideration: CR S12876-12904)
+- 2009-12-10 — DEBATE - The House proceeded with 1 hour of debate on the conference report to accompany H.R. 3288.
+- 2009-12-10 — Motion to proceed to consideration of conference report to H.R. 3288 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 371. (consideration: CR S12876-12877)
+- 2009-12-10 — Mr. Olver brought up conference report H. Rept. 111-366 for consideration under the provisions of H. Res. 961. (consideration: CR H14462-14480)
+- 2009-12-10 — On agreeing to the conference report Agreed to by the Yeas and Nays: 221 - 202, 1 Present (Roll no. 949).
+- 2009-12-10 — Rule H. Res. 961 passed House.
+- 2009-12-10 — The previous question was ordered pursuant to the rule. (consideration: CR H14479)
+- 2009-12-11 — Conference report considered in Senate. (consideration: CR S12984-13029)
+- 2009-12-11 — Motion to waive Rule XXVIII with respect to the conference report agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 372. (consideration: CR S12992)
+- 2009-12-11 — Motion to waive Rule XXVIII with respect to the conference report made in Senate. (consideration: CR S12986)
+- 2009-12-11 — Point of order that the conference report violates Rule XXVIII raised in Senate. (consideration: CR S12986)
+- 2009-12-12 — Cloture on the conference report to accompany H.R. 3288 invoked in Senate by Yea-Nay Vote. 60 - 34. Record Vote Number: 373. (consideration: CR S13073; text: CR S13073)
+- 2009-12-12 — Conference report considered in Senate. (consideration: CR S13068-13096)
+- 2009-12-13 — Cleared for White House.
+- 2009-12-13 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 57 - 35. Record Vote Number: 374.(consideration: CR S13131)
+- 2009-12-13 — Conference report considered in Senate. (consideration: CR S13126-13131)
+- 2009-12-13 — Senate agreed to conference report by Yea-Nay Vote. 57 - 35. Record Vote Number: 374. (consideration: CR S13131)
+- 2009-12-14 — Message on Senate action sent to the House.
+- 2009-12-15 — Presented to President.
+- 2009-12-15 — Presented to President.
+- 2009-12-16 — Became Public Law No: 111-117.
+- 2009-12-16 — Became Public Law No: 111-117.
+- 2009-12-16 — Signed by President.
+- 2009-12-16 — Signed by President.
