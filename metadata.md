@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3527
@@ -24,9 +24,10 @@ FHA Multifamily Loan Limit Adjustment Act of 2009
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ FHA Multifamily Loan Limit Adjustment Act of 2009
 - 2009-09-15 — Mr. Adler (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9522)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9522)
+- 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
