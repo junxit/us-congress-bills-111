@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3246
@@ -35,9 +35,10 @@ Advanced Vehicle Technology Act of 2009
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -170,3 +171,4 @@ Advanced Vehicle Technology Act of 2009
 - 2009-09-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9590)
 - 2009-09-16 — The previous question was ordered pursuant to the rule. (consideration: CR H9589)
 - 2009-09-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-09-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
