@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3221
@@ -64,6 +64,19 @@ Student Aid and Fiscal Responsibility Act of 2009
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (10)
+
+- 2009-09-17 — [House 111-1-710](votes/house-111-1-0710.md) — On Agreeing to the Amendment — **Failed** (161–262)
+- 2009-09-17 — [House 111-1-711](votes/house-111-1-0711.md) — On Agreeing to the Amendment — **Failed** (167–251)
+- 2009-09-17 — [House 111-1-712](votes/house-111-1-0712.md) — On Agreeing to the Amendment — **Failed** (126–301)
+- 2009-09-17 — [House 111-1-713](votes/house-111-1-0713.md) — On Agreeing to the Amendment — **Agreed to** (428–2)
+- 2009-09-17 — [House 111-1-714](votes/house-111-1-0714.md) — On Agreeing to the Amendment — **Agreed to** (428–0)
+- 2009-09-17 — [House 111-1-715](votes/house-111-1-0715.md) — On Agreeing to the Amendment — **Agreed to** (425–5)
+- 2009-09-17 — [House 111-1-716](votes/house-111-1-0716.md) — On Agreeing to the Amendment — **Agreed to** (425–0)
+- 2009-09-17 — [House 111-1-717](votes/house-111-1-0717.md) — On Agreeing to the Amendment — **Failed** (165–265)
+- 2009-09-17 — [House 111-1-718](votes/house-111-1-0718.md) — On Motion to Recommit with Instructions — **Passed** (345–75)
+- 2009-09-17 — [House 111-1-719](votes/house-111-1-0719.md) — On Passage — **Passed** (253–171)
+
 ## Actions
 
 - 2009-07-15 — Introduced in House
@@ -74,3 +87,212 @@ Student Aid and Fiscal Responsibility Act of 2009
 - 2009-07-27 — Placed on the Union Calendar, Calendar No. 129.
 - 2009-07-27 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-232.
 - 2009-07-27 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 111-232.
+- 2009-09-15 — Rules Committee Resolution H. Res. 746 Reported to House. Rule provides for consideration of H.R. 3221 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2009-09-16 — Amendment (A001) offered by Mr. Miller, George. (consideration: CR H9624-9630; text: CR H9624-9628)
+- 2009-09-16 — Amendment (A002) offered by Mr. Hoekstra. (consideration: CR H9630-9632; text: CR H9630)
+- 2009-09-16 — Amendment (A003) offered by Mr. Cardoza. (consideration: CR H9632; text: CR H9632)
+- 2009-09-16 — Amendment (A004) offered by Mrs. McMorris Rodgers. (consideration: CR H9632-9634; text: CR H9632-9633)
+- 2009-09-16 — Amendment (A005) offered by Ms. Pingree (ME). (consideration: CR H9634-9635; text: CR H9634)
+- 2009-09-16 — Amendment (A006) offered by Ms. Pingree (ME). (consideration: CR H9635-9636; text: CR H9635)
+- 2009-09-16 — Amendment (A007) offered by Ms. Foxx. (consideration: CR H9636-9637; text: CR H9636)
+- 2009-09-16 — Amendment agreed to Committee of the Whole
+- 2009-09-16 — Amendment agreed to Committee of the Whole
+- 2009-09-16 — Amendment agreed to Committee of the Whole
+- 2009-09-16 — Amendment agreed to Committee of the Whole
+- 2009-09-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 3221 as unfinished business.
+- 2009-09-16 — Considered under the provisions of rule H. Res. 746. (consideration: CR H9594-9637; text of amendment in the nature of the substitute: CR H9604-9624)
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on Pingree amendment number 5.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Cardoza amendment.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rogers amendment.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Pingree amendment number 6.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H.Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Hoekstra amendment.
+- 2009-09-16 — DEBATE - Pursuant to the provisions of H.Res. 746, the Committee of the Whole proceeded with 20 minutes of debate on the George Miller (CA) amendment.
+- 2009-09-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3221.
+- 2009-09-16 — House amendment agreed to: On agreeing to the Cardoza amendment (A003) Agreed to by voice vote.
+- 2009-09-16 — House amendment agreed to: On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2009-09-16 — House amendment agreed to: On agreeing to the Pingree (ME) amendment (A005) Agreed to by voice vote.
+- 2009-09-16 — House amendment agreed to: On agreeing to the Pingree (ME) amendment (A006) Agreed to by voice vote.
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered
+- 2009-09-16 — House amendment offered/reported by : Amendment (A001) offered by Mr. Miller, George.(consideration: CR H9624-9630; text: CR H9624-9628)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A002) offered by Mr. Hoekstra.(consideration: CR H9630-9632; text: CR H9630)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A003) offered by Mr. Cardoza.(consideration: CR H9632; text: CR H9632)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A004) offered by Mrs. McMorris Rodgers.(consideration: CR H9632-9634; text: CR H9632-9633)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A005) offered by Ms. Pingree (ME).(consideration: CR H9634-9635; text: CR H9634)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A006) offered by Ms. Pingree (ME).(consideration: CR H9635-9636; text: CR H9635)
+- 2009-09-16 — House amendment offered/reported by : Amendment (A007) offered by Ms. Foxx.(consideration: CR H9636-9637; text: CR H9636)
+- 2009-09-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 746 and Rule XVIII.
+- 2009-09-16 — Mr. Miller, George moved that the Committee rise.
+- 2009-09-16 — On agreeing to the Cardoza amendment (A003) Agreed to by voice vote.
+- 2009-09-16 — On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2009-09-16 — On agreeing to the Pingree (ME) amendment (A005) Agreed to by voice vote.
+- 2009-09-16 — On agreeing to the Pingree (ME) amendment (A006) Agreed to by voice vote.
+- 2009-09-16 — On motion that the Committee rise Agreed to by voice vote.
+- 2009-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hoekstra amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Hoekstra demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be determined.
+- 2009-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McMorris Rogers amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Kline (MN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-09-16 — Rule H. Res. 746 passed House.
+- 2009-09-16 — Rule provides for consideration of H.R. 3221 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2009-09-16 — The Speaker designated the Honorable Sheila Jackson-Lee to act as Chairwoman of the Committee.
+- 2009-09-17 — Amendment (A008) offered by Mr. Reyes. (consideration: CR H9675-9676; text: CR H9675)
+- 2009-09-17 — Amendment (A009) offered by Mr. Etheridge. (consideration: CR H9676-9677; text: CR H9676)
+- 2009-09-17 — Amendment (A010) offered by Mr. Driehaus. (consideration: CR H9677-9678; text: CR H9677)
+- 2009-09-17 — Amendment (A011) offered by Mr. Cuellar. (consideration: CR H9678-9679; text: CR H9678)
+- 2009-09-17 — Amendment (A012) offered by Mr. Murphy (CT). (consideration: CR H9679-9680; text: CR H9679)
+- 2009-09-17 — Amendment (A013) offered by Mr. Childers. (consideration: CR H9680-9681; text: CR H9680)
+- 2009-09-17 — Amendment (A014) offered by Mr. Adler (NJ). (consideration: CR H9681-9682; text: CR H9681)
+- 2009-09-17 — Amendment (A015) offered by Mr. Himes. (consideration: CR H9682-9683, H9695-9696; text: CR H9682)
+- 2009-09-17 — Amendment (A016) offered by Ms. Kilroy. (consideration: CR H9683-9684; text: CR H9683-9684)
+- 2009-09-17 — Amendment (A017) offered by Mr. Minnick. (consideration: CR H9684-9685, H9696-9697; text: CR H9685)
+- 2009-09-17 — Amendment (A018) offered by Mr. Perriello. (consideration: CR H9685-9686; text: CR H9685)
+- 2009-09-17 — Amendment (A019) offered by Mr. Schauer. (consideration: CR H9686-9687, H9697; text: CR H9686)
+- 2009-09-17 — Amendment (A020) offered by Mr. Teague. (consideration: CR H9687-9688; text: CR H9687)
+- 2009-09-17 — Amendment (A021) offered by Mr. Teague. (consideration: CR H9688-9689, H9697-9698; text: CR H9688)
+- 2009-09-17 — Amendment (A022) offered by Mr. Flake. (consideration: CR H9689; text: CR H9689)
+- 2009-09-17 — Amendment (A023) in the nature of a substitute offered by Mr. Guthrie. (consideration: CR H9689-9692, H9698-9699; text: CR H9689-9690)
+- 2009-09-17 — Amendment (A024) offered by Mr. Miller, George. (consideration: CR H9701)
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to Committee of the Whole
+- 2009-09-17 — Amendment agreed to by House: On agreeing to the Miller, George amendment (A024) Agreed to by voice vote.
+- 2009-09-17 — Amendment failed in Committee of the Whole
+- 2009-09-17 — Amendment failed in Committee of the Whole
+- 2009-09-17 — Amendment failed in Committee of the Whole
+- 2009-09-17 — Amendment failed in Committee of the Whole
+- 2009-09-17 — Considered as unfinished business. (consideration: CR H9675-9702)
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Adler(NJ) amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Childers amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Driehaus amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Etheridge amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Himes amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Kilroy amendment, as modified.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Minnick amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (CT) amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Perriello amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Reyes amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Schauer amendment.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Teague amendment No. 1.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 10 minutes of debate on the Teague amendment No. 2.
+- 2009-09-17 — DEBATE - Pursuant to the provisions of H. Res. 746, the Committee of the Whole proceeded with 20 minutes of debate on the Guthrie substitute amendment.
+- 2009-09-17 — DEBATE - The House proceeded with 10 minutes of debate on the Issa motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to prohibit federal funds from certain indicted organizations.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Adler (NJ) amendment (A014) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Childers amendment (A013) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Cuellar amendment (A011) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Driehaus amendment (A010) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Etheridge amendment (A009) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Flake amendment (A022) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Himes amendment (A015) Agreed to by recorded vote: 428 - 2 (Roll no. 713).
+- 2009-09-17 — House amendment agreed to: On agreeing to the Kilroy amendment (A016) as modified Agreed to by voice vote.(text as modified: CR H9684)
+- 2009-09-17 — House amendment agreed to: On agreeing to the Miller, George amendment (A024) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Minnick amendment (A017) Agreed to by recorded vote: 428 - 0 (Roll no. 714).
+- 2009-09-17 — House amendment agreed to: On agreeing to the Murphy (CT) amendment (A012) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Perriello amendment (A018) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Reyes amendment (A008) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Schauer amendment (A019) Agreed to by recorded vote: 425 - 5 (Roll no. 715).
+- 2009-09-17 — House amendment agreed to: On agreeing to the Teague amendment (A020) Agreed to by voice vote.
+- 2009-09-17 — House amendment agreed to: On agreeing to the Teague amendment (A021) Agreed to by recorded vote: 425 - 0 (Roll no. 716).
+- 2009-09-17 — House amendment not agreed to: On agreeing to the Foxx amendment (A007) Failed by recorded vote: 126 - 301 (Roll no. 712).(consideration: CR H9694-9695; text: CR 9694-9695)
+- 2009-09-17 — House amendment not agreed to: On agreeing to the Guthrie amendment (A023) Failed by recorded vote: 165 - 265 (Roll no. 717).
+- 2009-09-17 — House amendment not agreed to: On agreeing to the Hoekstra amendment (A002) Failed by recorded vote: 161 - 262 (Roll no. 710).(consideration: CR H9693; text: CR H9693)
+- 2009-09-17 — House amendment not agreed to: On agreeing to the McMorris Rodgers amendment (A004) Failed by recorded vote: 167 - 251 (Roll no. 711).(consideration: CR H9693-9694; text: CR H9694)
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered
+- 2009-09-17 — House amendment offered/reported by : Amendment (A008) offered by Mr. Reyes.(consideration: CR H9675-9676; text: CR H9675)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A009) offered by Mr. Etheridge.(consideration: CR H9676-9677; text: CR H9676)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A010) offered by Mr. Driehaus.(consideration: CR H9677-9678; text: CR H9677)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A011) offered by Mr. Cuellar.(consideration: CR H9678-9679; text: CR H9678)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A012) offered by Mr. Murphy (CT).(consideration: CR H9679-9680; text: CR H9679)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A013) offered by Mr. Childers.(consideration: CR H9680-9681; text: CR H9680)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A014) offered by Mr. Adler (NJ).(consideration: CR H9681-9682; text: CR H9681)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A015) offered by Mr. Himes.(consideration: CR H9682-9683, H9695-9696; text: CR H9682)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A016) offered by Ms. Kilroy.(consideration: CR H9683-9684; text: CR H9683-9684)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A017) offered by Mr. Minnick.(consideration: CR H9684-9685, H9696-9697; text: CR H9685)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A018) offered by Mr. Perriello.(consideration: CR H9685-9686; text: CR H9685)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A019) offered by Mr. Schauer.(consideration: CR H9686-9687, H9697; text: CR H9686)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A020) offered by Mr. Teague.(consideration: CR H9687-9688; text: CR H9687)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A021) offered by Mr. Teague.(consideration: CR H9688-9689, H9697-9698; text: CR H9688)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A022) offered by Mr. Flake.(consideration: CR H9689; text: CR H9689)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A023) in the nature of a substitute offered by Mr. Guthrie.(consideration: CR H9689-9692, H9698-9699; text: CR H9689-9690)
+- 2009-09-17 — House amendment offered/reported by : Amendment (A024) offered by Mr. Miller, George.(consideration: CR H9701)
+- 2009-09-17 — Kilroy amendment (A016) modified by unanimous consent. The amendment modification expands the scope of the bill with respect to grant duration and renewal.
+- 2009-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-17 — Mr. Issa moved to recommit with instructions to Education and Labor. (consideration: CR H9699-9701; text: CR H9699)
+- 2009-09-17 — ORDER OF PROCEDURE - Mr. George Miller (CA) asked unanimous consent that, during proceedings today in the House and in the Committee of the Whole, the Chair be authorized to reduce to two minutes the minimum time for electronic voting on any question that otherwise could be subjected to five-minute voting under clause 8 or 9 or rule 20 or under clause 6 of rule 18.
+- 2009-09-17 — On agreeing to the Adler (NJ) amendment (A014) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Childers amendment (A013) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Cuellar amendment (A011) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Driehaus amendment (A010) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Etheridge amendment (A009) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Flake amendment (A022) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Foxx amendment (A007) Failed by recorded vote: 126 - 301 (Roll no. 712). (consideration: CR H9694-9695; text: CR 9694-9695)
+- 2009-09-17 — On agreeing to the Guthrie amendment (A023) Failed by recorded vote: 165 - 265 (Roll no. 717).
+- 2009-09-17 — On agreeing to the Himes amendment (A015) Agreed to by recorded vote: 428 - 2 (Roll no. 713).
+- 2009-09-17 — On agreeing to the Hoekstra amendment (A002) Failed by recorded vote: 161 - 262 (Roll no. 710). (consideration: CR H9693; text: CR H9693)
+- 2009-09-17 — On agreeing to the Kilroy amendment (A016) as modified Agreed to by voice vote. (text as modified: CR H9684)
+- 2009-09-17 — On agreeing to the McMorris Rodgers amendment (A004) Failed by recorded vote: 167 - 251 (Roll no. 711). (consideration: CR H9693-9694; text: CR H9694)
+- 2009-09-17 — On agreeing to the Miller, George amendment (A024) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Minnick amendment (A017) Agreed to by recorded vote: 428 - 0 (Roll no. 714).
+- 2009-09-17 — On agreeing to the Murphy (CT) amendment (A012) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Perriello amendment (A018) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Reyes amendment (A008) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Schauer amendment (A019) Agreed to by recorded vote: 425 - 5 (Roll no. 715).
+- 2009-09-17 — On agreeing to the Teague amendment (A020) Agreed to by voice vote.
+- 2009-09-17 — On agreeing to the Teague amendment (A021) Agreed to by recorded vote: 425 - 0 (Roll no. 716).
+- 2009-09-17 — On motion to recommit with instructions Agreed to by recorded vote: 345 - 75, 2 Present (Roll no. 718).
+- 2009-09-17 — On passage Passed by recorded vote: 253 - 171 (Roll no. 719).
+- 2009-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Guthrie amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Guthrie demanded a recorded vote and the Chair postponed futher proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Himes amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Himes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Minnick amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Minnick demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Schauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Teague amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Teague demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-09-17 — Passed/agreed to in House: On passage Passed by recorded vote: 253 - 171 (Roll no. 719).
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — Roll call votes on amendments in House
+- 2009-09-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3221.
+- 2009-09-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 9/16/2009 H9604-9624)
+- 2009-09-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-09-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3221.
+- 2009-09-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9700)
+- 2009-09-17 — The previous question was ordered pursuant to the rule. (consideration: CR H9699)
+- 2009-09-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
