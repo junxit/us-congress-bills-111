@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3288
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3288
@@ -16,12 +16,60 @@ Consolidated Appropriations Act, 2010
 
 - Rep. Olver, John W. [D-MA-1] (O000085)
 
+## Cosponsors (45)
+
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (18)
+## Recorded votes (31)
 
 - 2009-07-23 — [House 111-1-620](votes/house-111-1-0620.md) — On Agreeing to the Amendment — **Failed** (152–276)
 - 2009-07-23 — [House 111-1-621](votes/house-111-1-0621.md) — On Agreeing to the Amendment — **Failed** (136–284)
@@ -41,6 +89,19 @@ Consolidated Appropriations Act, 2010
 - 2009-07-23 — [House 111-1-635](votes/house-111-1-0635.md) — On Agreeing to the Amendment — **Failed** (109–326)
 - 2009-07-23 — [House 111-1-636](votes/house-111-1-0636.md) — On Motion to Recommit with Instructions — **Failed** (192–226)
 - 2009-07-23 — [House 111-1-637](votes/house-111-1-0637.md) — On Passage — **Passed** (256–168)
+- 2009-09-14 — [Senate 111-1-275](votes/senate-111-1-0275.md) — On the Amendment — **Amendment Agreed to** (83–7)
+- 2009-09-15 — [Senate 111-1-276](votes/senate-111-1-0276.md) — On the Motion — **Motion Agreed to** (68–26)
+- 2009-09-16 — [Senate 111-1-277](votes/senate-111-1-0277.md) — On the Amendment — **Amendment Rejected** (39–59)
+- 2009-09-16 — [Senate 111-1-278](votes/senate-111-1-0278.md) — On the Amendment — **Amendment Rejected** (41–57)
+- 2009-09-16 — [Senate 111-1-279](votes/senate-111-1-0279.md) — On the Amendment — **Amendment Agreed to** (68–30)
+- 2009-09-16 — [Senate 111-1-280](votes/senate-111-1-0280.md) — On the Amendment — **Amendment Agreed to** (73–25)
+- 2009-09-16 — [Senate 111-1-281](votes/senate-111-1-0281.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2009-09-16 — [Senate 111-1-282](votes/senate-111-1-0282.md) — On the Motion — **Motion Rejected** (33–64)
+- 2009-09-17 — [Senate 111-1-283](votes/senate-111-1-0283.md) — On the Amendment — **Amendment Rejected** (34–62)
+- 2009-09-17 — [Senate 111-1-284](votes/senate-111-1-0284.md) — On the Amendment — **Amendment Rejected** (43–53)
+- 2009-09-17 — [Senate 111-1-285](votes/senate-111-1-0285.md) — On the Amendment — **Amendment Rejected** (37–60)
+- 2009-09-17 — [Senate 111-1-286](votes/senate-111-1-0286.md) — On the Motion — **Motion Rejected** (34–64)
+- 2009-09-17 — [Senate 111-1-287](votes/senate-111-1-0287.md) — On Passage of the Bill — **Bill Passed** (73–25)
 
 ## Actions
 
@@ -262,3 +323,222 @@ Consolidated Appropriations Act, 2010
 - 2009-08-05 — Committee on Appropriations. Reported by Senator Murray with an amendment in the nature of a substitute. With written report No. 111-69.
 - 2009-08-05 — Committee on Appropriations. Reported by Senator Murray with an amendment in the nature of a substitute. With written report No. 111-69.
 - 2009-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
+- 2009-09-10 — Measure laid before Senate by unanimous consent. (consideration: CR S9233-9255; text of measure as reported in Senate: CR S9233-9252)
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-10 — Senate amendment submitted
+- 2009-09-11 — Considered by Senate. (consideration: CR S9291-9292)
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-11 — Senate amendment submitted
+- 2009-09-14 — Amendment SA 2355 as modified agreed to in Senate by Yea-Nay Vote. 83 - 7. Record Vote Number: 275. (text as modified: CR S9313-9314)
+- 2009-09-14 — Amendment SA 2355 proposed by Senator Johanns. (consideration: CR S9308-9318; text: CR S9308) Prohibiting use of funds to fund the Association of Community Organizations for Reform Now (ACORN).
+- 2009-09-14 — Considered by Senate. (consideration: CR S9308-9318)
+- 2009-09-14 — Roll call votes on amendments in Senate: Amendment SA 2355 as modified agreed to in Senate by Yea-Nay Vote. 83 - 7. Record Vote Number: 275.(text as modified: CR S9313-9314)
+- 2009-09-14 — Senate amendment agreed to: Amendment SA 2355 as modified agreed to in Senate by Yea-Nay Vote. 83 - 7. Record Vote Number: 275.(text as modified: CR S9313-9314)
+- 2009-09-14 — Senate amendment proposed (on the floor): Amendment SA 2355 proposed by Senator Johanns.(consideration: CR S9308-9318; text: CR S9308)
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-14 — Senate amendment submitted
+- 2009-09-15 — Amendment SA 2366 proposed by Senator Wicker. (consideration: CR S9349-9350, S9355-9365) To permit Amtrak passengers to safely transport firearms and ammunition in their checked baggage.
+- 2009-09-15 — Amendment SA 2370 proposed by Senator Coburn. (consideration: CR S9345, S9349; text: CR S9345) To fully provide for the critical surface transportation needs of the United States by prohibiting funds from being used on lower-priority projects, such as roadkill reduction programs, transportation museums, scenic beautification projects, or bicycle paths, if the Highway Trust Fund does not contain amounts sufficient to cover unfunded highway authorizations.
+- 2009-09-15 — Amendment SA 2371 proposed by Senator Coburn. (consideration: CR S9345, S9347-9348, S9349; text: CR S9345) To remove an unnecessary and burdensome mandate on the States, by allowing them to opt out of a provision that requires States to spend 10 percent of their surface transportation funds on enhancement projects such as road-kill reduction and highway beautification.
+- 2009-09-15 — Amendment SA 2372 proposed by Senator Coburn. (consideration: CR S9345, S9349; text: CR S9345) To fully provide for the critical surface transportation needs of the United States by prohibiting funds from being used on lower-priority projects, such as transportation museums.
+- 2009-09-15 — Amendment SA 2374 proposed by Senator Coburn. (consideration: CR S9345; text: CR S9345) To determine the total cost to taxpayers of Government ownership of residential homes.
+- 2009-09-15 — Amendment SA 2375 proposed by Senator McCain. (consideration: CR S9341-9345, S9348-9349; text: CR S9341) To provide that all amounts in the bill provided for congressional earmarks shall be made available for NextGen and NextGen programs.
+- 2009-09-15 — Amendment SA 2376 proposed by Senator Vitter. (consideration: CR S9350-9355; text: CR S9350) To affirm the continuing existence of the community service requirements under section 12(c) of the United States Housing Act of 1937.
+- 2009-09-15 — Amendment SA 2377 proposed by Senator Coburn. (consideration: CR S9345-9347; text: CR S9345-9346) To require public disclosure of certain reports.
+- 2009-09-15 — Cloture motion on the bill presented in Senate. (consideration: CR S9365; text: CR S9365)
+- 2009-09-15 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S9365; text: CR S9365)
+- 2009-09-15 — Considered by Senate. (consideration: CR S9341-9349, S9349-9355, S9355-9365)
+- 2009-09-15 — Motion to table amendment SA 2375 agreed to in Senate by Yea-Nay Vote. 68 - 26. Record Vote Number: 276.
+- 2009-09-15 — Roll call votes on amendments in Senate: Motion to table amendment SA 2375 agreed to in Senate by Yea-Nay Vote. 68 - 26. Record Vote Number: 276.
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2366 proposed by Senator Wicker.(consideration: CR S9349-9350, S9355-9365)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2370 proposed by Senator Coburn.(consideration: CR S9345, S9349; text: CR S9345)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2371 proposed by Senator Coburn.(consideration: CR S9345, S9347-9348, S9349; text: CR S9345)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2372 proposed by Senator Coburn.(consideration: CR S9345, S9349; text: CR S9345)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2374 proposed by Senator Coburn.(consideration: CR S9345; text: CR S9345)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2375 proposed by Senator McCain.(consideration: CR S9341-9345, S9348-9349; text: CR S9341)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2376 proposed by Senator Vitter.(consideration: CR S9350-9355; text: CR S9350)
+- 2009-09-15 — Senate amendment proposed (on the floor): Amendment SA 2377 proposed by Senator Coburn.(consideration: CR S9345-9347; text: CR S9345-9346)
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-16 — Amendment SA 2359 proposed by Senator Vitter. (consideration: CR S9411-9414; text as modified: CR S9411-9412) To prohibit the use of funds for households that include convicted drug dealing or domestic violence offenders or members of violent gangs that occupy rebuilt public housing in New Orleans.
+- 2009-09-16 — Amendment SA 2361 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 281.
+- 2009-09-16 — Amendment SA 2361 proposed by Senator Gregg. (consideration: CR S9403-9405, S9408-9409; text: CR S9403) To prohibit the use of stimulus funds for self-congratulatory signage that allows lawmakers to promote their spending of taxpayer dollars on stimulus projects.
+- 2009-09-16 — Amendment SA 2365 proposed by Senator Landrieu. (consideration: CR S9402-9403; text: CR S9403) To amend the Disaster Relief and Recovery Supplemental Appropriations Act, 2008.
+- 2009-09-16 — Amendment SA 2366 as modified agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 279. (text as modified: CR 9/15/2009 S9350)
+- 2009-09-16 — Amendment SA 2371 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 277.
+- 2009-09-16 — Amendment SA 2372 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 278.
+- 2009-09-16 — Amendment SA 2374 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Amendment SA 2376 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 280.
+- 2009-09-16 — Amendment SA 2377 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Amendment SA 2402 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9416)
+- 2009-09-16 — Amendment SA 2402 proposed by Senator Murray for Senator Warner. (consideration: CR S9416) To provide that amounts in the bill provided for the Transportation Planning, Research and Development program shall be used for the development, coordination, and analysis of data collection procedures and national performance measures.
+- 2009-09-16 — Amendment SA 2403 proposed by Senator McCain. (consideration: CR S9406-9407; text: CR S9406) To prohibit the use of funds to carry out the Brownsfields Economic Development Initiative program administered by the Department of Housing and Urban Development.
+- 2009-09-16 — Amendment SA 2405 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9416)
+- 2009-09-16 — Amendment SA 2405 proposed by Senator Murray. (consideration: CR S9416) To provide the Secretary of Housing and Urban Development the authority to use previously appropriated funds to prevent the termination of housing assistance to eligible families.
+- 2009-09-16 — Amendment SA 2410 proposed by Senator DeMint. (consideration: CR S9407-9408, S9414-9415; text: CR S9407) To limit the use of funds for the John Murtha Johnstown-Cambria County Airport.
+- 2009-09-16 — Amendment SA 2415 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Amendment SA 2415 proposed by Senator Murray for Senator Durbin. (consideration: CR S9416; text: CR S9416) To provide technical and financial assistance to Illinois transportation officials to conduct a feasibility study for consolidated freight and passenger rail through Springfield, Illinois.
+- 2009-09-16 — Amendment SA 2421 proposed by Senator Kyl to the motion to recommit. (consideration: CR S9416-9417; text: CR S9416) Relating to the American Recovery and Reinvestment Act.
+- 2009-09-16 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S9417)
+- 2009-09-16 — Cloture motion on the committee reported substitute amendment withdrawn by unanimous consent in Senate.
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397,  S9397-9398, S9401)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9397, S9398-9400, S9401; text as modified: CR S9379)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9400)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9400)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9400-9401)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9401-9402, S9415)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397, S9402)
+- 2009-09-16 — Considered by Senate. (consideration: CR S9397-9417)
+- 2009-09-16 — Motion by Senator Ensign to recommit to Senate Committee on Appropriations with instructions made in Senate. (consideration: CR S9405-9406; text: CR S9405)
+- 2009-09-16 — Motion by Senator Ensign to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 282. (consideration: CR S9409)
+- 2009-09-16 — Motion by Senator Kyl to recommit to Senate Committee on Appropriations with instructions that the committee report back forthwith with the following amendment (SA 2421) made in Senate. (consideration: CR S9416-9417; text: CR S9416)
+- 2009-09-16 — Proposed amendment SA 2370 withdrawn in Senate. (consideration: CR S9401)
+- 2009-09-16 — Roll call votes on amendments in Senate: Amendment SA 2361 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 281.
+- 2009-09-16 — Roll call votes on amendments in Senate: Amendment SA 2366 as modified agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 279.(text as modified: CR 9/15/2009 S9350)
+- 2009-09-16 — Roll call votes on amendments in Senate: Amendment SA 2371 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 277.
+- 2009-09-16 — Roll call votes on amendments in Senate: Amendment SA 2372 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 278.
+- 2009-09-16 — Roll call votes on amendments in Senate: Amendment SA 2376 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 280.
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2366 as modified agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 279.(text as modified: CR 9/15/2009 S9350)
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2374 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2376 agreed to in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 280.
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2377 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2402 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9416)
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2405 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9416)
+- 2009-09-16 — Senate amendment agreed to: Amendment SA 2415 agreed to in Senate by Unanimous Consent.
+- 2009-09-16 — Senate amendment not agreed to: Amendment SA 2361 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 281.
+- 2009-09-16 — Senate amendment not agreed to: Amendment SA 2371 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 277.
+- 2009-09-16 — Senate amendment not agreed to: Amendment SA 2372 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 278.
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2359 proposed by Senator Vitter.(consideration: CR S9411-9414; text as modified: CR S9411-9412)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2361 proposed by Senator Gregg.(consideration: CR S9403-9405, S9408-9409; text: CR S9403)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2365 proposed by Senator Landrieu.(consideration: CR S9402-9403; text: CR S9403)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2402 proposed by Senator Murray for Senator Warner.(consideration: CR S9416)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2403 proposed by Senator McCain.(consideration: CR S9406-9407; text: CR S9406)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2405 proposed by Senator Murray.(consideration: CR S9416)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2410 proposed by Senator DeMint.(consideration: CR S9407-9408, S9414-9415; text: CR S9407)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2415 proposed by Senator Murray for Senator Durbin.(consideration: CR S9416; text: CR S9416)
+- 2009-09-16 — Senate amendment proposed (on the floor): Amendment SA 2421 proposed by Senator Kyl to the motion to recommit.(consideration: CR S9416-9417; text: CR S9416)
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-16 — Senate amendment submitted
+- 2009-09-17 — Amendment SA 2359 not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 283.
+- 2009-09-17 — Amendment SA 2365 agreed to in Senate by Voice Vote.
+- 2009-09-17 — Amendment SA 2403 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 285.
+- 2009-09-17 — Amendment SA 2410 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 284.
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532)
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532, S5934)
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532, S9532)
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532, S9533-9534)
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532-9533)
+- 2009-09-17 — Considered by Senate. (consideration: CR S9532-9541)
+- 2009-09-17 — Motion by Senator Kyl to recommit to Senate Committee on Appropriations with instructions that the committee report back forthwith with the following amendment (SA 2421) rejected in Senate by Yea-Nay Vote. 34 - 64. Record Vote Number: 286. (consideration: CR S9534-9535)
+- 2009-09-17 — Passed Senate with an amendment by Yea-Nay Vote. 73 - 25. Record Vote Number: 287. (text: CR 9/21/2009 S9595-9615)
+- 2009-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 73 - 25. Record Vote Number: 287.(text: CR 9/21/2009 S9595-9615)
+- 2009-09-17 — Roll call votes on amendments in Senate: Amendment SA 2359 not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 283.
+- 2009-09-17 — Roll call votes on amendments in Senate: Amendment SA 2403 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 285.
+- 2009-09-17 — Roll call votes on amendments in Senate: Amendment SA 2410 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 284.
+- 2009-09-17 — SA 2421 fell when the Kyl motion to recommit was not agreed to.
+- 2009-09-17 — Senate amendment agreed to: Amendment SA 2365 agreed to in Senate by Voice Vote.
+- 2009-09-17 — Senate amendment not agreed to: Amendment SA 2359 not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 283.
+- 2009-09-17 — Senate amendment not agreed to: Amendment SA 2403 not agreed to in Senate by Yea-Nay Vote. 37 - 60. Record Vote Number: 285.
+- 2009-09-17 — Senate amendment not agreed to: Amendment SA 2410 not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 284.
+- 2009-09-17 — Senate insists on its amendment, asks for a conference, appoints conferees Murray; Byrd; Mikulski; Kohl; Durbin; Dorgan; Leahy; Harkin; Feinstein; Johnson; Lautenberg; Specter; Inouye; Bond; Shelby; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Cochran. (consideration: CR S9541)
+- 2009-09-17 — The committee substitute as amended agreed to by Unanimous Consent.
