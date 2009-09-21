@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3113
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3113
@@ -26,3 +26,11 @@ Upper Elk River Wild and Scenic Study Act
 - 2009-07-07 — Introduced in House
 - 2009-07-07 — Referred to the House Committee on Natural Resources.
 - 2009-07-07 — Sponsor introductory remarks on measure. (CR E1642-1643)
+- 2009-07-09 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-07-30 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-10 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-09-21 — Placed on the Union Calendar, Calendar No. 147.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-262.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-262.
