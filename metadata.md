@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2265
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2265
@@ -30,3 +30,11 @@ Magna Water District Water Reuse and Groundwater Recharge Act of 2009
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Introduced in House
 - 2009-05-06 — Referred to the House Committee on Natural Resources.
+- 2009-05-11 — Referred to the Subcommittee on Water and Power.
+- 2009-07-21 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-09-10 — Subcommittee on Water and Power Discharged.
+- 2009-09-21 — Placed on the Union Calendar, Calendar No. 143.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-258.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-258.
