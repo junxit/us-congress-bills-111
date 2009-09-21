@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Extension of Legislative Authority for Memorial Establishment
 
 - **(a)** *Legislative Authority* Section 1 of Public Law 107–62 is amended by adding after subsection (e) the following new subsection:
-  > - **(f)** *Expiration of Legislative Authority* Notwithstanding section 8903(e) of title 40, United States Code, the legislative authority of the Adams Memorial Foundation to establish a commemorative work on Federal land in the District of Columbia and its environs in honor of former President John Adams and his family’s legacy shall expire on December 2, 2016.
+  > - **(f)** *Expiration of Legislative Authority* Notwithstanding section 8903(e) of title 40, United States Code, the legislative authority of the Adams Memorial Foundation to establish a commemorative work on Federal land in the District of Columbia and its environs in honor of former President John Adams and his family’s legacy shall expire on December 2, 2013.
 
 - **(b)** *Technical Amendments* Public Law 107–62 is amended—
   - **(1)** in section 1(c), by striking “(40 U.S.C. 1001, et seq.)” and inserting “(40 U.S.C. 8901, et seq.)”;
