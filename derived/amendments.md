@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2522
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in paragraph (1) by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | In the case of the Calleguas Municipal Water District Recycling Project authorized by section 1616, the Federal share of the cost of the Project may not exceed the sum determined by adding— | the bill names no machine-readable US Code section |

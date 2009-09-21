@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2522
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2522
@@ -16,6 +16,10 @@ To raise the ceiling on the Federal share of the cost of the Calleguas Municipal
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
+## Cosponsors (1)
+
+- Rep. Capps, Lois [D-CA-23] (C001036)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ To raise the ceiling on the Federal share of the cost of the Calleguas Municipal
 - 2009-05-20 — Introduced in House
 - 2009-05-20 — Introduced in House
 - 2009-05-20 — Referred to the House Committee on Natural Resources.
+- 2009-06-01 — Referred to the Subcommittee on Water and Power.
+- 2009-07-21 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-09-10 — Subcommittee on Water and Power Discharged.
+- 2009-09-21 — Placed on the Union Calendar, Calendar No. 144.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-259.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-259.
