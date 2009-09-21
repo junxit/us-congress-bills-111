@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2741
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2741
@@ -25,3 +25,11 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Referred to the House Committee on Natural Resources.
+- 2009-06-08 — Referred to the Subcommittee on Water and Power.
+- 2009-07-21 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-10 — Subcommittee on Water and Power Discharged.
+- 2009-09-21 — Placed on the Union Calendar, Calendar No. 145.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-260.
+- 2009-09-21 — Reported by the Committee on Natural Resources. H. Rept. 111-260.
