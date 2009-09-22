@@ -1,7 +1,7 @@
 ---
 measure: H.R. 860
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 0 executed, 36 stated and not applied.
+35 amendatory instructions. 0 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,7 +54,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 205(c) (16 U.S.C. 6404(c)), by striking “the grant program” and inserting “any grant program or emergency response action”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 209 and 210 as sections 217 and 218, respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 208 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 204 (16 U.S.C. 6403) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
@@ -66,4 +65,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b) is amended by inserting before the period at the end the following: “, including coral reef ecosystems (as such term is defined in section 218 of the Coral Reef Conserv… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by amending paragraph (8), as redesignated by section 107(5) of this Act, to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (7) to read as follows: | the bill names no machine-readable US Code section |
