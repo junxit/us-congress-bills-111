@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3221
@@ -60,9 +60,10 @@ Student Aid and Fiscal Responsibility Act of 2009
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (10)
 
@@ -296,3 +297,5 @@ Student Aid and Fiscal Responsibility Act of 2009
 - 2009-09-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9700)
 - 2009-09-17 — The previous question was ordered pursuant to the rule. (consideration: CR H9699)
 - 2009-09-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-09-21 — Received in the Senate.
+- 2009-09-22 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
