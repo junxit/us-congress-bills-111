@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 3627
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3627
+
+> To amend the Internal Revenue Code of 1986 to allow employers a credit against income tax for the cost of teleworking equipment and expenses in rural and small town America.
+
+## § 1. Short title
+
+This Act may be cited as the “Rural and Small Town Telework Tax Credit Act of 2009”.
+
+## § 2. Employer credit for teleworking equipment and expenses
+
+- **(a)** *In general* Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by adding at the end the following new section:
+  > ## § 45R. Teleworking equipment credit
+  >
+  > - **(a)** *In general* In the case of an employer, the teleworking credit determined under this section is an amount equal to—
+  >   - **(1)** the cost of qualified teleworking equipment placed in service by the taxpayer during the taxable year, and
+  >   - **(2)** the amount of expenses paid or incurred by the taxpayer during the taxable year to maintain qualified teleworking equipment.
+  > - **(b)** *Limitation* The credit determined under this section for a taxable year shall not exceed the lesser of—
+  >   - **(1)** $1,000 with respect to each qualified teleworking employee of the employer, or
+  >   - **(2)** $50,000.
+  > - **(c)** *Definitions* For purposes of this section—
+  >   - **(1)** *Qualified teleworking equipment* The term qualified teleworking equipment means telecommunication equipment—
+  >     - **(A)** which is used to enable employees of the taxpayer to telework, and
+  >     - **(B)** the original use of which begins with the taxpayer.
+  >   - **(2)** *Qualified teleworking employee* The term qualified teleworking employee means a teleworking employee who teleworks in any county or group of counties that—
+  >     - **(A)** is not designated by the Office of Management and Budget as either a micropolitan statistical area or metropolitan statistical area,
+  >     - **(B)** is designated by the Office of Management and Budget as a micropolitan statistical area, or
+  >     - **(C)** is designated by the Office of Management and Budget as a metropolitan statistical area with a population of no more than 200,000 people.
+  >   - **(3)** *Teleworking employee* The term teleworking employee means any employee of the taxpayer who performs services for the taxpayer under an arrangement under which the employee teleworks for the taxpayer at least 20 hours per week during the taxable year.
+  >   - **(4)** *Telework* The term telework means to perform work functions using electronic information and communication technologies and thereby reducing or eliminating the physical commute to and from the traditional worksite.
+  > - **(d)** *Special rules*
+  >   - **(1)** *Basis reduction* For purposes of this subtitle, the basis of any property for which a credit is determined under subsection (a) shall be reduced by the amount of credit so determined.
+  >   - **(2)** *Controlled groups* All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as one person for purposes of this section.
+  >   - **(3)** *Recapture* The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit during the useful life of such property.
+  >   - **(4)** *Property used outside united states, etc., not qualified* No credit shall be allowed under subsection (a) with respect to any property referred to in section 50(b) or with respect to expenses related to such property.
+  >   - **(5)** *Election not to take credit* No credit shall be allowed under subsection (a) for any property or expense if the taxpayer elects to have this section not apply with respect to such property or expense.
+  >   - **(6)** *Denial of double benefit* No deduction shall be allowed under this chapter with respect to any expense which is taken into account in determining the credit under this section.
+
+- **(b)** *Conforming amendment* Subsection (a) of section 1016 of such Code is amended by striking “and” at the end of paragraph (36), by striking the period at the end of paragraph (37) and inserting “, and”, and by adding at the end the following new paragraph:
+  > - **(38)** to the extent provided in section 45R(d)(1).
+
+- **(c)** *Credit To be part of general business credit* Section 38(b) of such Code is amended by striking “plus” at the end of paragraph (34), by striking the period at the end of paragraph (35) and inserting “, plus”, and by adding at the end of following new paragraph:
+  > - **(36)** in the case of an employer, the teleworking credit determined under section 45R(a).
+
+- **(d)** *Clerical amendment* The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:
+- **(e)** *Effective date* The amendments made by this section shall apply to property placed in service, and expenses paid or incurred, after the date of the enactment of this Act in taxable years ending after such date.
