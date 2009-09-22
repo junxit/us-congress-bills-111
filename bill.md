@@ -2,7 +2,7 @@
 legis-num: H. RES. 599
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 599
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the park celebrates Paul Revere’s legendary “midnight ride” of April 18, 1775, to warn American colonists that British soldiers were marching to Concord to destroy key military stores; and
 - Whereas more than one million Americans from States across the Nation and people from around the globe visit Minute Man National Historical Park every year to learn about the role that these New England communities played in the American Revolution: Now, therefore, be it
 
-that it is the sense of the House of Representatives that—
+That it is the sense of the House of Representatives that—
 
 - **(1)** Minute Man National Historical Park serves an essential role in preserving the sites and landscapes in New England where the American Revolution began, and in educating the public about these historic events;
 - **(2)** Minute Man National Historical Park honors and commemorates the ideals of democracy, liberty, and freedom that are the foundation of the Nation and sources of inspiration for people everywhere; and
