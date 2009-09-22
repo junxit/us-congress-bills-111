@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2802
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 1 of Public Law 107–62 is amended by adding after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in section 1(c), by striking “(40 U.S.C. 1001, et seq.)” and inserting “(40 U.S.C. 8901, et seq.)”; | the bill names no machine-readable US Code section |
-| — | replace | in section 1(e), by striking “(40 U.S.C. 1001, et seq.)” and inserting “(40 U.S.C. 8901, et seq.)”; and | the bill names no machine-readable US Code section |
+| — | replace | Section 1(c) of Public Law 107–62 is amended by striking “accordance with” and all that follows through the period at the end and inserting the following: “accordance with chapter 89 of title 40, United States Code, except that any refer… | the bill names no machine-readable US Code section |
+| — | replace | in section 1(e), by striking “(40 U.S.C. 1001, et seq.)” and inserting “(40 U.S.C. 8901 et seq.)”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 2, by striking “(40 U.S.C. 1002)” and inserting “(40 U.S.C. 8902(a))”. | the bill names no machine-readable US Code section |
