@@ -2,7 +2,7 @@
 legis-num: H. RES. 441
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 441
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Joel Kolmer, ASC, Shirley Kolmer, ASC, Kathleen McGuire, ASC, Agnes Mueller, ASC, and Barbara Ann Muttra, ASC were martyred in Liberia in 1992;
 - Whereas Dorothy Stang, SNDdeN was martyred in Brazil in 2005;
 - Whereas Catholic sisters established the Nation’s largest private school system and founded more than 110 United States colleges and universities, educating millions of young people in the United States;
-- Whereas there were approximately 32,000 Catholic sisters in the United States who taught 400,000 children in 2,000 parochial schools by 1880, and there were 180,000 Catholic sisters who taught nearly 4,500,000 children 1965;
+- Whereas there were approximately 32,000 Catholic sisters in the United States who taught 400,000 children in 2,000 parochial schools by 1880, and there were 180,000 Catholic sisters who taught nearly 4,500,000 children by 1965;
 - Whereas today, there are approximately 59,000 Catholic sisters in the United States;
 - Whereas Catholic sisters participated in the opening of the West, traveling vast distances to minister in remote locations, setting up schools and hospitals, and working among native populations on distant reservations;
 - Whereas more than 600 sisters from 21 different religious communities nursed both Union and Confederate soldiers alike during the Civil War;
