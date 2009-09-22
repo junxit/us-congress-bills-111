@@ -1,7 +1,7 @@
 ---
 measure: S. 806
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 806
@@ -16,9 +16,10 @@ Federal Executive Board Authorization Act of 2009
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Federal Executive Board Authorization Act of 2009
 - 2009-04-02 — Introduced in Senate
 - 2009-04-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S4355-4356)
 - 2009-04-02 — Sponsor introductory remarks on measure. (CR S4355)
+- 2009-04-23 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-77.
+- 2009-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-77.
+- 2009-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.
