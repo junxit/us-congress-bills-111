@@ -49,5 +49,10 @@ This Act may be cited as the “Unemployment Compensation Extension Act of 2009�
 - **(a)** *In general* Section 453A(b)(1)(A) of the Social Security Act (42 U.S.C. 653a(b)(1)(A)) is amended by inserting “the date services for remuneration were first performed by the employee,” after “of the employee,”.
 - **(b)** *Reporting format and method* Section 453A(c) of the Social Security Act (42 U.S.C. 653a(c)) is amended by inserting “, to the extent practicable,” after “Each report required by subsection (b) shall”.
 - **(c)** *Effective date*
-  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall take effect six months after the date of enactment of this Act.
+  - **(1)** *In general* Subject to paragraph (2), the amendments made by this section shall take effect 6 months after the date of enactment of this Act.
   - **(2)** *Compliance transition period* If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
+
+## § 5. Collection in all States of unemployment compensation due to fraud
+
+- **(a)** *In general* Subsection (f) of section 6402 of the Internal Revenue Code of 1986 is amended by striking paragraph (3) and redesignating paragraphs (4) through (8) as paragraphs (3) through (7), respectively.
+- **(b)** *Effective date* The amendment made by this section shall apply to refunds payable on or after the date of the enactment of this Act.
