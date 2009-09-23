@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3593
@@ -29,3 +29,9 @@ To amend the United States International Broadcasting Act of 1994 to extend by o
 - 2009-09-17 — Introduced in House
 - 2009-09-17 — Introduced in House
 - 2009-09-17 — Referred to the House Committee on Foreign Affairs.
+- 2009-09-23 — Considered under suspension of the rules. (consideration: CR H9823-9824)
+- 2009-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3593.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Ms. Watson moved to suspend the rules and pass the bill.
+- 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9823)
+- 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9823)
