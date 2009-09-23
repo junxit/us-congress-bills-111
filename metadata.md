@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 684
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 684
@@ -16,7 +16,7 @@ Recognizing and honoring Howard University School of Law's 140-year legacy of so
 
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 
-## Cosponsors (30)
+## Cosponsors (32)
 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -48,6 +48,8 @@ Recognizing and honoring Howard University School of Law's 140-year legacy of so
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
 ## Committees (1)
 
@@ -58,3 +60,9 @@ Recognizing and honoring Howard University School of Law's 140-year legacy of so
 - 2009-07-28 — Introduced in House
 - 2009-07-28 — Introduced in House
 - 2009-07-28 — Referred to the House Committee on Education and Labor.
+- 2009-09-23 — Considered under suspension of the rules. (consideration: CR H9831-9833)
+- 2009-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 684.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.
+- 2009-09-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H9831)
+- 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H9831)
