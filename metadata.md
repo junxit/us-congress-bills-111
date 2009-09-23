@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3113
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3113
@@ -16,9 +16,10 @@ Upper Elk River Wild and Scenic Study Act
 
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Upper Elk River Wild and Scenic Study Act
 - 2009-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9755)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9755)
+- 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
