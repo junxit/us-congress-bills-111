@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3607
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3607
@@ -45,3 +45,13 @@ Fiscal Year 2010 Federal Aviation Administration Extension Act
 - 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9836)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9836)
 - 2009-09-23 — Received in the Senate, read twice.
+- 2009-09-24 — Cleared for White House.
+- 2009-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9856)
+- 2009-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9856)
+- 2009-09-25 — Message on Senate action sent to the House.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Presented to President.
+- 2009-10-01 — Became Public Law No: 111-69.
+- 2009-10-01 — Became Public Law No: 111-69.
+- 2009-10-01 — Signed by President.
+- 2009-10-01 — Signed by President.
