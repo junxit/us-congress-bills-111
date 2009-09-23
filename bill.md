@@ -2,12 +2,12 @@
 legis-num: H. RES. 733
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 733
 
-> Expressing condolences to the people and government of the Republic of China (Taiwan) in the aftermath of the devastating typhoon that struck the central and southern regions of the island on August 8, 2009.
+> A resolution expressing condolences to the people and Government of Taiwan in the aftermath of the devastating typhoon that struck the central and southern regions of the island on August 8, 2009.
 
 ## Preamble
 
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** mourns the terrible loss of life caused by Typhoon Morakot that occurred on August 8, 2009, in the Republic of China (Taiwan);
+- **(1)** mourns the terrible loss of life caused by Typhoon Morakot that occurred on August 8, 2009, in Taiwan;
 - **(2)** expresses its deepest condolences to the families of the many victims;
 - **(3)** recognizes the deep ties between the United States and Taiwan and expresses continued solidarity with its people during this time of crisis; and
 - **(4)** expresses gratitude to the people of the United States who have generously supported those humanitarian aid agencies working to assist the people of Taiwan in this time of need.
