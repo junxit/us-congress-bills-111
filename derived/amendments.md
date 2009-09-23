@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3607
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,12 +34,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (B) of section 4081(d)(2) of the Internal Revenue Code of 1986 is amended by striking “September 30, 2009” and inserting “December 31, 2009”. | the bill names no machine-readable US Code section |
 | — | replace | Clause (ii) of section 4261(j)(1)(A) of the Internal Revenue Code of 1986 is amended by striking “September 30, 2009” and inserting “December 31, 2009”. | the bill names no machine-readable US Code section |
 | — | replace | Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “September 30, 2009” and inserting “December 31, 2009”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “October 1, 2009” and inserting “January 1, 2010”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “October 1, 2009” and inserting “January 1, 2010”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or the Fiscal Year 2010 Federal Aviation Administration Extension Act” before the semicolon at the end of subparagraph (A). | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 9502(e) of such Code is amended by striking “October 1, 2009” and inserting “January 1, 2010”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47104(c) of such title is amended by striking “September 30, 2009,” and inserting “December 31, 2009,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 40117(l)(7) of title 49, United States Code, is amended by striking “October 1, 2009.” and inserting “January 1, 2010.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 41743(e)(2) of such title is amended by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
@@ -55,10 +55,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 409(d) of such Act (49 U.S.C. 41731 note) is amended by striking “September 30, 2009.” and inserting “September 30, 2010.”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (12); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (13) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

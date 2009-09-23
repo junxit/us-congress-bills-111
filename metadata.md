@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3607
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3607
@@ -16,13 +16,14 @@ Fiscal Year 2010 Federal Aviation Administration Extension Act
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Lewis, John [D-GA-5] (L000287)
 
 ## Committees (2)
 
@@ -36,3 +37,11 @@ Fiscal Year 2010 Federal Aviation Administration Extension Act
 - 2009-09-21 — Referred to House Transportation and Infrastructure
 - 2009-09-21 — Referred to House Ways and Means
 - 2009-09-21 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-22 — Referred to the Subcommittee on Aviation.
+- 2009-09-23 — Considered under suspension of the rules. (consideration: CR H9835-9837)
+- 2009-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3607.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9836)
+- 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9836)
+- 2009-09-23 — Received in the Senate, read twice.

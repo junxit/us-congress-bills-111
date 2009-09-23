@@ -24,7 +24,7 @@ This Act may be cited as the “Fiscal Year 2010 Federal Aviation Administration
 ## § 3. Extension of Airport and Airway Trust Fund expenditure authority
 
 - **(a)** *In general* Paragraph (1) of section 9502(d) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by striking “October 1, 2009” and inserting “January 1, 2010”, and
+  - **(1)** by striking “October 1, 2009” and inserting “January 1, 2010”; and
   - **(2)** by inserting “or the Fiscal Year 2010 Federal Aviation Administration Extension Act” before the semicolon at the end of subparagraph (A).
 - **(b)** *Conforming amendment* Paragraph (2) of section 9502(e) of such Code is amended by striking “October 1, 2009” and inserting “January 1, 2010”.
 - **(c)** *Effective date* The amendments made by this section shall take effect on October 1, 2009.
