@@ -1,7 +1,7 @@
 ---
 measure: H.R. 860
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

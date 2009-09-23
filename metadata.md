@@ -1,7 +1,7 @@
 ---
 measure: H.R. 860
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 860
@@ -38,9 +38,10 @@ Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009
 - 2009-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9744-9748)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9744-9748)
+- 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
