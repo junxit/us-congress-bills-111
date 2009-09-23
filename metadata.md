@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3614

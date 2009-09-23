@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 11… | the bill names no machine-readable US Code section |
 | — | strike | Section 506(c) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “but shall not include” and all that follows through “enactment of this Act”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 355 of the Small Business Investment Act of 1958 (15 U.S.C. 689d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 689d` | add-at-end | Section 355 of the Small Business Investment Act of 1958 (15 U.S.C. 689d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
