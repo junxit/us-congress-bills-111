@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2741
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2741
@@ -16,9 +16,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2009-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9757)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9757)
+- 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
