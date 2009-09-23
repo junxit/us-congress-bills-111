@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1035
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1035
@@ -50,3 +50,13 @@ Morris K. Udall Scholarship and Excellence in National Environmental Policy Amen
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/27/2009 H8834)
 - 2009-07-29 — Received in the Senate.
 - 2009-08-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-09-23 — Amendment SA 2546 agreed to in Senate by Unanimous Consent.
+- 2009-09-23 — Amendment SA 2546 proposed by Senator Feinstein for Senator Bingaman. (consideration: CR S9757; text: CR S9757) To strike the authorization of appropriations.
+- 2009-09-23 — Measure laid before Senate by unanimous consent. (consideration: CR S9757)
+- 2009-09-23 — Passed Senate with an amendment by Unanimous Consent. (text: CR S9757)
+- 2009-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S9757)
+- 2009-09-23 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2009-09-23 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2009-09-23 — Senate amendment agreed to: Amendment SA 2546 agreed to in Senate by Unanimous Consent.
+- 2009-09-23 — Senate amendment proposed (on the floor): Amendment SA 2546 proposed by Senator Feinstein for Senator Bingaman.(consideration: CR S9757; text: CR S9757)
+- 2009-09-23 — Senate amendment submitted
