@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6553) is amended by striking “October 1, 2009” and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6553) is amended by striking “October 1, 2009” and inserting “October 1, 2010”. | the bill names no machine-readable US Code section |

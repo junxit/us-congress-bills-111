@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2131
@@ -41,3 +41,9 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Introduced in House
 - 2009-04-27 — Referred to the House Committee on Foreign Affairs.
+- 2009-09-23 — Considered under suspension of the rules. (consideration: CR H9826-9827)
+- 2009-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2131.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Ms. Watson moved to suspend the rules and pass the bill, as amended.
+- 2009-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9827)
+- 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9827)
