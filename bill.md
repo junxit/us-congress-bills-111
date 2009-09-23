@@ -62,7 +62,7 @@ In this Act:
   - **(1)** *In general* Not later than 3 years after the date on which funds are first made available to develop the management plan after designation as a National Heritage Area, the local coordinating entity shall submit the management plan to the Secretary for approval.
   - **(2)** *Termination of funding* If the management plan is not submitted to the Secretary in accordance with paragraph (1), the local coordinating entity shall not qualify for any additional financial assistance under this Act until such time as the management plan is submitted to and approved by the Secretary.
 - **(c)** *Approval of Management Plan*
-  - **(1)** *Review* Not later than 180 days after receiving the plan, the Secretary shall review and approve or disapprove the management plan for a National Heritage Area on the basis of the criteria established under paragraph (3).
+  - **(1)** *Review* Not later than 180 days after receiving the plan, the Secretary, in consultation with the Secretary of Homeland Security, shall review and approve or disapprove the management plan for a National Heritage Area on the basis of the criteria established under paragraph (3).
   - **(2)** *Consultation* The Secretary shall consult with the Governor of each State in which the National Heritage Area is located before approving a management plan for the National Heritage Area.
   - **(3)** *Criteria for approval* In determining whether to approve a management plan for a National Heritage Area, the Secretary shall consider whether—
     - **(A)** the local coordinating entity represents the diverse interests of the National Heritage Area, including Federal, State, Tribal, and local governments, natural and historic resource protection organizations, educational institutions, businesses, recreational organizations, community residents, and private property owners;
@@ -129,19 +129,22 @@ In this Act:
 - **(b)** *Consultation and coordination* The head of any Federal agency planning to conduct activities that may have an impact on a National Heritage Area is encouraged to consult and coordinate the activities with the Secretary and the local coordinating entity to the maximum extent practicable.
 - **(c)** *Other federal agencies* Nothing in this Act—
   - **(1)** modifies, alters, or amends any law or regulation authorizing a Federal agency to manage Federal land under the jurisdiction of the Federal agency;
-  - **(2)** limits the discretion of a Federal land manager to implement an approved land use plan within the boundaries of a National Heritage Area; or
-  - **(3)** modifies, alters, or amends any authorized use of Federal land under the jurisdiction of a Federal agency.
+  - **(2)** limits the discretion of a Federal land manager to implement an approved land use plan within the boundaries of a National Heritage Area;
+  - **(3)** modifies, alters, or amends any authorized use of Federal land under the jurisdiction of a Federal agency; or
+  - **(4)** modifies, restricts, impedes, hinders, or supplants any border enforcement or security authority, including drug interdiction and illegal immigration control.
 
 ## § 9. Private property and regulatory protections
 
-Nothing in this Act—
-
-- **(1)** abridges the rights of any property owner (whether public or private), including the right to refrain from participating in any plan, project, program, or activity conducted within the National Heritage Area;
-- **(2)** requires any property owner to permit public access (including access by Federal, State, Tribal, or local agencies) to the property of the property owner, or to modify public access or use of property of the property owner under any other Federal, State, Tribal, or local law;
-- **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, Tribal, or local agency, or conveys any land use or other regulatory authority to any local coordinating entity, including but not necessarily limited to development and management of energy, water, or water-related infrastructure;
-- **(4)** authorizes or implies the reservation or appropriation of water or water rights;
-- **(5)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the National Heritage Area; or
-- **(6)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
+- **(a)** *Clarification* Nothing in this Act—
+  - **(1)** abridges the rights of any property owner (whether public or private), including the right to refrain from participating in any plan, project, program, or activity conducted within the National Heritage Area;
+  - **(2)** requires any property owner to permit public access (including access by Federal, State, Tribal, or local agencies) to the property of the property owner, or to modify public access or use of property of the property owner under any other Federal, State, Tribal, or local law;
+  - **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, Tribal, or local agency, or conveys any land use or other regulatory authority to any local coordinating entity, including but not necessarily limited to development and management of energy, water, or water-related infrastructure;
+  - **(4)** authorizes or implies the reservation or appropriation of water or water rights;
+  - **(5)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the National Heritage Area; or
+  - **(6)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
+- **(b)** *Private property owner protection*
+  - **(1)** No privately owned property shall be preserved, conserved, or promoted by the management plan for the National Heritage Area until the owner of that private property has been notified in writing by the management entity and has given written consent for such preservation, conservation, or promotion to the management entity.
+  - **(2)** Any owner of private property included within the boundary of the National Heritage Area shall have their property immediately removed from within the boundary by submitting a written request to the management entity.
 
 ## § 10. Authorization of appropriations
 
@@ -156,3 +159,7 @@ Nothing in this Act shall preclude the local coordinating entity from using Fede
 ## § 12. Sunset for grants and other assistance
 
 The authority of the Secretary to provide financial assistance under this Act terminates on the date that is 15 years after the date of enactment of this Act.
+
+## § 13. Border security
+
+Nothing in this Act may impede, prohibit, or restrict activities of the Secretary of Homeland Security to achieve operational control (as defined under Public Law 109–367) within the National Heritage Area.
