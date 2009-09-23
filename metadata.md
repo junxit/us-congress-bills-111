@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2522
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2522
@@ -20,9 +20,10 @@ To raise the ceiling on the Federal share of the cost of the Calleguas Municipal
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To raise the ceiling on the Federal share of the cost of the Calleguas Municipal
 - 2009-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2009-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9757)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9757)
+- 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
