@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1080
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1080
@@ -34,9 +34,10 @@ Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2009
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2009
 - 2009-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9751-9754)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9751-9754)
+- 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
