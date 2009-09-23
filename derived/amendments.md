@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -108,7 +108,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 1906(e)(1) of SAFETEA–LU (23 U.S.C. 402 note; 119 Stat. 1469) is amended by inserting before the period at the end the following: “and $1,875,000 for the period referred to in section 1(b) of the Surface Transportation Extension … | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1943(b) of SAFETEA–LU (119 Stat. 1512) is amended by striking “and $3,000,000 for fiscal year 2009” and inserting “, $3,000,000 for fiscal year 2009, and $750,000 for the period referred to in section 1(b) of the Surface Transpor… | the bill names no machine-readable US Code section |
 | — | insert | Section 332(e)(2) of title 49, United States Code, is amended by inserting after “2009” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | insert | Section 309(j)(1) of the Denali Commission Act of 1998 (42 U.S.C. 3121 note) is amended by inserting before the period at the end the following: “and $3,750,000 for the period referred to in section 1(b) of the Surface Transportation Ext… | the bill names no machine-readable US Code section |
@@ -171,10 +171,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (b)(2) by inserting after “2009” the following: “and $500,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting after “2009” the following: “, and $3,750,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4) by inserting “or for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009” after “fiscal year”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking the period at the end and inserting “and $6,250,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009.”; | the bill names no machine-readable US Code section |
@@ -186,7 +186,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 31313(b)(2) of such title is amended by inserting “or for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009” after “fiscal year”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 4127(e) of such Act (119 Stat. 1741) is amended by inserting after “2009” the following: “(and, in the case of the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009, $250,000 to the Federal Mo… | the bill names no machine-readable US Code section |
 | — | insert | Section 4134(c) of such Act (119 Stat. 1744) is amended by inserting after “2009” the following: “and $250,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4146 of such Act (119 Stat. 1749) is amended by striking “at the end of fiscal year 2009” and inserting “on the last day of the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
@@ -211,7 +211,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 5337(a) of such title is amended by striking “2009” and inserting “2009 and the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009 (with 3/12 of each of the dollar amounts listed in paragraphs … | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (C); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (D) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after “2008,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, and $28,375,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009” after “2009”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after “2008,”; and | the bill names no machine-readable US Code section |
@@ -242,7 +242,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, and $2,200,000 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009” after “2009”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after “2008,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and $17,437,500 for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009,” after “2009,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after “2008,”; and | the bill names no machine-readable US Code section |
@@ -254,14 +254,14 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (1)(E) by inserting “, and $250,000 shall be allocated for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009,” after “each fiscal year”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 3009(i)(1) of SAFETEA–LU (119 Stat. 1572) is amended by inserting after “2009” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3011(c)(5) of SAFETEA–LU (49 U.S.C. 5309 note; 119 Stat. 1588) is amended by inserting after “2009” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3011(d) of SAFETEA–LU (49 U.S.C. 5309 note) is amended by inserting after “2009” the following: “and in the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3012(b)(8) of SAFETEA–LU (49 U.S.C. 5310 note) is amended by striking “September 30, 2009” and inserting “the last day of the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 3043(b) of SAFETEA–LU (119 Stat. 1641) is amended in the matter preceding paragraph (1) by inserting after “2009” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3043(c) of SAFETEA–LU (119 Stat. 1642) is amended in the matter preceding paragraph (1) by inserting after “2009” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3 of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777b) is amended by inserting after “1984,” the following: “and for the period referred to in section 1(b) of the Surface Transportation Extension Act of 2009,”. | the bill names no machine-readable US Code section |
@@ -278,7 +278,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 14(e) of such Act (16 U.S.C. 777m(e)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |

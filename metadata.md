@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3617
@@ -30,6 +30,10 @@ Surface Transportation Extension Act of 2009
 - House — Natural Resources Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2009-09-23 — [House 111-1-731](votes/house-111-1-0731.md) — On Motion to Suspend the Rules and Pass — **Passed** (335–85)
+
 ## Actions
 
 - 2009-09-22 — Introduced in House
@@ -39,3 +43,11 @@ Surface Transportation Extension Act of 2009
 - 2009-09-22 — Referred to House Transportation and Infrastructure
 - 2009-09-22 — Referred to House Ways and Means
 - 2009-09-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, Natural Resources, and Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-23 — Considered under suspension of the rules. (consideration: CR H9855-9865, H9866-9868)
+- 2009-09-23 — DEBATE - The House continued with further debate on H.R. 3617.
+- 2009-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3617.
+- 2009-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-23 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 335 - 85 (Roll no. 731). (text: CR H9855-9861)
+- 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 335 - 85 (Roll no. 731).(text: CR H9855-9861)
+- 2009-09-23 — Referred to the Subcommittee on Highways and Transit.
