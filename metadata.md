@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 136
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 136
@@ -41,9 +41,10 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -63,3 +64,5 @@ Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 - 2009-09-09 — Ms. Norton moved to suspend the rules and agree to the resolution.
 - 2009-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H9366)
 - 2009-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H9366)
+- 2009-09-10 — Received in the Senate.
+- 2009-09-24 — Referred to the Committee on Rules and Administration.

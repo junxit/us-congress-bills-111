@@ -2,14 +2,14 @@
 legis-num: H. CON. RES. 136
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 136
 
 > Authorizing the use of the Capitol Grounds for a celebration of Citizenship Day.
 
-## § 1. Use of capitol grounds to celebrate citizenship day
+## § 1. Use of Capitol grounds to celebrate citizenship day
 
 - **(a)** *In general* The National Korean American Service and Education Consortium (in this resolution referred to as the “sponsor”) shall be permitted to sponsor a public event (in this resolution referred to as the “event”) on the Capitol Grounds to celebrate Citizenship Day.
 - **(b)** *Date of event* The event shall be held on September 17, 2009, or on such other day as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate jointly designate.
