@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 74
@@ -66,9 +66,10 @@ Supporting the goals and ideals of a decade of action for road safety with a glo
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ Supporting the goals and ideals of a decade of action for road safety with a glo
 - 2009-09-23 — Ms. Watson moved to suspend the rules and agree to the resolution, as amended.
 - 2009-09-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H9827-9828)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H9827-9828)
+- 2009-09-24 — Received in the Senate and referred to the Committee on Foreign Relations.
