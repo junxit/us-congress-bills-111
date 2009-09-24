@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2996
@@ -16,12 +16,167 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 
+## Cosponsors (152)
+
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Thune, John [R-SD] (T000250)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (9)
+## Recorded votes (19)
 
 - 2009-06-26 — [House 111-1-467](votes/house-111-1-0467.md) — On Agreeing to the Amendment — **Failed** (202–225)
 - 2009-06-26 — [House 111-1-468](votes/house-111-1-0468.md) — On Agreeing to the Amendment — **Failed** (169–259)
@@ -32,6 +187,16 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-06-26 — [House 111-1-473](votes/house-111-1-0473.md) — On Agreeing to the Amendment — **Failed** (131–296)
 - 2009-06-26 — [House 111-1-474](votes/house-111-1-0474.md) — On Agreeing to the Amendment — **Failed** (114–317)
 - 2009-06-26 — [House 111-1-475](votes/house-111-1-0475.md) — On Passage — **Passed** (254–173)
+- 2009-09-17 — [Senate 111-1-289](votes/senate-111-1-0289.md) — On the Amendment — **Amendment Agreed to** (85–11)
+- 2009-09-22 — [Senate 111-1-290](votes/senate-111-1-0290.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2009-09-22 — [Senate 111-1-291](votes/senate-111-1-0291.md) — On the Amendment — **Amendment Rejected** (27–70)
+- 2009-09-22 — [Senate 111-1-292](votes/senate-111-1-0292.md) — On the Motion — **Motion Agreed to** (61–36)
+- 2009-09-23 — [Senate 111-1-293](votes/senate-111-1-0293.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2009-09-23 — [Senate 111-1-294](votes/senate-111-1-0294.md) — On the Motion to Table — **Motion to Table Agreed to** (72–26)
+- 2009-09-24 — [Senate 111-1-295](votes/senate-111-1-0295.md) — On the Motion to Table — **Motion to Table Agreed to** (57–41)
+- 2009-09-24 — [Senate 111-1-296](votes/senate-111-1-0296.md) — On the Motion to Table — **Motion to Table Agreed to** (64–34)
+- 2009-09-24 — [Senate 111-1-297](votes/senate-111-1-0297.md) — On the Motion to Table — **Motion to Table Agreed to** (79–19)
+- 2009-09-24 — [Senate 111-1-298](votes/senate-111-1-0298.md) — On Passage of the Bill — **Bill Passed** (77–21)
 
 ## Actions
 
@@ -156,3 +321,292 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-07-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 111-38.
 - 2009-07-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 111-38.
 - 2009-07-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
+- 2009-09-15 — Senate amendment submitted
+- 2009-09-17 — Amendment SA 2394 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 289.
+- 2009-09-17 — Amendment SA 2394 proposed by Senator Johanns. (consideration: CR S9517-9519, S9541-9542; text: CR S9517) Prohibiting use of funds to fund the Association of Community Organizations for Reform Now (ACORN).
+- 2009-09-17 — Measure laid before Senate by unanimous consent. (consideration: CR S9499-9520, S9541-9545; text of measure as reported in Senate: CR S9500-9514)
+- 2009-09-17 — Roll call votes on amendments in Senate: Amendment SA 2394 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 289.
+- 2009-09-17 — Senate amendment agreed to: Amendment SA 2394 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 289.
+- 2009-09-17 — Senate amendment proposed (on the floor): Amendment SA 2394 proposed by Senator Johanns.(consideration: CR S9517-9519, S9541-9542; text: CR S9517)
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-17 — Senate amendment submitted
+- 2009-09-21 — Amendment SA 2456 proposed by Senator Carper. (consideration: CR S9582-9583; text: CR S9582) To require the Administrator of the Environmental Protection Agency to conduct a study on black carbon emissions.
+- 2009-09-21 — Amendment SA 2460 proposed by Senator Feinstein. (consideration: CR S9581, S9583; text: CR S9581; text as modified: CR S9583) To support the participation of the Smithsonian Institution in activities under the Civil Rights History Project Act of 2009.
+- 2009-09-21 — Considered by Senate. (consideration: CR S9578-9583)
+- 2009-09-21 — Senate amendment proposed (on the floor): Amendment SA 2456 proposed by Senator Carper.(consideration: CR S9582-9583; text: CR S9582)
+- 2009-09-21 — Senate amendment proposed (on the floor): Amendment SA 2460 proposed by Senator Feinstein.(consideration: CR S9581, S9583; text: CR S9581; text as modified: CR S9583)
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-21 — Senate amendment submitted
+- 2009-09-22 — Amendment SA 2460 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 290.
+- 2009-09-22 — Amendment SA 2461 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 291.
+- 2009-09-22 — Amendment SA 2461 proposed by Senator McCain. (consideration: CR S9636-9637, S9642, S9645-9646; text: CR S9636) To prohibit the use of appropriated funds for the Des Moines Art Center in the State of Iowa.
+- 2009-09-22 — Amendment SA 2471 agreed to in Senate by Voice Vote.
+- 2009-09-22 — Amendment SA 2471 proposed by Senator Barrasso. (consideration: CR S9638-9639; text: CR S9639) To prohibit the use of wildland fire management stimulus funds in the District of Columbia.
+- 2009-09-22 — Amendment SA 2494 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9645)
+- 2009-09-22 — Amendment SA 2494 proposed by Senator Reid. (consideration: CR S9635-9636, S9645; text: CR S9635) To provide for an evaluation of the aquifers in the area of the Jungo Disposal Site in Humboldt County, Nevada.
+- 2009-09-22 — Amendment SA 2498 proposed by Senator Collins. (consideration: CR S9642-9645; text: CR S9642-9643) To provide that no funds may be used for the administrative expenses of any official identified by the President to serve in a position without express statutory authorization and which is responsible for the interagency development or coordination of any rule, regulation, or policy unless the President certifies to Congress that such official will respond to all reasonable requests to testify before, or provide information to, any congressional committee with jurisdiction over such matters, and such official submits certain reports biannually to Congress.
+- 2009-09-22 — Amendment SA 2500 proposed by Senator DeMint to the motion to recommit. (consideration: CR S9641-9642, S9646; text: CR S9641) DeMint motion to commit the bill to the Committee on Appropriations, with instructions to report the same back to the Senate forthwith with DeMint Amendment No. 2500, relating to the Secretary of the Interior and water allocations.
+- 2009-09-22 — Amendment SA 2504 proposed by Senator Isakson. (consideration: CR S9645; text: CR S9645; text as modified: CR S9645) To encourage the participation of the National Park Service in activities preserving the papers and teachings of Dr. Martin Luther King, Jr., under the Civil Rights History Project Act of 2009.
+- 2009-09-22 — Amendment SA 2508 proposed by Senator Vitter to the motion to recommit. (consideration: CR S9646-9648; text: CR S9647) To prohibit the use of funds to delay the implementation of the Draft Proposed Outer Continental Shelf Oil and Gas Leasing Program 2010-2015.
+- 2009-09-22 — Cloture motion on the bill presented in Senate. (consideration: CR S9690; text: CR S9690)
+- 2009-09-22 — Cloture motion on the committee substitute amendment presented in Senate. (consideration: CR S9690)
+- 2009-09-22 — Considered by Senate. (consideration: CR S9634)
+- 2009-09-22 — Considered by Senate. (consideration: CR S9634-9635)
+- 2009-09-22 — Considered by Senate. (consideration: CR S9634-9635, S9635-9648, S9690)
+- 2009-09-22 — Motion by Senator DeMint to recommit to Senate Committee on Appropriations with instructions that the commitee report back forthwith the following amendment (SA2500) made in Senate. (consideration: CR S9641; text: CR S9641)
+- 2009-09-22 — Motion by Senator DeMint to recommit to Senate Committee on Appropriations with instructions that the committee report back forthwith with the following amendment (SA 2500) tabled in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 292.
+- 2009-09-22 — Motion by Senator Vitter to recommit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 2508) made in Senate. (consideration: CR S9646)
+- 2009-09-22 — Roll call votes on amendments in Senate: Amendment SA 2460 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 290.
+- 2009-09-22 — Roll call votes on amendments in Senate: Amendment SA 2461 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 291.
+- 2009-09-22 — SA 2500 fell when the DeMint motion to recommit was tabled.
+- 2009-09-22 — Senate amendment agreed to: Amendment SA 2460 as modified agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 290.
+- 2009-09-22 — Senate amendment agreed to: Amendment SA 2471 agreed to in Senate by Voice Vote.
+- 2009-09-22 — Senate amendment agreed to: Amendment SA 2494 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9645)
+- 2009-09-22 — Senate amendment not agreed to: Amendment SA 2461 not agreed to in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 291.
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2461 proposed by Senator McCain.(consideration: CR S9636-9637, S9642, S9645-9646; text: CR S9636)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2471 proposed by Senator Barrasso.(consideration: CR S9638-9639; text: CR S9639)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2494 proposed by Senator Reid.(consideration: CR S9635-9636, S9645; text: CR S9635)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2498 proposed by Senator Collins.(consideration: CR S9642-9645; text: CR S9642-9643)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2500 proposed by Senator DeMint to the motion to recommit.(consideration: CR S9641-9642, S9646; text: CR S9641)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2504 proposed by Senator Isakson.(consideration: CR S9645; text: CR S9645; text as modified: CR S9645)
+- 2009-09-22 — Senate amendment proposed (on the floor): Amendment SA 2508 proposed by Senator Vitter to the motion to recommit.(consideration: CR S9646-9648; text: CR S9647)
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-23 — Amendment SA 2514 proposed by Senator Feinstein for Senator McCaskill. (consideration: CR S9723-9724, S9725; text: CR S9723) To strike the earmarks for the Save America's Treasure program and to provide criteria for the distribution of grants under that program.
+- 2009-09-23 — Considered by Senate. (consideration: CR S9706)
+- 2009-09-23 — Considered by Senate. (consideration: CR S9706)
+- 2009-09-23 — Considered by Senate. (consideration: CR S9706)
+- 2009-09-23 — Considered by Senate. (consideration: CR S9706, S9724)
+- 2009-09-23 — Considered by Senate. (consideration: CR S9706-9727)
+- 2009-09-23 — Motion by Senator Vitter to recommit to Senate Committee on Appropriations tabled in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 293. (consideration: CR S9706, S9724)
+- 2009-09-23 — Motion to table amendment SA 2514 agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 294. (consideration: CR S9725)
+- 2009-09-23 — Roll call votes on amendments in Senate: Motion to table amendment SA 2514 agreed to in Senate by Yea-Nay Vote. 72 - 26. Record Vote Number: 294.(consideration: CR S9725)
+- 2009-09-23 — SA 2508 fell when the Vitter motion to recommit was tabled. (consideration: CR S9724)
+- 2009-09-23 — Senate amendment proposed (on the floor): Amendment SA 2514 proposed by Senator Feinstein for Senator McCaskill.(consideration: CR S9723-9724, S9725; text: CR S9723)
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-23 — Senate amendment submitted
+- 2009-09-24 — Amendment SA 2441 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2441 proposed by Senator Dorgan. (consideration: CR S9807; text: CR S9807) To provide for the inclusion of property in, or removal of property from, the Northern Plains Heritage Area.
+- 2009-09-24 — Amendment SA 2445 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2445 proposed by Senator Feinstein for Senator Inhofe. (consideration: CR S9811) To provide for the expedited cleanup of the Tar Creek Superfund Site.
+- 2009-09-24 — Amendment SA 2463 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2463 proposed by Senator Coburn. (consideration: CR S9799; text: CR S9799) To require public disclosure of certain reports.
+- 2009-09-24 — Amendment SA 2482 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9806)
+- 2009-09-24 — Amendment SA 2482 proposed by Senator Coburn. (consideration: CR S9800, S9806; text: CR S9800) To protect property owners from being included without their knowledge or consent in any Federal preservation and promotion activities of any National Heritage Area.
+- 2009-09-24 — Amendment SA 2483 proposed by Senator Coburn. (consideration: CR S9799-9800, S9803-9804, S9807; text: CR S9800) To help preserve America's national parks and other public land treasures by reducing maintenance backlogs that threaten the health and safety of visitors.
+- 2009-09-24 — Amendment SA 2491 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9773-9774)
+- 2009-09-24 — Amendment SA 2491 proposed by Senator Feinstein for Senator Bingaman. (consideration: CR S9769-9775) To modify the composition of the Board of Directors to the National Forest Foundation.
+- 2009-09-24 — Amendment SA 2492 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2492 proposed by Senator Feinstein for Senator Bingaman. (consideration: CR S9769-9772, text: CR S9772) To provide funds for the Collaborative Forest Landscape Restoration Fund, with an offset.
+- 2009-09-24 — Amendment SA 2493 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9774-9775)
+- 2009-09-24 — Amendment SA 2493 proposed by Senator Feinstein for Senator Bingaman. (consideration: CR S9769-9775) To provide funds for the Flame Fund.
+- 2009-09-24 — Amendment SA 2495 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2495 proposed by Senator Feinstein for Senator Schumer. (consideration: CR S9769-9775; text: CR S9774) To support the Pest and Disease Revolving Loan Fund.
+- 2009-09-24 — Amendment SA 2498 ruled non-germane by the chair. (consideration: CR S9799)
+- 2009-09-24 — Amendment SA 2501 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2501 proposed by Senator Feinstein for Senator Risch. (consideration: CR S9769-9772; text: CR S9772) To provide for the use of certain funds for the Upper Snake/South Fork River Area of Critical Concern.
+- 2009-09-24 — Amendment SA 2504 as modified agreed to in Senate by Unanimous Consent. (text as further modified: CR S9804)
+- 2009-09-24 — Amendment SA 2505 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2505 proposed by Senator Feinstein for Senator Carper. (consideration: CR S9769-9772; text: CR S9772) To require the Administrator of the Environmental Protection Agency to conduct a study on black carbon emissions.
+- 2009-09-24 — Amendment SA 2507 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2507 proposed by Senator Feinstein for Senator Tester. (consideration: CR S9769-9775; text: CR S9774) To limit the increase in cabin user fees, with an offset.
+- 2009-09-24 — Amendment SA 2509 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2509 proposed by Senator Feinstein for Senator Roberts. (consideration: CR S9769, S9772-9775; text: CR S9772-9773) To encourage the Administrator of the Environmental Protection Agency to reassess the cost-effectiveness of the buyout and relocation of residents of certain properties of Treece, Kansas.
+- 2009-09-24 — Amendment SA 2511 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9800)
+- 2009-09-24 — Amendment SA 2511 proposed by Senator Coburn. (consideration: CR S9800-9801; text: CR S9800) To prohibit no-bid contracts and grants.
+- 2009-09-24 — Amendment SA 2518 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2518 proposed by Senator Feinstein. (consideration: CR S9769-9775; text: CR S9773) To make technical corrections to certain State and tribal assistance grants.
+- 2009-09-24 — Amendment SA 2519 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2519 proposed by Senator Feinstein. (consideration: CR S9679-9775; text: CR S9773) To extend a special use permit for Drake's Estero at Point Reyes National Seashore, California.
+- 2009-09-24 — Amendment SA 2522 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Amendment SA 2522 proposed by Senator Feinstein for Senator Feingold. (consideration: CR S9769-9775; text: CR S9773) To clarify the authority of the Secretary of Agriculture regarding the coordination of biobased product activities.
+- 2009-09-24 — Amendment SA 2523 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2523 proposed by Senator Coburn. (consideration: CR S9799, S9801-9803; text: CR S9799) To secure our borders and protect our environment.
+- 2009-09-24 — Amendment SA 2527 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2527 proposed by Senator Feinstein for Senator Bennett. (consideration: CR S9804; text: CR S9804) To modify the definition of the term "Beaver Dam Wash National Conservation Area Map".
+- 2009-09-24 — Amendment SA 2531 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2531 proposed by Senator Reid. (consideration: CR S9794, S9807; text: CR S9794) To make funds available for preliminary planning and design of a high-performance green building to consolidate the multiple offices and research facilities of the Environmental Protection Agency in Las Vegas, Nevada.
+- 2009-09-24 — Amendment SA 2534 as modified agreed to in Senate by Voice Vote. (text as modified: CR S9773)
+- 2009-09-24 — Amendment SA 2534 proposed by Senator Feinstein for Senator Whitehouse. (consideration: CR S9769-9775) To express the sense of the Senate that the National Vehicle Mercury Switch Recovery Program is an effective way to address mercury pollution in the United States and should continue.
+- 2009-09-24 — Amendment SA 2535 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Amendment SA 2535 proposed by Senator Feinstein for Senator Barrasso. (consideration: CR S9804; text: CR S9804) To provide for the use of certain funds for an Indian estate planning assistance program.
+- 2009-09-24 — Amendment SA 2549 proposed by Senator Vitter. (consideration: CR S9784-9794, S9805-9806; text: CR S9784) To ensure that the Assistant to the President for Energy and Climate Change (commonly known as the "White House Climate Change Czar") is not directing actions of departments and agencies funded by this Act.
+- 2009-09-24 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S9769)
+- 2009-09-24 — Cloture motion on the committee substitute amendment withdrawn by unanimous consent in Senate. (consideration: CR S9769)
+- 2009-09-24 — Considered by Senate. (consideration: CR S9769)
+- 2009-09-24 — Considered by Senate. (consideration: CR S9769, S9775)
+- 2009-09-24 — Considered by Senate. (consideration: CR S9769, S9794-9799)
+- 2009-09-24 — Considered by Senate. (consideration: CR S9769-9812)
+- 2009-09-24 — Motion by Senator Ensign to recommit to Senate Committee on Appropriations with instructions tabled in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 296. (consideration: CR S9806)
+- 2009-09-24 — Motion to table amendment SA 2483 agreed to in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 297.
+- 2009-09-24 — Motion to table amendment SA 2549 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 295.
+- 2009-09-24 — Passed Senate with an amendment by Yea-Nay Vote. 77 - 21. Record Vote Number: 298. (text: CR 9/25/2009 S9873-9889)
+- 2009-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 77 - 21. Record Vote Number: 298.(text: CR 9/25/2009 S9873-9889)
+- 2009-09-24 — Point of order raised in Senate with respect to amendment SA 2498. (consideration: CR S9799)
+- 2009-09-24 — Proposed amendment SA 2456 withdrawn in Senate. (consideration: CR S9775)
+- 2009-09-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 2483 agreed to in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 297.
+- 2009-09-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 2549 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 295.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2441 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2445 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2463 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2482 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9806)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2491 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9773-9774)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2492 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2493 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9774-9775)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2495 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2501 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2504 as modified agreed to in Senate by Unanimous Consent.(text as further modified: CR S9804)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2505 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2507 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2509 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2511 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9800)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2518 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2519 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2522 agreed to in Senate by Voice Vote.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2523 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2527 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2531 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2534 as modified agreed to in Senate by Voice Vote.(text as modified: CR S9773)
+- 2009-09-24 — Senate amendment agreed to: Amendment SA 2535 agreed to in Senate by Unanimous Consent.
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2441 proposed by Senator Dorgan.(consideration: CR S9807; text: CR S9807)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2445 proposed by Senator Feinstein for Senator Inhofe.(consideration: CR S9811)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2463 proposed by Senator Coburn.(consideration: CR S9799; text: CR S9799)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2482 proposed by Senator Coburn.(consideration: CR S9800, S9806; text: CR S9800)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2483 proposed by Senator Coburn.(consideration: CR S9799-9800, S9803-9804, S9807; text: CR S9800)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2491 proposed by Senator Feinstein for Senator Bingaman.(consideration: CR S9769-9775)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2492 proposed by Senator Feinstein for Senator Bingaman.(consideration: CR S9769-9772, text: CR S9772)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2493 proposed by Senator Feinstein for Senator Bingaman.(consideration: CR S9769-9775)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2495 proposed by Senator Feinstein for Senator Schumer.(consideration: CR S9769-9775; text: CR S9774)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2501 proposed by Senator Feinstein for Senator Risch.(consideration: CR S9769-9772; text: CR S9772)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2505 proposed by Senator Feinstein for Senator Carper.(consideration: CR S9769-9772; text: CR S9772)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2507 proposed by Senator Feinstein for Senator Tester.(consideration: CR S9769-9775; text: CR S9774)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2509 proposed by Senator Feinstein for Senator Roberts.(consideration: CR S9769, S9772-9775; text: CR S9772-9773)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2511 proposed by Senator Coburn.(consideration: CR S9800-9801; text: CR S9800)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2518 proposed by Senator Feinstein.(consideration: CR S9769-9775; text: CR S9773)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2519 proposed by Senator Feinstein.(consideration: CR S9679-9775; text: CR S9773)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2522 proposed by Senator Feinstein for Senator Feingold.(consideration: CR S9769-9775; text: CR S9773)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2523 proposed by Senator Coburn.(consideration: CR S9799, S9801-9803; text: CR S9799)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2527 proposed by Senator Feinstein for Senator Bennett.(consideration: CR S9804; text: CR S9804)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2531 proposed by Senator Reid.(consideration: CR S9794, S9807; text: CR S9794)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2534 proposed by Senator Feinstein for Senator Whitehouse.(consideration: CR S9769-9775)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2535 proposed by Senator Feinstein for Senator Barrasso.(consideration: CR S9804; text: CR S9804)
+- 2009-09-24 — Senate amendment proposed (on the floor): Amendment SA 2549 proposed by Senator Vitter.(consideration: CR S9784-9794, S9805-9806; text: CR S9784)
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-24 — Senate insists on its amendment, asks for a conference, appoints conferees Feinstein; Byrd; Leahy; Dorgan; Mikulski; Kohl; Johnson; Reed; Nelson NE; Tester; Inouye; Alexander; Cochran; Bennett; Gregg; Murkowski; Collins; Bond. (consideration: CR S9812)
