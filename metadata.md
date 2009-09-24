@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3593
@@ -20,9 +20,10 @@ To amend the United States International Broadcasting Act of 1994 to extend by o
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ To amend the United States International Broadcasting Act of 1994 to extend by o
 - 2009-09-23 — Ms. Watson moved to suspend the rules and pass the bill.
 - 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9823)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9823)
+- 2009-09-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
