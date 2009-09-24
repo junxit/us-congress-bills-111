@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
