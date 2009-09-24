@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2131
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2131
@@ -32,9 +32,10 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - 2009-09-23 — Ms. Watson moved to suspend the rules and pass the bill, as amended.
 - 2009-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9827)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9827)
+- 2009-09-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
