@@ -1,7 +1,7 @@
 ---
 measure: H.R. 324
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 324
@@ -20,9 +20,10 @@ Santa Cruz Valley National Heritage Area Act
 
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -63,3 +64,4 @@ Santa Cruz Valley National Heritage Area Act
 - 2009-09-23 — Rule provides for consideration of H.R. 324 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution wiaves all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The resolution provides tha the amendment printed in this report shall be considered as adopted and provides that the bill, as amended, shall be considered as read. The resolution waives all points of order against provisions of the bill, as amended. This waiver does not affect the point of order available under clause 9 of rule XXI. The resolution provides one motion to recommit with or without instructions.
 - 2009-09-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9852)
 - 2009-09-23 — The previous question was ordered pursuant to the rule. (consideration: CR H9851)
+- 2009-09-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
