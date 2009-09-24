@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1599
@@ -38,3 +38,5 @@ Reserve Officers Association Modernization Act of 2009
 - 2009-09-10 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2009-09-10 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2009-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
+- 2009-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9856; text as passed Senate: CR S9856)
+- 2009-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9856; text as passed Senate: CR S9856)
