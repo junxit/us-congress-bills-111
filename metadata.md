@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3631
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3631
@@ -16,7 +16,7 @@ Medicare Premium Fairness Act
 
 - Rep. Titus, Dina [D-NV-3] (T000468)
 
-## Cosponsors (45)
+## Cosponsors (54)
 
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -63,11 +63,24 @@ Medicare Premium Fairness Act
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
 
 ## Committees (2)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2009-09-24 — [House 111-1-737](votes/house-111-1-0737.md) — On Motion to Suspend the Rules and Pass — **Passed** (406–18)
 
 ## Actions
 
@@ -76,3 +89,10 @@ Medicare Premium Fairness Act
 - 2009-09-23 — Referred to House Energy and Commerce
 - 2009-09-23 — Referred to House Ways and Means
 - 2009-09-23 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-24 — Considered under suspension of the rules. (consideration: CR H9908-9915)
+- 2009-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3631.
+- 2009-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-24 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2009-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 18 (Roll no. 737). (text: CR H9908)
+- 2009-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 18 (Roll no. 737).(text: CR H9908)
+- 2009-09-24 — Referred to the Subcommittee on Health.

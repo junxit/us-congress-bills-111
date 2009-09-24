@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3631
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), by striking the semicolon at the end and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
