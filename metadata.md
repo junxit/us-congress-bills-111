@@ -1,7 +1,7 @@
 ---
 measure: S. 1670
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1670
@@ -32,3 +32,7 @@ Satellite Television Modernization Act of 2009
 - 2009-09-15 — Introduced in Senate
 - 2009-09-15 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S9374-9377)
 - 2009-09-15 — Sponsor introductory remarks on measure. (CR S9373-9374)
+- 2009-09-24 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-09-24 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2009-09-24 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2009-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1670
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-41 amendatory instructions. 0 executed, 41 stated and not applied.
+44 amendatory instructions. 0 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,8 +34,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “subparagraphs (B) and (C)” and inserting “subparagraph (B)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(5), (6), (7), and (8)” and inserting “(4), (5), (6), and (7)”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking the second sentence; and | the bill names no machine-readable US Code section |
+| — | insert | in the first sentence, by inserting before the period the following: “, except that a satellite provider lawfully serving a subscriber with a distant network station pursuant to this subparagraph while a network station affiliated with s… | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Individual Location” and all that follows through “No. 98–201,” and inserting “the predictive digital model established by the Federal Communications Commission,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “under section 339(c)(3) of the Communications Act of 1934 (47 U.S.C. 339(c)(3))”; and | the bill names no machine-readable US Code section |
+| — | replace | in subclause (I), by striking “the court shall rely” and all that follows through the period at the end and insert the following: “a court shall rely, with respect to a signal originating as an analog signal, on the Individual Location L… | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “section 339(c)(4) of the Communications Act of 1934 (47 U.S.C. 339(c)(4))” and inserting “rules established by the Federal Communications Commission”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (C); and | the bill names no machine-readable US Code section |
@@ -55,8 +58,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (1), by striking the matter following subparagraph (B); | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “(a)(14)” and inserting “(a)(13)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “(a)(12)” and inserting “(a)(101”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “(a)(14)” and inserting “(a)(13)”; and; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “(a)(12)” and inserting “(a)(101(a)(11)”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (11), by striking “, except that” and all that follows through “located”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (12); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (13) as paragraph (12); and | the bill names no machine-readable US Code section |
