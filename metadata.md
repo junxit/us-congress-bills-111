@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2996
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 2996
@@ -176,7 +176,7 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (19)
+## Recorded votes (23)
 
 - 2009-06-26 — [House 111-1-467](votes/house-111-1-0467.md) — On Agreeing to the Amendment — **Failed** (202–225)
 - 2009-06-26 — [House 111-1-468](votes/house-111-1-0468.md) — On Agreeing to the Amendment — **Failed** (169–259)
@@ -197,6 +197,10 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-09-24 — [Senate 111-1-296](votes/senate-111-1-0296.md) — On the Motion to Table — **Motion to Table Agreed to** (64–34)
 - 2009-09-24 — [Senate 111-1-297](votes/senate-111-1-0297.md) — On the Motion to Table — **Motion to Table Agreed to** (79–19)
 - 2009-09-24 — [Senate 111-1-298](votes/senate-111-1-0298.md) — On Passage of the Bill — **Bill Passed** (77–21)
+- 2009-10-27 — [House 111-1-816](votes/house-111-1-0816.md) — On Motion to Instruct Conferees — **Passed** (267–147)
+- 2009-10-29 — [House 111-1-826](votes/house-111-1-0826.md) — On Agreeing to the Conference Report — **Passed** (247–178)
+- 2009-10-29 — [Senate 111-1-330](votes/senate-111-1-0330.md) — On the Motion — **Motion Agreed to** (60–40)
+- 2009-10-29 — [Senate 111-1-331](votes/senate-111-1-0331.md) — On the Conference Report — **Conference Report Agreed to** (72–28)
 
 ## Actions
 
@@ -610,3 +614,40 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2009-09-24 — Senate amendment submitted
 - 2009-09-24 — Senate amendment submitted
 - 2009-09-24 — Senate insists on its amendment, asks for a conference, appoints conferees Feinstein; Byrd; Leahy; Dorgan; Mikulski; Kohl; Johnson; Reed; Nelson NE; Tester; Inouye; Alexander; Cochran; Bennett; Gregg; Murkowski; Collins; Bond. (consideration: CR S9812)
+- 2009-09-29 — Message on Senate action sent to the House.
+- 2009-10-26 — Mr. Dicks moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H11756-11759)
+- 2009-10-26 — Mr. Simpson moved that the House instruct conferees. (consideration: CR H11756-11759; text: CR H11756)
+- 2009-10-26 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.
+- 2009-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to instruct conferees on H.R. 2996, the Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced that the noes had prevailed. Mr. Simpson demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct conferees on H.R. 2996 until a time to be announced.
+- 2009-10-26 — The House proceeded with one hour of debate on the Simpson motion to instruct conferees on H.R. 2996. The instructions contained in the motion seek to require the managers on the part of the House to insist on section 425 of the House bill and to not record their approval of the final conference agreement unless text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 72 hours prior to the time described in such clause.
+- 2009-10-26 — The previous question was ordered without objection. (consideration: CR H11759)
+- 2009-10-27 — Conferees agreed to file conference report.
+- 2009-10-27 — Conference committee actions: Conferees agreed to file conference report.
+- 2009-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-27 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 267 - 147 (Roll no. 816). (consideration: CR H11824, H11826)
+- 2009-10-27 — The Speaker appointed conferees: Dicks, Moran (VA), Mollohan, Chandler, Hinchey, Olver, Pastor (AZ), Price (NC), Obey, Simpson, Calvert, LaTourette, Cole, and Lewis (CA). (consideration: CR H11826)
+- 2009-10-28 — Conference report H. Rept. 111-316 filed. (text of conference report: CR H11871-11983)
+- 2009-10-28 — Conference report filed: Conference report H. Rept. 111-316 filed.(text of conference report: CR H11871-11983)
+- 2009-10-28 — Rules Committee Resolution H. Res. 876 Reported to House. Rule provides for consideration of the conference report to H.R. 2996 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. The conference report shall be considered as read. All points of order against theconference report arewaived.
+- 2009-10-29 — Cleared for White House.
+- 2009-10-29 — Conference papers: message on House action held at the desk in Senate.
+- 2009-10-29 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 247 - 178 (Roll no. 826).
+- 2009-10-29 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 72 - 28. Record Vote Number: 331.
+- 2009-10-29 — Conference report considered in Senate. (consideration: CR S10893-10908)
+- 2009-10-29 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2996.
+- 2009-10-29 — Message on Senate action sent to the House.
+- 2009-10-29 — Motion to waive Rule XXVIII with respect to the conference report agreed to by Yea-Nay Vote. 60 - 40. Record Vote Number: 330.
+- 2009-10-29 — Motion to waive Rule XXVIII with respect to the conference report raised in Senate.
+- 2009-10-29 — Motions to reconsider laid on the table Agreed to without objection.
+- 2009-10-29 — Mr. Dicks brought up conference report H. Rept. 111-316 for consideration under the provisions of H. Res. 876. (consideration: CR H12057-12068)
+- 2009-10-29 — On agreeing to the conference report Agreed to by the Yeas and Nays: 247 - 178 (Roll no. 826).
+- 2009-10-29 — Point of order that the conference report violates Rule XXVIII raised in Senate.
+- 2009-10-29 — Rule H. Res. 876 passed House.
+- 2009-10-29 — Senate agreed to conference report by Yea-Nay Vote. 72 - 28. Record Vote Number: 331.
+- 2009-10-29 — The previous question was ordered pursuant to the rule. (consideration: CR H12068)
+- 2009-10-30 — Became Public Law No: 111-88.
+- 2009-10-30 — Became Public Law No: 111-88.
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Signed by President.
+- 2009-10-30 — Signed by President.
