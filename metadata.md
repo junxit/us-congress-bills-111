@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 41
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 41
@@ -20,8 +20,15 @@ A concurrent resolution providing for the acceptance of a statue of Helen Keller
 
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2009-09-23 — Introduced in Senate
 - 2009-09-23 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S9758; text as passed Senate: CR S9758; text of measure as introduced: CR S9750)
 - 2009-09-23 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S9758; text as passed Senate: CR S9758; text of measure as introduced: CR S9750)
+- 2009-09-24 — Message on Senate action sent to the House.
+- 2009-09-24 — Received in the House.
+- 2009-09-24 — Referred to the House Committee on House Administration.
