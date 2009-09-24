@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3593
@@ -37,3 +37,15 @@ To amend the United States International Broadcasting Act of 1994 to extend by o
 - 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9823)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9823)
 - 2009-09-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2009-09-29 — Cleared for White House.
+- 2009-09-29 — Passed Senate without amendment by Unanimous Consent.
+- 2009-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2009-09-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S9941)
+- 2009-09-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S9941)
+- 2009-09-30 — Message on Senate action sent to the House.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Presented to President.
+- 2009-10-09 — Became Public Law No: 111-71.
+- 2009-10-09 — Became Public Law No: 111-71.
+- 2009-10-09 — Signed by President.
+- 2009-10-09 — Signed by President.
