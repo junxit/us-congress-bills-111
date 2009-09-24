@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 178
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 178
@@ -48,9 +48,10 @@ Expressing the sense of Congress that we reaffirm the historic ties between the 
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Expressing the sense of Congress that we reaffirm the historic ties between the 
 - 2009-09-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H9825)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H9825)
 - 2009-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2009-09-24 — Received in the Senate and referred to the Committee on Foreign Relations.
