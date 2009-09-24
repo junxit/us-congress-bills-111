@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 832
@@ -72,3 +72,18 @@ A bill to amend title 36, United States Code, to grant a Federal charter to the 
 - 2009-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S9857)
 - 2009-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9856-9857)
 - 2009-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9856-9857)
+- 2009-09-25 — Held at the desk.
+- 2009-09-25 — Message on Senate action sent to the House.
+- 2009-09-25 — Received in the House.
+- 2009-10-27 — Cleared for White House.
+- 2009-10-27 — Considered by unanimous consent. (consideration: CR H11826-11827)
+- 2009-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-27 — Mr. Van Hollen asked unanimous consent to take from the Speaker's table and consider.
+- 2009-10-27 — On passage Passed without objection. (text: CR H11826-11827)
+- 2009-10-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H11826-11827)
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Presented to President.
+- 2009-11-06 — Became Public Law No: 111-95.
+- 2009-11-06 — Became Public Law No: 111-95.
+- 2009-11-06 — Signed by President.
+- 2009-11-06 — Signed by President.
