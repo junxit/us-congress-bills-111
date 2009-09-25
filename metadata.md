@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3614
@@ -15,6 +15,10 @@ To provide for an additional temporary extension of programs under the Small Bus
 ## Sponsor
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+
+## Cosponsors (1)
+
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
 
 ## Committees (1)
 
@@ -38,3 +42,11 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 726). (text: CR H9819)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 726).(text: CR H9819)
 - 2009-09-23 — Received in the Senate, read twice.
+- 2009-09-25 — Amendment SA 2556 agreed to in Senate by Unanimous Consent.
+- 2009-09-25 — Amendment SA 2556 proposed by Senator Reid for Senator Landrieu. (consideration: CR S9890; text: CR S9890) To improve the bill.
+- 2009-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9890)
+- 2009-09-25 — Passed Senate with an amendment by Unanimous Consent. (text: CR S9890)
+- 2009-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S9890)
+- 2009-09-25 — Senate amendment agreed to: Amendment SA 2556 agreed to in Senate by Unanimous Consent.
+- 2009-09-25 — Senate amendment proposed (on the floor): Amendment SA 2556 proposed by Senator Reid for Senator Landrieu.(consideration: CR S9890; text: CR S9890)
+- 2009-09-25 — Senate amendment submitted
