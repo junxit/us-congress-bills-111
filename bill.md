@@ -1,6 +1,6 @@
 ---
 legis-num: S. 1717
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -21,7 +21,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(7)** Fayetteville, North Carolina, Health Care Center, in an amount not to exceed $23,487,000.
   - **(8)** Huntsville, Alabama, Outpatient Clinic Expansion, in an amount not to exceed $4,374,000.
   - **(9)** Kansas City, Kansas, Community Based Outpatient Clinic, in an amount not to exceed $4,418,000.
-  - **(10)** Loma Linda, California, Health Care Center, in an amount not to exceed $31,154,000
+  - **(10)** Loma Linda, California, Health Care Center, in an amount not to exceed $31,154,000.
   - **(11)** McAllen, Texas, Outpatient Clinic, in an amount not to exceed $4,444,000.
   - **(12)** Monterey, California, Health Care Center, in an amount not to exceed $11,628,000.
   - **(13)** Montgomery, Alabama, Health Care Center, in an amount not to exceed $9,943,000.
