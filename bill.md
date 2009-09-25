@@ -2,7 +2,7 @@
 legis-num: H. RES. 772
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 772
@@ -10,3 +10,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 > Providing for consideration of the conference report to accompany the bill (H.R. 2918) making appropriations for the Legislative Branch for the fiscal year ending September 30, 2010, and for other purposes.
 
 That upon adoption of this resolution it shall be in order to consider the conference report to accompany the bill (H.R. 2918) making appropriations for the Legislative Branch for the fiscal year ending September 30, 2010, and for other purposes. All points of order against consideration of the conference report are waived. The conference report shall be considered as read. All points of order against the conference report are waived. The previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+
+## § 2.
+
+Upon the adoption of the conference report the House shall be considered to have adopted the concurrent resolution (H. Con. Res. 191) directing the Clerk of the House of Representatives to make corrections in the enrollment of H.R. 2918.
