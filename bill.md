@@ -1,12 +1,15 @@
 ---
 legis-num: H.R. 3614
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3614
 
-That the bill from the House of Representatives (H.R. 3614) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
+> To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.
 
-*Strike sections 2 and 3.*
+## § 1. Additional temporary extension of authorization of programs under the Small Business Act and the Small Business Investment Act of 1958
+
+- **(a)** *In general* Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 111–43 (123 Stat. 1965), is amended by striking “September 30, 2009” each place it appears and inserting “October 31, 2009”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect on September 29, 2009.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3614
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3614
@@ -50,3 +50,15 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2009-09-25 — Senate amendment agreed to: Amendment SA 2556 agreed to in Senate by Unanimous Consent.
 - 2009-09-25 — Senate amendment proposed (on the floor): Amendment SA 2556 proposed by Senator Reid for Senator Landrieu.(consideration: CR S9890; text: CR S9890)
 - 2009-09-25 — Senate amendment submitted
+- 2009-09-29 — Cleared for White House.
+- 2009-09-29 — Message on Senate action sent to the House.
+- 2009-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-29 — Ms. Velazquez moved that the House suspend the rules and agree to the Senate amendment.
+- 2009-09-29 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H10021; text as House agreed to Senate amendment: CR H10021)
+- 2009-09-29 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H10021; text as House agreed to Senate amendment: CR H10021)
+- 2009-09-30 — Became Public Law No: 111-66.
+- 2009-09-30 — Became Public Law No: 111-66.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Presented to President.
+- 2009-09-30 — Signed by President.
+- 2009-09-30 — Signed by President.
