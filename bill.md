@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Family Caregiver Program Act of 2009”.
+This Act may be cited as the “Caregiver and Veterans Health Services Act of 2009”.
 
 ## § 2. Waiver of charges for humanitarian care provided to family members accompanying certain severely injured veterans as they receive medical care
 
@@ -83,8 +83,8 @@ The text of section 1784 of title 38, United States Code, is amended to read as 
     >       - **(ii)** a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or
     >       - **(iii)** such other matters as the Secretary shall establish in consultation with the Secretary of Defense as appropriate.
     >   - **(2)** The date described in this paragraph—
-    >     - **(A)** during the period beginning on the date of the enactment of the Family Caregiver Program Act of 2009 and ending two years after the date of the enactment of that Act, is September 11, 2001; and
-    >     - **(B)** beginning on the first day after the date that is two years after the date of the enactment of the Family Caregiver Program Act of 2009, is the earliest date the Secretary determines is appropriate to include the largest number of veterans possible under this section without reducing the quality of care provided to such veterans.
+    >     - **(A)** during the period beginning on the date of the enactment of the Caregiver and Veterans Health Services Act of 2009 and ending two years after the date of the enactment of that Act, is September 11, 2001; and
+    >     - **(B)** beginning on the first day after the date that is two years after the date of the enactment of the Caregiver and Veterans Health Services Act of 2009, is the earliest date the Secretary determines is appropriate to include the largest number of veterans possible under this section without reducing the quality of care provided to such veterans.
     > - **(c)** *Evaluation of eligible veterans and family caregivers*
     >   - **(1)** The Secretary shall evaluate each eligible veteran who makes a joint application under subsection (a)(1)—
     >     - **(A)** to identify the personal care services required by such veteran; and
@@ -269,3 +269,12 @@ Section 111(e) of title 38, United States Code, is amended—
   >     - **(xxi)** A stepparent of the spouse of the person.
   >     - **(xxii)** A stepsibling of the spouse of the person.
   >     - **(xxiii)** Such other individuals as the Secretary shall specify in regulations for purposes of this subsection.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Caregiver and Veterans Health Services Act of 2009”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. References to title 38, United States Code
+
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 38, United States Code.
