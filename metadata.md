@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 163
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 163
@@ -86,9 +86,10 @@ Expressing support for designation of September 23, 2009, as "National Job Corps
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -109,3 +110,4 @@ Expressing support for designation of September 23, 2009, as "National Job Corps
 - 2009-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 413 - 4 (Roll no. 736). (text: CR 9/22/2009 H9765)
 - 2009-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 413 - 4 (Roll no. 736).(text: CR 9/22/2009 H9765)
+- 2009-09-25 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
