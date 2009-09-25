@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3631
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | in subsection (i)(3)(A), by adding after and below clause (ii) the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking the semicolon at the end and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395r` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395r` | amend | in subsection (i)(3)(A), by adding after and below clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395iii` | replace | in subparagraph (A), by striking the semicolon at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395iii` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395iii` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395iii` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

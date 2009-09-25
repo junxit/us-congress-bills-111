@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3631
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3631
@@ -73,10 +73,11 @@ Medicare Premium Fairness Act
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ Medicare Premium Fairness Act
 - 2009-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 18 (Roll no. 737). (text: CR H9908)
 - 2009-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 18 (Roll no. 737).(text: CR H9908)
 - 2009-09-24 — Referred to the Subcommittee on Health.
+- 2009-09-25 — Received in the Senate and Read twice and referred to the Committee on Finance.
