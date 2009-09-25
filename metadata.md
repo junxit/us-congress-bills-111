@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1599
@@ -27,6 +27,10 @@ Reserve Officers Association Modernization Act of 2009
 - Senate — Judiciary Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2009-11-19 — [House 111-1-904](votes/house-111-1-0904.md) — On Motion to Suspend the Rules and Pass — **Passed** (425–0)
+
 ## Actions
 
 - 2009-08-06 — Introduced in Senate
@@ -44,3 +48,19 @@ Reserve Officers Association Modernization Act of 2009
 - 2009-09-25 — Message on Senate action sent to the House.
 - 2009-09-25 — Received in the House.
 - 2009-09-25 — Referred to the House Committee on the Judiciary.
+- 2009-10-19 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2009-11-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-17 — Considered under suspension of the rules. (consideration: CR H13030-13031; text as received in House: CR S13030)
+- 2009-11-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1599.
+- 2009-11-17 — Ms. Chu moved to suspend the rules and pass the bill.
+- 2009-11-19 — Cleared for White House.
+- 2009-11-19 — Considered as unfinished business. (consideration: CR H13281)
+- 2009-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 904). (text: CR 11/17/2009 CR S13030)
+- 2009-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 904).(text: CR 11/17/2009 CR S13030)
+- 2009-12-02 — Presented to President.
+- 2009-12-02 — Presented to President.
+- 2009-12-14 — Became Public Law No: 111-113.
+- 2009-12-14 — Became Public Law No: 111-113.
+- 2009-12-14 — Signed by President.
+- 2009-12-14 — Signed by President.
