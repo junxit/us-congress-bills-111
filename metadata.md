@@ -1,7 +1,7 @@
 ---
 measure: S. 1599
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1599
@@ -21,10 +21,11 @@ Reserve Officers Association Modernization Act of 2009
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
-## Committees (2)
+## Committees (3)
 
 - Senate — Armed Services Committee
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ Reserve Officers Association Modernization Act of 2009
 - 2009-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
 - 2009-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9856; text as passed Senate: CR S9856)
 - 2009-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9856; text as passed Senate: CR S9856)
+- 2009-09-25 — Message on Senate action sent to the House.
+- 2009-09-25 — Received in the House.
+- 2009-09-25 — Referred to the House Committee on the Judiciary.
