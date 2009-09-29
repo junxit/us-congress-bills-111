@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -38,10 +38,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “Secretary of Commerce” and inserting “Administrator”; | the bill names no machine-readable US Code section |
 | — | replace | by striking the matter preceding subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “and” after the semicolon at the end of clause (vi), and by inserting after clause (vii) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | subparagraph (B), by striking “and” after the semicolon at the end of clause (iii), by inserting “and” after the semicolon at the end of clause (iv), and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subparagraph (B), by striking “and” after the semicolon at the end of clause (iii), by inserting “and” after the semicolon at the end of clause (iv), and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Environmental Protection Agency” and inserting “Chesapeake Executive Council ”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the semicolon at the end the following: “as appropriate to further purposes of this section”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (5) and (7); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (6) as paragraph (5), and by adding “and” after the semicolon at the end of such paragraph; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (5); and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (c) and all that follows through the end of the section and inserting the following: | the bill names no machine-readable US Code section |

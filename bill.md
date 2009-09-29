@@ -37,39 +37,39 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
     - **(ii)** in subparagraph (A), by striking “and” after the semicolon at the end of clause (vi), and by inserting after clause (vii) the following:
       > - **(viii)** coastal hazards and climate change; and
 
-    - **(iii)** subparagraph (B), by striking “and” after the semicolon at the end of clause (iii), by inserting “and” after the semicolon at the end of clause (iv), and by adding at the end the following:
+    - **(iii)** in subparagraph (B), by striking “and” after the semicolon at the end of clause (iii), by inserting “and” after the semicolon at the end of clause (iv), and by adding at the end the following:
       > - **(v)** integrated ecosystem assessments;
 
   - **(D)** in paragraph (4)—
     - **(i)** by striking “Environmental Protection Agency” and inserting “Chesapeake Executive Council ”; and
     - **(ii)** by inserting before the semicolon at the end the following: “as appropriate to further purposes of this section”;
   - **(E)** by striking paragraphs (5) and (7);
-  - **(F)** by redesignating paragraph (6) as paragraph (5), and by adding “and” after the semicolon at the end of such paragraph; and
+  - **(F)** by redesignating paragraph (6) as paragraph (5); and
   - **(G)** by adding at the end the following:
-    > - **(6)** perform any functions necessary to support the programs referred to in paragraph (3)
+    > - **(6)** perform any functions necessary to support the programs referred to in paragraph (3).
 
 - **(3)** by striking subsection (c) and all that follows through the end of the section and inserting the following:
   > - **(c)** *Program activities*
-  >   - **(1)** *In general* The Director shall implement the program activities authorized by this subsection to support the activity of the Chesapeake Executive Council and to further the purposes of this section.
+  >   - **(1)** *In general* The Administrator, through the Director, shall implement the program activities authorized by this subsection to support the activity of the Chesapeake Executive Council and to further the purposes of this section.
   >   - **(2)** *Ensuring scientific and technical merit* The Director shall—
   >     - **(A)** establish and utilize an effective and transparent mechanism to ensure that projects funded under this section have undergone appropriate peer review; and
   >     - **(B)** provide other appropriate means to determine that such projects have acceptable scientific and technical merit for the purpose of achieving maximum utilization of available funds and resources to benefit the Chesapeake Bay area.
   >   - **(3)** *Consultation with Chesapeake Executive Council* The Director shall, in the implementation of the program activities authorized under this section, consult with the Chesapeake Executive Council, to ensure that the activities of the Office are consistent with the purposes and priorities of the Chesapeake Bay Agreement and plans developed pursuant to the Agreement.
   >   - **(4)** *Integrated coastal observations*
-  >     - **(A)** *In general* The Director shall collaborate with scientific and academic institutions, State and Federal agencies, non-governmental organizations, and other constituents in the Chesapeake Bay watershed, to support the development of an integrated observations system for the Chesapeake Bay.
+  >     - **(A)** *In general* The Administrator, through the Director, may collaborate with scientific and academic institutions, State and Federal agencies, non-governmental organizations, and other constituents in the Chesapeake Bay watershed, to support an integrated observations system for the Chesapeake Bay consistent with the purposes of subtitle C of title XII of Public Law 111–11 (33 U.S.C. 3601 et seq.).
   >     - **(B)** *Specific requirements* To support the system referred to in subparagraph (A) and provide a complete set of environmental information for the Chesapeake Bay, the Director shall—
   >       - **(i)** coordinate existing monitoring and observing activities in the Chesapeake Bay;
   >       - **(ii)** identify new data collection needs and deploy new technologies, as appropriate;
   >       - **(iii)** collect and analyze the scientific information necessary for the management of living marine resources and the marine habitat associated with such resources;
   >       - **(iv)** manage and interpret the information described in clause (iii); and
   >       - **(v)** organize the information described in clause (iii) into products that are useful to policy makers, resource managers, scientists, and the public.
-  >     - **(C)** *Chesapeake Bay Interpretive Buoy System* To further the development and implementation of the Chesapeake Bay Interpretive Buoy System, the Director shall—
+  >     - **(C)** *Chesapeake Bay Interpretive Buoy System* To further the development and implementation of the Chesapeake Bay Interpretive Buoy System, the Director may—
   >       - **(i)** support the establishment and implementation of the Captain John Smith Chesapeake National Historic Trail;
   >       - **(ii)** delineate key waypoints along the trail and provide appropriate real-time data and information for trail users;
   >       - **(iii)** interpret data and information for use by educators and students to inspire stewardship of Chesapeake Bay; and
   >       - **(iv)** incorporate the Chesapeake Bay Interpretive Buoy System into the Integrated Ocean Observing System regional network of observatories.
   >   - **(5)** *Chesapeake Bay watershed education and training program*
-  >     - **(A)** *In general* The Director shall establish a Chesapeake Bay watershed education and training program. The program shall—
+  >     - **(A)** *In general* The Administrator, through the Director, may establish a Chesapeake Bay watershed education and training program. The program shall—
   >       - **(i)** continue and expand the Chesapeake Bay watershed education programs offered by the Office immediately before the enactment of the Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2009;
   >       - **(ii)** improve the understanding of elementary and secondary school students and teachers of the living resources of the ecosystem of the Chesapeake Bay;
   >       - **(iii)** provide community education to improve watershed protection; and
@@ -84,10 +84,10 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(vii)** educate local land use officials and decision makers on the relationship of land use to natural resource and watershed protection.
   >     - **(C)** *Collaboration* The Director shall implement the education and training program in collaboration with the heads of other relevant Federal agencies.
   >   - **(6)** *Coastal and living resources management and habitat program*
-  >     - **(A)** *In general* The Director shall establish a Chesapeake Bay coastal living resources management and habitat program to support coordinated management, protection, characterization, and restoration of priority Chesapeake Bay habitats and living resources, including oysters, blue crabs, and submerged aquatic vegetation.
+  >     - **(A)** *In general* The Administrator, through the Director, may establish a Chesapeake Bay coastal living resources management and habitat program to support coordinated management, protection, characterization, and restoration of priority Chesapeake Bay habitats and living resources, including oysters, blue crabs, and submerged aquatic vegetation.
   >     - **(B)** *Activities* Under the program, the Director may, subject to the availability of appropriations, carry out or enter into grants, contracts, and cooperative agreements and provide technical assistance to support—
   >       - **(i)** native oyster restoration;
-  >       - **(ii)** fish and shellfish aquaculture;
+  >       - **(ii)** fish and shellfish aquaculture that is carried out in accordance with a valid Federal or State permit;
   >       - **(iii)** establishment of submerged aquatic vegetation propagation programs;
   >       - **(iv)** the development of programs that protect and restore critical coastal habitats;
   >       - **(v)** habitat mapping, characterization, and assessment techniques necessary to identify, assess, and monitor restoration actions;
@@ -95,12 +95,12 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(vii)** collection, synthesis, and sharing of information to inform and influence coastal and living resource management issues; and
   >       - **(viii)** other activities that the Director determines are appropriate to carry out the purposes of such program.
   > - **(d)** *Reports*
-  >   - **(1)** *In general* The Director shall submit a biennial report to the Congress and the Secretary of Commerce on the activities of the Office and on progress made in protecting and restoring the living resources and habitat of the Chesapeake Bay.
+  >   - **(1)** *In general* The Administrator, through the Director, shall submit a biennial report to the Congress and the Secretary of Commerce on the activities of the Office and on progress made in protecting and restoring the living resources and habitat of the Chesapeake Bay.
   >   - **(2)** *Action plan* Each such report shall include an action plan for the 2-year period following submission of the report, consisting of—
   >     - **(A)** a list of recommended research, monitoring, and data collection activities necessary to continue implementation of the strategy under subsection (b)(2); and
   >     - **(B)** recommendations to integrate National Oceanic and Atmospheric Administration activities with the activities of the partners in the Chesapeake Bay Program to meet the commitments of the Chesapeake 2000 agreement and subsequent agreements.
   > - **(e)** *Agreements*
-  >   - **(1)** *In general* The Director may, subject to the availability of appropriations, enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
+  >   - **(1)** *In general* The Administrator, through the Director, may, subject to the availability of appropriations, enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
   >   - **(2)** *Use of other resources* For purposes related to the understanding, protection, and restoration of Chesapeake Bay, the Director may use, with their consent and with or without reimbursement, the land, services, equipment, personnel, and facilities of any Department, agency, or instrumentality of the United States, or of any State, local government, Indian tribal government, or of any political subdivision thereof.
   >   - **(3)** *Donations* The Director may accept donations of funds, other property, and services for use in understanding, protecting, and restoring the Chesapeake Bay. Donations accepted under this section shall be considered as a gift or bequest to or for the use of the United States.
   > - **(f)** *Definitions* In this section:
