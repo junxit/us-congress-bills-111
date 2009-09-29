@@ -2,7 +2,7 @@
 legis-num: H. RES. 734
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 734
@@ -25,5 +25,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** supports “Constitution Day”; and
+- **(1)** expresses support for the goals and ideals of “Constitution Day”; and
 - **(2)** calls upon the people of the United States to observe the day with appropriate ceremonies and activities.
