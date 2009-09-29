@@ -58,7 +58,16 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
   - **(2)** *Contents* The report required under paragraph (1) shall contain information about the application of adaptive management to restoration activities and programs, including programmatic and project level changes implemented through the process of adaptive management.
   - **(3)** *Effective date* Paragraph (1) shall apply to the first fiscal year that begins after the date of enactment of this Act.
 
-## § 4. Definitions
+## § 4. Independent Evaluator for the Chesapeake Bay Program
+
+- **(a)** *In general* There shall be an Independent Evaluator for the Chesapeake Bay Program, who shall review and report on restoration activities and the use of adaptive management in restoration activities, including on such related topics as are suggested by the Chesapeake Executive Council.
+- **(b)** *Appointment*
+  - **(1)** *In general* The Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council.
+  - **(2)** *Nominations* The Chesapeake Executive Council may submit to the Administrator 4 nominees for appointment to any vacancy in the office of the Independent Evaluator.
+- **(c)** *Reports* The Independent Evaluator shall submit a report to the Congress every 3 years in the findings and recommendations of reviews under this section.
+- **(d)** *Chesapeake Executive Council* In this section the term “Chesapeake Executive Council” has the meaning given that term by section 307 of the National Oceanic and Atmospheric Administration Authorization Act of 1992 (Public Law 102–567; 15 U.S.C. 1511d).
+
+## § 5. Definitions
 
 In this Act, the following definitions apply:
 
