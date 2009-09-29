@@ -1,0 +1,35 @@
+---
+measure: H.R. 3662
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 3662
+
+Federal Judgeship Act of 2009
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+
+## Cosponsors (4)
+
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2009-09-29 — Introduced in House
+- 2009-09-29 — Introduced in House
+- 2009-09-29 — Referred to the House Committee on the Judiciary.
+- 2009-09-29 — Sponsor introductory remarks on measure. (CR E2393)
