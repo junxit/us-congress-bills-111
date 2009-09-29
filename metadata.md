@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 285
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 285
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of national cybersecurity awareness
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -32,6 +32,7 @@ A resolution supporting the goals and ideals of national cybersecurity awareness
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Bayh, Evan [D-IN] (B001233)
 - Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (1)
 
@@ -42,3 +43,7 @@ A resolution supporting the goals and ideals of national cybersecurity awareness
 - 2009-09-24 — Introduced in Senate
 - 2009-09-24 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S9851-9852)
 - 2009-09-24 — Sponsor introductory remarks on measure. (CR S9852-9853)
+- 2009-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S9941)
+- 2009-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S9941)
+- 2009-09-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S9941)
+- 2009-09-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S9941)
