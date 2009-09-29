@@ -7,19 +7,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 685
 
-> To require a study of the feasibility of establishing the United States Civil Rights Trail System, and for other purposes.
+> To require the Secretary of the Interior to conduct a special resource study regarding the proposed United States Civil Rights Trail, and for other purposes.
 
-## § 1. Short Title
+## § 1. Short title
 
-This Act may be cited as the “United States Civil Rights Trail System Act of 2009”.
+This Act may be cited as the “United States Civil Rights Trail Special Resource Study Act of 2009”.
 
-## § 2. Feasibility Study
+## § 2. Special resource study regarding proposed united states civil rights trail
 
-- **(a)** *Study* The Archivist of the United States, in consultation with the Secretary of the Interior, and with the Secretary of Agriculture with respect to lands administered by such Secretary, shall conduct a study of the feasibility of establishing the United States Civil Rights Trail System, as described in subsection (b), in substantially the same manner as studies performed by the Secretary of the Interior under section 5(b) of the National Trails System Act (Public Law 109–418).
-- **(b)** *Description of united states civil rights trail system* For purposes of this section, the United States Civil Rights Trail System is a system of trails marking the geographic locations in the United States (including its territories) of historically significant events related to struggles for civil rights based on racial equality, including signage or printed materials (or both) that provide information about the people and events involved in such struggles and associated with such location.
-
-## § 3. Pilot Program
-
-- **(a)** *In General* The Secretary of the Interior shall establish and maintain individual trails marking the geographic locations of historically significant events related to struggles for civil rights based on racial equality. The Secretary shall provide for each trail signage or printed materials (or both) that provide information about the people and events involved in such struggles and associated with such locations.
-- **(b)** *Location and timing* The Secretary may establish such a trail in each State where a significant civil rights event occurred. The Secretary shall establish at least 6 such trails as soon as practicable after the date of enactment of this Act.
-- **(c)** *Authorization of Appropriations* To carry out this section there are authorized to be appropriated to the Secretary of the Interior such sums as are necessary for fiscal years 2010 through 2016.
+- **(a)** *Study Required* The Secretary of the Interior shall conduct a special resource study for the purpose of evaluating a range of alternatives for protecting and interpreting sites associated with the struggle for civil rights in the United States, including alternatives for potential addition of some or all of the sites to the National Trails System.
+- **(b)** *Consultation* The Secretary shall conduct the special resource study in consultation with appropriate Federal, State, county, and local governmental entities.
+- **(c)** *Study requirements* The Secretary shall conduct the study required under subsection (a) in accordance with section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c)) and section 5(b) of the National Trails System Act (16 U.S.C. 1244(b)), as appropriate.
+- **(d)** *Study Objectives* In conducting the special resource study, the Secretary shall evaluate alternatives for achieving the following objectives:
+  - **(1)** Identifying the resources and historic themes associated with the movement to secure racial equality in the United States for African Americans that, focusing on the period from 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights for all American citizens.
+  - **(2)** Making a review of existing studies and reports, such as the Civil Rights Framework Study, to complement and not duplicate other studies of the historical importance of the civil rights movements that may be underway or undertaken.
+  - **(3)** Establishing connections with agencies, organizations, and partnerships already engaged in the preservation and interpretation of various trails and sites dealing with the civil rights movement.
+  - **(4)** Protecting historically significant landscapes, districts, sites, and structures.
+  - **(5)** Identifying alternatives for preservation and interpretation of the sites by the National Park Service, other Federal, State, or local governmental entities, or private and nonprofit organizations, including the potential inclusion of some or all of the sites in a National Civil Rights Trail.
+  - **(6)** Identifying cost estimates for any necessary acquisition, development, interpretation, operation, and maintenance associated with the alternatives developed under the special resource study.
+- **(e)** *Report* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the results of the study conducted under subsection (c) and any recommendations of the Secretary with respect to the route.
