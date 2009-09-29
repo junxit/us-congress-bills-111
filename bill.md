@@ -18,9 +18,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** by striking “(a)” and inserting “(a)(1)”;
     - **(B)** by striking “The Secretary shall have” and inserting “Except as provided by paragraph (2), the Secretary shall have”; and
     - **(C)** by adding at the end the following:
-      > - **(2)** The Secretary shall participate in the implementation of the operable unit 6 remedy for the California Gulch Superfund Site, as such remedy is defined in the Environmental Protection Agency’s 2003 Record of Decision for such operable unit, by—
-      >   - **(A)** treating water behind any blockage or bulkhead in the Leadville Mine Drainage Tunnel, including surface water diverted into the Tunnel workings as part of the remedy; and
-      >   - **(B)** managing and maintaining the mine pool behind such blockage or bulkhead at a level that precludes surface runoff and releases and minimizes the potential for tunnel failure due to excessive water pressure in the tunnel.
+      > - **(2)** The Secretary shall participate in the implementation of the operable unit 6 remedy for the California Gulch Superfund Site, including, but not limited to, the following actions:
+      >   - **(A)** Treating water behind any blockage or bulkhead in the Leadville Mine Drainage Tunnel, including surface water diverted into the Tunnel workings as part of the remedy.
+      >   - **(B)** Managing and maintaining the mine pool behind such blockage or bulkhead at a level that precludes surface runoff and releases and minimizes the potential for tunnel failure due to excessive water pressure in the tunnel.
 
   - **(3)** In section 708(f), by striking “and 708” and inserting “, 708, and 709”.
   - **(4)** By adding at the end of title VII the following:
