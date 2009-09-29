@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2711
@@ -16,7 +16,7 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Foster, Bill [D-IL-14] (F000454)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
@@ -26,6 +26,8 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
 ## Committees (1)
 
@@ -36,3 +38,10 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Introduced in House
 - 2009-06-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-07-31 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported by Voice Vote.
+- 2009-09-10 — Subcommittee on Federal Workforce, Post Office, and the District of Columbia Discharged.
+- 2009-09-29 — Placed on the Union Calendar, Calendar No. 155.
+- 2009-09-29 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-274.
+- 2009-09-29 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-274.

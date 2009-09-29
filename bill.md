@@ -27,8 +27,8 @@ This Act may be cited as the “FBI Families of Fallen Heroes Act”.
   >     - **(B)** such other place, appropriate for interment, as is determined by the Attorney General (or designee).
   > - **(b)** *Qualified expenses* For purposes of this section, the term qualified expenses, as used with respect to a family changing its place of residence, means the moving expenses, transportation expenses, and relocation expenses of the family which are attributable to the change in place of residence.
   > - **(c)** *Definitions* For purposes of this section—
-  >   - **(1)** the term moving expenses, as used with respect to a family, includes the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking the household goods and personal effects of such family, not in excess of 18,000 pounds net weight;
-  >   - **(2)** the term relocation expenses has the meaning given such term under regulations prescribed under section 5738, including relocation expenses and relocation services described in sections 5724a and 5724c, respectively; and
+  >   - **(1)** the term moving expenses, as used with respect to a family, includes the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking the household goods and personal effects of such family, not in excess of 18,000 pounds net weight; and
+  >   - **(2)** the term relocation expenses has the meaning given such term under regulations prescribed under section 5738, including relocation expenses and relocation services described in sections 5724a and 5724c, respectively; and.”.
   >   - **(3)** the term continental United States has the meaning given such term by section 5701(6).
 
 - **(b)** *Clerical amendment* The analysis for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5724c the following:
