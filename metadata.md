@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2442
@@ -36,3 +36,15 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Introduced in House
 - 2009-05-14 — Referred to the House Committee on Natural Resources.
+- 2009-05-20 — Referred to the Subcommittee on Water and Power.
+- 2009-07-21 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-10 — Subcommittee on Water and Power Discharged.
+- 2009-09-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-09-29 — Considered under suspension of the rules. (consideration: CR H10004-10006; text of measure as reported in House: CR H10004-10005)
+- 2009-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2442.
+- 2009-09-29 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-09-29 — Placed on the Union Calendar, Calendar No. 149.
+- 2009-09-29 — Reported by the Committee on Natural Resources. H. Rept. 111-268.
+- 2009-09-29 — Reported by the Committee on Natural Resources. H. Rept. 111-268.
