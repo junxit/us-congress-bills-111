@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3045
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-92 amendatory instructions. 0 executed, 92 stated and not applied.
+94 amendatory instructions. 0 executed, 94 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,7 +40,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(A)(i), by striking “paragraph (3)” and inserting “paragraph (4)”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (d) and (e); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (d). | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (4) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
@@ -78,19 +78,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (D) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking the fifth and sixth sentences and inserting the following: “A public housing agency may establish and utilize procedures for maintaining site-based waiting lists under which applicants may apply directly at, or otherwise desi… | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the third sentence the following new sentence: “Any family who resides in a dwelling unit proposed to be assisted under this paragraph, or in a unit to be replaced by a proposed unit to be assisted under this paragraph… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 8(o)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(1)) is amended by striking subparagraph (E) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | Section 5A(d)(4) of the United States Housing Act of 1937 (42 U.S.C. 1437c–1(d)(4)) is amended by inserting before the period at the end the following: “, including the report with respect to the agency furnished by the Secretary pursuan… | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (D) of section 8(o)(1) is amended by inserting before the period at the end the following: “, except that a public housing agency may establish a payment standard of not more than 120 percent of the fair market rent where ne… | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after the paragraph designation; | the bill names no machine-readable US Code section |
 | — | strike | by striking the seventh, eighth, and ninth sentences; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (B) of section 8(o)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(1)(B)) is amended by inserting before the period at the end the following: “, except that no public housing agency shall be required as a re… | the bill names no machine-readable US Code section |
 | — | replace | by striking “(B) Selection of tenants.—Each” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “unit)” and inserting “unit”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “In addition” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “establish.” the following: “A public housing agency’s elective screening shall be limited to criteria that are directly related to an applicant’s ability to fulfill the obligations of an assisted lease and shall consi… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (E) of section 8(o)(7) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(7)(E)) is amended by inserting “termination or” after “any” the last place such term appears. | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “, based on documented evidence that is credible and objective,” after “determines”; | the bill names no machine-readable US Code section |
@@ -103,23 +103,25 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “or other criminal activity”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “reasonable” each place such term appears and inserting “5-year”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after and below paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | insert | Subtitle F of the Quality Housing and Work Responsibility Act of 1998 is amended by inserting after section 578 (42 U.S.C. 13663) the following new section:. | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “and shall not require that the family requalify under the selection standards for a public housing agency in order to be eligible for such assistance” before the comma; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 8(t)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)(2)) is amended by adding after the period at the end the following new sentence: “Such term includes, with respect to an assisted multifamily housing project (a… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (13) of section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (13) of section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (F), by inserting after “occupied unit,” the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “except that this provision and the provisions related to foreclosure in subparagraph (C) shall not” in subparagraph (F) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | in the matter after and below subparagraph (F), as amended by paragraph (2) of this subsection, by adding after the period at the end the following: “For purposes of subparagraphs (C) and (F), the term immediate successor in interest inc… | the bill names no machine-readable US Code section |
 | — | replace | by striking “This title, and any amendments made by this title are” and inserting “Section 702 is”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “this title” and inserting “such section”. | the bill names no machine-readable US Code section |
-| — | replace | Section 202(e) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11312), as amended by section 1004 of Public Law 111–22, is amended by striking “Chairman” and inserting “Chairperson”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (6) through (13) as paragraphs (9), and (16), respectively; | the bill names no machine-readable US Code section |
+| — | replace | Section 202(e) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11312), as amended by section 1004 of division B of Public Law 111–22, is amended by striking “Chairman” and inserting “Chairperson”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (6) through (13) as paragraphs (9) through (16), respectively; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “which shall set forth actions to accomplish the goal of ending homelessness,” after “National Strategic Plan to End Homelessness,”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting before the semicolon at the end the following: “and ensure that related programs and activities to assist homeless individuals of Federal agencies are coordinated with each other”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (c), by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | replace | Section 208 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11318), as amended by section 1004 of Public Law 111–22, is amended by striking “fiscal years 2011” and inserting “each of fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
+| — | replace | Section 208 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11318), as amended by section 1004 of division B of Public Law 111–22, is amended by striking “fiscal years 2011” and inserting “each of fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | amend | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
