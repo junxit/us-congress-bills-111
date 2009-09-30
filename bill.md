@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Iron working training program for native americans
 
-- **(a)** *In General* To the extent funds are made available for this purpose, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall annually provide a grant to an eligible entity to provide an iron working training program for members of federally recognized Indian tribes. An eligible entity that receives a grant under this section shall provide a program that meets the requirements of subsection (b) and may require such other criteria of the program and participants of the program as the eligible entity considers appropriate to further the goals of the program.
+- **(a)** *In General* To the extent funds are made available for this purpose, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall annually provide a grant to an eligible entity provide grants to federally recognized Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)), tribal colleges and universities, and other eligible entities to provide an iron working training program for members of federally recognized Indian tribes. An eligible entity that receives a grant under this section shall provide a program that meets the requirements of subsection (b) and may require such other criteria of the program and participants of the program as the eligible entity considers appropriate to further the goals of the program.
 - **(b)** *Requirements* A program funded by a grant under this section shall—
   - **(1)** provide specialized training in iron working skills to adult members of federally recognized Indian tribes;
   - **(2)** provide classroom and on-the-job training; and
@@ -19,3 +19,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(c)** *Eligible Entity* To be eligible for a grant under this section, an entity shall—
   - **(1)** have proven experience in providing successful iron working training programs to Native American populations; and
   - **(2)** have the facilities necessary to carry out such a program with a grant provided under this section.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Other eligible entity* The term other eligible entity means an entity that—
+    - **(A)** has proven experience in providing successful iron working training programs to Native American populations; and
+    - **(B)** has the facilities necessary to carry out such a program with a grant provided under this section.
+  - **(2)** *Tribal college or university* The term tribal college or university means an institution of higher education that is formally controlled, or has been formally sanctioned or chartered, by the governing body of 1 or more Indian tribes.
