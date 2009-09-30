@@ -1,7 +1,7 @@
 ---
 measure: H.R. 905
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 905
@@ -51,3 +51,4 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve Boundary Modificat
 - 2009-09-29 — Placed on the Union Calendar, Calendar No. 151.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-270.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-270.
+- 2009-09-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.
