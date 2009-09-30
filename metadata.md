@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 41
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 41
@@ -32,3 +32,9 @@ A concurrent resolution providing for the acceptance of a statue of Helen Keller
 - 2009-09-24 — Message on Senate action sent to the House.
 - 2009-09-24 — Received in the House.
 - 2009-09-24 — Referred to the House Committee on House Administration.
+- 2009-09-30 — Considered under suspension of the rules. (consideration: CR H10085-10087)
+- 2009-09-30 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 41.
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution, as amended.
+- 2009-09-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10085)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10085)
