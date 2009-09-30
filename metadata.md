@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 769
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 769
@@ -32,3 +32,9 @@ Recognizing the benefits of service-learning as a teaching strategy to effective
 - 2009-09-23 — Introduced in House
 - 2009-09-23 — Introduced in House
 - 2009-09-23 — Referred to the House Committee on Education and Labor.
+- 2009-09-30 — Considered under suspension of the rules. (consideration: CR H10082-10083)
+- 2009-09-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 769.
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — Ms. Chu moved to suspend the rules and agree to the resolution.
+- 2009-09-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10082)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10082)

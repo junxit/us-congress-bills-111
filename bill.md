@@ -2,7 +2,7 @@
 legis-num: H. RES. 769
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 769
@@ -24,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas service-learning programs engage students in actively addressing and solving pressing community issues and are strengthening the ability of nonprofit organizations to meet community needs;
 - Whereas Learn and Serve America, a program established under subtitle B of title I of the National and Community Service Act of 1990 (42 U.S.C. 12521 et seq.), is the only federally funded program dedicated to service-learning and engages over 1,100,000 youth in service-learning annually;
 - Whereas Learn and Serve America is a highly cost-effective program, averaging approximately $25 per participant and leveraging $1 for every Federal dollar invested; and
-- Whereas the National Learn and Serve Challenge is an annual event that is taking place this year from October 5 through October 11, 2009, that spotlights the value of service-learning to young people as well as schools, college campuses, and communities, encourages others to launch service-learning activities, and increases recognition of Learn and Serve America: Now, therefore, be it:
+- Whereas the National Learn and Serve Challenge is an annual event that is taking place this year from October 5 through October 11, 2009, that spotlights the value of service-learning to young people as well as schools, college campuses, and communities, encourages others to launch service-learning activities, and increases recognition of Learn and Serve America: Now, therefore, be it
 
 That the House of Representatives—
 
