@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3663
@@ -16,7 +16,7 @@ To amend title XVIII of the Social Security Act to delay the date on which the a
 
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Berry, Marion [D-AR-1] (B000420)
@@ -26,6 +26,8 @@ To amend title XVIII of the Social Security Act to delay the date on which the a
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
 ## Committees (2)
 
@@ -39,3 +41,10 @@ To amend title XVIII of the Social Security Act to delay the date on which the a
 - 2009-09-29 — Referred to House Energy and Commerce
 - 2009-09-29 — Referred to House Ways and Means
 - 2009-09-29 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-30 — Considered under suspension of the rules. (consideration: CR H10090-10092)
+- 2009-09-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3663.
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2009-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10090)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10090)
+- 2009-09-30 — Referred to the Subcommittee on Health.
