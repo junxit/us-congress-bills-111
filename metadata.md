@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 685
@@ -52,9 +52,10 @@ United States Civil Rights Trail Special Resource Study Act of 2009
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ United States Civil Rights Trail Special Resource Study Act of 2009
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-267.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-267.
 - 2009-09-29 — The title of the measure was amended. Agreed to without objection.
+- 2009-09-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

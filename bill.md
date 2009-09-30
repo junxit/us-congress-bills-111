@@ -2,12 +2,12 @@
 legis-num: H.R. 685
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 685
 
-> To require a study of the feasibility of establishing the United States Civil Rights Trail System, and for other purposes.
+> To require the Secretary of the Interior to conduct a special resource study regarding the proposed United States Civil Rights Trail, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,7 +19,7 @@ This Act may be cited as the “United States Civil Rights Trail Special Resourc
 - **(b)** *Consultation* The Secretary shall conduct the special resource study in consultation with appropriate Federal, State, county, and local governmental entities.
 - **(c)** *Study requirements* The Secretary shall conduct the study required under subsection (a) in accordance with section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c)) and section 5(b) of the National Trails System Act (16 U.S.C. 1244(b)), as appropriate.
 - **(d)** *Study Objectives* In conducting the special resource study, the Secretary shall evaluate alternatives for achieving the following objectives:
-  - **(1)** Identifying the resources and historic themes associated with the movement to secure racial equality in the United States for African-Americans that, focusing on the period from 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights for all American citizens.
+  - **(1)** Identifying the resources and historic themes associated with the movement to secure racial equality in the United States for African Americans that, focusing on the period from 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights for all American citizens.
   - **(2)** Making a review of existing studies and reports, such as the Civil Rights Framework Study, to complement and not duplicate other studies of the historical importance of the civil rights movements that may be underway or undertaken.
   - **(3)** Establishing connections with agencies, organizations, and partnerships already engaged in the preservation and interpretation of various trails and sites dealing with the civil rights movement.
   - **(4)** Protecting historically significant landscapes, districts, sites, and structures.
