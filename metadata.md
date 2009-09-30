@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1771
@@ -26,6 +26,10 @@ Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2009
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-09-30 — [House 111-1-744](votes/house-111-1-0744.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (338–78)
+
 ## Actions
 
 - 2009-03-26 — Introduced in House
@@ -43,3 +47,7 @@ Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2009
 - 2009-09-29 — Placed on the Union Calendar, Calendar No. 152.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-271.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-271.
+- 2009-09-30 — Considered as unfinished business. (consideration: CR H10122)
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 338 - 78 (Roll no. 744). (text: CR 9/29/2009 H10009-10010)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 338 - 78 (Roll no. 744).(text: CR 9/29/2009 H10009-10010)
