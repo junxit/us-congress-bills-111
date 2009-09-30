@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1053
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1053
@@ -35,6 +35,10 @@ Chesapeake Bay Accountability and Recovery Act of 2009
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-09-30 — [House 111-1-745](votes/house-111-1-0745.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–1)
+
 ## Actions
 
 - 2009-02-12 — Introduced in House
@@ -57,3 +61,7 @@ Chesapeake Bay Accountability and Recovery Act of 2009
 - 2009-09-29 — Placed on the Union Calendar, Calendar No. 153.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-272, Part I.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-272, Part I.
+- 2009-09-30 — Considered as unfinished business. (consideration: CR H10122-10123)
+- 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 745). (text: CR 9/29/2009 H10012-10013)
+- 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 745).(text: CR 9/29/2009 H10012-10013)

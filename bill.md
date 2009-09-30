@@ -45,7 +45,7 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
 
 ## § 3. Adaptive Management Plan
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other Federal and State agencies, shall develop an adaptive management plan for the Chesapeake Bay Program and restoration activities that includes—
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other Federal and State agencies, shall develop an adaptive management plan for restoration activities in the Chesapeake Bay watershed that includes—
   - **(1)** definition of specific and measurable objectives to improve water quality, habitat, and fisheries;
   - **(2)** a process for stakeholder participation;
   - **(3)** monitoring, modeling, experimentation, and other research and evaluation practices;
@@ -60,7 +60,7 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
 
 ## § 4. Independent Evaluator for the Chesapeake Bay Program
 
-- **(a)** *In general* There shall be an Independent Evaluator for the Chesapeake Bay Program, who shall review and report on restoration activities and the use of adaptive management in restoration activities, including on such related topics as are suggested by the Chesapeake Executive Council.
+- **(a)** *In general* There shall be an Independent Evaluator for restoration activities in the Chesapeake Bay watershed, who shall review and report on restoration activities and the use of adaptive management in restoration activities, including on such related topics as are suggested by the Chesapeake Executive Council.
 - **(b)** *Appointment*
   - **(1)** *In general* The Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council.
   - **(2)** *Nominations* The Chesapeake Executive Council may submit to the Administrator 4 nominees for appointment to any vacancy in the office of the Independent Evaluator.
