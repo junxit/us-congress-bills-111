@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2950
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2950
@@ -16,9 +16,10 @@ To direct the Secretary of the Interior to allow for prepayment of repayment con
 
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To direct the Secretary of the Interior to allow for prepayment of repayment con
 - 2009-09-29 — Placed on the Union Calendar, Calendar No. 150.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-269.
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-269.
+- 2009-09-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
