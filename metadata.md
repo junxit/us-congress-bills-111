@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3663
@@ -49,3 +49,13 @@ To amend title XVIII of the Social Security Act to delay the date on which the a
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10090)
 - 2009-09-30 — Referred to the Subcommittee on Health.
 - 2009-10-01 — Received in the Senate, read twice.
+- 2009-10-05 — Cleared for White House.
+- 2009-10-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10117)
+- 2009-10-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10117)
+- 2009-10-06 — Message on Senate action sent to the House.
+- 2009-10-07 — Presented to President.
+- 2009-10-07 — Presented to President.
+- 2009-10-13 — Became Public Law No: 111-72.
+- 2009-10-13 — Became Public Law No: 111-72.
+- 2009-10-13 — Signed by President.
+- 2009-10-13 — Signed by President.
