@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 51
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 51
@@ -52,9 +52,10 @@ Recognizing the 50th anniversary of the signing of the Antarctic Treaty.
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Recognizing the 50th anniversary of the signing of the Antarctic Treaty.
 - 2009-09-30 — Mr. Berman moved to suspend the rules and agree to the resolution, as amended.
 - 2009-09-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10106-10107)
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10106-10107)
+- 2009-10-01 — Received in the Senate and referred to the Committee on Foreign Relations.
