@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1771
@@ -22,9 +22,10 @@ Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2009
 - Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2009
 - 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 338 - 78 (Roll no. 744). (text: CR 9/29/2009 H10009-10010)
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 338 - 78 (Roll no. 744).(text: CR 9/29/2009 H10009-10010)
+- 2009-10-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
