@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1333
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1333
@@ -20,9 +20,10 @@ To amend chapter 40 of title 18, United States Code, to exempt the transportatio
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend chapter 40 of title 18, United States Code, to exempt the transportatio
 - 2009-09-30 — Mr. Schiff moved to suspend the rules and pass the bill, as amended.
 - 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10101)
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10101)
+- 2009-10-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
