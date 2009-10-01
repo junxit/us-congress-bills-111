@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Edward William Brooke III was the first African American elected by popular vote to the United States Senate and served with distinction for 2 terms from January 3, 1967, to January 3, 1979;
 - Whereas on March 29, 2007, the United States Senate passed S. 682, sponsored by the late Senator Edward M. Kennedy with 68 co-sponsors, by unanimous consent, to award Senator Brooke the Congressional Gold Medal;
 - Whereas on June 10, 2008, the House passed S. 682 under suspension of the rules by voice vote and a similar measure, H.R. 1000 was introduced in the House by Representative Eleanor Holmes Norton with 286 co-sponsors; and
-- Whereas the President signed the bill on July 1, 2008, and it became Public Law 110-260: Now, therefore, be it
+- Whereas the President signed the bill on July 1, 2008, and it became Public Law 110–260: Now, therefore, be it
 
 ## § 1. Use of the rotunda of the Capitol for the presentation of the Congressional Gold Medal
 
