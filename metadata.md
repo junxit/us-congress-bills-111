@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3663
@@ -48,3 +48,4 @@ To amend title XVIII of the Social Security Act to delay the date on which the a
 - 2009-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10090)
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10090)
 - 2009-09-30 — Referred to the Subcommittee on Health.
+- 2009-10-01 — Received in the Senate, read twice.

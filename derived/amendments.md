@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3663
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 1834(a)(20)(F)(i) of the Social Security Act (42 U.S.C. 1395m(a)(20)(F)(i)) is amended by inserting before the semicolon the following: “, except that the Secretary shall not require under this clause pharmacies to obtain such ac… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395m` | insert | Section 1834(a)(20)(F)(i) of the Social Security Act (42 U.S.C. 1395m(a)(20)(F)(i)) is amended by inserting before the semicolon the following: “, except that the Secretary shall not require under this clause pharmacies to obtain such ac… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
