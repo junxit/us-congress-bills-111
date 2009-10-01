@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1053
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1053
@@ -30,10 +30,11 @@ Chesapeake Bay Accountability and Recovery Act of 2009
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Chesapeake Bay Accountability and Recovery Act of 2009
 - 2009-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 745). (text: CR 9/29/2009 H10012-10013)
 - 2009-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 745).(text: CR 9/29/2009 H10012-10013)
+- 2009-10-01 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
