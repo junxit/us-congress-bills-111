@@ -16,6 +16,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Russ Meyer was instrumental in the development of the “Be A Pilot Program”, which has resulted in tens of thousands of new pilots and contributed more than $200,000,000 to the United States economy through general aviation operations;
 - Whereas Russ Meyer was the originator of the Citation Special Olympics Airlift, in which hundreds of owners of Citation aircraft transport athletes from around the country to the Special Olympics National Games; and
 - Whereas Russ Meyer will join fellow residents of Kansas Olive Beech and Walter Beech, Lloyd Stearman, Clyde Cessna, Amelia Earhart, and Joe Engle in the National Aviation Hall of Fame: Now, therefore, be it
+- Whereas the leadership of Russell (Russ) W. Meyer, Jr., former chairman and chief executive officer of Cessna Aircraft Company and a leading proponent of general aviation, has had a dramatic impact on the continued growth of the aviation industry in Kansas and throughout the United States;
+- Whereas Russ Meyer was one of the principal advocates for the General Aviation Revitalization Act of 1994 (Public Law 103–298; 108 Stat. 1552);
+- Whereas Russ Meyer was instrumental in the development of the “Be A Pilot Program”, which has resulted in tens of thousands of new pilots and contributed more than $200,000,000 to the United States economy through general aviation operations;
+- Whereas Russ Meyer was the originator of the Citation Special Olympics Airlift, in which hundreds of owners of Citation aircraft transport athletes from around the country to the Special Olympics National Games; and
+- Whereas Russ Meyer will join fellow residents of Kansas Olive Beech and Walter Beech, Lloyd Stearman, Clyde Cessna, Amelia Earhart, and Joe Engle in the National Aviation Hall of Fame: Now, therefore, be it
 
 That the House of Representatives—
 
