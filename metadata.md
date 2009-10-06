@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3326
@@ -16,12 +16,118 @@ Department of Defense Appropriations Act, 2010
 
 - Rep. Murtha, John P. [D-PA-12] (M001120)
 
+## Cosponsors (103)
+
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (15)
+## Recorded votes (27)
 
 - 2009-07-30 — [House 111-1-661](votes/house-111-1-0661.md) — On Agreeing to the Amendment — **Agreed to** (269–165)
 - 2009-07-30 — [House 111-1-662](votes/house-111-1-0662.md) — On Agreeing to the Amendment — **Failed** (48–373)
@@ -38,6 +144,18 @@ Department of Defense Appropriations Act, 2010
 - 2009-07-30 — [House 111-1-673](votes/house-111-1-0673.md) — On Agreeing to the Amendment — **Failed** (99–338)
 - 2009-07-30 — [House 111-1-674](votes/house-111-1-0674.md) — On Motion to Recommit with Instructions — **Failed** (169–261)
 - 2009-07-30 — [House 111-1-675](votes/house-111-1-0675.md) — On Passage — **Passed** (400–30)
+- 2009-09-30 — [Senate 111-1-303](votes/senate-111-1-0303.md) — On the Motion — **Motion Rejected** (34–64)
+- 2009-10-01 — [Senate 111-1-304](votes/senate-111-1-0304.md) — On the Amendment — **Amendment Agreed to** (60–39)
+- 2009-10-01 — [Senate 111-1-305](votes/senate-111-1-0305.md) — On the Amendment — **Amendment Rejected** (40–59)
+- 2009-10-06 — [Senate 111-1-307](votes/senate-111-1-0307.md) — On the Amendment — **Amendment Rejected** (38–60)
+- 2009-10-06 — [Senate 111-1-308](votes/senate-111-1-0308.md) — On the Amendment — **Amendment Agreed to** (68–30)
+- 2009-10-06 — [Senate 111-1-309](votes/senate-111-1-0309.md) — On the Amendment — **Amendment Agreed to** (91–7)
+- 2009-10-06 — [Senate 111-1-310](votes/senate-111-1-0310.md) — On the Amendment — **Amendment Rejected** (28–70)
+- 2009-10-06 — [Senate 111-1-311](votes/senate-111-1-0311.md) — On the Amendment — **Amendment Rejected** (25–73)
+- 2009-10-06 — [Senate 111-1-312](votes/senate-111-1-0312.md) — On the Amendment — **Amendment Rejected** (30–68)
+- 2009-10-06 — [Senate 111-1-313](votes/senate-111-1-0313.md) — On the Amendment — **Amendment Agreed to** (77–21)
+- 2009-10-06 — [Senate 111-1-314](votes/senate-111-1-0314.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2009-10-06 — [Senate 111-1-315](votes/senate-111-1-0315.md) — On Passage of the Bill — **Bill Passed** (93–7)
 
 ## Actions
 
@@ -209,3 +327,242 @@ Department of Defense Appropriations Act, 2010
 - 2009-09-10 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 111-74.
 - 2009-09-10 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 111-74.
 - 2009-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
+- 2009-09-22 — Senate amendment submitted
+- 2009-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S9817-9830; text of measure as reported in Senate: CR S9817-9832)
+- 2009-09-24 — Senate amendment submitted
+- 2009-09-25 — Considered by Senate. (consideration: CR S9861-9863)
+- 2009-09-25 — Senate amendment submitted
+- 2009-09-29 — Amendment SA 2484 agreed to in Senate by Voice Vote.
+- 2009-09-29 — Amendment SA 2484 proposed by Senator Johanns. (consideration: CR S9912; text: CR S9912) Prohibiting the use of funds to fund the Association of Community Organizations for Reform Now (ACORN).
+- 2009-09-29 — Amendment SA 2558 proposed by Senator McCain. (consideration: CR S9906-9907, S9916-9918; text: CR S9906) To strike amounts available for procurement of C-17 aircraft in excess of the amount requested by the President in the budget for fiscal year 2010 and to make such amounts available instead for operation and maintenance in accordance with amounts requested by the President in that budget and for Operation and Maintenance, Army, for overseas contingent operations.
+- 2009-09-29 — Considered by Senate. (consideration: CR S9906-9907, S9908-9909, S9910-9918)
+- 2009-09-29 — Senate amendment agreed to: Amendment SA 2484 agreed to in Senate by Voice Vote.
+- 2009-09-29 — Senate amendment proposed (on the floor): Amendment SA 2484 proposed by Senator Johanns.(consideration: CR S9912; text: CR S9912)
+- 2009-09-29 — Senate amendment proposed (on the floor): Amendment SA 2558 proposed by Senator McCain.(consideration: CR S9906-9907, S9916-9918; text: CR S9906)
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-29 — Senate amendment submitted
+- 2009-09-30 — Amendment SA 2555 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S9972)
+- 2009-09-30 — Amendment SA 2555 proposed by Senator Johanns. (consideration: CR S9972) To ensure the availability of not less than $30,000,000 for High Priority National Guard Counterdrug Programs.
+- 2009-09-30 — Amendment SA 2558 ruled out of order by the chair.
+- 2009-09-30 — Amendment SA 2575 proposed by Senator McCain. (consideration: CR S9971-9972; text: CR S9971) To provide for testimony before Congress on the additional forces and resources required to meet United States objectives with respect to Afghanistan and Pakistan.
+- 2009-09-30 — Cloture motion on the bill presented in Senate. (consideration: CR S9975; text: CR S9975)
+- 2009-09-30 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S9975; text: CR S9975)
+- 2009-09-30 — Considered by Senate. (consideration: CR S9970-9971)
+- 2009-09-30 — Considered by Senate. (consideration: CR S9970-9972, S9975)
+- 2009-09-30 — Motion to waive the Budget Act with respect to amendment SA 2558 rejected in Senate by Yea-Nay Vote. 34 - 64. Record Vote Number: 303.
+- 2009-09-30 — Point of order raised in Senate with respect to amendment SA 2558.
+- 2009-09-30 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2558 rejected in Senate by Yea-Nay Vote. 34 - 64. Record Vote Number: 303.
+- 2009-09-30 — Senate amendment agreed to: Amendment SA 2555 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S9972)
+- 2009-09-30 — Senate amendment proposed (on the floor): Amendment SA 2555 proposed by Senator Johanns.(consideration: CR S9972)
+- 2009-09-30 — Senate amendment proposed (on the floor): Amendment SA 2575 proposed by Senator McCain.(consideration: CR S9971-9972; text: CR S9971)
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-09-30 — Senate amendment submitted
+- 2009-10-01 — Amendment SA 2559 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2559 proposed by Senator Sanders. (consideration: CR S10035, S10052; text: CR S10035) To make available from Research, Development, Test, and Evaluation, Army $12,000,000 for the peer-reviewed Gulf War Illness Research Program of the Army.
+- 2009-10-01 — Amendment SA 2562 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S10052)
+- 2009-10-01 — Amendment SA 2562 proposed by Senator Inouye for Senator Reid. (consideration: CR S10040, S10052) To express the sense of Congress, and to require a report, on expanding the mission of Nevada Test Site.
+- 2009-10-01 — Amendment SA 2563 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2563 proposed by Senator Coburn. (consideration: CR S10015, S10052; text: CR S10015) To require public disclosure of certain reports.
+- 2009-10-01 — Amendment SA 2565 proposed by Senator Coburn. (consideration: CR S10016, S10040; text: CR S10016) To ensure transparency and accountability by providing that each member of Congress and the Secretary of Defense has the ability to review $1,500,000,000 in taxpayer funds allocated to the National Guard and Reserve components of the Armed Forces.
+- 2009-10-01 — Amendment SA 2566 proposed by Senator Franken for Senator Coburn. (consideration: CR S10027-10028; text: CR S10028) To restore $166,000,000 for the Armed Forces to prepare for and conduct combat operations, by eliminating low-priority congressionally directed spending items for all operations and maintenance accounts.
+- 2009-10-01 — Amendment SA 2567 proposed by Senator Barrasso. (consideration: CR S10021-10022, S10037-10038; text: CR S10021-10022) To prohibit the use of funds for the Center on Climate Change and National Security of the Central Intelligence Agency.
+- 2009-10-01 — Amendment SA 2568 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2568 proposed by Senator Inouye for Senator Kyl. (consideration: CR S10052; text: CR S10052) To make available from amounts available for the Office of the Secretary of Defense $250,000 for the declassification of the 2001 nuclear posture review.
+- 2009-10-01 — Amendment SA 2569 proposed by Senator Coburn. (consideration: CR S10015, S10039, S10040, S10052; text: CR S10015) To restore $294,000,000 for the Armed Forces to prepare for and conduct combat operations by accounting for the August 2009 Congressional Budget Office economic assumptions and by reducing funding for congressionally directed spending items for low-priority research and development projects.
+- 2009-10-01 — Amendment SA 2571 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2571 proposed by Senator Inouye for Senator Byrd. (consideration: CR S10037; text: CR S10037) To require a report on the use by the Department of Defense of live primates in training programs related to chemical or biological agents.
+- 2009-10-01 — Amendment SA 2575 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 305.
+- 2009-10-01 — Amendment SA 2578 as modified agreed to in Senate by Voice Vote. (text as modified: CR S10021)
+- 2009-10-01 — Amendment SA 2578 proposed by Senator Kaufman. (consideration: CR S10019, S10021; text: CR S10019) To provide for continuing support of certain civilian-military training for civilians deploying to Afghanistan.
+- 2009-10-01 — Amendment SA 2585 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2585 proposed by Senator Franken for Senator Coburn. (consideration: CR S10027-10028, S10052; text: CR S10027) To restore certain funds for the Armed Forces to prepare for and conduct combat operations by accounting for the August 2009 Congressional Budget Office economic assumptions and by reducing funding for congressionally directed spending items for low-priority research and development projects.
+- 2009-10-01 — Amendment SA 2588 proposed by Senator Franken. (consideration: CR S10027-10028; text: CR S10027) To prohibit the use of funds for any Federal contract with Halliburton Company, KBR, Inc., any of their subsidiaries or affiliates, or any other contracting party if such contractor or a subcontractor at any tier under such contract requires that employees or independent contractors sign mandatory arbitration clauses regarding certain claims.
+- 2009-10-01 — Amendment SA 2592 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S10041-10042)
+- 2009-10-01 — Amendment SA 2592 proposed by Senator Casey. (consideration: CR S10019-10021, S10041-10044, S10052) To ensure that work under contracts under the Logistics Civil Augmentation Program compiles with certain standards.
+- 2009-10-01 — Amendment SA 2593 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 304.
+- 2009-10-01 — Amendment SA 2593 proposed by Senator Levin. (consideration: CR S10011-10015, S10025; text: CR S10011-10012) Relating to hearings on strategy and resources with respect to Afghanistan and Pakistan.
+- 2009-10-01 — Amendment SA 2594 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2594 proposed by Senator Shelby. (consideration: CR S10032-10033; text: CR S10032) To require reports on certain elements of the ballistic missile defense system.
+- 2009-10-01 — Amendment SA 2596 proposed by Senator Franken for Senator Bond. (consideration: CR S10027-10028; text: CR S10027) To limit the early retirement of tactical aircraft.
+- 2009-10-01 — Amendment SA 2598 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2598 proposed by Senator Brownback. (consideration: CR S10036-10037; text: CR S10036) To acknowledge a long history of official depredations and ill-conceived policies by the Federal Government regarding Indian tribes and offer an apology to all Native Peoples on behalf of the United States.
+- 2009-10-01 — Amendment SA 2601 proposed by Senator Sanders. (consideration: CR S10035; text: CR S10035) To make available from Overseas Contingency Operations $20,000,000 for outreach and reintegration services under the Yellow Ribbon Reintegration Program.
+- 2009-10-01 — Amendment SA 2608 proposed by Senator Chambliss for Senator Kyl. (consideration: CR S10029-10030; text: CR S10030) To appropriate an additional $900,000,000 for the Afghanistan Security Forces Fund.
+- 2009-10-01 — Amendment SA 2614 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2614 proposed by Senator Inouye for Senator Nelson NE. (consideration: CR S10052; text: CR S10052) To make available from Operations and Maintenance, Defense-Wide, $15,000,000 for implementation of the Military and Overseas Voter Empowerment Act.
+- 2009-10-01 — Amendment SA 2615 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2615 proposed by Senator Inouye for Senator Hagan. (consideration: CR S10052; text: CR S10052) To provide that none of the funds appropriated or otherwise made available by this Act may be used to dispose of claims filed regarding water contamination at Camp Lejeune, North Carolina, until the Agency for Toxic Substances and Disease Registry (ATSDR) fully completes all current, ongoing epidemiological and water modeling studies.
+- 2009-10-01 — Amendment SA 2616 proposed by Senator Lieberman. (consideration: CR S10047-10050; text: CR S10047-10048; text as modified: CR S10050) Relating to the two-stage ground-based interceptor missile.
+- 2009-10-01 — Amendment SA 2617 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Amendment SA 2617 proposed by Senator Sanders. (consideration: CR S10033-10034, S10044-10045, S10052; text: CR S10033) To require a report on Federal contracting fraud.
+- 2009-10-01 — Amendment SA 2621 as modified agreed to in Senate by Voice Vote. (text as modified: CR S10040-10041)
+- 2009-10-01 — Amendment SA 2621 proposed by Senator Chambliss. (consideration: CR S10040-10041) To express the Sense of the Senate on Joint STARS reengineering.
+- 2009-10-01 — Amendment SA 2621 was modified to be a first degree amendment by Unanimous Consent.
+- 2009-10-01 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2009-10-01 — Cloture motion on the committee reported substitute amendment withdrawn by unanimous consent in Senate.
+- 2009-10-01 — Considered by Senate. (consideration: CR S10009-10011, S10026-10027)
+- 2009-10-01 — Considered by Senate. (consideration: CR S10009-10016, S10019-10025, S10026-10034, S10035, S10036-10038, S10039-10045, S10046-10050, S10052-10054)
+- 2009-10-01 — Proposed amendment SA 2569 withdrawn in Senate. (consideration: CR S10052)
+- 2009-10-01 — Proposed amendment SA 2608 withdrawn in Senate. (consideration: CR S10054)
+- 2009-10-01 — Roll call votes on amendments in Senate: Amendment SA 2575 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 305.
+- 2009-10-01 — Roll call votes on amendments in Senate: Amendment SA 2593 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 304.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2559 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2562 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S10052)
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2563 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2568 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2571 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2578 as modified agreed to in Senate by Voice Vote.(text as modified: CR S10021)
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2585 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2592 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S10041-10042)
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2593 agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 304.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2594 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2598 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2614 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2615 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2617 agreed to in Senate by Unanimous Consent.
+- 2009-10-01 — Senate amendment agreed to: Amendment SA 2621 as modified agreed to in Senate by Voice Vote.(text as modified: CR S10040-10041)
+- 2009-10-01 — Senate amendment not agreed to: Amendment SA 2575 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 305.
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2559 proposed by Senator Sanders.(consideration: CR S10035, S10052; text: CR S10035)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2562 proposed by Senator Inouye for Senator Reid.(consideration: CR S10040, S10052)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2563 proposed by Senator Coburn.(consideration: CR S10015, S10052; text: CR S10015)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2565 proposed by Senator Coburn.(consideration: CR S10016, S10040; text: CR S10016)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2566 proposed by Senator Franken for Senator Coburn.(consideration: CR S10027-10028; text: CR S10028)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2567 proposed by Senator Barrasso.(consideration: CR S10021-10022, S10037-10038; text: CR S10021-10022)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2568 proposed by Senator Inouye for Senator Kyl.(consideration: CR S10052; text: CR S10052)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2569 proposed by Senator Coburn.(consideration: CR S10015, S10039, S10040, S10052; text: CR S10015)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2571 proposed by Senator Inouye for Senator Byrd.(consideration: CR S10037; text: CR S10037)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2578 proposed by Senator Kaufman.(consideration: CR S10019, S10021; text: CR S10019)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2585 proposed by Senator Franken for Senator Coburn.(consideration: CR S10027-10028, S10052; text: CR S10027)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2588 proposed by Senator Franken.(consideration: CR S10027-10028; text: CR S10027)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2592 proposed by Senator Casey.(consideration: CR S10019-10021, S10041-10044, S10052)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2593 proposed by Senator Levin.(consideration: CR S10011-10015, S10025; text: CR S10011-10012)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2594 proposed by Senator Shelby.(consideration: CR S10032-10033; text: CR S10032)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2596 proposed by Senator Franken for Senator Bond.(consideration: CR S10027-10028; text: CR S10027)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2598 proposed by Senator Brownback.(consideration: CR S10036-10037; text: CR S10036)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2601 proposed by Senator Sanders.(consideration: CR S10035; text: CR S10035)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2608 proposed by Senator Chambliss for Senator Kyl.(consideration: CR S10029-10030; text: CR S10030)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2614 proposed by Senator Inouye for Senator Nelson NE.(consideration: CR S10052; text: CR S10052)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2615 proposed by Senator Inouye for Senator Hagan.(consideration: CR S10052; text: CR S10052)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2616 proposed by Senator Lieberman.(consideration: CR S10047-10050; text: CR S10047-10048; text as modified: CR S10050)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2617 proposed by Senator Sanders.(consideration: CR S10033-10034, S10044-10045, S10052; text: CR S10033)
+- 2009-10-01 — Senate amendment proposed (on the floor): Amendment SA 2621 proposed by Senator Chambliss.(consideration: CR S10040-10041)
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-01 — Senate amendment submitted
+- 2009-10-06 — Amendment SA 2560 not agreed to in Senate by Voice Vote.
+- 2009-10-06 — Amendment SA 2560 proposed by Senator McCain. (consideration: CR S10155; text: CR S10155) To require that earmarks for for-profit entities be subject to full and open competition.
+- 2009-10-06 — Amendment SA 2565 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 310.
+- 2009-10-06 — Amendment SA 2566 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 311.
+- 2009-10-06 — Amendment SA 2567 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 307.
+- 2009-10-06 — Amendment SA 2580 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 312.
+- 2009-10-06 — Amendment SA 2580 proposed by Senator McCain. (consideration: CR S10153-10154; text: CR S10153) To strike amounts available for procurement of C-17 aircraft in excess of the amount requested by the President in the budget for fiscal year 2010.
+- 2009-10-06 — Amendment SA 2583 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 314.
+- 2009-10-06 — Amendment SA 2583 proposed by Senator McCain. (consideration: CR S10155; text: CR S10155) To strike funding for the MARIAH Hypersonic Wind Tunnel Development Program.
+- 2009-10-06 — Amendment SA 2588 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 308.
+- 2009-10-06 — Amendment SA 2596 agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 309.
+- 2009-10-06 — Amendment SA 2601 agreed to in Senate by Voice Vote.
+- 2009-10-06 — Amendment SA 2605 agreed to in Senate by Unanimous Consent.
+- 2009-10-06 — Amendment SA 2605 proposed by Senator Inouye for Senator Bingaman. (consideration: CR S10156-10157; text: CR S10157) To make available from Research, Development, Test, and Evaluation, Air Force, $5,000,000 to carry out evaluations and analyses of certain laser systems.
+- 2009-10-06 — Amendment SA 2616 as modified agreed to in Senate by Voice Vote.
+- 2009-10-06 — Amendment SA 2618 as modified agreed to in Senate by Voice Vote. (text as modified: CR S10149)
+- 2009-10-06 — Amendment SA 2618 proposed by Senator Inhofe. (consideration: CR S10149) To ensure sustainment, readiness, and acquisition of ammunition for all United States military services in order to meet long term peacetime and wartime requirements.
+- 2009-10-06 — Amendment SA 2623 agreed to in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 313.
+- 2009-10-06 — Amendment SA 2623 proposed by Senator Inouye. (consideration: CR S10154-10155; text: CR S10154) To provide full and open competition for congressionally directed spending items.
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10146-10148, S10149-10150)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10148, S10152)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10148-10149)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10150-10151)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10151-10152)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143, S10152)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10143-10159)
+- 2009-10-06 — Considered by Senate. (consideration: CR S10144, S10155-10156)
+- 2009-10-06 — Passed Senate with an amendment by Yea-Nay Vote. 93 - 7. Record Vote Number: 315. (text: CR 10/7/2009 S10228-10243)
+- 2009-10-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 93 - 7. Record Vote Number: 315.(text: CR 10/7/2009 S10228-10243)
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2565 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 310.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2566 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 311.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2567 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 307.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2580 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 312.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2583 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 314.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2588 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 308.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2596 agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 309.
+- 2009-10-06 — Roll call votes on amendments in Senate: Amendment SA 2623 agreed to in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 313.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2588 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 308.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2596 agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 309.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2601 agreed to in Senate by Voice Vote.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2605 agreed to in Senate by Unanimous Consent.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2616 as modified agreed to in Senate by Voice Vote.
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2618 as modified agreed to in Senate by Voice Vote.(text as modified: CR S10149)
+- 2009-10-06 — Senate amendment agreed to: Amendment SA 2623 agreed to in Senate by Yea-Nay Vote. 77 - 21. Record Vote Number: 313.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2560 not agreed to in Senate by Voice Vote.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2565 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 310.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2566 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 311.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2567 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 307.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2580 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 312.
+- 2009-10-06 — Senate amendment not agreed to: Amendment SA 2583 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 314.
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2560 proposed by Senator McCain.(consideration: CR S10155; text: CR S10155)
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2580 proposed by Senator McCain.(consideration: CR S10153-10154; text: CR S10153)
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2583 proposed by Senator McCain.(consideration: CR S10155; text: CR S10155)
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2605 proposed by Senator Inouye for Senator Bingaman.(consideration: CR S10156-10157; text: CR S10157)
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2618 proposed by Senator Inhofe.(consideration: CR S10149)
+- 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2623 proposed by Senator Inouye.(consideration: CR S10154-10155; text: CR S10154)
+- 2009-10-06 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Dorgan; Durbin; Feinstein; Mikulski; Kohl; Murray; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Hutchison; Bennett; Brownback. (consideration: CR S10159)
+- 2009-10-06 — The committee substitute as amended agreed to by Unanimous Consent.
