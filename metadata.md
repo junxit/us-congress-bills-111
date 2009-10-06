@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 710
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 710
@@ -16,7 +16,7 @@ Supporting the goals and ideals of "National Estuaries Day".
 
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 
-## Cosponsors (51)
+## Cosponsors (58)
 
 - Rep. Adler, John H. [D-NJ-3] (A000364)
 - Rep. Boyd, Allen [D-FL-2] (B000716)
@@ -69,6 +69,13 @@ Supporting the goals and ideals of "National Estuaries Day".
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
 ## Committees (1)
 
@@ -79,3 +86,10 @@ Supporting the goals and ideals of "National Estuaries Day".
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Referred to the House Committee on Natural Resources.
+- 2009-08-05 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-10-06 — Considered under suspension of the rules. (consideration: CR H10474-10475)
+- 2009-10-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 710.
+- 2009-10-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-06 — Ms. Bordallo moved to suspend the rules and agree to the resolution.
+- 2009-10-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10474)
+- 2009-10-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10474)
