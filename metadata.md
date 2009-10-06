@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 43
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 43
@@ -20,8 +20,15 @@ A concurrent resolution authorizing the use of the rotunda of the Capitol for th
 
 - Sen. Reid, Harry [D-NV] (R000146)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2009-10-01 — Introduced in Senate
 - 2009-10-01 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S10076; text as passed Senate: CR S10076; text of measure as introduced: CR S10069)
 - 2009-10-01 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S10076; text as passed Senate: CR S10076; text of measure as introduced: CR S10069)
+- 2009-10-05 — Message on Senate action sent to the House.
+- 2009-10-06 — Received in the House.
+- 2009-10-06 — Referred to the House Committee on House Administration.
