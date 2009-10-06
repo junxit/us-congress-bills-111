@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 741
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 741
@@ -16,7 +16,7 @@ Expressing support for designation of October 8, 2009, as national Jumpstart's "
 
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 
-## Cosponsors (26)
+## Cosponsors (31)
 
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
@@ -44,6 +44,11 @@ Expressing support for designation of October 8, 2009, as national Jumpstart's "
 - Rep. McMahon, Michael E. [D-NY-13] (M001174)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Miller, George [D-CA-7] (M000725)
 
 ## Committees (1)
 
@@ -54,3 +59,9 @@ Expressing support for designation of October 8, 2009, as national Jumpstart's "
 - 2009-09-14 — Introduced in House
 - 2009-09-14 — Introduced in House
 - 2009-09-14 — Referred to the House Committee on Education and Labor.
+- 2009-10-06 — Considered under suspension of the rules. (consideration: CR H10471-10473)
+- 2009-10-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 741.
+- 2009-10-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-06 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10471)
+- 2009-10-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10471)
