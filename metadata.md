@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3305
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3305
@@ -32,3 +32,10 @@ To designate the Federal building and United States courthouse located at 224 So
 - 2009-07-23 — Introduced in House
 - 2009-07-23 — Introduced in House
 - 2009-07-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-07-24 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-09-24 — Committee Consideration and Mark-up Session Held.
+- 2009-09-24 — Ordered to be Reported by Voice Vote.
+- 2009-09-24 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-10-06 — Placed on the House Calendar, Calendar No. 117.
+- 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-286.
+- 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-286.
