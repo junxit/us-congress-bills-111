@@ -2,12 +2,12 @@
 legis-num: H. RES. 707
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 707
 
-> Expressing support for designation of the week of September 13, 2009, as Adult Education and Family Literacy Week.
+> Resolution expressing support for designation of the week of October 18, 2009, as National Adult Education and Family Literacy Week.
 
 ## Preamble
 
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas many of our Nations’ immigrants do not have the literacy skills to succeed in their new home country;
 - Whereas the National Assessment of Adult Literacy reports that 90,000,000 adults lack the literacy, numeracy, or English language skills to succeed at home, in the workplace, and in society;
 - Whereas National Adult Education and Family Literacy week highlights the need for our government to support efforts to ensure each and every citizen has the necessary literacy skills to succeed at home, at work, and in society; and
-- Whereas the week of September 13, 2009, would be an appropriate date to designate as Adult Education and Family Literacy Week: Now, therefore, be it
+- Whereas the week of October 18, 2009, would be an appropriate date to designate as National Adult Education and Family Literacy Week: Now, therefore, be it
 
 That the House of Representatives—
 
