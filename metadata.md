@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3371
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3371
@@ -16,7 +16,7 @@ Airline Safety and Pilot Training Improvement Act of 2009
 
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
-## Cosponsors (28)
+## Cosponsors (31)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 - Rep. Mica, John L. [R-FL-7] (M000689)
@@ -46,6 +46,9 @@ Airline Safety and Pilot Training Improvement Act of 2009
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
 
 ## Committees (1)
 
@@ -56,3 +59,10 @@ Airline Safety and Pilot Training Improvement Act of 2009
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Introduced in House
 - 2009-07-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported by Voice Vote.
+- 2009-07-30 — Referred to the Subcommittee on Aviation.
+- 2009-07-30 — Subcommittee on Aviation Discharged.
+- 2009-10-06 — Placed on the Union Calendar, Calendar No. 159.
+- 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-284.
+- 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-284.
