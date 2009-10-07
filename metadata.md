@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2174
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2174
@@ -29,3 +29,11 @@ To designate the facility of the United States Postal Service located at 18 Main
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Introduced in House
 - 2009-04-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-05-06 — Committee Consideration and Mark-up Session Held.
+- 2009-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2009-10-07 — Considered under suspension of the rules. (consideration: CR H10562-10563)
+- 2009-10-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2174.
+- 2009-10-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-07 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-10-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10562)
+- 2009-10-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10562)
