@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1035
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1035
@@ -60,3 +60,5 @@ Morris K. Udall Scholarship and Excellence in National Environmental Policy Amen
 - 2009-09-23 — Senate amendment agreed to: Amendment SA 2546 agreed to in Senate by Unanimous Consent.
 - 2009-09-23 — Senate amendment proposed (on the floor): Amendment SA 2546 proposed by Senator Feinstein for Senator Bingaman.(consideration: CR S9757; text: CR S9757)
 - 2009-09-23 — Senate amendment submitted
+- 2009-09-24 — Message on Senate action sent to the House.
+- 2009-10-07 — House agreed to Senate amendment with an amendment pursuant to H.Res. 806.
