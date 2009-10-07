@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 45
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 45
@@ -25,8 +25,15 @@ A concurrent resolution encouraging the Government of Iran to allow Joshua Fatta
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2009-10-06 — Introduced in Senate
 - 2009-10-06 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S10168; text as passed Senate: CR S10168; text of measure as introduced: CR S10166)
 - 2009-10-06 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S10168; text as passed Senate: CR S10168; text of measure as introduced: CR S10166)
+- 2009-10-07 — Message on Senate action sent to the House.
+- 2009-10-07 — Received in the House.
+- 2009-10-07 — Referred to the House Committee on Foreign Affairs.
