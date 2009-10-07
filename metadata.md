@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1016
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1016
@@ -181,3 +181,16 @@ Veterans Health Care Budget Reform and Transparency Act of 2009
 - 2009-08-06 — See also S.423.
 - 2009-08-06 — Senate struck all after the Enacting Clause and substituted the language of S. 423.
 - 2009-08-07 — Message on Senate action sent to the House.
+- 2009-10-08 — House agreed to Senate amendment with an amendment pursuant to H.Res. 804.
+- 2009-10-08 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2009-10-08 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H.Res. 804.
+- 2009-10-13 — Cleared for White House.
+- 2009-10-13 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment by Unanimous Consent.(consideration: CR S10376-10378; text as Senate agreed to House amendment: CR S10376)
+- 2009-10-13 — Senate agreed to House amendment to Senate amendment by Unanimous Consent. (consideration: CR S10376-10378; text as Senate agreed to House amendment: CR S10376)
+- 2009-10-14 — Message on Senate action sent to the House.
+- 2009-10-16 — Presented to President.
+- 2009-10-16 — Presented to President.
+- 2009-10-22 — Became Public Law No: 111-81.
+- 2009-10-22 — Became Public Law No: 111-81.
+- 2009-10-22 — Signed by President.
+- 2009-10-22 — Signed by President.
