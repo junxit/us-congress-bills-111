@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 805
 congress: 111
-version: Introduced in House
+version: Referred to Committee House
 ---
 
 # H.Res. 805
