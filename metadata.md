@@ -1,7 +1,7 @@
 ---
 measure: S. 942
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 942
@@ -36,3 +36,5 @@ Government Charge Card Abuse Prevention Act of 2009
 - 2009-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-76.
 - 2009-09-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-76.
 - 2009-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
+- 2009-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10243-10245; text as passed Senate: CR S10243-10245)
+- 2009-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10243-10245; text as passed Senate: CR S10243-10245)
