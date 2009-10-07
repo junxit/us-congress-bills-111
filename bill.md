@@ -1,0 +1,44 @@
+---
+legis-num: S. 1759
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1759
+
+> To authorize certain transfers of water in the Central Valley Project, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Water Transfer Facilitation Act of 2009”.
+
+## § 2. Authorization of irrigation water transfers, Central Valley Project
+
+- **(a)** *In general* Subject to subsection (b), the following voluntary water transfers shall be considered to meet the conditions described in subparagraphs (A) and (I) of section 3405(a)(1) of the Reclamation Projects Authorization and Adjustment Act of 1992 (Public Law 102–575; 106 Stat. 4709):
+  - **(1)** A transfer of irrigation water among Central Valley Project contractors from the Friant, San Felipe, West San Joaquin, and Delta divisions.
+  - **(2)** A transfer of water among current or prior temporary or long-term water service, repayment, water rights settlement, or exchange contractors within a division of the Central Valley Project.
+- **(b)** *Condition* A transfer under subsection (a) shall be subject to the condition that the transfer not interfere with—
+  - **(1)** the San Joaquin River Restoration Settlement Act (Public Law 111–11; 123 Stat. 1349), including the priorities described in section 10004(a)(4)(B) of that Act (123 Stat. 1350) relating to implementation of paragraph 16 of the Settlement (as defined in section 10003 of that Act (123 Stat. 1349)); and
+  - **(2)** the Settlement.
+
+## § 3. Facilitation of water transfers, Central Valley Project
+
+- **(a)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service and the Commissioner of the Bureau of Reclamation (referred to in this section as the “Secretary”), using such sums as are necessary, shall initiate and complete, on the most expedited basis practicable, the programmatic development of environmental documentation to facilitate voluntary water transfers within the Central Valley Project.
+- **(b)** *Inclusions* The environmental documentation under subsection (a) shall include all applicable environmental reviews, permitting, and consultations, including the environmental documentation needed to address concerns with respect to the Giant Garter Snake (Thamnophis gigas).
+
+## § 4. Report on Central Valley Project water transfers
+
+- **(a)** *In general* Not later than January 10, 2010, the Commissioner of the Bureau of Reclamation (referred to in this section as the “Commissioner”) shall submit to the appropriate committees of Congress a report that—
+  - **(1)** describes the status of efforts to help facilitate and improve the water transfers under this Act; and
+  - **(2)** provides recommendations on ways to facilitate, and improve the process for—
+    - **(A)** water transfers within the Central Valley Project; and
+    - **(B)** water transfers between the Central Valley Project and State water projects.
+- **(b)** *Updates* Not later than July 15, 2010, and every 180 days thereafter until the Commissioner determines that no further Federal action is warranted or authorized with respect to the water transfers under this Act, the Commissioner shall update the report submitted under subsection (a).
+
+## § 5. Technical corrections
+
+Section 3405(a)(1) of the Central Valley Project Improvement Act (Public Law 102–575; 106 Stat. 4710) is amended—
+
+- **(1)** in the first sentence, by striking “transfers to” and inserting “transfers of”; and
+- **(2)** in subparagraph (A), by striking “to combination” and inserting “or combination”.
