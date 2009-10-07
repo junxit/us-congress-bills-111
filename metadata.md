@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 111
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1037
@@ -20,9 +20,10 @@ Veterans' Benefits Enhancement Act of 2009
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,11 @@ Veterans' Benefits Enhancement Act of 2009
 - 2009-07-14 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2009-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 535). (text: CR H8036)
 - 2009-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 535).(text: CR H8036)
+- 2009-07-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2009-10-07 — Measure laid before Senate by unanimous consent. (consideration: CR S10251-10254)
+- 2009-10-07 — Passed Senate with an amendment by Unanimous Consent. (text: CR S10251-10254)
+- 2009-10-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S10251-10254)
+- 2009-10-07 — See also S. 728.
+- 2009-10-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2009-10-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2009-10-07 — Senate struck all after the Enacting Clause and substituted the language of S.728 amended.
