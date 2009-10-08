@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 26
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 26
