@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3590
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Paragraph (4) of section 36(f) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “This section” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (4) of section 1400C(e) of such Code is amended by inserting “(December 1, 2010, in the case of a purchase subject to section 36(h)(2))” after “December 1, 2009”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (1) by striking “this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure” and inserting “the American Recovery and Reinvestment Tax Act of 2009)”, and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (2) by striking “clause (1) of”. | the bill names no machine-readable US Code section |
