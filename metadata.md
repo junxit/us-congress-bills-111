@@ -1,7 +1,7 @@
 ---
 measure: S. 942
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 942
@@ -23,9 +23,11 @@ Government Charge Card Abuse Prevention Act of 2009
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Armed Services Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -38,3 +40,8 @@ Government Charge Card Abuse Prevention Act of 2009
 - 2009-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
 - 2009-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10243-10245; text as passed Senate: CR S10243-10245)
 - 2009-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10243-10245; text as passed Senate: CR S10243-10245)
+- 2009-10-08 — Message on Senate action sent to the House.
+- 2009-10-08 — Received in the House.
+- 2009-10-08 — Referred to House Armed Services
+- 2009-10-08 — Referred to House Oversight and Government Reform
+- 2009-10-08 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
