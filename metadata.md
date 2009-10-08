@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2092
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2092
@@ -16,9 +16,10 @@ Kingman and Heritage Islands Act of 2009
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Kingman and Heritage Islands Act of 2009
 - 2009-10-07 — Mr. Lynch moved to suspend the rules and pass the bill, as amended.
 - 2009-10-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10563)
 - 2009-10-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10563)
+- 2009-10-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
