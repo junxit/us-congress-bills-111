@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3763
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3763
+
+> To amend the Fair Credit Reporting Act to provide for an exclusion from Red Flag Guidelines for certain businesses.
+
+## § 1. Exclusion for certain small businesses
+
+- **(a)** *In general* Section 615(e) of the Fair Credit Reporting Act (15 U.S.C. 1681m(e)) is amended by adding at the end the following new paragraphs:
+  > - **(4)** *Exclusion for certain businesses* For purposes of this subsection, the term creditor shall not include—
+  >   - **(A)** a health care practice with 20 or fewer employees;
+  >   - **(B)** an accounting practice with 20 or fewer employees;
+  >   - **(C)** a legal practice with 20 or fewer employees; or
+  >   - **(D)** any other business, if the Commission determines, following an application for exclusion by such business, that such business—
+  >     - **(i)** knows all of its customers or clients individually;
+  >     - **(ii)** only performs services in or around the residences of its customers; or
+  >     - **(iii)** has not experienced incidents of identity theft and identity theft is rare for businesses of that type.
+  > - **(5)** *Limitation on exclusion for businesses no-longer eligible* To the extent that a business can no longer demonstrate that it meets the criteria under paragraph (4) that permitted its exclusion from the term creditor, such exclusion shall no longer apply.
+  > - **(6)** *Definitions* For purposes of this subsection:
+  >   - **(A)** *Employee* With respect to a business, the term employee means any individual who works for such business and is paid either wages or a salary.
+  >   - **(B)** *Health care practice*
+  >     - **(i)** *In general* The term health care practice means a business that’s primary service is providing health care via health care professionals employed by the business.
+  >     - **(ii)** *Health care professional* For purposes of subparagraph (A), the term health care professional means an individual engaged in providing health care and licensed under State law, including physicians, dentists, podiatrists, chiropractors, physical therapists, occupational therapists, marriage and family therapists, optometrists, speech therapists, language therapists, hearing therapists, and veterinarians.
+
+- **(b)** *Process for exclusion applications* Not later than 180 days after the date of the enactment of this Act, the Federal Trade Commission shall issue regulations, in accordance with section 553 of title 5, United States Code, that set forth the process by which a business may apply for an exclusion under section 615(e)(4)(D) of the Fair Credit Reporting Act.
