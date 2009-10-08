@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2499
@@ -16,7 +16,7 @@ Puerto Rico Democracy Act of 2010
 
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 
-## Cosponsors (88)
+## Cosponsors (181)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
@@ -106,6 +106,99 @@ Puerto Rico Democracy Act of 2010
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Shadegg, John B. [R-AZ-3] (S000275)
 
 ## Committees (1)
 
@@ -116,3 +209,9 @@ Puerto Rico Democracy Act of 2010
 - 2009-05-19 — Introduced in House
 - 2009-05-19 — Introduced in House
 - 2009-05-19 — Referred to the House Committee on Natural Resources.
+- 2009-06-24 — Committee Hearings Held.
+- 2009-07-22 — Committee Consideration and Mark-up Session Held.
+- 2009-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 8.
+- 2009-10-08 — Placed on the Union Calendar, Calendar No. 164.
+- 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-294.
+- 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-294.
