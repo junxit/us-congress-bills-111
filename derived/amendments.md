@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 804
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -2,12 +2,12 @@
 legis-num: H. RES. 804
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 804
 
-> Providing for the concurrence by the House in the Senate amendment to H.R. 1016, with amendment.
+> Providing for the concurrence by the House in the Senate amendment to H.R. 1016, with amendments.
 
 That upon the adoption of this resolution the bill (H.R. 1016) entitled “An Act to amend title 38, United States Code, to provide advance appropriations authority for certain medical care accounts of the Department of Veterans Affairs, and for other purposes”, with the Senate amendment thereto, shall be considered to have been taken from the Speaker’s table to the end that the Senate amendment thereto be, and the same is hereby, agreed to with the following amendment:
 
@@ -35,7 +35,7 @@ Section 1105(a) of title 31, United States Code, is amended by adding at the end
   >   - **(1)** be made available for that fiscal year; and
   >   - **(2)** include, for each such account, advance discretionary new budget authority that first becomes available for the first fiscal year after the budget year.
   > - **(b)** *Estimates required* The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to section 1105 of title 31, United States Code, detailed estimates of the funds necessary for the medical care accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
-  > - **(c)** *Medical care accounts* For purposes of this section, the term medical care accounts of the Department means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+  > - **(c)** *Medical care accounts* For purposes of this section, the term “medical care accounts of the Department” means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
   >   - **(1)** Medical Services.
   >   - **(2)** Medical Support and Compliance.
   >   - **(3)** Medical Facilities.
