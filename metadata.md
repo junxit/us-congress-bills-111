@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1641
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1641
@@ -32,3 +32,11 @@ Cascadia Marine Trail Study Act
 - 2009-03-19 — Introduced in House
 - 2009-03-19 — Introduced in House
 - 2009-03-19 — Referred to the House Committee on Natural Resources.
+- 2009-03-23 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-05-14 — Subcommittee Hearings Held.
+- 2009-07-29 — Committee Consideration and Mark-up Session Held.
+- 2009-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-07-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-10-08 — Placed on the Union Calendar, Calendar No. 162.
+- 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-292.
+- 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-292.
