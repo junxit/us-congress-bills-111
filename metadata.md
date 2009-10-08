@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 26
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 26
@@ -84,3 +84,15 @@ Proclaiming Casimir Pulaski to be an honorary citizen of the United States posth
 - 2009-10-08 — On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 767). (text: CR 10/7/2009 H10545-10546)
 - 2009-10-08 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 767).(text: CR 10/7/2009 H10545-10546)
 - 2009-10-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2009-10-22 — Cleared for White House.
+- 2009-10-22 — Passed Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-10-22 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-10-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10708-10709)
+- 2009-10-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10708-10709)
+- 2009-10-23 — Message on Senate action sent to the House.
+- 2009-10-29 — Presented to President.
+- 2009-10-29 — Presented to President.
+- 2009-11-06 — Became Public Law No: 111-94.
+- 2009-11-06 — Became Public Law No: 111-94.
+- 2009-11-06 — Signed by President.
+- 2009-11-06 — Signed by President.
