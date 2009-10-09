@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3433
@@ -25,3 +25,11 @@ To amend the North American Wetlands Conservation Act to establish requirements 
 - 2009-07-30 — Introduced in House
 - 2009-07-30 — Introduced in House
 - 2009-07-30 — Referred to the House Committee on Natural Resources.
+- 2009-08-07 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-09-22 — Subcommittee Hearings Held.
+- 2009-09-30 — Committee Consideration and Mark-up Session Held.
+- 2009-09-30 — Ordered to be Reported by Unanimous Consent.
+- 2009-09-30 — Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.
+- 2009-10-09 — Placed on the Union Calendar, Calendar No. 166.
+- 2009-10-09 — Reported by the Committee on Natural Resources. H. Rept. 111-296.
+- 2009-10-09 — Reported by the Committee on Natural Resources. H. Rept. 111-296.
