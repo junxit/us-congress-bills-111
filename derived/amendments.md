@@ -1,7 +1,7 @@
 ---
 measure: S. 1510
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -34,10 +34,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subpart I of part III of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (F), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (G), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Executive Protective Service force” and inserting “United States Secret Service Uniformed Division”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(3), by striking “the Treasury for the Executive Protective Service force” and inserting “Homeland Security for the United States Secret Service Uniformed Division”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | In section 5–521.01, by striking “the United States Secret Service Uniformed Division,”. | the bill names no machine-readable US Code section |
 | — | strike | In section 5–521.02, by striking, “the United States Secret Service Uniformed Division and”. | the bill names no machine-readable US Code section |
 | — | strike | In section 5–521.03, by striking— | the bill names no machine-readable US Code section |

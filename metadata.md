@@ -1,7 +1,7 @@
 ---
 measure: S. 1510
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1510
@@ -28,3 +28,5 @@ United States Secret Service Uniformed Division Modernization Act of 2010
 - 2009-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-86.
 - 2009-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-86.
 - 2009-10-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
+- 2009-10-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10378-10380; text as passed Senate: CR S10378-10380)
+- 2009-10-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10378-10380; text as passed Senate: CR S10378-10380)
