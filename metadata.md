@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 791
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 791
@@ -53,3 +53,9 @@ Congratulating the Aldine Independent School District in Harris County, Texas, o
 - 2009-10-01 — Introduced in House
 - 2009-10-01 — Introduced in House
 - 2009-10-01 — Referred to the House Committee on Education and Labor.
+- 2009-10-13 — Considered under suspension of the rules. (consideration: CR H11183-11185)
+- 2009-10-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 791.
+- 2009-10-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-13 — Mr. Sablan moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11183)
+- 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11183)
