@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3123
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -34,8 +34,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | By striking section 705. | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a)” and inserting “(a)(1)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary shall have” and inserting “Except as provided by paragraph (2), the Secretary shall have”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | In section 708(f), by striking “and 708” and inserting “, 708, and 709”. | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end of title VII the following: | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end of title VII the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking the item relating to section 705; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 708 the following new item: | the bill names no machine-readable US Code section |

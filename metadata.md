@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3123
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3123
@@ -16,9 +16,10 @@ To direct the Secretary of the Interior, acting through the Bureau of Reclamatio
 
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,5 @@ To direct the Secretary of the Interior, acting through the Bureau of Reclamatio
 - 2009-09-29 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10007)
 - 2009-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10007)
+- 2009-09-30 — Received in the Senate.
+- 2009-10-13 — Read twice and referred to the Committee on Energy and Natural Resources.
