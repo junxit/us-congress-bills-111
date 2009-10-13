@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1593
@@ -33,3 +33,9 @@ To amend the Wild and Scenic Rivers Act to designate a segment of Illabot Creek 
 - 2009-10-08 — Placed on the Union Calendar, Calendar No. 161.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-291.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-291.
+- 2009-10-13 — Considered under suspension of the rules. (consideration: CR H11177)
+- 2009-10-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1593.
+- 2009-10-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-13 — Mr. Sablan moved to suspend the rules and pass the bill, as amended.
+- 2009-10-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11177)
+- 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11177)
