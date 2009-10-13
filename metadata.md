@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3548
@@ -16,7 +16,7 @@ Worker, Homeownership, and Business Assistance Act of 2009
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Cosponsors (49)
+## Cosponsors (85)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -67,6 +67,42 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
 ## Committees (1)
 
@@ -90,3 +126,6 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - 2009-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 83 (Roll no. 722). (text: CR H9767-9768)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 83 (Roll no. 722).(text: CR H9767-9768)
 - 2009-09-22 — Received in the Senate.
+- 2009-10-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
