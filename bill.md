@@ -44,7 +44,7 @@ The Congress find as follows:
   - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the centennial of the Girl Scouts of the United States of America.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2011”; and
+    - **(B)** an inscription of the year “2013”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary, after consultation with the Girl Scouts of the United States of America and the Commission of Fine Arts; and
@@ -56,7 +56,7 @@ The Congress find as follows:
 - **(b)** *Mint Facility*
   - **(1)** *In general* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
   - **(2)** *Use of the united states mint at west point, new york* It is the sense of the Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible.
-- **(c)** *Period for Issuance* The Secretary may issue coins under this Act only during the calendar year beginning on January 1, 2011.
+- **(c)** *Period for Issuance* The Secretary may issue coins under this Act only during the calendar year beginning on January 1, 2013.
 
 ## § 6. Sale of coins
 
@@ -74,3 +74,15 @@ The Congress find as follows:
 - **(a)** *In General* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to the Girl Scouts of the United States of America to be made available for Girl Scout program development and delivery.
 - **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the Girl Scouts of the United States of America as may be related to the expenditures of amounts paid under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Technical and conforming amendments
+
+- **(a)** *Continued issuance of certain commemorative coins minted in 2009* Notwithstanding sections 303 and 304 of the Presidential $1 Coin Act of 2005 (31 U.S.C. 5112 note), the Secretary of the Treasury may continue to issue numismatic items that contain 1-cent coins minted in 2009 after December 31, 2009, until not later than June 30, 2010.
+- **(b)** *Distribution of surcharges* Section 7 of the Jamestown 400th Anniversary Commemorative Coin Act of 2004 (31 U.S.C. 5112 note) is amended—
+  - **(1)** in subsection (b)(2)(B), by striking “in equal shares” and all that follows through the period at the end and inserting
+    > in the proportion specified to the following organizations for the purposes described in such subparagraph:
+    > - **(i)** 2/3 to the Association for the Preservation of Virginia Antiquities.
+    > - **(ii)** 1/3 to the Jamestown-Yorktown Foundation of the Commonwealth of Virginia.
+
+  - **(2)** in subsection (c), by striking “, the Secretary of the Interior,”.
