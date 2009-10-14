@@ -1,7 +1,7 @@
 ---
 measure: S. 692
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 692
@@ -28,3 +28,5 @@ A bill to provide that claims of the United States to certain documents relating
 - 2009-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-87.
 - 2009-10-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-87.
 - 2009-10-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
+- 2009-10-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10439; text as passed Senate: CR S10439)
+- 2009-10-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10439; text as passed Senate: CR S10439)
