@@ -1,7 +1,7 @@
 ---
 measure: S. 846
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 846
@@ -89,9 +89,10 @@ A bill to award a congressional gold medal to Dr. Muhammad Yunus, in recognition
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Johanns, Mike [R-NE] (J000291)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -101,3 +102,6 @@ A bill to award a congressional gold medal to Dr. Muhammad Yunus, in recognition
 - 2009-10-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S10381)
 - 2009-10-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S10380-10381)
 - 2009-10-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S10380-10381)
+- 2009-10-14 — Message on Senate action sent to the House.
+- 2009-10-14 — Received in the House.
+- 2009-10-14 — Referred to the House Committee on Financial Services.
