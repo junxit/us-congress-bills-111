@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2877
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2877
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 76 Broo
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ To designate the facility of the United States Postal Service located at 76 Broo
 - 2009-10-13 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11180)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11180)
+- 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
