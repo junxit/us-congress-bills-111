@@ -47,7 +47,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 4. Implementation of NTSB flight crewmember training recommendations
 
 - **(a)** *Rulemaking proceedings*
-  - **(1)** *Stall and upset recognition and recovery training* The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require part 121 air carriers to provide flight crewmembers with ground training and flight training—
+  - **(1)** *Stall and upset recognition and recovery training* The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require part 121 air carriers to provide flight crewmembers with ground training and flight training or flight simulator training—
     - **(A)** to recognize and avoid a stall of an aircraft or, if not avoided, to recover from the stall; and
     - **(B)** to recognize and avoid an upset of an aircraft or, if not avoided, to execute such techniques as available data indicate are appropriate to recover from the upset in a given make, model, and series of aircraft.
   - **(2)** *Remedial training programs* The Administrator shall conduct a rulemaking proceeding to require part 121 air carriers to establish remedial training programs for flight crewmembers who have demonstrated performance deficiencies or experienced failures in the training environment.
@@ -59,13 +59,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Report to Congress and NTSB* Not later than one year after the date on which the Administrator convenes the panel, the Administrator shall—
     - **(A)** submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the National Transportation Safety Board a report based on the findings of the panel; and
     - **(B)** with respect to stick pusher systems, initiate appropriate actions to implement the recommendations of the panel.
-  - **(3)** *Stick pusher defined* In this subsection, the term “stick pusher” means a device that, at or near a stall, applies a nose down pitch force to an aircraft’s control columns to attempt to decrease the aircraft’s angle of attack.
+- **(c)** *Definitions* In this section, the following definitions apply:
+  - **(1)** *Flight training and flight simulator* The terms “flight training” and “flight simulator” have the meanings given those terms in part 61.1 of title 14, Code of Federal Regulations (or any successor regulation).
+  - **(2)** *Stall* The term “stall” means an aerodynamic loss of lift caused by exceeding the critical angle of attack.
+  - **(3)** *Stick pusher* The term ‘‘stick pusher’’ means a device that, at or near a stall, applies a nose down pitch force to an aircraft’s control columns to attempt to decrease the aircraft’s angle of attack.
+  - **(4)** *Upset* The term “upset” means an unusual aircraft attitude.
 
 ## § 5. Secretary of Transportation responses to safety recommendations
 
 - **(a)** *In general* The first sentence of section 1135(a) of title 49, United States Code, is amended by inserting “to the National Transportation Safety Board” after “shall give”.
 - **(b)** *Air carrier safety recommendations* Section 1135 of such title is amended—
-  - **(1)** by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and
+  - **(1)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
   - **(2)** by inserting after subsection (b) the following:
     > - **(c)** *Annual report on air carrier safety recommendations*
     >   - **(1)** *In general* The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
@@ -98,7 +102,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(ii)** records that are maintained by the Administrator concerning any failed attempt of an individual to pass a practical test required to obtain a certificate or type rating under part 61 of title 14, Code of Federal Regulations; and
     >       - **(iii)** summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
     >     - **(B)** *Air carrier and other records* From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for such air carrier or person—
-    >       - **(i)** records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time) under regulations set forth in—
+    >       - **(i)** records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time), including records under regulations set forth in—
     >         - **(I)** section 121.683 of title 14, Code of Federal Regulations;
     >         - **(II)** paragraph (A) of section VI, appendix I, part 121 of such title;
     >         - **(III)** paragraph (A) of section IV, appendix J, part 121 of such title;
@@ -111,7 +115,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(C)** *National Driver Register records* In accordance with section 30305(b)(8) of this title, from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
     >   - **(3)** *Written consent; release from liability* An air carrier—
     >     - **(A)** shall obtain the written consent of an individual before accessing records pertaining to the individual under paragraph (1); and
-    >     - **(B)** may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
+    >     - **(B)** may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
     >   - **(4)** *Reporting*
     >     - **(A)** *Reporting by Administrator* The Administrator shall enter data described in paragraph (2)(A) into the database promptly to ensure that an individual’s records are current.
     >     - **(B)** *Reporting by air carriers and other persons*
@@ -160,7 +164,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(C)** *Exceptions* Notwithstanding subparagraph (B)—
     >       - **(i)** the Administrator shall begin to establish the database under paragraph (2) not later than 90 days after the date of enactment of this paragraph;
     >       - **(ii)** the Administrator shall maintain records in accordance with paragraph (5) beginning on the date of enactment of this paragraph; and
-    >       - **(iii)** air carriers and other persons shall maintain records to be reported to the database under paragraph (4)(B) beginning on such date of enactment.
+    >       - **(iii)** air carriers and other persons shall maintain records to be reported to the database under paragraph (4)(B) in the period beginning on such date of enactment and ending on the date that is 5 years after the requirements of subsection (h) cease to be effective pursuant to subparagraph (B).
+    >   - **(16)** *Special rule* During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting “45 days” for “30 days”.
 
 - **(c)** *Conforming amendments*
   - **(1)** *Limitation on liability; preemption of State law* Section 44703(j) (as redesignated by subsection (b)(1) of this section) is amended—
@@ -185,8 +190,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *Establishment* Not later than 60 days after the date of enactment of this Act, the Administrator shall convene a multidisciplinary expert panel comprised of, at a minimum, air carrier representatives, training facility representatives, instructional design experts, aircraft manufacturers, safety organization representatives, and labor union representatives.
   - **(2)** *Assessment and recommendations* The panel shall assess and make recommendations concerning—
     - **(A)** the best methods and optimal time needed for flight crewmembers of part 121 air carriers and flight crewmembers of part 135 air carriers to master aircraft systems, maneuvers, procedures, take offs and landings, and crew coordination;
-    - **(B)** the optimal length of time between training events for such crewmembers, including recurrent training events; and
-    - **(C)** the best methods to reliably evaluate mastery by such crewmembers of aircraft systems, maneuvers, procedures, take offs and landings, and crew coordination.
+    - **(B)** the optimal length of time between training events for such crewmembers, including recurrent training events;
+    - **(C)** the best methods to reliably evaluate mastery by such crewmembers of aircraft systems, maneuvers, procedures, take offs and landings, and crew coordination; and
+    - **(D)** the best methods to allow specific academic training courses to be credited pursuant to section 11(d) toward the total flight hours required to receive an airline transport pilot certificate.
   - **(3)** *Report* Not later than one year after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the National Transportation Safety Board a report based on the findings of the panel.
 
 ## § 8. Aviation safety inspectors and operational research analysts
@@ -235,26 +241,45 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Minimum requirements*
     - **(A)** *Prospective flight crewmembers* Rules issued under paragraph (1) shall ensure that prospective flight crewmembers undergo comprehensive pre-employment screening, including an assessment of the skills, aptitudes, airmanship, and suitability of each applicant for a position as a flight crewmember in terms of functioning effectively in the air carrier’s operational environment.
     - **(B)** *All flight crewmembers* Rules issued under paragraph (1) shall ensure that, after the date that is 3 years after the date of enactment of this Act, all flight crewmembers—
-      - **(i)** have obtained an airline transport pilot license under part 61 of title 14, Code of Federal Regulations; and
+      - **(i)** have obtained an airline transport pilot certificate under part 61 of title 14, Code of Federal Regulations; and
       - **(ii)** have appropriate multi-engine aircraft flight experience, as determined by the Administrator.
 - **(b)** *Deadlines* The Administrator shall issue—
   - **(1)** not later than 180 days after the date of enactment of this Act, a notice of proposed rulemaking under subsection (a); and
   - **(2)** not later than 24 months after such date of enactment, a final rule under subsection (a).
 
-## § 11. Flight schools, flight education, and pilot academic training
+## § 11. Airline transport pilot certification
+
+- **(a)** *Rulemaking proceeding* The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to amend part 61 of title 14, Code of Federal Regulations, to modify requirements for the issuance of an airline transport pilot certificate.
+- **(b)** *Minimum requirements* To be qualified to receive an airline transport pilot certificate pursuant to subsection (a), an individual shall—
+  - **(1)** have sufficient flight hours, as determined by the Administrator, to enable a pilot to function effectively in an air carrier operational environment; and
+  - **(2)** have received flight training, academic training, or operational experience that will prepare a pilot, at a minimum, to—
+    - **(A)** function effectively in a multipilot environment;
+    - **(B)** function effectively in adverse weather conditions, including icing conditions;
+    - **(C)** function effectively during high altitude operations;
+    - **(D)** adhere to the highest professional standards; and
+    - **(E)** function effectively in an air carrier operational environment.
+- **(c)** *Flight hours*
+  - **(1)** *Numbers of flight hours* The total flight hours required by the Administrator under subsection (b)(1) shall be at least 1,500 flight hours.
+  - **(2)** *Flight hours in difficult operational conditions* The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that may be encountered by an air carrier to enable a pilot to operate safely in such conditions.
+- **(d)** *Credit toward flight hours* The Administrator may allow specific academic training courses, beyond those required under subsection (b)(2), to be credited toward the total flight hours required under subsection (c). The Administrator may allow such credit based on a determination by the Administrator that allowing a pilot to take specific academic training courses will enhance safety more than requiring the pilot to fully comply with the flight hours requirement.
+- **(e)** *Recommendations of expert panel* In conducting the rulemaking proceeding under this section, the Administrator shall review and consider the assessment and recommendations of the expert panel to review part 121 and part 135 training hours established by section 7(b) of this Act.
+- **(f)** *Deadline* Not later than 36 months after the date of enactment of this Act, the Administrator shall issue a final rule under subsection (a).
+
+## § 12. Flight schools, flight education, and pilot academic training
 
 - **(a)** *GAO study* The Comptroller General shall conduct a comprehensive study of flight schools, flight education, and academic training requirements for certification of an individual as a pilot.
 - **(b)** *Minimum contents of study* The study shall include, at a minimum—
   - **(1)** an assessment of the Federal Aviation Administration’s oversight of flight schools;
   - **(2)** an assessment of the Administration’s academic training requirements in effect on the date of enactment of this Act as compared to flight education provided to a pilot by accredited 2- and 4-year universities;
-  - **(3)** a comparison of the academic training requirements for pilots in the United States to the academic training requirements for pilots in other countries;
-  - **(4)** a determination and description of any improvements that may be needed in the Administration’s academic training requirements for pilots;
-  - **(5)** an assessment of student financial aid and loan options available to individuals interested in enrolling at a flight school for both academic and flight hour training;
-  - **(6)** an assessment of the Federal Aviation Administration’s oversight of general aviation flight schools that offer or would like to offer training programs under part 142 of title 14, Code of Federal Regulations; and
-  - **(7)** an assessment of whether compliance with the English speaking requirements applicable to pilots under part 61 of such title is adequately tested and enforced.
+  - **(3)** an assessment of the quality of pilots entering the part 121 air carrier workforce from all sources after receiving training from flight training providers, including Aviation Accreditation Board International, universities, pilot training organizations, and the military, utilizing the training records of part 121 air carriers, including consideration of any relationships between flight training providers and air carriers;
+  - **(4)** a comparison of the academic training requirements for pilots in the United States to the academic training requirements for pilots in other countries;
+  - **(5)** a determination and description of any improvements that may be needed in the Administration’s academic training requirements for pilots;
+  - **(6)** an assessment of student financial aid and loan options available to individuals interested in enrolling at a flight school for both academic and flight hour training;
+  - **(7)** an assessment of the Federal Aviation Administration’s oversight of general aviation flight schools that offer or would like to offer training programs under part 142 of title 14, Code of Federal Regulations; and
+  - **(8)** an assessment of whether compliance with the English speaking requirements applicable to pilots under part 61 of such title is adequately tested and enforced.
 - **(c)** *Report* Not later than 120 days after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
 
-## § 12. Voluntary safety programs
+## § 13. Voluntary safety programs
 
 - **(a)** *Report* Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate a report on the aviation safety action program, the flight operational quality assurance program, the line operations safety audit, and the advanced qualification program.
 - **(b)** *Contents* The report shall include—
@@ -275,7 +300,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(8)** other plans to strengthen such programs, taking into account reviews of such programs by the Inspector General of the Department of Transportation; and
   - **(9)** such other matters as the Administrator determines are appropriate.
 
-## § 13. ASAP and FOQA implementation plan
+## § 14. ASAP and FOQA implementation plan
 
 - **(a)** *Development and implementation plan* The Administrator of the Federal Aviation Administration shall develop and implement a plan to facilitate the establishment of an aviation safety action program and a flight operational quality assurance program by all part 121 air carriers.
 - **(b)** *Matters To be considered* In developing the plan under subsection (a), the Administrator shall consider—
@@ -285,10 +310,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Report* Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Science, Commerce, and Transportation of the Senate a copy of the plan developed under subsection (a) and an explanation of how the Administration will implement the plan.
 - **(d)** *Deadline for beginning implementation of plan* Not later than one year after the date of enactment of this Act, the Administrator shall begin implementation of the plan developed under subsection (a).
 
-## § 14. Safety management systems
+## § 15. Safety management systems
 
 - **(a)** *Rulemaking* The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require all part 121 air carriers to implement a safety management system.
-- **(b)** *Matters to consider* In conducting the rulemaking under subsection (a), the Administrator shall consider including each of the following as a part of the safety management system:
+- **(b)** *Matters to consider* In conducting the rulemaking under subsection (a), the Administrator shall consider, at a minimum, including each of the following as a part of the safety management system:
   - **(1)** An aviation safety action program.
   - **(2)** A flight operational quality assurance program.
   - **(3)** A line operations safety audit.
@@ -298,7 +323,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** not later than 24 months after the date of enactment of this Act, a final rule under subsection (a).
 - **(d)** *Safety management system defined* In this section, the term “safety management system” means the program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
 
-## § 15. Disclosure of air carriers operating flights for tickets sold for air transportation
+## § 16. Disclosure of air carriers operating flights for tickets sold for air transportation
 
 Section 41712 of title 49, United States Code, is amended by adding at the end the following:
 
@@ -308,7 +333,7 @@ Section 41712 of title 49, United States Code, is amended by adding at the end t
 >     - **(B)** if the flight has more than one flight segment, the name of each air carrier providing the air transportation for each such flight segment.
 >   - **(2)** *Internet offers* In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.
 
-## § 16. Pilot fatigue
+## § 17. Pilot fatigue
 
 - **(a)** *Flight and duty time regulations*
   - **(1)** *In general* In accordance with paragraph (3), the Administrator of the Federal Aviation Administration shall issue regulations, based on the best available scientific information—
@@ -329,7 +354,7 @@ Section 41712 of title 49, United States Code, is amended by adding at the end t
     - **(L)** Rest environments.
     - **(M)** Any other matters the Administrator considers appropriate.
   - **(3)** *Deadlines* The Administrator shall issue—
-    - **(A)** not later than 30 days after the date of enactment of this Act, a notice of proposed rulemaking under subsection (a); and
+    - **(A)** not later than 180 days after the date of enactment of this Act, a notice of proposed rulemaking under subsection (a); and
     - **(B)** not later than one year after the date of enactment of this Act, a final rule under subsection (a).
 - **(b)** *Fatigue risk management plan*
   - **(1)** *Submission of fatigue risk management plan by part 121 air carriers* Not later than 90 days after the date of enactment of this section, each part 121 air carrier shall submit to the Administrator for review and approval a fatigue risk management plan.
@@ -349,7 +374,7 @@ Section 41712 of title 49, United States Code, is amended by adding at the end t
   - **(5)** *Civil penalties* A violation of this subsection by a part 121 air carrier shall be treated as a violation of chapter 447 of title 49, United States Code, for purposes of the application of civil penalties under chapter 463 of that title.
   - **(6)** *Limitation on applicability* The requirements of this subsection shall cease to apply to a part 121 air carrier on and after the effective date of the regulations to be issued under subsection (a).
 - **(c)** *Effect of commuting on fatigue*
-  - **(1)** *In general* Not later than 3 months after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
+  - **(1)** *In general* Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
   - **(2)** *Study* In conducting the study, the National Academy of Sciences shall consider—
     - **(A)** the prevalence of pilot commuting in the commercial air carrier industry, including the number and percentage of pilots who commute;
     - **(B)** information relating to commuting by pilots, including distances traveled, time zones crossed, time spent, and methods used;
@@ -358,14 +383,14 @@ Section 41712 of title 49, United States Code, is amended by adding at the end t
     - **(E)** post-conference materials from the Federal Aviation Administration’s June 2008 symposium entitled “Aviation Fatigue Management Symposium: Partnerships for Solutions”;
     - **(F)** Federal Aviation Administration and international policies and guidance regarding commuting; and
     - **(G)** any other matters as the Administrator considers appropriate.
-  - **(3)** *Preliminary findings* Not later than 120 days after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit to the Administrator its preliminary findings under the study.
+  - **(3)** *Preliminary findings* Not later than 90 days after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit to the Administrator its preliminary findings under the study.
   - **(4)** *Report* Not later than 6 months after the date of entering into arrangements under paragraph (1), the National Academy of Sciences shall submit to the Administrator a report containing its findings under the study and any recommendations for regulatory or administrative actions by the Federal Aviation Administration concerning commuting by pilots.
   - **(5)** *Rulemaking* Following receipt of the report of the National Academy of Sciences under paragraph (4), the Administrator shall—
     - **(A)** consider the findings and recommendations in the report; and
     - **(B)** update, as appropriate based on scientific data, regulations required by subsection (a) on flight and duty time.
   - **(6)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-## § 17. Flight crewmember pairing and crew resource management techniques
+## § 18. Flight crewmember pairing and crew resource management techniques
 
 - **(a)** *Study* The Administrator of the Federal Aviation Administration shall conduct a study on aviation industry best practices with regard to flight crewmember pairing and crew resource management techniques.
 - **(b)** *Report* Not later than one year after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.

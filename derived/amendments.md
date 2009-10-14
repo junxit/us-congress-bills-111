@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3371
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | The first sentence of section 1135(a) of title 49, United States Code, is amended by inserting “to the National Transportation Safety Board” after “shall give”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44703(h) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (i) and (j) as subsections (j) and (k), respectively; and | the bill names no machine-readable US Code section |
