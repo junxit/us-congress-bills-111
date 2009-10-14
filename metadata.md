@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 816
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 816
@@ -16,7 +16,7 @@ Mourning the loss of life caused by the earthquakes and tsunamis that occurred o
 
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 
-## Cosponsors (47)
+## Cosponsors (52)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -65,11 +65,20 @@ Mourning the loss of life caused by the earthquakes and tsunamis that occurred o
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
 ## Committees (2)
 
 - House — Foreign Affairs Committee
 - House — Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2009-10-14 — [House 111-1-777](votes/house-111-1-0777.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (422–0)
 
 ## Actions
 
@@ -78,3 +87,12 @@ Mourning the loss of life caused by the earthquakes and tsunamis that occurred o
 - 2009-10-08 — Referred to House Foreign Affairs
 - 2009-10-08 — Referred to House Natural Resources
 - 2009-10-08 — Referred to the Committee on Natural Resources, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-10-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-14 — Considered as unfinished business. (consideration: CR H11352-11353)
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11313-11317)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 816.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 777). (text: CR H11313-11314)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 777).(text: CR H11313-11314)
+- 2009-10-14 — The title of the measure was amended. Agreed to without objection.
