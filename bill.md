@@ -2,7 +2,7 @@
 legis-num: H. RES. 768
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 768
@@ -22,13 +22,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 85 percent of United States wage and salaried workers have immediate, day-to-day family responsibilities outside of their jobs;
 - Whereas, according to the 2006 American Community Survey, 47 percent of wage and salaried workers are parents with children under the age of 18 who live with them at least half-time;
 - Whereas job flexibility often allows parents to be more involved in their children’s lives, and parental involvement is associated with higher child achievement in language and mathematics, improved behavior, greater academic persistence, and lower dropout rates;
-- Whereas a 2000 study entitled Urban Working Families revealed that a lack of job flexibility for parents negatively affects child health by preventing children from making needed doctors’ appointments and receiving adequate early care, which makes illnesses more severe and prolonged;
+- Whereas a 2000 study entitled Urban Working Families revealed that a lack of job flexibility for parents negatively affects child health by preventing parents from making needed doctors’ appointments and children from receiving adequate early care, which makes illnesses more severe and prolonged;
 - Whereas, from 2001 to early 2008, 1,700,000 active duty troops have served in Iraq and 600,000 members of the National Guard and Reserve (133,000 on more than one tour) have been called up to serve, creating a need for policies and programs to help military families adjust to the realities that come with having a family member in the military;
-- Whereas, according to a Centers for Disease Control and Prevention (CDC) report, breastfeeding is the most beneficial form of infant nutrition, and the greater the duration of breastfeeding, the lower the odds of pediatric overweight and obesity;
-- Whereas, according to the CDC, less than half of mothers who work full time exclusively breastfeed their newborns;
-- Whereas, according to the CDC, employer policies that encourage breastfeeding benefit individual families as well as employers by improving productivity and staff loyalty, enhancing the employer’s public image, and reducing absenteeism, health care costs, and employee turnover;
-- Whereas studies show that a third of children and adolescents in the United States are obese or overweight and that healthy lifestyle habits, including healthy eating and physical activity, can lower the risk of becoming obese and developing related diseases;
-- Whereas studies report that family rituals, such as sitting down to dinner together and sharing activities on weekends and holidays, positively influence children’s health and development, and that children who ate dinner with their family every day consumed nearly a full serving more of fruits and vegetables per day than those who never ate family dinners or only did so occasionally;
+- Whereas according to a Centers for Disease Control and Prevention (CDC) report, less than half of mothers who work full time exclusively breastfeed their newborns although support for lactation at work benefits individual families as well as employers by improving productivity and staff loyalty, and decreasing absenteeism and employee turnover;
+- Whereas according to the CDC, breastfeeding is the most beneficial form of infant nutrition, and the greater the duration of breastfeeding, the lower the odds of pediatric obesity;
+- Whereas studies report that family rituals, such as sitting down to dinner together positively influence children’s health and development, and that healthy lifestyle habits, including healthy eating and physical activity, can lower the risk of becoming obese and developing related diseases;
 - Whereas unpaid family caregivers will likely continue to be the largest source of long-term care for elderly United States citizens, and the Department of Health and Human Services estimates the number of such caregivers to reach 37,000,000 by 2050, an increase of 85 percent from 2000, as baby boomers reach retirement age in record numbers; and
 - Whereas the month of October would be an appropriate month to designate as “National Work and Family Month”: Now, therefore, be it
 
