@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1593
@@ -16,9 +16,10 @@ To amend the Wild and Scenic Rivers Act to designate a segment of Illabot Creek 
 
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the Wild and Scenic Rivers Act to designate a segment of Illabot Creek 
 - 2009-10-13 — Mr. Sablan moved to suspend the rules and pass the bill, as amended.
 - 2009-10-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11177)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11177)
+- 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
