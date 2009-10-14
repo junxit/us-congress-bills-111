@@ -49,9 +49,7 @@ This Act may be cited as the “Maritime Workforce Development Act”.
   >   - **(3)** meet the enrollment requirements of a maritime training institution designated by the Secretary under subsection (d)(4); and
   >   - **(4)** sign an agreement to—
   >     - **(A)** complete a course of instruction at such a maritime training institution; and
-  >     - **(B)**
-  >       - **(i)** maintain a license and serve as an officer in the merchant marine on a documented vessel or a vessel owned and operated by the United States for at least 18 months of service at sea following the date of graduation from the maritime program for which the loan proceeds will be used; or
-  >       - **(ii)** serve as an unlicensed merchant mariner on a documented vessel or a vessel owned and operated by the United States for at least 18 months of service at sea following the date of graduation from the maritime program for which the loan proceeds will be used.
+  >     - **(B)** maintain a license or document and work under the authority of the license or document and any associated endorsements for at least 18 months following the date of graduation from the maritime program for which the loan proceeds will be used.
   > - **(i)** *Administration of loans*
   >   - **(1)** *Contents of loan agreements* Any agreement between the Secretary and a student borrower for a loan under the program shall—
   >     - **(A)** be evidenced by a note or other written instrument that provides for the repayment of the principal amount of the loan and any origination fee, together with interest thereon, in equal installments (or, if the student borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the student borrower, over a period beginning 9 months from the date on which the student borrower completes study or discontinues attendance at the maritime program for which the loans are used at the institution approved by the Secretary and not exceeding 10 years;

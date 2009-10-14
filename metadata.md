@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2651
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2651
@@ -39,3 +39,9 @@ Maritime Workforce Development Act
 - 2009-07-31 — Placed on the Union Calendar, Calendar No. 134.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-243.
 - 2009-07-31 — Reported by the Committee on Transportation. H. Rept. 111-243.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11341-11347)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2651.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
+- 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11341-11343)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11341-11343)
