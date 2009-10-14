@@ -1,7 +1,7 @@
 ---
 measure: H.R. 621
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 621
@@ -338,3 +338,4 @@ Girl Scouts USA Centennial Commemorative Coin Act
 - 2009-10-13 — Mr. Foster moved to suspend the rules and pass the bill, as amended.
 - 2009-10-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11262)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11262)
+- 2009-10-14 — Received in the Senate, read twice.
