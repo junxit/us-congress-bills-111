@@ -2,7 +2,7 @@
 legis-num: H. RES. 627
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 627
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas the members of the Army National Guard and Air National Guard of the State of Washington reside throughout the State and come from various communities, backgrounds, and professions;
 - Whereas units and members of the Washington National Guard have been deployed, and are continuously being deployed, in support of United States military operations at home and overseas in Iraq, Afghanistan, and dozens of other countries;
-- Whereas one such unit, the 81st Brigade Combat Team (Heavy) of the Washington Army National Guard, is composed of approximately 2,478 citizen-soldiers from throughout the State of Washington, supplemented with an additional 843 soldiers from the California Army National Guard, 80 soldiers from the Texas Army National Guard, and 12 soldiers from the Montana Army National Guard;
+- Whereas one such unit, the 81st Brigade Combat Team (Heavy) of the Washington Army National Guard, is composed of approximately 2,478 citizen-soldiers from throughout the State of Washington, 843 soldiers from the California Army National Guard, 80 soldiers from the Texas Army National Guard, 38 soldiers from the Indiana Army National Guard, 23 soldiers from the Arkansas Army National Guard, 20 soldiers from the United States Army Reserve, 13 soldiers from the Montana Army National Guard, 2 soldiers from the Kentucky Army National Guard, 2 soldiers from the Maryland Army National Guard, and 1 soldier from each of the Alabama Army National Guard, New Mexico Army National Guard, Virgin Island Army National Guard, Wisconsin Army National Guard, Hawaii Army National Guard, New York Army National Guard, Utah Army National Guard, Minnesota Army National Guard, Massachusetts Army National Guard, Illinois Army National Guard, and Michigan Army National Guard;
 - Whereas the 81st Brigade Combat Team was placed on Federal active duty for a second overseas mobilization on August 18, 2008, and deployed to Iraq in October 2008;
 - Whereas, during the deployment of the 81st Brigade Combat Team in Iraq, the brigade was primarily engaged in convoy security, force protection, provincial reconstruction, and base operations missions; and
 - Whereas the 81st Brigade Combat Team returned to the United States and demobilized in August 2009, upon completion of one year of service in support of military operations in Iraq: Now, therefore, be it
@@ -21,5 +21,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** expresses its gratitude to the members of the Army National Guard and Air National Guard of the State of Washington and their families for their service and sacrifice on behalf of the United States;
-- **(2)** commends the members of the 81st Brigade Combat Team (Heavy) of the Washington Army National Guard on the completion of their most-recent deployment to Iraq; and
+- **(2)** commends the members of the 81st Brigade Combat Team (Heavy) from the Washington Army National Guard, the Army Reserve, and the other State National Guards specified in the preamble on the completion of their most-recent deployment in Iraq; and
 - **(3)** recognizes the achievements of the members of the 81st Brigade Combat Team, and all other formerly and presently deployed Washington Army and Air National Guard units and members, for their exemplary service.
