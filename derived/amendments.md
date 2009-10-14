@@ -1,7 +1,7 @@
 ---
 measure: H.R. 621
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 5112` | replace | in subsection (b)(2)(B), by striking “in equal shares” and all that follows through the period at the end and inserting | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 5112` | strike | in subsection (c), by striking “, the Secretary of the Interior,”. | the bill quotes the text struck but describes what replaces it |
+| — | replace | in subsection (b)(2)(B), by striking “in equal shares” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
+| — | strike | in subsection (c), by striking “, the Secretary of the Interior,”. | the bill names no machine-readable US Code section |
