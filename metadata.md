@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3689
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3689
@@ -20,9 +20,10 @@ To provide for an extension of the legislative authority of the Vietnam Veterans
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To provide for an extension of the legislative authority of the Vietnam Veterans
 - 2009-10-13 — Mr. Sablan moved to suspend the rules and pass the bill.
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 772). (text: CR H11176)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 772).(text: CR H11176)
+- 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
