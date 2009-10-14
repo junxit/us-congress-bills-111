@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 465
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 465
@@ -46,3 +46,9 @@ Recognizing the Atlantic Intracoastal Waterway Association on the occasion of it
 - 2009-10-06 — Placed on the House Calendar, Calendar No. 116.
 - 2009-10-06 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-285.
 - 2009-10-06 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-285.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11354-11356)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 465.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Ms. Norton moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11354)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11354)
