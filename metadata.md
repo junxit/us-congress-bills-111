@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 719
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 719
@@ -36,3 +36,9 @@ Commending Russ Meyer on his induction into the National Aviation Hall of Fame.
 - 2009-10-06 — Placed on the House Calendar, Calendar No. 114.
 - 2009-10-06 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-282.
 - 2009-10-06 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-282.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11340-11341)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 719.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Mr. Costello moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11340)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11340)
