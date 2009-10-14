@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 138
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 138
@@ -39,3 +39,9 @@ Recognizing the 40th anniversary of the George Bush Intercontinental Airport in 
 - 2009-10-06 — Placed on the House Calendar, Calendar No. 115.
 - 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-283.
 - 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-283.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11338-11340)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 138.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Mr. Costello moved to suspend the rules and agree to the resolution.
+- 2009-10-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11338)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11338)
