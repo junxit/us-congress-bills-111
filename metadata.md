@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3476
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3476
@@ -20,9 +20,10 @@ To reauthorize the Delaware Water Gap National Recreation Area Citizen Advisory 
 
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To reauthorize the Delaware Water Gap National Recreation Area Citizen Advisory 
 - 2009-10-13 — Mr. Sablan moved to suspend the rules and pass the bill.
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 773). (text: CR H11179)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 773).(text: CR H11179)
+- 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
