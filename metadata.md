@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 46
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 46
@@ -34,3 +34,7 @@ A concurrent resolution recognizing the benefits of service-learning and express
 
 - 2009-10-07 — Introduced in Senate
 - 2009-10-07 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S10223)
+- 2009-10-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S10439-10440)
+- 2009-10-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S10439-10440)
+- 2009-10-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S10439-10440)
+- 2009-10-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S10439-10440)
