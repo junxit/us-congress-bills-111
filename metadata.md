@@ -1,7 +1,7 @@
 ---
 measure: S. 507
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 507
@@ -31,3 +31,8 @@ Non-Foreign AREA Act of 2009
 - 2009-03-02 — Introduced in Senate
 - 2009-03-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2638-2641)
 - 2009-03-02 — Sponsor introductory remarks on measure. (CR S2638)
+- 2009-03-20 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2009-04-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2009-10-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-88.
+- 2009-10-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-88.
+- 2009-10-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.
