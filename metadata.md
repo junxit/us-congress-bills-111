@@ -1,7 +1,7 @@
 ---
 measure: S. 692
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 692
@@ -30,3 +30,19 @@ A bill to provide that claims of the United States to certain documents relating
 - 2009-10-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
 - 2009-10-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10439; text as passed Senate: CR S10439)
 - 2009-10-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10439; text as passed Senate: CR S10439)
+- 2009-10-15 — Held at the desk.
+- 2009-10-15 — Message on Senate action sent to the House.
+- 2009-10-15 — Received in the House.
+- 2010-01-13 — Cleared for White House.
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H65)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on S. 692.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H65)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H65)
+- 2010-01-22 — Presented to President.
+- 2010-01-22 — Presented to President.
+- 2010-02-01 — Became Public Law No: 111-138.
+- 2010-02-01 — Became Public Law No: 111-138.
+- 2010-02-01 — Signed by President.
+- 2010-02-01 — Signed by President.

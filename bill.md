@@ -1,7 +1,7 @@
 ---
 legis-num: S. 692
-congress: 111th CONGRESS
-session: 1st Session
+congress: One Hundred Eleventh Congress of the United States of America
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
