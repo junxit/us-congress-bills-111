@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1700
@@ -86,3 +86,9 @@ National Women's History Museum Act of 2009
 - 2009-10-08 — Placed on the Union Calendar, Calendar No. 165.
 - 2009-10-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-295.
 - 2009-10-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-295.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11348-11350)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1700.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Ms. Hirono moved to suspend the rules and pass the bill, as amended.
+- 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11348-11349)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11348-11349)
