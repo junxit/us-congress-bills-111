@@ -23,19 +23,18 @@ The Congress finds as follows:
 ## § 3. Authority of State and local governments to divest from certain companies invested in Iran’s energy sector
 
 - **(a)** *Statement of policy* It is the policy of the United States to support the decision of State governments, local governments, and educational institutions to divest from, and to prohibit the investment of assets they control in, persons that have investments of more than $20,000,000 in Iran’s energy sector.
-- **(b)** *Authority To divest* Notwithstanding any other provision of law, a State or local government may adopt and enforce measures that meet the requirements of subsection (d) to divest the assets of the State or local government from, or prohibit investment of the assets of the State or local government in, any person that the State or local government determines, using credible information available to the public, engages in investment activities in Iran described in subsection (c).
+- **(b)** *Authority to divest* Notwithstanding any other provision of law, a State or local government may adopt and enforce measures that meet the requirements of subsection (d) to divest the assets of the State or local government from, or prohibit investment of the assets of the State or local government in, any person that the State or local government determines, using credible information available to the public, engages in investment activities in Iran described in subsection (c).
 - **(c)** *Investment activities in Iran described* A person engages in investment activities in Iran described in this subsection if the person—
-  - **(1)** has an investment of $20,000,000 or more—
-    - **(A)** in the energy sector of Iran; or
-    - **(B)** in a person that provides oil or liquified natural gas tankers, or products used to construct or maintain pipelines used to transport oil or liquified natural gas, for the energy sector in Iran; or
-  - **(2)** is a financial institution that extends $20,000,000 or more in credit to another person, for 45 days or more, if that person will use the credit to invest in the energy sector in Iran.
+  - **(1)** has an investment of $20,000,000 or more in the energy sector of Iran;
+  - **(2)** provides oil or liquified natural gas tankers, or products used to construct or maintain pipelines used to transport oil or liquified natural gas, for the energy sector in Iran; or
+  - **(3)** is a financial institution that extends $20,000,000 or more in credit to another person, for 45 days or more, if that person will use the credit to invest in the energy sector in Iran.
 - **(d)** *Requirements* The requirements referred to in subsection (b) that a measure taken by a State or local government must meet are the following:
   - **(1)** *Notice* The State or local government shall provide written notice to each person to whom the State or local government, as the case may be, intends to apply the measure, of such intent.
   - **(2)** *Timing* The measure shall apply to a person not earlier than the date that is 90 days after the date on which the person receives the written notice required by paragraph (1).
   - **(3)** *Opportunity for hearing* The State or local government shall provide each person referred to in paragraph (1) with an opportunity to demonstrate to the State or local government, as the case may be, that the person does not engage in investment activities in Iran described in subsection (c). If the person demonstrates to the State or local government that the person does not engage in investment activities in Iran described in subsection (c), the measure shall not apply to the person.
   - **(4)** *Sense of the Congress on avoiding erroneous targeting* It is the sense of the Congress that a State or local government should not adopt a measure under subsection (b) with respect to a person unless the State or local government has made every effort to avoid erroneously targeting the person and has verified that the person engages in investment activities in Iran described in subsection (c).
 - **(e)** *Notice to Department of Justice* Not later than 30 days after adopting a measure pursuant to subsection (b), a State or local government shall submit to the Attorney General of the United States a written notice which describes the measure.
-- **(f)** *Nonpreemption* A measure of a State or local government authorized under subsection (b) is not preempted by any Federal law or regulation.
+- **(f)** *Nonpreemption* A measure of a State or local government authorized under subsection (b), or described in subsection (i), is not preempted by any Federal law or regulation.
 - **(g)** *Definitions* In this section:
   - **(1)** *Investment* The “investment” of assets, with respect to a State or local government, includes—
     - **(A)** a commitment or contribution of assets;
@@ -45,19 +44,21 @@ The Congress finds as follows:
     - **(A)** *In general* Except as provided in subparagraph (B), the term assets refers to public monies and includes any pension, retirement, annuity, or endowment fund, or similar instrument, that is controlled directly or indirectly by a State or local government.
     - **(B)** *Exception* The term assets does not include employee benefit plans covered by title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.).
 - **(h)** *Effective date*
-  - **(1)** *In general* Except as provided in paragraph (2), this section shall apply to measures adopted by a State or local government before, on, or after the date of the enactment of this Act.
+  - **(1)** *In general* Except as provided in paragraph (2) of this subsection and subsection (i), this section shall apply to measures adopted by a State or local government on or after the date of the enactment of this Act.
   - **(2)** *Notice requirements* Subsections (d) and (e) apply to measures adopted by a State or local government on or after the date of the enactment of this Act.
+- **(i)** *Authorization for Prior Enacted Measures* Notwithstanding any other provision of law, a State or local government may enforce a measure (without regard to the requirements of subsection (d)) adopted by the State or local government before the date of the enactment of this Act that provides for the divestiture of assets of the State or local government from, or prohibits the investment of the assets of the State or local government in, any person that the State or local government determines, using credible information available to the public, engages in investment or business activities in Iran (determined without regard to subsection (c)) identified in the measure.
 
 ## § 4. Safe harbor for changes of investment policies by asset managers
 
-Section 13(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–13(c)(1)) is amended by inserting before the period the following: “or engage in investment activities in Iran described in section 3(c) of the Iran Sanctions Enabling Act of 2009”.
+Section 13(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–13(c)(1)) is amended to read as follows:
 
-## § 5. Sense of Congress regarding certain ERISA plan investments
+> - **(1)** *In general* Solely for purposes of this subsection, and notwithstanding any other provision of Federal or State law, no person may bring any civil, criminal, or administrative action against any registered investment company, or any employee, officer, director, or investment adviser thereof, based solely upon the investment company divesting from, or avoiding investing in, securities issued by persons that the investment company determines, using credible information that is available to the public, conduct or have direct investments in business operations in Sudan described in section 3(d) of the Sudan Accountability and Divestment Act of 2007 or engage in investment activities in Iran described in section 3(c) of the Iran Sanctions Enabling Act of 2009. Nothing in this paragraph shall be construed to create, imply, diminish, change, or affect in any way the existence of a private cause of action under any other provision of this Act.
 
-It is the sense of Congress that a fiduciary of an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3)), may divest plan assets from, or avoid investing plan assets in, any person the fiduciary determines engages in investment activities in Iran described in section 3(c) of this Act, without breaching the responsibilities, obligations, or duties imposed upon the fiduciary by section 404 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104), if—
+## § 5. Safe harbor for changes of investment policies by employee benefit plans
 
-- **(1)** the fiduciary makes such determination using credible information that is available to the public; and
-- **(2)** such divestment or avoidance of investment is conducted in accordance with section 2509.94–1 of title 29, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
+Section 404 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104) is amended by adding at the end the following new subsection:
+
+> - **(e)** No person shall be treated as breaching any of the responsibilities, obligations, or duties imposed upon fiduciaries by this title for divesting plan assets from, or avoiding investing plan assets in, persons that are determined by such person, using credible information that is available to the public, to be engaged in investment activities in Iran described in section 3(c) of the Iran Sanctions Enabling Act of 2009. Any divestiture of plan assets from, or avoidance of investing plan assets in, persons that are so determined to be engaged in such investment activities shall be treated as in accordance with this title and the documents and instruments governing the plan.
 
 ## § 6. Definitions
 
@@ -69,7 +70,7 @@ In this title:
 - **(4)** *Person* The term person means—
   - **(A)** a natural person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group;
   - **(B)** any governmental entity or instrumentality of a government, including a multilateral development institution (as defined in section 1701(c)(3) of the International Financial Institutions Act (22 U.S.C. 262r(c)(3))); and
-  - **(C)** any successor, subunit, parent company, or subsidiary of any entity described in subparagraph (A) or (B).
+  - **(C)** any successor, subunit, parent company, or subsidiary of, or company under common ownership or control with, any entity described in subparagraph (A) or (B).
 - **(5)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(6)** *State or local government* The term State or local government includes—
   - **(A)** any State and any agency or instrumentality thereof;
