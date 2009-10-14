@@ -1,8 +1,8 @@
 ---
 legis-num: S. 846
-congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Eleventh Congress of the United States of America
+session: 2nd Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 846

@@ -1,7 +1,7 @@
 ---
 measure: S. 846
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 846
@@ -105,3 +105,16 @@ A bill to award a congressional gold medal to Dr. Muhammad Yunus, in recognition
 - 2009-10-14 — Message on Senate action sent to the House.
 - 2009-10-14 — Received in the House.
 - 2009-10-14 — Referred to the House Committee on Financial Services.
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — Considered under suspension of the rules. (consideration: CR H6960-6963)
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 846.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. Carson (IN) moved to suspend the rules and pass the bill.
+- 2010-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6960-6961)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6960-6961)
+- 2010-09-28 — Presented to President.
+- 2010-09-28 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-253.
+- 2010-10-05 — Became Public Law No: 111-253.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.
