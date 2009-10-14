@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

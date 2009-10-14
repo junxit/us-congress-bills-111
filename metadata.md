@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3606
@@ -39,3 +39,13 @@ Credit CARD Technical Corrections Act of 2009
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11257)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11257)
 - 2009-10-14 — Received in the Senate, read twice.
+- 2009-10-29 — Cleared for White House.
+- 2009-10-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10943)
+- 2009-10-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10943)
+- 2009-10-30 — Message on Senate action sent to the House.
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Presented to President.
+- 2009-11-06 — Became Public Law No: 111-93.
+- 2009-11-06 — Became Public Law No: 111-93.
+- 2009-11-06 — Signed by President.
+- 2009-11-06 — Signed by President.
