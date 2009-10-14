@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3606
@@ -38,3 +38,4 @@ Credit CARD Technical Corrections Act of 2009
 - 2009-10-13 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11257)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11257)
+- 2009-10-14 — Received in the Senate, read twice.
