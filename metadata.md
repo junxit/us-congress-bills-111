@@ -1,7 +1,7 @@
 ---
 measure: H.R. 965
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 965
@@ -34,9 +34,10 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -71,3 +72,4 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 - 2009-09-10 — Rule H. Res. 726 passed House.
 - 2009-09-10 — Rule provides for consideration of H.R. 965 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-09-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9408)
+- 2009-10-14 — Read twice and referred to the Committee on Environment and Public Works.
