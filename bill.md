@@ -2,7 +2,7 @@
 legis-num: H. RES. 786
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 786
@@ -26,7 +26,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on June 4, 1995, Pope John Paul II declared Father Damien “Blessed Damien”, and his feast is on May 10, the day Father Damien first entered the island of Molokai; and
 - Whereas Father Damien will be canonized a saint on October 11, 2009, by Pope Benedict XVI: Now, therefore, be it
 
-That the House of Representatives—
-
-- **(1)** recognizes the canonization of Father Damien to sainthood; and
-- **(2)** honors and praises Father Damien for his legacy, work, service, and his insistence on recognizing the human rights and dignity of every individual, particularly those who lived alongside him at the Hansen’s disease settlement on the island of Molokai.
+That the House of Representatives honors and praises Father Damien for his legacy, work, service, and his insistence on recognizing the human rights and dignity of every individual, particularly those who lived alongside him at the Hansen’s disease settlement on the island of Molokai.

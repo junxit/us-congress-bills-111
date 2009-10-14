@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 786
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 786
@@ -16,7 +16,7 @@ Commemorating the canonization of Father Damien de Veuster, SS.CC. to sainthood.
 
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Cosponsors (41)
+## Cosponsors (63)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Klein, Ron [D-FL-22] (K000366)
@@ -59,10 +59,36 @@ Commemorating the canonization of Father Damien de Veuster, SS.CC. to sainthood.
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-10-14 — [House 111-1-779](votes/house-111-1-0779.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (418–0)
 
 ## Actions
 
@@ -70,3 +96,11 @@ Commemorating the canonization of Father Damien de Veuster, SS.CC. to sainthood.
 - 2009-09-30 — Introduced in House
 - 2009-09-30 — Referred to the House Committee on Foreign Affairs.
 - 2009-09-30 — Sponsor introductory remarks on measure. (CR E2411)
+- 2009-10-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-14 — Considered as unfinished business. (consideration: CR H11353-11354)
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11319-11321)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 786.
+- 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-14 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 779). (text: CR H11319-11320)
+- 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 779).(text: CR H11319-11320)
