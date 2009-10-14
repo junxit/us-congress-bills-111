@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3433
@@ -16,9 +16,10 @@ To amend the North American Wetlands Conservation Act to establish requirements 
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the North American Wetlands Conservation Act to establish requirements 
 - 2009-10-13 — Mr. Sablan moved to suspend the rules and pass the bill.
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11178)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11178)
+- 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
