@@ -2,7 +2,7 @@
 legis-num: H. RES. 800
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 800
@@ -15,10 +15,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 80 percent of the capital, Manila, was submerged under water as a result;
 - Whereas at least 3,000,000 persons have been affected by Tropical Storm Ketsana;
 - Whereas more than 135,470 families or 686,000 persons have been forced into evacuation centers;
-- Whereas the casualties include at least 277 dead, 5 injured, and 42 missing;
+- Whereas the casualties, as of October 9, 2009, include at least 237 dead, 308 injured, and 37 missing;
 - Whereas more than 4,640 houses were damaged or destroyed;
 - Whereas Tropical Storm Ketsana has caused at least $4,800,000,000 in damages;
-- Whereas following the devastation caused by Tropical Storm Ketsana, Typhoon Parma hit land October 2, 2009, bringing with it more torrential rain causing further flooding, landslides, crop damaged, and killing at least 16 more people;
+- Whereas following the devastation caused by Tropical Storm Ketsana, Typhoon Parma hit land October 2, 2009, bringing with it more torrential rain causing further flooding, landslides, crop damaged, and killing at least 193 more people;
 - Whereas the United States and the Philippines have a unique and enduring relationship that is based on shared history and commitment to democratic principles, as well as on strong economic ties;
 - Whereas the historical and cultural links between the Philippines and the United States remain important; and
 - Whereas the Filipino American community is the second largest Asian-American group in the United States with a population of approximately 3,100,000: Now, therefore, be it
