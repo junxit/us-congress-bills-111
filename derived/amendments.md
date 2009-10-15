@@ -1,7 +1,7 @@
 ---
 measure: S. 369
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The Clayton Act (15 U.S.C. 12 et seq.) is amended by inserting after section 28 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1112 of such Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 505 of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(j)(5)(D)(i)(V)) is amended by inserting “section 29 of the Clayton Act or” after “that the agreement has violated”. | the bill names no machine-readable US Code section |
+| — | amend | Section 1112 of such Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 505(j)(5)(D)(i)(V) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(j)(5)(D)(i)(V)) is amended by inserting “section 28 of the Federal Trade Commission Act or” after “that the agreement has violated”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (D), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (E), by inserting “or” after the semicolon; and | the bill names no machine-readable US Code section |
