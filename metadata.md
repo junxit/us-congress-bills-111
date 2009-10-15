@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1700
@@ -70,9 +70,10 @@ National Women's History Museum Act of 2009
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ National Women's History Museum Act of 2009
 - 2009-10-14 — Ms. Hirono moved to suspend the rules and pass the bill, as amended.
 - 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11348-11349)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11348-11349)
+- 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
