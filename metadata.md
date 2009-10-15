@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2651
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2651
@@ -23,9 +23,10 @@ Maritime Workforce Development Act
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Maritime Workforce Development Act
 - 2009-10-14 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
 - 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11341-11343)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11341-11343)
+- 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
