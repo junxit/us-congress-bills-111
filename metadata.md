@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 18
 congress: 111
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 18
@@ -28,3 +28,6 @@ A joint resolution relating to the approval of the proposed agreement for nuclea
 
 - 2009-07-13 — Introduced in Senate
 - 2009-07-13 — Read twice and referred to the Committee on Foreign Relations for not to exceed 45 days pursuant to 42 U.S.C. 2159.
+- 2009-10-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
+- 2009-10-15 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159.
+- 2009-10-15 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159.
