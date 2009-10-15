@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 22
@@ -358,9 +358,10 @@ United States Postal Service Financial Relief Act of 2009
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -387,3 +388,5 @@ United States Postal Service Financial Relief Act of 2009
 - 2009-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 32 (Roll no. 701). (text: CR H9502)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 32 (Roll no. 701).(text: CR H9502)
 - 2009-09-15 — The title of the measure was amended. Agreed to without objection.
+- 2009-09-16 — Received in the Senate.
+- 2009-10-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
