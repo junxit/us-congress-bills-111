@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2442
@@ -31,6 +31,12 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 
 - House — Natural Resources Committee
 
+## Recorded votes (3)
+
+- 2009-09-30 — [House 111-1-743](votes/house-111-1-0743.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (240–170)
+- 2009-10-15 — [House 111-1-788](votes/house-111-1-0788.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (237–176)
+- 2009-10-15 — [House 111-1-789](votes/house-111-1-0789.md) — On Passage — **Passed** (241–173)
+
 ## Actions
 
 - 2009-05-14 — Introduced in House
@@ -48,3 +54,24 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 - 2009-09-29 — Placed on the Union Calendar, Calendar No. 149.
 - 2009-09-29 — Reported by the Committee on Natural Resources. H. Rept. 111-268.
 - 2009-09-29 — Reported by the Committee on Natural Resources. H. Rept. 111-268.
+- 2009-09-30 — Considered as unfinished business. (consideration: CR H10121-10122)
+- 2009-09-30 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 240 - 170 (Roll no. 743).
+- 2009-09-30 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 240 - 170 (Roll no. 743).
+- 2009-10-14 — Rules Committee Resolution H. Res. 830 Reported to House. Rule provides for consideration of H.R. 2442 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2009-10-15 — Considered under the provisions of rule H. Res. 830. (consideration: CR H11419-11430)
+- 2009-10-15 — DEBATE - The House continued with debate on H.R. 2442.
+- 2009-10-15 — DEBATE - The House proceeded with one hour of debate on H.R. 2442.
+- 2009-10-15 — House amendment offered
+- 2009-10-15 — Motion to appeal the ruling of the chair tabled.
+- 2009-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-15 — Mr. Miller, George moved to table the motion to appeal the ruling of the chair
+- 2009-10-15 — Mr. Miller, George raised a point of order against the motion to recommit with instructions. Mr. George Miller (CA) stated that the provisions of the Nunes motion to recommit is not germane to the bill. Sustained by the Chair.
+- 2009-10-15 — Mr. Nunes appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2009-10-15 — Mr. Nunes moved to recommit with instructions to Natural Resources. (consideration: CR H11428; text: CR H11428)
+- 2009-10-15 — On motion to table the appeal of the ruling of the chair Agreed to by the Yeas and Nays: 237 - 176 (Roll no. 788).
+- 2009-10-15 — On passage Passed by the Yeas and Nays: 241 - 173 (Roll no. 789). (text: CR H11419-11420)
+- 2009-10-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 241 - 173 (Roll no. 789).(text: CR H11419-11420)
+- 2009-10-15 — Point of order sustained against the motion to recommit with instructions.
+- 2009-10-15 — Rule H. Res. 830 passed House.
+- 2009-10-15 — Rule provides for consideration of H.R. 2442 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2009-10-15 — The previous question was ordered pursuant to the rule. (consideration: CR H11428)
