@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3371
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3371
@@ -50,9 +50,10 @@ Airline Safety and Pilot Training Improvement Act of 2009
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -78,3 +79,4 @@ Airline Safety and Pilot Training Improvement Act of 2009
 - 2009-10-14 — Mr. Costello moved to suspend the rules and pass the bill, as amended.
 - 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 778). (text: CR H11328-11333)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 778).(text: CR H11328-11333)
+- 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
