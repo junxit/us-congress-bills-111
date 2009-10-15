@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1327
@@ -276,9 +276,10 @@ Iran Sanctions Enabling Act of 2009
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -303,3 +304,4 @@ Iran Sanctions Enabling Act of 2009
 - 2009-10-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6 (Roll no. 776). (text: CR 10/13/2009 H11191-11192)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6 (Roll no. 776).(text: CR 10/13/2009 H11191-11192)
+- 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
