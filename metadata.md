@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 138
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 138
@@ -23,9 +23,10 @@ Recognizing the 40th anniversary of the George Bush Intercontinental Airport in 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Recognizing the 40th anniversary of the George Bush Intercontinental Airport in 
 - 2009-10-14 — Mr. Costello moved to suspend the rules and agree to the resolution.
 - 2009-10-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11338)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11338)
+- 2009-10-15 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
