@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2423
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2423
@@ -21,9 +21,14 @@ A bill to designate the Federal building and United States courthouse located at
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
+
+## Recorded votes (1)
+
+- 2009-10-15 — [House 111-1-785](votes/house-111-1-0785.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (421–0)
 
 ## Actions
 
@@ -37,3 +42,13 @@ A bill to designate the Federal building and United States courthouse located at
 - 2009-09-16 — Placed on the House Calendar, Calendar No. 109.
 - 2009-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-257.
 - 2009-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-257.
+- 2009-10-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-14 — Considered under suspension of the rules. (consideration: CR H11347-11348)
+- 2009-10-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2423.
+- 2009-10-14 — Ms. Hirono moved to suspend the rules and pass the bill, as amended.
+- 2009-10-15 — Considered as unfinished business. (consideration: CR H11410-11411)
+- 2009-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 785). (text: CR 10/14/2009 H11347)
+- 2009-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 785).(text: CR 10/14/2009 H11347)
+- 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-10-15 — The title of the measure was amended. Agreed to without objection.
