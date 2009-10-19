@@ -1,7 +1,7 @@
 ---
 measure: S. 1793
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1793
@@ -24,6 +24,10 @@ Ryan White HIV/AIDS Treatment Extension Act of 2009
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2009-10-21 — [House 111-1-793](votes/house-111-1-0793.md) — On Motion to Suspend the Rules and Pass — **Passed** (408–9)
+
 ## Actions
 
 - 2009-10-15 — Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Harkin. Without written report.
@@ -38,3 +42,21 @@ Ryan White HIV/AIDS Treatment Extension Act of 2009
 - 2009-10-19 — Senate amendment agreed to: Amendment SA 2692 agreed to in Senate by Unanimous Consent.
 - 2009-10-19 — Senate amendment proposed (on the floor): Amendment SA 2692 proposed by Senator Brown for Senator Harkin.(consideration: CR S10525; text: CR S10525)
 - 2009-10-19 — Senate amendment submitted
+- 2009-10-20 — Held at the desk.
+- 2009-10-20 — Message on Senate action sent to the House.
+- 2009-10-20 — Received in the House.
+- 2009-10-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-21 — Cleared for White House.
+- 2009-10-21 — Considered as unfinished business. (consideration: CR H11553)
+- 2009-10-21 — Considered under suspension of the rules. (consideration: CR H11523-11533)
+- 2009-10-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1793.
+- 2009-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-21 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2009-10-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 9 (Roll no. 793). (text: CR H11523-11528)
+- 2009-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 9 (Roll no. 793).(text: CR H11523-11528)
+- 2009-10-26 — Presented to President.
+- 2009-10-26 — Presented to President.
+- 2009-10-30 — Became Public Law No: 111-87.
+- 2009-10-30 — Became Public Law No: 111-87.
+- 2009-10-30 — Signed by President.
+- 2009-10-30 — Signed by President.

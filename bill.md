@@ -1,6 +1,6 @@
 ---
 legis-num: S. 1793
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -30,7 +30,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(1)** *HIV/AIDS communities, schools, and centers* Section 2692(c) (42 U.S.C. 300ff–111(c)) is amended—
     - **(A)** in paragraph (1)—
       - **(i)** by striking “is authorized” and inserting “are authorized”; and
-      - **(ii)** by inserting before the period at the end “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013” ; and
+      - **(ii)** by inserting before the period at the end “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013”; and
     - **(B)** in paragraph (2)—
       - **(i)** by striking “is authorized” and inserting “are authorized”; and
       - **(ii)** by inserting before the period at the end “, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013”.

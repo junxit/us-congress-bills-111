@@ -1,7 +1,7 @@
 ---
 measure: S. 1793
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2655 (42 U.S.C. 300ff–55) is amended by striking “and $235,100,000 for fiscal year 2009” and inserting “$235,100,000 for fiscal year 2009, $246,855,000 for fiscal year 2010, $259,198,000 for fiscal year 2011, $272,158,000 for fis… | the bill names no machine-readable US Code section |
 | — | insert | Section 2671(i) (42 U.S.C. 300ff–71(i)) is amended by inserting before the period at the end “, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “is authorized” and inserting “are authorized”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period at the end “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013” ; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period at the end “, $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “is authorized” and inserting “are authorized”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end “, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “and $139,100,000 for fiscal year 2009.” and inserting “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,0… | the bill names no machine-readable US Code section |
