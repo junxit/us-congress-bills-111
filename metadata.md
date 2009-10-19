@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2442
@@ -27,9 +27,10 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 - Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -75,3 +76,4 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 - 2009-10-15 — Rule H. Res. 830 passed House.
 - 2009-10-15 — Rule provides for consideration of H.R. 2442 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-10-15 — The previous question was ordered pursuant to the rule. (consideration: CR H11428)
+- 2009-10-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

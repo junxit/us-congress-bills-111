@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 43 U.S.C. § 390h-27
+
+> Section 1644(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–27) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by striking “$2,250,000” and inserting “$3,125,000”.
+
+| | |
+|---|---|
+| Removed | `$2,250,000` |
+| Inserted | `$3,125,000` |
+
+### 43 U.S.C. § 390h-31
+
+> Section 1648(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–31) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by striking “$8,250,000” and inserting “$13,250,000”.
+
+| | |
+|---|---|
+| Removed | `$8,250,000` |
+| Inserted | `$13,250,000` |
 
 ## Stated, not applied
 
@@ -31,7 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h et seq.) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. prec. 371) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 1644(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–27) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by striking “$2,250,000” and inserting… | the bill names no machine-readable US Code section |
-| — | replace | Section 1648(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–31) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by striking “$8,250,000” and inserting… | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h et seq.) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | add-at-end | The table of contents of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. prec. 371) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
