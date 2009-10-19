@@ -37,7 +37,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** *Minority AIDS Initiative* Section 2693 (42 U.S.C. 300ff–121) is amended—
     - **(A)** in subsection (a), by striking “and $139,100,000 for fiscal year 2009.” and inserting “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,077,000 for fiscal year 2013. The Secretary shall develop a formula for the awarding of grants under subsections (b)(1)(A) and (b)(1)(B) that ensures that funding is provided based on the distribution of populations disproportionately impacted by HIV/AIDS.”;
     - **(B)** in subsection (b)(2)—
-      - **(i)** In subparagraph (A)—
+      - **(i)** in subparagraph (A)—
         - **(I)** in the matter preceding clause (i), by striking “competitive,”; and
         - **(II)** by adding at the end the following:
           > - **(iv)** For fiscal year 2010, $46,738,000.
@@ -71,16 +71,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
         > - **(iii)** For fiscal year 2012, $9,662,000.
         > - **(iv)** For fiscal year 2013, $10,144,000.
 
-      - **(vi)** by adding at the end the following:
-        > - **(g)** *Synchronization of Minority AIDS Initiative* For fiscal year 2010 and each subsequent fiscal year, the Secretary shall incorporate and synchronize the schedule of application submissions and funding availability under this section with the schedule of application submissions and funding availability under the corresponding provisions of this title XXVI as follows:
-        >   - **(1)** The schedule for carrying out subsection (b)(1)(A) shall be the same as the schedule applicable to emergency assistance under part A.
-        >   - **(2)** The schedule for carrying out subsection (b)(1)(B) shall be the same as the schedule applicable to care grants under part B.
-        >   - **(3)** The schedule for carrying out subsection (b)(1)(C) shall be the same as the schedule applicable to grants for early intervention services under part C.
-        >   - **(4)** The schedule for carrying out subsection (b)(1)(D) shall be the same as the schedule applicable to grants for services through projects for HIV-related care under part D.
-        >   - **(5)** The schedule for carrying out subsection (b)(1)(E) shall be the same as the schedule applicable to grants and contracts for activities through education and training centers under section 2692.
+    - **(C)** by adding at the end the following:
+      > - **(d)** *Synchronization of Minority AIDS Initiative* For fiscal year 2010 and each subsequent fiscal year, the Secretary shall incorporate and synchronize the schedule of application submissions and funding availability under this section with the schedule of application submissions and funding availability under the corresponding provisions of this title XXVI as follows:
+      >   - **(1)** The schedule for carrying out subsection (b)(1)(A) shall be the same as the schedule applicable to emergency assistance under part A.
+      >   - **(2)** The schedule for carrying out subsection (b)(1)(B) shall be the same as the schedule applicable to care grants under part B.
+      >   - **(3)** The schedule for carrying out subsection (b)(1)(C) shall be the same as the schedule applicable to grants for early intervention services under part C.
+      >   - **(4)** The schedule for carrying out subsection (b)(1)(D) shall be the same as the schedule applicable to grants for services through projects for HIV-related care under part D.
+      >   - **(5)** The schedule for carrying out subsection (b)(1)(E) shall be the same as the schedule applicable to grants and contracts for activities through education and training centers under section 2692.
 
-  - **(3)** *HHS report* Not later than 6 months after the publication of the Government Accountability Office Report on the Minority Aids Initiative described in section 2686, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a Departmental plan for using funding under section 2693 of the Public Health Service Act (42 U.S.C. 300ff-93) in all relevant agencies to build capacity, taking into consideration the best practices included in such Report.
-- **(g)** *GAO report* Section 2686 (42 U.S.C. 300ff-86) is amended to read as follows:
+  - **(3)** *HHS report* Not later than 6 months after the publication of the Government Accountability Office Report on the Minority Aids Initiative described in section 2686, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a Departmental plan for using funding under section 2693 of the Public Health Service Act (42 U.S.C. 300ff–93) in all relevant agencies to build capacity, taking into consideration the best practices included in such Report.
+- **(g)** *GAO report* Section 2686 (42 U.S.C. 300ff–86) is amended to read as follows:
   > ## § 2686. GAO report
   >
   > The Comptroller General of the Government Accountability Office shall, not less than 1 year after the date of enactment of the Ryan White HIV/AIDS Treatment Extension Act of 2009, submit to the appropriate committees of Congress a report describing Minority AIDS Initiative activities across the Department of Health and Human Services, including programs under this title and programs at the Centers for Disease Control and Prevention, the Substance Abuse and Mental Health Services Administration, and other departmental agencies. Such report shall include a history of program activities within each relevant agency and a description of activities conducted, people served and types of grantees funded, and shall collect and describe best practices in community outreach and capacity-building of community based organizations serving the communities that are disproportionately affected by HIV/AIDS.
@@ -181,7 +181,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 6. Amendments to the general grant provisions
 
-- **(a)** *Administration and planning council* Section 2602(b)(4) (42 U.S.C. 300ff-12(b)(4)) is amended—
+- **(a)** *Administration and planning council* Section 2602(b)(4) (42 U.S.C. 300ff–12(b)(4)) is amended—
   - **(1)** in subparagraph (A), by inserting “, as well as the size and demographics of the estimated population of individuals with HIV/AIDS who are unaware of their HIV status” after “HIV/AIDS”;
   - **(2)** in subparagraph (B)—
     - **(A)** in clause (i), by striking “and” at the end after the semicolon;
@@ -195,7 +195,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** by adding at the end the following:
       > - **(iv)** includes a strategy, coordinated as appropriate with other community strategies and efforts, including discrete goals, a timetable, and appropriate funding, for identifying individuals with HIV/AIDS who do not know their HIV status, making such individuals aware of such status, and enabling such individuals to use the health and support services described in section 2604, with particular attention to reducing barriers to routine testing and disparities in access and services among affected subpopulations and historically underserved communities;
 
-- **(b)** *Type and distribution of grants* Section 2603(b) (42 U.S.C. 300ff-13(b)) is amended—
+- **(b)** *Type and distribution of grants* Section 2603(b) (42 U.S.C. 300ff–13(b)) is amended—
   - **(1)** in paragraph (1)—
     - **(A)** in subparagraph (G), by striking “and” at the end after the semicolon;
     - **(B)** in subparagraph (H), by striking the period at the end and inserting “; and”; and
@@ -208,21 +208,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(ii)** of those individuals described in clause (i), the number of individuals who tested for HIV/AIDS who are made aware of their status, including the number who test positive; and
     > - **(iii)** of those individuals described in clause (ii), the number who have been referred to appropriate treatment and care.
 
-- **(c)** *Application* Section 2605(b)(1) (42 U.S.C. 300ff-15(b)(1)) is amended by inserting “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 2603(b)(2)(A)” before the semicolon at the end.
+- **(c)** *Application* Section 2605(b)(1) (42 U.S.C. 300ff–15(b)(1)) is amended by inserting “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 2603(b)(2)(A)” before the semicolon at the end.
 
 ## § 7. Increase in adjustment for names-based reporting
 
 - **(a)** *Part A grants*
-  - **(1)** *Formula grants* Section 2603(a)(3)(C)(vi) (42 U.S.C. 300ff-13(a)(3)(C)(vi)) is amended by adding at the end the following:
+  - **(1)** *Formula grants* Section 2603(a)(3)(C)(vi) (42 U.S.C. 300ff–13(a)(3)(C)(vi)) is amended by adding at the end the following:
     > - **(III)** *Increased adjustment for certain areas previously using code-based reporting* For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
     >   - **(aa)** for fiscal year 2007, such area was a transitional area;
     >   - **(bb)** fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
     >   - **(cc)** the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
-  - **(2)** *Supplemental grants* Section 2603(b)(2) (42 U.S.C. 300ff-13(b)(2)) is amended by adding at the end the following:
+  - **(2)** *Supplemental grants* Section 2603(b)(2) (42 U.S.C. 300ff–13(b)(2)) is amended by adding at the end the following:
     > - **(D)** *Increased adjustment for certain areas previously using code-based reporting* For purposes of this subsection for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in an area that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if the conditions described in items (aa) through (cc) of subsection (a)(3)(C)(vi)(III) are all satisfied.
 
-- **(b)** *Part B grants* Section 2618(a)(2)(D)(vi) (42 U.S.C. 300ff-28(a)(2)(D)(vi)) is amended by adding at the end the following:
+- **(b)** *Part B grants* Section 2618(a)(2)(D)(vi) (42 U.S.C. 300ff–28(a)(2)(D)(vi)) is amended by adding at the end the following:
   > - **(III)** *Increased adjustment for certain States previously using code-based reporting* For purposes of this subparagraph for each of fiscal years 2010 through 2012, the Secretary shall deem the applicable number of living cases of HIV/AIDS in a State that were reported to and confirmed by the Centers for Disease Control and Prevention to be 3 percent higher than the actual number if—
   >   - **(aa)** there is an area in such State that satisfies all of the conditions described in items (aa) through (cc) of section 2603(a)(3)(C)(vi)(III); or
   >   - **(bb)**
@@ -237,23 +237,23 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(b)** *Corresponding reduction in future grant*
   - **(1)** *In general* Title XXVI (42 U.S.C. 300ff–11 et seq.) is amended—
     - **(A)** in section 2603(c)(3)(D)(i)(42 U.S.C. 300ff–13(c)(3)(D)(i)), in the matter following subclause (II), by striking “2 percent” and inserting “5 percent”; and
-    - **(B)** in 2622(c)(4)(A) (42 U.S.C. 300ff–31a(c)(A)), in the matter following clause (ii), by striking “2 percent” and inserting “5 percent”.
+    - **(B)** in section 2622(c)(4)(A) (42 U.S.C. 300ff–31a(c)(4)(A)), in the matter following clause (ii), by striking “2 percent” and inserting “5 percent”.
   - **(2)** *Authority regarding administration of provision* Title XXVI (42 U.S.C. 300ff–11 et seq.) is amended—
-    - **(A)** in section 2603(c) (42 U.S.C. 300ff-13(c), by adding at the end the following:
+    - **(A)** in section 2603(c) (42 U.S.C. 300ff–13(c)), by adding at the end the following:
       > - **(4)** *Authority regarding administration of provisions* In administering paragraphs (2) and (3) with respect to the unobligated balance of an eligible area, the Secretary may elect to reduce the amount of future grants to the area under subsection (a) or (b), as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in paragraph (2) or (3)(A). In such case, the Secretary may permit the area to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to subsection (b), subject to subsection (a)(4) and section 2610(d)(2). Nothing in this paragraph shall be construed to affect the authority of the Secretary under paragraphs (2) and (3), including the authority to grant waivers under paragraph (3)(A). The reduction in future grants authorized under this paragraph shall be notwithstanding the penalty required under paragraph (3)(D) with respect to unobligated funds.
 
-    - **(B)** in section 2622 (42 U.S.C. 300ff-31a), by adding at the end the following:
+    - **(B)** in section 2622 (42 U.S.C. 300ff–31a), by adding at the end the following:
       > - **(e)** *Authority regarding administration of provisions* In administering subsections (b) and (c) with respect to the unobligated balance of a State, the Secretary may elect to reduce the amount of future grants to the State under section 2618, 2620, or 2621, as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in subsection (b) or (c)(1). In such case, the Secretary may permit the State to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to section 2620, subject to section 2618(a)(2)(H). Nothing in this paragraph shall be construed to affect the authority of the Secretary under subsections (b) and (c), including the authority to grant waivers under subsection (c)(1). The reduction in future grants authorized under this subsection shall be notwithstanding the penalty required under subsection (c)(4) with respect to unobligated funds.
 
-    - **(C)** in section 2603(b)(1)(H) (42 U.S.C. 300ff-13(b)(1)(H)), by striking “canceled” and inserting “canceled, offset under subsection (c)(4),”; and
-    - **(D)** in section 2620(a)(2) (42 U.S.C. 300ff-29a(a)(2)), by striking “canceled” and inserting “canceled, offset under section 2622(e),”.
+    - **(C)** in section 2603(b)(1)(H) (42 U.S.C. 300ff–13(b)(1)(H)), by striking “canceled” and inserting “canceled, offset under subsection (c)(4),”; and
+    - **(D)** in section 2620(a)(2) (42 U.S.C. 300ff–29a(a)(2)), by striking “canceled” and inserting “canceled, offset under section 2622(e),”.
 - **(c)** *Consideration of waiver amounts in determining unobligated balances*
-  - **(1)** *Part A grants* Section 2603(c)(3)(D)(i)(I) (42 U.S.C. 300ff-14(c)(3)(D)(i)(I)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))”.
-  - **(2)** *Part B grants* Section 2622(c)(4)(A)(i) (42 U.S.C. 300ff-31a(c)(4)(A)(i)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))”.
+  - **(1)** *Part A grants* Section 2603(c)(3)(D)(i)(I) (42 U.S.C. 300ff–14(c)(3)(D)(i)(I)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))”.
+  - **(2)** *Part B grants* Section 2622(c)(4)(A)(i) (42 U.S.C. 300ff—31a(c)(4)(A)(i)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))”.
 
 ## § 9. Applications by States
 
-Section 2617(b) (42 U.S.C. Section 300ff-27(b)) is amended—
+Section 2617(b) (42 U.S.C. Section 300ff–27(b)) is amended—
 
 - **(1)** in paragraph (6), by striking “and” at the end;
 - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
@@ -267,7 +267,7 @@ Section 2617(b) (42 U.S.C. Section 300ff-27(b)) is amended—
 
 ## § 10. ADAP rebate funds
 
-- **(a)** *Use of unobligated funds* Section 2622(d) (42 U.S.C. 300ff-31a(d)) is amended by adding at the end the following:
+- **(a)** *Use of unobligated funds* Section 2622(d) (42 U.S.C. 300ff–31a(d)) is amended by adding at the end the following:
   > If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State's unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 2618(a)(2)(F), any unobligated amount under section 2618(a)(2)(F)(ii)(V) that is returned to the Secretary for reallocation shall be used by the Secretary for—
   > - **(1)** the ADAP supplemental program if the Secretary determines appropriate; or
   > - **(2)** for additional amounts for grants pursuant to section 2620.
@@ -286,10 +286,10 @@ Section 2617(b) (42 U.S.C. Section 300ff-27(b)) is amended—
 
 ## § 12. National HIV/AIDS testing goal
 
-Part E of title XXVI (42 U.S.C. 300ff-81 et seq.) is amended—
+Part E of title XXVI (42 U.S.C. 300ff–81 et seq.) is amended—
 
-- **(a)** by redesignating section 2688 as section 2689; and
-- **(b)** by inserting after section 2687 the following:
+- **(1)** by redesignating section 2688 as section 2689; and
+- **(2)** by inserting after section 2687 the following:
   > ## § 2688. National HIV/AIDS testing goal
   >
   > - **(a)** *In general* Not later than January 1, 2010, the Secretary shall establish a national HIV/AIDS testing goal of 5,000,000 tests for HIV/AIDS annually through federally-supported HIV/AIDS prevention, treatment, and care programs, including programs under this title and other programs administered by the Centers for Disease Control and Prevention.
@@ -316,4 +316,4 @@ Part E of title XXVI (42 U.S.C. 300ff-81 et seq.) is amended—
 
 ## § 13. Notification of possible exposure to infectious diseases
 
-Title XXVI (42 U.S.C. 300ff-11 et seq.) is amended by adding at the end the following:
+Title XXVI (42 U.S.C. 300ff–11 et seq.) is amended by adding at the end the following:

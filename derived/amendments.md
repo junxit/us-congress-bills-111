@@ -1,7 +1,7 @@
 ---
 measure: S. 1793
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -42,14 +42,14 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting before the period at the end “, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “and $139,100,000 for fiscal year 2009.” and inserting “$139,100,000 for fiscal year 2009, $146,055,000 for fiscal year 2010, $153,358,000 for fiscal year 2011, $161,026,000 for fiscal year 2012, and $169,0… | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding clause (i), by striking “competitive,”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding clause (i), by striking “competitive”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (C), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking “$18,500,000” and all that follows through the period and inserting the following: “the following, as applicable: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “$8,500,000” and all that follows through the period and inserting the following: “the following, as applicable: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2686 (42 U.S.C. 300ff-86) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 2686 (42 U.S.C. 300ff–86) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subclause (I), by striking “2009” and inserting “2012”; and | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “or 2009” and inserting “or a subsequent fiscal year through fiscal year 2012”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv), by striking “2010” and inserting “2012”; | the bill names no machine-readable US Code section |
@@ -57,7 +57,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in clause (vi)(II), by inserting after “5 percent” the following: “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “2010” and inserting “2013”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2009” and inserting “2012”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subclause (I), by striking “2009” and inserting “2012”; and | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “and 2009” and inserting “through 2012”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking “2009” and inserting “2012”. | the bill names no machine-readable US Code section |
@@ -68,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in clause (vi)(II), by inserting after “5 percent” the following: “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “2010” and inserting “2013”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2009” and inserting “2012”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “2009” each place it appears and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “2007” and inserting “2011”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2007” each place it appears and inserting “2011”; and | the bill names no machine-readable US Code section |
@@ -79,7 +79,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (C), as so redesignated, by striking “Subparagraph (A) does not apply” and inserting “Subparagraphs (A) and (B) do not apply”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(B)” and inserting “(B)(i) subject to clause (ii),”; | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “2006” and inserting “2009”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2007 through 2009” and inserting “2010 through 2013”; | the bill names no machine-readable US Code section |
 | — | replace | by striking clauses (i) and (ii) in subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
@@ -99,32 +99,32 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (A), by inserting “, as well as the size and demographics of the estimated population of individuals with HIV/AIDS who are unaware of their HIV status” after “HIV/AIDS”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end after the semicolon; | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in clause (ii), by striking “and” at the end after the semicolon; | the bill names no machine-readable US Code section |
 | — | insert | in clause (iii), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (G), by striking “and” at the end after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(A), by striking the period and inserting: | the bill names no machine-readable US Code section |
-| — | insert | Section 2605(b)(1) (42 U.S.C. 300ff-15(b)(1)) is amended by inserting “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 2603(b)(2)(A)” before the semicolon at the end. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2603(a)(3)(C)(vi) (42 U.S.C. 300ff-13(a)(3)(C)(vi)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2603(b)(2) (42 U.S.C. 300ff-13(b)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2618(a)(2)(D)(vi) (42 U.S.C. 300ff-28(a)(2)(D)(vi)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 2605(b)(1) (42 U.S.C. 300ff–15(b)(1)) is amended by inserting “, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 2603(b)(2)(A)” before the semicolon at the end. | the bill names no machine-readable US Code section |
+| — | amend | Section 2603(a)(3)(C)(vi) (42 U.S.C. 300ff–13(a)(3)(C)(vi)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2603(b)(2) (42 U.S.C. 300ff–13(b)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2618(a)(2)(D)(vi) (42 U.S.C. 300ff–28(a)(2)(D)(vi)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 2603(b)(1)(H) (42 U.S.C. 300ff–13(b)(1)(H)), by striking “2 percent” and inserting “5 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 2620(a)(2) (42 U.S.C. 300ff–29a(a)(2)), by striking “2 percent” and inserting “5 percent”. | the bill names no machine-readable US Code section |
 | — | replace | in section 2603(c)(3)(D)(i)(42 U.S.C. 300ff–13(c)(3)(D)(i)), in the matter following subclause (II), by striking “2 percent” and inserting “5 percent”; and | the bill names no machine-readable US Code section |
-| — | replace | in 2622(c)(4)(A) (42 U.S.C. 300ff–31a(c)(A)), in the matter following clause (ii), by striking “2 percent” and inserting “5 percent”. | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 2603(c) (42 U.S.C. 300ff-13(c), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 2622 (42 U.S.C. 300ff-31a), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in section 2603(b)(1)(H) (42 U.S.C. 300ff-13(b)(1)(H)), by striking “canceled” and inserting “canceled, offset under subsection (c)(4),”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 2620(a)(2) (42 U.S.C. 300ff-29a(a)(2)), by striking “canceled” and inserting “canceled, offset under section 2622(e),”. | the bill names no machine-readable US Code section |
-| — | insert | Section 2603(c)(3)(D)(i)(I) (42 U.S.C. 300ff-14(c)(3)(D)(i)(I)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))”. | the bill names no machine-readable US Code section |
-| — | insert | Section 2622(c)(4)(A)(i) (42 U.S.C. 300ff-31a(c)(4)(A)(i)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))”. | the bill names no machine-readable US Code section |
+| — | replace | in section 2622(c)(4)(A) (42 U.S.C. 300ff–31a(c)(4)(A)), in the matter following clause (ii), by striking “2 percent” and inserting “5 percent”. | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 2603(c) (42 U.S.C. 300ff–13(c)), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 2622 (42 U.S.C. 300ff–31a), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in section 2603(b)(1)(H) (42 U.S.C. 300ff–13(b)(1)(H)), by striking “canceled” and inserting “canceled, offset under subsection (c)(4),”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 2620(a)(2) (42 U.S.C. 300ff–29a(a)(2)), by striking “canceled” and inserting “canceled, offset under section 2622(e),”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2603(c)(3)(D)(i)(I) (42 U.S.C. 300ff–14(c)(3)(D)(i)(I)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2622(c)(4)(A)(i) (42 U.S.C. 300ff—31a(c)(4)(A)(i)) is amended by inserting after “unobligated balance” the following: “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2622(d) (42 U.S.C. 300ff-31a(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2622(d) (42 U.S.C. 300ff–31a(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Subclause (V) of section 2618(a)(2)(F)(ii) (42 U.S.C. 300ff–28(a)(2)(F)(ii)) is amended by striking “, subject to subclause (VI)”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (i) as subsection (j); | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g), by striking “subsection (i)” and inserting “subsection (j)”; and | the bill names no machine-readable US Code section |
@@ -132,4 +132,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2671(a) (42 U.S.C. 300ff–71(a)) is amended by striking “(directly or through contracts)” and inserting “(directly or through contracts or memoranda of understanding)”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 2688 as section 2689; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 2687 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title XXVI (42 U.S.C. 300ff-11 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XXVI (42 U.S.C. 300ff–11 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
