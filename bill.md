@@ -2,7 +2,7 @@
 legis-num: H. RES. 558
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 558
@@ -17,9 +17,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the information technology sector is uniquely positioned to help with economic recovery through the research and development of new innovations;
 - Whereas National Computer Science Education Week can inform students, teachers, parents, and the general public about the crucial role that computer science plays in transforming our society and how computer science enables innovation in all science, technology, engineering, and mathematics disciplines and creates economic opportunities;
 - Whereas providing students the chance to participate in high-quality computer science activities, including through science scholarships, exposes them to the rich opportunities the field offers and provides critical thinking skills that will serve them throughout their lives;
-- Whereas all students deserve a thorough preparation in science, technology, engineering, and mathematics education, including computer science, at the elementary and secondary levels of education;
+- Whereas all students deserve a thorough preparation in science, technology, engineering, and mathematics education, including access to the qualified teachers, technology, and age-appropriate curriculum needed to learn computer science at the elementary and secondary levels of education;
 - Whereas these subjects provide the critical foundation to master the skills demanded by our 21st century workforce;
-- Whereas computer science education has a number of challenges to address, including distinguishing computer science from technology literacy, providing adequate professional development for computer science teachers, exposing K–12 students to computer science concepts, and attracting more participation by females and underrepresented minorities to the field;
+- Whereas computer science education has challenges to address, including distinguishing computer science from technology literacy and providing adequate professional development for computer science teachers;
+- Whereas the field of computer science has significant equity barriers to address, including attracting more participation by females and underrepresented minorities to all levels and branches;
 - Whereas Grace Murray Hopper, one of the first females in the field of computer science, engineered new programming languages and pioneered standards for computer systems which laid the foundation for many advancements in computer science; and
 - Whereas the week of December 7, in honor of Grace Hopper’s birthday, is designated as “National Computer Science Education Week”: Now, therefore, be it
 
