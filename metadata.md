@@ -1,0 +1,27 @@
+---
+measure: H.R. 3865
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 3865
+
+To suspend temporarily the duty on 1-Propanaminium, 3,3'-Ý(9,10-dihydro-9,10-dioxo- 1,4-anthracenediyl)diimino¨bisÝN,N,N-triethyl-, bis(ethyl sulfate).
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2009-10-20 — Introduced in House
+- 2009-10-20 — Introduced in House
+- 2009-10-20 — Referred to the House Committee on Ways and Means.
