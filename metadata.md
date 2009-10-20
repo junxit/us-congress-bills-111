@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3819
@@ -31,3 +31,9 @@ To extend the commercial space transportation liability regime.
 - 2009-10-15 — Introduced in House
 - 2009-10-15 — Introduced in House
 - 2009-10-15 — Referred to the House Committee on Science and Technology.
+- 2009-10-20 — Considered under suspension of the rules. (consideration: CR H11470-11472)
+- 2009-10-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3819.
+- 2009-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-20 — Mr. Gordon (TN) moved to suspend the rules and pass the bill.
+- 2009-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11471)
+- 2009-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11471)
