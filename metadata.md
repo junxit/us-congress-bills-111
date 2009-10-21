@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3819
@@ -22,9 +22,10 @@ To extend the commercial space transportation liability regime.
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To extend the commercial space transportation liability regime.
 - 2009-10-20 — Mr. Gordon (TN) moved to suspend the rules and pass the bill.
 - 2009-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11471)
 - 2009-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11471)
+- 2009-10-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
