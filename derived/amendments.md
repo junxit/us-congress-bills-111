@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
