@@ -13,10 +13,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Bonneville Unit Clean Hydropower Facilitation Act”.
 
-## § 2. Cost allocations
+## § 2. Diamond Fork System defined
+
+For the purposes of this Act, the term “Diamond Fork System” means the facilities described in chapter 4 of the October 2004 Supplement to the 1988 Definite Plan Report for the Bonneville Unit.
+
+## § 3. Cost allocations
 
 Notwithstanding any other provision of law, in order to facilitate hydropower development on the Diamond Fork System, the amount of reimbursable costs allocated to project power in Chapter 6 of the Power Appendix in the October 2004 Supplement to the 1988 Bonneville Unit Definite Plan Report, with regard to power development within the Diamond Fork System, shall be considered final costs as well as costs in excess of the total maximum repayment obligation as defined in section 211 of the Central Utah Project Completion Act of 1992 (Public Law 102–575), and shall be subject to the same terms and conditions.
 
-## § 3. No purchase or market obligation; no costs assigned to power
+## § 4. No purchase or market obligation; no costs assigned to power
 
 Nothing in this Act shall obligate the Western Area Power Administration to purchase or market any of the power produced by the Diamond Fork power plant and none of the costs associated with development of transmission facilities to transmit power from the Diamond Fork power plant shall be assigned to power for the purpose of Colorado River Storage Project ratemaking.
+
+## § 5. Prohibition on tax-exempt financing
+
+No facility for the generation or transmission of hydroelectric power on the Diamond Fork System may be financed or refinanced, in whole or in part, with proceeds of any obligation—
+
+- **(1)** the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986, or
+- **(2)** with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of such Code.
+
+## § 6. Reporting requirement
+
+If, 24 months after the date of the enactment of this Act, hydropower production on the Diamond Fork System has not commenced, the Secretary of the Interior shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate stating this fact, the reasons such production has not yet commenced, and a detailed timeline for future hydropower production.

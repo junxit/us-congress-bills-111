@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2008
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2008
@@ -29,3 +29,11 @@ Bonneville Unit Clean Hydropower Facilitation Act
 - 2009-04-21 — Introduced in House
 - 2009-04-21 — Introduced in House
 - 2009-04-21 — Referred to the House Committee on Natural Resources.
+- 2009-04-27 — Referred to the Subcommittee on Water and Power.
+- 2009-05-14 — Subcommittee Hearings Held.
+- 2009-09-10 — Committee Consideration and Mark-up Session Held.
+- 2009-09-10 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-09-10 — Subcommittee on Water and Power Discharged.
+- 2009-10-21 — Placed on the Union Calendar, Calendar No. 174.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-308.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-308.
