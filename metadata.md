@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 761
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 761
@@ -16,7 +16,7 @@ Remembering and commemorating the lives and work of Jesuit Fathers Ignacio Ellac
 
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 
-## Cosponsors (33)
+## Cosponsors (34)
 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
@@ -51,6 +51,7 @@ Remembering and commemorating the lives and work of Jesuit Fathers Ignacio Ellac
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
 
 ## Committees (1)
 
@@ -61,3 +62,9 @@ Remembering and commemorating the lives and work of Jesuit Fathers Ignacio Ellac
 - 2009-09-22 — Introduced in House
 - 2009-09-22 — Introduced in House
 - 2009-09-22 — Referred to the House Committee on Foreign Affairs.
+- 2009-10-21 — Considered under suspension of the rules. (consideration: CR H11542-11545)
+- 2009-10-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 761.
+- 2009-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-21 — Ms. Watson moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11542-11543)
+- 2009-10-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11542-11543)
