@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1471
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1471
@@ -35,3 +35,11 @@ To expand the boundary of the Jimmy Carter National Historic Site in the State o
 - 2009-03-12 — Introduced in House
 - 2009-03-12 — Introduced in House
 - 2009-03-12 — Referred to the House Committee on Natural Resources.
+- 2009-03-16 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-05-14 — Subcommittee Hearings Held.
+- 2009-09-30 — Committee Consideration and Mark-up Session Held.
+- 2009-09-30 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-09-30 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-10-21 — Placed on the Union Calendar, Calendar No. 173.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-307.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-307.
