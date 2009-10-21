@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3763
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3763
@@ -23,9 +23,10 @@ To amend the Fair Credit Reporting Act to provide for an exclusion from Red Flag
 - Rep. Lee, Christopher J. [R-NY-26] (L000568)
 - Rep. Paul, Ron [R-TX-14] (P000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To amend the Fair Credit Reporting Act to provide for an exclusion from Red Flag
 - 2009-10-20 — Mr. Adler (NJ) moved to suspend the rules and pass the bill.
 - 2009-10-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 790). (text: CR H11467)
 - 2009-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 790).(text: CR H11467)
+- 2009-10-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
