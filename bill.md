@@ -37,28 +37,32 @@ For the purposes of this Act—
 
 ## § 4. Transfer of lands to be held in trust as part of the tribe’s reservation; placement of other land into trust
 
-- **(a)** *In general* The Secretary shall transfer to the Tribe all right, title, and interest of the United States in and to the Federal land. Such land shall be held in trust by the United States for the benefit of the Tribe. Such land shall be excluded from the boundaries of Olympic National Park. At the request of the Tribe, at the time of transfer of the Federal land, the Secretary shall also place into trust for the benefit of the Tribe the non-Federal land owned by the Tribe and described in subsection (c)(1).
+- **(a)** *In general* All right, title, and interest of the United States in and to the land described in subsection (c)(2), are declared to be held in trust by the United States for the benefit of the Tribe without any further action by the Secretary. Such land shall be excluded from the boundaries of the Olympic National Park. Upon conveyance to the Secretary by the Tribe, and subject to the completion of an assessment of the nature and extent of any potential liability resulting from hazardous substances or other environmental problems associated with such property and the remediation of any such potential liabilities, the Secretary shall take into trust for the benefit of the Tribe certain non-Federal land owned by the Tribe described in subsection (c)(1), without any further action by the Secretary.
 - **(b)** *Reservation* Land taken into trust for the Tribe pursuant to subsection (a) shall be part of the Reservation
-- **(c)** *Description of lands* The land to be transferred and held in trust under subsection (a) is the land generally depicted on the map titled “H.R. ___ Hoh Indian Tribe Safe Homelands Act”, and dated _________ and further described as—
-  - **(1)** the non-Federal land owned by the Hoh Tribe; and
+- **(c)** *Description of lands* The land to be transferred and held in trust under subsection (a) is the land generally depicted on the map titled “Hoh Indian Tribe Safe Homelands Act Land Acquisition Map”, dated July, 21, 2008, and further described as—
+  - **(1)** the non-Federal land owned by the Hoh Tribe described in section 2(a)(6) and (7); and
   - **(2)** the Federal land administered by the National Park Service, located in Section 20, Township 26N, Range 13W, W.M. South of the Hoh River.
-- **(d)** *Availability of map* Not later than 120 days after the completion of the land transfer of Federal land under this section, the Secretary shall make the map available to the appropriate agency officials and congressional committees. The map shall be available for public inspection in the appropriate offices of the Secretary.
+- **(d)** *Availability of map* Not later than 120 days after the survey required by section 5(a)(6) has been reviewed and concurred in by the National Park Service, the Secretary shall make the map available to the appropriate congressional committees. The map also shall be available for public inspection in the appropriate offices of the Secretary.
 - **(e)** *Congressional intent* It is the intent of Congress that—
   - **(1)** the condition of the Federal land at the time of the transfer under this section should be preserved and protected;
   - **(2)** that the natural environment existing on the Federal land at the time of the transfer under this section should not be altered, except as described in this Act; and
   - **(3)** the Tribe and the National Park Service shall work cooperatively on issues of mutual concern related to this Act.
 
-## § 5. Preservation of existing condition of federal land; terms of conservation and use in connection with land transfer
+## § 5. Preservation of existing condition of Federal land; terms of conservation and use in connection with land transfer
 
-- **(a)** *Restrictions on use* The use of the Federal land transferred pursuant to section 4 is subject to the following conditions:
-  - **(1)** No commercial, residential, industrial, or other buildings or structures shall be placed on the Federal land being transferred and placed into trust. The existing road may be maintained or improved, but no major improvements or road construction shall occur on the lands.
-  - **(2)** In order to maintain its use as a natural wildlife corridor and to provide for protection of existing resources, no logging or hunting shall be allowed on the land.
-  - **(3)** The Tribe may authorize tribal members to engage in ceremonial and other treaty uses of these lands and existing tribal treaty rights are not diminished by this Act.
-  - **(4)** The Tribe shall survey the boundaries of the Federal land and submit the survey to the National Park Service for review and concurrence.
-- **(b)** *Cooperative efforts* Congress urges the Secretary and the Tribe to enter into written agreements on the following:
-  - **(1)** Upon completion of the Tribe’s proposed emergency fire response building, Congress urges the parties to work toward mutual aid agreements.
-  - **(2)** The National Park Service and the Tribe shall work collaboratively to provide opportunities for the public to learn more about the culture and traditions of the Tribe.
-  - **(3)** The land may be used for the development of a multi-purpose, non-motorized trail from Highway 101 to the Pacific Ocean. The parties agree to work cooperatively in the development and placement of such trail.
+- **(a)** *Restrictions on use* The use of the Federal land transferred pursuant to section 4 shall be subject to the following conditions:
+  - **(1)** No commercial, residential, industrial, or other buildings or structures shall be placed on the Federal land being transferred and placed into trust.
+  - **(2)** The condition of the Federal land at the time of the transfer under this section shall be preserved and protected and no actions that would adversely affect the natural environment on the Federal land shall be taken, except as described in this Act.
+  - **(3)** In order to maintain its use as a natural wildlife corridor and to provide for protection of existing resources, no logging or hunting shall be allowed on the land.
+  - **(4)** Routine maintenance may be conducted on the two-lane county road that traverses the Federal land as of the date of the enactment of this Act. The road may not be widened or otherwise expanded. No other roads or access routes shall be allowed on the Federal land, except as provided by this paragraph and subsection (b)(2). In the event the use of the road or portions of the road is compromised by floods or other natural or unexpected occurrences, a similar, two-lane road or portion of the road may be reconstructed to assure access to the area.
+  - **(5)** The Tribe may authorize tribal members to engage in ceremonial and other treaty uses of the Federal lands and existing tribal treaty rights shall not be diminished by this Act.
+  - **(6)** The Tribe shall survey the boundaries of the Federal land and submit the survey to the National Park Service for its review and concurrence.
+- **(b)** *Cooperative efforts* The Secretary and the Tribe—
+  - **(1)** shall enter into cooperative agreements—
+    - **(A)** for mutual emergency fire aid, upon completion of the Tribe’s proposed emergency fire response building; and
+    - **(B)** to provide opportunities for the public to learn more about the culture and traditions of the Tribe;
+  - **(2)** may develop and establish a multipurpose, nonmotorized trail from Highway 101 to the Pacific Ocean; and
+  - **(3)** shall work cooperatively on any other issues of mutual concern related to the transfer of land authorized by this Act.
 
 ## § 6. Hoh Indian reservation
 

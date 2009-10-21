@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1061
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1061
@@ -16,6 +16,10 @@ Hoh Indian Tribe Safe Homelands Act
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 
+## Cosponsors (1)
+
+- Rep. Cole, Tom [R-OK-4] (C001053)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,9 @@ Hoh Indian Tribe Safe Homelands Act
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Introduced in House
 - 2009-02-13 — Referred to the House Committee on Natural Resources.
+- 2009-06-03 — Committee Hearings Held.
+- 2009-07-09 — Committee Consideration and Mark-up Session Held.
+- 2009-07-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-10-21 — Placed on the Union Calendar, Calendar No. 172.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-306.
+- 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-306.
