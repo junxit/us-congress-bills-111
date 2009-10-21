@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 112
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 112
@@ -16,7 +16,7 @@ A resolution designating February 8, 2010, as "Boy Scouts of America Day", in ce
 
 - Sen. Nelson, Ben [D-NE] (N000180)
 
-## Cosponsors (26)
+## Cosponsors (27)
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
@@ -44,6 +44,7 @@ A resolution designating February 8, 2010, as "Boy Scouts of America Day", in ce
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Conrad, Kent [D-ND] (C000705)
 - Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
 
 ## Committees (1)
 
@@ -53,3 +54,7 @@ A resolution designating February 8, 2010, as "Boy Scouts of America Day", in ce
 
 - 2009-04-23 — Introduced in Senate
 - 2009-04-23 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4698-4699)
+- 2009-10-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S110650-10651)
+- 2009-10-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S110650-10651)
+- 2009-10-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10650-10651)
+- 2009-10-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10650-10651)
