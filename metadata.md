@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 823
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 823
@@ -16,7 +16,7 @@ Expressing deep condolences to the families, friends, and colleagues of those ki
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (17)
+## Cosponsors (29)
 
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
@@ -35,6 +35,18 @@ Expressing deep condolences to the families, friends, and colleagues of those ki
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (1)
 
@@ -45,3 +57,9 @@ Expressing deep condolences to the families, friends, and colleagues of those ki
 - 2009-10-13 — Introduced in House
 - 2009-10-13 — Introduced in House
 - 2009-10-13 — Referred to the House Committee on Foreign Affairs.
+- 2009-10-21 — Considered under suspension of the rules. (consideration: CR H11551-11552)
+- 2009-10-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 823.
+- 2009-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-21 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2009-10-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11551)
+- 2009-10-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11551)
