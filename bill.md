@@ -28,7 +28,7 @@ In this Act:
     - **(vi)** dye-sensitized and organic solar cell technologies;
     - **(vii)** concentrating photovoltaics; and
     - **(viii)** other photovoltaic methods identified by the Secretary;
-  - **(B)** solar thermal electric technology, including linear concentrator systems, dish/engine systems, and power tower systems;
+  - **(B)** solar thermal power technology, including linear concentrator systems, dish/engine systems, power tower systems, and other means;
   - **(C)** solar thermal water heating technology;
   - **(D)** solar heating and air conditioning technologies;
   - **(E)** passive solar design in architecture, including both heating and lighting applications; and
