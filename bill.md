@@ -1,0 +1,33 @@
+---
+legis-num: H. CON. RES. 203
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 203
+
+> Honoring the life and work of Furman Bisher.
+
+## Preamble
+
+- Whereas Furman Bisher was born on November 4, 1918, in Denton, North Carolina;
+- Whereas Furman Bisher became editor of the Charlotte News in 1940;
+- Whereas Furman Bisher served his country during World War II from 1941 until 1945;
+- Whereas Furman Bisher became a sports editor for the Atlanta Constitution in 1950;
+- Whereas Furman Bisher became a sports editor and columnist for the Atlanta Journal and the Sunday Journal-Constitution in 1957;
+- Whereas Furman Bisher was president of the Football Writers Association of America from 1959 to 1960;
+- Whereas Furman Bisher was named one of the Nation’s five best columnists by Time Magazine in 1961;
+- Whereas Furman Bisher was president of the National Sportscasters and Sportswriters Association from 1974 to 1976;
+- Whereas Furman Bisher has covered as a reporter every Kentucky Derby since 1950;
+- Whereas Furman Bisher has covered as a reporter every National Football League Super Bowl except for the first one played in 1967;
+- Whereas Furman Bisher played a crucial role in facilitating the arrival of the Braves Baseball team to Atlanta which was Atlanta’s first professional sports team;
+- Whereas Furman Bisher is a member of the Atlanta Sports Hall of Fame, the International Golf Writers Hall of Fame, and the national Sportscasters and Sportswriters Hall of Fame;
+- Whereas Furman Bisher was a recipient of the Professional Golfer’s Association Lifetime Achievement in Journalism Award in 1996;
+- Whereas in 1949, Furman Bisher secured the only interview with “Shoeless” Joe Jackson since 1919 when he was banned from baseball; and
+- Whereas Furman Bisher retired from the Atlanta Journal Constitution on October 10, 2009, after 59 years of service: Now, therefore, be it
+
+That Congress—
+
+- **(1)** honors the life and work of Furman Bisher; and
+- **(2)** respectfully requests the Clerk of the House to transmit an enrolled copy of this resolution to Furman Bisher.
