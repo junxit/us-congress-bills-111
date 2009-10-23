@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-279 amendatory instructions. 0 executed, 279 stated and not applied.
+313 amendatory instructions. 0 executed, 313 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -169,7 +169,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(B), by striking “lifeboats or liferafts” and inserting “a survival craft that ensures that no part of an individual is immersed in water”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(D), by inserting “marine” before “radio”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(E), by striking “radar reflectors, nautical charts, and anchors” and inserting “nautical charts, and publications”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(F), by striking “, including medicine chests” and inserting “and medical supplies sufficient for the size and area of operation of the vessel” and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(F), by striking “, including medicine chests” and inserting “and medical supplies sufficient for the size and area of operation of the vessel”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2)(G) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (f) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -187,7 +187,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | Section 4508(e)(1) of that title is amended by striking “September 30, 2010.” and inserting “September 30, 2020.”. | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 45 of title 46, United States Code, is amended by striking the item relating to such section and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 5102(b)(3) of title 46, United States Code, is amended by inserting after “vessel” the following “, unless the vessel is built or undergoes a major conversion completed after July 1, 2010”. | the bill names no machine-readable US Code section |
+| — | insert | Section 5102(b)(3) of title 46, United States Code, is amended by inserting after “vessel” the following “, unless the vessel is built or undergoes a substantial change to the dimension of or type of the vessel completed after July 1, 20… | the bill names no machine-readable US Code section |
 | — | replace | by striking the section heading and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a) by striking “fish processing”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -243,6 +243,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (e), by striking “September 30, 2010.” and inserting “September 30, 2020.”. | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “September 30, 2010.” and inserting “September 30, 2020.”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “and Buzzards Bay, Massachusetts” before “, if any,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3316 of title 46, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 3316(c) of title 46, United States Code, is amended by striking so much as precedes paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 35 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 81 of title 46, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -261,6 +265,13 @@ complete account of the bill's effect, which it is not.
 | — | repeal | by repealing paragraph (2); | the bill names no machine-readable US Code section |
 | — | strike | by striking “(1)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 70105 of title 46, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 70105(b) of title 46, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 5 of title 14, United States Code, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis at the beginning of such chapter is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 3 of title 14, United States Code, is further amended by adding at the end the following new sections: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis at the beginning of such chapter is further amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 93 of title 14, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | by amending the subsection heading to read as follows: “Bringing In, Harboring, and Smuggling of Unlawful and Terrorist Aliens.—”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraphs (1) through (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 2237 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -310,3 +321,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | The table of sections in section 2 of the Coast Guard Authorization Act of 1996 is amended in the item relating to section 103 by striking “reports” and inserting “report”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8103 of title 46, United States Code, is amended by adding at the end the follow new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 11108(b)(2)(B) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Public Law 110–299 (122 Stat. 2995, 33 U.S.C. 1342 note) is amended in section 2(a) by striking “during the 2-year period beginning on the date of enactment of this Act” and inserting “during the period beginning on the date of enactment… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 51304 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1), by striking “December 31, 2009” and inserting “December 31, 2011”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(1), by striking “its proposed public aquarium” and inserting “a new building in compliance with the waterfront provisions of the City of Portland Code of Ordinances adjacent to the pier and bulkhead”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (i), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Notwithstanding title X of this Act, chapter 81 of title 46, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | repeal | by repealing subsections (d) and (e); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f) and (g) as subsections (d) and (e), respectively. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 13 of title 14, United States Code, is amended by inserting after section 491 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | by striking the heading of section 492a and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 492 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | in section 494, by striking “distinguished service medal, distinguished flying cross,” and inserting “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” in both places it appears; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1) of subsection (a), by striking “distinguished service medal, distinguished flying cross,” and inserting “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2), by striking “distinguished service medal, distinguished flying cross,” and inserting “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 497, by striking “distinguished service medal, distinguished flying cross,” and inserting “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the item relating to section 491 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to section 492a and inserting the following new items: | the bill names no machine-readable US Code section |
