@@ -55,6 +55,10 @@ This Act may be cited as the “Effective Homeland Security Management Act of 20
 
 - **(d)** *References* References in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the Under Secretary for Management of the Department of Homeland Security shall be deemed to refer to the Deputy Secretary of Homeland Security for Management.
 - **(e)** *Technical and conforming amendments*
+- **(e)** *Treatment of incumbent*
+  - **(1)** *In general* If an individual has been appointed as Under Secretary for Management of the Department of Homeland Security, by and with the advice and consent of the Senate, and is serving in that position on the date of enactment of this Act, the individual shall serve as the Deputy Secretary of Homeland Security for Management.
+  - **(2)** *Term* For an individual to whom paragraph (1) applies, the 5-year term established under section 701(c)(4) of the Homeland Security Act of 2002, as amended by this Act, shall begin on the date of enactment of this Act.
+- **(f)** *Technical and conforming amendments*
   - **(1)** *Other reference* Section 702(a) of the Homeland Security Act of 2002 (6 U.S.C. 342(a)) is amended by striking “Under Secretary for Management” and inserting “Deputy Secretary of Homeland Security for Management”.
   - **(2)** *Table of contents* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by striking the item relating to section 701 and inserting the following:
   - **(3)** *Executive schedule* Section 5313 of title 5, United States Code, is amended by striking the item relating to the Under Secretary of Homeland Security for Management, and inserting the following:
