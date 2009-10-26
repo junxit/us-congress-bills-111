@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2806
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2806
@@ -34,3 +34,9 @@ To authorize the Secretary of the Interior to adjust the boundary of the Stephen
 - 2009-10-08 — Placed on the Union Calendar, Calendar No. 163.
 - 2009-10-08 — Reported by the Committee on Natural Resources. H. Rept. 111-293.
 - 2009-10-08 — Reported by the Committee on Natural Resources. H. Rept. 111-293.
+- 2009-10-26 — Considered under suspension of the rules. (consideration: CR H11745-11746)
+- 2009-10-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2806.
+- 2009-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-26 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11745-11746)
+- 2009-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11745-11746)
