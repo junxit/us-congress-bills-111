@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1641
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1641
@@ -40,3 +40,9 @@ Cascadia Marine Trail Study Act
 - 2009-10-08 — Placed on the Union Calendar, Calendar No. 162.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-292.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-292.
+- 2009-10-26 — Considered under suspension of the rules. (consideration: CR H11746-11747)
+- 2009-10-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1641.
+- 2009-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-26 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11746)
+- 2009-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11746)
