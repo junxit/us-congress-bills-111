@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 817
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 817
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Domestic Violence Awareness Month an
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (50)
+## Cosponsors (78)
 
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
@@ -68,6 +68,34 @@ Supporting the goals and ideals of National Domestic Violence Awareness Month an
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Chu, Judy [D-CA-32] (C001080)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
 
 ## Committees (1)
 
@@ -78,3 +106,9 @@ Supporting the goals and ideals of National Domestic Violence Awareness Month an
 - 2009-10-08 — Introduced in House
 - 2009-10-08 — Introduced in House
 - 2009-10-08 — Referred to the House Committee on Education and Labor.
+- 2009-10-26 — Considered under suspension of the rules. (consideration: CR H11752-11755)
+- 2009-10-26 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 817.
+- 2009-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-26 — Mr. Pierluisi moved to suspend the rules and agree to the resolution, as amended.
+- 2009-10-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11752)
+- 2009-10-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11752)
