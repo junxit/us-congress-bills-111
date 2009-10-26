@@ -32,7 +32,7 @@ Section 1 of Public Law 100–206 is amended—
   - **(A)** in subparagraph (A), by striking “and” at the end;
   - **(B)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
   - **(C)** after subparagraph (B), insert the following:
-    > - **(C)** by donation only, other lands and interests in lands in the environs of Plains that the Secretary deems appropriate to add to the national historical park which, upon acquisition, shall be included in and administered as part of the national historical park.
+    > - **(C)** by donation only, other lands and interests in lands in the environs of Plains containing natural, cultural, or historic resources consistent with the purposes of the national historical park which, upon acquisition, shall be included in and administered as part of the national historical park.
 
 - **(5)** in subsection (c)(2), by inserting “, the Georgia Welcome Center (referred to in subsection (b)(2)(I)),” after “subsection (b)(2)(A))”.
 
