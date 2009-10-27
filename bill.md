@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2489
 
-> To authorize a comprehensive national cooperative geospatial imagery mapping program through the United States Geological Survey, to promote use of the program for education, workforce training and development, and applied research, and to support Federal, State, tribal, and local government programs.
+> To authorize a national cooperative geospatial imagery program through the United States Geological Survey to promote use of remote sensing data.
 
 ## § 1. Short title
 
@@ -17,15 +17,15 @@ This Act may be cited as the “National Land Remote Sensing Outreach Act”.
 
 In this Act:
 
-- **(1)** *Program* The term Program means the National Land Remote Sensing Outreach Program established in section 3.
-- **(2)** *Educational institution* The term educational institution means any public or private elementary or secondary school, or any institution of vocational, professional, or higher education (including a junior college or teachers’ college).
-- **(3)** *Geospatial imagery* The term geospatial imagery—
+- **(1)** *Program* The term “Program” means the National Land Remote Sensing Outreach Program established in section 3.
+- **(2)** *Educational institution* The term “educational institution” means any public or private elementary or secondary school, or any institution of vocational, professional, or higher education (including a junior college or teachers’ college).
+- **(3)** *Geospatial imagery* The term “geospatial imagery”—
   - **(A)** means satellite land remote sensing image data registered to map or other spatial coordinates derived from features on the ground; and
   - **(B)** includes a wide range of graphical products that convey information about natural phenomena and human activities occurring on Earth’s surface.
-- **(4)** *Image data* The term image data means the raw, unprocessed form of data captured from a sensing instrument.
-- **(5)** *Land remote sensing* The term land remote sensing means image data of land, coastal areas, or islands and reefs acquired from above the surface of the Earth by instruments on satellite platforms.
-- **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(7)** *State* The term State means—
+- **(4)** *Image data* The term “image data” means the raw, unprocessed form of data captured from a sensing instrument.
+- **(5)** *Land remote sensing* The term “land remote sensing” means image data of land, coastal areas, or islands and reefs acquired from above the surface of the Earth by instruments on satellite platforms.
+- **(6)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(7)** *State* The term “State” means—
   - **(A)** each of the several States of the United States;
   - **(B)** the District of Columbia;
   - **(C)** the Commonwealth of Puerto Rico;
@@ -33,7 +33,7 @@ In this Act:
   - **(E)** American Samoa;
   - **(F)** the Commonwealth of the Northern Mariana Islands; and
   - **(G)** the United States Virgin Islands.
-- **(8)** *Indian tribe* The term Indian tribe has the same meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+- **(8)** *Indian tribe* The term “Indian tribe” has the same meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 
 ## § 3. National Land Remote Sensing Outreach Program
 

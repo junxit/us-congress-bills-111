@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2489
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2489
@@ -25,6 +25,10 @@ National Land Remote Sensing Outreach Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2009-10-27 — [House 111-1-817](votes/house-111-1-0817.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (379–33)
+
 ## Actions
 
 - 2009-05-19 — Introduced in House
@@ -39,3 +43,12 @@ National Land Remote Sensing Outreach Act
 - 2009-10-21 — Placed on the Union Calendar, Calendar No. 175.
 - 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-309.
 - 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-309.
+- 2009-10-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-26 — Considered under suspension of the rules. (consideration: CR H11742-11744)
+- 2009-10-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2489.
+- 2009-10-26 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-10-27 — Considered as unfinished business. (consideration: CR H11824-11825)
+- 2009-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 33 (Roll no. 817). (text: CR 10/26/2009 H11742-11743)
+- 2009-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 33 (Roll no. 817).(text: CR 10/26/2009 H11742-11743)
+- 2009-10-27 — The title of the measure was amended. Agreed to without objection.
