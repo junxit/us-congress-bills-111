@@ -2,7 +2,7 @@
 legis-num: H. RES. 790
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 790
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas hundreds of thousands of men and women have served this Nation in building its nuclear defense since World War II;
 - Whereas these dedicated American workers paid a high price for their service and have developed disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, toxic substances, and other hazards that are unique to the production and testing of nuclear weapons;
-- Whereas these workers were put at individual risk without their knowledge and consent in order to develop a nuclear weapons program for the benefit of all American citizens;
+- Whereas these workers were put at individual risk without their knowledge and consent in order to develop a nuclear weapons program;
 - Whereas these patriotic men and women deserve to be recognized for their contribution, service, and sacrifice towards the defense of our great Nation; and
 - Whereas, on May 20, 2009, the Senate passed S. Res. 151, designating a national day of remembrance on October 30, 2009, for nuclear weapons program workers: Now, therefore, be it
 
