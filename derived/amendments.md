@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3632
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -38,7 +38,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subsection (g) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (F), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (G), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c), by striking “, United States Code,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, United States Code,”; and | the bill names no machine-readable US Code section |
@@ -52,4 +52,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), in the second sentence, by striking “$500” and inserting “$800”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “$500” and inserting “$800”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), in the first sentence, by striking “$1,600” and inserting “$2,400”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
