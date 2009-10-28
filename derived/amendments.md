@@ -1,7 +1,7 @@
 ---
 measure: S. 1929
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
