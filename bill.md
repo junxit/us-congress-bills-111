@@ -21,7 +21,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
 
 - **(a)** *Heading renamed*
   - **(1)** *In general* The heading of section 119 is amended by striking “superstations and network stations for private home viewing” and inserting “distant television programming by satellite”.
-  - **(2)** *Table of contents* The table of contents for chapter I is amended by striking the item relating to section 119 and inserting the following:
+  - **(2)** *Table of contents* The table of contents for chapter I chapter 1 is amended by striking the item relating to section 119 and inserting the following:
 - **(b)** *Unserved household defined* Section 119(d)(10) is amended—
   - **(1)** by striking subparagraph (A) and inserting the following:
     > - **(A)** cannot receive, through the use of a conventional, stationary, outdoor rooftop receiving antenna, an over-the-air signal containing the primary video or qualified multicast video of a primary network station located in that household’s local market and affiliated with that network of—
@@ -51,18 +51,19 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
   >     - **(ii)** to officers or employees of such body or such organization as a part of the official duties or employment of such officers or employees;
   >     - **(iii)** at the request of the Secretary of Homeland Security; and
   >     - **(iv)** for the sole purpose of preparing for, responding to, or recovering from an emergency described under subparagraph (B).
-  >   - **(B)** *Emergencies* An emergency is described under this subparagraph if the Secretary of Homeland Security identifies such emergency as a major disaster, a catastrophe, an act of terrorism, or a transportation security incident.
+  >   - **(B)** *Emergencies* An emergency is described under this subparagraph if the Secretary of Homeland Security identifies such emergency as a major disaster, a catastrophe catastrophic incident, an act of terrorism, or a transportation security incident.
   >   - **(C)** *Regulations* Not later than 6 months after the date of the enactment of this paragraph, the Secretary of Homeland Security shall issue regulations to protect copyright owners by preventing the unauthorized access to the secondary transmissions described in subparagraph (A).
-  >   - **(D)** *Reports to congressional committees* Not later than one year after the date of the enactment of this paragraph and by September 30 of each year thereafter, the Secretary of Homeland Security shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing—
+  >   - **(D)** *Reports to congressional committees* Not later than one year after the date of the enactment of this paragraph and by September 30 of each year thereafter, the Secretary of Homeland Security shall submit a report to the Committee on the Judiciary and the Committee on Homeland Security of the House of Representatives and the Committee on the Judiciary of the Senate describing—
   >     - **(i)** the manner in which the authority granted under subparagraph (A) is being used; and
   >     - **(ii)** any additional legislative recommendations the Secretary may have.
   >   - **(E)** *Definitions* As used in this paragraph:
   >     - **(i)** *Terrorism* The term terrorism has the meaning given that term in section 2(16) of the Homeland Security Act of 2002 (6 U.S.C. 101(16)).
   >     - **(ii)** *Transportation security incident* The term transportation security incident has the meaning given that term in section 70101 of title 46.
+  >     - **(iii)** *Catastrophic incident* The term “catastrophic incident” means any natural disaster, act of terrorism, or other man-made disaster that results in extraordinary levels of casualties or damage or disruption severely affecting the population (including mass evacuations), infrastructure, the environment, the economy, national morale, or government functions in a geographic area.
   >   - **(F)** *Effective date* This paragraph shall take effect with respect to a secondary transmission described under subparagraph (A) that is made after the end of the 30-day period beginning on the effective date of the regulations issued by the Secretary of Homeland Security under subparagraph (C).
 
 - **(e)** *License provided for certain networks of noncommercial educational broadcast stations* Section 119(a)(2)(C) is amended by adding at the end the following new clause:
-  > - **(vi)** *Networks of noncommercial educational broadcast stations* In the case of a system of three or more noncommercial educational broadcast stations licensed by a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in subparagraph (A) shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of the primary transmission of such system pursuant to section 122(a).
+  > - **(vi)** *Networks of noncommercial educational broadcast stations* In the case of a system of three or more noncommercial educational broadcast stations licensed by a to a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in subparagraph (A) shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of the primary transmission of such system pursuant to section 122(a).
 
 - **(f)** *Deposit of statements and fees; verification procedures* Section 119(b) is amended—
   - **(1)** by amending the subsection heading to read as follows: “(b) Deposit of statements and fees; verification procedures.—”;
@@ -71,6 +72,9 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     > - **(2)** *Verification of accounts and fee payments* The Register of Copyrights shall issue regulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection.
 
   - **(4)** in paragraph (3), as redesignated, by striking “paragraph (4)” and inserting “paragraph (5)”;
+  - **(4)** in paragraph (3), as redesignated—
+    - **(A)** by inserting “(including the filing fee specified in paragraph (1)(C))” after “shall receive all fees”; and
+    - **(B)** by striking “paragraph (4)” and inserting “paragraph (5)”;
   - **(5)** in paragraph (4), as redesignated—
     - **(A)** by striking “paragraph (2)” and inserting “paragraph (3)”; and
     - **(B)** by striking “paragraph (4)” each place it appears and inserting “paragraph (5)”; and
@@ -111,7 +115,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
       - **(i)** by striking “Copyright Office” and inserting “Copyright Royalty Judges”; and
       - **(ii)** by striking “December 31, 2009” and inserting “December 31, 2014”; and
     - **(G)** in subparagraph (F)—
-      - **(i)** in the heading, by striking “compulsory arbitration” and inserting “Copyright Royalty Judges proceeding”;
+      - **(i)** in the heading, by striking “compulsory arbitration” and inserting “Copyright copyright Royalty Judges proceeding”;
       - **(ii)** in clause (i)—
         - **(I)** in the heading, by striking “proceedings” and inserting “the proceeding”;
         - **(II)** in the matter preceding subclause (I)—
@@ -160,9 +164,9 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     >   - **(B)** exists on January 1, 2013, and remains affiliated with the same network.
 
   - **(7)** *Primary video* Section 119(d), as amended by paragraph (6), is further amended by adding at the end the following new paragraph:
-    > - **(17)** *Primary video* The term primary video means the single programming stream and associated data that received the highest aggregate viewership ratings of all programming streams offered by that station as of the date of enactment of the Satellite Home Viewer Update and Reauthorization Act of 2009, offered by a television broadcast station.
+    > - **(17)** *Primary video* The term primary video means the single programming stream and associated data program-related material that received the highest aggregate viewership ratings (as determined by Nielsen Media Research) of all programming streams offered by that station as of the date of enactment of the Satellite Home Viewer Update and Reauthorization Act of 2009, offered by a television broadcast station.
 
-  - **(8)** *Clerical amendment* Section 119(d) is amended in paragraphs (1),(2), and (5) by striking “which” each place it appears and inserting “that”.
+  - **(8)** *Clerical amendment* Section 119(d) is amended in paragraphs (1), (2), and (5) by striking “which” each place it appears and inserting “that”.
 - **(i)** *Superstation redesignated as non-network station* Section 119 is amended—
   - **(1)** by striking “superstation” each place it appears in a heading and each place it appears in text and inserting “non-network station”; and
   - **(2)** by striking “superstations” each place it appears in a heading and each place it appears in text and inserting “non-network stations”.
@@ -174,7 +178,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
   >   - **(D)** *Limitation to subscribers taking local-into-local service* Secondary transmissions provided for in subparagraph (A) may be made by a satellite carrier only to subscribers who receive secondary transmissions of primary transmissions from that satellite carrier pursuant to the statutory license under section 122.
 
 - **(k)** *Removal of significantly viewed provision*
-  - **(1)** *Removal of provision* Section 119(a) is amended by striking paragraph (3) and redesignating paragraphs (4) through (17) as paragraphs (3) through (16), respectively.
+  - **(1)** *Removal of provision* Section 119(a), as amended by subsections (d) and (j), is amended by striking paragraph (3) and redesignating paragraphs (4) through (17) as paragraphs (3) through (16), respectively.
   - **(2)** *Conforming amendments* Section 119 is amended—
     - **(A)** in subsection (a)—
       - **(i)** in paragraph (1), by striking “(5), (6), and (8)” and inserting “(4), (5), and (7)”;
@@ -185,7 +189,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
           > - **(i)** *Initial lists* A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, not later than 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and address, including street or rural route number, city, State, and 9-digit zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission to subscribers in unserved households.
           > - **(ii)** *Monthly lists* After the submission of the initial lists under clause (i), the satellite carrier shall, not later than the 15th of each month, submit to the network a list identifying (by name and address, including street or rural route number, city, State, and 9-digit zip code) any persons who have been added or dropped as subscribers under clause (i) since the last submission under clause (i).
 
-      - **(iii)** in paragraph (3)(E) (as redesignated)—
+      - **(iii)** in paragraph (3)(E) subparagraph (E) of paragraph (3) (as redesignated)—
         - **(I)** by striking “under paragraph (3) or”; and
         - **(II)** by striking “paragraph (12)” and inserting “paragraph (11)”; and
     - **(B)** in subsection (b)(1), by striking the final sentence.
@@ -217,7 +221,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
 
 - **(a)** *Heading renamed*
   - **(1)** *In general* The heading of section 122 is amended by striking “by satellite carriers within local markets” and inserting “of local television programming by satellite”.
-  - **(2)** *Table of contents* The table of contents for chapter I is amended by striking the item relating to section 122 and inserting the following:
+  - **(2)** *Table of contents* The table of contents for chapter I chapter 1 is amended by striking the item relating to section 122 and inserting the following:
 - **(b)** *Statutory license* Section 122(a) is amended to read as follows:
   > - **(a)** *Secondary transmissions into local markets*
   >   - **(1)** *Secondary transmissions of television broadcast stations within a local market* A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station into the station's local market shall be subject to statutory licensing under this section if—
@@ -272,13 +276,13 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     > - **(4)** *Subscriber* The term subscriber means a person or entity that receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
   - **(5)** by adding at the end the following:
-    > - **(6)** *Low power television station* The term “low power television station” means a low power TV station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+    > - **(6)** *Low power television station* The term “low power television station” “low power television station” means a low power TV station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 ## § 5. Modifications to cable system secondary transmission rights under section 111
 
 - **(a)** *Heading renamed*
   - **(1)** *In general* The heading of section 111 is amended by inserting at the end the following: “of television programming by cable”.
-  - **(2)** *Table of contents* The table of contents for chapter I is amended by striking the item relating to section 111 and inserting the following:
+  - **(2)** *Table of contents* The table of contents for chapter I chapter 1 is amended by striking the item relating to section 111 and inserting the following:
 - **(b)** *National emergency monitoring exemption* Section 111 is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (4), by striking “; or” and inserting “or section 122;”;
@@ -293,14 +297,15 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     >     - **(B)** to officers or employees of such body or such organization as a part of the official duties or employment of such officers or employees;
     >     - **(C)** at the request of the Secretary of Homeland Security; and
     >     - **(D)** for the sole purpose of preparing for, responding to, or recovering from an emergency described under paragraph (2).
-    >   - **(2)** *Emergencies* An emergency is described under this paragraph if the Secretary of Homeland Security identifies such emergency as a major disaster, a catastrophe, an act of terrorism, or a transportation security incident.
+    >   - **(2)** *Emergencies* An emergency is described under this paragraph if the Secretary of Homeland Security identifies such emergency as a major disaster, a catastrophe catastrophic incident, an act of terrorism, or a transportation security incident.
     >   - **(3)** *Regulations* Not later than 6 months after the date of the enactment of this subsection, the Secretary of Homeland Security shall issue regulations to protect copyright owners by preventing the unauthorized access to the secondary transmissions described in paragraph (1).
-    >   - **(4)** *Reports to congressional committees* Not later than one year after the date of the enactment of this subsection and by September 30 of each year thereafter, the Secretary of Homeland Security shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing—
+    >   - **(4)** *Reports to congressional committees* Not later than one year after the date of the enactment of this subsection and by September 30 of each year thereafter, the Secretary of Homeland Security shall submit a report to the Committee on the Judiciary and the Committee on Homeland Security of the House of Representatives and the Committee on the Judiciary of the Senate describing—
     >     - **(A)** the manner in which the authority granted under paragraph (1) is being used; and
     >     - **(B)** any additional legislative recommendations the Secretary may have.
     >   - **(5)** *Definitions* As used in this subsection:
     >     - **(A)** *Terrorism* The term terrorism has the meaning given that term in section 2(16) of the Homeland Security Act of 2002 (6 U.S.C. 101(16)).
     >     - **(B)** *Transportation security incident* The term transportation security incident has the meaning given that term in section 70101 of title 46.
+    >     - **(C)** *Catastrophic incident* The term “catastrophic incident” means any natural disaster, act of terrorism, or other man-made disaster that results in extraordinary levels of casualties or damage or disruption severely affecting the population (including mass evacuations), infrastructure, the environment, the economy, national morale, or government functions in a geographic area.
     >   - **(6)** *Effective date* This subsection shall take effect with respect to a secondary transmission described under paragraph (1) that is made after the end of the 30-day period beginning on the effective date of the regulations issued by the Secretary of Homeland Security under paragraph (3).
 
 - **(c)** *Statutory license for secondary transmissions by cable systems* Section 111(d) is amended—
@@ -310,10 +315,10 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
       - **(ii)** by striking “by regulation—” and inserting “by regulation the following:”;
     - **(B)** in subparagraph (A)—
       - **(i)** by striking “a statement of account” and inserting “A statement of account”; and
-      - **(ii)** by striking “;and” and inserting a period; and
+      - **(ii)** by striking “; and” and inserting a period; and
     - **(C)** by striking subparagraphs (B), (C), and (D), and inserting the following:
-      > - **(B)** A total royalty fee for the period covered by the statement, computed on the basis of specified percentages of the gross receipts from subscribers to the cable service during such period for the basic service of providing secondary transmissions of primary broadcast transmitters, as follows:
-      >   - **(i)** 1.064 percent for the privilege of further transmitting, beyond the local service area of such primary transmitter, any non-network programming of a primary transmitter in whole or in part, such amount to be applied against the fee, if any, payable pursuant to clauses (ii) through (iv);
+      > - **(B)** A total Except in the case of a cable system whose royalty is specified in subparagraph (E) or (F), a total royalty fee for the period covered by the statement, computed on the basis of specified percentages of the gross receipts from subscribers to the cable service during such period for the basic service of providing secondary transmissions of primary broadcast transmitters, as follows:
+      >   - **(i)** 1.064 percent of such gross receipts for the privilege of further transmitting, beyond the local service area of such primary transmitter, any non-network programming of a primary transmitter in whole or in part, such amount to be applied against the fee, if any, payable pursuant to clauses (ii) through (iv);
       >   - **(ii)** 1.064 percent of such gross receipts for the first distant signal equivalent;
       >   - **(iii)** 0.701 percent of such gross receipts for each of the second, third, and fourth distant signal equivalents; and
       >   - **(iv)** 0.330 percent of such gross receipts for the fifth distant signal equivalent and each distant signal equivalent thereafter.
@@ -323,7 +328,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
       >   - **(iii)** if a cable system provides a secondary transmission of a primary transmitter to some but not all communities served by that cable system—
       >     - **(I)** the gross receipts and the distant signal equivalent values for such secondary transmission shall be derived solely on the basis of the subscribers in those communities where the cable system provides such secondary transmission; and
       >     - **(II)** the total royalty fee for the period paid by such system shall not be less than the royalty fee calculated under subparagraph (B)(i) multiplied by the gross receipts from all subscribers to the system.
-      > - **(D)** A cable system that, on a statement submitted before the date of the enactment of the Satellite Home Viewer Update and Reauthorization Act of 2009, computed its royalty fee consistent with the methodology under this paragraph or that amends a statement filed before such date of enactment to compute the royalty fee due using such methodology shall not be subject to an action for infringement, or eligible for any royalty refund, arising out of its use of such methodology on such statement.
+      > - **(D)** A cable system that, on a statement submitted before the date of the enactment of the Satellite Home Viewer Update and Reauthorization Act of 2009, computed its royalty fee consistent with the methodology under this paragraph subparagraph (C)(iii) or that amends a statement filed before such date of enactment to compute the royalty fee due using such methodology shall not be subject to an action for infringement, or eligible for any royalty refund or offset, arising out of its use of such methodology on such statement.
       > - **(E)** If the actual gross receipts paid by subscribers to a cable system for the period covered by the statement for the basic service of providing secondary transmissions of primary broadcast transmitters total $263,800 or less—
       >   - **(i)** gross receipts of the cable system for the purpose of this paragraph shall be computed by subtracting from such actual gross receipts the amount by which $263,800 exceeds such actual gross receipts, except that in no case shall a cable system’s gross receipts be reduced to less than $10,400; and
       >   - **(ii)** the royalty fee payable under this paragraph shall be 0.5 percent, regardless of the number of distant signal equivalents, if any.
@@ -333,6 +338,9 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
       > - **(G)** A filing fee, as determined by the Register of Copyrights pursuant to section 708(a).
 
   - **(2)** in paragraph (2), by striking “The Register of Copyrights” and inserting the following: “Handling of fees.—The Register of Copyrights”;
+  - **(2)** in paragraph (2)—
+    - **(A)** by striking “The Register of Copyrights” and inserting the following “Handling of Fees.—The Register of Copyrights”; and
+    - **(B)** by inserting “(including the filing fee specified in paragraph (1)(G))” after “shall receive”;
   - **(3)** in paragraph (3)—
     - **(A)** by striking “The royalty fees” and inserting the following: “Distribution of royalty fees to copyright owners.—The royalty fees”;
     - **(B)** in subparagraph (A)—
@@ -340,14 +348,15 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
       - **(ii)** by striking “; and” and inserting a period;
     - **(C)** in subparagraph (B)—
       - **(i)** by striking “any such” and inserting “Any such”; and
-      - **(ii)** by striking “; and” and inserting a period; and
+      - **(ii)** by striking “; and” the semicolon and inserting a period; and
     - **(D)** in subparagraph (C), by striking “any such” and inserting “Any such”;
   - **(4)** in paragraph (4), by striking “The royalty fees” and inserting the following: “Procedures for royalty fee distribution.—The royalty fees”; and
   - **(5)** by adding at the end the following new paragraphs:
     > - **(5)** *Verification of accounts and fee payments* The Register of Copyrights shall issue regulations to provide for the confidential verification and audit of the information reported on the semi-annual statement of account filed after the date of the enactment of the Satellite Home Viewer Update and Reauthorization Act of 2009. The regulations shall provide for a single verification procedure, with respect to the semi-annual statements of account filed by a cable system, to be conducted by a qualified independent auditor on behalf of all copyright owners whose works were the subject of a secondary transmission to the public by a cable system of a performance or display of a work embodied in a primary transmission and for a mechanism to review and cure defects identified by any such audit.
-    > - **(6)** *Acceptance of additional deposits* Any royalty fee payments received by the Copyright Office from cable systems for the secondary transmission of primary transmissions that are in addition to the payments calculated and deposited in accordance with this subsection shall be deemed to have been deposited for the particular accounting period during which they are received and shall be distributed as specified under this subsection.
+    > - **(6)** *Acceptance of additional deposits* Any royalty fee payments received by the Copyright Office from cable systems for the secondary transmission of primary transmissions that are in addition to the payments calculated and deposited in accordance with this subsection shall be deemed to have been deposited for the particular accounting period during for which they are received and shall be distributed as specified under this subsection.
 
-- **(d)** *Definitions* Section 111(f) is amended—
+- **(d)** *Effective date of new royalty fee rates* The royalty fee rates established in section 111(d)(1)(B) of title 17, United States Code, as amended by subsection (c)(1)(C) of this section, shall take effect commencing with the first accounting period occurring in 2010.
+- **(d) (e)** *Definitions* Section 111(f) is amended—
   - **(1)** in the first undesignated paragraph, by striking “A “primary transmission” is a transmission” and inserting the following:
     > - **(1)** *Primary Transmission* A “primary transmission” is a transmission, including a multicast transmission,
 
@@ -371,7 +380,7 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     > - **(5)** *Distant signal equivalent*
     >   - **(A)** *In general* Except as provided under subparagraph (B), a “distant signal equivalent”—
     >     - **(i)** is the value assigned to the secondary transmission of any non-network television programming carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programming; and
-    >     - **(ii)** is computed by assigning a value of one to each channel or digital steam carrying independent television programming, and a value of one-quarter to each channel or digital stream carrying network television programming or noncommercial educational television programming transmitted by a television broadcast station pursuant to the rules, regulations, and authorizations of the Federal Communications Commission.
+    >     - **(ii)** is computed by assigning a value of one to each channel or digital steam stream carrying independent television programming, and a value of one-quarter to each channel or digital stream carrying network television programming or noncommercial educational television programming transmitted by a television broadcast station pursuant to the rules, regulations, and authorizations of the Federal Communications Commission.
     >   - **(B)** *Exceptions* The values for independent, network, and noncommercial educational programming specified in subparagraph (A) are subject to the following:
     >     - **(i)** Where the rules and regulations of the Federal Communications Commission require a cable system to omit the further transmission of a particular program and such rules and regulations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, or where such rules and regulations in effect on the date of enactment of the Copyright Act of 1976 permit a cable system, at its election, to effect such omission and substitution of a nonlive program or to carry additional programs not transmitted by primary transmitters within whose local service area the cable system is located, no value shall be assigned for the substituted or additional program.
     >     - **(ii)** Where the rules, regulations, or authorizations of the Federal Communications Commission in effect on the date of enactment of the Copyright Act of 1976 permit a cable system, at its election, to omit the further transmission of a particular program and such rules, regulations, or authorizations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, the value assigned for the substituted or additional program shall be, in the case of a live program, the value of one full distant signal equivalent multiplied by a fraction that has as its numerator the number of days in the year in which such substitution occurs and as its denominator the number of days in the year.
@@ -401,11 +410,11 @@ Except as otherwise provided, whenever in this Act an amendment is made to a sec
     > - **(9)** *Multicast transmission* A “multicast transmission” is a transmission by a television station that contains more than one channel or digital stream, each containing its own distinct programming.
     > - **(10)** *Subscriber* The term subscriber means a person or entity that receives a secondary transmission service from a cable system and pays a fee for the service, directly or indirectly, to the cable system.
 
-- **(e)** *Timing of section 111 proceedings* Section 804(b)(1) is amended by striking “2005” each place it appears and inserting “2015”.
-- **(f)** *Technical and conforming amendments*
+- **(e) (f)** *Timing of section 111 proceedings* Section 804(b)(1) is amended by striking “2005” each place it appears and inserting “2015”.
+- **(f) (g)** *Technical and conforming amendments*
   - **(1)** *Corrections to fix level designations* Section 111 is amended—
     - **(A)** in subsections (a), (c), and (e), by striking “clause” each place it appears and inserting “paragraph”;
-    - **(B)** in subsection (c), by striking “clauses” and inserting “paragraphs”; and
+    - **(B)** in subsection (c) subsection (c)(1), by striking “clauses” and inserting “paragraphs”; and
     - **(C)** in subsection (e)(1)(F), by striking “subclause” each place it appears and inserting “subparagraph”.
   - **(2)** *Conforming amendment to hyphenate nonnetwork* Section 111 is amended by striking “nonnetwork” each place it appears and inserting “non-network”.
   - **(3)** *Previously undesignated paragraph* Section 111(e)(1) is amended by striking “second paragraph of subsection (f)” and inserting “subsection (f)(2)”.

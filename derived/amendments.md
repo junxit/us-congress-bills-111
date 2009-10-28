@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3570
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-150 amendatory instructions. 0 executed, 150 stated and not applied.
+154 amendatory instructions. 0 executed, 154 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | The heading of section 119 is amended by striking “superstations and network stations for private home viewing” and inserting “distant television programming by satellite”. | the bill names no machine-readable US Code section |
-| — | replace | The table of contents for chapter I is amended by striking the item relating to section 119 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for chapter I chapter 1 is amended by striking the item relating to section 119 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (a)(14)” and inserting “subsection (a)(13),”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Satellite Home Viewer Extension and Reauthorization Act of 2004” and inserting “Satellite Home Viewer Update and Reauthorization Act of 2009”; | the bill names no machine-readable US Code section |
@@ -49,6 +49,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), as redesignated, by striking “paragraph (4)” and inserting “paragraph (5)”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(including the filing fee specified in paragraph (1)(C))” after “shall receive all fees”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (4)” and inserting “paragraph (5)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph (2)” and inserting “paragraph (3)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph (4)” each place it appears and inserting “paragraph (5)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), as redesignated, by striking “paragraph (2)” and inserting “paragraph (3)”. | the bill names no machine-readable US Code section |
@@ -69,7 +71,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the arbitration proceeding” and inserting “that proceeding”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Copyright Office” and inserting “Copyright Royalty Judges”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “December 31, 2009” and inserting “December 31, 2014”; and | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “compulsory arbitration” and inserting “Copyright Royalty Judges proceeding”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “compulsory arbitration” and inserting “Copyright copyright Royalty Judges proceeding”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “proceedings” and inserting “the proceeding”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “May 1, 2005, the Librarian of Congress” and inserting “May 3, 2010, the Copyright Royalty Judges”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “arbitration proceedings” and inserting “a proceeding”; | the bill names no machine-readable US Code section |
@@ -92,11 +94,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 119(d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 119(d), as amended by paragraph (5), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 119(d), as amended by paragraph (6), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 119(d) is amended in paragraphs (1),(2), and (5) by striking “which” each place it appears and inserting “that”. | the bill names no machine-readable US Code section |
+| — | replace | Section 119(d) is amended in paragraphs (1), (2), and (5) by striking “which” each place it appears and inserting “that”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “superstation” each place it appears in a heading and each place it appears in text and inserting “non-network station”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “superstations” each place it appears in a heading and each place it appears in text and inserting “non-network stations”. | the bill names no machine-readable US Code section |
 | — | amend | Section 119(a)(15) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 119(a) is amended by striking paragraph (3) and redesignating paragraphs (4) through (17) as paragraphs (3) through (16), respectively. | the bill names no machine-readable US Code section |
+| — | redesignate | Section 119(a), as amended by subsections (d) and (j), is amended by striking paragraph (3) and redesignating paragraphs (4) through (17) as paragraphs (3) through (16), respectively. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “(5), (6), and (8)” and inserting “(4), (5), and (7)”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “paragraphs (5), (6), (7), and (8)” and inserting “paragraphs (4), (5), (6), and (7)”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B)(i), by striking the second sentence; and | the bill names no machine-readable US Code section |
@@ -118,7 +120,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “of the Code of Federal Regulations” each place it appears and inserting “, Code of Federal Regulations”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(6), by striking “or the Direct” and inserting “, or the Direct”. | the bill names no machine-readable US Code section |
 | — | replace | The heading of section 122 is amended by striking “by satellite carriers within local markets” and inserting “of local television programming by satellite”. | the bill names no machine-readable US Code section |
-| — | replace | The table of contents for chapter I is amended by striking the item relating to section 122 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for chapter I chapter 1 is amended by striking the item relating to section 122 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 122(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “station a list” and all that follows through the end and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “network a list” and all that follows through the end and inserting the following: | the bill names no machine-readable US Code section |
@@ -133,7 +135,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The heading of section 111 is amended by inserting at the end the following: “of television programming by cable”. | the bill names no machine-readable US Code section |
-| — | replace | The table of contents for chapter I is amended by striking the item relating to section 111 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for chapter I chapter 1 is amended by striking the item relating to section 111 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “; or” and inserting “or section 122;”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -141,14 +143,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “A cable system whose secondary” and inserting the following: “Statement of account and royalty fees.—A cable system whose secondary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “by regulation—” and inserting “by regulation the following:”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “a statement of account” and inserting “A statement of account”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “;and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraphs (B), (C), and (D), and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “The Register of Copyrights” and inserting the following: “Handling of fees.—The Register of Copyrights”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Register of Copyrights” and inserting the following “Handling of Fees.—The Register of Copyrights”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(including the filing fee specified in paragraph (1)(G))” after “shall receive”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The royalty fees” and inserting the following: “Distribution of royalty fees to copyright owners.—The royalty fees”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “any such” and inserting “Any such”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “; and” and inserting a period; | the bill names no machine-readable US Code section |
 | — | replace | by striking “any such” and inserting “Any such”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; and” the semicolon and inserting a period; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking “any such” and inserting “Any such”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “The royalty fees” and inserting the following: “Procedures for royalty fee distribution.—The royalty fees”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
@@ -168,7 +172,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 804(b)(1) is amended by striking “2005” each place it appears and inserting “2015”. | the bill names no machine-readable US Code section |
 | — | replace | in subsections (a), (c), and (e), by striking “clause” each place it appears and inserting “paragraph”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “clauses” and inserting “paragraphs”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c) subsection (c)(1), by striking “clauses” and inserting “paragraphs”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e)(1)(F), by striking “subclause” each place it appears and inserting “subparagraph”. | the bill names no machine-readable US Code section |
 | — | replace | Section 111 is amended by striking “nonnetwork” each place it appears and inserting “non-network”. | the bill names no machine-readable US Code section |
 | — | replace | Section 111(e)(1) is amended by striking “second paragraph of subsection (f)” and inserting “subsection (f)(2)”. | the bill names no machine-readable US Code section |
