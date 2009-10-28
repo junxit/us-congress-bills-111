@@ -1,7 +1,7 @@
 ---
 measure: S. 1929
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1929
@@ -35,3 +35,13 @@ A bill to provide for an additional temporary extension of programs under the Sm
 - 2009-10-28 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as passed House: CR H11987)
 - 2009-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as passed House: CR H11987)
+- 2009-10-29 — Cleared for White House.
+- 2009-10-29 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate bill by Unanimous Consent.(consideration: CR S10943; text as House agreed to Senate amendments: CR H10943)
+- 2009-10-29 — Senate agreed to the House amendment to the Senate bill by Unanimous Consent. (consideration: CR S10943; text as House agreed to Senate amendments: CR H10943)
+- 2009-10-30 — Became Public Law No: 111-89.
+- 2009-10-30 — Became Public Law No: 111-89.
+- 2009-10-30 — Message on Senate action sent to the House.
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Presented to President.
+- 2009-10-30 — Signed by President.
+- 2009-10-30 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1929
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1929
 
-That the bill from the Senate (S. 1929) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.
 
 ## § 1. Additional temporary extension of authorization of programs under the Small Business Act and the Small Business Investment Act of 1958
 
