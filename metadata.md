@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 784
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 784
@@ -16,7 +16,7 @@ Honoring the 2560th anniversary of the birth of Confucius and recognizing his in
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (40)
+## Cosponsors (41)
 
 - Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
@@ -58,13 +58,26 @@ Honoring the 2560th anniversary of the birth of Confucius and recognizing his in
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-10-28 — [House 111-1-821](votes/house-111-1-0821.md) — On Motion to Suspend the Rules and Agree — **Passed** (361–47)
 
 ## Actions
 
 - 2009-09-29 — Introduced in House
 - 2009-09-29 — Introduced in House
 - 2009-09-29 — Referred to the House Committee on Foreign Affairs.
+- 2009-10-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-10-27 — Considered under suspension of the rules. (consideration: CR H11832-11833)
+- 2009-10-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 784.
+- 2009-10-27 — Mr. Carnahan moved to suspend the rules and agree to the resolution.
+- 2009-10-28 — Considered as unfinished business. (consideration: CR H12010-12011)
+- 2009-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-28 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 361 - 47, 13 Present (Roll no. 821). (text: CR 10/27/2009 H11832)
+- 2009-10-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 361 - 47, 13 Present (Roll no. 821).(text: CR 10/27/2009 H11832)
