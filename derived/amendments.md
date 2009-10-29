@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3854
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-145 amendatory instructions. 0 executed, 145 stated and not applied.
+151 amendatory instructions. 0 executed, 151 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,16 +49,17 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating section 44 as section 45; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 43 the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “September 30, 2010” and inserting “September 30, 2011”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (c) by striking paragraph (2). | the bill names no machine-readable US Code section |
+| — | repeal | in subsection (c) by repealing paragraph (2). | the bill names no machine-readable US Code section |
 | — | replace | Section 502(f) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “the date 12 months after the date of enactment of this Act” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 506(a) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by adding at the end the following: “In carrying out such program, the Administrator shall establish and utilize … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 506(a) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by adding at the end the following: “The Administrator shall give priority under such program to small business c… | the bill names no machine-readable US Code section |
 | — | strike | Section 506(c) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “but shall not include” and all that follows through “enactment of this Act”. | the bill names no machine-readable US Code section |
-| — | replace | Section 506(d) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “$35,000” and inserting “$50,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 506(d) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “$35,000” and inserting “$50,000 (except as provided under subsection (l))”. | the bill names no machine-readable US Code section |
 | — | replace | Section 506(j) of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “September 30, 2010” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 506 of title V of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (e); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f), (h), and (i) as subsections (e), (f), and (g), respectively. | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (c)(1) by adding at the end the following: “Such process shall include the designation of each lender participating in a program under section 7(a) of the Small Business Act as a Systematically Important Secondary Market Br… | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (e), as so redesignated by section 20 of this Act, by adding at the end the following: “To the extent that the cost of an elimination or reduction of fees is offset by appropriations, the Administrator shall in lieu of the … | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (e), as so redesignated by section 120 of this Act, by adding at the end the following: “To the extent that the cost of an elimination or reduction of fees is offset by appropriations, the Administrator shall in lieu of the… | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “$150,000” the following: “and is less than or equal to $2,000,000”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
@@ -68,6 +69,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A) by striking “$250,000” and inserting “$400,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “$250,000” and inserting “$400,000”. | the bill names no machine-readable US Code section |
 | — | amend | Section 7(a)(18)(B) of the Small Business Act (15 U.S.C. 636(a)(18)(B)) is amended by adding after “under subparagraph (A)(i)” the following: “, except that a lender making a loan under paragraph (31) may not retain any percentage of a f… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(A) by striking the semicolon at the end and inserting the following: “or in paragraph (42);”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7(a)(7) of the Small Business Act (15 U.S.C. 636(a)(7)) is amended by adding at the end the following: “If a small business concern classified in sector 23 of the North American Industry Classification System receives a loan unde… | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note), as amended by this Act, is further amended by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
 | — | amend | By amending paragraph (6) to read as follows: | the bill names no machine-readable US Code section |
@@ -95,6 +100,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: “The Administrator may treat the amount of $7,000,000 in this subparagraph as if such amount is $10,000,000 if the Administrator determines, with respect to an intermediary, that such treatment is appr… | the bill names no machine-readable US Code section |
 | — | replace | in clause (i) by striking “25 percent” and inserting “35 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) by striking “25 percent” and inserting “35 percent”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(F)(iii) by striking “$7,500” and inserting “$10,000”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(C)(i) by striking “$7,500” and inserting “$10,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(C)(ii) by striking “$7,500” and inserting “$10,000”. | the bill names no machine-readable US Code section |
@@ -102,7 +108,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note), as amended by this Act, is further amended by inserting after subsection (g) the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 103(13)(C) of the Small Business Investment Act of 1958 (15 U.S.C. 662(13)(C)) is amended by striking “33 percent” and inserting “45 percent”. | the bill names no machine-readable US Code section |
-| — | insert | Section 301 of the Small Business Investment Act of 1958 (15 U.S.C. 681) is amended by inserting after subsection (c) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 301 of the Small Business Investment Act of 1958 (15 U.S.C. 681) is amended by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)) is amended by striking so much of paragraph (2) as precedes subparagraph (C) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 303(b)(2)(C)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)(C)(ii)) is amended by striking “$250,000,000” in subclause (II) and inserting “$400,000,000”. | the bill names no machine-readable US Code section |
@@ -110,10 +116,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | In the heading, by inserting after “areas” the following: “and veterans”. | the bill names no machine-readable US Code section |
 | — | insert | In clause (i), by inserting after “351)” the following: “or in a small business concern owned and controlled by veterans (as such term is defined in section 3(q)(3) of the Small Business Act)”. | the bill names no machine-readable US Code section |
 | — | insert | In clause (iii), by inserting after “351)” the following: “or in small business concerns owned and controlled by veterans (as such term is defined in section 3(q)(3) of the Small Business Act)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 305 of the Small Business Investment Act of 1958 (15 U.S.C. 685) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Part A of title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 303(d) of the Small Business Investment Act of 1958 (15 U.S.C. 683(d)) is amended by adding at the end the following: “A licensee shall not be required to achieve any percentage of such financings (at cost) which is higher than 2… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 303(e) of the Small Business Investment Act of 1958 (15 U.S.C. 683(e)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), as amended by this Act, is further amended by striking “and” at the end of paragraph (23), by striking the period at the end of paragraph (24) and inserting “; and… | the bill names no machine-readable US Code section |
 | — | add-at-end | Part A of title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note), as amended by this Act, is further amended by inserting after subsection (h) the following: | the bill names no machine-readable US Code section |
@@ -143,6 +145,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subclause (III). | the bill names no machine-readable US Code section |
 | — | replace | by striking “shall be equal to” and all that follows through the period at the end and inserting “shall be equal to the lesser of—”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 354 of the Small Business Investment Act of 1958 (15 U.S.C. 689c), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1) by striking “fiscal years 2001 through 2006” and inserting “fiscal years 2010 and 2011”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$150,000,000” and inserting “$100,000,000”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “, of which not less than 50 percent shall be used to guarantee debentures of companies engaged primarily in development of and investment in small business concerns located in low… | the bill names no machine-readable US Code section |
@@ -174,5 +177,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as amended by this Act, is further amended by inserting after paragraph (10) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as amended by this Act, is further amended by inserting after paragraph (11) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (j) as subsection (k); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (i) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 46 as section 47; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 45 the following: | the bill names no machine-readable US Code section |
