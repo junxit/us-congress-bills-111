@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 875
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 875
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3854) to amend the Small Business 
 - 2009-10-28 — Placed on the House Calendar, Calendar No. 124.
 - 2009-10-28 — The House Committee on Rules reported an original measure, H. Rept. 111-317, by Ms. Pingree (ME).
 - 2009-10-28 — The House Committee on Rules reported an original measure, H. Rept. 111-317, by Ms. Pingree (ME).
+- 2009-10-29 — Considered as privileged matter. (consideration: CR H12069-12074)
+- 2009-10-29 — DEBATE - The House proceeded with one hour of debate on H. Res. 875.
+- 2009-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-10-29 — On agreeing to the resolution Agreed to by voice vote. (text: CR H12069-12070)
+- 2009-10-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H12069-12070)
+- 2009-10-29 — The previous question was ordered without objection. (consideration: CR H12074)
