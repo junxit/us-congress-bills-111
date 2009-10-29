@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1299
@@ -16,10 +16,11 @@ United States Capitol Police Administrative Technical Corrections Act of 2009
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
 
 ## Committees (2)
 
@@ -49,3 +50,13 @@ United States Capitol Police Administrative Technical Corrections Act of 2009
 - 2009-03-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 174). (text: CR H4190-4192)
 - 2009-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 174).(text: CR H4190-4192)
 - 2009-04-01 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2009-10-29 — Amendment SA 2720 agreed to in Senate by Unanimous Consent.
+- 2009-10-29 — Amendment SA 2720 proposed by Senator Reid for Senator Schumer. (consideration: CR S10943) In the nature of a substitute.
+- 2009-10-29 — Measure laid before Senate by unanimous consent. (consideration: CR S10943)
+- 2009-10-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2009-10-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2009-10-29 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2009-10-29 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2009-10-29 — Senate amendment agreed to: Amendment SA 2720 agreed to in Senate by Unanimous Consent.
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2720 proposed by Senator Reid for Senator Schumer.(consideration: CR S10943)
+- 2009-10-29 — Senate amendment submitted

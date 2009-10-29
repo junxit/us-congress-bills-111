@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 9 executed, 17 stated and not applied.
+33 amendatory instructions. 9 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -131,3 +131,10 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1901` | repeal | The provisions appearing in the first paragraph under the heading “Capitol Police” in the Act of April 28, 1902 (ch. 594; 32 Stat. 124), and the provisions appearing in the first paragraph under the heading “Capitol Police” in title I of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1901` | repeal | Section 1018(h)(1) of the Legislative Branch Appropriations Act, 2003 (Public Law 108–7, div. H, title I, 117 Stat. 368) is repealed, and the sentence “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol P… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1901` | strike | The first sentence of section 1821 of the Revised Statutes of the United States (2 U.S.C. 1901) is amended by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol… | the bill quotes the text struck but describes what replaces it |
+| — | insert | Section 2107(4) of title 5, United States Code, is amended by inserting “or employee” after “member”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5531(4) of title 5, United States Code, is amended by striking “and the Congressional Budget Office” and inserting “the Congressional Budget Office, and the United States Capitol Police”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or the Chief of the Capitol Police” after “House of Representatives”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(5)(A), by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5515 of title 5, United States Code, is amended by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of … | the bill names no machine-readable US Code section |
+| — | replace | Section 5537(a) of title 5, United States Code, is amended by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief … | the bill names no machine-readable US Code section |

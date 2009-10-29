@@ -2,24 +2,26 @@
 legis-num: H.R. 1299
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1299
 
-> To make technical corrections to the laws affecting certain administrative authorities of the United States Capitol Police, and for other purposes.
+That the bill from the House of Representatives (H.R. 1299) entitled “An Act to make technical corrections to the laws affecting certain administrative authorities of the United States Capitol Police, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short Title
 
-This Act may be cited as the “Capitol Police Administrative Technical Corrections Act of 2009”.
+This Act may be cited as the “United States Capitol Police Administrative Technical Corrections Act of 2009”.
 
 ## § 2. Administrative Authorities of the Chief of the Capitol Police
 
 - **(a)** *Clarification of Certain Hiring Authorities*
   - **(1)** *Chief Administrative Officer* Section 108(a) of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 1903(a)) is amended to read as follows:
     > - **(a)** *Chief Administrative Officer*
-    >   - **(1)** *Establishment* There shall be within the Capitol Police an Office of Administration, to be headed by the Chief Administrative Officer, who shall report to and serve at the pleasure of the Chief of the Capitol Police.
-    >   - **(2)** *Appointment* The Chief Administrative Officer shall be appointed by the Chief of the Capitol Police, after consultation with the Capitol Police Board, without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
+    >   - **(1)** *Establishment* There shall be within the United States Capitol Police an Office of Administration, to be headed by the Chief Administrative Officer, who shall report to and serve at the pleasure of the Chief of the Capitol Police.
+    >   - **(2)** *Appointment* The Chief Administrative Officer shall be appointed by the Chief of the United States Capitol Police, after consultation with the Capitol Police Board, without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
     >   - **(3)** *Compensation* The annual rate of pay for the Chief Administrative Officer shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
 
   - **(2)** *Administrative provisions* Section 108 of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 1903) is amended by striking subsection (c).
@@ -47,7 +49,7 @@ This Act may be cited as the “Capitol Police Administrative Technical Correcti
     - **(A)** in subsection (a)(1), by striking “Capitol Police Board” each place it appears and inserting “United States Capitol Police”; and
     - **(B)** in subsection (a)(2), by striking “Capitol Police Board” and inserting “Chief of the United States Capitol Police”.
   - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect as if included in the enactment of the Supplemental Appropriations Act, 2001.
-- **(c)** *Prior Notice to Authorizing Committees of Deployment Outside Jurisdiction* Section 1007(a)(1) of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 1978(a)(1)) is amended by striking “prior notification to” and inserting the following: “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and”.
+- **(c)** *Prior Notice To Authorizing Committees of Deployment Outside Jurisdiction* Section 1007(a)(1) of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 1978(a)(1)) is amended by striking “prior notification to” and inserting the following: “prior notification to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and”.
 - **(d)** *Advance payments for subscription services*
   - **(1)** *In general* Section 1002 of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161; 2 U.S.C. 1981) is amended by inserting “the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate” after “the Senate,”.
   - **(2)** *Effective date and application* The amendment made by this subsection shall take effect 30 days after the date of enactment of this Act and apply to payments made on or after that effective date.
@@ -55,8 +57,8 @@ This Act may be cited as the “Capitol Police Administrative Technical Correcti
 ## § 3. General Counsel to the Chief of Police and the United States Capitol Police
 
 - **(a)** *Appointment and Service*
-  - **(1)** *In general* There shall be within the United States Capitol Police the General Counsel to the Chief of Police and the United States Capitol Police (in this subsection referred to as the “General Counsel”).
-  - **(2)** *Appointment* The General Counsel shall be appointed by the Chief of the Capitol Police in accordance with section 1018(e)(1) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907(e)(1)) (as amended by section 2(a)(4)), without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
+  - **(1)** *In general* There shall be within the United States Capitol Police the General Counsel to the Chief of Police and the United States Capitol Police (in this subsection referred to as the “General Counsel”), who shall report to and serve at the pleasure of the Chief of the United States Capitol Police.
+  - **(2)** *Appointment* The General Counsel shall be appointed by the Chief of the Capitol Police in accordance with section 1018(e)(1) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907(e)(1)) (as amended by section 2(a)(4)), after consultation with the Capitol Police Board, without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
   - **(3)** *Compensation*
     - **(A)** *In general* Subject to subparagraph (B), the annual rate of pay for the General Counsel shall be fixed by the Chief of the Capitol Police.
     - **(B)** *Limitation* The annual rate of pay for the General Counsel may not exceed an annual rate equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.
@@ -107,3 +109,27 @@ This Act may be cited as the “Capitol Police Administrative Technical Correcti
   - **(2)** *Restoration of repealed provision* Section 1018(h)(1) of the Legislative Branch Appropriations Act, 2003 (Public Law 108–7, div. H, title I, 117 Stat. 368) is repealed, and the sentence “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, which was repealed by such section, is restored to appear at the end of section 1821 of the Revised Statutes of the United States (2 U.S.C. 1901).
   - **(3)** *Conforming amendment* The first sentence of section 1821 of the Revised Statutes of the United States (2 U.S.C. 1901) is amended by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension”.
   - **(4)** *Effective date* The amendments made by this subsection shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003.
+
+## § 7. Treatment of Capitol Police employees as congressional employees
+
+- **(a)** *Definition of congressional employee* Section 2107(4) of title 5, United States Code, is amended by inserting “or employee” after “member”.
+- **(b)** *Dual pay and dual employment*
+  - **(1)** *Definition of agency in the legislative branch* Section 5531(4) of title 5, United States Code, is amended by striking “and the Congressional Budget Office” and inserting “the Congressional Budget Office, and the United States Capitol Police”.
+  - **(2)** *Dual pay* Section 5533 of title 5, United States Code, is amended—
+    - **(A)** in subsection (c)—
+      - **(i)** in paragraph (1), by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”; and
+      - **(ii)** in paragraph (2), by inserting “or the Chief of the Capitol Police” after “House of Representatives”; and
+    - **(B)** in subsection (d)(5)(A), by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”.
+- **(c)** *Fees for jury and witness service*
+  - **(1)** *Crediting amounts received* Section 5515 of title 5, United States Code, is amended by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”.
+  - **(2)** *Fees for service* Section 5537(a) of title 5, United States Code, is amended by striking “or the Chief Administrative Officer of the House of Representatives” and inserting “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police”.
+- **(d)** *Effective date* The amendments made by this section shall take effect as though enacted as part of section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907).
+
+## § 8. Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate
+
+- **(a)** *In general* The Sergeant-at-Arms and Doorkeeper of the Senate shall have the same law enforcement authority, including the authority to carry firearms, as a member of the Capitol Police. The law enforcement authority under the preceding sentence shall be subject to the requirement that the Sergeant-at-Arms and Doorkeeper of the Senate have the qualifications specified in subsection (b).
+- **(b)** *Qualifications* The qualifications referred to in subsection (a) are the following:
+  - **(1)** A minimum of 5 years of experience as a law enforcement officer before beginning service as the Sergeant-at-Arms and Doorkeeper of the Senate.
+  - **(2)** Current certification in the use of firearms by the appropriate Federal law enforcement entity or an equivalent non-Federal entity.
+  - **(3)** Any other firearms qualification required for members of the Capitol Police.
+- **(c)** *Regulations* The Committee on Rules and Administration of the Senate shall have authority to prescribe regulations to carry out this section.
