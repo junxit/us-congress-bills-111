@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3617
@@ -51,3 +51,6 @@ Surface Transportation Extension Act of 2009
 - 2009-09-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 335 - 85 (Roll no. 731). (text: CR H9855-9861)
 - 2009-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 335 - 85 (Roll no. 731).(text: CR H9855-9861)
 - 2009-09-23 — Referred to the Subcommittee on Highways and Transit.
+- 2009-09-24 — Received in the Senate.
+- 2009-10-28 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-10-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
