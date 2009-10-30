@@ -1,0 +1,15 @@
+---
+legis-num: S. 2546
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2546
+
+> To extend the temporary suspension of duty on certain music boxes.
+
+## § 1. Certain music boxes
+
+- **(a)** *In general* Heading 9902.13.47 of the Harmonized Tariff Schedule of the United States (relating to certain music boxes) is amended by striking “12/31/2009” and inserting “12/31/2011”.
+- **(b)** *Effective date* The amendment made by subsection (a) applies to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act.
