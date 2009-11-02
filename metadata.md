@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3854
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3854
@@ -24,9 +24,10 @@ Small Business Financing and Investment Act of 2009
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (3)
 
@@ -178,3 +179,4 @@ Small Business Financing and Investment Act of 2009
 - 2009-10-29 — The Speaker designated the Honorable Jose E. Serrano to act as Chairman of the Committee.
 - 2009-10-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12115)
 - 2009-10-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of a amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2009-11-02 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
