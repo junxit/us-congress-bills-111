@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3619
@@ -157,3 +157,5 @@ Coast Guard Authorization Act of 2010
 - 2009-10-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2009-10-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3619.
 - 2009-10-23 — The previous question was ordered pursuant to the rule. (consideration: CR H11723)
+- 2009-10-26 — Received in the Senate.
+- 2009-11-02 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
