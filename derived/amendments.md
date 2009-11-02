@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -57,7 +57,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The tables of chapters at the beginning of title 38, and of part V of title 38, are each amended by inserting after the item relating to chapter 79 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | In the matter preceding paragraph (1), by striking “Under such regulations” and inserting “(a) Under such regulations”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (8) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 107 is amended by striking “section 2402(8)” both places it appears and inserting “section 2402(a)(8)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2301(e) is amended by striking “section 2402(6)” and inserting “section 2402(a)(6)”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “section 2402(4)” and inserting “section 2402(a)(4)”; and | the bill names no machine-readable US Code section |

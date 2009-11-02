@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3949
@@ -52,3 +52,10 @@ Veterans' Small Business Assistance and Servicemembers Protection Act of 2009
 - 2009-10-28 — Introduced in House
 - 2009-10-28 — Ordered to be Reported by Voice Vote.
 - 2009-10-28 — Referred to the House Committee on Veterans' Affairs.
+- 2009-11-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-02 — Considered under suspension of the rules. (consideration: CR H12152-12160)
+- 2009-11-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3949.
+- 2009-11-02 — Mr. Walz moved to suspend the rules and pass the bill, as amended.
+- 2009-11-02 — Placed on the Union Calendar, Calendar No. 186.
+- 2009-11-02 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-324.
+- 2009-11-02 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-324.
