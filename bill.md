@@ -32,16 +32,11 @@ This Act may be cited as the “Preventing Harassment through Outbound Number En
   >   - **(2)** *Procedures* The procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section, and in Rule 32.2 of the Federal Rules of Criminal Procedure, shall apply to all stages of a criminal forfeiture proceeding under this section.
   > - **(e)** *Definitions* In this section—
   >   - **(1)** the term “caller ID information” means any identifying information regarding the origination of a telephone call, including the name or the telephone number of the caller, that is transmitted with the telephone call;
-  >   - **(2)** the term “telephone call” means a call made using or received on a telecommunications service or VOIP service;
-  >   - **(3)** the term “telecommunications service” means the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used;
-  >   - **(4)** the term “VOIP service” means a service that—
-  >     - **(A)** provides real-time or near real-time voice communications transmitted using Internet Protocol, or a successor protocol;
-  >     - **(B)** is offered to the public, or such classes of users as to be effectively available to the public (whether part of a bundle of services or separately); and
-  >     - **(C)** has the capability to originate traffic to, or terminate traffic from, the public switched telephone network or a successor network; and
-  >   - **(5)** the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+  >   - **(2)** the term “telephone call” means a call made or received using any real time voice communications service, regardless of the technology or network used; and
+  >   - **(3)** the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item:
 
 ## § 3. Other specified unlawful activities for money laundering
 
-Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1040 (relating to caller ID spoofing),” before “section 1111”.
+Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1041 (relating to caller ID spoofing),” before “section 1111”.

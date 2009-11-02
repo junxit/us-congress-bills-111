@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1110
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1110
@@ -32,3 +32,10 @@ Preventing Harassment through Outbound Number Enforcement Act of 2009
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Introduced in House
 - 2009-02-23 — Referred to the House Committee on the Judiciary.
+- 2009-03-16 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2009-10-05 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2009-10-07 — Committee Consideration and Mark-up Session Held.
+- 2009-10-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-11-02 — Placed on the Union Calendar, Calendar No. 183.
+- 2009-11-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-321.
+- 2009-11-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-321.

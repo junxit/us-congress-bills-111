@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1110
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1040 (relating to caller ID spoofing),” before “section 1111”. | the bill names no machine-readable US Code section |
+| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1041 (relating to caller ID spoofing),” before “section 1111”. | the bill names no machine-readable US Code section |
