@@ -1,7 +1,7 @@
 ---
 measure: H.R. 174
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 174
@@ -16,9 +16,15 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 
 - Rep. Salazar, John T. [D-CO-3] (S001158)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Markey, Betsy [D-CO-4] (M001172)
 
 ## Committees (2)
 
@@ -32,3 +38,11 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 - 2009-01-06 — Referred to House Veterans' Affairs
 - 2009-01-06 — Referred to House Ways and Means
 - 2009-01-06 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-01-09 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2009-09-28 — Subcommittee on Disability Assistance and Memorial Affairs Discharged.
+- 2009-11-02 — Considered under suspension of the rules. (consideration: CR H12168-12170)
+- 2009-11-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 174.
+- 2009-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-02 — Mr. Walz moved to suspend the rules and pass the bill.
+- 2009-11-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12168)
+- 2009-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12168)
