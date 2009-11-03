@@ -1,7 +1,7 @@
 ---
 measure: H.R. 174
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 174
@@ -26,10 +26,11 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Ways and Means Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 - 2009-11-02 — Mr. Walz moved to suspend the rules and pass the bill.
 - 2009-11-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12168)
 - 2009-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12168)
+- 2009-11-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
