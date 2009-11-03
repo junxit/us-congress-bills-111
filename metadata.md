@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 291
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 291
@@ -63,3 +63,7 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 
 - 2009-09-29 — Introduced in Senate
 - 2009-09-29 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S9936-9937)
+- 2009-11-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11061)
+- 2009-11-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11061)
+- 2009-11-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S11061)
+- 2009-11-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S11061)
