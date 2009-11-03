@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 3997
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3997
+
+> To permit each current member of the Board of Directors of the Office of Compliance to serve for 3 terms.
+
+## § 1. Additional Term for Members of Board of Directors of Office of Compliance
+
+Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.
