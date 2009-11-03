@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 0 executed, 31 stated and not applied.
+30 amendatory instructions. 0 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after “or the veteran.” the following new sentence: “Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access s… | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the sentence added by subparagraph (B) the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (4) and inserting the following new paragraph (4): | the bill names no machine-readable US Code section |
-| — | replace | Section 8127, as amended by section 101, is further amended in subsection (c), by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3692(c) is amended by striking “December 31, 2009” and inserting “December 31, 2015”. | the bill names no machine-readable US Code section |
 | — | amend | Section 305A of the Servicemembers Civil Relief Act (50 U.S.C. App. 535a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | The heading for title III of such Act is amended by inserting “, service contracts” after “leases”. | the bill names no machine-readable US Code section |
@@ -54,7 +53,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 5 is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part V is amended by adding at the end the following new chapter: | the bill names no machine-readable US Code section |
-| — | insert | The tables of chapters at the beginning of title 38, and of part V of title 38, are each amended by inserting after the item relating to chapter 79 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | The tables of chapters at the beginning of title 38, United States Code, and of part V of such title, are each amended by inserting after the item relating to chapter 79 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | In the matter preceding paragraph (1), by striking “Under such regulations” and inserting “(a) Under such regulations”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (8) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
