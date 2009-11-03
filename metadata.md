@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1168
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1168
@@ -24,9 +24,10 @@ Veterans Retraining Act of 2009
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Minnick, Walter [D-ID-1] (M001175)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Veterans Retraining Act of 2009
 - 2009-11-02 — Placed on the Union Calendar, Calendar No. 185.
 - 2009-11-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-323.
 - 2009-11-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-323.
+- 2009-11-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
