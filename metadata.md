@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3548
@@ -16,7 +16,7 @@ Worker, Homeownership, and Business Assistance Act of 2009
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Cosponsors (85)
+## Cosponsors (134)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -67,6 +67,53 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -103,14 +150,20 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (5)
 
 - 2009-09-22 — [House 111-1-722](votes/house-111-1-0722.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (331–83)
+- 2009-10-27 — [Senate 111-1-329](votes/senate-111-1-0329.md) — On the Cloture Motion — **Cloture Motion Agreed to** (87–13)
+- 2009-11-02 — [Senate 111-1-332](votes/senate-111-1-0332.md) — On the Motion — **Motion Agreed to** (85–2)
+- 2009-11-04 — [Senate 111-1-333](votes/senate-111-1-0333.md) — On the Motion — **Motion Agreed to** (97–1)
+- 2009-11-04 — [Senate 111-1-334](votes/senate-111-1-0334.md) — On Passage of the Bill — **Bill Passed** (98–0)
 
 ## Actions
 
@@ -129,3 +182,93 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - 2009-10-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-10-08 — Senate amendment submitted
 - 2009-10-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
+- 2009-10-20 — Senate amendment submitted
+- 2009-10-21 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S10653)
+- 2009-10-21 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S10653)
+- 2009-10-21 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S10653)
+- 2009-10-22 — Senate amendment submitted
+- 2009-10-22 — Senate amendment submitted
+- 2009-10-26 — Senate amendment submitted
+- 2009-10-26 — Senate amendment submitted
+- 2009-10-26 — Senate amendment submitted
+- 2009-10-27 — Cloture on the motion to proceed to the bill invoked in Senate by Yea-Nay Vote. 87 - 13. Record Vote Number: 329. (consideration: CR S10769-10772; text: CR S10771)
+- 2009-10-27 — Senate amendment submitted
+- 2009-10-27 — Senate amendment submitted
+- 2009-10-27 — Senate amendment submitted
+- 2009-10-27 — Senate amendment submitted
+- 2009-10-28 — Motion to proceed to measure considered in Senate. (consideration: CR S10807-10847)
+- 2009-10-28 — Senate amendment submitted
+- 2009-10-28 — Senate amendment submitted
+- 2009-10-29 — Amendment SA 2712 proposed by Senator Reid for Senator Baucus. (consideration: CR S10909) In the nature of a substitute.
+- 2009-10-29 — Amendment SA 2713 proposed by Senator Reid to Amendment SA 2712. (consideration: CR S10910; text: CR S10910) To change the enactment date.
+- 2009-10-29 — Amendment SA 2714 proposed by Senator Reid to Amendment SA 2713. (consideration: CR S10910; text: CR S10910) Of a perfecting nature.
+- 2009-10-29 — Amendment SA 2715 proposed by Senator Reid to language proposed to be stricken by amendment no. 2712. (consideration: CR S10910; text: CR S10910) To change the enactment date.
+- 2009-10-29 — Amendment SA 2716 proposed by Senator Reid to Amendment SA 2715. (consideration: CR S10910; text: CR S10910) Of a perfecting nature.
+- 2009-10-29 — Amendment SA 2717 proposed by Senator Reid to the motion to recommit. (consideration: CR S10910; text: CR S10910) To change the enactment date.
+- 2009-10-29 — Amendment SA 2718 proposed by Senator Reid to Amendment SA 2717. (consideration: CR S10910; text: CR S10910) Of a perfecting nature.
+- 2009-10-29 — Amendment SA 2719 proposed by Senator Reid to Amendment SA 2718. (consideration: CR S10910; text: CR S10910) Of a perfecting nature.
+- 2009-10-29 — Cloture motion on amendment SA 2712 presented in Senate. (consideration: CR S10909-10910; text: CR S10909-10910)
+- 2009-10-29 — Cloture motion on the bill presented in Senate. (consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Measure laid before Senate by motion. (consideration: CR S10909-10911)
+- 2009-10-29 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith, with the following amendment (SA 2717) made in Senate. (consideration: CR S10979)
+- 2009-10-29 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2009-10-29 — Motion to proceed to measure considered in Senate. (consideration: CR S10909)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2712 proposed by Senator Reid for Senator Baucus.(consideration: CR S10909)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2713 proposed by Senator Reid to Amendment SA 2712.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2714 proposed by Senator Reid to Amendment SA 2713.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2715 proposed by Senator Reid to language proposed to be stricken by amendment no. 2712.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2716 proposed by Senator Reid to Amendment SA 2715.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2717 proposed by Senator Reid to the motion to recommit.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2718 proposed by Senator Reid to Amendment SA 2717.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2719 proposed by Senator Reid to Amendment SA 2718.(consideration: CR S10910; text: CR S10910)
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-10-29 — Senate amendment submitted
+- 2009-11-02 — Cloture on the amendment SA 2712 invoked in Senate by Yea-Nay Vote. 85 - 2. Record Vote Number: 332. (consideration: CR S10984-10985)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979)
+- 2009-11-02 — Considered by Senate. (consideration: CR S10979-10985)
+- 2009-11-02 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions fell in Senate. (consideration: CR S10979, S10985)
+- 2009-11-02 — Roll call votes on amendments in Senate: Cloture on the amendment SA 2712 invoked in Senate by Yea-Nay Vote. 85 - 2. Record Vote Number: 332.(consideration: CR S10984-10985)
+- 2009-11-02 — SA 2717 fell when the motion to commit fell.
+- 2009-11-02 — SA 2718 fell when when SA2717 fell.
+- 2009-11-02 — SA 2719 fell when SA 2718 fell.
+- 2009-11-02 — Senate amendment submitted
+- 2009-11-02 — Senate amendment submitted
+- 2009-11-02 — Senate amendment submitted
+- 2009-11-02 — Senate amendment submitted
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009)
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009)
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009)
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009)
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009)
+- 2009-11-03 — Considered by Senate. (consideration: CR S11009-11015, S11015-11023)
+- 2009-11-04 — Amendment SA 2712 agreed to in Senate by Unanimous Consent.
+- 2009-11-04 — Cloture invoked in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 333. (consideration: CR S11080; text: CR S11080)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077)
+- 2009-11-04 — Considered by Senate. (consideration: CR S11077-11103)
+- 2009-11-04 — Message on Senate action sent to the House.
+- 2009-11-04 — Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 334. (text: CR S11099-11103)
+- 2009-11-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 98 - 0. Record Vote Number: 334.(text: CR S11099-11103)
+- 2009-11-04 — Proposed amendment SA 2713 withdrawn in Senate. (consideration: CR S11077)
+- 2009-11-04 — Proposed amendment SA 2714 withdrawn in Senate. (consideration: CR S11077)
+- 2009-11-04 — Proposed amendment SA 2715 withdrawn in Senate. (consideration: CR S11077)
+- 2009-11-04 — Proposed amendment SA 2716 withdrawn in Senate. (consideration: CR S11077)
+- 2009-11-04 — Senate amendment agreed to: Amendment SA 2712 agreed to in Senate by Unanimous Consent.
