@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 863
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 863
@@ -16,7 +16,7 @@ Recognizing the scourge of pneumonia, urging the United States and the world to 
 
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
-## Cosponsors (41)
+## Cosponsors (55)
 
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. McGovern, James P. [D-MA-3] (M000312)
@@ -59,13 +59,40 @@ Recognizing the scourge of pneumonia, urging the United States and the world to 
 - Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-11-04 — [House 111-1-852](votes/house-111-1-0852.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (421–1)
 
 ## Actions
 
 - 2009-10-23 — Introduced in House
 - 2009-10-23 — Introduced in House
 - 2009-10-23 — Referred to the House Committee on Foreign Affairs.
+- 2009-11-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-03 — Considered under suspension of the rules. (consideration: CR H12254-12256)
+- 2009-11-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 863.
+- 2009-11-03 — Mr. Engel moved to suspend the rules and agree to the resolution, as amended.
+- 2009-11-04 — Considered as unfinished business. (consideration: CR H12334-12335)
+- 2009-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-04 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 852). (text: CR 11/3/2009 H12254)
+- 2009-11-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 852).(text: CR 11/3/2009 H12254)
+- 2009-11-04 — The title of the measure was amended. Agreed to without objection.
