@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)) is amended by striking subsections b. and c. and inserting in lieu thereof the following: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 10 of the Atomic Energy Act of 1954 (42 U.S.C. 2131 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents for the Atomic Energy Act of 1954 is amended by inserting the following new item after the item relating to section 111: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 10 of the Atomic Energy Act of 1954 (42 U.S.C. 2131 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents for the Atomic Energy Act of 1954 is amended in the items relating to chapter 10, by inserting at the end the following new item: | the bill names no machine-readable US Code section |
