@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 856
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 856
@@ -16,7 +16,7 @@ Recognizing the Commissioning of the USS New York LPD 21.
 
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 
-## Cosponsors (39)
+## Cosponsors (54)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
@@ -57,13 +57,40 @@ Recognizing the Commissioning of the USS New York LPD 21.
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Fleming, John [R-LA-4] (F000456)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2009-11-04 — [House 111-1-855](votes/house-111-1-0855.md) — On Motion to Suspend the Rules and Agree — **Passed** (420–0)
 
 ## Actions
 
 - 2009-10-22 — Introduced in House
 - 2009-10-22 — Introduced in House
 - 2009-10-22 — Referred to the House Committee on Armed Services.
+- 2009-11-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-04 — Considered as unfinished business. (consideration: CR H12336-12337)
+- 2009-11-04 — Considered under suspension of the rules. (consideration: CR H12323-12325)
+- 2009-11-04 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 856.
+- 2009-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-04 — Mr. Taylor moved to suspend the rules and agree to the resolution.
+- 2009-11-04 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 855). (text: CR H12323-12324)
+- 2009-11-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 855).(text: CR H12323-12324)
