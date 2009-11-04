@@ -2,7 +2,7 @@
 legis-num: H. RES. 752
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 752
@@ -14,9 +14,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the St. Paul Mine Company Mine in Cherry, a town in Bureau County, Illinois, began operation in 1905;
 - Whereas the mine supplied the Chicago, Milwaukee, and St. Paul Railroad with 300,000 tons of coal annually for its locomotives;
 - Whereas coal remains an abundant source of energy in Illinois and across the country;
-- Whereas the majority of Cherry miners were Italian immigrants working to achieve the American dream;
+- Whereas the majority of Cherry miners were immigrants working to achieve the American dream;
 - Whereas 490 men and boys were working in the mine on Saturday, November 13, 1909;
-- Whereas 10 of the Cherry miners were boys under the age of 16, including one who was 10 years old, were hired illegally by the St. Paul Mine Company;
+- Whereas 10 of the Cherry miners were boys under the age of 16, including one who was 10 years old, were hired illegally;
 - Whereas United Mine Workers represented miners at the Cherry Mine in 1909 and continue to represent workers throughout the United States and Canada;
 - Whereas according to the Mine Safety and Health Administration, there were 2,642 coal mining fatalities in the United States in 1909;
 - Whereas the main and secondary shafts of the Cherry Mine contained wooden stairs and ladders;
@@ -32,15 +32,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the “eight-day men” exhibited behavior that can only be described as selfless when helping each other survive;
 - Whereas a team rescued these men after 8 grueling days underground in torturous conditions;
 - Whereas 259 miners, including 4 children, perished in what became known as the Great Cherry Mine Disaster;
+- Whereas the United Mine Workers pressed successfully for mine safety reforms following this and other disasters like it;
 - Whereas the United States Bureau of Mines was created in 1910 as a result of disasters like the Great Cherry Mine Disaster;
 - Whereas the State of Illinois reacted by passing stronger mine safety regulations;
 - Whereas those mine regulations included requiring mine owners to maintain firefighting equipment and require certain workers to pass safety tests;
-- Whereas the Illinois’ Worker’s Compensation Act of 1911 recognized the dangers that mine workers faced and continue to face today;
-- Whereas the United Mine Workers have been an important and consistent ally in promoting workplace safety and fair wages and compensation for United States workers, as has organized labor as a whole; and
-- Whereas, November 13, 2009, marks the 100th anniversary of the Great Cherry Mine Disaster: Now, therefore, be it
+- Whereas the Illinois’ Worker’s Compensation Act of 1911 recognized the dangers that mine workers faced and continue to face today; and
+- Whereas November 13, 2009, marks the 100th anniversary of the Great Cherry Mine Disaster: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** honors the 259 miners lost in the tragedy known as the Great Cherry Mine Disaster on its 100th anniversary;
-- **(2)** supports the important safety measures that were enacted as a resulted of this terrible incident and others around the country like it; and
-- **(3)** recognizes the important role organized labor has played in protecting the physical and economic security of workers in the United States.
+- **(1)** honors the 259 miners lost in the tragedy known as the Great Cherry Mine Disaster on its 100th anniversary; and
+- **(2)** supports the important safety measures that were enacted as a result of this terrible incident and others around the country like it.
