@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2215
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2215
@@ -62,3 +62,13 @@ To designate the facility of the United States Postal Service located at 140 Mer
 - 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2009-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
+- 2009-11-09 — Cleared for White House.
+- 2009-11-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11300)
+- 2009-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11300)
+- 2009-11-10 — Message on Senate action sent to the House.
+- 2009-11-20 — Presented to President.
+- 2009-11-20 — Presented to President.
+- 2009-11-30 — Became Public Law No: 111-103.
+- 2009-11-30 — Became Public Law No: 111-103.
+- 2009-11-30 — Signed by President.
+- 2009-11-30 — Signed by President.
