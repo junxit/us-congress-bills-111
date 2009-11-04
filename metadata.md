@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3949
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3949
@@ -41,9 +41,10 @@ Veterans' Small Business Assistance and Servicemembers Protection Act of 2009
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -67,3 +68,4 @@ Veterans' Small Business Assistance and Servicemembers Protection Act of 2009
 - 2009-11-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 2 (Roll no. 835). (text: CR 11/2/2009 H12152-12156)
 - 2009-11-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 2 (Roll no. 835).(text: CR 11/2/2009 H12152-12156)
+- 2009-11-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
