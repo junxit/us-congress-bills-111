@@ -1,7 +1,7 @@
 ---
 measure: S. 1860
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1860
@@ -24,3 +24,7 @@ A bill to permit each current member of the Board of Directors of the Office of 
 
 - 2009-10-22 — Introduced in Senate
 - 2009-10-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
