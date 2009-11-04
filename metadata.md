@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1713
@@ -46,3 +46,8 @@ To name the South Central Agricultural Research Laboratory of the Department of 
 - 2009-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9591-9592)
 - 2009-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9591-9592)
 - 2009-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-10-19 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
