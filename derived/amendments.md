@@ -1,7 +1,7 @@
 ---
 measure: S. 1825
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
