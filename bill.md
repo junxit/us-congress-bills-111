@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3548
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3548
 
-That the bill from the House of Representatives (H.R. 3548) entitled “An Act to amend the Supplemental Appropriations Act, 2008 to provide for the temporary availability of certain additional emergency unemployment compensation, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Supplemental Appropriations Act, 2008 to provide for the temporary availability of certain additional emergency unemployment compensation, and for other purposes.
 
 ## § 1. Short title
 

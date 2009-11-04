@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3548
@@ -157,13 +157,14 @@ Worker, Homeownership, and Business Assistance Act of 2009
 
 - House — Ways and Means Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2009-09-22 — [House 111-1-722](votes/house-111-1-0722.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (331–83)
 - 2009-10-27 — [Senate 111-1-329](votes/senate-111-1-0329.md) — On the Cloture Motion — **Cloture Motion Agreed to** (87–13)
 - 2009-11-02 — [Senate 111-1-332](votes/senate-111-1-0332.md) — On the Motion — **Motion Agreed to** (85–2)
 - 2009-11-04 — [Senate 111-1-333](votes/senate-111-1-0333.md) — On the Motion — **Motion Agreed to** (97–1)
 - 2009-11-04 — [Senate 111-1-334](votes/senate-111-1-0334.md) — On Passage of the Bill — **Bill Passed** (98–0)
+- 2009-11-05 — [House 111-1-859](votes/house-111-1-0859.md) — Suspend the Rules and Concur in the Senate Amendment — **Passed** (403–12)
 
 ## Actions
 
@@ -272,3 +273,17 @@ Worker, Homeownership, and Business Assistance Act of 2009
 - 2009-11-04 — Proposed amendment SA 2715 withdrawn in Senate. (consideration: CR S11077)
 - 2009-11-04 — Proposed amendment SA 2716 withdrawn in Senate. (consideration: CR S11077)
 - 2009-11-04 — Senate amendment agreed to: Amendment SA 2712 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2009-11-05 — Cleared for White House.
+- 2009-11-05 — Considered as unfinished business. (consideration: CR H12395-12396)
+- 2009-11-05 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3548.
+- 2009-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-05 — Mr. Rangel moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H12381-12390)
+- 2009-11-05 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 403 - 12 (Roll No. 859). (text as House agreed to Senate amendment: CR H12381-12384)
+- 2009-11-05 — Presented to President.
+- 2009-11-05 — Presented to President.
+- 2009-11-05 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays (2/3 required): 403 - 12 (Roll No. 859).(text as House agreed to Senate amendment: CR H12381-12384)
+- 2009-11-06 — Became Public Law No: 111-92.
+- 2009-11-06 — Became Public Law No: 111-92.
+- 2009-11-06 — Signed by President.
+- 2009-11-06 — Signed by President.

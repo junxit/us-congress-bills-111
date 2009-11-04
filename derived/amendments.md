@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-53 amendatory instructions. 1 executed, 52 stated and not applied.
+53 amendatory instructions. 0 executed, 53 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 26 U.S.C. § 6698
-
-> Sections 6698(b)(1) and 6699(b)(1) of the Internal Revenue Code of 1986 are each amended by striking “$89” and inserting “$195”.
-
-| | |
-|---|---|
-| Removed | `$89` |
-| Inserted | `$195` |
 
 ## Stated, not applied
 
@@ -59,17 +48,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “June 30, 2009” and inserting “June 30, 2010”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “December 31, 2009” and inserting “December 31, 2010”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of clause (iv) the following: “In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of a… | the bill names no machine-readable US Code section |
-| — | amend | Section 2006 of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 445) is amended by adding at the end of subsection (b) the following: “In addition to funds appropriated by the preceding sente… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2006 of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 445) is amended by adding at the end of subsection (b) the following: “In addition to funds appropriated by the preceding sente… | the bill names no machine-readable US Code section |
 | — | replace | by striking “through 2009” in paragraph (1) and inserting “through 2010 and the first 6 months of calendar year 2011”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “calendar year 2010” in paragraph (2) and inserting “the remainder of calendar year 2011”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(or portion of the calendar year)” after “during the calendar year”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “December 1, 2009” and inserting “May 1, 2010”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “Section.—This section” and inserting “Section.— | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | Subparagraph (D) of section 36(f)(4) of such Code is amended by striking “, and before December 1, 2009”. | the bill names no machine-readable US Code section |
 | — | insert | The heading of such subparagraph (D) is amended by inserting “and 2010” after “2009”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (g) of section 36 of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (c) of section 36 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (c) of section 36 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b)(1) of section 36 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b)(2)(A)(i)(II) of section 36 of such Code is amended by striking “$75,000 ($150,000” and inserting “$125,000 ($225,000”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b) of section 36 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -92,5 +81,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (2) by striking “clause (1) of”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraphs (5)(D) and (6) of section 864(f) of the Internal Revenue Code of 1986 are each amended by striking “December 31, 2010” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
 | — | strike | Section 864(f) of the Internal Revenue Code of 1986 is amended by striking paragraph (7). | the bill names no machine-readable US Code section |
-| — | amend | Subsection (e) of section 6011 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Sections 6698(b)(1) and 6699(b)(1) of the Internal Revenue Code of 1986 are each amended by striking “$89” and inserting “$195”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (e) of section 6011 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 6011(e) of the Internal Revenue Code of 1986 is amended by striking “The Secretary may not” and inserting “Except as provided in paragraph (3), the Secretary may not”. | the bill names no machine-readable US Code section |
