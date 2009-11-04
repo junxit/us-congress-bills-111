@@ -1,7 +1,7 @@
 ---
 measure: S. 1506
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1506
@@ -30,3 +30,6 @@ National Metro Safety Act
 - 2009-07-23 — Introduced in Senate
 - 2009-07-23 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S8042)
 - 2009-07-23 — Sponsor introductory remarks on measure. (CR S8041-8042)
+- 2009-11-04 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2009-11-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2009-11-04 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
