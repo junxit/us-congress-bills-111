@@ -13,18 +13,53 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Expedited CARD Reform for Consumers Act of 2009”.
 
-## § 2. Earlier effective date for the Credit CARD Act of 2009, generally
+## § 2. Earlier effective date for credit card provisions of the Credit CARD Act of 2009
 
-Section 3 of the Credit Card Accountability Responsibility and Disclosure Act of 2009 is amended by striking “become effective 9 months after the date of enactment of this Act,” and inserting “take effect on December 1, 2009,”.
+Section 3 of the Credit Card Accountability Responsibility and Disclosure Act of 2009 (15 U.S.C. 1602 note) is amended—
+
+- **(1)** by striking “This Act” and inserting “(a) In general.—This Act”; and
+- **(2)** by adding at the end the following new subsections:
+  > - **(b)** *Certain credit card provisions* Except as otherwise specifically provided in this Act, titles I, II, and III, and the amendments made by such titles, shall take effect on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009.
+  > - **(c)** *Certain credit card issuers* Except as otherwise specifically provided in this Act and notwithstanding subsection (b), the effective date established under subsection (a) shall apply with respect to the application of titles I, II, and III, and the amendments made by such titles, to any credit card issuer which is a depository institution (as defined in section 19(b)(1)(A) of the Federal Reserve Act) with fewer than 2,000,000 credit cards in circulation as of the date of the enactment of this Act.
 
 ## § 3. Earlier effective dates for specific provisions to prevent further abuses
 
 - **(a)** *Review of past consumer interest rate increases* Section 148(d) of the Truth in Lending Act (15 U.S.C. 1665c(d)) (as added by section 101(c) of the Credit Card Accountability Responsibility and Disclosure Act of 2009) is amended—
-  - **(1)** by striking “9 months after the date of enactment of this section,” and inserting “December 1, 2009,”; and
-  - **(2)** by striking “become effective 15 months after that date of enactment” and inserting “take effect on December 1, 2009”.
+  - **(1)** by striking “9 months after the date of enactment of this section” and inserting “the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)), with fewer than 2 million credit cards in circulation on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, the effective date shall be February 22, 2010,”; and
+  - **(2)** by striking “become effective 15 months after that date of enactment” and inserting “take effect on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)), with fewer than 2 million credit cards in circulation on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, the effective date shall be August 22, 2010”.
 - **(b)** *Requirement that penalty fees be reasonable and proportional to the violation* Section 149(b) of the Truth in Lending Act (15 U.S.C. 1665d(b)) (as added by section 102(b) of the Credit Card Accountability Responsibility and Disclosure Act of 2009) is amended—
-  - **(1)** by striking “9 months after the date of enactment of this section” and inserting “December 1, 2009,”; and
-  - **(2)** by striking “become effective 15 months after that date of enactment” and inserting “take effect on December 1, 2009”.
-- **(c)** *Gift card protections for consumers*
-  - **(1)** *In general* Section 403 of the Credit Card Accountability Responsibility and Disclosure Act of 2009 is amended by striking “become effective 15 months after the date of enactment of this Act,” and inserting “take effect on December 1, 2009,”.
-  - **(2)** *Regulations* Section 915(d)(3) of the Electronic Fund Transfer Act (15 U.S.C. 1693l–1(d)(3)) (as added by section 401(2) of the Credit Card Accountability Responsibility and Disclosure Act of 2009) is amended by striking “9 months after the date of enactment of the Credit CARD Act of 2009” and inserting “December 1, 2009”.
+  - **(1)** by striking “9 months after the date of enactment of this section,” and inserting “the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)), with fewer than 2 million credit cards in circulation on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, the effective date shall be February 22, 2010,”; and
+  - **(2)** by striking “become effective 15 months after the date of enactment of the section” and inserting “take effect on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)), with fewer than 2 million credit cards in circulation on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, the effective date shall be August 22, 2010”.
+
+## § 4. Clarification that 45-day delay does not apply to reductions in interest rates and fees
+
+Subsection (i) of section 127 of the Truth in Lending Act (15 U.S.C. 1637) (as added by section 101(a)(1) of the Credit CARD Act of 2009) is amended by adding at the end the following new paragraph:
+
+> - **(5)** *Clarification* No provision of this subsection shall be construed as preventing any creditor from putting any reduction in an annual percentage rate, any decrease or elimination of any fee imposed on any consumer, or any significant change in terms solely or primarily for the benefit of the consumer into effect immediately.
+
+## § 5. Moratorium on increases in rates and fees and changes in terms to the detriment of the consumer
+
+Notwithstanding any other provision of this Act or any amendment made by this Act, subsection (b) of section 164 of the Truth in Lending Act (as added by section 104(4) of the Credit Card Accountability Responsibility and Disclosure Act of 2009 (Public Law 111–24)) shall not take effect until February 22, 2010, for any creditor with respect to an existing credit card account under an open end credit plan, or such a plan issued on or after the date of enactment, as long as the creditor does not—
+
+- **(1)** increase any annual percentage rate, fee, or finance charge applicable to any existing or future balance, except as permitted under subsection 171(b) of the Truth in Lending Act (as added by Public Law 111–24); or
+- **(2)** change the terms to the detriment of a consumer, including terms governing the repayment of any outstanding balance, except as provided in section 171(c) of the Truth in Lending Act (as added by Public Law 111–24).
+
+## § 6. Additional limitations established
+
+Section 127 of the Truth in Lending Act (15 U.S.C. 1637) is amended by inserting after subsection (r) (as added by the Credit CARD Act of 2009) the following new subsection:
+
+> - **(s)** *Cancellation of account without detrimental effect* If, in the case of a credit card account under an open end consumer credit plan, the consumer receives notice of the imposition of a new fee, and within the 45-day period beginning on receipt of such notice, pays off any outstanding balance on the account, no creditor and no consumer reporting agency (as defined in section 603) may use such pay off or closure of the consumer credit account to negatively impact the consumer’s credit score or consumer report (as such terms are defined in sections 609 and 603, respectively).
+
+## § 7. Moratorium on rate increases
+
+- **(a)** *In general* During the period beginning on the date of the enactment of this Act and ending 9 months after the date of the enactment of the Credit Card Accountability Responsibility and Disclosure Act of 2009, in the case of any credit card account under an open end consumer credit plan—
+  - **(1)** no creditor may increase any annual percentage rate, fee, or finance charge applicable to any outstanding balance, except as permitted under subsection 171(b) of the Truth in Lending Act (as added by Public Law 111–24); and
+  - **(2)** no creditor may change the terms governing the repayment of any outstanding balance, except as set forth in section 171(c) of the Truth in Lending Act (as added by Public Law 111–24).
+- **(b)** *Definitions* For purposes of this section, the following definitions shall apply:
+  - **(1)** *Annual percentage rate* The term “annual percentage rate” means an annual percentage rate, as determined under section 107 of the Truth in Lending Act (15 U.S.C. 1606).
+  - **(2)** *Finance charge* The term “finance charge” means a finance charge, as determined under section 106 of the Truth in Lending Act (15 U.S.C. 1605).
+  - **(3)** *Outstanding balance* The term “outstanding balance” has the same meaning as in section 171(d) of the Truth in Lending Act (as added by Public Law 111–24).
+  - **(4)** *Other terms* Any term used in this section that is defined in section 103 of the Truth in Lending Act (15 U.S.C. 1602) and is not otherwise defined in this section shall have the same meanings as in section 103 of the Truth in Lending Act.
+- **(c)** *Regulatory authority*
+  - **(1)** *In general* The Board of Governors of the Federal Reserve System may prescribe such regulations as may be necessary to carry out this section.
+  - **(2)** *Effective date* The provisions of this section shall take effect upon the date of the enactment of this title, regardless of whether rules are issued under subsection (a).
