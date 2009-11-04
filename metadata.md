@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3157
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3157
@@ -26,9 +26,10 @@ To name the Department of Veterans Affairs outpatient clinic in Alexandria, Minn
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To name the Department of Veterans Affairs outpatient clinic in Alexandria, Minn
 - 2009-11-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 839). (text: CR 11/2/2009 H12167)
 - 2009-11-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 839).(text: CR 11/2/2009 H12167)
+- 2009-11-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
