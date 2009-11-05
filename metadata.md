@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 2847

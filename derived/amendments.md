@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | strike | Section 5759 of title 5, United States Code, is amended by striking subsection (e). | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter IV of chapter 57 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 57 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 504(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1996 (as contained in Public Law 104–134) is amended by striking paragraph (13). | the bill names no machine-readable US Code section |
 | — | replace | Section 101(k) of the Emergency Steel Loan Guarantee Act of 1999 (15 U.S.C. 1841 note) is amended by striking ‘‘2009’’ and inserting ‘‘2011’’. | the bill names no machine-readable US Code section |
 | — | strike | Section 5759(e) of title 5, United States Code, is amended by striking subsection (e). | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter IV of chapter 57 of title 5, United States Code, is amended by adding at the end of the following: | the bill names no machine-readable US Code section |
