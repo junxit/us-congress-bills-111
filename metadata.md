@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 868
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 868
@@ -16,7 +16,7 @@ Honoring and recognizing the service and achievements of current and former fema
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (45)
+## Cosponsors (53)
 
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
@@ -63,11 +63,23 @@ Honoring and recognizing the service and achievements of current and former fema
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
 
 ## Committees (2)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-11-05 — [House 111-1-858](votes/house-111-1-0858.md) — On Motion to Suspend the Rules and Agree — **Passed** (366–0)
 
 ## Actions
 
@@ -77,3 +89,12 @@ Honoring and recognizing the service and achievements of current and former fema
 - 2009-10-23 — Referred to House Veterans' Affairs
 - 2009-10-23 — Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-10-23 — Sponsor introductory remarks on measure. (CR E2625)
+- 2009-11-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-04 — Considered under suspension of the rules. (consideration: CR H12325-12327)
+- 2009-11-04 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 868.
+- 2009-11-04 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2009-11-05 — Considered as unfinished business. (consideration: CR H12380-12381)
+- 2009-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-05 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 858). (text: CR 11/4/2009 H12325)
+- 2009-11-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 858).(text: CR 11/4/2009 H12325)
+- 2009-11-05 — Referred to the Subcommittee on Military Personnel.
