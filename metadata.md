@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2847
@@ -16,12 +16,75 @@ Hiring Incentives to Restore Employment Act
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 
+## Cosponsors (60)
+
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (57)
+## Recorded votes (67)
 
 - 2009-06-16 — [House 111-1-350](votes/house-111-1-0350.md) — On Motion that the Committee Rise — **Passed** (179–124)
 - 2009-06-17 — [House 111-1-353](votes/house-111-1-0353.md) — On Agreeing to the Amendment — **Agreed to** (411–14)
@@ -80,6 +143,16 @@ Hiring Incentives to Restore Employment Act
 - 2009-06-18 — [House 111-1-406](votes/house-111-1-0406.md) — On Agreeing to the Amendment — **Agreed to** (402–13)
 - 2009-06-18 — [House 111-1-407](votes/house-111-1-0407.md) — On Motion to Reconsider — **Failed** (149–267)
 - 2009-06-18 — [House 111-1-408](votes/house-111-1-0408.md) — On Passage — **Passed** (259–157)
+- 2009-10-07 — [Senate 111-1-316](votes/senate-111-1-0316.md) — On the Motion to Table — **Motion to Table Agreed to** (61–38)
+- 2009-10-08 — [Senate 111-1-317](votes/senate-111-1-0317.md) — On the Amendment — **Amendment Rejected** (33–64)
+- 2009-10-08 — [Senate 111-1-319](votes/senate-111-1-0319.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (33–65)
+- 2009-10-13 — [Senate 111-1-320](votes/senate-111-1-0320.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–38)
+- 2009-11-05 — [Senate 111-1-335](votes/senate-111-1-0335.md) — On the Motion — **Motion Agreed to** (60–39)
+- 2009-11-05 — [Senate 111-1-336](votes/senate-111-1-0336.md) — On the Amendment — **Amendment Rejected** (36–62)
+- 2009-11-05 — [Senate 111-1-337](votes/senate-111-1-0337.md) — On the Motion — **Motion Rejected** (42–57)
+- 2009-11-05 — [Senate 111-1-338](votes/senate-111-1-0338.md) — On the Motion to Table — **Motion to Table Agreed to** (54–45)
+- 2009-11-05 — [Senate 111-1-339](votes/senate-111-1-0339.md) — On the Motion — **Motion Rejected** (32–67)
+- 2009-11-05 — [Senate 111-1-340](votes/senate-111-1-0340.md) — On Passage of the Bill — **Bill Passed** (71–28)
 
 ## Actions
 
@@ -516,3 +589,189 @@ Hiring Incentives to Restore Employment Act
 - 2009-06-25 — Committee on Appropriations. Reported by Senator Mikulski with an amendment in the nature of a substitute. With written report No. 111-34.
 - 2009-06-25 — Committee on Appropriations. Reported by Senator Mikulski with an amendment in the nature of a substitute. With written report No. 111-34.
 - 2009-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2009-09-15 — Senate amendment submitted
+- 2009-10-05 — Measure laid before Senate by unanimous consent. (consideration: CR S10093-10105; text of measure as reported in Senate: CR S10093-10104)
+- 2009-10-05 — Senate amendment submitted
+- 2009-10-05 — Senate amendment submitted
+- 2009-10-06 — Senate amendment submitted
+- 2009-10-07 — Amendment SA 2393 proposed by Senator Johanns. (consideration: CR S10207; text: CR S10207) Prohibiting use of funds to fund the Association of Community Organizations for Reform Now (ACORN).
+- 2009-10-07 — Amendment SA 2627 proposed by Senator Levin. (consideration: CR S10210; text: CR S10210) To ensure adequate resources for resolving thousands of offshore tax cases involving hidden accounts at offshore financial institutions.
+- 2009-10-07 — Amendment SA 2629 proposed by Senator McCain. (consideration: CR S10182-10188, S10192; text: CR S10182) To prohibit the use of funds appropriated under this Act for the purpose of preventing individuals, wholesalers, or pharmacists from importing certain prescription drugs.
+- 2009-10-07 — Amendment SA 2630 proposed by Senator Vitter. (consideration: CR S10207-10208, S10209-10210; text: CR S10207) To prohibit funds from being used in contravention of section 642(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996.
+- 2009-10-07 — Amendment SA 2644 proposed by Senator Vitter. (consideration: CR S10192-10195; text: CR S10192) To provide that none of the funds made available in this Act may be used for collection of census data that does not include a question regarding status of United States citizenship.
+- 2009-10-07 — Amendment SA 2647 proposed by Senator Durbin. (consideration: CR S10210-10211; text as modified: CR S10211) To require the Comptroller General to review and audit Federal funds received by ACORN.
+- 2009-10-07 — Amendment SA 2653 proposed by Senator Bunning. (consideration: CR S10208-10209; text: CR S10208) To require that all legislative matters be available and fully scored by CBO 72 hours before consideration by any subcommittee or committee of the Senate or on the floor of the Senate.
+- 2009-10-07 — Considered by Senate. (consideration: CR S10181-10212)
+- 2009-10-07 — Motion to table amendment SA 2630 agreed to in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 316.
+- 2009-10-07 — Proposed amendment SA 2629 withdrawn in Senate. (consideration: CR S10192)
+- 2009-10-07 — Roll call votes on amendments in Senate: Motion to table amendment SA 2630 agreed to in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 316.
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2393 proposed by Senator Johanns.(consideration: CR S10207; text: CR S10207)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2627 proposed by Senator Levin.(consideration: CR S10210; text: CR S10210)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2629 proposed by Senator McCain.(consideration: CR S10182-10188, S10192; text: CR S10182)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2630 proposed by Senator Vitter.(consideration: CR S10207-10208, S10209-10210; text: CR S10207)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2644 proposed by Senator Vitter.(consideration: CR S10192-10195; text: CR S10192)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2647 proposed by Senator Durbin.(consideration: CR S10210-10211; text as modified: CR S10211)
+- 2009-10-07 — Senate amendment proposed (on the floor): Amendment SA 2653 proposed by Senator Bunning.(consideration: CR S10208-10209; text: CR S10208)
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-07 — Senate amendment submitted
+- 2009-10-08 — Amendment SA 2625 proposed by Senator Shelby. (consideration: CR S10280; text: CR S10280) To provide danger pay to Federal agents stationed in dangerous foreign field offices.
+- 2009-10-08 — Amendment SA 2626 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 317.
+- 2009-10-08 — Amendment SA 2626 proposed by Senator McCain. (consideration: CR S10265-10268, S10271-10272; text: CR S10266) To eliminate funding for Public Telecommunications Facilities, Planning and Construction.
+- 2009-10-08 — Amendment SA 2642 proposed by Senator Leahy. (consideration: CR S10285; text: CR S10285) To include nonprofit and volunteer ground and air ambulance crew members and first responders for certain benefits.
+- 2009-10-08 — Amendment SA 2646 proposed by Senator Begich. (consideration: CR S10271; text: CR S10271) To allow tribes located inside of certain boroughs of Alaska to receive Federal funds for their activities.
+- 2009-10-08 — Amendment SA 2648 proposed by Senator Ensign. (consideration: CR S10272; text as modified: CR S10272) To provide additional funds for the State Criminal Alien Assistance Program by reducing corporate welfare programs.
+- 2009-10-08 — Amendment SA 2653 ruled non-germane by the chair.
+- 2009-10-08 — Amendment SA 2669 proposed by Senator Graham. (consideration: CR S10285; text: CR S10285) To prohibit the use of funds for the prosecution in Article III courts of the United States of individuals involved in the September 11, 2001, terrorist attacks.
+- 2009-10-08 — Cloture motion on the bill presented in Senate. (consideration: CR S10328; text: CR S10328)
+- 2009-10-08 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S10328; text: CR S10328)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265, S10272)
+- 2009-10-08 — Considered by Senate. (consideration: CR S10265-10280, S10284-10307, S10328)
+- 2009-10-08 — Motion by Senator Ensign to recommit to Senate Committee on Appropriations rejected in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 319. (consideration: CR S10284)
+- 2009-10-08 — Motion by Senator Ensign to recommit to Senate Committee on Appropriations with instructions to report back made in Senate. (consideration: CR S10272-10273, S10284; text: CR S10272)
+- 2009-10-08 — Point of order raised in Senate with respect to amendment SA 2653.
+- 2009-10-08 — Roll call votes on amendments in Senate: Amendment SA 2626 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 317.
+- 2009-10-08 — Senate amendment not agreed to: Amendment SA 2626 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 317.
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2625 proposed by Senator Shelby.(consideration: CR S10280; text: CR S10280)
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2626 proposed by Senator McCain.(consideration: CR S10265-10268, S10271-10272; text: CR S10266)
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2642 proposed by Senator Leahy.(consideration: CR S10285; text: CR S10285)
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2646 proposed by Senator Begich.(consideration: CR S10271; text: CR S10271)
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2648 proposed by Senator Ensign.(consideration: CR S10272; text as modified: CR S10272)
+- 2009-10-08 — Senate amendment proposed (on the floor): Amendment SA 2669 proposed by Senator Graham.(consideration: CR S10285; text: CR S10285)
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-08 — Senate amendment submitted
+- 2009-10-13 — Amendment SA 2631 proposed by Senator Coburn. (consideration: CR S10343, S10345-10346; text: CR S10343) To redirect funding of the National Science Foundation toward practical scientific research
+- 2009-10-13 — Amendment SA 2632 proposed by Senator Coburn. (consideration: CR S10343, S10345; text: CR S10343) To require public disclosure of certain reports.
+- 2009-10-13 — Amendment SA 2667 proposed by Senator Coburn. (consideration: CR S10343-10344; text: CR S10343) To reduce waste and abuse at the Department of Commerce.
+- 2009-10-13 — Cloture on the committee reported substitute amendment not invoked in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 320. (consideration: CR S10351; text: CR S10351)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339)
+- 2009-10-13 — Considered by Senate. (consideration: CR S10339-10352)
+- 2009-10-13 — Motion to reconsider the vote by which cloture was not invoked on the committee reported substitute amendment entered in Senate.
+- 2009-10-13 — Senate amendment proposed (on the floor): Amendment SA 2631 proposed by Senator Coburn.(consideration: CR S10343, S10345-10346; text: CR S10343)
+- 2009-10-13 — Senate amendment proposed (on the floor): Amendment SA 2632 proposed by Senator Coburn.(consideration: CR S10343, S10345; text: CR S10343)
+- 2009-10-13 — Senate amendment proposed (on the floor): Amendment SA 2667 proposed by Senator Coburn.(consideration: CR S10343-10344; text: CR S10343)
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-13 — Senate amendment submitted
+- 2009-10-15 — Senate amendment submitted
+- 2009-10-27 — Senate amendment submitted
+- 2009-11-04 — Senate amendment submitted
+- 2009-11-05 — Amendment SA 2393 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Amendment SA 2625 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2627 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2631 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 336.
+- 2009-11-05 — Amendment SA 2632 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2642 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2644 ruled non-germane by the chair.
+- 2009-11-05 — Amendment SA 2646 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2647 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Amendment SA 2648 ruled out of order by the chair.
+- 2009-11-05 — Amendment SA 2667 ruled out of order by the chair.
+- 2009-11-05 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S11168)
+- 2009-11-05 — Cloture on the committee reported substitute amendment (upon reconsideration) invoked in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 335. (consideration: CR S11148; text: CR S11148)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11146-11148, S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11155-11168, S11168-11169, S11170-11171)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11169-11170)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11170)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11171-11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148, S11172)
+- 2009-11-05 — Considered by Senate. (consideration: CR S11148-11172, S11173-11186)
+- 2009-11-05 — Message on Senate action sent to the House.
+- 2009-11-05 — Motion to reconsider the vote by which cloture was not invoked on the committee reported substitute amendment (Record Vote Number: 320) agreed to in Senate by Unanimous Consent. (consideration: CR S11145-11146, S1148)
+- 2009-11-05 — Motion to table amendment SA 2669 agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 338.
+- 2009-11-05 — Motion to waive the Budget Act with respect to amendment SA 2648 rejected in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 339.
+- 2009-11-05 — Motion to waive the Budget Act with respect to amendment SA 2667 rejected in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 337.
+- 2009-11-05 — Passed Senate with an amendment by Yea-Nay Vote. 71 - 28. Record Vote Number: 340. (text: CR S11175-11186)
+- 2009-11-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 71 - 28. Record Vote Number: 340.(text: CR S11175-11186)
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2625.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2627.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2632.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2642.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2644.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2646.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2648.
+- 2009-11-05 — Point of order raised in Senate with respect to amendment SA 2667.
+- 2009-11-05 — Roll call votes on amendments in Senate: Amendment SA 2631 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 336.
+- 2009-11-05 — Roll call votes on amendments in Senate: Motion to table amendment SA 2669 agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 338.
+- 2009-11-05 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2648 rejected in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 339.
+- 2009-11-05 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2667 rejected in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 337.
+- 2009-11-05 — Senate amendment agreed to: Amendment SA 2393 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Senate amendment agreed to: Amendment SA 2647 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Senate amendment not agreed to: Amendment SA 2631 not agreed to in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 336.
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate insists on its amendment, asks for a conference, appoints conferees Mikulski; Inouye; Leahy; Kohl; Dorgan; Feinstein; Reed; Lautenberg; Nelson NE; Pryor; Byrd; Shelby; Gregg; McConnell; Hutchison; Alexander; Voinovich; Murkowski; Cochran. (consideration: CR S11186)
+- 2009-11-05 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S11174)
