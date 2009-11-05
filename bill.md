@@ -43,11 +43,11 @@ Congress finds the following:
 - **(22)** The National World War I Museum is the only public museum in the United States specifically dedicated to the history of World War I.
 - **(23)** The National World War I Museum is known throughout the world as a major center of World War I remembrance.
 
-## § 3. Designation of the Liberty Memorial at the National World War I Museum in Kansas City, Missouri, as the National World War I Memorial
+## § 3. Designation of the Liberty Memorial At the National World War I Museum in Kansas City, Missouri, as the National World War I Memorial
 
-The Liberty Memorial at the National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Memorial”.
+The Liberty Memorial at the National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Memorial”. No Federal funds may be used for the annual operation or maintenance of such Memorial.
 
-## § 4. Commission on the commemoration of the centennial of World War I
+## § 4. Commission on the Commemoration of the Centennial of World War I
 
 - **(a)** *Establishment* There is established a commission to be known as the World War I Centennial Commission (in this Act referred to as the “Commission”).
 - **(b)** *Purpose* The purpose of the Commission is to ensure a suitable observance of the centennial of World War I that promotes the values of honor, courage, patriotism, and sacrifice, in keeping with the representation of these values through the four Guardian Spirits sculpted on the Liberty Memorial Monument at America’s National World War I Museum.
@@ -57,7 +57,7 @@ The Liberty Memorial at the National World War I Museum in Kansas City, Missouri
   - **(3)** To facilitate and coordinate activities throughout the United States related to the centennial of World War I.
   - **(4)** To serve as a clearinghouse for the collection and dissemination of information about events and plans for the centennial of World War I.
 - **(d)** *Membership*
-  - **(1)** *Number and Appointment* The Commission shall be composed of 24 members as follows:
+  - **(1)** *Number and appointment* The Commission shall be composed of 24 members as follows:
     - **(A)** Four members appointed by the Speaker of the House of Representatives.
     - **(B)** Three members appointed by the minority leader of the House of Representatives.
     - **(C)** Four members appointed by the Senate majority leader.
@@ -66,23 +66,25 @@ The Liberty Memorial at the National World War I Museum in Kansas City, Missouri
     - **(F)** The executive director of the Veterans of Foreign Wars of the United States (or the director’s delegate).
     - **(G)** The executive director of the American Legion (or the director’s delegate).
     - **(H)** The president of the Liberty Memorial Association, the nonprofit entity responsible for the management of America’s National World War I Museum (or the president’s delegate).
-  - **(2)** *Continuation of membership* If a member of the Commission under paragraph (1)(F) through (H) ceases to hold a position named in such paragraph, that member must resign from the Commission as of the date that the member ceases to hold that position.
-  - **(3)** *Terms* Each member shall be appointed for the life of the Commission.
-  - **(4)** *Vacancies* A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
-  - **(5)** *Pay* Members shall serve without pay.
-  - **(6)** *Travel expenses* Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
-  - **(7)** *Quorum* Thirteen members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
-  - **(8)** *Chairperson; Vice Chairperson* The Commission shall elect the Chairperson and Vice Chairperson of the Commission.
-  - **(9)** *Meetings*
-    - **(A)** *In general* The Commission shall meet at the call of the Chairperson, except that the first meeting shall be held before the end of the 30-day period beginning on the effective date of this Act.
+  - **(2)** *Ex officio members* The Archivist of the United States and the Secretary of the Smithsonian Institution shall serve in an ex officio capacity on the Commission to provide advice and information to the Commission.
+  - **(3)** *Continuation of membership* If a member of the Commission under subparagraph (F), (G), or (H) of paragraph (1) ceases to hold a position named in such subparagraph, that member must resign from the Commission as of the date that the member ceases to hold that position.
+  - **(4)** *Terms* Each member shall be appointed for the life of the Commission.
+  - **(5)** *Deadline for appointment* All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act.
+  - **(6)** *Vacancies* A vacancy on the Commission shall—
+    - **(A)** not affect the powers of the Commission; and
+    - **(B)** be filled in the manner in which the original appointment was made.
+  - **(7)** *Pay* Members shall not receive compensation for the performance of their duties on behalf of the Commission.
+  - **(8)** *Travel expenses* Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+  - **(9)** *Quorum* A majority of members of the Commission plus one shall constitute a quorum, but a lesser number may hold hearings.
+  - **(10)** *Chairperson; vice chairperson* The Commission shall elect the Chairperson and Vice Chairperson of the Commission by a majority vote of the members of the Commission.
+  - **(11)** *Meetings*
+    - **(A)** *In general* The Commission shall meet at the call of the Chairperson, except that the first meeting shall be held before the end of the 120-day period beginning on the effective date of this Act.
     - **(B)** *Location* The Commission shall hold the first meeting at America’s National World War I Museum in Kansas City, Missouri, and thereafter shall hold at least one meeting per year at such location.
 - **(e)** *Director and Additional Personnel of the Commission; Experts and Consultants*
   - **(1)** *Director and staff*
-    - **(A)** *Appointment* The Chair of the Commission shall, in consultation with the members of the Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties.
-    - **(B)** *Pay*
-      - **(i)** *Executive director* The executive director shall be paid at a rate not to exceed the rate of basic pay payable for level IV of the Executive Schedule established under section 5315 of title 5, United State Code.
-      - **(ii)** *Additional personnel* The executive director may fix the pay of any additional personnel appointed under subparagraph (A) as the executive director considers appropriate.
-    - **(C)** *Work Location* If the city government for Kansas City, Missouri, and the nonprofit organization which administers America’s National World War I Museum make space available, the executive director and any additional personnel appointed under subparagraph (A) shall work in the building that houses that museum.
+    - **(A)** *Appointment* The Chairperson of the Commission shall, in consultation with the members of the Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties.
+    - **(B)** *Pay* The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+    - **(C)** *Work location* If the city government for Kansas City, Missouri, and the nonprofit organization which administers America’s National World War I Museum make space available, the executive director and any additional personnel appointed under subparagraph (A) shall work in the building that houses that museum.
   - **(2)** *Experts and consultants* The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
   - **(3)** *Staff of federal agencies* Upon request of the Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
 - **(f)** *Powers of the Commission*
@@ -90,13 +92,19 @@ The Liberty Memorial at the National World War I Museum in Kansas City, Missouri
   - **(2)** *Powers of members and agents* If authorized by the Commission, any member or agent of the Commission may take any action which the Commission is authorized to take by this section.
   - **(3)** *Obtaining official data* The Commission shall secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon the request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
   - **(4)** *Gifts, bequests, and devises*
-    - **(A)** *Acceptance by Commission* The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission.
+    - **(A)** *Acceptance by commission* The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission.
     - **(B)** *Deposit and availability* Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
   - **(5)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
   - **(6)** *Administrative support services* Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
   - **(7)** *Contract authority* The Commission is authorized to procure supplies, services, and property and to make or enter in contracts, leases, or other legal agreements; except that any contract, lease, or other legal agreement made or entered into by the Commission may not extend beyond the date of termination of the Commission.
 - **(g)** *Reports*
-  - **(1)** *Periodic report* Beginning not later than the last day of the 3-month period beginning on the date of enactment of this Act and the last day of each 3-month period thereafter, the Commission shall submit to Congress and the President a report on the activities and plans of the Commission.
-  - **(2)** *Recommendations* Not later than 2 years after the effective date of this Act, the Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of World War I and coordinating related activities.
-- **(h)** *Termination* The Commission shall terminate on the earlier of the date that is 30 days after the activities honoring the centennial observation of World War I are carried out or July 28, 2019. Section 14(a)(2)(B) of the Federal Advisory Committee Act (5 U.S.C. App.), relating to the termination of advisory committees, shall not apply to the Commission.
-- **(i)** *Effective date* This section shall be effective on January 1, 2010.
+  - **(1)** *Periodic report* Beginning not later than the last day of the 3-month period beginning on the effective date of this Act, and the last day of each 3-month period thereafter, the Commission shall submit to Congress and the President a report on the activities and plans of the Commission.
+  - **(2)** *Annual reports* The Commission shall submit to the President and Congress annual reports on the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
+  - **(3)** *Recommendations* Not later than 2 years after the effective date of this Act, the Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of World War I and coordinating related activities.
+- **(h)** *Federal advisory committee act waiver* Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), relating to the termination of advisory committees, shall not apply to the Commission.
+- **(i)** *Authorization of Funds*
+  - **(1)** *In general* There is authorized to be appropriated to the Commission to carry out this Act $500,000 for each of fiscal years 2010 through 2019.
+  - **(2)** *Availability* Amounts made available under this subsection shall remain available until the termination of the Commission as described in subsection (k).
+- **(j)** *Annual audit* For any fiscal year for which the Commission receives an appropriation of funds, the Inspector General of the Department of the Interior shall perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+- **(k)** *Termination* The Commission shall terminate on the earlier of the date that is 30 days after the activities honoring the centennial observation of World War I are carried out, or July 28, 2019.
+- **(l)** *Effective date* This section shall take effect on January 1, 2010.
