@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3276
@@ -30,6 +30,10 @@ American Medical Isotopes Production Act of 2010
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2009-11-05 — [House 111-1-863](votes/house-111-1-0863.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (400–17)
+
 ## Actions
 
 - 2009-07-21 — Introduced in House
@@ -45,3 +49,11 @@ American Medical Isotopes Production Act of 2010
 - 2009-11-04 — Placed on the Union Calendar, Calendar No. 187.
 - 2009-11-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-328.
 - 2009-11-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-328.
+- 2009-11-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-05 — Considered as unfinished business. (consideration: CR H12426-12427)
+- 2009-11-05 — Considered under suspension of the rules. (consideration: CR H12401-12406)
+- 2009-11-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3276.
+- 2009-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-05 — Mr. Markey (MA) moved to suspend the rules and pass the bill, as amended.
+- 2009-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863). (text: CR H12401-12403)
+- 2009-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863).(text: CR H12401-12403)
