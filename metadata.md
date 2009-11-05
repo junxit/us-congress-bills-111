@@ -1,7 +1,7 @@
 ---
 measure: S. 806
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 806
@@ -16,10 +16,11 @@ Federal Executive Board Authorization Act of 2009
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 
 ## Committees (1)
 
@@ -35,3 +36,12 @@ Federal Executive Board Authorization Act of 2009
 - 2009-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-77.
 - 2009-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-77.
 - 2009-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.
+- 2009-11-05 — Amendment SA 2736 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Amendment SA 2736 proposed by Senator Casey for Senator Akaka. (consideration: CR S11234-11235; text: CR S11234-11235) In the nature of a substitute.
+- 2009-11-05 — Measure laid before Senate by unanimous consent. (consideration: CR S11233-11235; text of measure as reporte in Senate: CR S11233-11234)
+- 2009-11-05 — Passed Senate with an amendment by Unanimous Consent.
+- 2009-11-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2009-11-05 — Senate amendment agreed to: Amendment SA 2736 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Senate amendment proposed (on the floor): Amendment SA 2736 proposed by Senator Casey for Senator Akaka.(consideration: CR S11234-11235; text: CR S11234-11235)
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S11234)
