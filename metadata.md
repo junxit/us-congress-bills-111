@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 893
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 893
@@ -89,8 +89,20 @@ Congratulating the 2009 Major League Baseball World Series Champions, the New Yo
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-11-06 — [House 111-1-866](votes/house-111-1-0866.md) — On Motion to Suspend the Rules and Agree — **Passed** (386–17)
+
 ## Actions
 
 - 2009-11-05 — Introduced in House
 - 2009-11-05 — Introduced in House
 - 2009-11-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-11-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-06 — Considered as unfinished business. (consideration: CR H12494-12495)
+- 2009-11-06 — Considered under suspension of the rules. (consideration: CR H12461-12462)
+- 2009-11-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 893.
+- 2009-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-06 — Mr. Towns moved to suspend the rules and agree to the resolution.
+- 2009-11-06 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 17, 11 Present (Roll no. 866). (text: CR H12461)
+- 2009-11-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 17, 11 Present (Roll no. 866).(text: CR H12461)

@@ -2,7 +2,7 @@
 legis-num: H. RES. 893
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 893
@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas this victory represents the Yankees’ 27th World Series Championship win;
 - Whereas this number of championship wins is 17 more than their next closest competitor;
 - Whereas the contributions of the Yankees’ players throughout the season were all vital in securing the title; and
-- Whereas the Yankees were guided to victory by Manager Joe Girardi, General Manager Brian Cashman, President Randy Levine, and the leadership of Hank and Hal Steinbrenner: Now therefore be it
+- Whereas the Yankees were guided to victory by Manager Joe Girardi, General Manager Brian Cashman, President Randy Levine, and the leadership of Hank and Hal Steinbrenner: Now, therefore, be it
 
 That the House of Representatives congratulates—
 
