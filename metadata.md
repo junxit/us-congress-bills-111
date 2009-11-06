@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 139
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 139
@@ -70,9 +70,10 @@ Congratulating the first graduating class of the United States Air Force Academy
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -92,3 +93,4 @@ Congratulating the first graduating class of the United States Air Force Academy
 - 2009-11-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 860). (text: CR 11/4/2009 H12328)
 - 2009-11-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 860).(text: CR 11/4/2009 H12328)
+- 2009-11-06 — Received in the Senate and referred to the Committee on Armed Services.
