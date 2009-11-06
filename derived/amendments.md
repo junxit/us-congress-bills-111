@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

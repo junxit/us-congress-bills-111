@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1299
-congress: 111th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1299
 
-That the House agree to the amendment of the Senate to the bill (H.R. 1299) entitled “An Act to make technical corrections to the laws affecting certain administrative authorities of the United States Capitol Police, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To make technical corrections to the laws affecting certain administrative authorities of the United States Capitol Police, and for other purposes.
 
 ## § 1. Short Title
 
