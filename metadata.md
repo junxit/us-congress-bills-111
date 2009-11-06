@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3276
@@ -26,9 +26,10 @@ American Medical Isotopes Production Act of 2010
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ American Medical Isotopes Production Act of 2010
 - 2009-11-05 — Mr. Markey (MA) moved to suspend the rules and pass the bill, as amended.
 - 2009-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863). (text: CR H12401-12403)
 - 2009-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863).(text: CR H12401-12403)
+- 2009-11-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
