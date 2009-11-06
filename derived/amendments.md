@@ -1,7 +1,7 @@
 ---
 measure: S. 1472
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (d) and (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 212(a)(3)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)(ii)) is amended by striking “ordered, incited, assisted, or otherwise participated in conduct outside the United States that would, if committed in t… | the bill names no machine-readable US Code section |
+| — | strike | Section 212(a)(3)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)(ii)) is amended by striking “conduct outside the United States that would, if committed in the United States or by a United States national, be”. | the bill names no machine-readable US Code section |
