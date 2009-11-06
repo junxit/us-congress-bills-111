@@ -65,7 +65,9 @@ Section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as amended by this Ac
 >     - **(iii)** has applied for, and was rejected for, a conventional disaster assistance loan under this subsection; and
 >     - **(iv)** was in existence for at least 2 years before the date on which the applicable disaster declaration was made.
 >   - **(B)** *Priority* In making grants under this paragraph, the Administrator shall give priority to a small business concern that the Administrator determines is economically viable but unable to meet short-term financial obligations.
->   - **(C)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this paragraph.
+>   - **(C)** *Program level and authorization of appropriations*
+>     - **(i)** *Program level* The Administrator is authorized to make $100,000,000 in grants under this paragraph for each of fiscal years 2010 and 2011.
+>     - **(ii)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this paragraph.
 
 ## § 7. Regional disaster working groups
 
@@ -74,7 +76,7 @@ Section 40 of the Small Business Act (15 U.S.C. 657l) is amended—
 - **(1)** in subsection (a), in the matter preceding paragraph (1), by striking “or” and inserting “and”;
 - **(2)** by redesignating subsection (d) as subsection (e); and
 - **(3)** by inserting after subsection (c) the following:
-  > - **(d)** *Regional disaster working groups* In carrying out subsection (a), the Administrator, acting through the regional administrators of the regional offices of the Administration, shall develop a disaster preparedness and response plan for each region of the Administration. Each such plan shall be developed in cooperation with Federal, State, and local emergency response authorities and representatives of businesses located in the region to which such plan applies. Each such plan shall identify and include a plan relating to the 3 disasters, natural or manmade, most likely to occur in the region to which such plan applies.
+  > - **(d)** *Regional disaster working groups* In carrying out the responsibilities pertaining to loan making activities under subsection (a), the Administrator, acting through the regional administrators of the regional offices of the Administration, shall develop a disaster preparedness and response plan for each region of the Administration. Each such plan shall be developed in cooperation with Federal, State, and local emergency response authorities and representatives of businesses located in the region to which such plan applies. Each such plan shall identify and include a plan relating to the 3 disasters, natural or manmade, most likely to occur in the region to which such plan applies.
 
 ## § 8. Outreach grants for loan applicant assistance
 
@@ -87,3 +89,20 @@ Section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as amended by this Ac
 >     - **(iii)** A Veteran Business Outreach Center in an area affected by a disaster.
 >     - **(iv)** A chamber of commerce in an area affected by a disaster.
 >   - **(B)** *Use of grant* An entity specified under subparagraph (A) shall use a grant received under this paragraph to provide application preparation assistance to applicants for a loan under this subsection.
+>   - **(C)** *Program level* The Administrator is authorized to make $50,000,000 in grants under this paragraph for each of fiscal years 2010 and 2011.
+
+## § 9. Homeowners impacted by toxic drywall
+
+Section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as amended by this Act, is further amended by inserting after paragraph (11) the following:
+
+> - **(12)** *Homeowners impacted by toxic drywall* The Administrator may make a loan under this subsection to any homeowner if the primary residence of such homeowner has been adversely impacted by the installation of toxic drywall manufactured in China. A loan under this paragraph may be used only for the repair or replacement of such toxic drywall.
+
+## § 10. Authorization of appropriations
+
+Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by inserting after subsection (e) the following:
+
+> - **(f)** *Fiscal years 2010 and 2011 with respect to section 7(b)* There is authorized to be appropriated such sums as may be necessary for administrative expenses and loans under section 7(b).
+
+## § 11. Regulations
+
+Except as otherwise provided in this Act or in amendments made by this Act, after an opportunity for notice and comment, but not later than 180 days after the date of the enactment of this Act, the Administrator shall issue regulations to carry out this Act and the amendments made by this Act.
