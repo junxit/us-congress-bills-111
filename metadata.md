@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1299
@@ -60,3 +60,6 @@ United States Capitol Police Administrative Technical Corrections Act of 2009
 - 2009-10-29 — Senate amendment agreed to: Amendment SA 2720 agreed to in Senate by Unanimous Consent.
 - 2009-10-29 — Senate amendment proposed (on the floor): Amendment SA 2720 proposed by Senator Reid for Senator Schumer.(consideration: CR S10943)
 - 2009-10-29 — Senate amendment submitted
+- 2009-10-30 — Message on Senate action sent to the House.
+- 2009-11-06 — House agreed to Senate amendment with an amendment pursuant to H.Res. 896.
+- 2009-11-06 — Resolving differences -- House actions: House agreed to Senate amendment with an amendment pursuant to H.Res. 896.
