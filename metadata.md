@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1849
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1849
@@ -120,10 +120,11 @@ World War I Memorial and Centennial Act of 2009
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Oversight and Accountability Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -156,3 +157,4 @@ World War I Memorial and Centennial Act of 2009
 - 2009-11-05 — Placed on the Union Calendar, Calendar No. 188.
 - 2009-11-05 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-329, Part I.
 - 2009-11-05 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-329, Part I.
+- 2009-11-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

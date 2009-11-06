@@ -2,7 +2,7 @@
 legis-num: H.R. 1849
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1849
@@ -45,7 +45,7 @@ Congress finds the following:
 
 ## § 3. Designation of the Liberty Memorial At the National World War I Museum in Kansas City, Missouri, as the National World War I Memorial
 
-The Liberty Memorial at the National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Memorial”.
+The Liberty Memorial at the National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Memorial”. No Federal funds may be used for the annual operation or maintenance of such Memorial.
 
 ## § 4. Commission on the Commemoration of the Centennial of World War I
 
