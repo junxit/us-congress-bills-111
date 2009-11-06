@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2868
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,6 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following new title: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | The Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) is amended by striking section 550. | the bill names no machine-readable US Code section |
-| — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following new title: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | The Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) is amended by striking section 550. | the bill names no machine-readable US Code section |
+| — | amend | Section 1433 of the Safe Drinking Water Act (42 U.S.C. 300i–2) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
