@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1838
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 29 of the Small Business Act (15 U.S.C. 656) is amended by adding the following new subsection at the end thereof: | the bill names no machine-readable US Code section |
-| — | amend | Section 29 of the Small Business Act (15 U.S.C. 656), as amended, is further amended by adding the following new subsection at the end thereof: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 29 of the Small Business Act (15 U.S.C. 656) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 29 of the Small Business Act (15 U.S.C. 656), as amended, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 29(b) of the Small Business Act (15 U.S.C. 656(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subparagraphs (A) and (B) of section 29(c)(1) of the Small Business Act (15 U.S.C. 656(c)(1)) are amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by inserting the following new subsection after subsection (e): | the bill names no machine-readable US Code section |
-| — | redesignate | Section 29(h)(1) of the Small Business Act (15 U.S.C. 656(h)(1)) is amended by striking the “and ” at the end of subparagraph (A), redesignating subparagraph (B) as subparagraph (D), and inserting the following new subparagraphs after su… | the bill names no machine-readable US Code section |
+| — | strike | by striking “and ” at the end of subparagraph (A); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting the following new subparagraphs after subparagraph (A): | the bill names no machine-readable US Code section |
 | — | amend | Section 29(h)(1) of the Small Business Act (15 U.S.C. 656(h)(1)), as amended, is further amended by adding the following at the end thereof: | the bill names no machine-readable US Code section |
+| — | amend | In section 409(a) (15 U.S.C. 7109(a)), by adding the following at the end thereof: “Such studies shall include a study on the impact of the 2008–2009 financial markets crisis on women-owned businesses, and a study of the use of the Small… | the bill names no machine-readable US Code section |
+| — | replace | In section 410(a) (15 U.S.C. 7110(a)), by striking “2001 through 2003” and insert “2010 and 2011”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
