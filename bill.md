@@ -56,7 +56,21 @@ Section 7(m)(4)(E) of the Small Business Act (15 U.S.C. 636(m)(4)(E)) is amended
 - **(1)** in clause (i) by striking “25 percent” and inserting “35 percent”; and
 - **(2)** in clause (ii) by striking “25 percent” and inserting “35 percent”.
 
-## § 7. Interest rates and loan size
+## § 7. Young Entrepreneurs program
+
+Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is amended by adding at the end the following:
+
+> - **(G)** *Young Entrepreneurs program*
+>   - **(i)** *In general* An intermediary that receives a grant under paragraph (1)(B)(ii) may establish a program for the geographic area served by such intermediary that provides to young entrepreneurs technical assistance regarding the following:
+>     - **(I)** Establishing or operating a small business concern in the geographic area served by the intermediary.
+>     - **(II)** Acquiring or securing financing to carry out the activities described in subclause (I).
+>   - **(ii)** *Young entrepreneur defined* For purposes of this subparagraph, a young entrepreneur is an individual who—
+>     - **(I)** is 25 years of age or younger; and
+>     - **(II)** has resided in the geographic area served by the intermediary for not less than 2 years.
+>   - **(iii)** *Good faith effort requirement* If a young entrepreneur who receives technical assistance under this subparagraph from an intermediary establishes or operates a small business concern, the young entrepreneur shall make a good faith effort to establish or operate such concern in the geographic area served by the intermediary.
+>   - **(iv)** *Deferred repayment* If a small business concern established or operated by a young entrepreneur receives a loan under this subsection, such concern may defer repayment on such loan for a period of not more than 6 months beginning on the date that such concern receives the final disbursement of such loan.
+
+## § 8. Interest rates and loan size
 
 Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Act, is further amended—
 
@@ -64,7 +78,7 @@ Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Ac
 - **(2)** in paragraph (6)(C)(i) by striking “$7,500” and inserting “$10,000”; and
 - **(3)** in paragraph (6)(C)(ii) by striking “$7,500” and inserting “$10,000”.
 
-## § 8. Reporting requirement
+## § 9. Reporting requirement
 
 Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Act, is further amended by adding at the end the following:
 
@@ -88,20 +102,23 @@ Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Ac
 >   - **(G)** The repayment history of each such intermediary.
 >   - **(H)** The number of businesses that achieved success after receipt of a microloan.
 
-## § 9. Surplus interest rate subsidy for businesses
+## § 10. Surplus interest rate subsidy for businesses
 
 Section 7(m) of the Small Business Act (15 U.S.C. 636(m)), as amended by this Act, is further amended by adding at the end the following:
 
-> - **(16)** *Interest assistance*
->   - **(A)** *In general* The Administrator is authorized to use amounts determined unlikely to be expended under subparagraph (B) to assist borrowers that receive a microloan under this subsection to reduce the interest paid with respect to such microloan.
->   - **(B)** *Amounts unlikely to be expended* Not later than April 1 of each fiscal year, the Administrator shall determine if any amounts made available to carry out this subsection for such fiscal year are unlikely to be expended for activities under this subsection other than activities under this paragraph.
+> - **(16)** *Interest assistance* The Administrator is authorized to make grants to intermediaries for the purposes of reducing interest rates charged to borrowers that receive financing under this subsection.
 
-## § 10. Authorization of appropriations
+## § 11. Authorization of appropriations
 
 Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended by inserting after subsection (e) the following:
 
-> - **(f)** *Fiscal years 2010 and 2011*
+> - **(f)** *Fiscal years 2010 and 2011 with respect to section 7(m)*
 >   - **(1)** *Program levels* For the programs authorized by this Act, the Administration is authorized to make during each of fiscal years 2010 and 2011—
->     - **(A)** $80,000,000 in technical assistance grants, as provided in section 7(m); and
->     - **(B)** $110,000,000 in direct loans, as provided in section 7(m).
+>     - **(A)** $80,000,000 in technical assistance grants, as provided in section 7(m);
+>     - **(B)** $110,000,000 in direct loans, as provided in section 7(m); and
+>     - **(C)** $10,000,000 in interest assistance grants, as provided in section 7(m)(16).
 >   - **(2)** *Authorization of appropriations* There is authorized to be appropriated such sums as may be necessary to carry out paragraph (1).
+
+## § 12. Regulations
+
+Except as otherwise provided in this Act or in amendments made by this Act, after an opportunity for notice and comment, but not later than 180 days after the date of the enactment of this Act, the Administrator shall issue regulations to carry out this Act and the amendments made by this Act.
