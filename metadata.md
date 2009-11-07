@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 877
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 877
@@ -16,7 +16,7 @@ Expressing support for Chinese human rights activists Huang Qi and Tan Zuoren fo
 
 - Rep. Wu, David [D-OR-1] (W000793)
 
-## Cosponsors (121)
+## Cosponsors (176)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
@@ -139,13 +139,80 @@ Expressing support for Chinese human rights activists Huang Qi and Tan Zuoren fo
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Lee, Christopher J. [R-NY-26] (L000568)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Foster, Bill [D-IL-14] (F000454)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-11-07 — [House 111-1-880](votes/house-111-1-0880.md) — On Motion to Suspend the Rules and Agree — **Passed** (426–1)
 
 ## Actions
 
 - 2009-10-29 — Introduced in House
 - 2009-10-29 — Introduced in House
 - 2009-10-29 — Referred to the House Committee on Foreign Affairs.
+- 2009-11-06 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Berman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-11-06 — Considered under suspension of the rules. (consideration: CR H12535-12540)
+- 2009-11-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 877.
+- 2009-11-06 — Mr. Berman moved to suspend the rules and agree to the resolution.
+- 2009-11-07 — Considered as unfinished business. (consideration: CR H12597-12598)
+- 2009-11-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-07 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 426 - 1 (Roll no. 880). (text: CR 11/6/2009 H12536)
+- 2009-11-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 426 - 1 (Roll no. 880).(text: CR 11/6/2009 H12536)
