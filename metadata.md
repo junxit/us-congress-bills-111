@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3618
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3618
@@ -34,3 +34,14 @@ Clean Hull Act of 2009
 - 2009-09-22 — Referred to House Science and Technology
 - 2009-09-22 — Referred to House Transportation and Infrastructure
 - 2009-09-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-23 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2009-09-23 — Referred to the Subcommittee on Energy and Environment.
+- 2009-09-24 — Committee Consideration and Mark-up Session Held.
+- 2009-09-24 — Ordered to be Reported by Voice Vote.
+- 2009-09-24 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2009-11-07 — Committee on Science and Technology discharged.
+- 2009-11-07 — Committee on Science and Technology discharged.
+- 2009-11-07 — Placed on the Union Calendar, Calendar No. 189.
+- 2009-11-07 — Reported by the Committee on Transportation. H. Rept. 111-331, Part I.
+- 2009-11-07 — Reported by the Committee on Transportation. H. Rept. 111-331, Part I.
+- 2009-11-07 — Subcommittee on Energy and Environment Discharged.
