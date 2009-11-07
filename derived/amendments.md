@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,176 amendatory instructions. 0 executed, 1,176 stated and not applied.
+1,182 amendatory instructions. 0 executed, 1,182 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -84,7 +84,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (1), by inserting “, and associated operational guidelines and instructions, as determined appropriate by the Secretary” after “medical procedure codes”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “on behalf of an individual” after “1978)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “on behalf of an individual” after “for a financial institution” and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “on behalf of an individual” after “for a financial institution”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “or is engaged” and inserting “and is engaged”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(other than as a business associate for a covered entity)” after “for a financial institution”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (23), by striking “or” at the end; | the bill names no machine-readable US Code section |
@@ -118,18 +118,18 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subsection (e) of section 3231 of such Code is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (d) of section 3221 of such Code, as redesignated by this section, is amended by striking “subsections (a) and (b), see section 3231(e)(2)” and inserting “this section, see paragraphs (2) and (13)(B) of section 3231(e)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business-related credits) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (b) of section 38 of such Code (relating to general business credit) is amended by striking “plus” at the end of paragraph (34), by striking the period at the end of paragraph (35) and inserting “, plus” , and by adding at the… | the bill names no machine-readable US Code section |
+| — | replace | Subsection (b) of section 38 of such Code (relating to general business credit) is amended by striking “plus” at the end of paragraph (34), by striking the period at the end of paragraph (35) and inserting “, plus”, and by adding at the … | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 45Q the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subparagraph (A) of section 223(d)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following: “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug o… | the bill names no machine-readable US Code section |
 | — | add-at-end | Subparagraph (A) of section 220(d)(2) of such Code is amended by adding at the end the following: “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug or is insulin.”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 106 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (i) and (j) as subsections (j) and (k), respectively, and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (i) and (j) as subsections (j) and (k), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (h) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (A) of section 223(f)(4) of the Internal Revenue Code of 1986 is amended by striking “10 percent” and inserting “20 percent”. | the bill names no machine-readable US Code section |
 | — | strike | Section 139A of the Internal Revenue Code of 1986 is amended by striking the second sentence. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (l) of section 6103 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, or any entity described in subsection (l)(21),” after “or (20)” in the matter preceding subparagraph (A), | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or any entity described in subsection (l)(21),” after “or (o)(1)(A),” in subparagraph (F)(ii), and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, or any entity described in subsection (l)(21),” after “or (20)” in the matter preceding subparagraph (A); | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or any entity described in subsection (l)(21),” after “or (o)(1)(A),” in subparagraph (F)(ii); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or any entity described in subsection (l)(21),” after “or (20),” both places it appears in the matter after subparagraph (F). | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 7213(a) of such Code is amended by striking “or (20)” and inserting “(20), or (21)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (f) of section 125 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -138,8 +138,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Gross income” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | The heading of section 139A of such Code (and the item relating to such section in the table of sections for part III of subchapter B of chapter 1 of such Code) is amended by inserting “and retiree health plans” after “prescription drug … | the bill names no machine-readable US Code section |
-| — | replace | by striking “State long-term care plan” in paragraph (1)(A) and inserting “government long-term care plan”, | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (2) as paragraph (3), and | the bill names no machine-readable US Code section |
+| — | replace | by striking “State long-term care plan” in paragraph (1)(A) and inserting “government long-term care plan”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (3) of section 7702B(f) of such Code, as redesignated by subsection (a), is amended by striking “paragraph (1)” and inserting “this subsection”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (f) of section 7702(B) of such Code is amended by striking “State-maintained” in the heading thereof and inserting “government”. | the bill names no machine-readable US Code section |
@@ -148,42 +148,42 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Part VIII of subchapter A of chapter 1 of the Internal Revenue Code of 1986, as added by this title, is amended by adding at the end the following new subpart: | the bill names no machine-readable US Code section |
 | — | insert | The table of subparts for part VIII of subchapter A of chapter 1 of such Code, as added by this title, is amended by inserting after the item relating to subpart A the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 31 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or 4061” after “under section 4051”, and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or 4061” after “under section 4051”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “In the case of the tax imposed by section 4061, subparagraphs (B), (C), (D), and (E) shall not apply.”. | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of subchapters for chapter 31 of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6041 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “amounts in consideration for property,” after “wages,”, | the bill names no machine-readable US Code section |
-| — | insert | by inserting “gross proceeds,” after “emoluments, or other”, and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “amounts in consideration for property,” after “wages,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “gross proceeds,” after “emoluments, or other”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “gross proceeds,” after “setting forth the amount of such”. | the bill names no machine-readable US Code section |
-| — | replace | Paragraphs (5)(D) and (6) of section 864(f) of the Internal Revenue Code of 1986 are each amended by striking “December 31, 2010” and inserting “December 31, 2019”. | the bill names no machine-readable US Code section |
-| — | strike | Subsection (f) of section 864 of such Code is amended by striking paragraph (7). | the bill names no machine-readable US Code section |
+| — | redesignate | Section 864 of the Internal Revenue Code of 1986 is amended by striking subsection (f) and by redesignating subsection (g) as subsection (f). | the bill names no machine-readable US Code section |
+| — | add-at-end | Subparagraph (E) of section 40(b)(6) of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 894 of the Internal Revenue Code of 1986 (relating to income affected by treaty) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 7701 of the Internal Revenue Code of 1986 is amended by redesignating subsection (o) as subsection (p) and by inserting after subsection (n) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (b) of section 6662 of such Code is amended by inserting after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6662 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 6662(h)” and inserting “subsections (h) or (i) of section 6662”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 6662(h)” and inserting “subsections (h) or (i) of section 6662”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “gross valuation misstatement penalty” in the heading and inserting “certain increased underpayment penalties”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (2)” in paragraph (4)(A), as so redesignated, and inserting “paragraph (3)”, and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2)” in paragraph (4)(A), as so redesignated, and inserting “paragraph (3)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (2)(C)” in paragraph (4), as so redesignated, and inserting “paragraph (3)(C)”, and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2)(C)” in paragraph (4), as so redesignated, and inserting “paragraph (3)(C)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 6676 of such Code is amended by redesignating subsection (c) as subsection (d) and inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively, | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (3)” in paragraph (4)(A), as so redesignated, and inserting “paragraph (4)”, and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (3)” in paragraph (4)(A), as so redesignated, and inserting “paragraph (4)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (2) of section 6662(d) of such Code is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 106 of the Internal Revenue Code of 1986 (relating to contributions by employer to accident and health plans), as amended by section 531, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | by striking “and his dependents” and inserting “his dependents”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “and his dependents” and inserting “his dependents”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period the following: “and any eligible beneficiary (within the meaning of section 106(g)) with respect to the taxpayer”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “or any of his dependents” in the matter preceding subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “or any of his dependents,” in subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or any of his dependents” in the matter preceding subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “or any of his dependents,” in subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and their dependents” both places it appears and inserting “and such employees’ dependents and eligible beneficiaries (within the meaning of section 106(g))”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “or any of his dependents” and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or any of his dependents” and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and their dependents” both places it appears and inserting “and such employees’ dependents and eligible beneficiaries (within the meaning of section 106(g))”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “or any of his dependents” in the matter preceding subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “or any of his dependents” in subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or any of his dependents” in the matter preceding subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “or any of his dependents” in subparagraph (A) and inserting “, any of his dependents, or any eligible beneficiary (within the meaning of section 106(g)) with respect to the employee”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and their dependents” both places it appears and inserting “and such employees’ dependents and eligible beneficiaries (within the meaning of section 106(g))”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3401(a) of such Code is amended by striking “or” at the end of paragraph (22), by striking the period at the end of paragraph (23) and inserting “; or”, and by inserting after paragraph (23) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 162(l) of the Internal Revenue Code of 1986 (relating to special rules for health insurance costs of self-employed individuals) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -217,9 +217,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or the physician assistant (as defined in such subsection),” after “subsection (aa)(5)),”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1814(a)(7)(A)(i)(I) of such Act (42 U.S.C. 1395f(a)(7)(A)(i)(I)) is amended by inserting “or a physician assistant” after “a nurse practitioner”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1848(n) of the Social Security Act (42 U.S.C. 1395w–4(n)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w-4(c)(2)) is amended by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1848(c)(2) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)) is amended by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | repeal | Section 4505(d) of the Balanced Budget Act of 1997 is repealed. | the bill names no machine-readable US Code section |
-| — | repeal | Section 1868(a) of the Social Security Act (42 1395ee(a)) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 1868(a) of the Social Security Act (42 U.S.C. 1395ee(a)) is repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1833 of the Social Security Act (42 U.S.C. 1395l) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1848(m)(5) of the Social Security Act (42 U.S.C. 1395w–4(m)(5)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “There shall be” and inserting “Except as provided in subparagraph (I), there shall be”; and | the bill names no machine-readable US Code section |
@@ -340,10 +340,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 1859(f)(4) of the Social Security Act (42 U.S.C. 1395w–28(f)(4)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 1859(f)(1) of the Social Security Act (42 U.S.C. 1395w–28(f)(1)) is amended by striking “January 1, 2011” and inserting “January 1, 2013 (or January 1, 2016, in the case of a plan described in section 1177(b)(1) of the Affordable… | the bill names no machine-readable US Code section |
 | — | replace | Section 164(c)(2) of the Medicare Improvements for Patients and Providers Act of 2008 is amended by striking “December 31, 2010” and inserting “December 31, 2012”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1859 of the Social Security Act (42 U.S.C. 1395w-28) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1859 of the Social Security Act (42 U.S.C. 1395w–28) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(A), by striking “paragraph (4)” and inserting “paragraphs (4) and (7)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(A), by striking “and (7)” and inserting “, (7), and (8)” ; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(A), by striking “and (7)” and inserting “, (7), and (8)”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4)(B)(i), by inserting “subject to paragraph (8)” after “purposes of this part”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (e)(1), in the matter before subparagraph (A), by inserting “and subsection (f)” after “this subsection”; and | the bill names no machine-readable US Code section |
@@ -355,7 +355,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (e)(1), in the matter before subparagraph (A), by striking “subsection (f)” and inserting “subsections (f) and (g)” after “this subsection”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)), as amended by section 172(a)(1) of Public Law 110–275, is amended by striking paragraph (5) and redesignating paragraph (6) and paragraph (7), as added by section 1… | the bill names no machine-readable US Code section |
-| — | redesignate | Section 1857(f)(3) of the Social Security Act (42 U.S.C. 1395w-27(f)(3)), as added by section 171(b) of Public Law 110–275 and amended by section 172(a)(2) of such Public Law and section 1181 of this Act, is amended by striking subparagr… | the bill names no machine-readable US Code section |
+| — | redesignate | Section 1857(f)(3) of the Social Security Act (42 U.S.C. 1395w–27(f)(3)), as added by section 171(b) of Public Law 110–275 and amended by section 172(a)(2) of such Public Law and section 1181 of this Act, is amended by striking subparagr… | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking “such costs shall be treated as incurred only if” and inserting “and subject to clause (iii), such costs shall be treated as incurred only if”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “, under section 1860D–14, or under a State Pharmaceutical Assistance Program”; and | the bill names no machine-readable US Code section |
@@ -420,7 +420,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding “and” at the end of subparagraph (EE); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Section 1848(j)(3) of such Act (42 U.S.C. 1395w-4(j)(3)) is amended by inserting “(2)(FF),” after “(2)(EE),”. | the bill names no machine-readable US Code section |
+| — | insert | Section 1848(j)(3) of such Act (42 U.S.C. 1395w–4(j)(3)) is amended by inserting “(2)(FF),” after “(2)(EE),”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (N), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (O) by striking the semicolon at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -541,10 +541,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 1808 of the Social Security Act (42 U.S.C. 1395b–9) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1886(b)(3)(B) of such Act (42 U.S.C. 1395ww(b)(3)(B)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1833(t)(17) of such Act (42 U.S.C. 1395l(t)(17)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1848(k)(2)(C)(ii) of such Act (42 U.S.C. 1395w-4(k)(2)(C)(ii)) is amended by adding at the end the following: “The Secretary shall submit such a non-endorsed measure to the entity for consideration for endorsement. If the entity … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1848(k)(2)(C)(ii) of such Act (42 U.S.C. 1395w–4(k)(2)(C)(ii)) is amended by adding at the end the following: “The Secretary shall submit such a non-endorsed measure to the entity for consideration for endorsement. If the entity … | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1881(h)(2)(B)(ii) of such Act (42 U.S.C. 1395rr(h)(2)(B)(ii)) is amended by adding at the end the following: “The Secretary shall submit such a non-endorsed measure to the entity for consideration for endorsement. If the entity c… | the bill names no machine-readable US Code section |
 | — | amend | Section 1890(b)(2) of the Social Security Act (42 U.S.C. 1395aaa(b)(2)) is amended by adding after and below subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 1890(d) of the Social Security Act (42 U.S.C. 1395aaa(d)) is amended by striking “for each of fiscal years 2009 through 2012” and inserting “for fiscal year 2009, and $12,000,000 for each of the fiscal years 2010 through 2012” | the bill names no machine-readable US Code section |
+| — | replace | Section 1890(d) of the Social Security Act (42 U.S.C. 1395aaa(d)) is amended by striking “for each of fiscal years 2009 through 2012” and inserting “for fiscal year 2009, and $12,000,000 for each of the fiscal years 2010 through 2012”. | the bill names no machine-readable US Code section |
 | — | insert | Part A of title XI of the Social Security Act (42 U.S.C. 1301 et seq.), as amended by section 1631(a), is further amended by inserting after section 1128G the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Title XI of the Social Security Act is amended by inserting after section 1138 the following section: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4)(F)(i), by striking “paragraph (7)” and inserting “paragraphs (7) and (8)”; | the bill names no machine-readable US Code section |
@@ -597,7 +597,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or” at the end of paragraph (10); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (10) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in the matter following paragraph (11), as inserted by paragraph (2), by striking “$15,000 for each day of the failure described in such paragraph” and inserting “$15,000 for each day of the failure described in such paragraph, or in cas… | the bill names no machine-readable US Code section |
-| — | insert | Section 1857(g)(2)(A) of the Social Security Act (42 U.S.C. 1395w—27(g)(2)(A)) is amended by inserting “except with respect to a determination under subparagraph (E), an assessment of not more than 3 times the amount claimed by such plan… | the bill names no machine-readable US Code section |
+| — | insert | Section 1857(g)(2)(A) of the Social Security Act (42 U.S.C. 1395w–27(g)(2)(A)) is amended by inserting “except with respect to a determination under subparagraph (E), an assessment of not more than 3 times the amount claimed by such plan… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (G), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (H) the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new sentence: “The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent … | the bill names no machine-readable US Code section |
@@ -620,7 +620,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or subsection (b) of such section (relating to disclosure requirements)” before “, and that the State”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period the following: “and apply any enhanced safeguards, with respect to a provider or supplier described in such subsection (b), as the Secretary determines necessary under such subsection (b)”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking at the end “and”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) by striking the period at the end and inserting “; and”’ and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by section 4101 of the HITECH Act (Public Law 111–5), is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking at the end “and”; | the bill names no machine-readable US Code section |
@@ -635,7 +635,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1834(a)(11)(B) of the Social Security Act (42 U.S.C. 1395m(a)(11)(B)) is amended by striking “physician” and inserting “physician enrolled under section 1866(j) or other professional, as determined by the Secretary”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1814(a)(2) of such Act (42 U.S.C. 1395(a)(2)) is amended in the matter preceding subparagraph (A) by inserting “in the case of services described in subparagraph (C), a physician enrolled under section 1866(j) or other profession… | the bill names no machine-readable US Code section |
 | — | insert | Section 1835(a)(2) of such Act (42 U.S.C. 1395n(a)(2)) is amended in the matter preceding subparagraph (A) by inserting “, or in the case of services described in subparagraph (A), a physician enrolled under section 1866(j) or other prof… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1842(h) of the Social Security Act is further amended by adding at the end the following new paragraph | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1842(h) of the Social Security Act is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (U), by striking at the end “and”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (V), by striking the period at the end and adding “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -645,7 +645,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” before “(iii)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “care of a physician” the following: “, and (iv) in the case of a certification or recertification after January 1, 2010, prior to making such certification the physician must document that the physician has had a face… | the bill names no machine-readable US Code section |
 | — | amend | Section 1834(a)(11)(B) of the Social Security Act (42 U.S.C. 1395m(a)(11)(B)) is amended by adding before the period at the end the following: “and shall require that any written order required for payment under this subsection be writte… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1128(f) of the Social Security Act (42 U.S.C. 1320a-7(f)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1128(f) of the Social Security Act (42 U.S.C. 1320a–7(f)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1128G of the Social Security Act, as inserted by section 1631 and amended by section 1632, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 1128(c)(3)(B) of the Social Security Act (42 U.S.C. 1320a–7(c)(3)(B)) is amended by striking “individuals entitled to benefits under part A of title XVIII or enrolled under part B of such title, or both” and inserting “beneficiar… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1881(b) of the Social Security Act (42 U.S.C. 1395rr(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -682,6 +682,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | in subparagraph (C), by adding at the end “and”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking at the end “, and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (E). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1804 of the Social Security Act (42 U.S.C. 1395b–2) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (2), by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (4). | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subclause (VI); | the bill names no machine-readable US Code section |
 | — | amend | by adding “or” at the end of subclause (VII); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
@@ -696,7 +700,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding “or” at the end of clause (xv); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (xv) the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subclause (VII); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclauses: | the bill names no machine-readable US Code section |
 | — | insert | Section 1905(y) of such Act (42 U.S.C. 1396d(y)), as added by subsection (a)(2)(B), is amended by inserting “or (IX)” after “(VIII)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1905(b)(4) of such Act is amended by inserting “1902(a)(10)(A)(i)(X), 1902(a)(10)(A)(i)(XI), or” after “on the basis of section”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1903(f)(4) of the Social Security Act (42 U.S.C. 1396b(f)(4)), as amended by subsection (a)(4), is amended by inserting “1902(a)(10)(A)(i)(IX), 1902(a)(10)(A)(i)(X), 1902(a)(10)(A)(i)(XI),” after “1902(a)(10)(A)(i)(VIII),”. | the bill names no machine-readable US Code section |
@@ -718,7 +722,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (7) as paragraph (8); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | The second sentence of section 1923(b)(4) of such Act (42 U.S.C. 1396r–4(b)(4)) is amended by inserting before the period the following: “or to affect the authority of the Secretary to issue and implement the DSH Health Reform methodolog… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1923(d) of the Social Security Act (42 U.S.C. 1396r-4) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1923(d) of the Social Security Act (42 U.S.C. 1396r–4) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 1902(a)(55) of the Social Security Act (42 U.S.C. 1396a(a)(55)) is amended by striking “under subsection (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10)(A)(i)(VII), or (a)(10)(A)(ii)(IX)” and inserting “(including receipt and proce… | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” before “(C)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the semicolon at the end the following: “; and (D) preventive services described in subsection (z)”; and | the bill names no machine-readable US Code section |
@@ -762,7 +766,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (28) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (l), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “or a rural health clinic” and inserting “, a rural health clinic”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or a public health clinic,” after `“1905(l)(1)),”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or a public health clinic,” after “1905(l)(1)),”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1905(a)(5)(A) of the Social Security Act (42 U.S.C. 1396d(a)(5)(A)) is amended by striking “section 1861(r)(1)” and inserting “paragraphs (1) and (3) of section 1861(r)”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” before “(B)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the semicolon at the end the following: “, and (C) medical and other health services (as defined in section 1861(s)) as authorized by State law, furnished by an optometrist (described in section 1861(r)(4)) to the ext… | the bill names no machine-readable US Code section |
@@ -1102,6 +1106,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Part P of title III (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Part D of title III (42 U.S.C. 254b et seq.), as amended, is further amended by inserting after subpart XII the following new subpart: | the bill names no machine-readable US Code section |
 | — | insert | Part Q of title III (42 U.S.C. 280h et seq.) is amended by inserting after section 399W the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part D of title V (42 U.S.C. 290dd et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1241 (42 U.S.C. 300d–41) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1242 (42 U.S.C. 300d–42) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1243 (42 U.S.C. 300d–43) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -1157,6 +1162,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by adding at the end of section 928 (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VII of the Social Security Act (42 U.S.C. 901 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter IX of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 391 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1707(a) (42 U.S.C. 300u–6(a)) is amended by striking “within the Office of Public Health and Science” and inserting “within the Office of the Secretary”. | the bill names no machine-readable US Code section |
+| — | insert | Title XVII (42 U.S.C. 300u et seq.) is amended by inserting after section 1707 the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 202(b)(1) of the Older Americans Act of 1965 (42 U.S.C. 3012(b)(1)) is amended by inserting before the semicolon the following: “, and, in carrying out the purposes of this paragraph, shall make recommendations to other Federal e… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 202 of such Act (42 U.S.C. 3012) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 303(e)(2) of the Older Americans Act of 1965 (42 U.S.C. 3023(e)(2)) is amended by striking “, $173,000,000” and all that follows through “2011”, and inserting “and $250,000,000 for each of fiscal years 2011, 2012, and 2013”. | the bill names no machine-readable US Code section |
@@ -1182,7 +1189,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1452(i) of the Safe Drinking Water Act (42 U.S.C. 300j–12(i)) is amended by striking “Director of the Indian Health Service” each place it appears and inserting “Assistant Secretary for Indian Health”. | the bill names no machine-readable US Code section |
 | — | replace | Section 803B(d)(1) of the Native American Programs Act of 1974 (42 U.S.C. 2991b–2(d)(1)) is amended in the last sentence by striking “Director of the Indian Health Service” and inserting “Assistant Secretary for Indian Health”. | the bill names no machine-readable US Code section |
 | — | replace | Section 203(b) of the Michigan Indian Land Claims Settlement Act (Public Law 105–143; 111 Stat. 2666) is amended by striking “Director of the Indian Health Service” and inserting “Assistant Secretary for Indian Health”. | the bill names no machine-readable US Code section |
-| — | add-at-end | The Act of December 17, 1970 (84 Stat. 1465), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating title V (25 U.S.C. 458bbb et seq.) as title VII; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 501, 502, and 503 (25 U.S.C. 458bbb, 458bbb–1, 458bbb–2) as sections 701, 702, and 703, respectively; and | the bill names no machine-readable US Code section |
