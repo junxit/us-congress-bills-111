@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3788
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3788
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 3900 Da
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To designate the facility of the United States Postal Service located at 3900 Da
 - 2009-11-06 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 867). (text: CR 11/5/2009 H12394)
 - 2009-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 867).(text: CR 11/5/2009 H12394)
+- 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
