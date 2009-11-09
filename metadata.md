@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 210
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 210
@@ -28,3 +28,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2009-11-06 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-06 — On agreeing to the resolution Agreed to by the Yeas and Nays: 235 - 179 (Roll no. 865). (text: CR H12493-12494)
 - 2009-11-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 235 - 179 (Roll no. 865).(text: CR H12493-12494)
+- 2009-11-09 — Message on Senate action sent to the House.
+- 2009-11-09 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S11268; text as passed Senate: CR S11268)
+- 2009-11-09 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S11268; text as passed Senate: CR S11268)
