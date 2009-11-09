@@ -30,4 +30,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >     - **(B)** An extension under subparagraph (A) may not exceed 4 years.
     >     - **(C)** The Administrator may exercise more than 1 extension under subparagraph (A) with respect to any test program.
 
-- **(b)** *Effective date* This section shall take effect on October 31, 2009.
+- **(b)** *Effective date* This section shall take effect on December 18, 2009.
