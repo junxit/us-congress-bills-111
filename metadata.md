@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2868
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2868
@@ -27,11 +27,12 @@ Continuing Chemical Facilities Antiterrorism Security Act of 2010
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (7)
 
@@ -176,3 +177,4 @@ Continuing Chemical Facilities Antiterrorism Security Act of 2010
 - 2009-11-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12534)
 - 2009-11-06 — The title of the measure was amended. Agreed to without objection.
 - 2009-11-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
