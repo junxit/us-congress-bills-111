@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3737
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1)(B)(i) by striking “short-term,”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6)(A) by striking “short-term,”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (11)(B) by striking “short-term,”. | the bill names no machine-readable US Code section |
@@ -39,7 +39,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$750,000” and inserting “$1,000,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$3,500,000” and inserting “$7,000,000”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “The Administrator may treat the amount of $7,000,000 in this subparagraph as if such amount is $10,000,000 if the Administrator determines, with respect to an intermediary, that such treatment is appr… | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: “The Administrator may treat the amount of $7,000,000 in this subparagraph as if such amount is $10,000,000 if the Administrator determines, with respect to an intermediary, that such treatment is appr… | the bill names no machine-readable US Code section |
 | — | replace | in clause (i) by striking “25 percent” and inserting “35 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) by striking “25 percent” and inserting “35 percent”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7(m)(4) of the Small Business Act (15 U.S.C. 636(m)(4)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
