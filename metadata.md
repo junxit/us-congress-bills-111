@@ -1,7 +1,7 @@
 ---
 measure: S. 1825
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1825
@@ -41,3 +41,18 @@ A bill to extend the authority for relocation expenses test programs for Federal
 - 2009-11-09 — Senate amendment agreed to: Amendment SA 2768 agreed to in Senate by Unanimous Consent.
 - 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2768 proposed by Senator Reid for Senator Lieberman.
 - 2009-11-09 — Senate amendment submitted
+- 2009-11-10 — Message on Senate action sent to the House.
+- 2009-11-16 — Cleared for White House.
+- 2009-11-16 — Considered under suspension of the rules. (consideration: CR H12975-12976)
+- 2009-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 1825.
+- 2009-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-16 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12975)
+- 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12975)
+- 2009-11-16 — Received in the House.
+- 2009-11-19 — Presented to President.
+- 2009-11-19 — Presented to President.
+- 2009-11-30 — Became Public Law No: 111-112.
+- 2009-11-30 — Became Public Law No: 111-112.
+- 2009-11-30 — Signed by President.
+- 2009-11-30 — Signed by President.
