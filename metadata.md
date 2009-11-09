@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1838
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1838
@@ -21,9 +21,10 @@ To amend the Small Business Act to modify certain provisions relating to women's
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To amend the Small Business Act to modify certain provisions relating to women's
 - 2009-11-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 428 - 4 (Roll no. 877). (text: CR 11/6/2009 H12469-12470)
 - 2009-11-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 428 - 4 (Roll no. 877).(text: CR 11/6/2009 H12469-12470)
+- 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
