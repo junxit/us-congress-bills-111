@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3743
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3743
@@ -16,9 +16,10 @@ Small Business Disaster Readiness and Reform Act of 2009
 
 - Rep. Griffith, Parker [D-AL-5] (G000557)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Small Business Disaster Readiness and Reform Act of 2009
 - 2009-11-06 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12471-12472)
 - 2009-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12471-12472)
+- 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
