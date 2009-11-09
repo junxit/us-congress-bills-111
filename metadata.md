@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 209
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 209
@@ -16,9 +16,10 @@ Recognizing the 30th anniversary of the Iranian hostage crisis, during which 52 
 
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ Recognizing the 30th anniversary of the Iranian hostage crisis, during which 52 
 - 2009-11-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-11-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 11/6/2009 H12546-12547)
 - 2009-11-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 11/6/2009 H12546-12547)
+- 2009-11-09 — Received in the Senate and referred to the Committee on Foreign Relations.
