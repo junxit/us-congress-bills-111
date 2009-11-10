@@ -1,7 +1,7 @@
 ---
 measure: S. 1422
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 

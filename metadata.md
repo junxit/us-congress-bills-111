@@ -1,7 +1,7 @@
 ---
 measure: S. 1422
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1422
@@ -61,3 +61,19 @@ Airline Flight Crew Technical Corrections Act
 - 2009-11-10 — Senate amendment agreed to: Amendment SA 2780 agreed to in Senate by Unanimous Consent.
 - 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2780 proposed by Senator Reid for Senator Murray.(consideration: CR S11353; text: CR S11353)
 - 2009-11-10 — Senate amendment submitted
+- 2009-11-16 — Held at the desk.
+- 2009-11-16 — Message on Senate action sent to the House.
+- 2009-11-16 — Received in the House.
+- 2009-12-02 — Cleared for White House.
+- 2009-12-02 — Considered under suspension of the rules. (consideration: CR H13398-13399)
+- 2009-12-02 — DEBATE - The House proceeded with forty minutes of debate on S. 1422.
+- 2009-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-02 — Mr. Bishop (NY) moved to suspend the rules and pass the bill.
+- 2009-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13398)
+- 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13398)
+- 2009-12-09 — Presented to President.
+- 2009-12-09 — Presented to President.
+- 2009-12-21 — Became Public Law No: 111-119.
+- 2009-12-21 — Became Public Law No: 111-119.
+- 2009-12-21 — Signed by President.
+- 2009-12-21 — Signed by President.
