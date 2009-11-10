@@ -1,7 +1,7 @@
 ---
 measure: S. 1422
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 101(2) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 102(a) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 101(2) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 102(a) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
