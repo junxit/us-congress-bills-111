@@ -1,7 +1,7 @@
 ---
 measure: S. 806
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 806
@@ -22,9 +22,10 @@ Federal Executive Board Authorization Act of 2009
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Federal Executive Board Authorization Act of 2009
 - 2009-11-05 — Senate amendment proposed (on the floor): Amendment SA 2736 proposed by Senator Casey for Senator Akaka.(consideration: CR S11234-11235; text: CR S11234-11235)
 - 2009-11-05 — Senate amendment submitted
 - 2009-11-05 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S11234)
+- 2009-11-09 — Message on Senate action sent to the House.
+- 2009-11-16 — Received in the House.
+- 2009-11-16 — Referred to the House Committee on Oversight and Government Reform.
