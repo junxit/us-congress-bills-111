@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3962
@@ -88,3 +88,5 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 - 2009-11-07 — Rules Committee Resolution H. Res. 903 Reported to House. Rule provides for consideration of H.R. 3962 and H.R. 3961 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-11-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12967)
 - 2009-11-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-11-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-11-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
