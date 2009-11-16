@@ -1,7 +1,7 @@
 ---
 measure: H.R. 86
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 86
@@ -16,6 +16,10 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 
 - Rep. Campbell, John [R-CA-48] (C001064)
 
+## Cosponsors (1)
+
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Introduced in House
 - 2009-01-06 — Referred to the House Committee on Natural Resources.
+- 2009-02-04 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-10-01 — Subcommittee Hearings Held.
+- 2009-10-28 — Committee Consideration and Mark-up Session Held.
+- 2009-10-28 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-10-28 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2009-11-16 — Placed on the Union Calendar, Calendar No. 192.
+- 2009-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-334.
+- 2009-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-334.
