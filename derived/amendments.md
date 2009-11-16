@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2888
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by inserting a new paragraphs: | the bill names no machine-readable US Code section |
+| — | insert | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by inserting the following paragraphs: | the bill names no machine-readable US Code section |

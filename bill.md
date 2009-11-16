@@ -15,16 +15,15 @@ This Act may be cited as the “Devil’s Staircase Wilderness Act of 2009”.
 
 ## § 2. Designation of wilderness area, Devil's Staircase Wilderness, Oregon
 
-- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), the Federal land in the State of Oregon administered by the Forest Service and the Bureau of Land Management, comprising approximately 29,650 acres, as generally depicted on the map titled “Devil's Staircase Proposed Wilderness Area”, dated June 9, 2009, are designated as a wilderness area for inclusion in the National Wilderness Preservation System and to be known as the “Devil's Staircase Wilderness”.
+- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), the Federal land in the State of Oregon administered by the Forest Service and the Bureau of Land Management, comprising approximately 30,520 acres, as generally depicted on the map titled “Devil's Staircase Wilderness Proposal”, dated October 26, 2009, are designated as a wilderness area for inclusion in the National Wilderness Preservation System and to be known as the “Devil's Staircase Wilderness”.
 - **(b)** *Map and Legal Description* As soon as practicable after the date of the enactment of this Act, the Secretary shall file with the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and legal description of wilderness area designated by subsection (a). The map and legal description shall have the same force and effect as if included in this Act, except that the Secretary may correct clerical and typographical errors in the map and description. In the case of any discrepancy between the acreage specified in subsection (a) and the map, the map shall control. The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service.
-- **(c)** *Management* Subject to valid existing rights, the Secretary shall manage the wilderness area designated by subsection (a) as wilderness.
 
 ## § 3. Administration
 
-The Devil's Staircase Wilderness Area shall be administered by the Secretaries of Agriculture and the Interior—
-
-- **(1)** so as to maintain and restore the wilderness character and for inclusion in the National Wilderness Preservation System; and
-- **(2)** in accordance with the Wilderness Act and the Oregon Wilderness Act of 1984, except that, with respect to the wilderness area, any reference in the Wilderness Act to the effective date of that Act shall be deemed to be a reference to the date of the enactment of this Act.
+- **(a)** *In general* Subject to valid existing rights, the Devil's Staircase Wilderness Area shall be administered by the Secretaries of Agriculture and the Interior, in accordance with the Wilderness Act and the Oregon Wilderness Act of 1984, except that, with respect to the wilderness area, any reference in the Wilderness Act to the effective date of that Act shall be deemed to be a reference to the date of the enactment of this Act.
+- **(b)** *Forest service roads* As provided in section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), the Secretary of Agriculture shall—
+  - **(1)** decommission any National Forest System road within the wilderness boundaries; and
+  - **(2)** convert Forest Service Road 4100 within the wilderness boundary to a trail for primitive recreational use.
 
 ## § 4. Incorporation of Acquired Land and Interests
 
@@ -59,12 +58,9 @@ Nothing in this Act shall be construed to diminish—
 
 ## § 9. Wild and scenic river designations, Wasson Creek and Franklin Creek, Oregon
 
-Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by inserting a new paragraphs:
+Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by inserting the following paragraphs:
 
-> - **(__)** *Franklin Creek, Oregon*
->   - **(A)** The 4.5-mile segment from the headwaters to the private land boundary in section 8 to be administered by the Secretary of Agriculture as a wild river.
->   - **(B)** Notwithstanding section 3(b), the lateral boundaries of the wild river area along Franklin Creek shall include an average of not more than 640 acres per mile measured from the ordinary high water mark on both sides of the river.
+> - **(__)** *Franklin Creek, Oregon* The 4.5-mile segment from the headwaters to the private land boundary in section 8 to be administered by the Secretary of Agriculture as a wild river.
 > - **(__)** *Wasson Creek, Oregon*
 >   - **(A)** The 4.2-mile segment from the eastern edge of section 17 downstream to the boundary of sections 11 and 12 to be administered by the Secretary of Interior as a wild river.
 >   - **(B)** The 5.9-mile segment downstream from the boundary of sections 11 and 12 to the private land boundary in section 22 to be administered by the Secretary of Agriculture as a wild river.
->   - **(C)** Notwithstanding section 3(b), the lateral boundaries of the wild river area along Wasson Creek shall include an average of not more than 640 acres per mile measured from the ordinary high water mark on both sides of the river.
