@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1506
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1506
@@ -29,3 +29,11 @@ To provide that claims of the United States to certain documents relating to Fra
 - 2009-03-12 — Introduced in House
 - 2009-03-12 — Introduced in House
 - 2009-03-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-10-29 — Committee Consideration and Mark-up Session Held.
+- 2009-10-29 — Ordered to be Reported by Voice Vote.
+- 2009-11-16 — Considered under suspension of the rules. (consideration: CR H12977-12978)
+- 2009-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1506.
+- 2009-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-16 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12977)
+- 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12977)
