@@ -1,7 +1,7 @@
 ---
 measure: H.R. 118
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | The Act entitled “An Act to authorize the addition of lands to Morristown National Historical Park in the State of New Jersey, and for other purposes”, approved September 18, 1964 (16 U.S.C. 409g), is amended by striking “615” each place… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, from a willing owner only,” after “the Secretary of the Interior is authorized to procure”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “615” each place it appears and inserting “715”. | the bill names no machine-readable US Code section |
