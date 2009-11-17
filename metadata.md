@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3539
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 427 Har
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 427 Har
 - 2009-11-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 890). (text: CR H12976)
 - 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 890).(text: CR H12976)
+- 2009-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
