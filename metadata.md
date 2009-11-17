@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3082
@@ -16,14 +16,84 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
+## Cosponsors (62)
+
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (7)
 
 - 2009-07-10 — [House 111-1-528](votes/house-111-1-0528.md) — On Agreeing to the Amendment — **Failed** (62–358)
 - 2009-07-10 — [House 111-1-529](votes/house-111-1-0529.md) — On Passage — **Passed** (415–3)
+- 2009-11-16 — [Senate 111-1-344](votes/senate-111-1-0344.md) — On the Amendment — **Amendment Agreed to** (93–0)
+- 2009-11-16 — [Senate 111-1-345](votes/senate-111-1-0345.md) — On the Motion — **Motion Rejected** (24–69)
+- 2009-11-17 — [Senate 111-1-346](votes/senate-111-1-0346.md) — On the Amendment — **Amendment Agreed to** (98–1)
+- 2009-11-17 — [Senate 111-1-347](votes/senate-111-1-0347.md) — On the Motion to Table — **Motion to Table Agreed to** (57–43)
+- 2009-11-17 — [Senate 111-1-348](votes/senate-111-1-0348.md) — On Passage of the Bill — **Bill Passed** (100–0)
 
 ## Actions
 
@@ -97,3 +167,214 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2009-07-10 — The previous question was ordered pursuant to the rule. (consideration: CR H7991)
 - 2009-07-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
+- 2009-11-05 — Amendment SA 2730 proposed by Senator Johnson. (consideration: CR S11187-11190) In the nature of a substitute.
+- 2009-11-05 — Amendment SA 2732 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Amendment SA 2732 proposed by Senator Johnson to Amendment SA 2730. (consideration: CR S11191; text: CR S11191) To make a technical amendment regarding the designation of funds.
+- 2009-11-05 — Measure laid before Senate by unanimous consent. (consideration: CR S11187-11191)
+- 2009-11-05 — Senate amendment agreed to: Amendment SA 2732 agreed to in Senate by Unanimous Consent.
+- 2009-11-05 — Senate amendment proposed (on the floor): Amendment SA 2730 proposed by Senator Johnson.(consideration: CR S11187-11190)
+- 2009-11-05 — Senate amendment proposed (on the floor): Amendment SA 2732 proposed by Senator Johnson to Amendment SA 2730.(consideration: CR S11191; text: CR S11191)
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-05 — Senate amendment submitted
+- 2009-11-06 — Amendment SA 2737 proposed by Senator Udall NM to Amendment SA 2730. (consideration: CR S11240-11241; text: CR S11240) To make available from Medical Services, $150,000,000 for homeless veterans comprehensive service programs.
+- 2009-11-06 — Considered by Senate. (consideration: CR S11239)
+- 2009-11-06 — Considered by Senate. (consideration: CR S11239-11245)
+- 2009-11-06 — Senate amendment proposed (on the floor): Amendment SA 2737 proposed by Senator Udall NM to Amendment SA 2730.(consideration: CR S11240-11241; text: CR S11240)
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-06 — Senate amendment submitted
+- 2009-11-09 — Amendment SA 2733 proposed by Senator Johnson to Amendment SA 2730. (consideration: CR S11267; text: CR S11267) To increase by $50,000,000 the amount available for the Department of Veterans Affairs for minor construction projects for the purpose of converting unused Department of Veterans Affairs structures into housing with supportive services for homeless veterans, and to provide an offset.
+- 2009-11-09 — Amendment SA 2745 proposed by Senator Franken to Amendment SA 2730. (consideration: CR S11267-11268; text: CR S11268) To ensure that $5,000,000 is available for a study to assess the feasibility and advisability of using service dogs for the treatment or rehabilitation of veterans with physical or mental injuries or disabilities.
+- 2009-11-09 — Amendment SA 2754 proposed by Senator Inouye to Amendment SA 2730. (consideration: CR S11269-11270; text: CR S11270) To permit $68,500,000, as requested by the Missile Defense Agency of the Department of Defense, to be used for the construction of a test facility to support the Phased Adaptive Approach for missile defense in Europe, with an offset.
+- 2009-11-09 — Amendment SA 2757 proposed by Senator Coburn to Amendment SA 2730. (consideration: CR S11270; text: CR S11270) To require public disclosure of certain reports.
+- 2009-11-09 — Amendment SA 2759 proposed by Senator Durbin to Amendment SA 2730. (consideration: CR S11273; text: CR S11273) To enhance the ability of the Department of Veterans Affairs to recruit and retain health care administrators and providers in underserved rural areas.
+- 2009-11-09 — Amendment SA 2760 proposed by Senator Durbin to Amendment SA 2730. (consideration: CR S11273; text: CR S11273) To designate the North Chicago Veterans Affairs Medical Center, Illinois, as the "Captain James A. Lovell Federal Health Care Center".
+- 2009-11-09 — Considered by Senate. (consideration: CR S11265)
+- 2009-11-09 — Considered by Senate. (consideration: CR S11265)
+- 2009-11-09 — Considered by Senate. (consideration: CR S11265-11268, S11268-11273, S11283-284)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2733 proposed by Senator Johnson to Amendment SA 2730.(consideration: CR S11267; text: CR S11267)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2745 proposed by Senator Franken to Amendment SA 2730.(consideration: CR S11267-11268; text: CR S11268)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2754 proposed by Senator Inouye to Amendment SA 2730.(consideration: CR S11269-11270; text: CR S11270)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2757 proposed by Senator Coburn to Amendment SA 2730.(consideration: CR S11270; text: CR S11270)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2759 proposed by Senator Durbin to Amendment SA 2730.(consideration: CR S11273; text: CR S11273)
+- 2009-11-09 — Senate amendment proposed (on the floor): Amendment SA 2760 proposed by Senator Durbin to Amendment SA 2730.(consideration: CR S11273; text: CR S11273)
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-09 — Senate amendment submitted
+- 2009-11-10 — Amendment SA 2740 proposed by Senator Akaka to Amendment SA 2730. (consideration: CR S11320; text: CR S11320) To extend the authority for a regional office of the Department of Veterans Affairs in the Republic of the Philippines.
+- 2009-11-10 — Amendment SA 2741 proposed by Senator Menendez to Amendment SA 2730. (consideration: CR S11330-11334; text: CR S11331) To provide, with an offset, an additional $4,000,000 for grants to assist States in establishing, expanding, or improving State veterans cemeteries.
+- 2009-11-10 — Amendment SA 2752 proposed by Senator Johanns to Amendment SA 2730. (consideration: CR S11313; text: CR S11313) Prohibiting the use of funds to fund the Association of Community Organizations for Reform Now (ACORN).
+- 2009-11-10 — Amendment SA 2774 proposed by Senator DeMint for Senator Inhofe to Amendment SA 2730. (consideration: CR S11334; text: CR S11334) To prohibit the use of funds appropriated or otherwise made available by this Act to construct or modify a facility in the United States or its territories to permanently or temporarily hold any individual held at Guantanamo Bay, Cuba.
+- 2009-11-10 — Amendment SA 2779 proposed by Senator DeMint to Amendment SA 2730. (consideration: CR S11334; text: CR S11334) To prohibit the use of funds for the transfer or detention in the United States of detainees at Naval Station Guantanamo Bay, Cuba, if certain veterans programs for fiscal year 2010 are not fully funded.
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313)
+- 2009-11-10 — Considered by Senate. (consideration: CR S11313-11320, S11320-11334, S11334)
+- 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2740 proposed by Senator Akaka to Amendment SA 2730.(consideration: CR S11320; text: CR S11320)
+- 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2741 proposed by Senator Menendez to Amendment SA 2730.(consideration: CR S11330-11334; text: CR S11331)
+- 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2752 proposed by Senator Johanns to Amendment SA 2730.(consideration: CR S11313; text: CR S11313)
+- 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2774 proposed by Senator DeMint for Senator Inhofe to Amendment SA 2730.(consideration: CR S11334; text: CR S11334)
+- 2009-11-10 — Senate amendment proposed (on the floor): Amendment SA 2779 proposed by Senator DeMint to Amendment SA 2730.(consideration: CR S11334; text: CR S11334)
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-10 — Senate amendment submitted
+- 2009-11-16 — Amendment SA 2734 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2734 proposed by Senator Johnson to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11377-11378) To require a report on bid savings realized from cost and scope variations for military construction projects.
+- 2009-11-16 — Amendment SA 2737 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2738 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2738 proposed by Senator Johnson for Senator Warner. (consideration: CR S11377-11378; text: CR S11378) To provide for a study on transportation improvements to accommodate installation growth associated with the 2005 Defense Base Closure and Realignment (BRAC) program.
+- 2009-11-16 — Amendment SA 2740 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2741 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2743 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2743 proposed by Senator Johnson for Senator Burr to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11378) To provide, with an offset, an additional $750,000 for homeless veterans comprehensive service programs and housing assistance and supportive services.
+- 2009-11-16 — Amendment SA 2745 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2746 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2746 proposed by Senator Feingold to Amendment SA 2730. (consideration: CR S11362-11364, S11377-11378; text: CR S11364) To require reporting on alternatives to major construction projects related to the security of strategic nuclear weapons facilities.
+- 2009-11-16 — Amendment SA 2747 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S11377)
+- 2009-11-16 — Amendment SA 2747 proposed by Senator Johnson for Senator Feingold to Amendment SA 2730. (consideration: CR S11377-11378) To make available $5,000,000 to improve outreach and provision of services for mental health and neurological conditions to veterans enrolled in programs of education at institutions of higher education.
+- 2009-11-16 — Amendment SA 2748 proposed by Senator Feingold to Amendment SA 2730. (consideration: CR S11364-11369; text: CR S11364) To make available $5,000,000 for grants to community-based organizations and State and local government entities to conduct outreach to veterans in under-served areas.
+- 2009-11-16 — Amendment SA 2749 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2749 proposed by Senator Johnson for Senator Bingaman to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11378) To provide $37,500,000 requested by the Air Force for construction of an Unmanned Aerial System Field Training Complex at Holloman Air Force Base, New Mexico, as authorized by section 2301(a) of the Military Construction Authorization Act for Fiscal Year 2010 (division B of Public Law 111-84), and to provide an offset.
+- 2009-11-16 — Amendment SA 2751 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2751 proposed by Senator Johnson for Senator Cochran to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11378) To make a technical correction for the Air Force at Columbus AFB, Mississippi.
+- 2009-11-16 — Amendment SA 2752 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2753 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2753 proposed by Senator Johnson to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11378) To make a technical correction requested by the Army in the funding of dining projects at forwarding operating bases in Afghanistan.
+- 2009-11-16 — Amendment SA 2757 agreed to in Senate by Yea-Nay Vote. 93 - 0. Record Vote Number: 344.
+- 2009-11-16 — Amendment SA 2759 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2760 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2771 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S11377)
+- 2009-11-16 — Amendment SA 2771 proposed by Senator Johnson for Senator Ensign to Amendment SA 2730. (consideration: CR S11377-11378) To enable State homes to furnish nursing home care to parents any of whose children died while serving in the Armed Forces.
+- 2009-11-16 — Amendment SA 2773 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Amendment SA 2773 proposed by Senator Johnson for Senator McConnell to Amendment SA 2730. (consideration: CR S11377-11378; text: CR S11378) To designate the Department of Veterans Affairs Medical Center in Louisville, Kentucky, as the "Robley Rex Department of Veterans Affairs Medical Center".
+- 2009-11-16 — Amendment SA 2781 proposed by Senator Johnson for Senator Durbin to Amendment SA 2779. (consideration: CR S11362-11363; text: CR S11362) To change the enactment date.
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11369-11371)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378; text as modified: CR S11377)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378; text as modified: CR S11377)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362, S11377-11378; text as modified: CR S11377)
+- 2009-11-16 — Considered by Senate. (consideration: CR S11362-11376, S11377-11378)
+- 2009-11-16 — Motion by Senator Coburn to commit to Senate Committee on Appropriations with instructions made in Senate. (consideration: CR S11368-11369, S11371; text: CR S11368)
+- 2009-11-16 — Motion by Senator Coburn to commit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 24 - 69. Record Vote Number: 345.
+- 2009-11-16 — Proposed amendment SA 2779 withdrawn in Senate. (consideration: CR S11378)
+- 2009-11-16 — Roll call votes on amendments in Senate: Amendment SA 2757 agreed to in Senate by Yea-Nay Vote. 93 - 0. Record Vote Number: 344.
+- 2009-11-16 — SA 2781 fell when SA 2779 was withdrawn.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2734 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2737 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2738 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2740 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2741 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2743 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2745 as modified agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2746 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2747 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S11377)
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2749 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2751 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2752 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2753 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2757 agreed to in Senate by Yea-Nay Vote. 93 - 0. Record Vote Number: 344.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2759 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2760 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2771 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S11377)
+- 2009-11-16 — Senate amendment agreed to: Amendment SA 2773 agreed to in Senate by Unanimous Consent.
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2734 proposed by Senator Johnson to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11377-11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2738 proposed by Senator Johnson for Senator Warner.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2743 proposed by Senator Johnson for Senator Burr to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2746 proposed by Senator Feingold to Amendment SA 2730.(consideration: CR S11362-11364, S11377-11378; text: CR S11364)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2747 proposed by Senator Johnson for Senator Feingold to Amendment SA 2730.(consideration: CR S11377-11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2748 proposed by Senator Feingold to Amendment SA 2730.(consideration: CR S11364-11369; text: CR S11364)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2749 proposed by Senator Johnson for Senator Bingaman to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2751 proposed by Senator Johnson for Senator Cochran to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2753 proposed by Senator Johnson to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2771 proposed by Senator Johnson for Senator Ensign to Amendment SA 2730.(consideration: CR S11377-11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2773 proposed by Senator Johnson for Senator McConnell to Amendment SA 2730.(consideration: CR S11377-11378; text: CR S11378)
+- 2009-11-16 — Senate amendment proposed (on the floor): Amendment SA 2781 proposed by Senator Johnson for Senator Durbin to Amendment SA 2779.(consideration: CR S11362-11363; text: CR S11362)
+- 2009-11-16 — Senate amendment submitted
+- 2009-11-16 — Senate amendment submitted
+- 2009-11-16 — Senate amendment submitted
+- 2009-11-17 — Amendment SA 2730 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Amendment SA 2733 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 346.
+- 2009-11-17 — Amendment SA 2748 as modified agreed to in Senate by Voice Vote. (text as modified: CR S11405-11406)
+- 2009-11-17 — Amendment SA 2754 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S11404)
+- 2009-11-17 — Amendment SA 2763 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Amendment SA 2763 proposed by Senator Johnson for Senator Cochran to Amendment SA 2730. (consideration: CR S11405, S11406; text: CR S11405) To provide for the modification of a restriction of alienation of certain real property in Gulfport, Mississippi.
+- 2009-11-17 — Amendment SA 2775 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S11406)
+- 2009-11-17 — Amendment SA 2775 proposed by Senator Johnson for Senator Warner to Amendment SA 2730. (consideration: CR S11403, S11406) To require a study on the capacity of the Department of Veterans Affairs to address combat stress in women veterans.
+- 2009-11-17 — Amendment SA 2777 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Amendment SA 2777 proposed by Senator Johnson for Senator Klobuchar to Amendment SA 2730. (consideration: CR S11406-11407; text: CR S11406-11407) To require a study to identify the improvements to the information technology infrastructure of the Department of Veterans Affairs that are required to furnish health care services to veterans using telehealth platforms.
+- 2009-11-17 — Amendment SA 2783 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S11407)
+- 2009-11-17 — Amendment SA 2783 proposed by Senator Johnson for Senator Boxer to Amendment SA 2730. (consideration: CR S11407) To make available from Medical Services, $1,000,000 for education debt reduction for mental health care professionals who agree to employment at the Department of Veterans Affairs.
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403, S11404)
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403, S11405)
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403, S11405-11406)
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403, S11407-11409)
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403, S11407-11411)
+- 2009-11-17 — Considered by Senate. (consideration: CR S11403-11407, S11407-11411)
+- 2009-11-17 — Motion to table amendment SA 2774 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 347.
+- 2009-11-17 — Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 348. (text: CR 11/18/2009 S11500-11508)
+- 2009-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 348.(text: CR 11/18/2009 S11500-11508)
+- 2009-11-17 — Roll call votes on amendments in Senate: Amendment SA 2733 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 346.
+- 2009-11-17 — Roll call votes on amendments in Senate: Motion to table amendment SA 2774 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 347.
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2730 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2733 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 346.
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2748 as modified agreed to in Senate by Voice Vote.(text as modified: CR S11405-11406)
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2754 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S11404)
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2763 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2775 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S11406)
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2777 agreed to in Senate by Unanimous Consent.
+- 2009-11-17 — Senate amendment agreed to: Amendment SA 2783 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S11407)
+- 2009-11-17 — Senate amendment proposed (on the floor): Amendment SA 2763 proposed by Senator Johnson for Senator Cochran to Amendment SA 2730.(consideration: CR S11405, S11406; text: CR S11405)
+- 2009-11-17 — Senate amendment proposed (on the floor): Amendment SA 2775 proposed by Senator Johnson for Senator Warner to Amendment SA 2730.(consideration: CR S11403, S11406)
+- 2009-11-17 — Senate amendment proposed (on the floor): Amendment SA 2777 proposed by Senator Johnson for Senator Klobuchar to Amendment SA 2730.(consideration: CR S11406-11407; text: CR S11406-11407)
+- 2009-11-17 — Senate amendment proposed (on the floor): Amendment SA 2783 proposed by Senator Johnson for Senator Boxer to Amendment SA 2730.(consideration: CR S11407)
+- 2009-11-17 — Senate amendment submitted
+- 2009-11-17 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson; Inouye; Landrieu; Byrd; Murray; Reed; Nelson NE; Pryor; Leahy; Hutchison; Brownback; McConnell; Collins; Murkowski; Cochran. (consideration: CR S11411)
