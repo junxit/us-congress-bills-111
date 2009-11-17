@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3305
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3305
@@ -39,3 +39,9 @@ To designate the Federal building and United States courthouse located at 224 So
 - 2009-10-06 — Placed on the House Calendar, Calendar No. 117.
 - 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-286.
 - 2009-10-06 — Reported by the Committee on Transportation. H. Rept. 111-286.
+- 2009-11-17 — Considered under suspension of the rules. (consideration: CR H13029-13030)
+- 2009-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3305.
+- 2009-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-17 — Mr. Cummings moved to suspend the rules and pass the bill.
+- 2009-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13029)
+- 2009-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13029)
