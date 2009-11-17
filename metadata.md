@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3618
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3618
@@ -45,3 +45,9 @@ Clean Hull Act of 2009
 - 2009-11-07 — Reported by the Committee on Transportation. H. Rept. 111-331, Part I.
 - 2009-11-07 — Reported by the Committee on Transportation. H. Rept. 111-331, Part I.
 - 2009-11-07 — Subcommittee on Energy and Environment Discharged.
+- 2009-11-17 — Considered under suspension of the rules. (consideration: CR H13013-13018)
+- 2009-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3618.
+- 2009-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-17 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
+- 2009-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13013-13015)
+- 2009-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13013-13015)
