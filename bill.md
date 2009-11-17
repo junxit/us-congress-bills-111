@@ -45,8 +45,8 @@ The Congress makes the following findings:
   >       - **(i)** security latches; and
   >       - **(ii)** time-sensitive key technology.
   >     - **(D)** The vessel shall integrate technology that can be used for capturing images of passengers or detecting passengers who have fallen overboard, to the extent that such technology is available.
-  >     - **(E)** The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
-  >   - **(2)** *Fire safety codes* In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
+  >     - **(E)** The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the Coast Guard).
+  >   - **(2)** *Fire safety codes* In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the Coast Guard and under international law, as appropriate.
   >   - **(3)** *Effective date*
   >     - **(A)** *In general* Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2009.
   >     - **(B)** *Latch and key requirements* The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2009.
@@ -65,7 +65,7 @@ The Congress makes the following findings:
   >     - **(C)** meets guidelines established by the American College of Emergency Physicians relating to the treatment and care of victims of sexual assault;
   >   - **(4)** prepare, provide to the patient, and maintain written documentation of the findings of such examination that is signed by the patient; and
   >   - **(5)** provide the patient free and immediate access to—
-  >     - **(A)** contact information for local law enforcement, the Federal Bureau of Investigation, the United States Coast Guard, the nearest United States consulate or embassy, and the National Sexual Assault Hotline program or other third party victim advocacy hotline service; and
+  >     - **(A)** contact information for local law enforcement, the Federal Bureau of Investigation, the Coast Guard, the nearest United States consulate or embassy, and the National Sexual Assault Hotline program or other third party victim advocacy hotline service; and
   >     - **(B)** a private telephone line and Internet-accessible computer terminal by which the individual may confidentially access law enforcement officials, an attorney, and the information and support services available through the National Sexual Assault Hotline program or other third party victim advocacy hotline service.
   > - **(e)** *Confidentiality of Sexual Assault Examination and Support Information* The master or other individual in charge of a vessel to which this section applies shall—
   >   - **(1)** treat all information concerning an examination under subsection (d) confidential, so that no medical information may be released to the cruise line or other owner of the vessel or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin, except that nothing in this paragraph prohibits the release of—
@@ -84,7 +84,7 @@ The Congress makes the following findings:
   >       - **(i)** all complaints of crimes described in paragraph (3)(A)(i),
   >       - **(ii)** all complaints of theft of property valued in excess of $1,000, and
   >       - **(iii)** all complaints of other crimes,
-  >     - **(B)** make such log book available upon request to any agent of the Federal Bureau of Investigation, any member of the United States Coast Guard, and any law enforcement officer performing official duties in the course and scope of an investigation.
+  >     - **(B)** make such log book available upon request to any agent of the Federal Bureau of Investigation, any member of the Coast Guard, and any law enforcement officer performing official duties in the course and scope of an investigation.
   >   - **(2)** *Details required* The information recorded under paragraph (1) shall include, at a minimum—
   >     - **(A)** the vessel operator;
   >     - **(B)** the name of the cruise line;
@@ -115,7 +115,7 @@ The Congress makes the following findings:
   > - **(h)** *Enforcement*
   >   - **(1)** *Penalties*
   >     - **(A)** *Civil penalty* Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $25,000 for each day during which the violation continues, except that the maximum penalty for a continuing violation is $50,000.
-  >     - **(B)** *Criminal penalty* Any person that willfully violates this section or a regulation under this section shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.
+  >     - **(B)** *Criminal penalty* Any person that knowingly fails to record in a log book or to make a log book available in accordance with subsection (g)(1), or to report in accordance with subsection (g)(3), shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.
   >   - **(2)** *Denial of entry* The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
   >     - **(A)** commits an act or omission for which a penalty may be imposed under this subsection; or
   >     - **(B)** fails to pay a penalty imposed on the owner under this subsection.
@@ -148,5 +148,5 @@ The Congress makes the following findings:
 
 ## § 4. Study and report on the security needs of passenger vessels
 
-- **(a)** *In General* Within 3 months after the date of enactment of this Act, the Secretary of the department in which the United States Coast Guard is operating shall conduct a study of the security needs of passenger vessels depending on number of passengers on the vessels, and report to the Congress findings of the study and recommendations for improving security on those vessels.
+- **(a)** *In General* Within 3 months after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall conduct a study of the security needs of passenger vessels depending on number of passengers on the vessels, and report to the Congress findings of the study and recommendations for improving security on those vessels.
 - **(b)** *Report Contents* In recommending appropriate security on those vessels, the report shall take into account typical crew member shifts, working conditions of crew members, and length of voyages.
