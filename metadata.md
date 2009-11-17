@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3767
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3767
@@ -21,9 +21,10 @@ To designate the facility of the United States Postal Service located at 170 Nor
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 170 Nor
 - 2009-11-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 368 - 0 (Roll no. 891). (text: CR H12974)
 - 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 368 - 0 (Roll no. 891).(text: CR H12974)
+- 2009-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
