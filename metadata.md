@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3360
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3360
@@ -48,3 +48,4 @@ Cruise Vessel Security and Safety Act of 2010
 - 2009-11-17 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
 - 2009-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 892). (text: CR H13020-13023)
 - 2009-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 892).(text: CR H13020-13023)
+- 2009-11-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
