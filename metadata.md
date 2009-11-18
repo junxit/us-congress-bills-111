@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 345
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 345
@@ -16,7 +16,7 @@ A resolution deploring the rape and assault of women in Guinea and the killing o
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -29,6 +29,8 @@ A resolution deploring the rape and assault of women in Guinea and the killing o
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -38,3 +40,7 @@ A resolution deploring the rape and assault of women in Guinea and the killing o
 
 - 2009-11-09 — Introduced in Senate
 - 2009-11-09 — Referred to the Committee on Foreign Relations. (text as introduced in Senate: CR S11292)
+- 2009-11-17 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.
