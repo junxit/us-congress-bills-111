@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3305
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3305
@@ -23,9 +23,10 @@ To designate the Federal building and United States courthouse located at 224 So
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the Federal building and United States courthouse located at 224 So
 - 2009-11-17 — Mr. Cummings moved to suspend the rules and pass the bill.
 - 2009-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13029)
 - 2009-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13029)
+- 2009-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
