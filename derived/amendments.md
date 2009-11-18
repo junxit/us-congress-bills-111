@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3014
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | The Small Business Act is amended by redesignating section 44 as section 45 and by inserting the following new section after section 43: | the bill names no machine-readable US Code section |
+| — | redesignate | The Small Business Act (15 U.S.C. 631 et seq.) is amended by redesignating section 44 as section 45 and by inserting the following new section after section 43: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3014
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3014
@@ -36,3 +36,12 @@ Small Business Health Information Technology Financing Act
 - 2009-06-24 — Introduced in House
 - 2009-06-24 — Referred to the House Committee on Small Business.
 - 2009-06-24 — Referred to the Subcommittee on Finance and Tax.
+- 2009-10-08 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2009-10-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-10-21 — Provisions of Measure Incorporated into H.R. 3854.
+- 2009-11-18 — Considered under suspension of the rules. (consideration: CR H13084-13086)
+- 2009-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3014.
+- 2009-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-18 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2009-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13084-13085)
+- 2009-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13084-13085)
