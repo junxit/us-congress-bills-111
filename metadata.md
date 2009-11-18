@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 36
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 36
@@ -66,3 +66,7 @@ A concurrent resolution calling on the President and the allies of the United St
 - 2009-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4864-4865)
 - 2009-04-28 — The title of the measure was amended. Agreed to without objection.
 - 2009-04-29 — Received in the Senate and referred to the Committee on Foreign Relations.
+- 2009-11-17 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2009-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
