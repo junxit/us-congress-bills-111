@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3618
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | The Organotin Antifouling Paint Control Act of 1988 (33 U.S.C. 2401 et seq.) is repealed. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 2401` | repeal | The Organotin Antifouling Paint Control Act of 1988 (33 U.S.C. 2401 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

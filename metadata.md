@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3618
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3618
@@ -22,10 +22,11 @@ Clean Hull Act of 2009
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Clean Hull Act of 2009
 - 2009-11-17 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
 - 2009-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13013-13015)
 - 2009-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13013-13015)
+- 2009-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
