@@ -11,11 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Expansion of volunteer representation and benchmark reports
 
-- **(a)** *Expansion of volunteer representation* Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) is amended by inserting “(i)” after “(B)” and by adding at the end the following:
-  > - **(ii)** The Administrator shall ensure that SCORE, established under this subparagraph, carries out a plan to increase the proportion of mentors who are from socially or economically disadvantaged backgrounds and, on an annual basis, reports to the Administrator on the implementation of this subparagraph.
+- **(a)** *Expansion of volunteer representation* Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) is amended—
+  - **(1)** by inserting “(i)” after “(B)”; and
+  - **(2)** by adding at the end the following:
+    > - **(ii)** The Administrator shall ensure that SCORE, established under this subparagraph, carries out a plan to increase the proportion of mentors who are from socially or economically disadvantaged backgrounds and, on an annual basis, reports to the Administrator on the implementation of this subparagraph.
 
 - **(b)** *Benchmark reports* Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)), as amended, is further amended by adding at the end the following:
-  > - **(iii)** The Administrator shall ensure that SCORE, established under this subparagraph, establishes benchmarks for use in evaluating the performance of its activities and the performance of its volunteers. The benchmarks shall include benchmarks relating to the demographic characteristics and the geographic characteristics of persons assisted by SCORE, benchmarks relating to the hours spent mentoring by volunteers, and benchmarks relating to the performance of the persons assisted by SCORE. SCORE shall report, on an annual basis, to the Administrator the extent to which the benchmarks established under this clause are being attained.
+  > - **(iii)** The Administrator shall ensure that SCORE, established under this subparagraph, establishes benchmarks for use in evaluating the performance of its activities and of its volunteers. The benchmarks shall include benchmarks relating to the demographic characteristics and the geographic characteristics of persons assisted by SCORE, benchmarks related to the hours spent mentoring by volunteers, and benchmarks relating to the performance of the persons assisted by SCORE. SCORE shall report, on an annual basis, to the Administrator the extent to which the benchmarks established under this clause are being attained.
 
 ## § 2. Mentoring and networking
 
@@ -26,13 +28,13 @@ Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)), as amende
 
 ## § 3. Name of program changed to SCORE
 
-- **(a)** *Name change* The Small Business Act is amended—
-  - **(1)** in section 8(b)(1)(B) (15 U.S.C. 637(b)(1)(B)), by striking “Executives (SCORE)” and inserting “Executives (in this Act referred to as “SCORE”)”;
-  - **(2)** in section 7(m)(3)(A)(i)(VIII) (15 U.S.C. 636(m)(3)(A)(i)(VIII)), by striking “the Service Corps of Retired Executives” and inserting “SCORE”;
-  - **(3)** in section 20 (15 U.S.C. 631 note)—
+- **(a)** *Name change* The Small Business Act is amended as follows:
+  - **(1)** In section 8(b)(1)(B) (15 U.S.C. 637(b)(1)(B)), by striking “Executives (SCORE)” and inserting “Executives (in this Act referred to as “SCORE”)”.
+  - **(2)** In section 7(m)(3)(A)(i)(VIII) (15 U.S.C. 636(m)(3)(A)(i)(VIII)), by striking “the Service Corps of Retired Executives” and inserting “SCORE”.
+  - **(3)** In section 20 (15 U.S.C. 631 note)—
     - **(A)** in subsection (d)(1)(E), by striking “the Service Corps of Retired Executives program” and inserting “SCORE”; and
-    - **(B)** in subsection (e)(1)(E), by striking “the Service Corps of Retired Executives program” and inserting “SCORE”; and
-  - **(4)** in section 33(b)(2) (15 U.S.C. 657c(b)(2), by striking “the Service Corps of Retired Executives program” and inserting “SCORE”.
+    - **(B)** in subsection (e)(1)(E), by striking “the Service Corps of Retired Executives program” and inserting “SCORE”.
+  - **(4)** In section 33(b)(2) (15 U.S.C. 657c(b)(2)), by striking “Service Corps of Retired Executives” and inserting “SCORE”.
 - **(b)** *Elimination of ACE* Section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)), as amended, is further amended by striking “and an Active Corps of Executive (ACE)”.
 
 ## § 4. Authorization of appropriations
