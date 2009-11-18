@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 871
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 871
@@ -25,3 +25,8 @@ Directing the Attorney General to transmit to the House of Representatives certa
 - 2009-10-27 — Introduced in House
 - 2009-10-27 — Introduced in House
 - 2009-10-27 — Referred to the House Committee on the Judiciary.
+- 2009-11-05 — Committee Consideration and Mark-up Session Held.
+- 2009-11-05 — Ordered to be Reported Without Recommendation by Voice Vote.
+- 2009-11-18 — Placed on the House Calendar, Calendar No. 134.
+- 2009-11-18 — Reported by the Committee on Judiciary. H. Rept. 111-341.
+- 2009-11-18 — Reported by the Committee on Judiciary. H. Rept. 111-341.
