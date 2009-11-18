@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3791
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3791
@@ -127,6 +127,12 @@ Fire Grants Reauthorization Act of 2009
 - House — Science, Space, and Technology Committee
 - House — Homeland Security Committee
 
+## Recorded votes (3)
+
+- 2009-11-18 — [House 111-1-899](votes/house-111-1-0899.md) — On Agreeing to the Amendment — **Agreed to** (358–75)
+- 2009-11-18 — [House 111-1-900](votes/house-111-1-0900.md) — On Agreeing to the Amendment — **Agreed to** (371–63)
+- 2009-11-18 — [House 111-1-901](votes/house-111-1-0901.md) — On Passage — **Passed** (395–31)
+
 ## Actions
 
 - 2009-10-13 — Introduced in House
@@ -143,3 +149,60 @@ Fire Grants Reauthorization Act of 2009
 - 2009-11-07 — Referred sequentially to the House Committee on Homeland Security for a period ending not later than Nov. 7, 2009 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(i), rule X.
 - 2009-11-07 — Reported (Amended) by the Committee on 111-333, Part I.
 - 2009-11-07 — Reported (Amended) by the Committee on 111-333, Part I.
+- 2009-11-17 — Rules Committee Resolution H. Res. 909 Reported to House. Rule provides for consideration of H.R. 3791 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule, the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill modified by the amendment printed in part A of the report of the Committee on Rules accompanying the resolution.
+- 2009-11-18 — Amendment (A001) offered by Ms. Titus. (consideration: CR H13103-13104; text: CR H13103)
+- 2009-11-18 — Amendment (A002) offered by Mr. Perlmutter. (consideration: CR H13104-13105, H13113; text: CR H13104)
+- 2009-11-18 — Amendment (A003) offered by Mr. Flake. (consideration: CR H13105-13106, H13113-11314; text: CR H13105)
+- 2009-11-18 — Amendment (A004) offered by Mr. Holden. (consideration: CR H13106; text: CR H13106)
+- 2009-11-18 — Amendment (A005) offered by Mr. Cardoza. (consideration: CR H13106-13107; text: CR H13106)
+- 2009-11-18 — Amendment agreed to Committee of the Whole
+- 2009-11-18 — Amendment agreed to Committee of the Whole
+- 2009-11-18 — Amendment agreed to Committee of the Whole
+- 2009-11-18 — Amendment agreed to Committee of the Whole
+- 2009-11-18 — Amendment agreed to Committee of the Whole
+- 2009-11-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 3791 as unfinished business.
+- 2009-11-18 — Considered as unfinished business. (consideration: CR H13113-13115)
+- 2009-11-18 — Considered under the provisions of rule H. Res. 909. (consideration: CR H13093-13107)
+- 2009-11-18 — DEBATE - Pursuant to the provisions of H.Res. 909, the Committee of the Whole proceeded with 10 minutes of debate on the Cardoza amendment.
+- 2009-11-18 — DEBATE - Pursuant to the provisions of H.Res. 909, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2009-11-18 — DEBATE - Pursuant to the provisions of H.Res. 909, the Committee of the Whole proceeded with 10 minutes of debate on the Holden amendment.
+- 2009-11-18 — DEBATE - Pursuant to the provisions of H.Res. 909, the Committee of the Whole proceeded with 10 minutes of debate on the Perlmutter amendment.
+- 2009-11-18 — DEBATE - Pursuant to the provisions of H.Res. 909, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment.
+- 2009-11-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3791.
+- 2009-11-18 — House amendment agreed to: On agreeing to the Cardoza amendment (A005) Agreed to by voice vote.
+- 2009-11-18 — House amendment agreed to: On agreeing to the Flake amendment (A003) Agreed to by recorded vote: 371 - 63 (Roll no. 900).
+- 2009-11-18 — House amendment agreed to: On agreeing to the Holden amendment (A004) Agreed to by voice vote.
+- 2009-11-18 — House amendment agreed to: On agreeing to the Perlmutter amendment (A002) Agreed to by recorded vote: 358 - 75 (Roll no. 899).
+- 2009-11-18 — House amendment agreed to: On agreeing to the Titus amendment (A001) Agreed to by voice vote.
+- 2009-11-18 — House amendment offered
+- 2009-11-18 — House amendment offered
+- 2009-11-18 — House amendment offered
+- 2009-11-18 — House amendment offered
+- 2009-11-18 — House amendment offered
+- 2009-11-18 — House amendment offered/reported by : Amendment (A001) offered by Ms. Titus.(consideration: CR H13103-13104; text: CR H13103)
+- 2009-11-18 — House amendment offered/reported by : Amendment (A002) offered by Mr. Perlmutter.(consideration: CR H13104-13105, H13113; text: CR H13104)
+- 2009-11-18 — House amendment offered/reported by : Amendment (A003) offered by Mr. Flake.(consideration: CR H13105-13106, H13113-11314; text: CR H13105)
+- 2009-11-18 — House amendment offered/reported by : Amendment (A004) offered by Mr. Holden.(consideration: CR H13106; text: CR H13106)
+- 2009-11-18 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cardoza.(consideration: CR H13106-13107; text: CR H13106)
+- 2009-11-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 909 and Rule XVIII.
+- 2009-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-18 — Mr. Gordon (TN) moved that the Committee now rise.
+- 2009-11-18 — On agreeing to the Cardoza amendment (A005) Agreed to by voice vote.
+- 2009-11-18 — On agreeing to the Flake amendment (A003) Agreed to by recorded vote: 371 - 63 (Roll no. 900).
+- 2009-11-18 — On agreeing to the Holden amendment (A004) Agreed to by voice vote.
+- 2009-11-18 — On agreeing to the Perlmutter amendment (A002) Agreed to by recorded vote: 358 - 75 (Roll no. 899).
+- 2009-11-18 — On agreeing to the Titus amendment (A001) Agreed to by voice vote.
+- 2009-11-18 — On motion that the Committee now rise Agreed to by voice vote.
+- 2009-11-18 — On passage Passed by the Yeas and Nays: 395 - 31 (Roll no. 901).
+- 2009-11-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gordon demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2009-11-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perlmutter amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (NE) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2009-11-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 395 - 31 (Roll no. 901).
+- 2009-11-18 — Roll call votes on amendments in House
+- 2009-11-18 — Roll call votes on amendments in House
+- 2009-11-18 — Rule H. Res. 909 passed House.
+- 2009-11-18 — Rule provides for consideration of H.R. 3791 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule, the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill modified by the amendment printed in part A of the report of the Committee on Rules accompanying the resolution. (consideration: CR H13100-13103)
+- 2009-11-18 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H13100-13103)
+- 2009-11-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-11-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3791.
+- 2009-11-18 — The Speaker designated the Honorable Jesse L. Jackson Jr. to act as Chairman of the Committee.
+- 2009-11-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

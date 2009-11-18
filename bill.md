@@ -40,6 +40,7 @@ This Act may be cited as the “Fire Grants Reauthorization Act of 2009”.
   >     - **(L)** To fund fire prevention programs.
   >     - **(M)** To educate the public about arson prevention and detection.
   >     - **(N)** To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
+  >     - **(O)** To acquire equipment designed to reduce the amount of water used in firefighting or training firefighting personnel.
   >   - **(4)** *Fire prevention and firefighter safety research and development programs*
   >     - **(A)** *In general* For each fiscal year, the Director shall use not less than 10 percent of the funds made available under subsection (e)—
   >       - **(i)** to make grants to fire departments for the purpose described in paragraph (3)(L);
@@ -77,8 +78,9 @@ This Act may be cited as the “Fire Grants Reauthorization Act of 2009”.
   >       - **(ii)** 25 percent shall be made available to volunteer fire departments.
   >       - **(iii)** 25 percent shall be made available to combination fire departments.
   >     - **(B)** *Evaluation Criteria*
-  >       - **(i)** *In general* In awarding grants under paragraph (1)(A), the Director shall, within each category of applicants under subparagraph (A), consider a broad range of factors important to the applicant’s ability to respond to fires and related hazards, such as population served, geographic response area, hazard vulnerability, call volume, financial situation, and need for training or equipment.
+  >       - **(i)** *In general* In awarding grants under paragraph (1)(A), the Director shall, within each category of applicants under subparagraph (A), consider a broad range of factors important to the applicant’s ability to respond to fires and related hazards, such as population served, geographic response area, hazard vulnerability, call volume, financial situation including unemployment rate of the area being served, and need for training or equipment.
   >       - **(ii)** *High population and incident response* In considering such factors under clause (i), applicants serving areas with high population and with a high number of incidents requiring a response shall receive a higher level of consideration.
+  >       - **(iii)** *Prohibited basis for denial* In considering such factors under clause (i), the Director may not deny a grant to an applicant solely based on such applicant failing to demonstrate that the grant will be used to prepare for or respond to a terrorism incident or use of a weapon of mass destruction.
   >     - **(C)** *Remainder* Of the amounts made available under subsection (e) that are not allocated for use and awarded under subparagraph (A) or designated for use under any other provision of this section, the Director shall provide for an open competition for grants among career fire departments, volunteer fire departments, and combination fire departments to carry out the activities under paragraph (3).
   >   - **(10)** *Report to the director* The Director may provide assistance under this subsection only if the applicant for the assistance agrees to submit to the Director a report, including a description of how the assistance was used, with respect to each fiscal year for which the assistance was received.
   >   - **(11)** *Grant Limitations*
@@ -109,7 +111,7 @@ This Act may be cited as the “Fire Grants Reauthorization Act of 2009”.
   >   - **(12)** *Eligible grantee on behalf of Alaska native villages* The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be considered an eligible grantee for purposes of receiving assistance under this section on behalf of Alaska Native villages.
   >   - **(13)** *Annual meeting* The Director shall convene an annual meeting of individuals who are members of national fire service organizations and are recognized for expertise in firefighting or emergency medical services provided by fire services, and who are not employees of the Federal Government, for the purpose of recommending criteria for awarding grants under this section for the next fiscal year and any necessary administrative changes to the grant program.
   >   - **(14)** *Guidelines*
-  >     - **(A)** *In general* Each year, prior to making any grants under this section, the Director shall publish in the Federal Register—
+  >     - **(A)** *In general* Each year, prior to accepting any application for a grant under each program under this section, the Director shall publish in the Federal Register—
   >       - **(i)** guidelines that describe the process for applying for grants and the criteria for awarding grants;
   >       - **(ii)** an explanation of any differences between the guidelines and the recommendations made pursuant to paragraph (13); and
   >       - **(iii)** the criteria developed under paragraph (8) which the Director will use to evaluate applicants for waivers from program requirements.
@@ -138,11 +140,14 @@ This Act may be cited as the “Fire Grants Reauthorization Act of 2009”.
   >   - **(3)** *Director* The term Director means the Director, acting through the Administrator.
   >   - **(4)** *Firefighting personnel* The term firefighting personnel means individuals, including volunteers, who are firefighters, officers of fire departments, or emergency medical service personnel of fire departments.
   >   - **(5)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
-  >   - **(6)** *Volunteer, Non-Fire Service EMS and Rescue organization* The term volunteer, non-fire service EMS and rescue organization means a public or private nonprofit emergency medical services organization that—
-  >     - **(A)** is not affiliated with a hospital;
-  >     - **(B)** does not serve a geographic area in which the Director finds that emergency medical services are adequately provided by a fire department; and
-  >     - **(C)** is staffed primarily by volunteers.
+  >   - **(6)** *Volunteer, non-fire service EMS and rescue organization*
+  >     - **(A)** *In general* The term “volunteer, non-fire service EMS and rescue organization” means a public or private nonprofit emergency medical services organization that—
+  >       - **(i)** is not affiliated with a hospital;
+  >       - **(ii)** does not serve a geographic area in which the Director finds that emergency medical services are adequately provided by a fire department; and
+  >       - **(iii)** is staffed primarily by volunteers.
+  >     - **(B)** *Inclusion* Such term includes a river rescue organization if such organization otherwise meets the definition in subparagraph (A).
   >   - **(7)** *Volunteer fire department* The term volunteer fire department means a firefighting department that has an all volunteer force of firefighting personnel.
+  >   - **(8)** *River rescue organization* The term “river rescue organization” means an organization that provides emergency search and rescue services to a person affected by a flood, a water-related accident, or another disaster for which services, including water rescue and patrol, dive rescue and recovery, emergency first response, flood recovery, or fire and rescue services on the water, are required.
   > - **(e)** *Authorization of Appropriations*
   >   - **(1)** *In general* There are authorized to be appropriated for the purposes of this section $1,000,000,000 for each of the fiscal years 2010 through 2014.
   >   - **(2)** *Administrative expenses*
@@ -217,5 +222,38 @@ Section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 222
     - **(D)** measure the impact of the grant program under section 33 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229) in—
       - **(i)** meeting the needs of the fire services identified in the report submitted to Congress under section 3603(a) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005; and
       - **(ii)** filling the gaps identified under subparagraph (C).
-  - **(2)** *Report* Not later than 2 years after the date of enactment of this Act, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the findings of the study described in paragraph (1).
+  - **(2)** *Report* Not later than 2 years after the date of enactment of this Act, the Administrator shall submit to Congress a report on the findings of the study described in paragraph (1).
 - **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator of the United States Fire Administration a total of $300,000 for fiscal years 2010 and 2011 to carry out subsection (a).
+
+## § 5. National voluntary consensus standards
+
+- **(a)** *Survey by the Department of Homeland Security*
+  - **(1)** *In general* Not later than 120 days after the date of enactment of this Act, the Secretary of Homeland Security, in consultation with the Task Force established under subsection (b), shall begin to conduct a survey of each career fire department, volunteer fire department, and combination fire department located in the United States in order to ascertain whether each fire department is in compliance with the national voluntary consensus standards for staffing, training, safe operations, personal protective equipment, and fitness.
+  - **(2)** *Contents* In carrying out the survey, the Secretary shall ascertain, for each fire department in the United States, the rates of compliance with each such standard of—
+    - **(A)** career fire departments, volunteer fire departments, and combination fire departments;
+    - **(B)** fire departments located in communities of varying sizes; and
+    - **(C)** fire departments in each of the States.
+  - **(3)** *Report* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a summary of the findings of the survey required under paragraph (1), including the rates of compliance under the categories specified under subparagraphs (A), (B), and (C) of paragraph (2).
+- **(b)** *Establishment of task force to enhance firefighter safety*
+  - **(1)** *Establishment* Not later than 60 days after the date of enactment of this Act, the Secretary shall establish a task force to be known as the “Task Force to Enhance Firefighter Safety” (in this section referred to as the “Task Force”).
+  - **(2)** *Membership*
+    - **(A)** *In general* The Secretary shall appoint members of the Task Force from among the general public and shall include—
+      - **(i)** representatives of national organizations representing firefighters and fire chiefs;
+      - **(ii)** individuals representing standards-setting and accrediting organizations, including representatives from the voluntary consensus codes and standards development community; and
+      - **(iii)** other individuals as the Secretary determines to be appropriate.
+    - **(B)** *Representatives of other departments and agencies* The Secretary may invite representatives of other departments and agencies of the United States that have an interest in the fire service to participate in the meetings and other activities of the Task Force.
+    - **(C)** *Number; Terms of service; Pay and allowances* The Secretary shall determine the number, terms of service, and pay and allowances of members of the Task Force appointed by the Secretary, except that a term of service of any such member may not exceed 2 years.
+  - **(3)** *Responsibilities* The Task Force shall—
+    - **(A)** consult with the Secretary to conduct the survey required under subsection (a); and
+    - **(B)** develop a plan to enhance firefighter safety by increasing fire department compliance with national voluntary consensus standards for staffing, training, safe operations, personal protective equipment, and fitness, including by—
+      - **(i)** reviewing and evaluating the report required under subsection (a) to determine the extent of and barriers to achieving compliance with national voluntary consensus standards among fire departments; and
+      - **(ii)** considering ways in which the Federal Government, States, and localities can promote or encourage fire departments to comply with national voluntary consensus standards.
+  - **(4)** *Report to Congress* Not later than 6 months after the date on which the Secretary submits the report required under subsection (a)(3), the Task Force shall submit to Congress and the Secretary a report containing the findings and recommendations of the Task Force together with the plan described in paragraph (3)(B).
+- **(c)** *Definitions*
+  - **(1)** *In general* The terms used in this section that are defined in sections 4, 33, or 34 of the Federal Fire Prevention and Control Act of 1974 shall have the meaning given such terms in such Act.
+  - **(2)** *National voluntary consensus standards* For the purposes of this section, the term “national voluntary consensus standards” means the latest edition of the national voluntary consensus standards for firefighter and fire department staffing, training, safe operations, personal protective equipment, and fitness available on the date of the enactment of this Act.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Homeland Security such sums as may be necessary to carry out this section for each of fiscal years 2010 through 2013.
+
+## § 6. Prohibition on earmarks
+
+None of the funds appropriated to carry out the amendments made by this Act may be used for a congressional earmark as defined in clause 9, of Rule XXI of the rules of the House of Representatives of the 111th Congress.
