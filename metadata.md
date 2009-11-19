@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 212
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 212
@@ -16,7 +16,7 @@ Expressing the sense of Congress on the occasion of the 20th anniversary of hist
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Cosponsors (42)
+## Cosponsors (49)
 
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 - Rep. Scott, David [D-GA-13] (S001157)
@@ -60,13 +60,33 @@ Expressing the sense of Congress on the occasion of the 20th anniversary of hist
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2009-11-19 — [House 111-1-906](votes/house-111-1-0906.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (426–0)
 
 ## Actions
 
 - 2009-11-07 — Introduced in House
 - 2009-11-07 — Introduced in House
 - 2009-11-07 — Referred to the House Committee on Foreign Affairs.
+- 2009-11-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-11-18 — Considered under suspension of the rules. (consideration: CR H13109-13113)
+- 2009-11-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 212.
+- 2009-11-18 — Mr. Ackerman moved to suspend the rules and agree to the resolution, as amended.
+- 2009-11-19 — Considered as unfinished business. (consideration: CR H13288-13289)
+- 2009-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 906). (text: CR 11/18/2009 H13110)
+- 2009-11-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 906).(text: CR 11/18/2009 H13110)
+- 2009-11-19 — The title of the measure was amended. Agreed to without objection.
