@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1842
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1842
@@ -22,9 +22,10 @@ Expanding Entrepreneurship Act of 2009
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Expanding Entrepreneurship Act of 2009
 - 2009-11-18 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13079-13080)
 - 2009-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13079-13080)
+- 2009-11-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
