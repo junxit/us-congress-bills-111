@@ -2,7 +2,7 @@
 legis-num: H.R. 3791
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3791
@@ -95,7 +95,7 @@ This Act may be cited as the “Fire Grants Reauthorization Act of 2009”.
   >       - **(i)** *In general* In accordance with clause (ii), the Director shall award not more than 3 percent of the amounts made available under subsection (e) for a fiscal year for grants under this subsection for State fire training academies.
   >       - **(ii)** *Limitation* The Director shall—
   >         - **(I)** award not more than 1 grant under this subparagraph per State in a fiscal year;
-  >         - **(II)** limit the amount of a grant to a State fire training academy to less than or equal to$1,000,000 in each fiscal year; and
+  >         - **(II)** limit the amount of a grant to a State fire training academy to less than or equal to $1,000,000 in each fiscal year; and
   >         - **(III)** ensure that any grant awarded to a State fire training academy shall be used for the purposes described in paragraphs 3(G), 3(H), or 3(I).
   >     - **(D)** *Requirements for grants for emergency medical services* The Director shall award not more than 2 percent of the amounts made available under subsection (e) for a fiscal year to volunteer, non-fire service EMS and rescue organizations for the purposes described in paragraph (3)(F).
   >     - **(E)** *Application of selection criteria to grant applications from volunteer, non-fire service EMS and rescue organizations* In reviewing applications submitted by volunteer, non-fire service EMS and rescue organizations, the Director shall consider the extent to which other sources of Federal funding are available to provide the assistance requested in such grant applications.

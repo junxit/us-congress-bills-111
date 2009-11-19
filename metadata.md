@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3791
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3791
@@ -122,10 +122,11 @@ Fire Grants Reauthorization Act of 2009
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -206,3 +207,4 @@ Fire Grants Reauthorization Act of 2009
 - 2009-11-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3791.
 - 2009-11-18 — The Speaker designated the Honorable Jesse L. Jackson Jr. to act as Chairman of the Committee.
 - 2009-11-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-11-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

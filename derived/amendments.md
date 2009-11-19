@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3791
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 33 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 2229` | amend | Section 33 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2229a` | amend | Section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
