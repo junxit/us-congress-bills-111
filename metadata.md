@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1839
@@ -21,9 +21,10 @@ To amend the Small Business Act to improve SCORE, and for other purposes.
 - Rep. Graves, Sam [R-MO-6] (G000546)
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Small Business Act to improve SCORE, and for other purposes.
 - 2009-11-18 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13075-13076)
 - 2009-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13075-13076)
+- 2009-11-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
