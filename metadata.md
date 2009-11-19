@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3738
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3738
@@ -16,9 +16,10 @@ Small Business Early-Stage Investment Act of 2009
 
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Small Business Early-Stage Investment Act of 2009
 - 2009-11-18 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2009-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13081-13082)
 - 2009-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13081-13082)
+- 2009-11-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
