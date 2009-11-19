@@ -28,8 +28,8 @@ This Act may be cited as the “Native American Business Development Enhancement
     >   - **(2)** *Associate Administrator* The Office shall be administered by an Associate Administrator appointed under section 4(b)(1).
     >   - **(3)** *Responsibilities* The Office shall have the following responsibilities:
     >     - **(A)** Developing and implementing tools and strategies to increase Native American entrepreneurship.
-    >     - **(B)** Expanding the access of Native American entrepreneurs to business training, capital, and Federal small business contracts.
-    >     - **(C)** Expanding outreach to Native American communities and aggressively marketing entrepreneurial development services to such communities.
+    >     - **(B)** Expanding the access of Native American entrepreneurs to business training, financing, and Federal small business contracts.
+    >     - **(C)** Expanding outreach to Native American communities and marketing entrepreneurial development services to such communities.
     >     - **(D)** Representing the Administration with respect to Native American economic development matters.
     >   - **(4)** *Coordination and oversight function* The Office shall provide oversight with respect to and assist the implementation of all Administration initiatives relating to Native American entrepreneurial development.
     >   - **(5)** *Authorization of appropriations* To carry out this subsection, there is authorized to be appropriated to the Administrator $2,000,000 for each of fiscal years 2010 and 2011.
