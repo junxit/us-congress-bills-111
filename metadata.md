@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 914
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 914
@@ -16,7 +16,7 @@ Supporting the observance of National Diabetes Month.
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Cosponsors (129)
+## Cosponsors (136)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Green, Al [D-TX-9] (G000553)
@@ -147,6 +147,13 @@ Supporting the observance of National Diabetes Month.
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
 ## Committees (1)
 
@@ -157,3 +164,12 @@ Supporting the observance of National Diabetes Month.
 - 2009-11-18 — Introduced in House
 - 2009-11-18 — Introduced in House
 - 2009-11-18 — Referred to the House Committee on Energy and Commerce.
+- 2009-11-19 — Committee on Energy and Commerce discharged.
+- 2009-11-19 — Committee on Energy and Commerce discharged.
+- 2009-11-19 — Considered by unanimous consent. (consideration: CR H13320-13321)
+- 2009-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-11-19 — Mrs. Capps asked unanimous consent to discharge from committee and consider.
+- 2009-11-19 — On agreeing to the resolution Agreed to without objection. (text: CR H13320-13321)
+- 2009-11-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H13320-13321)
+- 2009-11-19 — Referred to the Subcommittee on Health.
+- 2009-11-19 — Sponsor introductory remarks on measure. (CR E2810-2811)
