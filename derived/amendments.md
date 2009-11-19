@@ -1,7 +1,7 @@
 ---
 measure: S. 1963
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -51,8 +51,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subchapter VIII of chapter 17 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 17 is amended by inserting after the item relating to section 1785 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 7683(d) is amended by striking “$44,000” and all that follows through “fifth years of participation in the Program” and inserting “the total amount of principle and interest owed by the participant on loans refer… | the bill names no machine-readable US Code section |
-| — | amend | Section 7682 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 7683 is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7682 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7683 is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Part V is amended by inserting after chapter 74 the following new chapter: | the bill names no machine-readable US Code section |
 | — | insert | The tables of chapters at the beginning of title 38, and of part V of title 38, are each amended by inserting after the item relating to chapter 74 the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 17 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -87,7 +87,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of sections at the beginning of such chapter 17 is amended by inserting after the item relating to section 1708 the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 73 is amended by inserting after section 7311 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 73 is amended by inserting after the item relating to section 7311 the following new item: | the bill names no machine-readable US Code section |
-| — | amend | Section 7311(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7311(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1720 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (c); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
@@ -109,7 +109,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “Appointments” and inserting “Except as otherwise provided in this subsection, appointments”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | amend | Section 7405 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7405 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7405, as amended by subsection (c), is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The annual” and inserting “(1) The annual”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The pay” and inserting the following: | the bill names no machine-readable US Code section |
@@ -123,7 +123,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7451(c)(2) is amended by striking “level V” and inserting “level IV”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7451(c)(2) is further amended by adding at the end the following new sentence: “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) m… | the bill names no machine-readable US Code section |
 | — | replace | Section 7452(g)(2) is amended by striking “$25,000” and inserting “$100,000”. | the bill names no machine-readable US Code section |
-| — | amend | Section 7451(d)(3) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7451(d)(3) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (E); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C) the following new subparagraph (D): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7451(e), as amended by paragraph (2) of this subsection, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -160,7 +160,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of sections at the beginning of chapter 74 is amended by inserting after the item relating to section 7402 the following new item: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
-| — | amend | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 7361, as amended by subsection (a) of this section, is further amended by inserting after subsection (b) the following new subsection (c): | the bill names no machine-readable US Code section |
 | — | repeal | Section 7365 is repealed. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking the second sentence; and | the bill names no machine-readable US Code section |
