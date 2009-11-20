@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1834
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 633
+
+> by striking “five Associate Administrators” and inserting “six Associate Administrators”; and
+
+| | |
+|---|---|
+| Removed | `five Associate Administrators` |
+| Inserted | `six Associate Administrators` |
 
 ## Stated, not applied
 
@@ -31,8 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “five Associate Administrators” and inserting “six Associate Administrators”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “vested in the Administration.” the following: “One such Associate Administrator shall be the Associate Administrator for Native American Affairs, who shall administer the Office of Native American Affairs established … | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating section 44 as section 45; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 43 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 21(a) of the Small Business Act (15 U.S.C. 648(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 633` | insert | by inserting after “vested in the Administration.” the following: “One such Associate Administrator shall be the Associate Administrator for Native American Affairs, who shall administer the Office of Native American Affairs established … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | redesignate | by redesignating section 44 as section 45; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | insert | by inserting after section 43 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 648` | add-at-end | Section 21(a) of the Small Business Act (15 U.S.C. 648(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
