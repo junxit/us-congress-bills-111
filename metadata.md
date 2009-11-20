@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2781
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2781
@@ -22,9 +22,10 @@ To amend the Wild and Scenic Rivers Act to designate segments of the Molalla Riv
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To amend the Wild and Scenic Rivers Act to designate segments of the Molalla Riv
 - 2009-11-19 — Rule H. Res. 908 passed House.
 - 2009-11-19 — Rule provides for consideration of H.R. 2781 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rules XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as adopted.
 - 2009-11-19 — The previous question was ordered pursuant to the rule. (consideration: CR H13288)
+- 2009-11-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
