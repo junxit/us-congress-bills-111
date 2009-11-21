@@ -1,6 +1,6 @@
 ---
 legis-num: S. 1472
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
