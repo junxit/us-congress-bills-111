@@ -1,7 +1,7 @@
 ---
 measure: S. 1472
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1472
@@ -35,3 +35,5 @@ Human Rights Enforcement Act of 2009
 - 2009-11-06 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2009-11-06 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2009-11-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
+- 2009-11-21 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S11974-11976; text of measure as reported in Senate: CR S11974-11975; text as passed Senate: CR S11976)
+- 2009-11-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S11974-11976; text of measure as reported in Senate: CR S11974-11975; text as passed Senate: CR S11976)
