@@ -2,12 +2,12 @@
 legis-num: H. RES. 727
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 727
 
-> Supporting the goals and ideals of National Ovarian Cancer Awareness Month.
+> Expressing support for greater awareness of ovarian cancer.
 
 ## Preamble
 
@@ -24,6 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas there are factors that are known to reduce the risk for ovarian cancer and play an important role in the prevention of the disease;
 - Whereas awareness and early recognition of ovarian cancer symptoms are currently the best way to save women's lives;
 - Whereas the Ovarian Cancer National Alliance, during the month of September, holds a number of events to increase public awareness of ovarian cancer; and
-- Whereas a National Ovarian Cancer Awareness Month should be designated to increase the awareness of the public regarding the cancer: Now, therefore, be it
+- Whereas the goals and ideals of National Ovarian Cancer Awareness Month should be promoted to increase the awareness of the public regarding the cancer: Now, therefore, be it
 
-That the House of Representatives supports the goals and ideals of National Ovarian Cancer Awareness Month.
+That the House of Representatives expresses support for greater awareness of ovarian cancer.
