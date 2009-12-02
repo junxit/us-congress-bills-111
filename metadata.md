@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2873
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2873
@@ -25,3 +25,9 @@ Enhanced S.E.C. Enforcement Authority Act
 - 2009-06-15 — Introduced in House
 - 2009-06-15 — Introduced in House
 - 2009-06-15 — Referred to the House Committee on Financial Services.
+- 2009-12-02 — Considered under suspension of the rules. (consideration: CR H13404-13405)
+- 2009-12-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2873.
+- 2009-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-02 — Mr. Kanjorski moved to suspend the rules and pass the bill, as amended.
+- 2009-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13404)
+- 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13404)

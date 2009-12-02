@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2873
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 22(a) of the Securities Act of 1933 (15 U.S.C. 77v(a)) is amended by inserting after the second sentence the following: “In any action or proceeding instituted by the Commission under this title in a United States district court … | the bill names no machine-readable US Code section |
-| — | insert | Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa) is amended by inserting after the third sentence the following: “In any action or proceeding instituted by the Commission under this title in a United States district cou… | the bill names no machine-readable US Code section |
-| — | insert | Section 44 of the Investment Company Act of 1940 (15 U.S.C. 80a–43) is amended by inserting after the fourth sentence the following: “In any action or proceeding instituted by the Commission under this title in a United States district c… | the bill names no machine-readable US Code section |
-| — | insert | Section 214 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–14) is amended by inserting after the third sentence the following: “In any action or proceeding instituted by the Commission under this title in a United States district … | the bill names no machine-readable US Code section |
+| — | insert | Section 22(a) of the Securities Act of 1933 (15 U.S.C. 77v(a)) is amended by inserting after the second sentence the following: “In any civil action instituted by the Commission under this title in a United States district court for any … | the bill names no machine-readable US Code section |
+| — | insert | Section 27 of the Securities Exchange Act of 1934 (15 U.S.C. 78aa) is amended by inserting after the third sentence the following: “In any civil action instituted by the Commission under this title in a United States district court for a… | the bill names no machine-readable US Code section |
+| — | insert | Section 44 of the Investment Company Act of 1940 (15 U.S.C. 80a–43) is amended by inserting after the fourth sentence the following: “In any civil action instituted by the Commission under this title in a United States district court for… | the bill names no machine-readable US Code section |
+| — | insert | Section 214 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–14) is amended by inserting after the third sentence the following: “In any civil action instituted by the Commission under this title in a United States district court fo… | the bill names no machine-readable US Code section |
