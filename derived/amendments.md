@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 8 of the Atomic Energy Act of 1954 (42 U.S.C. 2111 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents for the Atomic Energy Act of 1954 is amended by inserting at the end of the items relating to chapter 8 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 19 of the Atomic Energy Act of 1954 (42 U.S.C. 2015 et seq.) is amended by inserting after section 276 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents for the Atomic Energy Act of 1954 is amended by inserting after the item relating to section 276 the following new item: | the bill names no machine-readable US Code section |
