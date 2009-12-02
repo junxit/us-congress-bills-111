@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3963
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3963
@@ -38,3 +38,9 @@ Criminal Investigative Training Restoration Act
 - 2009-12-01 — Placed on the Union Calendar, Calendar No. 198.
 - 2009-12-01 — Reported by the Committee on Homeland Security. H. Rept. 111-345.
 - 2009-12-01 — Reported by the Committee on Homeland Security. H. Rept. 111-345.
+- 2009-12-02 — Considered under suspension of the rules. (consideration: CR H13415-13417)
+- 2009-12-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3963.
+- 2009-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-02 — Ms. Jackson-Lee moved to suspend the rules and pass the bill.
+- 2009-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13415)
+- 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13415)
