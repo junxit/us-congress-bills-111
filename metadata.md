@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3667
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3667
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 16555 S
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Grayson, Alan [D-FL-8] (G000556)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ To designate the facility of the United States Postal Service located at 16555 S
 - 2009-12-01 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-12-01 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 386 - 0 (Roll no. 913). (text: CR H13363)
 - 2009-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 386 - 0 (Roll no. 913).(text: CR H13363)
+- 2009-12-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
