@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 939
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 939
@@ -36,3 +36,9 @@ Extending condolences to the families of Sergeant Mark Renninger, Officer Tina G
 - 2009-12-01 — Introduced in House
 - 2009-12-01 — Introduced in House
 - 2009-12-01 — Referred to the House Committee on the Judiciary.
+- 2009-12-02 — Considered under suspension of the rules. (consideration: CR H13417-13419)
+- 2009-12-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 939.
+- 2009-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-02 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2009-12-02 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H13417)
+- 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H13417)
