@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 197
 
-> Encouraging banks and mortgage servicers to work with families affected by contaminated drywall to allow temporary forbearance without penalty on payments on their home mortgages.
+> Encouraging banks and mortgage servicers to work with families affected by contaminated drywall and to consider adjustments to payment schedules on their home mortgages that take into account the financial burdens of responding to the presence of such drywall.
 
 ## Preamble
 
@@ -16,6 +16,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas toxins released from contaminated drywall can corrode metals inside the home, such as air conditioning coils and electrical wiring;
 - Whereas the dangers and health risks posed by contaminated drywall have forced thousands of families out of their homes and into temporary living situations, and many such families are unable to afford an additional financial burden;
 - Whereas because of cases of contaminated drywall, some Americans who pay their mortgages on time are now suffering from both financial problems and health complications at no fault of their own; and
-- Whereas banks and mortgage servicers can help families affected by contaminated drywall by providing temporary forbearance with respect to their mortgage payments to help such families afford the costs of an additional residence while they are removed from their primary homes: Now, therefore, be it
+- Whereas banks and mortgage servicers can help families affected by contaminated drywall by taking into account, with respect to their mortgage payments, the financial burdens imposed by the need to respond to this problem: Now, therefore, be it
 
-That the Congress encourages banks and mortgage servicers to work with families affected by contaminated drywall to allow temporary forbearance without penalty on payments on their home mortgages.
+That the Congress encourages banks and mortgage servicers to work with families affected by contaminated drywall by considering adjustments to mortgage payment schedules that take these financial burdens into account.
