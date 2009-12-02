@@ -18,7 +18,7 @@ This Act may be cited as the “Redundancy Elimination and Enhanced Performance 
 - **(a)** *In general* Title XX of the Homeland Security Act of 2002 (6 U.S.C. 601 et seq.) is amended by adding at the end the following new section:
   > ## § 2023. Identification of reporting redundancies and development of performance metrics
   >
-  > - **(a)** *In general* The Administrator shall, for grants under sections 2003 and 2004 and any other grants specified by the Administrator, submit a report to the congressional homeland security committees by not later than 120 days after the date of the enactment of the Redundancy Elimination and Enhanced Performance for Preparedness Grants Act, and by October 1st every 2 years thereafter, that—
+  > - **(a)** *In general* The Administrator shall, for grants under sections 2003 and 2004 and any other grants specified by the Administrator, submit a report to the appropriate committees of Congress by not later than 120 days after the date of the enactment of the Redundancy Elimination and Enhanced Performance for Preparedness Grants Act, and by October 1st every 2 years thereafter, that—
   >   - **(1)** identifies redundant rules, regulations, and requirements for reporting by recipients of such grants, and includes a plan for eliminating such identified redundancies and requirements;
   >   - **(2)** includes a plan for developing and improving the performance metrics required under section 2022(a)(4) for such grants; and
   >   - **(3)** includes an assessment of each program under which such grants are awarded.
@@ -34,6 +34,5 @@ This Act may be cited as the “Redundancy Elimination and Enhanced Performance 
   >   - **(6)** recommendations for program modifications to improve the results that the program achieves;
   >   - **(7)** a summary of key results of the program assessment that support maximizing the amount of funds appropriated for the program; and
   >   - **(8)** an assessment of the quality of customer service offered to recipients of funds under the program and a strategy for improving such service.
-  > - **(d)** *Congressional homeland security committees defined* In this section the term “congressional homeland security committees” means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to title XX the following new item:
