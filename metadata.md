@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3029
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3029
@@ -20,9 +20,10 @@ A bill to establish a research, development, and technology demonstration progra
 
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ A bill to establish a research, development, and technology demonstration progra
 - 2009-12-01 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-343.
 - 2009-12-01 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-343.
 - 2009-12-01 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

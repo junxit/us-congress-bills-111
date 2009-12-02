@@ -2,18 +2,18 @@
 legis-num: H.R. 3029
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3029
 
-> To establish a research, development, and technology demonstration program to improve the efficiency of gas turbines used in combined cycle power generation systems.
+> To establish a research, development, and technology demonstration program to improve the efficiency of gas turbines used in combined cycle and simple cycle power generation systems.
 
 ## § 1. High efficiency gas turbines
 
-- **(a)** *In general* The Secretary of Energy shall carry out a multiyear, multiphase program of research, development, and technology demonstration to improve the efficiency of gas turbines used in combined cycle power generation systems and to identify the technologies that ultimately will lead to gas turbine combined cycle efficiency of 65 percent.
+- **(a)** *In general* The Secretary of Energy shall carry out a multiyear, multiphase program of research, development, and technology demonstration to improve the efficiency of gas turbines used in power generation systems and to identify the technologies that ultimately will lead to gas turbine combined cycle efficiency of 65 percent or simple cycle efficiency of 50 percent.
 - **(b)** *Program elements* The program under this section shall—
-  - **(1)** support first-of-a-kind engineering and detailed gas turbine design for utility-scale electric power generation, including—
+  - **(1)** support first-of-a-kind engineering and detailed gas turbine design for megawatt-scale and utility-scale electric power generation, including—
     - **(A)** high temperature materials, including superalloys, coatings, and ceramics;
     - **(B)** improved heat transfer capability;
     - **(C)** manufacturing technology required to construct complex three-dimensional geometry parts with improved aerodynamic capability;
@@ -23,15 +23,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(G)** validation facilities for the testing of components and subsystems;
   - **(2)** include technology demonstration through component testing, subscale testing, and full scale testing in existing fleets;
   - **(3)** include field demonstrations of the developed technology elements so as to demonstrate technical and economic feasibility; and
-  - **(4)** assess overall combined cycle system performance.
+  - **(4)** assess overall combined cycle and simple cycle system performance.
 - **(c)** *Program goals* The goals of the multiphase program established under subsection (a) shall be—
   - **(1)** in phase I—
-    - **(A)** to develop the conceptual design of advanced high efficiency gas turbines that can achieve at least 62 percent combined cycle efficiency on a lower heating value basis; and
-    - **(B)** to develop and demonstrate the technology required for advanced high efficiency gas turbines that can achieve at least 62 percent combined cycle efficiency on a lower heating value basis; and
-  - **(2)** in phase II, to develop the conceptual design for advanced high efficiency gas turbines that can achieve at least 65 percent combined cycle efficiency on a lower heating value basis.
-- **(d)** *Proposals* Within 180 days after the date of enactment of this section, the Secretary shall solicit proposals for conducting activities under this section. In selecting proposals, the Secretary shall emphasize—
+    - **(A)** to develop the conceptual design of advanced high efficiency gas turbines that can achieve at least 62 percent combined cycle efficiency or 47 percent simple cycle efficiency on a lower heating value basis; and
+    - **(B)** to develop and demonstrate the technology required for advanced high efficiency gas turbines that can achieve at least 62 percent combined cycle efficiency or 47 percent simple cycle efficiency on a lower heating value basis; and
+  - **(2)** in phase II, to develop the conceptual design for advanced high efficiency gas turbines that can achieve at least 65 percent combined cycle efficiency or 50 percent simple cycle efficiency on a lower heating value basis.
+- **(d)** *Proposals* Within 180 days after the date of enactment of this Act, the Secretary shall solicit grant and contract proposals from industry, universities, and other appropriate parties for conducting activities under this Act. In selecting proposals, the Secretary shall emphasize—
   - **(1)** the extent to which the proposal will stimulate the creation or increased retention of jobs in the United States; and
   - **(2)** the extent to which the proposal will promote and enhance United States technology leadership.
-- **(e)** *Cost sharing* Section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352) shall apply to an award of financial assistance made under this section.
-- **(f)** *Limits on participation* The limits on participation applicable under section 999E of the Energy Policy Act of 2005 (42 U.S.C. 16375) shall apply to financial assistance awarded under this section.
-- **(g)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary for carrying out this section $65,000,000 for each of fiscal years 2011 through 2014.
+- **(e)** *Competitive Awards* The provision of funding under this section shall be on a competitive basis with an emphasis on technical merit.
+- **(f)** *Cost sharing* Section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352) shall apply to an award of financial assistance made under this section.
+- **(g)** *Limits on participation* The limits on participation applicable under section 999E of the Energy Policy Act of 2005 (42 U.S.C. 16375) shall apply to financial assistance awarded under this section.
+- **(h)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary for carrying out this section $85,000,000 for each of fiscal years 2011 through 2014.
