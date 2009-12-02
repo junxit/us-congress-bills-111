@@ -7,22 +7,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1242
 
-> To amend the Emergency Economic Stabilization Act of 2008 to provide for additional monitoring and accountability of the Troubled Assets Relief Program.
+> To amend the Emergency Economic Stabilization Act of 2008 to provide for additional monitoring and accountability of the Troubled Asset Relief Program.
 
-## § 1. Additional monitoring and accountability for the Troubled Assets Relief Program
+## § 1. Additional monitoring and accountability for the Troubled Asset Relief Program
 
-Section 113 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5223) is amended by adding at the end the following new subsection:
+Section 114 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5224) is amended by adding at the end the following new subsection:
 
-> - **(e)** *Additional monitoring and accountability*
->   - **(1)** *In general* The Secretary shall—
->     - **(A)** provide to the Special Inspector General of the Troubled Assets Relief Program, the Comptroller General, and the Congressional Oversight Panel ongoing, continuous, and close to real-time updates of the status of funds distributed under this title through a standardized electronic database that combines all of the necessary information from existing public and private sources to track the status of the funds distributed under this title;
->     - **(B)** compare the data in such database with any other data the Secretary chooses to review for any activities that are inconsistent with the purposes of this Act;
->     - **(C)** collect from all Federal agencies any regulatory filings, internal models, financial models, and analytics associated with the financial assistance received under this title on no less than a daily basis to help enable the Secretary to determine the effectiveness of the Troubled Assets Relief Program in stimulating prudent lending and strengthening bank capital;
->     - **(D)** if the Secretary determines that the goals of this title are not being met, work with the Federal agencies supplying the information to have them provide the recipients with recommendations for better meeting the goals of this title; and
->     - **(E)** if the Secretary determines that the goals of this title are not met following such recommendations, adjust the future uses of assistance available under this title.
->   - **(2)** *Database as repository* To the extent practicable, all information that is required to be reported under this title by institutions receiving financial assistance under this title shall be included by the Secretary in the database established pursuant to paragraph (1)(A).
->   - **(3)** *Procedures and regulations* The Secretary shall, in consultation with the appropriate Federal banking agencies, define and manage the procedures and regulations needed for carrying out this subsection.
+> - **(c)** *Additional monitoring and accountability*
+>   - **(1)** *Electronic database*
+>     - **(A)** *In general* The Secretary shall establish an electronic database to monitor the use of funds distributed under this title.
+>     - **(B)** *Sources of data* The database established under subparagraph (A) shall include data from the following sources, to the extent such data is available, usable, and relevant to determining the effectiveness of the Troubled Asset Relief Program:
+>       - **(i)** Regulatory data from any government source.
+>       - **(ii)** Filing data from any government agency receiving regular and structured filings.
+>       - **(iii)** Public records.
+>       - **(iv)** News filings, press releases, and other forms of publicly available data.
+>       - **(v)** Data collected under subparagraph (C)(v).
+>       - **(vi)** All other information that is required to be reported under this title by institutions receiving financial assistance or procurement contracts under this title.
+>     - **(C)** *Administration and use of database* The Secretary shall—
+>       - **(i)** ensure that the database uses accurate data structures and taxonomies to allow for easy cross-referencing, compiling, and reporting of numerous data elements;
+>       - **(ii)** ensure that the database provides for filtering of data content to allow users to screen for the events most relevant to identifying waste, fraud, and abuse, such as management changes and material corporate events;
+>       - **(iii)** ensure that the database provides geospatial analysis capabilities;
+>       - **(iv)** make the database available to the Comptroller General of the United States and to the Special Inspector General and the Congressional Oversight Panel established under sections 121 and 125, respectively, to provide them with access to current information on the status of the funds distributed under this title, including funds distributed through procurement contracts;
+>       - **(v)** collect from each Federal agency on at least a daily basis all data that is relevant to determining the effectiveness of the Troubled Asset Relief Program in stimulating prudent lending and strengthening bank capital, including regulatory filings and data generated by the use of internal models, financial models, and analytics; and
+>       - **(vi)** compare the data in the database with other appropriate data to identify activities inconsistent with the goals of this title.
+>   - **(2)** *Meeting TARP goals*
+>     - **(A)** *Determination by Secretary; Recommendations* If the Secretary determines that a recipient’s use of funds distributed under this title is not meeting the goals of this title, the Secretary shall, in coordination with the appropriate Federal agencies, develop recommendations for better meeting such goals, and such agencies shall provide such recommendations to such recipient.
+>     - **(B)** *Future uses of funds* If the Secretary determines that the use of funds described in subparagraph (A) does not meet the goals of this title within a reasonable time after the recommendations communicated under such subparagraph, the Secretary shall modify the permitted uses of funds distributed under this title to avoid similar problems in the future.
+>   - **(3)** *Public access to database* The Secretary shall, subject to paragraph (4), adopt rules and procedures for public access to the database created by this subsection.
+>   - **(4)** *Prohibition against disclosure of certain information*
+>     - **(A)** *Prohibition* A person or entity shall not disclose to the public information collected under this subsection that is prohibited from disclosure by any Federal or State law or regulation or by private contract or that is considered to be proprietary.
+>     - **(B)** *Protection of information* The Secretary shall implement reasonable measures to prevent the disclosure of information in violation of subparagraph (A).
+>     - **(C)** *Criminal liability for disclosure* A Federal officer or employee, or a contractor of any Federal agency or employee of such contractor, who intentionally discloses to the public or intentionally causes to be disclosed to the public information prohibited from disclosure by subparagraph (A), knowing that such information is prohibited from disclosure, shall be fined under title 18, United States Code, or imprisoned for not more than 1 year, or both.
+>   - **(5)** *Regulations and procedures* The Secretary shall, in consultation with the appropriate Federal agencies, promulgate regulations and establish any other procedures necessary to carry out this subsection.
+>   - **(6)** *Implementation deadlines*
+>     - **(A)** *Contract services* Not later than 30 days after the date of the enactment of this subsection, the Secretary shall issue a request for proposal and award contract services as required by this subsection.
+>     - **(B)** *Operation of database* The Secretary shall ensure that the database described in paragraph (1)(A) is operational not later than 180 days after the date of the enactment of this subsection.
 
-## § 2. Effective date
+## § 2. Reducing TARP Funds to offset costs of program changes
 
-The amendment made by section 1 shall take effect 60 days after the date of the enactment of this Act.
+Section 115(a)(3) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5225(a)(3)) is amended by striking “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000, outstanding at any one time” and inserting “$700,000,000,000, as such amount is reduced by $1,293,000,000, outstanding at any one time”.
