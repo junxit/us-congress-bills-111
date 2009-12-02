@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3598
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3598
@@ -35,9 +35,10 @@ Energy and Water Research Integration Act
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Energy and Water Research Integration Act
 - 2009-12-01 — Placed on the Union Calendar, Calendar No. 197.
 - 2009-12-01 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-344.
 - 2009-12-01 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-344.
+- 2009-12-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
