@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2873
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2873
@@ -16,9 +16,10 @@ Enhanced S.E.C. Enforcement Authority Act
 
 - Rep. Campbell, John [R-CA-48] (C001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Enhanced S.E.C. Enforcement Authority Act
 - 2009-12-02 — Mr. Kanjorski moved to suspend the rules and pass the bill, as amended.
 - 2009-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13404)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13404)
+- 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
