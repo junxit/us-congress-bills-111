@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3634
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3634
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 109 Mai
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 109 Mai
 - 2009-12-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-02 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 0 (Roll no. 918). (text: CR 12/1/2009 H13405-13406)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 0 (Roll no. 918).(text: CR 12/1/2009 H13405-13406)
+- 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
