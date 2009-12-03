@@ -2,7 +2,7 @@
 legis-num: H. RES. 941
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 941
@@ -15,7 +15,7 @@ That upon the adoption of this resolution it shall be in order to consider in th
 
 In the engrossment of H.R. 4154, the Clerk shall—
 
-- **(a)** add the text of H.R. 2920, as passed by the House, as new matter at the end of H.R. 4154;
-- **(b)** conform the title of H.R. 4154 to reflect the addition to the engrossment of the text of H.R. 2920;
-- **(c)** assign appropriate designations to provisions within the engrossment; and
-- **(d)** conform provisions for short titles within the engrossment.
+- **(1)** add the text of H.R. 2920, as passed by the House, as new matter at the end of H.R. 4154;
+- **(2)** conform the title of H.R. 4154 to reflect the addition to the engrossment of the text of H.R. 2920;
+- **(3)** assign appropriate designations to provisions within the engrossment; and
+- **(4)** conform provisions for short titles within the engrossment.
