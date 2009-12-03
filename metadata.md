@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3980
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3980
@@ -20,9 +20,10 @@ Redundancy Elimination and Enhanced Performance for Preparedness Grants Act
 
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Redundancy Elimination and Enhanced Performance for Preparedness Grants Act
 - 2009-12-02 — Mr. Cuellar moved to suspend the rules and pass the bill, as amended.
 - 2009-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 922). (text: CR H13411-13412)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 922).(text: CR H13411-13412)
+- 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
