@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3542
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3542
@@ -25,3 +25,8 @@ State Admission Day Recognition Act of 2009
 - 2009-09-09 — Introduced in House
 - 2009-09-09 — Introduced in House
 - 2009-09-09 — Referred to the House Committee on House Administration.
+- 2009-11-04 — Committee Consideration and Mark-up Session Held.
+- 2009-11-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-12-03 — Placed on the Union Calendar, Calendar No. 205.
+- 2009-12-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-353.
+- 2009-12-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-353.
