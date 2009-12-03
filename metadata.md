@@ -1,7 +1,7 @@
 ---
 measure: S. 372
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 372
@@ -16,7 +16,7 @@ Whistleblower Protection Enhancement Act of 2010
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -28,6 +28,8 @@ Whistleblower Protection Enhancement Act of 2010
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Burris, Roland [D-IL] (B001266)
 
 ## Committees (1)
 
@@ -38,3 +40,9 @@ Whistleblower Protection Enhancement Act of 2010
 - 2009-02-03 — Introduced in Senate
 - 2009-02-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S1435-1438)
 - 2009-02-03 — Sponsor introductory remarks on measure. (CR S1434-1435)
+- 2009-03-20 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2009-06-11 — Committee on Homeland Security and Governmental Affairs Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia. Hearings held. With printed Hearing: S.Hrg. 111-299.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-12-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-101.
+- 2009-12-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-101.
+- 2009-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
