@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 197
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 197
@@ -28,9 +28,10 @@ Encouraging banks and mortgage servicers to work with families affected by conta
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Encouraging banks and mortgage servicers to work with families affected by conta
 - 2009-12-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 920). (text: CR H13402)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 920).(text: CR H13402)
 - 2009-12-02 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-03 — Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs.
