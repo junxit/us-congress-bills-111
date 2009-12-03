@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1353
@@ -16,9 +16,11 @@ Dale Long Emergency Medical Service Providers Protection Act
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ Dale Long Emergency Medical Service Providers Protection Act
 - 2009-06-25 — Introduced in Senate
 - 2009-06-25 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S7077)
 - 2009-06-25 — Sponsor introductory remarks on measure. (CR S7077)
+- 2009-12-03 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-12-03 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-12-03 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.
