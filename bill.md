@@ -61,8 +61,7 @@ This Act may be cited as the “Maritime Safety Act of 2009”.
 
 ## § 3. Cold weather survival training
 
-- **(a)** *Report* The Commandant of the Coast Guard shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the efficacy of cold weather survival training conducted by the Coast Guard in Coast Guard District 17 over the preceding 5 years. The report shall include plans for conducting such training in fiscal years 2010 through 2013.
-- **(b)** *Authorization of appropriations for training* There are authorized to be appropriated to the Secretary of Homeland Security $150,000 to carry out cold weather survival training in Coast Guard District 17.
+The Commandant of the Coast Guard shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the efficacy of cold weather survival training conducted by the Coast Guard in Coast Guard District 17 over the preceding 5 years. The report shall include plans for conducting such training in fiscal years 2010 through 2013.
 
 ## § 4. Fishing vessel safety
 
@@ -143,7 +142,7 @@ This Act may be cited as the “Maritime Safety Act of 2009”.
         > - **(v)** owners of vessels to which this chapter applies.
 
   - **(3)** *Termination* Section 4508(e)(1) of that title is amended by striking “September 30, 2010.” and inserting “September 30, 2020.”.
-  - **(4)** *Clerical amendment* The table of section at the beginning of chapter 45 of title 46, United States Code, is amended by striking the item relating to such section and inserting the following:
+  - **(4)** *Clerical amendment* The table of sections at the beginning of chapter 45 of title 46, United States Code, is amended by striking the item relating to such section and inserting the following:
 - **(d)** *Loadlines for vessels 79 feet or greater in length* Section 5102(b)(3) of title 46, United States Code, is amended by inserting after “vessel” the following “, unless the vessel is built or undergoes a major conversion completed after July 1, 2010”.
 - **(e)** *Classing of vessels*
   - **(1)** *In general* Section 4503 of title 46, United States Code, is amended—
@@ -165,7 +164,7 @@ This Act may be cited as the “Maritime Safety Act of 2009”.
       >     - **(A)** remain subject to the requirements of a classification society approved by the Secretary; and
       >     - **(B)** have on board a certificate from that society.
 
-  - **(2)** *Clerical amendment* The table of section at the beginning of chapter 45 of title 46, United States Code, is amended by striking the item relating to such section and inserting the following:
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 45 of title 46, United States Code, is amended by striking the item relating to such section and inserting the following:
 - **(f)** *Alternative safety compliance program* No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d) of the title 46, United States Code, as amended by this section.
 
 ## § 5. Mariner records
@@ -217,7 +216,7 @@ Section 8905 of title 46, United States Code, is amended—
   > - **(b)** Using the standards established under subsection (a), the Secretary may also certify lifesaving equipment that is not required to be carried on vessels subject to part B of this title to ensure that such equipment is suitable for its intended purpose.
   > - **(c)** At least once every 10 years the Secretary shall review and revise the standards established under subsection (a) to ensure that the standards meet the requirements of this section.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of that title is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following:
 
 ## § 9. Approval of survival craft
 
@@ -229,7 +228,7 @@ Section 8905 of title 46, United States Code, is amended—
   >   - **(1)** it was approved by the Secretary before January 1, 2010; and
   >   - **(2)** it is in serviceable condition.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of that title is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following:
 
 ## § 10. Safety management
 
@@ -335,27 +334,15 @@ Not later than 180 days after the date of enactment of this Act, the Commandant 
 - **(3)** providing notice to an applicant of the status of the pending application, including a process to allow the applicant to check on the status of the application by electronic means; and
 - **(4)** ensuring that all information collected with respect to applications for new or renewed licenses, merchant mariner documents, and certificates of registry is retained in a secure electronic format.
 
-## § 19. Pilot required
-
-Section 8502(g) of title 46, United States Code, is amended—
-
-- **(1)** in paragraph (1), by inserting “and Buzzards Bay, Massachusetts” before “, if any,”; and
-- **(2)** by adding at the end the following:
-  > - **(3)** In any area of Buzzards Bay, Massachusetts, where a single-hull tanker or tank vessel carrying 5,000 or more barrels of oil or other hazardous material is required to be under the direction and control of a pilot, the pilot may not be a member of the crew of that vessel, and shall be a pilot licensed—
-  >   - **(A)** by the State of Massachusetts who is operating under a Federal first class pilot’s license; or
-  >   - **(B)** under section 7101 of this title who has made at least 20 round trips on a vessel as a quartermaster, wheelsman, able seaman, or apprentice pilot, or in an equivalent capacity, including—
-  >     - **(i)** at least 1 round trip through Buzzards Bay in the preceding 12-month period; and
-  >     - **(ii)** if the vessel will be navigating in periods of darkness in an area of Buzzards Bay where a vessel is required by regulation to have a pilot, at least 5 round trips through Buzzards Bay during periods of darkness.
-
-## § 20. Offshore supply vessels
+## § 19. Offshore supply vessels
 
 - **(a)** *Definition* Section 2101(19) of title 46, United States Code, is amended by striking “of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”.
-- **(b)** *Exemption* Section 5209(b)(1) of the Oceans Act of 1992 (Public Law 102–587; 46 U.S.C. 2101 note) is amended by inserting before the period at the end the following: “of less than 500 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.”.
+- **(b)** *Exemption* Section 5209(b)(1) of the Oceans Act of 1992 (Public Law 102–587; 46 U.S.C. 2101 note) is amended by inserting before the period at the end the following: “of less than 500 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”.
 - **(c)** *Removal of tonnage limits*
   - **(1)** *Able seamen-offshore supply vessels* Section 7310 of title 46, United States Code, is amended by striking “of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”.
   - **(2)** *Scale of employment: able seamen* Section 7312(d) of title 46, United States Code, is amended by striking “of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”.
 - **(d)** *Watches* Section 8104 of title 46, United States Code, is amended—
-  - **(1)** in subsection (g), by inserting after “offshore supply vessel” the following: “of less than 500 gross tons as measured under section 14502 of this title, or less than 6,000 gross tons as measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title,”;
+  - **(1)** in subsection (g), by inserting after “offshore supply vessel” the following: “of less than 500 gross tons as measured under section 14502 of this title, or less than 6,000 gross tons as measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title”;
   - **(2)** in subsection (d), by inserting “(1)” after “(d)”, and by adding at the end the following:
     > - **(2)** Paragraph (1) does not apply to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and record-keeping of that service) prescribed by the Secretary.
 
@@ -375,17 +362,17 @@ Section 8502(g) of title 46, United States Code, is amended—
     - **(B)** for the purpose of enforcing chapter 37 of title 46, United States Code, use tank vessel standards for offshore supply vessels of at least 6,000 gross tons after considering the characteristics, methods of operation, and nature of the service of the vessel; and
     - **(C)** authorize a master, mate, or engineer whom the Secretary decides possesses the experience on an offshore supply vessel under 6,000 gross tons to serve on an offshore supply vessel over at least 6,000 gross tons.
 
-## § 21. Associated equipment
+## § 20. Associated equipment
 
 Section 2101(1)(B) of title 46, United States Coded, is amended by inserting “with the exception of emergency locator beacons,” before “does”.
 
-## § 22. Lifesaving devices on uninspected vessels
+## § 21. Lifesaving devices on uninspected vessels
 
-Section 4102(b) of 46, United States Code, is amended to read as follows:
+Section 4102(b) of title 46, United States Code, is amended to read as follows:
 
 > - **(b)** The Secretary shall prescribe regulations requiring the installation, maintenance, and use of life preservers and other lifesaving devices for individuals on board uninspected vessels.
 
-## § 23. Study of blended fuels in marine application
+## § 22. Study of blended fuels in marine application
 
 - **(a)** *Survey*
   - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of Homeland Security, acting through the Commandant of the Coast Guard, shall submit a survey of published data and reports, pertaining to the use, safety, and performance of blended fuels in marine applications, to the Committee on Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation of the Senate.
@@ -405,11 +392,11 @@ Section 4102(b) of 46, United States Code, is amended to read as follows:
     - **(C)** fires and explosions on board vessels propelled by engines using blended fuels.
 - **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Homeland Security to carry out the survey and study under this section $1,000,000.
 
-## § 24. Renewal of advisory committees
+## § 23. Renewal of advisory committees
 
 - **(a)** *Great Lakes Pilotage Advisory Committee* Section 9307(f)(1) of title 46, United States Code, is amended by striking “September 30, 2010.” and inserting “September 30, 2020.”.
 - **(b)** *National boating safety advisory council* Section 13110 of title 46, United States Code, is amended—
-  - **(1)** in subsection (d), by deleting the first sentence; and
+  - **(1)** in subsection (d), by striking the first sentence; and
   - **(2)** in subsection (e), by striking “September 30, 2010.” and inserting “September 30, 2020.”.
 - **(c)** *Houston-Galveston Navigation Safety Advisory Committee* Section 18(h) of the Coast Guard Authorization Act of 1991 (Public Law 102–241 as amended by Public Law 104–324) is amended by striking “September 30, 2010.” and inserting “September 30, 2020.”.
 - **(d)** *Lower Mississippi River Waterway Safety Advisory Committee* Section 19 of the Coast Guard Authorization Act of 1991 (Public Law 102–241) is amended—
