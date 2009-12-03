@@ -1,7 +1,7 @@
 ---
 measure: H.R. 320
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5403` | add-at-end | Section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
