@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3963
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3963
@@ -24,9 +24,10 @@ Criminal Investigative Training Restoration Act
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Criminal Investigative Training Restoration Act
 - 2009-12-02 — Ms. Jackson-Lee moved to suspend the rules and pass the bill.
 - 2009-12-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13415)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13415)
+- 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
