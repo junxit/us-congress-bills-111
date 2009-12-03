@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 129
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 129
@@ -65,9 +65,10 @@ Congratulating the Sailors of the United States Submarine Force upon the complet
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Murphy, Scott [D-NY-20] (M001178)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -87,3 +88,4 @@ Congratulating the Sailors of the United States Submarine Force upon the complet
 - 2009-12-02 — Mr. Kissell moved to suspend the rules and agree to the resolution.
 - 2009-12-02 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 915). (text: CR H13394)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 915).(text: CR H13394)
+- 2009-12-03 — Received in the Senate and referred to the Committee on Armed Services.
