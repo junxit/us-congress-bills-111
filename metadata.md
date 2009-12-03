@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 515
@@ -99,10 +99,11 @@ Radioactive Import Deterrence Act
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -134,3 +135,4 @@ Radioactive Import Deterrence Act
 - 2009-12-02 — Placed on the Union Calendar, Calendar No. 200.
 - 2009-12-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-348, Part I.
 - 2009-12-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-348, Part I.
+- 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
