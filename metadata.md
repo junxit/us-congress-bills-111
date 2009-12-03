@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3224
@@ -33,3 +33,14 @@ To authorize the Board of Regents of the Smithsonian Institution to plan, design
 - 2009-07-15 — Referred to House Administration
 - 2009-07-15 — Referred to House Transportation and Infrastructure
 - 2009-07-15 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-07-16 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-07-30 — Committee Consideration and Mark-up Session Held.
+- 2009-07-30 — Ordered to be Reported by Voice Vote.
+- 2009-07-30 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2009-09-30 — Reported by the Committee on Transportation. H. Rept. 111-276, Part I.
+- 2009-09-30 — Reported by the Committee on Transportation. H. Rept. 111-276, Part I.
+- 2009-11-04 — Committee Consideration and Mark-up Session Held.
+- 2009-11-04 — Ordered to be Reported by Voice Vote.
+- 2009-12-03 — Placed on the Union Calendar, Calendar No. 204.
+- 2009-12-03 — Reported by the Committee on House Administration. H. Rept. 111-276, Part II.
+- 2009-12-03 — Reported by the Committee on House Administration. H. Rept. 111-276, Part II.
