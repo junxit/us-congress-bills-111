@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 341
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 341
@@ -16,10 +16,11 @@ A resolution supporting peace, security, and innocent civilians affected by conf
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ A resolution supporting peace, security, and innocent civilians affected by conf
 - 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-11-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2009-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
+- 2009-12-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S12459-12460; text as passed Senate: CR S12459-12460)
+- 2009-12-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S12459-12460; text as passed Senate: CR S12459-12460)
