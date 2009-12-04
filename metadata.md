@@ -1,7 +1,7 @@
 ---
 measure: S. 2129
 congress: 111
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 2129
@@ -16,7 +16,7 @@ National Women's History Museum Act of 2009
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -37,13 +37,18 @@ National Women's History Museum Act of 2009
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
 - 2009-10-29 — Introduced in Senate
 - 2009-10-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2009-10-29 — Sponsor introductory remarks on measure. (CR S10928)
+- 2009-12-04 — Referred to the Committee on Environment and Public Works.
+- 2009-12-04 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S12459)
+- 2009-12-04 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S12459)
