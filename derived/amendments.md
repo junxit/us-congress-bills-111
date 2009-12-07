@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by redesignating subsection (d) as subsection (e), and by inserting after subsection (c) the following new subsection: | the bill names no machine-readable US Code section |

@@ -15,9 +15,13 @@ This Act may be cited as the “Migratory Bird Treaty Act Penalty and Enforcemen
 
 ## § 2. Amendment of Migratory Bird Treaty Act
 
-Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by inserting after subsection (b) the following:
+Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by redesignating subsection (d) as subsection (e), and by inserting after subsection (c) the following new subsection:
 
-> - **(c)**
->   - **(1)** Except in the case of hunting and other activity allowed under section 3, whoever, in violation of this Act, intentionally and maliciously takes by any manner any migratory bird shall be guilty of a felony and, upon conviction, shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for each violation.
->   - **(2)** Any person who intentionally and maliciously commits any other act or omission in violation of this Act or any regulations issued under this Act shall be guilty of a felony and, upon conviction, shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for each violation.
->   - **(3)** The Secretary or the Secretary of the Treasury shall pay, from sums received as fines under this subsection and subject to the availability of appropriations, a reward to any person who furnishes information that leads to an arrest or a criminal conviction for any violation of this Act. The amount of the reward, if any, shall be designated by the Secretary or the Secretary of the Treasury, as appropriate. Any officer or employee of the United States or any State or local government who furnishes information or renders service in the performance of his or her official duties is ineligible for payment under this paragraph.
+> - **(d)**
+>   - **(1)** Except in the case of hunting and other activity allowed under section 3, whoever in violation of this Act kills or wounds a migratory bird in an aggravated manner shall, in lieu of any penalty for such violation—
+>     - **(A)** for the first violation, be fined under title 18, United States Code, imprisoned for not more than one year, or both; and
+>     - **(B)** for the second and any subsequent violation, be fined under title 18 of the United States Code, imprisoned for not more than 2 years, or both.
+>   - **(2)** The authority under section 3(k) of the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l(k)) applies with respect to a violation described in paragraph (1).
+>   - **(3)** For the purposes of this subsection the term “aggravated manner” means deliberately and in a manner that—
+>     - **(A)** demonstrates indifference to the pain and suffering of the bird; or
+>     - **(B)** involves actions that would shock a reasonable person.
