@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1672
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in section 402, by striking “(in this title referred to as the Commission)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking sections 403, 404, and 405 and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in section 402, by striking “(in this title referred to as the Commission)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking sections 403 and 404; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 405 as section 410; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 402 the following new sections: | the bill names no machine-readable US Code section |
