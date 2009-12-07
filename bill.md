@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3940
 
-> To amend Public Law 96–597 to clarify the authority of the Secretary of the Interior to extend grants and other assistance to facilitate political status public education programs for the peoples of the non-self-governing territories of the United States.
+> To authorize the Secretary of the Interior to extend grants and other assistance to facilitate a political status public education program for the people of Guam.
 
 ## § 1. Sense of Congress
 

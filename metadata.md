@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3940
 congress: 111
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3940
