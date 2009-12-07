@@ -1,7 +1,7 @@
 ---
 measure: H.R. 118
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 118
@@ -48,3 +48,9 @@ To authorize the addition of 100 acres to Morristown National Historical Park.
 - 2009-11-16 — Placed on the Union Calendar, Calendar No. 193.
 - 2009-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-335.
 - 2009-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-335.
+- 2009-12-07 — Considered under suspension of the rules. (consideration: CR H13536-13537)
+- 2009-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 118.
+- 2009-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-07 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13536)
+- 2009-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13536)
