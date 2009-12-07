@@ -9,10 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To rename the Ocmulgee National Monument.
 
-## § 1. Ocmulgee National Monument renamed
+## § 1. Redesignation
 
-The Act of June 14, 1934, (Chapter 519; 48 Stat. 958; 16 U.S.C. 447a–447c) is amended by adding at the end the following:
+The Ocmulgee National Monument in Macon, Georgia, shall be known and redesignated as the “Ocmulgee Mounds National Monument”.
 
-> ## § 4.
->
-> Notwithstanding section 1, the Ocmulgee National Monument shall be known as the Ocmulgee Mounds National Monument. Any reference in a law, map, regulation, document, paper, or other record of the United States to the Ocmulgee National Monument is deemed to be a reference to the Ocmulgee Mounds National Monument.
+## § 2. References
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the Ocmulgee National Monument shall be deemed to be a reference to the “Ocmulgee Mounds National Monument”.
