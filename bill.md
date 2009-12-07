@@ -22,7 +22,7 @@ This Act may be cited as the “Petersburg National Battlefield Boundary Modific
 ## § 3. Administrative jurisdiction transfer
 
 - **(a)** *In general* The Secretary and the Secretary of the Army are authorized to transfer administrative jurisdiction for approximately 1.171 acres of land under the jurisdiction of the Department of the Interior within the boundary of the Petersburg National Battlefield, for approximately 1.170 acres of land under the jurisdiction of the Department of the Army within the boundary of the Fort Lee Military Reservation adjacent to the boundary of the Petersburg National Battlefield.
-- **(b)** *Map* The land to be exchanged is depicted on the map titled “Petersburg National Battlefield Administrative Jurisdiction Transfer”, numbered ________ and dated _____. The map shall be available for public inspection in the appropriate offices of the National Park Service.
+- **(b)** *Map* The land to be exchanged is depicted on the map titled “Petersburg National Battlefield Proposed Transfer of Administrative Jurisdiction”, numbered 325/80,081, and dated October 2009. The map shall be available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Conditions of transfer* The transfer of administrative jurisdiction authorized in subsection (a) shall be subject to the following conditions:
   - **(1)** *No reimbursement or consideration* The transfer shall occur without reimbursement or consideration.
   - **(2)** *Deadline* The Secretary and the Secretary of the Army shall complete the transfers authorized by this section not later than 120 days after the funds are made available for that purpose.
