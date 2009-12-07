@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3940
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3940
@@ -16,6 +16,13 @@ To clarify the availability of existing funds for political status education in 
 
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
+## Cosponsors (4)
+
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -26,3 +33,18 @@ To clarify the availability of existing funds for political status education in 
 - 2009-10-27 — Introduced in House
 - 2009-10-27 — Referred to the House Committee on Natural Resources.
 - 2009-10-27 — Sponsor introductory remarks on measure. (CR E2644)
+- 2009-10-29 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-11-05 — Subcommittee Hearings Held.
+- 2009-11-18 — Committee Consideration and Mark-up Session Held.
+- 2009-11-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2009-11-18 — Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.
+- 2009-12-07 — Considered under suspension of the rules. (consideration: CR H13533-13534)
+- 2009-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3940.
+- 2009-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-07 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2009-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13533)
+- 2009-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13533)
+- 2009-12-07 — Placed on the Union Calendar, Calendar No. 209.
+- 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-357.
+- 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-357.
+- 2009-12-07 — The title of the measure was amended. Agreed to without objection.
