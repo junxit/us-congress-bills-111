@@ -17,7 +17,7 @@ This Act may be cited as the “Northwest Straits Marine Conservation Initiative
 
 The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law 105–384; 112 Stat. 3458) is amended—
 
-- **(1)** in section 402, by striking “(in this title referred to as the “Commission”)”;
+- **(1)** in section 402, by striking “(in this title referred to as the “Commission”)”; and
 - **(2)** by striking sections 403 and 404;
 - **(3)** by redesignating section 405 as section 410; and
 - **(4)** by inserting after section 402 the following new sections:
@@ -82,7 +82,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   >   - **(3)** To identify factors adversely affecting or preventing the restoration of the health of the marine ecosystem and coastal economies of the Northwest Straits.
   >   - **(4)** To develop scientifically sound restoration and protection recommendations, informed by local priorities, that address such factors.
   >   - **(5)** To assist in facilitating the successful implementation of such recommendations by developing broad support among appropriate authorities, stakeholder groups, and local communities.
-  >   - **(6)** To develop regional projects based on such recommendations to protect and restore the Northwest Straits ecosystem.
+  >   - **(6)** To develop and implement regional projects based on such recommendations to protect and restore the Northwest Straits ecosystem.
   >   - **(7)** To serve as a public forum for the discussion of policies and actions of Federal, State, or local government, an Indian tribe affected by this title, or the Government of Canada with respect to the marine ecosystem of the Northwest Straits.
   >   - **(8)** To inform appropriate authorities and local communities about the marine ecosystem of the Northwest Straits and about issues relating to the marine ecosystem of the Northwest Straits.
   >   - **(9)** To consult with all Indian tribes affected by this title to ensure that the work of the Commission does not violate tribal treaty rights.
@@ -90,7 +90,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   > - **(d)** *Coordination and collaboration* The Commission shall carry out the duties described in subsection (b) in coordination and collaboration, when appropriate, with Federal, State, and local governments and Indian tribes affected by this title.
   > - **(e)** *Regulatory authority* The Commission shall have no power to issue regulations.
   > - **(f)** *Annual report*
-  >   - **(1)** *In general* Each year, the Commission shall prepare, submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Natural Resources of the House of Representatives, and the Under Secretary for Oceans and Atmosphere, and make available to the public an annual report describing—
+  >   - **(1)** *In general* Each year, the Commission shall prepare, submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Under Secretary for Oceans and Atmosphere, and make available to the public an annual report describing—
   >     - **(A)** the activities carried out by the Commission during the preceding year; and
   >     - **(B)** the progress of the Commission in achieving the benchmarks described in paragraph (2).
   >   - **(2)** *Benchmarks* The benchmarks described in this paragraph are the following:
