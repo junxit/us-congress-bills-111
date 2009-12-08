@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2221
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2221
@@ -32,3 +32,19 @@ Data Accountability and Trust Act
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Introduced in House
 - 2009-04-30 — Referred to the House Committee on Energy and Commerce.
+- 2009-05-01 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2009-05-05 — Subcommittee Hearings Held.
+- 2009-06-03 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-06-03 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-09-30 — Committee Consideration and Mark-up Session Held.
+- 2009-09-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-12-08 — Considered under suspension of the rules. (consideration: CR H13586-13591)
+- 2009-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2221.
+- 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-08 — Mr. Rush moved to suspend the rules and pass the bill, as amended.
+- 2009-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13586-13590)
+- 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13586-13590)
+- 2009-12-08 — Placed on the Union Calendar, Calendar No. 214.
+- 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-362.
+- 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-362.
+- 2009-12-08 — The title of the measure was amended. Agreed to without objection.
