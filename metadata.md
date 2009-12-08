@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3388
@@ -16,10 +16,11 @@ Petersburg National Battlefield Boundary Modification Act
 
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Petersburg National Battlefield Boundary Modification Act
 - 2009-12-07 — Placed on the Union Calendar, Calendar No. 211.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-359, Part I.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-359, Part I.
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
