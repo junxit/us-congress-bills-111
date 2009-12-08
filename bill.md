@@ -17,13 +17,14 @@ This Act may be cited as the “Western Hemisphere Drug Policy Commission Act of
 
 Congress finds the following:
 
-- **(1)** While the United States accounts for approximately 5 percent of world population, in 2007, an estimated 17.2 percent of the world’s users of illegal drugs were from the United States.
-- **(2)** 100 percent of the United States cocaine supply and 90 percent of the United States heroin supply originates in the Andean countries of Bolivia, Colombia and Peru.
-- **(3)** In those source countries, the cultivation, production and trafficking of cocaine and heroin generate violence, instability and corruption.
-- **(4)** In the transit countries of Central America, Mexico, Ecuador, Haiti and other Caribbean nations, drug trafficking is central to the growing strength of organized criminal gangs that threaten local and national law enforcement, political institutions and citizen security.
-- **(5)** Organized criminal cartels in Mexico are engaged in a civil conflict with each other and a conflict with Mexican counterdrug security forces. These cartels control the wholesale of virtually all cocaine trafficked into major urban areas in the United States.
-- **(6)** Drug-related violence is on the rise in Mexico and along the United States-Mexico border. 5,661 people died in Mexico in 2008 alone as a result of drug-related violence. This is more than double the 2007 total of 2,773.
-- **(7)** From 1980–2008, United States counternarcotics assistance from the State and Defense Departments to Latin America and the Caribbean totaled about $11,300,000,000. The Drug Enforcement Administration (DEA) has spent an additional $2,500,000,000 in the Western Hemisphere during the same period. In those same years, the number of lifetime drug users has steadily risen for marijuana, cocaine, and heroin. In 1982 there were an estimated 53,000 marijuana users, which doubled to over 100,000 in 2007. Similarly, there were fewer than 22,000 cocaine users and fewer than 2,000 heroin users in 1982, while today there are approximately 36,000 and 3,800, respectively.
+- **(1)** According to the Substance Abuse and Mental Health Services Administration’s (SAMHSA) National Survey on Drug Use and Health, in 2008 in the United States, there were an estimated 25,768,000 users of marijuana, 5,255,000 users of cocaine, 850,000 users of methamphetamine, and 453,000 users of heroin.
+- **(2)** Nearly 100 percent of the United States cocaine supply originates in the Andean countries of Bolivia, Colombia, and Peru and over 90 percent of the United States heroin supply originates in Colombia and Mexico.
+- **(3)** In those countries, the cultivation, production and trafficking of cocaine and heroin generate violence, instability and corruption.
+- **(4)** In the transit countries of Central America, Mexico, Venezuela, Ecuador, Haiti, and other Caribbean countries, drug trafficking is central to the growing strength of organized criminals to threaten local and national law enforcement, political institutions, citizen security, rule of law, and United States security and interests.
+- **(5)** Drug-related violence is on the rise in Mexico and along the United States-Mexico border. 5,661 people died in Mexico in 2008 alone as a result of drug-related violence. This is more than double the 2007 total of 2,773.
+- **(6)** According to the Department of State’s June 2009 Trafficking in Persons report, organized criminal networks in Mexico also “traffic Mexican women and girls into the United States for commercial sexual exploitation”.
+- **(7)** Extremist groups and their supporters in the Western Hemisphere, including the Revolutionary Armed Forces of Colombia (FARC) and Hezbollah, often use drug trafficking to finance terrorist activities.
+- **(8)** From 1980–2008, United States counternarcotics assistance from the State and Defense Departments to Latin America and the Caribbean totaled about $11,300,000,000.
 
 ## § 3. Establishment of Western Hemisphere Drug Policy Commission
 
@@ -31,24 +32,28 @@ There is established an independent commission to be known as the “Western Hem
 
 ## § 4. Purpose
 
-The Commission shall review and evaluate United States illicit drug supply policy, with particular emphasis on international drug policies and programs directed toward the countries of the Western Hemisphere and demand reduction policies and programs. The Commission shall identify policy and program options to improve existing international and domestic counternarcotics policy.
+The Commission shall review and evaluate United States policy regarding illicit drug supply reduction and interdiction, with particular emphasis on international drug policies and programs directed toward the countries of the Western Hemisphere, along with foreign and domestic demand reduction policies and programs. The Commission shall identify policy and program options to improve existing international and domestic counternarcotics policy.
 
 ## § 5. Duties of the commission
 
-- **(a)** *Review of illicit drug supply reduction and demand reduction policies* The Commission shall conduct a comprehensive review of United States illicit drug supply reduction and demand reduction policies and shall, at a minimum, address the following topics:
-  - **(1)** An assessment of the effectiveness of United States international illicit drug control policies in the Western Hemisphere, including interdiction, crop eradication, and alternative development.
-  - **(2)** The impact of Plan Colombia and the Merida Initiative in curbing drug trafficking and drug-related violence in the Andean region, Mexico, Central America, Haiti, and the Dominican Republic.
-  - **(3)** An assessment of how to better use available technology to target major drug cartels.
-  - **(4)** The impact of the United States drug certification process in achieving positive results with respect to reducing drug production, cultivation, and trafficking.
-  - **(5)** An assessment of the nature and extent of the United States demand for illicit drugs.
-  - **(6)** An assessment of United States drug prevention and treatment programs, including drug courts and programs aimed at preventing recidivism.
-  - **(7)** An assessment of the extent to which the consumption of illicit drugs in the United States is driven by individuals addicted to or abusive of illicit drugs, and the most effective experiences in the United States and throughout the world in treating those addicts.
-  - **(8)** Recommendations on how best to improve United States illicit drug supply and demand reduction policies.
-- **(b)** *Coordination with governments, international organizations, and nongovernmental organizations (NGOs) in the Western Hemisphere* The Commission shall consult with—
-  - **(1)** government and nongovernmental leaders, as well as leaders from international organizations, from throughout Latin America and the Caribbean; and
+- **(a)** *Review of illicit drug supply reduction and demand reduction policies* The Commission shall conduct a comprehensive review of United States policy regarding illicit drug supply reduction, interdiction, and demand reduction policies and shall, at a minimum, address the following topics:
+  - **(1)** An assessment of United States international illicit drug control policies in the Western Hemisphere.
+  - **(2)** An assessment of drug interdiction efforts, crop eradication programs, and the promotion of economic development alternatives to illicit drugs.
+  - **(3)** The impact of the Andean Counterdrug Initiative (ACI), the Merida Initiative, the Caribbean Basin Security Initiative, and other programs in curbing drug production, drug trafficking, and drug-related violence in the Western Hemisphere.
+  - **(4)** An assessment of how to better deploy and employ available technology to target major drug cartels.
+  - **(5)** An assessment of efforts to curb the trafficking of chemical precursors for illicit drugs.
+  - **(6)** An assessment of how the United States drug certification process serves United States interests with respect to United States international illicit drug control policies.
+  - **(7)** An assessment of the nature and extent of the United States population’s demand for illicit drugs.
+  - **(8)** An assessment of United States drug prevention and treatment programs, including anti-drug coalitions, drug courts, and programs aimed at preventing recidivism.
+  - **(9)** An assessment of the extent to which the consumption of illicit drugs in the United States is driven by individuals addicted to or abusive of illicit drugs, and the most effective experiences in the United States and throughout the world in treating those individuals and reducing the damage to themselves and to society.
+  - **(10)** Recommendations on how best to improve United States policies aimed at reducing the supply of and demand for illicit drugs.
+  - **(11)** Assessing the value of supporting relevant government entities and nongovernmental institutions in other countries of the Western Hemisphere in promoting the reduction of supply of and demand for illicit drugs.
+  - **(12)** An assessment of whether the proper indicators of success are being used in United States illicit drug control policy.
+- **(b)** *Coordination with governments, international organizations, and nongovernmental organizations (NGOs) in the Western Hemisphere* In conducting the review required under subsection (a), the Commission shall consult with—
+  - **(1)** government, academic, and nongovernmental leaders, as well as leaders from international organizations, from throughout the United States, Latin America, and the Caribbean; and
   - **(2)** the Inter-American Drug Abuse Control Commission (CICAD) to examine what changes would increase its effectiveness.
 - **(c)** *Report*
-  - **(1)** *In general* Not later than 12 months after the first meeting of the Commission, the Commission shall submit to Congress, the Secretary of State, and the Director of the Office of National Drug Control Policy (ONDCP) a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission, including summaries of the input and recommendations of the leaders and organizations with which is consulted under subsection (b).
+  - **(1)** *In general* Not later than 12 months after the first meeting of the Commission, the Commission shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Attorney General, and the Director of the Office of National Drug Control Policy (ONDCP) a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission, including summaries of the input and recommendations of the leaders and organizations with which is consulted under subsection (b).
   - **(2)** *Public availability* The report required under this subsection shall be made available to the public.
 
 ## § 6. Membership
@@ -68,9 +73,9 @@ The Commission shall review and evaluate United States illicit drug supply polic
 
 - **(a)** *Meetings* The Commission shall meet at the call of the Chairperson or a majority of its members.
 - **(b)** *Hearings* The Commission may hold such hearings and undertake such other activities as the Commission determines necessary to carry out its duties.
-- **(c)** *Other resources* The Commission shall have reasonable access to materials, resources, statistical data, and other such information the Commission determines necessary to carry out its duties from the Library of Congress, the Office of National Drug Control Policy, the Department of State, the Department of Justice, the Drug Enforcement Administration, the Department of Defense (including the United States Southern Command), and other agencies of the executive and legislative branches of the Federal Government. The Chairperson of the Commission shall make requests for such access in writing when necessary. The General Services Administration (GSA) shall make office space available for day-to-day Commission activities and for scheduled Commission meetings. Upon request, the Administrator of General Services shall provide, on a reimbursable basis, such administrative support as the Commission requests to fulfill its duties.
-- **(d)** *Authority To use the United States mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
-- **(e)** *Authority To contract* Subject to the Federal Property and Administrative Services Act of 1949, the Commission is authorized to enter into contracts with Federal and State agencies, private firms, institutions, and individuals for the conduct of activities necessary to the discharge of its duties and responsibilities. A contract, lease, or other legal agreement entered into by the Commission may not extend beyond the date of termination of the Commission.
+- **(c)** *Other resources* The Commission shall have reasonable access to documents, statistical data, and other such information the Commission determines necessary to carry out its duties from the Library of Congress, the Office of National Drug Control Policy, the Department of State, the Department of Health and Human Services, the Department of Justice, the Drug Enforcement Administration, the Department of Defense (including the United States Southern Command), and other agencies of the executive and legislative branches of the Federal Government. The Chairperson of the Commission shall make requests for such access in writing when necessary. The General Services Administration (GSA) shall make office space available for day-to-day Commission activities and for scheduled Commission meetings. Upon request, the Administrator of General Services shall provide, on a reimbursable basis, such administrative support as the Commission requests to fulfill its duties.
+- **(d)** *Authority to use the United States mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+- **(e)** *Authority to contract* Subject to the Federal Property and Administrative Services Act of 1949, the Commission is authorized to enter into contracts with Federal and State agencies, private firms, institutions, and individuals for the conduct of activities necessary to the discharge of its duties and responsibilities. A contract, lease, or other legal agreement entered into by the Commission may not extend beyond the date of termination of the Commission.
 
 ## § 8. Staff
 
@@ -79,15 +84,11 @@ The Commission shall review and evaluate United States illicit drug supply polic
 - **(c)** *Experts and consultants* With the approval of the Commission, the Executive Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
 - **(d)** *Detail of Government employees* Upon the request of the Commission, the head of any Federal agency may detail, without reimbursement, any of the personnel of such agency to the Commission to assist in carrying out the duties of the Commission. Any such detail shall not interrupt or otherwise affect the civil service status or privileges of the personnel.
 
-## § 9. Nonapplicability of Federal Advisory Committee Act
-
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
-
-## § 10. Authorization of appropriations
+## § 9. Authorization of appropriations
 
 - **(a)** *In general* There are authorized to be appropriated $2,000,000 to carry out this Act.
 - **(b)** *Availability* Amounts appropriated pursuant to subsection (a) shall remain available, without fiscal year limitation, until expended.
 
-## § 11. Sunset
+## § 10. Sunset
 
 The Western Hemisphere Drug Policy Commission shall terminate 60 days after the submission to Congress of its report under section 5(c).
