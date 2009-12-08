@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3224
@@ -44,3 +44,9 @@ To authorize the Board of Regents of the Smithsonian Institution to plan, design
 - 2009-12-03 — Placed on the Union Calendar, Calendar No. 204.
 - 2009-12-03 — Reported by the Committee on House Administration. H. Rept. 111-276, Part II.
 - 2009-12-03 — Reported by the Committee on House Administration. H. Rept. 111-276, Part II.
+- 2009-12-08 — Considered under suspension of the rules. (consideration: CR H13582)
+- 2009-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3224.
+- 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-08 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
+- 2009-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13582)
+- 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13582)
