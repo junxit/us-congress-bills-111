@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Title III of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) is amended by inserting after section 319 the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 309 of such Act (42 U.S.C. 437g) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
