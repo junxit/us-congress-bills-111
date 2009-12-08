@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2062
@@ -37,9 +37,10 @@ Migratory Bird Treaty Act Penalty and Enforcement Act of 2009
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Migratory Bird Treaty Act Penalty and Enforcement Act of 2009
 - 2009-12-07 — Placed on the Union Calendar, Calendar No. 207.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-355.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-355.
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
