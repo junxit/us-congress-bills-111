@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1454
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1454
@@ -173,10 +173,11 @@ Multinational Species Conservation Funds Semipostal Stamp Act of 2010
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Natural Resources Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -203,3 +204,4 @@ Multinational Species Conservation Funds Semipostal Stamp Act of 2010
 - 2009-12-07 — Placed on the Union Calendar, Calendar No. 210.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-358, Part I.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-358, Part I.
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
