@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3804
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3804
@@ -16,11 +16,12 @@ National Park Service Authorities and Corrections Act of 2009
 
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ National Park Service Authorities and Corrections Act of 2009
 - 2009-12-07 — Placed on the Union Calendar, Calendar No. 212.
 - 2009-12-07 — Reported by the Committee on Natural Resources. H. Rept. 111-360, Part I.
 - 2009-12-07 — Reported by the Committee on Natural Resources. H. Rept. 111-360, Part I.
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
