@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1672
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1672
@@ -44,3 +44,4 @@ Northwest Straits Marine Conservation Initiative Reauthorization Act of 2009
 - 2009-12-07 — Placed on the Union Calendar, Calendar No. 206.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-354.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-354.
+- 2009-12-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.
