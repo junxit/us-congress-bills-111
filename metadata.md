@@ -1,7 +1,7 @@
 ---
 measure: H.R. 118
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 118
@@ -31,9 +31,10 @@ To authorize the addition of 100 acres to Morristown National Historical Park.
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To authorize the addition of 100 acres to Morristown National Historical Park.
 - 2009-12-07 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13536)
 - 2009-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13536)
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

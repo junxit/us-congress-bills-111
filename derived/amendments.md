@@ -1,7 +1,7 @@
 ---
 measure: H.R. 118
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 409g
+
+> by striking “615” each place it appears and inserting “715”.
+
+| | |
+|---|---|
+| Removed | `615` |
+| Inserted | `715` |
 
 ## Stated, not applied
 
@@ -31,5 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “, from a willing owner only,” after “the Secretary of the Interior is authorized to procure”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “615” each place it appears and inserting “715”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 409g` | insert | by inserting “, from a willing owner only,” after “the Secretary of the Interior is authorized to procure”; and | the bill quotes the text inserted but describes where it goes |
