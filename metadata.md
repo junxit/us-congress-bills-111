@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 940
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 940
@@ -16,7 +16,7 @@ Recognizing and honoring the National Guard on the occasion of its 373rd anniver
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (83)
+## Cosponsors (85)
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
@@ -101,13 +101,28 @@ Recognizing and honoring the National Guard on the occasion of its 373rd anniver
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2009-12-08 — [House 111-1-934](votes/house-111-1-0934.md) — On Motion to Suspend the Rules and Agree — **Passed** (401–0)
 
 ## Actions
 
 - 2009-12-01 — Introduced in House
 - 2009-12-01 — Introduced in House
 - 2009-12-01 — Referred to the House Committee on Armed Services.
+- 2009-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-12-07 — Considered under suspension of the rules. (consideration: CR H13527-13529)
+- 2009-12-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 940.
+- 2009-12-07 — Ms. Bordallo moved to suspend the rules and agree to the resolution.
+- 2009-12-08 — Considered as unfinished business. (consideration: CR H13572-13573)
+- 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-08 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 934). (text: CR 12/7/2009 H13527)
+- 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 934).(text: CR 12/7/2009 H13527)
+- 2009-12-08 — Referred to the Subcommittee on Military Personnel.
