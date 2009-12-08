@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 1940, in preparation for possible involvement in World War II, the United States Army identified a site near Augusta, Georgia, that was suitable for division-level training, and the War Department entered into a $22 million contract to construct the new installation;
 - Whereas, at the groundbreaking ceremony on October 18, 1941, the new installation was named Camp Gordon in memory of John B. Gordon, a general in the Civil War and former Georgia Governor;
 - Whereas during World War II, Camp Gordon was home to three Army divisions, namely the 4th Infantry Division, the 26th Infantry Division, and the 10th Armored Division until they were deployed to Europe, where all three served with distinction;
-- Whereas after the war, in October 1948, Camp Gordon began its signal corps tradition by becoming the home of the Signal Corps Training Center;
+- Whereas after the war, on November 1, 1948, Camp Gordon began its signal corps tradition by becoming the home of the Signal Corps Training Center;
 - Whereas by 1950, the need for signalmen for the Army during the Korean War led to a major expansion of the Signal Corps Training Center, making it the largest single source of Army communications specialists;
 - Whereas, on March 21, 1956, Camp Gordon was made a permanent installation and renamed Fort Gordon;
 - Whereas the military conflicts in Southeast Asia in the 1960s and 1970s, together with advances in communications-electronics (C–E) technology, placed heavy training demands on Fort Gordon;
@@ -26,12 +26,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 1990 and 1991, the Signal Center played a vital role in preparing soldiers for deployment during Operation Desert Shield and Operation Desert Storm;
 - Whereas in the 1990s, Fort Gordon became the home for training most of the personnel within the Department of Defense who operate and maintain satellites and continued to train signal troops of allied and foreign countries;
 - Whereas Fort Gordon continues to serve as a power projection base for several Signal units responsible for conducting operations overseas;
-- Whereas approximately 19,000 soldiers are stationed at Fort Gordon, and many of these soldiers have been deployed in Operation Iraqi Freedom or Operation Enduring Freedom multiple times;
-- Whereas approximately 1,000 soldiers from Fort Gordon are currently stationed in the Middle East supporting United States operations in Iraq and Afghanistan; and
+- Whereas approximately 19,000 soldiers are stationed at Fort Gordon, and many of these soldiers have been deployed in Operation Iraqi Freedom or Operation Enduring Freedom multiple times; and
 - Whereas the strength and unwavering support of the soldiers and their families of Fort Gordon and the entire Augusta community have contributed to making the United States a safe and secure country: Now, therefore, be it
 
 That Congress—
 
-- **(1)** commends the soldiers, their families, and the civilian personnel at Fort Gordon for their service and dedication to the United States;
-- **(2)** recognizes the contributions of Fort Gordon to Operation Iraqi Freedom and Operation Enduring Freedom; and
-- **(3)** recognizes Fort Gordon for its role as a pivotal communications training installation for the United States Army Signal Corps now and in the future.
+- **(1)** recognizes Fort Gordon as the home of the United States Army Signal Corps on the occasion of the 60th anniversary of Fort Gordon serving as the home of the Signal Corps Training Center;
+- **(2)** commends the soldiers, their families, and the civilian personnel at Fort Gordon for their service and dedication to the United States; and
+- **(3)** recognizes the contributions of Fort Gordon to Operation Iraqi Freedom and Operation Enduring Freedom.

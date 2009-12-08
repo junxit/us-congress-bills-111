@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 206
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 206
@@ -16,7 +16,7 @@ Commending the soldiers and civilian personnel stationed at Fort Gordon and thei
 
 - Rep. Broun, Paul C. [R-GA-10] (B001262)
 
-## Cosponsors (51)
+## Cosponsors (59)
 
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 - Rep. Lewis, John [D-GA-5] (L000287)
@@ -69,13 +69,34 @@ Commending the soldiers and civilian personnel stationed at Fort Gordon and thei
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 - Rep. Salazar, John T. [D-CO-3] (S001158)
 - Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2009-12-08 — [House 111-1-933](votes/house-111-1-0933.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (404–0)
 
 ## Actions
 
 - 2009-10-28 — Introduced in House
 - 2009-10-28 — Introduced in House
 - 2009-10-28 — Referred to the House Committee on Armed Services.
+- 2009-11-05 — Referred to the Subcommittee on Readiness.
+- 2009-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-12-07 — Considered under suspension of the rules. (consideration: CR H13526-13527)
+- 2009-12-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 206.
+- 2009-12-07 — Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.
+- 2009-12-08 — Considered as unfinished business. (consideration: CR H13571-13572)
+- 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933). (text: CR 12/7/2009 H13526)
+- 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933).(text: CR 12/7/2009 H13526)
