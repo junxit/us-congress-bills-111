@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3940
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3940
@@ -23,9 +23,10 @@ To clarify the availability of existing funds for political status education in 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To clarify the availability of existing funds for political status education in 
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-357.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-357.
 - 2009-12-07 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
