@@ -2,7 +2,7 @@
 legis-num: H. RES. 907
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 907
@@ -24,10 +24,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Grand Concourse is the central north-south artery of the Bronx;
 - Whereas the Concourse serves the 4, 5, B, and D subway lines as well as several bus routes and is a major transportation route in New York City;
 - Whereas the $18,000,000 that was provided for the Grand Concourse in January 2006 led to improving the streetscape and creating better access for pedestrians;
-- Whereas the Bronx Museum of the Arts is celebrating the roadway in its exhibition, “Intersections: The Grand Concourse at 100”;
+- Whereas the Bronx Museum of the Arts is celebrating the roadway in its exhibition “Intersections: The Grand Concourse at 100”;
 - Whereas the Grand Concourse has seen the arrival of countless new immigrants as well as people arriving from other parts of the country, including Puerto Rico, and has been their launching point for the valuable contributions that they have made;
 - Whereas the people of the Bronx enjoy spending time on the beautiful parks adjoining the Grand Concourse, making it a center for socializing and recreating;
-- Whereas the Grand Concourse has fulfilled and exceeded its planners' intentions over a series of generations, occupying a central place in the hearts and minds of Bronxites past and present; and
+- Whereas the Grand Concourse has fulfilled and exceeded its planners’ intentions over a series of generations, occupying a central place in the hearts and minds of Bronxites past and present; and
 - Whereas the Grand Concourse since its inception has been an integral part of the cultural life and economic development of the Bronx: Now, therefore, be it
 
 That the House of Representatives—
