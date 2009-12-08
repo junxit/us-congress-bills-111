@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4218
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
