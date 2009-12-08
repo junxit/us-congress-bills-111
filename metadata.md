@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4218
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4218
@@ -36,3 +36,13 @@ No Social Security Benefits for Prisoners Act of 2009
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13596)
 - 2009-12-08 — Received in the Senate, read twice.
 - 2009-12-08 — Referred to the House Committee on Ways and Means.
+- 2009-12-10 — Cleared for White House.
+- 2009-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12969)
+- 2009-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12969)
+- 2009-12-11 — Message on Senate action sent to the House.
+- 2009-12-14 — Presented to President.
+- 2009-12-14 — Presented to President.
+- 2009-12-15 — Became Public Law No: 111-115.
+- 2009-12-15 — Became Public Law No: 111-115.
+- 2009-12-15 — Signed by President.
+- 2009-12-15 — Signed by President.
