@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 218
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 218
@@ -58,3 +58,8 @@ Expressing sympathy for the 57 civilians who were killed in the southern Philipp
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H13568)
 - 2009-12-08 — Referred to the House Committee on Foreign Affairs.
 - 2009-12-09 — Received in the Senate and referred to the Committee on Foreign Relations.
+- 2009-12-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-12-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-12-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S13469)
+- 2009-12-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S13469)
+- 2009-12-19 — Message on Senate action sent to the House.
