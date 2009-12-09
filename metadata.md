@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 196
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 196
@@ -16,6 +16,10 @@ Making corrections in the enrollment of the bill H.R. 2647.
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
+## Committees (1)
+
+- Senate — Armed Services Committee
+
 ## Actions
 
 - 2009-10-08 — Introduced in House
@@ -23,3 +27,4 @@ Making corrections in the enrollment of the bill H.R. 2647.
 - 2009-10-08 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 808, H. Con. Res. 196 is considered passed House.(consideration: CR H11142; text as passed House: CR H11142)
 - 2009-10-08 — Pursuant to the provisions of H. Res. 808, H. Con. Res. 196 is considered passed House. (consideration: CR H11142; text as passed House: CR H11142)
 - 2009-10-08 — Received in the Senate.
+- 2009-12-09 — Referred to the Committee on Armed Services.
