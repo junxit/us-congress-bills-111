@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2134
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2134
@@ -49,11 +49,12 @@ Western Hemisphere Drug Policy Commission Act of 2009
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Western Hemisphere Drug Policy Commission Act of 2009
 - 2009-12-08 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2009-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13560-13561)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13560-13561)
+- 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
