@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -140,7 +140,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Subpart A of part III of subchapter A of chapter 61 is amended by inserting after section 6038C the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for subpart A of part III of subchapter A of chapter 61 is amended by inserting after the item relating to section 6038C the following new item: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (1) of section 6501(e) is amended by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively, and by inserting before subparagraph (B) (as so redesignated) the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | redesignate | Subparagraph (B) of section 6501(e)(1), as redesignated by paragraph (1), is amended by striking all that precedes clause (i) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 6229(c) is amended by striking “which is in excess of 25 percent of the amount of gross income stated in its return” and inserting “and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A)”. | the bill names no machine-readable US Code section |
@@ -169,7 +169,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | Section 871 is amended by redesignating subsection (l) as subsection (m) and by inserting after subsection (k) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Subsection (c) of section 83 is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (2) of section 83(b) is amended by inserting “or subsection (c)(4)(B)” after “paragraph (1)” . | the bill names no machine-readable US Code section |
-| — | amend | Part I of subchapter K of chapter 1 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part I of subchapter K of chapter 1 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (d) of section 7704 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (b) of section 6662, as amended by section 512, is amended by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6662, as amended by section 512, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
