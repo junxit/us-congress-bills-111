@@ -2,12 +2,12 @@
 legis-num: H.R. 2221
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2221
 
-> To protect consumers by requiring reasonable security policies and procedures to protect computerized data containing personal information, and to provide for nationwide notice in the event of a security breach.
+> To protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a security breach.
 
 ## § 1. Short title
 
@@ -79,7 +79,7 @@ This Act may be cited as the “Data Accountability and Trust Act”.
   - **(1)** *Direct notification*
     - **(A)** *Method of notification* A person required to provide notification to individuals under subsection (a)(1) shall be in compliance with such requirement if the person provides conspicuous and clearly identified notification by one of the following methods (provided the selected method can reasonably be expected to reach the intended individual):
       - **(i)** Written notification.
-      - **(ii)** Notification by email or other electronic means , if—
+      - **(ii)** Notification by email or other electronic means, if—
         - **(I)** the person’s primary method of communication with the individual is by email or such other electronic means; or
         - **(II)** the individual has consented to receive such notification and the notification is provided in a manner that is consistent with the provisions permitting electronic transmission of notices under section 101 of the Electronic Signatures in Global Commerce Act (15 U.S.C. 7001).
     - **(B)** *Content of notification* Regardless of the method by which notification is provided to an individual under subparagraph (A), such notification shall include—
@@ -166,7 +166,7 @@ In this Act the following definitions apply:
 - **(5)** *Identity theft* The term identity theft means the unauthorized use of another person’s personal information for the purpose of engaging in commercial transactions under the name of such other person.
 - **(6)** *Information broker* The term information broker—
   - **(A)** means a commercial entity whose business is to collect, assemble, or maintain personal information concerning individuals who are not current or former customers of such entity in order to sell such information or provide access to such information to any nonaffiliated third party in exchange for consideration, whether such collection, assembly, or maintenance of personal information is performed by the information broker directly, or by contract or subcontract with any other entity; and
-  - **(B)** does not include a commercial entity to the extent that such entity processes information collected by and received from a nonaffiliated third party concerning individuals who are current or former customers or employees of such third party to enable such third party to (1) provide benefits for its employees or (2) directly transact business with its customers.
+  - **(B)** does not include a commercial entity to the extent that such entity processes information collected by or on behalf of and received from or on behalf of a nonaffiliated third party concerning individuals who are current or former customers or employees of such third party to enable such third party directly or through parties acting on its behalf to: (1) provide benefits for its employees; or (2) directly transact business with its customers.
 - **(7)** *Personal information*
   - **(A)** *Definition* The term personal information means an individual’s first name or initial and last name, or address, or phone number, in combination with any 1 or more of the following data elements for that individual:
     - **(i)** Social Security number.
@@ -177,7 +177,7 @@ In this Act the following definitions apply:
     - **(ii)** for the purpose of section 3, to the extent that such modification is necessary to accommodate changes in technology or practices, will not unreasonably impede interstate commerce, and will accomplish the purposes of this Act.
 - **(8)** *Public record information* The term public record information means information about an individual which has been obtained originally from records of a Federal, State, or local government entity that are available for public inspection.
 - **(9)** *Non-public information* The term non-public information means information about an individual that is of a private nature and neither available to the general public nor obtained from a public record.
-- **(10)** *Service provider* The term service provider means an entity that provides to a user transmission, routing, intermediate and transient storage, or connections to its system or network, for electronic communications, between or among points specified by such user of material of the user’s choosing, without modification to the content of the material as sent or received . Any such entity shall be treated as a service provider under this Act only to the extent that it is engaged in the provision of such transmission, routing, intermediate and transient storage or connections.
+- **(10)** *Service provider* The term service provider means a person that provides electronic data transmission, routing, intermediate and transient storage, or connections to its system or network, where the person providing such services does not select or modify the content of the electronic data, is not the sender or the intended recipient of the data, and such person transmits, routes, stores, or provides connections for personal information in a manner that personal information is undifferentiated from other types of data that such person transmits, routes, stores, or provides connections. Any such person shall be treated as a service provider under this Act only to the extent that it is engaged in the provision of such transmission, routing, intermediate and transient storage or connections.
 
 ## § 6. Effect on other laws
 

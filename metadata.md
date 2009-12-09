@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2221
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2221
@@ -23,9 +23,10 @@ Data Accountability and Trust Act
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Radanovich, George [R-CA-19] (R000004)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Data Accountability and Trust Act
 - 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-362.
 - 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-362.
 - 2009-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
