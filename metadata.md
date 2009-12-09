@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 206
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 206
@@ -78,9 +78,10 @@ Commending the soldiers and civilian personnel stationed at Fort Gordon and thei
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -100,3 +101,4 @@ Commending the soldiers and civilian personnel stationed at Fort Gordon and thei
 - 2009-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933). (text: CR 12/7/2009 H13526)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933).(text: CR 12/7/2009 H13526)
+- 2009-12-09 — Received in the Senate and referred to the Committee on Armed Services.
