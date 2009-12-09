@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 218
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 218
@@ -41,9 +41,10 @@ Expressing sympathy for the 57 civilians who were killed in the southern Philipp
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Expressing sympathy for the 57 civilians who were killed in the southern Philipp
 - 2009-12-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H13568)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H13568)
 - 2009-12-08 — Referred to the House Committee on Foreign Affairs.
+- 2009-12-09 — Received in the Senate and referred to the Committee on Foreign Relations.
