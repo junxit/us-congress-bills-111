@@ -1,7 +1,7 @@
 ---
 measure: H.R. 86
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | The Act of February 18, 1931, entitled “An act to reserve for public use rocks, pinnacles, reefs, and small islands along the seacoast of Orange County, California” is amended by striking “temporarily reserved” and all that follows throu… | the bill names no machine-readable US Code section |
+| — | replace | The Act of February 18, 1931, entitled “An Act to reserve for public use rocks, pinnacles, reefs, and small islands along the seacoast of Orange County, California” is amended by striking “temporarily reserved” and all that follows throu… | the bill names no machine-readable US Code section |
