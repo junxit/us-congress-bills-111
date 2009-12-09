@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4165
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4165
@@ -47,3 +47,4 @@ To extend through December 31, 2010, the authority of the Secretary of the Army 
 - 2009-12-08 — Mr. Larsen (WA) moved to suspend the rules and pass the bill.
 - 2009-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13580)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13580)
+- 2009-12-09 — Received in the Senate, read twice.
