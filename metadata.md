@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 199
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 199
@@ -73,9 +73,10 @@ Recognizing the 10th Anniversary of the redesignation of Company E, 100th Battal
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ Recognizing the 10th Anniversary of the redesignation of Company E, 100th Battal
 - 2009-12-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 932). (text: CR 12/7/2009 H13524)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 932).(text: CR 12/7/2009 H13524)
 - 2009-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-09 — Received in the Senate and referred to the Committee on Armed Services.
