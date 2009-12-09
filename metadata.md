@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1319
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1319
@@ -56,9 +56,10 @@ Informed P2P User Act
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Radanovich, George [R-CA-19] (R000004)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Informed P2P User Act
 - 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-361.
 - 2009-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-361.
 - 2009-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
