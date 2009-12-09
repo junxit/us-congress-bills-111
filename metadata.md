@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1854
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1854
@@ -16,9 +16,10 @@ To amend the Water Resources Development Act of 1992 to modify an environmental 
 
 - Rep. Lewis, Jerry [R-CA-41] (L000274)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To amend the Water Resources Development Act of 1992 to modify an environmental 
 - 2009-12-08 — Mr. Larsen (WA) moved to suspend the rules and pass the bill.
 - 2009-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13581)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13581)
+- 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
