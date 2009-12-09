@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 206
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 206
@@ -102,3 +102,8 @@ Commending the soldiers and civilian personnel stationed at Fort Gordon and thei
 - 2009-12-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933). (text: CR 12/7/2009 H13526)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 933).(text: CR 12/7/2009 H13526)
 - 2009-12-09 — Received in the Senate and referred to the Committee on Armed Services.
+- 2009-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-12-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2009-12-22 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S13792)
+- 2009-12-22 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S13792)
+- 2009-12-23 — Message on Senate action sent to the House.
