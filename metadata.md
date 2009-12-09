@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4217
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4217
@@ -43,3 +43,4 @@ Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II
 - 2009-12-08 — Referred to House Transportation and Infrastructure
 - 2009-12-08 — Referred to House Ways and Means
 - 2009-12-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-12-09 — Received in the Senate, read twice.
