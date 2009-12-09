@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2278
@@ -21,9 +21,10 @@ To direct the President to transmit to Congress a report on anti-American incite
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To direct the President to transmit to Congress a report on anti-American incite
 - 2009-12-08 — Mr. Costa moved to suspend the rules and pass the bill, as amended.
 - 2009-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 3, 9 Present (Roll no. 936). (text: CR H13558)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 3, 9 Present (Roll no. 936).(text: CR H13558)
+- 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
