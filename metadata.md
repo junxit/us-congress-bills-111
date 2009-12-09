@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 213
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 213
@@ -30,9 +30,10 @@ Expressing the sense of Congress for and solidarity with the people of El Salvad
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Expressing the sense of Congress for and solidarity with the people of El Salvad
 - 2009-12-08 — Mr. Engel moved to suspend the rules and agree to the resolution, as amended.
 - 2009-12-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H13567)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H13567)
+- 2009-12-09 — Received in the Senate and referred to the Committee on Foreign Relations.
