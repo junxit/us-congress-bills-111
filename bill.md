@@ -51,3 +51,8 @@ In this Act:
   - **(2)** *Reports to congress* The Office of Management and Budget shall review agency reports submitted under paragraph (1) using the guidance issued under section 4(b)(1)(B) and submit a report on the progress of agencies to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives—
     - **(A)** annually for the first 2 years after the date of enactment of this Act; and
     - **(B)** once every 3 years thereafter.
+
+## § 6. Judicial review and enforceability
+
+- **(a)** *Judicial review* There shall be no judicial review of compliance or noncompliance with any provision of this Act.
+- **(b)** *Enforceability* No provision of this Act shall be construed to create any right or benefit, substantive or procedural, enforceable by any administrative or judicial action.
