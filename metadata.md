@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 964
 congress: 111
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 964

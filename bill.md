@@ -2,10 +2,12 @@
 legis-num: H. RES. 964
 congress: 111th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 964
+
+> Providing for further consideration of the bill (H.R. 4173) to provide for financial regulatory reform, to protect consumers and investors, to enhance Federal understanding of insurance issues, to regulate the over-the-counter derivatives markets, and for other purposes.
 
 That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for further consideration of the bill (H.R. 4173) to provide for financial regulatory reform, to protect consumers and investors, to enhance Federal understanding of insurance issues, to regulate the over-the-counter derivatives markets, and for other purposes. No further general debate shall be in order.
 
