@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2843
@@ -37,3 +37,11 @@ Architect of the Capitol Appointment Act of 2010
 - 2009-06-12 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-06-12 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-06-12 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-06-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2009-11-04 — Committee Consideration and Mark-up Session Held.
+- 2009-11-04 — Ordered to be Reported by Voice Vote.
+- 2009-12-10 — Committee on Transportation discharged.
+- 2009-12-10 — Committee on Transportation discharged.
+- 2009-12-10 — Placed on the Union Calendar, Calendar No. 216.
+- 2009-12-10 — Reported by the Committee on House Administration. H. Rept. 111-372, Part I.
+- 2009-12-10 — Reported by the Committee on House Administration. H. Rept. 111-372, Part I.
