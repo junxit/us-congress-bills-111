@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -108,7 +108,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (B) of section 6427(e)(6) is amended by striking “December 31, 2009” and inserting “December 31, 2010”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (3) of section 30B(k) is amended by striking “December 31, 2009” and inserting “December 31, 2010”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (5) of section 6426(d) is amended by striking “after December 31, 2009” and all that follows and inserting | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (6) of section 6427(e) is amended by striking “and” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting a comma and by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (6) of section 6427(e) is amended by striking “and” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting a comma and by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (C) of section 6427(e)(6) is amended by inserting “(E), or (F)” after “subparagraph (D)”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (3) of section 451(i) is amended by striking “January 1, 2010” and inserting “January 1, 2011”. | the bill names no machine-readable US Code section |
 | — | insert | The Internal Revenue Code of 1986 is amended by inserting after chapter 3 the following new chapter: | the bill names no machine-readable US Code section |

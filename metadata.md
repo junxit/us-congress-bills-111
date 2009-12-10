@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4213
@@ -16,9 +16,10 @@ Unemployment Compensation Extension Act of 2010
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -45,3 +46,4 @@ Unemployment Compensation Extension Act of 2010
 - 2009-12-09 — Rule H. Res. 955 passed House.
 - 2009-12-09 — Rule provides for consideration of H.R. 4213 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-12-09 — The previous question was ordered pursuant to the rule. (consideration: CR H14405)
+- 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Finance.
