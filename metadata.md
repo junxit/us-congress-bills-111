@@ -1,7 +1,7 @@
 ---
 measure: S. 1755
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1755
@@ -28,3 +28,7 @@ Amateur Radio Emergency Communications Enhancement Act of 2009
 
 - 2009-10-06 — Introduced in Senate
 - 2009-10-06 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-105.
+- 2009-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-105.
+- 2009-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
