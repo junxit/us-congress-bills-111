@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3603
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3603
@@ -16,9 +16,10 @@ To rename the Ocmulgee National Monument.
 
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To rename the Ocmulgee National Monument.
 - 2009-12-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 944). (text: CR 12/07/2009 H13534)
 - 2009-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 944).(text: CR 12/07/2009 H13534)
+- 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
