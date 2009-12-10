@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3951
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3951
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 2000 Lo
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To designate the facility of the United States Postal Service located at 2000 Lo
 - 2009-12-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 941). (text: CR 12/8/2009 H13573)
 - 2009-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 941).(text: CR 12/8/2009 H13573)
+- 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
