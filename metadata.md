@@ -1,7 +1,7 @@
 ---
 measure: H.R. 86
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 86
@@ -20,9 +20,10 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 - 2009-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 4 (Roll no. 946). (text: CR 12/07/2009 H13534)
 - 2009-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 4 (Roll no. 946).(text: CR 12/07/2009 H13534)
 - 2009-12-09 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
