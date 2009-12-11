@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1506
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1506
@@ -37,3 +37,5 @@ To provide that claims of the United States to certain documents relating to Fra
 - 2009-11-16 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12977)
 - 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12977)
+- 2009-11-17 — Received in the Senate.
+- 2009-12-11 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
