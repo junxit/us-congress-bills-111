@@ -1,7 +1,7 @@
 ---
 measure: S. 448
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 448
@@ -16,11 +16,18 @@ Free Flow of Information Act of 2009
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
-## Cosponsors (3)
+## Cosponsors (10)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
@@ -31,3 +38,7 @@ Free Flow of Information Act of 2009
 - 2009-02-13 — Introduced in Senate
 - 2009-02-13 — Read twice and referred to the Committee on the Judiciary.
 - 2009-02-13 — Sponsor introductory remarks on measure. (CR S2340-2342)
+- 2009-12-10 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2009-12-11 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-12-11 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2009-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
