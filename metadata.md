@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 62
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 62
@@ -26,3 +26,13 @@ Appointing the day for the convening of the second session of the One Hundred El
 - 2009-12-11 — On passage Passed without objection. (text: CR H14805)
 - 2009-12-11 — Passed/agreed to in House: On passage Passed without objection.(text: CR H14805)
 - 2009-12-11 — Received in the Senate, read twice.
+- 2009-12-14 — Cleared for White House.
+- 2009-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13201; text as passed Senate: CR S13201)
+- 2009-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13201; text as passed Senate: CR S13201)
+- 2009-12-15 — Message on Senate action sent to the House.
+- 2009-12-16 — Presented to President.
+- 2009-12-16 — Presented to President.
+- 2009-12-22 — Became Public Law No: 111-121.
+- 2009-12-22 — Became Public Law No: 111-121.
+- 2009-12-22 — Signed by President.
+- 2009-12-22 — Signed by President.
