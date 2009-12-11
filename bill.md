@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “The Wall Street Reform and Consumer Protection Act of 2009”.
+This Act may be cited as the “Wall Street Reform and Consumer Protection Act of 2009”.
 
 ## § 2. Table of contents
 

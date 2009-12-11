@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4173
@@ -27,6 +27,25 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - House — Financial Services Committee
 - House — Agriculture Committee
 
+## Recorded votes (16)
+
+- 2009-12-10 — [House 111-1-953](votes/house-111-1-0953.md) — On Agreeing to the Amendment — **Agreed to** (240–182)
+- 2009-12-10 — [House 111-1-954](votes/house-111-1-0954.md) — On Agreeing to the Amendment — **Failed** (172–257)
+- 2009-12-10 — [House 111-1-955](votes/house-111-1-0955.md) — On Agreeing to the Amendment — **Agreed to** (228–202)
+- 2009-12-10 — [House 111-1-956](votes/house-111-1-0956.md) — On Agreeing to the Amendment — **Agreed to** (304–124)
+- 2009-12-10 — [House 111-1-957](votes/house-111-1-0957.md) — On Agreeing to the Amendment — **Failed** (150–280)
+- 2009-12-10 — [House 111-1-958](votes/house-111-1-0958.md) — On Agreeing to the Amendment — **Failed** (98–330)
+- 2009-12-10 — [House 111-1-959](votes/house-111-1-0959.md) — On Agreeing to the Amendment — **Failed** (150–279)
+- 2009-12-11 — [House 111-1-960](votes/house-111-1-0960.md) — On Agreeing to the Amendment — **Failed** (153–271)
+- 2009-12-11 — [House 111-1-961](votes/house-111-1-0961.md) — On Agreeing to the Amendment — **Failed** (166–259)
+- 2009-12-11 — [House 111-1-962](votes/house-111-1-0962.md) — On Agreeing to the Amendment — **Agreed to** (228–198)
+- 2009-12-11 — [House 111-1-963](votes/house-111-1-0963.md) — On Agreeing to the Amendment — **Failed** (188–241)
+- 2009-12-11 — [House 111-1-964](votes/house-111-1-0964.md) — On Agreeing to the Amendment — **Agreed to** (277–149)
+- 2009-12-11 — [House 111-1-965](votes/house-111-1-0965.md) — On Agreeing to the Amendment — **Failed** (208–223)
+- 2009-12-11 — [House 111-1-966](votes/house-111-1-0966.md) — On Agreeing to the Amendment — **Failed** (175–251)
+- 2009-12-11 — [House 111-1-967](votes/house-111-1-0967.md) — On Motion to Recommit with Instructions — **Failed** (190–232)
+- 2009-12-11 — [House 111-1-968](votes/house-111-1-0968.md) — On Passage — **Passed** (223–202)
+
 ## Actions
 
 - 2009-12-02 — Introduced in House
@@ -40,3 +59,234 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2009-12-02 — Referred to House Rules
 - 2009-12-02 — Referred to House Ways and Means
 - 2009-12-02 — Referred to the Committee on Financial Services, and in addition to the Committees on Agriculture, Energy and Commerce, the Judiciary, Rules, the Budget, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-12-03 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2009-12-08 — Rules Committee Resolution H. Res. 956 Reported to House. Rule provides for consideration of H.R. 4173 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and in the Committee of the Whole. After general debate, the Committee of the Whole shall rise without motion. No further consideration of the bill shall be in order except pursuant to a sebsequent order of the House.
+- 2009-12-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 4173 as unfinished business.
+- 2009-12-09 — Considered as unfinished business. (consideration: CR H14427-14442)
+- 2009-12-09 — Considered under the provisions of rule H. Res. 956. (consideration: CR H14418-14427)
+- 2009-12-09 — GENERAL DEBATE - Pursuant to the provisions of H.Res. 956, the Committee of the Whole proceeded with three hours of general debate on H.R. 4173.
+- 2009-12-09 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 4173.
+- 2009-12-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 956 and Rule XVIII.
+- 2009-12-09 — Mr. Frank (MA) moved that the Committee now rise.
+- 2009-12-09 — On motion that the Committee now rise Agreed to by voice vote.
+- 2009-12-09 — Rule H. Res. 956 passed House.
+- 2009-12-09 — Rule provides for consideration of H.R. 4173 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and in the Committee of the Whole. After general debate, the Committee of the Whole shall rise without motion. No further consideration of the bill shall be in order except pursuant to a sebsequent order of the House.
+- 2009-12-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-12-09 — The Speaker designated the Honorable Harry Teague to act as Chairman of the Committee.
+- 2009-12-10 — Amendment (A001) offered by Mr. Frank (MA). (consideration: CR H14675-14680, H14728-14729; text as modified: CR H14728)
+- 2009-12-10 — Amendment (A002) offered by Mr. Sessions. (consideration: CR H14680-14682, H14729-14730; text: CR H14680)
+- 2009-12-10 — Amendment (A003) offered by Mr. Peterson. (consideration: CR H14682-14709; text: CR H14682-14705)
+- 2009-12-10 — Amendment (A004) offered by Mr. Peterson. (consideration: CR H14709-14710; text: CR H14709)
+- 2009-12-10 — Amendment (A005) offered by Mr. Lynch. (consideration: CR H14710-14712, H14730-14731; text CR H14710-14711)
+- 2009-12-10 — Amendment (A006) offered by Mr. Murphy (NY). (consideration: CR H14712-14714, H14731; text: CR H14712-14713)
+- 2009-12-10 — Amendment (A007) offered by Mr. Frank (MA). (consideration: CR H14714-14716, H14731-14732; text: CR H14714-14715)
+- 2009-12-10 — Amendment (A008) offered by Mr. Stupak. (consideration: CR H14716-14718, H14732-14733; text: CR H14716)
+- 2009-12-10 — Amendment (A009) offered by Mr. Stupak. (consideration: CR H14718-14721, H14733; text: CR H14718)
+- 2009-12-10 — Amendment (A010) offered by Ms. Matsui. (consideration: CR H14721-14723; text: CR H14721)
+- 2009-12-10 — Amendment (A011) offered by Mr. Kanjorski. (consideration: CR H14723-14726; text: CR H14723)
+- 2009-12-10 — Amendment (A012) offered by Mr. McCarthy (CA). (consideration: CR H14726-14728; text: CR H14727)
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment agreed to Committee of the Whole
+- 2009-12-10 — Amendment failed in Committee of the Whole
+- 2009-12-10 — Amendment failed in Committee of the Whole
+- 2009-12-10 — Amendment failed in Committee of the Whole
+- 2009-12-10 — Amendment failed in Committee of the Whole
+- 2009-12-10 — Amendments (A013) offered by Mr. Frank (MA). (consideration: CR H14734-14738; text: CR H14734-14736)
+- 2009-12-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 4173 as unfinished business.
+- 2009-12-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 4173 as unfinished business.
+- 2009-12-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 4173 as unfinished business.
+- 2009-12-10 — Considered as unfinished business. (consideration: CR H14496-14729; text of measure as amended in House: CR H14496-14675)
+- 2009-12-10 — Considered as unfinished business. (consideration: CR H14729-14738)
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Frank(MA) amendment no. 2.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Kanjorski amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Matsui amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy(CA) amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy(NY) amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Peterson amendment no. 2.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Stupak amendment no. 1.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Stupak amendment no. 2.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 20 minutes of debate on the Frank(MA) En Bloc amendment.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 30 minutes of debate on the Frank (MA) amendment no. 1.
+- 2009-12-10 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 30 minutes of debate on the Peterson amendment no. 1.
+- 2009-12-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A001) as modified Agreed to by recorded vote: 240 - 182 (Roll no. 953).
+- 2009-12-10 — House amendment agreed to: On agreeing to the Frank (MA) amendments (A013) Agreed to by voice vote.
+- 2009-12-10 — House amendment agreed to: On agreeing to the Lynch amendment (A005) Agreed to by recorded vote: 228 - 202 (Roll no. 955).
+- 2009-12-10 — House amendment agreed to: On agreeing to the Matsui amendment (A010) Agreed to by voice vote.
+- 2009-12-10 — House amendment agreed to: On agreeing to the Murphy (NY) amendment (A006) Agreed to by recorded vote: 304 - 124 (Roll no. 956).
+- 2009-12-10 — House amendment agreed to: On agreeing to the Peterson amendment (A003) Agreed to by voice vote.
+- 2009-12-10 — House amendment agreed to: On agreeing to the Peterson amendment (A004) Agreed to by voice vote.
+- 2009-12-10 — House amendment not agreed to: On agreeing to the Frank (MA) amendment (A007) Failed by recorded vote: 150 - 280 (Roll no. 957).
+- 2009-12-10 — House amendment not agreed to: On agreeing to the Sessions amendment (A002) Failed by recorded vote: 172 - 257 (Roll no. 954).
+- 2009-12-10 — House amendment not agreed to: On agreeing to the Stupak amendment (A008) Failed by recorded vote: 98 - 330 (Roll no. 958).
+- 2009-12-10 — House amendment not agreed to: On agreeing to the Stupak amendment (A009) Failed by recorded vote: 150 - 279 (Roll no. 959).
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered
+- 2009-12-10 — House amendment offered/reported by : Amendment (A001) offered by Mr. Frank (MA).(consideration: CR H14675-14680, H14728-14729; text as modified: CR H14728)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A002) offered by Mr. Sessions.(consideration: CR H14680-14682, H14729-14730; text: CR H14680)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A003) offered by Mr. Peterson.(consideration: CR H14682-14709; text: CR H14682-14705)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A004) offered by Mr. Peterson.(consideration: CR H14709-14710; text: CR H14709)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A005) offered by Mr. Lynch.(consideration: CR H14710-14712, H14730-14731; text CR H14710-14711)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A006) offered by Mr. Murphy (NY).(consideration: CR H14712-14714, H14731; text: CR H14712-14713)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A007) offered by Mr. Frank (MA).(consideration: CR H14714-14716, H14731-14732; text: CR H14714-14715)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A008) offered by Mr. Stupak.(consideration: CR H14716-14718, H14732-14733; text: CR H14716)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A009) offered by Mr. Stupak.(consideration: CR H14718-14721, H14733; text: CR H14718)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A010) offered by Ms. Matsui.(consideration: CR H14721-14723; text: CR H14721)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A011) offered by Mr. Kanjorski.(consideration: CR H14723-14726; text: CR H14723)
+- 2009-12-10 — House amendment offered/reported by : Amendment (A012) offered by Mr. McCarthy (CA).(consideration: CR H14726-14728; text: CR H14727)
+- 2009-12-10 — House amendment offered/reported by : Amendments (A013) offered by Mr. Frank (MA).(consideration: CR H14734-14738; text: CR H14734-14736)
+- 2009-12-10 — Mr. Frank (MA) moved that the Committee now rise.
+- 2009-12-10 — Mr. Frank (MA) moved that the Committee now rise.
+- 2009-12-10 — On agreeing to the Frank (MA) amendment (A001) as modified Agreed to by recorded vote: 240 - 182 (Roll no. 953).
+- 2009-12-10 — On agreeing to the Frank (MA) amendment (A007) Failed by recorded vote: 150 - 280 (Roll no. 957).
+- 2009-12-10 — On agreeing to the Frank (MA) amendments (A013) Agreed to by voice vote.
+- 2009-12-10 — On agreeing to the Lynch amendment (A005) Agreed to by recorded vote: 228 - 202 (Roll no. 955).
+- 2009-12-10 — On agreeing to the Matsui amendment (A010) Agreed to by voice vote.
+- 2009-12-10 — On agreeing to the Murphy (NY) amendment (A006) Agreed to by recorded vote: 304 - 124 (Roll no. 956).
+- 2009-12-10 — On agreeing to the Peterson amendment (A003) Agreed to by voice vote.
+- 2009-12-10 — On agreeing to the Peterson amendment (A004) Agreed to by voice vote.
+- 2009-12-10 — On agreeing to the Sessions amendment (A002) Failed by recorded vote: 172 - 257 (Roll no. 954).
+- 2009-12-10 — On agreeing to the Stupak amendment (A008) Failed by recorded vote: 98 - 330 (Roll no. 958).
+- 2009-12-10 — On agreeing to the Stupak amendment (A009) Failed by recorded vote: 150 - 279 (Roll no. 959).
+- 2009-12-10 — On motion that the Committee now rise Agreed to by voice vote.
+- 2009-12-10 — On motion that the Committee now rise Agreed to by voice vote.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frank amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Bachus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frank amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kanjorski amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lynch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Lynch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCarthy (CA), the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Murphy (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Sessions demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stupak amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Stupak demanded a recorded vote and the Chair po stponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stupak amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Frank (MA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Roll call votes on amendments in House
+- 2009-12-10 — Rule H. Res. 964 passed House.
+- 2009-12-10 — Rules Committee Resolution H. Res. 964 Reported to House. Rule provides for consideration of H.R. 4173. Measure will be considered read. Specified amendments are in order. The bill, as amended, shall be considered for amendment under the five-minute rule.
+- 2009-12-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-12-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-12-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2009-12-11 — Amendment (A014) offered by Mr. Cohen. (consideration: CR H14747-14748; text: CR H14747)
+- 2009-12-11 — Amendment (A015) offered by Mr. Peters. (consideration: CR H14748-14750, H14763-14764; text: CR H14748-14749)
+- 2009-12-11 — Amendment (A016) offered by Mr. Watt. (consideration: CR H14750-14751; text: CR H14750)
+- 2009-12-11 — Amendment (A017) offered by Mr. Kanjorski. (consideration: CR H14751-14752; text: CR H14751)
+- 2009-12-11 — Amendment (A018) offered by Mr. Marshall. (consideration: CR H14752-14757, H14797-14798; text: CR H14752-14755)
+- 2009-12-11 — Amendment (A019) offered by Mr. Garrett (NJ). (consideration: CR H14757-14758; text: CR H14757-14758)
+- 2009-12-11 — Amendment (A020) offered by Ms. Schakowsky. (consideration: CR H14758-14760, H14798-14799; text: CR H14758)
+- 2009-12-11 — Amendment (A021) offered by Ms. Kilroy. (consideration: CR H14760; text: CR H14760)
+- 2009-12-11 — Amendment (A022) offered by Mr. Minnick. (consideration: CR H14764-14776, H14799; text: CR H14764-14771)
+- 2009-12-11 — Amendment (A023) in the nature of a substitute offered by Mr. Bachus. (consideration: CR H14776-14797, H14799-14800, H14803-14804; text as modified: CR H14776-14792)
+- 2009-12-11 — Amendment agreed to Committee of the Whole
+- 2009-12-11 — Amendment agreed to Committee of the Whole
+- 2009-12-11 — Amendment agreed to Committee of the Whole
+- 2009-12-11 — Amendment agreed to Committee of the Whole
+- 2009-12-11 — Amendment agreed to Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Amendment failed in Committee of the Whole
+- 2009-12-11 — Bachus amendment (A023) modified by the order of the House of December 10, 2009.
+- 2009-12-11 — By unanimous consent, the Watt amendment was withdrawn. (consideration: CR H14751)
+- 2009-12-11 — Considered as unfinished business. (consideration: CR H14747-14761, H14761-14804)
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett (NJ) amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Kanjorski amendment numbered 18.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Kilroy amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Marshall amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Schakowsky amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 10 minutes of debate on the Watt amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 20 minutes of debate on the Minnick amendment.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeded with 30 minutes of debate on the Bachus amendment in the nature of a substitute, as modified.
+- 2009-12-11 — DEBATE - Pursuant to the provisions of H.Res. 964, the Committee of the Whole proceeeded with 10 minutes of debate on the Cohen amendment.
+- 2009-12-11 — DEBATE - The House proceeded with 10 minutes of debate on the Dent motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment repealing the troubled assest relief program.
+- 2009-12-11 — House amendment agreed to: On agreeing to the Cohen amendment (A014) Agreed to by voice vote.
+- 2009-12-11 — House amendment agreed to: On agreeing to the Garrett (NJ) amendment (A019) Agreed to by voice vote.
+- 2009-12-11 — House amendment agreed to: On agreeing to the Kilroy amendment (A021) Agreed to by voice vote.
+- 2009-12-11 — House amendment agreed to: On agreeing to the Peters amendment (A015) Agreed to by recorded vote: 228 - 198 (Roll no. 962).
+- 2009-12-11 — House amendment agreed to: On agreeing to the Schakowsky amendment (A020) Agreed to by recorded vote: 277 - 149 (Roll no. 964).
+- 2009-12-11 — House amendment not agreed to: On agreeing to the Bachus amendment (A023) as modified Failed by recorded vote: 175 - 251 (Roll no. 966).
+- 2009-12-11 — House amendment not agreed to: On agreeing to the Kanjorski amendment (A011) Failed by recorded vote: 153 - 271 (Roll no. 960).(consideration: CR H14762; text: CR H14762)
+- 2009-12-11 — House amendment not agreed to: On agreeing to the Kanjorski amendment (A017) Failed by voice vote.
+- 2009-12-11 — House amendment not agreed to: On agreeing to the Marshall amendment (A018) Failed by recorded vote: 188 - 241 (Roll no. 963).
+- 2009-12-11 — House amendment not agreed to: On agreeing to the McCarthy (CA) amendment (A012) Failed by recorded vote: 166 - 259 (Roll no. 961).(consideration: CR H14762-14763; text: CR H14762)
+- 2009-12-11 — House amendment not agreed to: On agreeing to the Minnick amendment (A022) Failed by recorded vote: 208 - 223 (Roll no. 965).
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered
+- 2009-12-11 — House amendment offered/reported by : Amendment (A014) offered by Mr. Cohen.(consideration: CR H14747-14748; text: CR H14747)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A015) offered by Mr. Peters.(consideration: CR H14748-14750, H14763-14764; text: CR H14748-14749)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A016) offered by Mr. Watt.(consideration: CR H14750-14751; text: CR H14750)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A017) offered by Mr. Kanjorski.(consideration: CR H14751-14752; text: CR H14751)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A018) offered by Mr. Marshall.(consideration: CR H14752-14757, H14797-14798; text: CR H14752-14755)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A019) offered by Mr. Garrett (NJ).(consideration: CR H14757-14758; text: CR H14757-14758)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A020) offered by Ms. Schakowsky.(consideration: CR H14758-14760, H14798-14799; text: CR H14758)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A021) offered by Ms. Kilroy.(consideration: CR H14760; text: CR H14760)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A022) offered by Mr. Minnick.(consideration: CR H14764-14776, H14799; text: CR H14764-14771)
+- 2009-12-11 — House amendment offered/reported by : Amendment (A023) in the nature of a substitute offered by Mr. Bachus.(consideration: CR H14776-14797, H14799-14800, H14803-14804; text as modified: CR H14776-14792)
+- 2009-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-11 — Mr. Dent moved to recommit with instructions to Financial Services, Agriculture, Energy and Commerce, Judiciary, Rules, the Budget, Oversight and Government Reform, and Ways and Means. (consideration: CR H14800-14804; text: CR H14800-14801)
+- 2009-12-11 — On agreeing to the Bachus amendment (A023) as modified Failed by recorded vote: 175 - 251 (Roll no. 966).
+- 2009-12-11 — On agreeing to the Cohen amendment (A014) Agreed to by voice vote.
+- 2009-12-11 — On agreeing to the Garrett (NJ) amendment (A019) Agreed to by voice vote.
+- 2009-12-11 — On agreeing to the Kanjorski amendment (A011) Failed by recorded vote: 153 - 271 (Roll no. 960). (consideration: CR H14762; text: CR H14762)
+- 2009-12-11 — On agreeing to the Kanjorski amendment (A017) Failed by voice vote.
+- 2009-12-11 — On agreeing to the Kilroy amendment (A021) Agreed to by voice vote.
+- 2009-12-11 — On agreeing to the Marshall amendment (A018) Failed by recorded vote: 188 - 241 (Roll no. 963).
+- 2009-12-11 — On agreeing to the McCarthy (CA) amendment (A012) Failed by recorded vote: 166 - 259 (Roll no. 961). (consideration: CR H14762-14763; text: CR H14762)
+- 2009-12-11 — On agreeing to the Minnick amendment (A022) Failed by recorded vote: 208 - 223 (Roll no. 965).
+- 2009-12-11 — On agreeing to the Peters amendment (A015) Agreed to by recorded vote: 228 - 198 (Roll no. 962).
+- 2009-12-11 — On agreeing to the Schakowsky amendment (A020) Agreed to by recorded vote: 277 - 149 (Roll no. 964).
+- 2009-12-11 — On motion to recommit with instructions Failed by recorded vote: 190 - 232 (Roll no. 967). (consideration: CR H14803-14804)
+- 2009-12-11 — On passage Passed by recorded vote: 223 - 202 (Roll no. 968).
+- 2009-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bachus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Bachus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Marshall amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Goodlatte demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Minnick amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Frank (MA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Peters amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shakowsky amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2009-12-11 — Passed/agreed to in House: On passage Passed by recorded vote: 223 - 202 (Roll no. 968).
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — Roll call votes on amendments in House
+- 2009-12-11 — The Committee resumed its sitting.
+- 2009-12-11 — The Committee rose informally to receive a message.
+- 2009-12-11 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2009-12-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2009-12-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4173.
+- 2009-12-11 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H14803)
+- 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
