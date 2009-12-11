@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4017
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4017
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 43 Mapl
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Delahunt, Bill [D-MA-10] (D000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 43 Mapl
 - 2009-12-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-10 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 419 - 0 (Roll no. 950). (text: CR 12/8/2009 H13574)
 - 2009-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 419 - 0 (Roll no. 950).(text: CR 12/8/2009 H13574)
+- 2009-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
