@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 942
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 942
@@ -78,8 +78,22 @@ Commending the Real Salt Lake soccer club for winning the 2009 Major League Socc
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2009-12-14 — [House 111-1-970](votes/house-111-1-0970.md) — On Motion to Suspend the Rules and Agree — **Passed** (347–0)
+
 ## Actions
 
 - 2009-12-02 — Introduced in House
 - 2009-12-02 — Introduced in House
 - 2009-12-02 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-12-10 — Committee Consideration and Mark-up Session Held.
+- 2009-12-10 — Ordered to be Reported by Voice Vote.
+- 2009-12-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2009-12-14 — Considered as unfinished business. (consideration: CR H14844)
+- 2009-12-14 — Considered under suspension of the rules. (consideration: CR H14840-14841)
+- 2009-12-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 942.
+- 2009-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-14 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2009-12-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 970). (text: CR H14840-14841)
+- 2009-12-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 970).(text: CR H14840-14841)
