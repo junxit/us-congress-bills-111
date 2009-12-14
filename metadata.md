@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1471
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1471
@@ -26,9 +26,10 @@ To expand the boundary of the Jimmy Carter National Historic Site in the State o
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 - Rep. Barrow, John [D-GA-12] (B001252)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,5 @@ To expand the boundary of the Jimmy Carter National Historic Site in the State o
 - 2009-10-26 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2009-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11744)
 - 2009-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11744)
+- 2009-10-27 — Received in the Senate.
+- 2009-12-14 — Read twice and referred to the Committee on Energy and Natural Resources.
