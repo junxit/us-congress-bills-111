@@ -2,7 +2,7 @@
 legis-num: H. RES. 779
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 779
@@ -21,4 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the National Runaway Switchboard provides crisis intervention and referrals to reconnect runaway youth to their families and link youth to local resources that provide positive alternatives to running away from home; and
 - Whereas the National Network for Youth and National Runaway Switchboard are cosponsoring National Runaway Prevention Month in November to increase public awareness of the life circumstances of youth in high-risk situations, and the need for safe, healthy, and productive alternatives, resources, and support for youth, families, and communities: Now, therefore, be it
 
-That the House of Representatives recognizes and supports the goals and ideals of National Runaway Prevention Month.
+That the House of Representatives—
+
+- **(1)** recognizes the importance of youth runaway prevention; and
+- **(2)** urges support for greater public awareness efforts and effective runaway youth prevention programs.
