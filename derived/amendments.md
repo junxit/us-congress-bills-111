@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is repealed. | the bill names no machine-readable US Code section |
+| — | amend | Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows: | the bill names no machine-readable US Code section |
