@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,10 +33,13 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in the section heading, by striking “AND SUNSET”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and shall cease to be effective 8 years after such date of enactment”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g), as so redesignated, by striking “All actions” and inserting “Except for actions relating to establishing the website required under subsection (e), all actions”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) and (f) as subsections (g) and (h), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following new subsections: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h), as so redesignated, by striking “All actions” and inserting “Except for actions relating to establishing the website required under subsection (e), all actions”. | the bill names no machine-readable US Code section |
 | — | replace | The Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by striking section 7 and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 8, 9, 10, and 11 as sections 9, 10, 11, and 12, respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 7, as amended by this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 7, as amended by this Act, the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Section 5(d) of the Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by inserting “, until the date on which the Federal agency submits the first report by the Federal agency required under… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating sections 9, 10, 11, and 12 as sections 10, 11, 12, and 13, respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 8, as added by this Act, the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5 of the Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

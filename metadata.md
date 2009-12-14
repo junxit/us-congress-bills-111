@@ -1,7 +1,7 @@
 ---
 measure: S. 303
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 303
@@ -41,3 +41,11 @@ Federal Financial Assistance Management Improvement Act of 2009
 - 2009-03-18 — Message on Senate action sent to the House.
 - 2009-03-18 — Received in the House.
 - 2009-03-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-12-10 — Committee Consideration and Mark-up Session Held.
+- 2009-12-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-12-14 — Considered under suspension of the rules. (consideration: CR H14835-14839)
+- 2009-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 303.
+- 2009-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-14 — Mr. Lynch moved to suspend the rules and pass the bill, as amended.
+- 2009-12-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H14835-14837)
+- 2009-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H14835-14837)
