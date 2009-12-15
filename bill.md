@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 4318
+congress: 111th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4318
+
+> To authorize the President to reestablish the Civilian Conservation Corps as a means of providing gainful employment to unemployed and underemployed citizens of the United States through the performance of useful public work, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “21st Century Civilian Conservation Corps Act”.
+
+## § 2. Establishment and operation of Civilian Conservation Corps
+
+- **(a)** *Establishment and purpose* In order to relieve the acute condition of widespread distress and unemployment existing in the United States and to provide for the restoration of depleted natural resources in the United States and the advancement of an orderly program of useful public works, the President may establish and operate a Civilian Conservation Corps to employ citizens of the United States, who are otherwise unemployed or underemployed, in the construction, maintenance, and carrying on of works of a public nature in connection with—
+  - **(1)** the forestation of lands belonging to the United States or a State;
+  - **(2)** the prevention of forest fires, floods, and soil erosion;
+  - **(3)** plant pest and disease control;
+  - **(4)** the construction, maintenance, or repair of paths, trails, and fire-lanes in units of the National Park System, public lands, and other lands under the jurisdiction of the Secretary of the Interior and units of the National Forest System; and
+  - **(5)** such other work on Federal or State land incidental to or necessary in connection with any projects of the character enumerated in paragraphs (1) through (4) that the President determines to be desirable.
+- **(b)** *Role of Federal agencies* To operate the Civilian Conservation Corps, the President may utilize existing Federal departments and agencies, including the Department of Labor, the Department of Defense, the National Guard Bureau, the Department of Interior, the Department of Agriculture, the Army Corps of Engineers, the Department of Transportation, the Department of Energy, the Environmental Protection Agency, and Federal governmental corporations.
+- **(c)** *Inclusion of other lands* The President may extend the activities of the Civilian Conservation Corps to lands owned by a political subdivision of a State and lands in private ownership, but only for the purpose of conducting such kinds of cooperation work as are otherwise authorized by law in preventing and controlling forest fires and the attacks of forest tree pests and diseases and such work as is necessary and in the public interest to control floods.
+- **(d)** *Contract authority* For the purpose of carrying out this Act the President may enter into such contracts or agreements with States as may be necessary, including provisions for utilization of existing State administrative agencies.
+- **(e)** *Acquisition of real property* The President, or the head of any department or agency authorized by the President to construct any project or to carry on any public works under this Act, may acquire real property for such project or public work by purchase, donation, condemnation, or otherwise.
+
+## § 3. Administration of Civilian Conservation Corps
+
+- **(a)** *Housing and care of employees* The President may provide housing for persons employed in the Civilian Conservation Corps and furnish them with such subsistence, clothing, medical attendance and hospitalization, and cash allowance, as may be necessary, during the period they are so employed.
+- **(b)** *Transportation* The President may provide for the transportation of persons employed in the Civilian Conservation Corps to and from the places of employment.
+- **(c)** *Non-Discrimination* In employing citizens for the Civilian Conservation Corps, no discrimination shall occur in accordance with Federal employment law; except that no individual under conviction for crime and serving sentence therefore shall be employed under the provisions of this Act.
+
+## § 4. Authorization of appropriations
+
+- **(a)** *Authorization of appropriations* There are authorized to be appropriated to carry out this Act $16,000,000,000 for each fiscal years 2010 through 2013.
+- **(b)** *Use of unobligated funds appropriated for public works*
+  - **(1)** *Use of existing funds* The President may use any moneys previously appropriated for public works and unobligated as of the date of the enactment of this Act to establish and operate a Civilian Conservation Corps under this Act.
+  - **(2)** *Use to relieve unemployment* Not less than 80 percent of the funds utilized pursuant to paragraph (1) must be used to provide for the employment of individuals under this Act.
+  - **(3)** *Exceptions* Paragraph (1) does not apply to—
+    - **(A)** unobligated moneys appropriated for public works on which actual construction has been commenced as of the date of the enactment of this Act or may be commenced within 90 days after that date; and
+    - **(B)** maintenance funds for river and harbor improvements already allocated as of the date of the enactment of this Act.
+- **(c)** *Duration of availability* Amounts appropriated pursuant to the authorization of appropriations in subsection (a) or made available under subsection (b) shall remain available until expended.
+
+## § 5. Termination
+
+The authority of the President to establish and operate a Civilian Conservation Corps under this Act expires on September 30, 2013.
