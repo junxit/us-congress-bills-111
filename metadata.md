@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1517
@@ -28,6 +28,10 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - House — Oversight and Accountability Committee
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2009-12-15 — [House 111-1-972](votes/house-111-1-0972.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–1)
+
 ## Actions
 
 - 2009-03-16 — Introduced in House
@@ -46,3 +50,11 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - 2009-12-14 — Placed on the Union Calendar, Calendar No. 218.
 - 2009-12-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-373, Part I.
 - 2009-12-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-373, Part I.
+- 2009-12-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cuellar objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-12-15 — Considered as unfinished business. (consideration: CR H14901-14902)
+- 2009-12-15 — Considered under suspension of the rules. (consideration: CR H14887-14890)
+- 2009-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1517.
+- 2009-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-15 — Mr. Cuellar moved to suspend the rules and pass the bill, as amended.
+- 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972). (text: CR H14887-14888)
+- 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972).(text: CR H14887-14888)

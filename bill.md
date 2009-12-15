@@ -27,8 +27,8 @@ For purposes of this Act—
   - **(2)** the employee’s performance has, throughout the period of continuous service referred to in paragraph (1), been rated at least fully successful or the equivalent.
 - **(b)** *Indemnification and privileges*
   - **(1)** *Indemnification* The United States shall, in the case of any individual whose appointment is converted under subsection (a), indemnify and hold such individual harmless from any claim arising from any event, act, or omission—
-    - **(A)** that arises from the exercise of such individual’s official duties, including by reason of such individual’s residency status, in the foreign country in which such individual resides at the time of conversion,
-    - **(B)** for which the individual would not have been liable had the individual enjoyed the same privileges and immunities in the foreign country as an individual who either was a permanent employee, or was not a permanent resident, in the foreign country at the time of the event, act, or omission involved, and
+    - **(A)** that arises from the exercise of such individual’s official duties, including by reason of such individual’s residency status, in the foreign country in which such individual resides at the time of conversion;
+    - **(B)** for which the individual would not have been liable had the individual enjoyed the same privileges and immunities in the foreign country as an individual who either was a permanent employee, or was not a permanent resident, in the foreign country at the time of the event, act, or omission involved; and
     - **(C)** that occurs before, on, or after the date of the enactment of this Act,
   - **(2)** *Services and payments*
     - **(A)** *In general* In the case of any individual whose appointment is converted under subsection (a), the United States shall provide to such individual (including any dependents) services and monetary payments—
