@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 920
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 920
@@ -16,7 +16,7 @@ Directing the Attorney General to transmit to the House of Representatives all i
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -33,6 +33,7 @@ Directing the Attorney General to transmit to the House of Representatives all i
 - Rep. King, Steve [R-IA-5] (K000362)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
 
 ## Committees (1)
 
@@ -43,3 +44,8 @@ Directing the Attorney General to transmit to the House of Representatives all i
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Referred to the House Committee on the Judiciary.
+- 2009-12-09 — Committee Consideration and Mark-up Session Held.
+- 2009-12-09 — Ordered to be Reported Adversely by the Yeas and Nays: 20 - 13.
+- 2009-12-15 — Placed on the House Calendar, Calendar No. 144.
+- 2009-12-15 — Reported adversely by the Committee on Judiciary. H. Rept. 111-378.
+- 2009-12-15 — Reported adversely by the Committee on Judiciary. H. Rept. 111-378.
