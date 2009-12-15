@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2194
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2194
@@ -369,6 +369,10 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2009-12-15 — [House 111-1-975](votes/house-111-1-0975.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–12)
+
 ## Actions
 
 - 2009-04-30 — Introduced in House
@@ -394,3 +398,11 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - 2009-12-11 — Committee on Ways and Means discharged.
 - 2009-12-11 — Committee on Ways and Means discharged.
 - 2009-12-11 — Placed on the Union Calendar, Calendar No. 217.
+- 2009-12-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Berman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-12-15 — Considered as unfinished business. (consideration: CR H14943)
+- 2009-12-15 — Considered under suspension of the rules. (consideration: CR H14921-14942)
+- 2009-12-15 — DEBATE - The House proceeded with sixty minutes of debate on H.R. 2194.
+- 2009-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-15 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
+- 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975). (text: CR H14921-14923)
+- 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975).(text: CR H14921-14923)
