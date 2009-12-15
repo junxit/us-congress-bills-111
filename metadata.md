@@ -1,7 +1,7 @@
 ---
 measure: S. 1755
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1755
@@ -34,3 +34,6 @@ Amateur Radio Emergency Communications Enhancement Act of 2009
 - 2009-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
 - 2009-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13201; text as passed Senate: CR S13201)
 - 2009-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13201; text as passed Senate: CR S13201)
+- 2009-12-15 — Message on Senate action sent to the House.
+- 2009-12-15 — Received in the House.
+- 2009-12-15 — Referred to the House Committee on Energy and Commerce.
