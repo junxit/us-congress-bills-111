@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 922
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 922
@@ -16,7 +16,7 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Souder, Mark E. [R-IN-3] (S001143)
@@ -30,6 +30,8 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
 - Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Kline, John [R-MN-2] (K000363)
 
 ## Committees (1)
 
@@ -40,3 +42,8 @@ Directing the Secretary of Homeland Security to transmit to the House of Represe
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Referred to the House Committee on Homeland Security.
+- 2009-12-09 — Committee Consideration and Mark-up Session Held.
+- 2009-12-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2009-12-15 — Placed on the House Calendar, Calendar No. 143.
+- 2009-12-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-377.
+- 2009-12-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-377.
