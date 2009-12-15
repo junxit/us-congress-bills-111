@@ -2,7 +2,7 @@
 legis-num: H. RES. 150
 congress: 111th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 150
@@ -21,6 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas A. Philip Randolph was a leader in the movement challenging discrimination in defense industry jobs and used the threat of a march on Washington as part of an effort to lobby President Roosevelt to sign an executive order banning discrimination within the Government and the defense industries;
 - Whereas A. Philip Randolph was, in 1947, a leader in the movement to end segregation in the military and called for African-Americans to refuse to register for the draft until these practices were ended and was successful in this effort, which saw President Truman issue an executive order barring discrimination in the military on July 26, 1948;
 - Whereas A. Philip Randolph was the leading force behind the March on Washington for Jobs and Freedom and worked with many old friends and foes of his earlier labor struggles to ensure the success of the event, which took place on August 28, 1963, drew a crowd of over 250,000 people, and was the occasion of a meeting with President Kennedy and Dr. Martin Luther King, Jr.; and
-- Whereas A. Philip Randolph died in 1979 as an elder statesman of the civil rights movement, a much admired figure and role model for the young people of this Nation: Now, therefore, be it:
+- Whereas A. Philip Randolph died in 1979 as an elder statesman of the civil rights movement, a much admired figure and role model for the young people of this Nation: Now, therefore, be it
 
 That it is the sense of the House of Representatives that A. Phillip Randolph should be recognized for his lifelong leadership and work to end discrimination and secure equal employment and labor opportunities for all Americans.
