@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1084
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1084
@@ -127,3 +127,9 @@ CALM Act
 - 2009-12-14 — Placed on the Union Calendar, Calendar No. 219.
 - 2009-12-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-374.
 - 2009-12-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-374.
+- 2009-12-15 — Considered under suspension of the rules. (consideration: CR H14907-14910)
+- 2009-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1084.
+- 2009-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-15 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
+- 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H14907-14908)
+- 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H14907-14908)
