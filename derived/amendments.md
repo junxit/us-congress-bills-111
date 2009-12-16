@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3714
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
