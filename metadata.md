@@ -1,7 +1,7 @@
 ---
 measure: H.R. 511
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 511
@@ -40,3 +40,7 @@ To authorize the Secretary of Agriculture to terminate certain easements held by
 - 2009-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9514)
 - 2009-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9514)
 - 2009-09-16 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment. Without written report.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment. Without written report.
+- 2009-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
