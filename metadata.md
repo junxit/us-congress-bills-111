@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1517
@@ -23,10 +23,11 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - 2009-12-15 — Mr. Cuellar moved to suspend the rules and pass the bill, as amended.
 - 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972). (text: CR H14887-14888)
 - 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972).(text: CR H14887-14888)
+- 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
