@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1147
@@ -123,3 +123,11 @@ Local Community Radio Act of 2009
 - 2009-12-14 — Placed on the Union Calendar, Calendar No. 220.
 - 2009-12-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-375.
 - 2009-12-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-375.
+- 2009-12-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boucher objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2009-12-15 — Considered under suspension of the rules. (consideration: CR H14903-14907)
+- 2009-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1147.
+- 2009-12-15 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
+- 2009-12-16 — Considered as unfinished business. (consideration: CR H15473)
+- 2009-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/15/2009 H14903)
+- 2009-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/15/2009 H14903)
