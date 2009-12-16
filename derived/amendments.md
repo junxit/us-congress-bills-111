@@ -1,7 +1,7 @@
 ---
 measure: S. 1790
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-96 amendatory instructions. 0 executed, 96 stated and not applied.
+119 amendatory instructions. 0 executed, 119 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,6 +55,9 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 119 of the Indian Health Care Improvement Act (25 U.S.C. 1616l) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Indian Health Care Improvement Act (25 U.S.C. 1611 et seq.) (as amended by section 101(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Indian Health Care Improvement Act (25 U.S.C. 1611 et seq.) (as amended by section 112) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 201 of the Indian Health Care Improvement Act (25 U.S.C. 1621) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 202 of the Indian Health Care Improvement Act (25 U.S.C. 1621a) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 204 of the Indian Health Care Improvement Act (25 U.S.C. 1621c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 205 of the Indian Health Care Improvement Act (25 U.S.C. 1621d) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Section 821 of the Indian Health Care Improvement Act (25 U.S.C. 1680k) is repealed. | the bill names no machine-readable US Code section |
 | — | amend | Section 822 of the Indian Health Care Improvement Act (25 U.S.C. 1680l) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -62,19 +65,29 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 207 of the Indian Health Care Improvement Act (25 U.S.C. 1621f) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 209 of the Indian Health Care Improvement Act (25 U.S.C. 1621h) is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 212 of the Indian Health Care Improvement Act (25 U.S.C. 1621k) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 212 of the Indian Health Care Improvement Act (25 U.S.C. 1621k) is amended by inserting “and other cancer screenings” before the period at the end. | the bill names no machine-readable US Code section |
 | — | amend | Section 213 of the Indian Health Care Improvement Act (25 U.S.C. 1621l) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 214 of the Indian Health Care Improvement Act (25 U.S.C. 1621m) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 216(b)(2) of the Indian Health Care Improvement Act (25 U.S.C. 1621o(b)(2)) is amended by striking “section 209(m)” and inserting “section 708(c)”. | the bill names no machine-readable US Code section |
+| — | amend | Section 217 of the Indian Health Care Improvement Act (25 U.S.C. 1621p) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 218 of the Indian Health Care Improvement Act (25 U.S.C. 1621q) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 221 of the Indian Health Care Improvement Act (25 U.S.C. 1621t) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Indian Health Care Improvement Act (25 U.S.C. 1611 et seq.) (as amended by section 113) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 106 of the Indian Health Care Improvement Act (25 U.S.C. 1615) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 222 of the Indian Health Care Improvement Act (25 U.S.C. 1621u) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the section designation and heading and all that follows through “oversee efforts of the Service to” and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (b) (as so redesignated) by inserting “(including urban Indian women)” before “of all ages”. | the bill names no machine-readable US Code section |
 | — | amend | Title II of the Indian Health Care Improvement Act (25 U.S.C. 1621 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title II of the Indian Health Care Improvement Act (25 U.S.C. 1621 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (h); and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 301 of the Indian Health Care Improvement Act (25 U.S.C. 1631) (as amended by section 141) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 307 of the Indian Health Care Improvement Act (25 U.S.C. 1637) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 307 of the Indian Health Care Improvement Act (25 U.S.C. 1637) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Title III of the Indian Health Care Improvement Act (as amended by section 101(b)) is amended by inserting after section 308 (25 U.S.C. 1638) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title III of the Indian Health Care Improvement Act (25 U.S.C. 1631 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title III of the Indian Health Care Improvement Act (25 U.S.C. 1631 et seq.) (as amended by section 143) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title III of the Indian Health Care Improvement Act (25 U.S.C. 1631 et seq.) (as amended by section 144) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title III of the Indian Health Care Improvement Act (25 U.S.C. 1631 et seq.) (as amended by section 143145) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title III of the Indian Health Care Improvement Act (25 U.S.C. 1631 et seq.) (as amended by section 144146) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 401 of the Indian Health Care Improvement Act (25 U.S.C. 1641) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 402 of the Indian Health Care Improvement Act (25 U.S.C. 1642) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 404 of the Indian Health Care Improvement Act (25 U.S.C. 1644) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -83,10 +96,14 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Title IV of the Indian Health Care Improvement Act (25 U.S.C. 1641 et seq.) (as amended by section 155) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title IV of the Indian Health Care Improvement Act (25 U.S.C. 1641 et seq.) (as amended by section 156) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title IV of the Indian Health Care Improvement Act (25 U.S.C. 1641 et seq.) (as amended by section 157) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title IV of the Indian Health Care Improvement Act (25 U.S.C. 1641 et seq.) (as amended by section 158) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 509 of the Indian Health Care Improvement Act (25 U.S.C. 1659) is amended by inserting “or construction or expansion of facilities” after “renovations to facilities”. | the bill names no machine-readable US Code section |
+| — | amend | Section 512 of the Indian Health Care Improvement Act (25 U.S.C. 1660b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 101(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 502 of the Indian Health Care Improvement Act (25 U.S.C. 1652) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 161(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 162) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 163(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 164) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) (as amended by section 165) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 601 of the Indian Health Care Improvement Act (25 U.S.C. 1661) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VI of the Indian Health Care Improvement Act (25 U.S.C. 1661 et seq.) (as amended by section 101(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VI of the Indian Health Care Improvement Act (25 U.S.C. 1661 et seq.) (as amended by section 172) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -98,6 +115,12 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 812 of the Indian Health Care Improvement Act (25 U.S.C. 1680b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 813 of the Indian Health Care Improvement Act (25 U.S.C. 1680c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 195) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 196) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 197) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 198) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 199) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VIII of the Indian Health Care Improvement Act (25 U.S.C. 1671 et seq.) (as amended by section 199A) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end; | the bill names no machine-readable US Code section |
