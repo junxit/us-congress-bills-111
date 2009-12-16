@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 374
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 374
@@ -16,10 +16,11 @@ A resolution recognizing the cooperative efforts of hunters, sportsmen's associa
 
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution recognizing the cooperative efforts of hunters, sportsmen's associa
 
 - 2009-12-14 — Introduced in Senate
 - 2009-12-14 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S13192)
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment and with a preamble. Without written report.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment and with a preamble. Without written report.
+- 2009-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
