@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2190
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Title I of the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended by inserting after section 6 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents of the Toxic Substances Control Act (15 U.S.C. 2601 note) is amended by inserting after the item relating to section 6 the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 15 of such Act is amended by striking out “or 6” and inserting “, 6, or 6A” in each place it appears. | the bill names no machine-readable US Code section |
+| — | replace | Paragraphs (1) and (2) of section 15 of such Act are each amended by striking “or 6” and inserting “, 6 or 6A” . | the bill names no machine-readable US Code section |
