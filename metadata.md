@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1084
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1084
@@ -109,9 +109,10 @@ CALM Act
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -133,3 +134,4 @@ CALM Act
 - 2009-12-15 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
 - 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H14907-14908)
 - 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H14907-14908)
+- 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
