@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2194
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2194
@@ -362,12 +362,13 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Committees (4)
+## Committees (5)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -406,3 +407,4 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - 2009-12-15 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
 - 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975). (text: CR H14921-14923)
 - 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975).(text: CR H14921-14923)
+- 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
