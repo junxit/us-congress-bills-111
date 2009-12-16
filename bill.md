@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 160
 
-> Honoring the American Kennel Club on its 125th anniversary.
+> Recognizing the contributions of the American Kennel Club.
 
 ## Preamble
 
@@ -25,7 +25,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the American Kennel Club created and operates DOGNY: America’s Tribute to Search and Rescue Dogs, which supports canine search and rescue organizations across the United States;
 - Whereas the American Kennel Club annually awards $170,000 in scholarships to veterinary and veterinary technical students;
 - Whereas the American Kennel Club has reunited more than 340,000 lost pets and their owners through the AKC Companion Animal Recovery (CAR) program;
-- Whereas the American Kennel Club established the AKC Canine Good Citizen® program, which certifies dogs with good manners at home and in the community; and
-- Whereas the American Kennel Club maintains the world’s largest dog library and the Museum of the Dog in St. Louis, which houses one of the world’s largest collections of dog-related fine art and artifacts, both of which are open to the public: Now, therefore, be it
+- Whereas the American Kennel Club established the AKC Canine Good Citizen program, which certifies dogs with good manners at home and in the community;
+- Whereas the American Kennel Club maintains the world’s largest dog library and the Museum of the Dog in St. Louis, which houses one of the world’s largest collections of dog-related fine art and artifacts, both of which are open to the public; and
+- Whereas the American Kennel Club celebrates its 125th anniversary this year: Now, therefore, be it
 
-That Congress honors the American Kennel Club for its service to dog owners and the United States public, and congratulates the American Kennel Club on the occasion of its 125th anniversary.
+That Congress honors the American Kennel Club for its service to dog owners and the United States public.
