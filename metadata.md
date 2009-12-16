@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 223
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 223
@@ -29,3 +29,6 @@ Providing for the sine die adjournment of the first session of the One Hundred E
 - 2009-12-16 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 978). (text: CR H14991)
 - 2009-12-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 978).(text: CR H14991)
 - 2009-12-16 — Received in the Senate.
+- 2009-12-24 — Message on Senate action sent to the House.
+- 2009-12-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S14140; text: CR S14140)
+- 2009-12-24 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S14140; text: CR S14140)
