@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Public Print
+version: Engrossed Amendment House
 ---
 
 # H.R. 3326
@@ -16,7 +16,7 @@ Department of Defense Appropriations Act, 2010
 
 - Rep. Murtha, John P. [D-PA-12] (M001120)
 
-## Cosponsors (103)
+## Cosponsors (104)
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -56,6 +56,7 @@ Department of Defense Appropriations Act, 2010
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 - Sen. Nelson, Bill [D-FL] (N000032)
@@ -127,7 +128,7 @@ Department of Defense Appropriations Act, 2010
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (27)
+## Recorded votes (28)
 
 - 2009-07-30 — [House 111-1-661](votes/house-111-1-0661.md) — On Agreeing to the Amendment — **Agreed to** (269–165)
 - 2009-07-30 — [House 111-1-662](votes/house-111-1-0662.md) — On Agreeing to the Amendment — **Failed** (48–373)
@@ -156,6 +157,7 @@ Department of Defense Appropriations Act, 2010
 - 2009-10-06 — [Senate 111-1-313](votes/senate-111-1-0313.md) — On the Amendment — **Amendment Agreed to** (77–21)
 - 2009-10-06 — [Senate 111-1-314](votes/senate-111-1-0314.md) — On the Amendment — **Amendment Rejected** (43–55)
 - 2009-10-06 — [Senate 111-1-315](votes/senate-111-1-0315.md) — On Passage of the Bill — **Bill Passed** (93–7)
+- 2009-12-16 — [House 111-1-985](votes/house-111-1-0985.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (395–34)
 
 ## Actions
 
@@ -566,3 +568,36 @@ Department of Defense Appropriations Act, 2010
 - 2009-10-06 — Senate amendment proposed (on the floor): Amendment SA 2623 proposed by Senator Inouye.(consideration: CR S10154-10155; text: CR S10154)
 - 2009-10-06 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Dorgan; Durbin; Feinstein; Mikulski; Kohl; Murray; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Hutchison; Bennett; Brownback. (consideration: CR S10159)
 - 2009-10-06 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2009-10-07 — Message on Senate action sent to the House.
+- 2009-12-16 — A point of order was raised against consideration of the measure on the grounds that it violated the Budget Act. Following 20 minutes of debate on the point of order, the Chair will put the question on consideration of the measure.
+- 2009-12-16 — Amendment SA 3248 proposed by Senator Reid. (consideration: CR S13295; text: CR S13295) To change the enactment date.
+- 2009-12-16 — Amendment SA 3249 proposed by Senator Reid. (consideration: CR S13295-13296; text: CR S13296) To provide for a study.
+- 2009-12-16 — Amendment SA 3250 proposed by Senator Reid to Amendment SA 3249 (the instructions to the motion). (consideration: CR S13296; text: CR S13296) Of a perfecting nature.
+- 2009-12-16 — Amendment SA 3251 proposed by Senator Reid to Amendment SA 3250. (consideration: CR S13296; text: CR S13296) Of a perfecting nature.
+- 2009-12-16 — Amendment SA 3252 proposed by Senator Reid to Amendment SA 3248. (consideration: CR S13295; text: CR S13295) To change the enactment date.
+- 2009-12-16 — Cloture motion on the motion to concur in House amendment to Senate amendment to H.R. 3326 presented in Senate. (consideration: CR S13295; text: CR S13295)
+- 2009-12-16 — Considered by Senate (message from the House with respect to H.R. 3326). (consideration: CR S13295-13396)
+- 2009-12-16 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2009-12-16 — Motion by Senator Reid to concur in House amendment to Senate amendment made in Senate.
+- 2009-12-16 — Motion by Senator Reid to concur in House amendment to Senate amendment with amendment (SA 3248) made in Senate. (consideration: CR S13295)
+- 2009-12-16 — Motion by Senator Reid to refer to Senate Committee on Appropriations with instructions that the Committee report back with the following amendment (SA 3249) made in Senate. (consideration: CR S13295-13296)
+- 2009-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-16 — Mr. Murtha moved that the House agree with an amendment to the Senate amendment. (consideration: CR H15007-15420)
+- 2009-12-16 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 395 - 34 (Roll No. 985). (text as House agreed to Senate amendment with an amendment: CR H15022-15040)
+- 2009-12-16 — On motion that the House now consider the measure Agreed to by voice vote.
+- 2009-12-16 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 395 - 34 (Roll No. 985).(text as House agreed to Senate amendment with an amendment: CR H15022-15040)
+- 2009-12-16 — Resolving differences -- House actions: On motion that the House now consider the measure Agreed to by voice vote.
+- 2009-12-16 — Rules Committee Resolution H. Res. 976 Reported to House. Rule provides for consideration of H.R. 3326, H.J. Res. 64, H.R. 4314 and H.R. 2847.
+- 2009-12-16 — Senate amendment proposed (on the floor): Amendment SA 3248 proposed by Senator Reid.(consideration: CR S13295; text: CR S13295)
+- 2009-12-16 — Senate amendment proposed (on the floor): Amendment SA 3249 proposed by Senator Reid.(consideration: CR S13295-13296; text: CR S13296)
+- 2009-12-16 — Senate amendment proposed (on the floor): Amendment SA 3250 proposed by Senator Reid to Amendment SA 3249 (the instructions to the motion).(consideration: CR S13296; text: CR S13296)
+- 2009-12-16 — Senate amendment proposed (on the floor): Amendment SA 3251 proposed by Senator Reid to Amendment SA 3250.(consideration: CR S13296; text: CR S13296)
+- 2009-12-16 — Senate amendment proposed (on the floor): Amendment SA 3252 proposed by Senator Reid to Amendment SA 3248.(consideration: CR S13295; text: CR S13295)
+- 2009-12-16 — Senate amendment submitted
+- 2009-12-16 — Senate amendment submitted
+- 2009-12-16 — Senate amendment submitted
+- 2009-12-16 — Senate amendment submitted
+- 2009-12-16 — Senate amendment submitted
+- 2009-12-16 — The Chair put the question on consideration of the measure.
+- 2009-12-16 — The House proceeded with one hour debate on the motion to agree to the Senate amendment with an amendment.
+- 2009-12-16 — The previous question was ordered without objection. (consideration: CR H15419)
