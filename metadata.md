@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3326
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3326
@@ -128,7 +128,7 @@ Department of Defense Appropriations Act, 2010
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (28)
+## Recorded votes (32)
 
 - 2009-07-30 — [House 111-1-661](votes/house-111-1-0661.md) — On Agreeing to the Amendment — **Agreed to** (269–165)
 - 2009-07-30 — [House 111-1-662](votes/house-111-1-0662.md) — On Agreeing to the Amendment — **Failed** (48–373)
@@ -158,6 +158,10 @@ Department of Defense Appropriations Act, 2010
 - 2009-10-06 — [Senate 111-1-314](votes/senate-111-1-0314.md) — On the Amendment — **Amendment Rejected** (43–55)
 - 2009-10-06 — [Senate 111-1-315](votes/senate-111-1-0315.md) — On Passage of the Bill — **Bill Passed** (93–7)
 - 2009-12-16 — [House 111-1-985](votes/house-111-1-0985.md) — On Concurring in the Senate Amendment with an Amendment — **Passed** (395–34)
+- 2009-12-18 — [Senate 111-1-381](votes/senate-111-1-0381.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–33)
+- 2009-12-19 — [Senate 111-1-382](votes/senate-111-1-0382.md) — On the Motion to Table — **Motion to Table Agreed to** (63–35)
+- 2009-12-19 — [Senate 111-1-383](votes/senate-111-1-0383.md) — On the Motion — **Motion Agreed to** (63–35)
+- 2009-12-19 — [Senate 111-1-384](votes/senate-111-1-0384.md) — On the Motion — **Motion Agreed to** (88–10)
 
 ## Actions
 
@@ -601,3 +605,41 @@ Department of Defense Appropriations Act, 2010
 - 2009-12-16 — The Chair put the question on consideration of the measure.
 - 2009-12-16 — The House proceeded with one hour debate on the motion to agree to the Senate amendment with an amendment.
 - 2009-12-16 — The previous question was ordered without objection. (consideration: CR H15419)
+- 2009-12-17 — Considered by Senate (message from the House with respect to H.R. 3326). (consideration: CR S13345-13376)
+- 2009-12-17 — Considered by Senate. (consideration: CR S13345)
+- 2009-12-17 — Considered by Senate. (consideration: CR S13345)
+- 2009-12-17 — Considered by Senate. (consideration: CR S13345)
+- 2009-12-17 — Considered by Senate. (consideration: CR S13345)
+- 2009-12-17 — Considered by Senate. (consideration: CR S13345)
+- 2009-12-18 — Cloture on the motion to concur in House amendment to Senate amendment to H.R. 3326 invoked in Senate by Yea-Nay Vote. 63 - 33. Record Vote Number: 381. (consideration: CR S13407-13408; text: CR S13407)
+- 2009-12-18 — Considered by Senate (message from the House with respect to H.R. 3326).
+- 2009-12-18 — Considered by Senate (message from the House with respect to H.R. 3326). (consideration: CR S13409-13455)
+- 2009-12-18 — Considered by Senate.
+- 2009-12-18 — Considered by Senate.
+- 2009-12-18 — Considered by Senate. (consideration: CR S13402)
+- 2009-12-18 — Considered by Senate. (consideration: CR S13402)
+- 2009-12-18 — Considered by Senate. (consideration: CR S13402)
+- 2009-12-18 — Considered by Senate. (consideration: CR S13402, S13408)
+- 2009-12-18 — Considered by Senate. (consideration: CR S13402, S13410)
+- 2009-12-18 — Motion by Senator Reid to refer to Senate Committee on Appropriations fell when cloture was invoked on the motion to concur in House amendment to Senate amendment in Senate. (consideration: CR S13408)
+- 2009-12-18 — SA 3249 fell when cloture invoked on the motion to concur in House amendment to Senate amendment.
+- 2009-12-18 — SA 3250 fell when SA 3249 fell.
+- 2009-12-18 — SA 3251 fell when SA 3250 fell.
+- 2009-12-19 — Became Public Law No: 111-118.
+- 2009-12-19 — Became Public Law No: 111-118.
+- 2009-12-19 — Cleared for White House.
+- 2009-12-19 — Considered by Senate (message from the House with respect to H.R. 3326). (consideration: CR S13472-13477)
+- 2009-12-19 — Considered by Senate. (consideration: CR S13472)
+- 2009-12-19 — Considered by Senate. (consideration: CR S13472, S13476)
+- 2009-12-19 — Message on Senate action sent to the House.
+- 2009-12-19 — Motion by Senator Reid to concur in House amendment to Senate amendment with amendment (SA 3248) tabled by Yea-Nay Vote. 63 - 35. Record Vote Number: 382. (consideration: CR S13472, S13476)
+- 2009-12-19 — Motion to table amendment SA 3248 (when the motion to concur in the House amendment to the Senate amendment) agreed to in Senate.
+- 2009-12-19 — Motion to waive the Budget Act with respect to the measure (the motion to concur in the House amendment to the Senate amendment to H.R. 3326) agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 383. (consideration: CR S13476)
+- 2009-12-19 — Point of order against the motion to concur in the House amendment to the Senate amendment to H.R. 3326 raised in Senate.
+- 2009-12-19 — Presented to President.
+- 2009-12-19 — Presented to President.
+- 2009-12-19 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the bill H.R. 3326 Yea-Nay Vote. 88 - 10. Record Vote Number: 384.(consideration: CR S13476)
+- 2009-12-19 — SA 3252 fell when the motion to concur in the House amendment to the Senate amendment with amendment (SA 3248) was tabled.
+- 2009-12-19 — Senate concurred in the House amendment to the Senate amendment to the bill H.R. 3326 Yea-Nay Vote. 88 - 10. Record Vote Number: 384. (consideration: CR S13476)
+- 2009-12-19 — Signed by President.
+- 2009-12-19 — Signed by President.
