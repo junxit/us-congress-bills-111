@@ -2,16 +2,18 @@
 legis-num: H. RES. 976
 congress: 111th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 976
+
+> Providing for consideration of the Senate amendment to the bill (H.R. 3326) making appropriations for the Department of Defense for the fiscal year ending September 30, 2010, and for other purposes; for consideration of the joint resolution (H.J. Res. 64) making further continuing appropriations for fiscal year 2010, and for other purposes; for consideration of the bill (H.R. 4314) to permit continued financing of Government operations; for consideration of the Senate amendment to the bill (H.R. 2847) making appropriations for the Departments of Commerce and Justice, and Science, and Related Agencies for the fiscal year ending September 30, 2010, and for other purposes; and for other purposes.
 
 That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 3326) making appropriations for the Department of Defense for the fiscal year ending September 30, 2010, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 of rule XXI, a motion offered by the chair of the Committee on Appropriations or his designee that the House concur in the Senate amendment with the amendment printed in part A of the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
 
 ## § 2.
 
-Upon the adoption of this resolution it shall be in order to consider in the House the joint resolution (H. J. Res. 64) making further continuing appropriations for fiscal year 2010, and for other purposes. All points of order against consideration of the joint resolution are waived except those arising under clause 9 or 10 of rule XXI. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations; and (2) one motion to recommit.
+Upon the adoption of this resolution it shall be in order to consider in the House the joint resolution (H.J. Res. 64) making further continuing appropriations for fiscal year 2010, and for other purposes. All points of order against consideration of the joint resolution are waived except those arising under clause 9 or 10 of rule XXI. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations; and (2) one motion to recommit.
 
 ## § 3.
 
@@ -25,9 +27,9 @@ Upon the adoption of this resolution it shall be in order to take from the Speak
 
 In the engrossment of the House amendment to the Senate amendment to H.R. 2847, the Clerk shall—
 
-- **(1)** add the text of H.R. 2920, as passed by the House, as new matter at the end of the text proposed to be inserted by the House amendment;
-- **(2)** assign appropriate designations to provisions within the engrossment of the text proposed to be inserted by the House; and
-- **(3)** conform provisions for short titles within the engrossment of the text proposed to be inserted by the House.
+- **(a)** add the text of H.R. 2920, as passed by the House, as new matter at the end of the text proposed to be inserted by the House amendment;
+- **(b)** assign appropriate designations to provisions within the engrossment of the text proposed to be inserted by the House; and
+- **(c)** conform provisions for short titles within the engrossment of the text proposed to be inserted by the House.
 
 ## § 6.
 
