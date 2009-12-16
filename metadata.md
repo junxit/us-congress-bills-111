@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3978
@@ -16,9 +16,10 @@ First Responder Anti-Terrorism Training Resources Act
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ First Responder Anti-Terrorism Training Resources Act
 - 2009-12-15 — Placed on the Union Calendar, Calendar No. 221.
 - 2009-12-15 — Reported by the Committee on Homeland Security. H. Rept. 111-376.
 - 2009-12-15 — Reported by the Committee on Homeland Security. H. Rept. 111-376.
+- 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

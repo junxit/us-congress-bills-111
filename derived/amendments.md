@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1204 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1102) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 1102` | add-at-end | Section 1204 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1102) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
