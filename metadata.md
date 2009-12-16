@@ -1,7 +1,7 @@
 ---
 measure: H.R. 310
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 310
@@ -40,3 +40,7 @@ HALE Scouts Act
 - 2009-09-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0, 7 Present (Roll no. 688). (text: CR H9293)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0, 7 Present (Roll no. 688).(text: CR H9293)
 - 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment. Without written report.
+- 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment. Without written report.
+- 2009-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
