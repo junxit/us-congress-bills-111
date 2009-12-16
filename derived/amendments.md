@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4314
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Subsection (b) of section 3101 of title 31, United States Code, is amended by striking the dollar amount contained therein and inserting “$12,394,000,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (b) of section 3101 of title 31, United States Code, is amended by striking the dollar amount contained therein and inserting “$12,394,000,000,000” . | the bill names no machine-readable US Code section |
