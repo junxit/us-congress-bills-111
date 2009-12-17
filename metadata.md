@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1817
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1817
@@ -52,3 +52,8 @@ To designate the facility of the United States Postal Service located at 116 Nor
 - 2009-06-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 302). (text: CR 6/3/2009 H6081)
 - 2009-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 302).(text: CR 6/3/2009 H6081)
 - 2009-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-07-16 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 242.
