@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3714
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3714
@@ -44,3 +44,15 @@ Daniel Pearl Freedom of the Press Act of 2009
 - 2009-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 403 - 12 (Roll no. 989).(text: CR 12/15/2009 H14916-14917)
 - 2009-12-16 — The title of the measure was amended. Agreed to without objection.
 - 2009-12-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2010-04-29 — Cleared for White House.
+- 2010-04-29 — Passed Senate without amendment by Unanimous Consent.
+- 2010-04-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-04-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2981)
+- 2010-04-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2981)
+- 2010-04-30 — Message on Senate action sent to the House.
+- 2010-05-06 — Presented to President.
+- 2010-05-06 — Presented to President.
+- 2010-05-17 — Became Public Law No: 111-166.
+- 2010-05-17 — Became Public Law No: 111-166.
+- 2010-05-17 — Signed by President.
+- 2010-05-17 — Signed by President.

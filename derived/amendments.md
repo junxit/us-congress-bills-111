@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3714
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2151n` | strike | in paragraph (10), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2151n` | strike | in subparagraph (B), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2151n` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2151n` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2304` | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
