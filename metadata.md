@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3667
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3667
@@ -68,3 +68,7 @@ To designate the facility of the United States Postal Service located at 16555 S
 - 2009-12-01 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 386 - 0 (Roll no. 913). (text: CR H13363)
 - 2009-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 386 - 0 (Roll no. 913).(text: CR H13363)
 - 2009-12-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
