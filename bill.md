@@ -28,8 +28,9 @@ This Act may be cited as the “Special Agent Samuel Hicks Families of Fallen He
   > - **(b)** *Qualified expenses* For purposes of this section, the term qualified expenses, as used with respect to a family changing its place of residence, means the moving expenses, transportation expenses, and relocation expenses of the family which are attributable to the change in place of residence.
   > - **(c)** *Definitions* For purposes of this section—
   >   - **(1)** the term “covered employee” means—
-  >     - **(A)** a law enforcement officer, as defined by section 5541; and
-  >     - **(B)** any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A);
+  >     - **(A)** a law enforcement officer, as defined by in section 5541; and
+  >     - **(B)** any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A); and
+  >     - **(C)** a customs and border protection officer, as defined in section 8331(31);
   >   - **(2)** the term moving expenses, as used with respect to a family, includes the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking the household goods and personal effects of such family, not in excess of 18,000 pounds net weight; and
   >   - **(3)** the term relocation expenses has the meaning given such term under regulations prescribed under section 5738, including relocation expenses and relocation services described in sections 5724a and 5724c, respectively.
 

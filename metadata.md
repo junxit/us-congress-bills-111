@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2711
@@ -53,3 +53,7 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 - 2009-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H13576)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H13576)
 - 2009-12-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
