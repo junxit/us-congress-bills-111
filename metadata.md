@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3539
@@ -56,3 +56,8 @@ To designate the facility of the United States Postal Service located at 427 Har
 - 2009-11-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 890). (text: CR H12976)
 - 2009-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 890).(text: CR H12976)
 - 2009-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-12-07 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 238.
