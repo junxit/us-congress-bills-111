@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3788
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3788
@@ -60,3 +60,8 @@ To designate the facility of the United States Postal Service located at 3900 Da
 - 2009-11-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 867). (text: CR 11/5/2009 H12394)
 - 2009-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 867).(text: CR 11/5/2009 H12394)
 - 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-12-07 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
