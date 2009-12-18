@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4314
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4314
@@ -20,9 +20,10 @@ To permit continued financing of Government operations.
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2009-12-16 — [House 111-1-988](votes/house-111-1-0988.md) — On Passage — **Passed** (218–214)
+- 2009-12-24 — [Senate 111-1-397](votes/senate-111-1-0397.md) — On Passage of the Bill — **Bill Passed** (60–39)
 
 ## Actions
 
@@ -40,3 +41,14 @@ To permit continued financing of Government operations.
 - 2009-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H15430)
 - 2009-12-18 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-12-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
+- 2009-12-24 — Cleared for White House.
+- 2009-12-24 — Considered by Senate. (consideration: CR S14132-14134)
+- 2009-12-24 — Message on Senate action sent to the House.
+- 2009-12-24 — Passed Senate, having achieved 60 votes in the affirmative (under the order of 12/22/2009), without amendment by Yea-Nay Vote. 60 - 39. Record Vote Number: 397.
+- 2009-12-24 — Passed/agreed to in Senate: Passed Senate, having achieved 60 votes in the affirmative (under the order of 12/22/2009), without amendment by Yea-Nay Vote. 60 - 39. Record Vote Number: 397.
+- 2009-12-24 — Presented to President.
+- 2009-12-24 — Presented to President.
+- 2009-12-28 — Became Public Law No: 111-123.
+- 2009-12-28 — Became Public Law No: 111-123.
+- 2009-12-28 — Signed by President.
+- 2009-12-28 — Signed by President.
