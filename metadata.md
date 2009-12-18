@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 374
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 374
@@ -34,3 +34,5 @@ A resolution recognizing the cooperative efforts of hunters, sportsmen's associa
 - 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment and with a preamble. Without written report.
 - 2009-12-16 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Lincoln without amendment and with a preamble. Without written report.
 - 2009-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
+- 2009-12-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S13469; text as passed Senate: CR S13469)
+- 2009-12-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S13469; text as passed Senate: CR S13469)
