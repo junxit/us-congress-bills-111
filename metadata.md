@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4314
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4314
@@ -38,3 +38,5 @@ To permit continued financing of Government operations.
 - 2009-12-16 — Rule provides for consideration of H.R. 3326, H.J. Res. 64, H.R. 4314 and H.R. 2847.
 - 2009-12-16 — Rules Committee Resolution H. Res. 976 Reported to House. Rule provides for consideration of H.R. 3326, H.J. Res. 64, H.R. 4314 and H.R. 2847.
 - 2009-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H15430)
+- 2009-12-18 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2009-12-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
