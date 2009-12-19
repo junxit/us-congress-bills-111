@@ -26,24 +26,26 @@ The table of contents of this Act is as follows:
   >     - **(B)** the foreign board of trade (or the foreign futures authority that oversees the foreign board of trade)—
   >       - **(i)** adopts position limits (including related hedge exemption provisions) for the agreement, contract, or transaction that are comparable, taking into consideration the relative sizes of the respective markets, to the position limits (including related hedge exemption provisions) adopted by the registered entity for the 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles;
   >       - **(ii)** has the authority to require or direct market participants to limit, reduce, or liquidate any position the foreign board of trade (or the foreign futures authority that oversees the foreign board of trade) determines to be necessary to prevent or reduce the threat of price manipulation, excessive speculation as described in section 4a, price distortion, or disruption of delivery or the cash settlement process;
-  >       - **(iii)** agrees to promptly notify the Commission, with regard to the agreement, contract, or transaction,” of any change regarding—
+  >       - **(iii)** agrees to promptly notify the Commission, with regard to the agreement, contract, or transaction, of any change regarding—
   >         - **(I)** the information that the foreign board of trade will make publicly available;
   >         - **(II)** the position limits that the foreign board of trade or foreign futures authority will adopt and enforce;
   >         - **(III)** the position reductions required to prevent manipulation, excessive speculation as described in section 4a, price distortion, or disruption of delivery or the cash settlement process; and
   >         - **(IV)** any other area of interest expressed by the Commission to the foreign board of trade or foreign futures authority;
   >       - **(iv)** provides information to the Commission regarding large trader positions in the agreement, contract, or transaction that is comparable to the large trader position information collected by the Commission for the 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles; and
-  >       - **(v)** provides the Commission with information necessary to publish reports on aggregate trader positions for the agreement, contract, or transaction traded on the foreign board of trade that are comparable to such reports for 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles.
+  >       - **(v)** provides the Commission with information necessary to publish reports on aggregate trader positions for the agreement, contract, or transaction traded on the foreign board of trade that are comparable to such reports on aggregate trading positions for 1 or more contracts against which the agreement, contract, or transaction traded on the foreign board of trade settles.
   >   - **(2)** *Existing foreign boards of trade* Paragraph (1) shall not be effective with respect to any agreement, contract, or transaction executed on a foreign board of trade to which the Commission had granted direct access permission before the date of the enactment of this subsection until the date that is 180 days after such date of enactment.
 
 - **(b)** *Liability of registered persons trading on a foreign board of trade*
   - **(1)** Section 4(a) of such Act (7 U.S.C. 6(a)) is amended by inserting “or by subsection (f)” after “Unless exempted by the Commission pursuant to subsection (c)”.
   - **(2)** Section 4 of such Act (7 U.S.C. 6) is further amended by adding at the end the following:
-    > - **(f)** A person registered with the Commission, or exempt from registration by the Commission, under this Act may not be found to have violated subsection (a) with respect to a transaction in, or in connection with, a contract of sale of a commodity for future delivery if the person—
-    >   - **(1)** has reason to believe the transaction and the contract is made on or subject to the rules of a board of trade that is—
-    >     - **(A)** legally organized under the laws of a foreign country;
-    >     - **(B)** authorized to act as a board of trade by a foreign futures authority; and
-    >     - **(C)** subject to regulation by the foreign futures authority; and
-    >   - **(2)** has not been determined by the Commission to be operating in violation of subsection (a).
+    > - **(f)**
+    >   - **(1)** A person registered with the Commission, or exempt from registration by the Commission, under this Act may not be found to have violated subsection (a) with respect to a transaction in, or in connection with, a contract of sale of a commodity for future delivery if the person—
+    >     - **(A)** has reason to believe the transaction and the contract is made on or subject to the rules of a board of trade that is—
+    >       - **(i)** legally organized under the laws of a foreign country;
+    >       - **(ii)** authorized to act as a board of trade by a foreign futures authority; and
+    >       - **(iii)** subject to regulation by the foreign futures authority; and
+    >     - **(B)** has not been determined by the Commission to be operating in violation of subsection (a).
+    >   - **(2)** Nothing in this subsection shall be construed as implying or creating any presumption that a board of trade, exchange, or market is located outside the United States, or its territories or possessions, for purposes of subsection (a).
 
 - **(c)** *Contract enforcement for foreign futures contracts* Section 22(a) of such Act (7 U.S.C. 25(a)) is amended by adding at the end the following:
   > - **(5)** A contract of sale of a commodity for future delivery traded or executed on or through the facilities of a board of trade, exchange, or market located outside the United States for purposes of section 4(a) shall not be void, voidable, or unenforceable, and a party to such a contract shall not be entitled to rescind or recover any payment made with respect to the contract, based on the failure of the foreign board of trade to comply with any provision of this Act.
@@ -53,10 +55,10 @@ The table of contents of this Act is as follows:
 Section 4 of the Commodity Exchange Act (7 U.S.C. 6), as amended by section 3 of this Act, is amended by adding at the end the following:
 
 > - **(g)** *Detailed reporting and disaggregation of market data*
->   - **(1)** *Index traders and swap dealers reporting* The Commission shall issue a proposed rule defining and classifying index traders and swap dealers (as those terms are defined by the Commission) for purposes of data reporting requirements and setting routine detailed reporting requirements for any positions of such entities in contracts traded on designated contract markets, derivatives transaction execution facilities, foreign boards of trade subject to section 4(e), and electronic trading facilities with respect to significant price discovery contracts not later than 120 days after the date of the enactment of this subsection, and issue a final rule within 180 days after such date of enactment.
+>   - **(1)** *Index traders and swap dealers reporting* The Commission shall issue a proposed rule defining and classifying index traders and swap dealers (as those terms are defined by the Commission) for purposes of data reporting requirements and setting routine detailed reporting requirements for any positions of such entities in contracts traded on designated contract markets, derivatives transaction execution facilities, foreign boards of trade subject to section 4(e), and electronic trading facilities with respect to significant price discovery contracts not later than 90 days after the date of the enactment of this subsection, and issue a final rule within 180 days after such date of enactment.
 >   - **(2)** *Disaggregation of index funds and other data in markets* Subject to section 8 and beginning within 60 days of the issuance of the final rule required by paragraph (1), the Commission shall disaggregate and make public monthly—
 >     - **(A)** the number of positions and total notional value of index funds and other passive, long-only and short-only positions (as defined by the Commission) in all markets to the extent such information is available; and
->     - **(B)** data on speculative positions relative to bona fide physical hedgers in those markets to the extent such information is available.
+>     - **(B)** data on speculative positions relative to bona fide hedgers in those markets to the extent such information is available.
 
 ## § 5. Transparency and recordkeeping authorities
 
@@ -72,64 +74,75 @@ Section 4 of the Commodity Exchange Act (7 U.S.C. 6), as amended by section 3 of
       > - **(b)** Upon special call by the Commission, any person shall provide to the Commission, in a form and manner and within the period specified in the special call, books and records of all transactions and positions traded on or subject to the rules of any board of trade or electronic trading facility in the United States or elsewhere, or pursuant to subsection (d), (g), (h)(1), or (h)(3) of section 2, or any exemption issued by the Commission by rule, regulation, or order, as the Commission may determine appropriate to deter and prevent price manipulation or any other disruption to market integrity or to diminish, eliminate, or prevent excessive speculation as described in section 4a(a).
       > - **(c)** Such books and records described in subsections (a) and (b) shall show complete details concerning all such transactions, positions, inventories, and commitments, including the names and addresses of all persons having any interest therein, shall be kept for a period of 5 years, and shall be open at all times to inspection by any representative of the Commission or the Department of Justice. For the purposes of this section, the futures and cash or spot transactions and positions of any person shall include such transactions and positions of any persons directly or indirectly controlled by the person.
 
-  - **(2)** *Notice and comment* Within 60 days after the date of the enactment of this subsection, the Commodity Futures Trading Commission shall provide an opportunity for notice and comment on implementing the amendments made by paragraph (1).
+  - **(2)** *Notice and comment* Within 60 days after the date of the enactment of this subsection, the Commodity Futures Trading Commission shall conduct rulemaking, including an opportunity for notice and comment, on implementing the amendments made by paragraph (1).
 - **(c)** *Conforming amendments*
-  - **(1)** Section 2(d)(2) of such Act (7 U.S.C. 2(d)(2)) is amended—
+  - **(1)** Section 2(d)(1) of such Act (7 U.S.C. 2(d)(1)) is amended by striking “5b or 12(e)(2)(B)” and inserting “4g(a), 4i, 5b, or 12(e)(2)(B), and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions)”.
+  - **(2)** Section 2(d)(2) of such Act (7 U.S.C. 2(d)(2)) is amended—
     - **(A)** by inserting “4g(a), 4i,” before “5a (to”; and
-    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions,” before “governs”.
-  - **(2)** Section 2(g) of such Act (7 U.S.C. 2(g)) is amended—
+    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions” after “12(e)(2)(B)”.
+  - **(3)** Section 2(g) of such Act (7 U.S.C. 2(g)) is amended—
     - **(A)** by inserting “4g(a), 4i,” before “5a (to”; and
-    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions,” before “shall apply”.
-  - **(3)** Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)) is amended to read as follows:
+    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions” after “12(e)(2)”.
+  - **(4)** Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)) is amended to read as follows:
     > - **(A)** sections 4g(a), 4i, 5b and 12(e)(2)(B), and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions;
 
-  - **(4)** Section 2(h)(4)(A) of such Act (7 U.S.C. 2(h)(4)(A)) is amended to read as follows:
+  - **(5)** Section 2(h)(4)(A) of such Act (7 U.S.C. 2(h)(4)(A)) is amended to read as follows:
     > - **(A)** sections 4g(a), 4i, 5a (to the extent provided in section 5a(g)), 5b, 5d, and 12(e)(2)(B), and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions;
 
 ## § 6. Trading limits to prevent excessive speculation
 
-Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
+- **(a)** *Position limits* Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by inserting “(1)” after “(a)”; and
+    - **(B)** by adding after and below the end the following:
+      > - **(2)**
+      >   - **(A)** In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2), with respect to physical commodities other than excluded commodities as defined by the Commission, the Commission shall by rule, regulation, or order establish limits on the amount of positions, as appropriate, other than bona fide hedge positions, that may be held by any person with respect to contracts of sale for future delivery or with respect to options on such contracts or commodities traded on or subject to the rules of a contract market or derivatives transaction execution facility, or on an electronic trading facility as a significant price discovery contract.
+      >   - **(B)**
+      >     - **(i)** For exempt commodities, the limits shall be established within 180 days after the date of the enactment of this paragraph.
+      >     - **(ii)** For agricultural commodities, the limits shall be established within 270 days after the date of the enactment of this paragraph.
+      > - **(3)** In establishing the limits required in paragraph (2), the Commission, as appropriate, shall set limits—
+      >   - **(A)** on the number of positions that may be held by any person for the spot month, each other month, and the aggregate number of positions that may be held by any person for all months;
+      >   - **(B)** to the maximum extent practicable, in its discretion—
+      >     - **(i)** to diminish, eliminate, or prevent excessive speculation as described under this section;
+      >     - **(ii)** to deter and prevent market manipulation, squeezes, and corners;
+      >     - **(iii)** to ensure sufficient market liquidity for bona fide hedgers; and
+      >     - **(iv)** to ensure that the price discovery function of the underlying market is not disrupted; and
+      >   - **(C)** to the maximum extent practicable, in its discretion, take into account the total number of positions in fungible agreements, contracts, or transactions that a person can hold in other markets.
+      > - **(4)**
+      >   - **(A)** Not later than 150 days after the establishment of position limits pursuant to paragraph (2), and biannually thereafter, the Commission shall hold 2 public hearings, 1 for agriculture commodities and 1 for energy commodities as such terms are defined by the Commission, in order to receive recommendations regarding the position limits to be established in paragraph (2).
+      >   - **(B)** Each public hearing held pursuant to subparagraph (A) shall, at a minimum providing there is sufficient interest, receive recommendations from—
+      >     - **(i)** 7 predominantly commercial short hedgers of the actual physical commodity for future delivery;
+      >     - **(ii)** 7 predominantly commercial long hedgers of the actual physical commodity for future delivery;
+      >     - **(iii)** 4 non-commercial participants in markets for commodities for future delivery; and
+      >     - **(iv)** each designated contract market or derivatives transaction execution facility upon which a contract in the commodity for future delivery is traded, and each electronic trading facility that has a significant price discovery contract in the commodity.
+      >   - **(C)** Within 60 days after each public hearing held pursuant to subparagraph (A), the Commission shall publish in the Federal Register its response to the recommendations regarding position limits heard at the hearing.
 
-- **(1)** in subsection (a)—
-  - **(A)** by inserting “(1)” after “(a)”; and
-  - **(B)** by adding after and below the end the following:
-    > - **(2)**
-    >   - **(A)** In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2),with respect to physically deliverable commodities as defined by the Commission, the Commission shall by rule, regulation, or order establish limits on the amount of positions, as appropriate, other than bona fide hedge positions, that may be held by any person with respect to contracts of sale for future delivery or with respect to options on such contracts or commodities traded on or subject to the rules of a contract market or derivatives transaction execution facility, or on an electronic trading facility as a significant price discovery contract.
-    >   - **(B)**
-    >     - **(i)** For exempt commodities, the limits shall be established within 90 days after the date of the enactment of this paragraph.
-    >     - **(ii)** For agricultural commodities, the limits shall be established within 180 days after the date of the enactment of this paragraph.
-    > - **(3)** In establishing the limits required in paragraph (2), the Commission, as appropriate, shall set limits—
-    >   - **(A)** on the number of positions that may be held by any person for the spot month, each other month, and the aggregate number of positions that may be held by any person for all months;
-    >   - **(B)** to the maximum extent practicable, in its discretion—
-    >     - **(i)** to diminish, eliminate, or prevent excessive speculation as described under this section;
-    >     - **(ii)** to deter and prevent market manipulation, squeezes, and corners;
-    >     - **(iii)** to ensure sufficient market liquidity for bona fide hedgers; and
-    >     - **(iv)** to ensure that the price discovery function of the underlying market is not disrupted; and
-    >   - **(C)** to the maximum extent practicable, in its discretion, take into account the total number of positions in fungible agreements, contracts, or transactions that a person can hold in other markets.
-    > - **(4)**
-    >   - **(A)** Not later than 150 days after the date of the enactment of this paragraph, and annually thereafter, the Commission shall hold 2 public hearings, 1 for agriculture commodities and 1 for energy commodities as such terms are defined by the Commission, in order to receive recommendations regarding the position limits to be established in paragraph (2).
-    >   - **(B)** Each public hearing held pursuant to subparagraph (A) shall, at a minimum providing there is sufficient interest, receive recommendations from—
-    >     - **(i)** 7 predominantly commercial short hedgers of the actual physical commodity for future delivery;
-    >     - **(ii)** 7 predominantly commercial long hedgers of the actual physical commodity for future delivery;
-    >     - **(iii)** 4 non-commercial participants in markets for commodities for future delivery; and
-    >     - **(iv)** each designated contract market or derivatives transaction execution facility upon which a contract in the commodity for future delivery is traded, and each electronic trading facility that has a significant price discovery contract in the commodity.
+  - **(2)** in subsection (c)—
+    - **(A)** by inserting “(1)” after “(c)”; and
+    - **(B)** by adding after and below the end the following:
+      > - **(2)** For the purposes of implementation of subsection (a)(2) for contracts of sale for future delivery and options on such contracts or commodities, the Commission shall define what constitutes a bona fide hedging transaction or position as a transaction or position that—
+      >   - **(A)**
+      >     - **(i)** represents a substitute for transactions made or to be made or positions taken or to be taken at a later time in a physical marketing channel;
+      >     - **(ii)** is economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise; and
+      >     - **(iii)** arises from the potential change in the value of—
+      >       - **(I)** assets that a person owns, produces, manufactures, processes, or merchandises or anticipates owning, producing, manufacturing, processing, or merchandising;
+      >       - **(II)** liabilities that a person owns or anticipates incurring; or
+      >       - **(III)** services that a person provides, purchases, or anticipates providing or purchasing; or
+      >   - **(B)** reduces risks attendant to a position resulting from a transaction that—
+      >     - **(i)** was executed pursuant to subsection (g), (h)(1), or (h)(3) of section 2, or an exemption issued by the Commission by rule, regulation or order; and
+      >     - **(ii)**
+      >       - **(I)** was executed opposite a counterparty for which the transaction would qualify as a bona fide hedging transaction pursuant to subparagraph (A); or
+      >       - **(II)** meets the requirements of subparagraph (A).
 
-- **(2)** in subsection (c)—
-  - **(A)** by inserting “(1)” after “(c)”; and
-  - **(B)** by adding after and below the end the following:
-    > - **(2)** For the purposes of contracts of sale for future delivery and options on such contracts or commodities, the Commission shall define what constitutes a bona fide hedging transaction or position as a transaction or position that—
-    >   - **(A)**
-    >     - **(i)** represents a substitute for transactions made or to be made or positions taken or to be taken at a later time in a physical marketing channel;
-    >     - **(ii)** is economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise; and
-    >     - **(iii)** arises from the potential change in the value of—
-    >       - **(I)** assets that a person owns, produces, manufactures, processes, or merchandises or anticipates owning, producing, manufacturing, processing, or merchandising;
-    >       - **(II)** liabilities that a person owns or anticipates incurring; or
-    >       - **(III)** services that a person provides, purchases, or anticipates providing or purchasing; or
-    >   - **(B)** reduces risks attendant to a position resulting from a transaction that—
-    >     - **(i)** was executed pursuant to subsection (d), (g), (h)(1), or (h)(2) of section 2, or an exemption issued by the Commission by rule, regulation or order; and
-    >     - **(ii)**
-    >       - **(I)** was executed opposite a counterparty for which the transaction would qualify as a bona fide hedging transaction pursuant to subparagraph (A); or
-    >       - **(II)** meets the requirements of subparagraph (A).
+- **(b)** *Conforming amendments*
+  - **(1)** Section 5(d)(5) of such Act (7 U.S.C. 7(d)(5)) is amended to read as follows:
+    > - **(5)** To reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month, the board of trade shall adopt for each of its contracts, where necessary and appropriate, position limitations or position accountability standards for speculators. For any contract that is subject to a position limitation established by the Commission pursuant to section 4a(a), the board of trade shall set its position limitation at a level no higher than the Commission-established limitation.
+
+  - **(2)** Section 5a(d)(4) of such Act (7 U.S.C. 7a(d)(4)) is amended to read as follows:
+    > - **(4)** To reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month, the board of trade shall adopt for each of its contracts, where necessary and appropriate, position limitations or position accountability standards for speculators. For any contract that is subject to a position limitation established by the Commission pursuant to section 4a(a), the board of trade shall set its position limitation at a level no higher than the Commission-established limitation.
+
+  - **(3)** Section 2(h)(7)(C)(ii)(IV) of such Act (7 U.S.C. 2(h)(7)(C)(ii)(IV)) is amended to read as follows:
+    > - **(IV)** The electronic trading facility shall adopt, where necessary and appropriate, position limitations or position accountability standards for speculators in significant price discovery contracts, taking into account positions in other agreements, contracts, and transactions that are treated by a derivatives clearing organization, whether registered or not registered, as fungible with such significant price discovery contracts to reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month. For any contract that is subject to a position limitation established by the Commission pursuant to section 4a(a), the electronic trading facility shall set its position limitation at a level no higher than the Commission-established limitation.
 
 ## § 7. CFTC Administration
 
@@ -138,7 +151,7 @@ Section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)) is amended by a
 > - **(D)** *Additional employees* As soon as practicable after the date of the enactment of this subparagraph, subject to appropriations, the Commission shall appoint a sufficient number of full-time employees (in addition to the employees employed by the Commission as of the date of the enactment of this subparagraph)—
 >   - **(i)** to increase the public transparency of operations in markets;
 >   - **(ii)** to improve the enforcement of this Act in those markets;
->   - **(iii)** to enhance oversight of the clearing of contracts, agreements, and transactions; and
+>   - **(iii)** to enhance oversight of the trading and clearing of contracts, agreements, and transactions; and
 >   - **(iv)** to carry out the provisions of the Derivatives Markets Transparency and Accountability Act of 2009 and such other duties as are prescribed by the Commission.
 
 ## § 8. Review of prior actions
@@ -148,11 +161,11 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
 ## § 9. Review of over-the-counter markets
 
 - **(a)** *Study* The Commodity Futures Trading Commission shall conduct a study—
-  - **(1)** to determine the efficacy, practicality, and consequences of establishing limits on the size of a position, other than bona fide hedge positions, that may be held by any person with respect to agreements, contracts, or transactions involving an agricultural or energy commodity, conducted in reliance on sections 2(g) and 2(h) of the Commodity Exchange Act and of any exemption issued by the Commission by rule, regulation or order, that are fungible (as defined by the Commission) with agreements, contracts, or transactions traded on or subject to the rules of any board of trade or of any electronic trading facility with respect to a significant price discovery contract, as a means to deter and prevent price manipulation or any other disruption to market integrity or to diminish, eliminate, or prevent excessive speculation as described in section 4a of such Act for physical-based agricultural or energy commodities; and
+  - **(1)** to determine the efficacy, practicality, and consequences of establishing limits on the size of a position, other than bona fide hedge positions, that may be held by any person with respect to agreements, contracts, or transactions involving an agricultural or energy commodity, conducted in reliance on section 2(g) or 2(h) of the Commodity Exchange Act and of any exemption issued by the Commission by rule, regulation or order, that are fungible (as defined by the Commission) with agreements, contracts, or transactions traded on or subject to the rules of any board of trade or of any electronic trading facility with respect to a significant price discovery contract, as a means to deter and prevent price manipulation or any other disruption to market integrity or to diminish, eliminate, or prevent excessive speculation as described in section 4a of such Act for physical-based agricultural or energy commodities; and
   - **(2)** to determine the efficacy, practicality, and consequences of establishing aggregate position limits for similar agreements, contracts, or transactions for physical-based agricultural or energy commodities traded—
     - **(A)** on designated contract markets;
     - **(B)** on derivatives transaction execution facilities; and
-    - **(C)** in reliance on such sections 2(g) and 2(h) and of any exemption issued by the Commission by rule, regulation or order.
+    - **(C)** in reliance on such section 2(g) or 2(h) and of any exemption issued by the Commission by rule, regulation or order.
 - **(b)** *Public hearings* The Commission shall provide for not less than 2 public hearings to take testimony, on the record, as part of the fact- gathering process in preparation of the report.
 - **(c)** *Report and Recommendations* Not less than 12 months after the date of the enactment of this section, the Commission shall provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
   - **(1)** describes the results of the study; and
@@ -188,9 +201,11 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
   - **(1)** Section 2(d)(1) of such Act (7 U.S.C. 2(d)(1)) is amended by inserting “subsection (j) of this section, and” after “(other than”.
   - **(2)** Section 2(d)(2) of such Act (7 U.S.C. 2(d)(2)) is amended by inserting “subsection (j) of this section, and” after “(other than”.
   - **(3)** Section 2(g) of such Act (7 U.S.C. 2(g)) is amended by inserting “subsection (j) of this section, and” after “(other than”.
-  - **(4)** Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)), as amended by section 5(c)(3) of this Act, is amended by inserting “subsection (j) of this section and” before “sections”.
-  - **(5)** Section 2(h)(4)(A) of such Act (7 U.S.C. 2(h)(4)(A)), as amended by section 5(c)(4) of this Act, is amended by inserting “subsection (j) of this section and” before “sections”.
-  - **(6)** Section 8a(9) of such Act (7 U.S.C. 12a(a)(9)) is amended by inserting after “of the Commission’s action” the following: “, and to fix and enforce position limits to agreements, contracts, or transactions subject to section 2(j)(1) pursuant to a finding made under section 2(j)(2)”.
+  - **(4)** Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)), as amended by section 5(c)(4) of this Act, is amended by inserting “subsection (j) of this section and” before “sections”.
+  - **(5)** Section 2(h)(4)(A) of such Act (7 U.S.C. 2(h)(4)(A)), as amended by section 5(c)(5) of this Act, is amended by inserting “subsection (j) of this section and” before “sections”.
+  - **(6)** Section 8a(9) of such Act (7 U.S.C. 12a(a)(9)) is amended—
+    - **(A)** by striking “(9)” and inserting “(9)(A)”; and
+    - **(B)** by striking “action.” and inserting “action; and (B) to direct any person to abide by any position limits to agreements, contracts, or transactions subject to section 2(j)(1) that are imposed pursuant to section 2(j)(2).”.
 
 ## § 12. Expedited process
 
@@ -202,7 +217,7 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
   - **(1)** *Exclusion of certain derivative transactions*
     - **(A)** Section 2(d)(1) of the Commodity Exchange Act (7 U.S.C. 2(d)(1)) is amended—
       - **(i)** by striking “and” at the end of subparagraph (A);
-      - **(ii)** by striking the period at the end of subparagraph (B) and inserting “and”; and
+      - **(ii)** by striking the period at the end of subparagraph (B) and inserting “; and”; and
       - **(iii)** by adding at the end the following:
         > - **(C)** except as provided in section 4(h), the agreement, contract, or transaction is settled and cleared through a derivatives clearing organization registered with the Commission.
 
@@ -234,11 +249,18 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
   - **(4)** *General exemptive authority* Section 4(c)(1) of such Act (7 U.S.C. 6(c)(1)) is amended by inserting “the agreement, contract, or transaction, except as provided in section 4(h), will be settled and cleared through a derivatives clearing organization registered with the Commission and” before “the Commission determines”.
 - **(b)** *Alternatives to clearing through derivatives clearing organizations* Section 4 of such Act (7 U.S.C. 6), as amended by sections 3 and 4 of this Act, is amended by adding at the end the following:
   > - **(h)** *Alternatives to clearing through derivatives clearing organizations*
-  >   - **(1)** *Settlement and clearing through certain other regulated entities* An agreement, contract, or transaction, or class thereof, relating to an excluded commodity, that would otherwise be required to be settled and cleared by section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 2(h)(3)(C) of this Act, or subsection (c)(1) of this section may be settled and cleared through an entity listed in section 409(b) of the Federal Deposit Insurance Corporation Improvement Act of 1991.
-  >   - **(2)** *Reporting alternative*
-  >     - **(A)** An agreement, contract, or transaction, or class thereof, that would otherwise be required to be settled and cleared by section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 2(h)(3)(C) of this Act, or subsection (c)(1) of this section shall be exempt from the requirement if reported to the Commission in a manner designated by the Commission, or to such other entity as the Commission deems appropriate.
-  >     - **(B)** Parties entering into an agreement, contract, or transaction, or class thereof reported pursuant to subparagraph (A) shall demonstrate the financial integrity of the agreement, contract, or transaction and their own financial integrity, as such terms and standards are determined by the Commission.
-  >     - **(C)** The standards established pursuant to subparagraph (B) shall include a net capital requirement that is comparable to the net capital requirement that would be associated with such a transaction were it cleared.
+  >   - **(1)** *Settlement and clearing through certain other regulated entities*
+  >     - **(A)** An agreement, contract, or transaction, or class thereof, relating to an excluded commodity, that would otherwise be required to be settled and cleared by section 2(d)(1)(C), 2(d)(2)(D), or 2(g)(4) of this Act, or subsection (c)(1) of this section may be settled and cleared through an entity listed in section 409(b)(1) of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+  >     - **(B)** An agreement, contract, or transaction, or class thereof, that would otherwise be required to be settled and cleared by section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 2(h)(3)(C) of this Act, or subsection (c)(1) of this section may be settled and cleared through an entity listed in section 409(b)(3) of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+  >   - **(2)** *Waiver of clearing requirement*
+  >     - **(A)** The Commission, in its discretion, may exempt an agreement, contract, or transaction, or class thereof, that would otherwise be required by section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), or 2(h)(3)(C) of this Act, or subsection (c)(1) of this section to be settled and cleared through a derivatives clearing organization registered with the Commission from such requirement.
+  >     - **(B)** In granting exemptions pursuant to subparagraph (A), the Commission shall consult with the Securities and Exchange Commission and the Board of Governors of the Federal Reserve System regarding exemptions that relate to excluded commodities or entities for which the Securities Exchange Commission or the Board of Governors of the Federal Reserve System serve as the primary regulator.
+  >     - **(C)** Before granting an exemption pursuant to subparagraph (A), the Commission shall find that the agreement, contract, or transaction, or class thereof—
+  >       - **(i)** is highly customized as to its material terms and conditions;
+  >       - **(ii)** is transacted infrequently;
+  >       - **(iii)** does not serve a significant price-discovery function in the marketplace; and
+  >       - **(iv)** is being entered into by parties who can demonstrate the financial integrity of the agreement, contract, or transaction and their own financial integrity, as such terms and standards are determined by the Commission. The standards shall include a net capital requirement associated with any agreement, contract, or transaction subject to an exemption from the clearing requirement that recognizes the risks associated with the absence of clearing.
+  >     - **(D)** Any agreement, contract, or transaction, or class thereof, which is exempted pursuant to subparagraph (A) shall be reported in a manner designated by the Commission to the Commission, the Securities and Exchange Commission, the Board of Governors of the Federal Reserve System, or such other entity the Commission deems appropriate.
   > - **(i)** *Spot and forward exclusion* The settlement and clearing requirements of section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C), or 4(c)(1) shall not apply to an agreement, contract, or transaction of any cash commodity for immediate or deferred shipment or delivery, as defined by the Commission.
 
 - **(c)** *Additional requirements applicable to applicants for registration as a derivatives clearing organization* Section 5b(c)(2) of such Act (7 U.S.C. 7a–1(c)(2)) is amended by adding at the end the following:
@@ -247,15 +269,17 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
   >   - **(ii)** the conventions, mechanisms, and practices applicable to the contracts, agreements, and transactions;
   >   - **(iii)** the margin-setting methodology and the size and composition of the financial resource package of the applicant; and
   >   - **(iv)** other information relevant to participation in the settlement and clearing activities of the applicant.
-  > - **(P)** *Daily publication of trading information* The applicant shall make public daily information on settlement prices, volume, and open interest for contracts settled or cleared pursuant to the requirements of 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C) or 4(c)(1) of this Act by the applicant if the Commission determines that the contracts perform a significant price discovery function for transactions in the cash market for the commodity underlying the contracts.
+  > - **(P)** *Daily publication of trading information* The applicant shall make public daily information on settlement prices, volume, and open interest for contracts settled or cleared pursuant to the requirements of section 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C) or 4(c)(1) of this Act by the applicant if the Commission determines that the contracts perform a significant price discovery function for transactions in the cash market for the commodity underlying the contracts.
   > - **(Q)** *Fitness standards* The applicant shall establish and enforce appropriate fitness standards for directors, members of any disciplinary committee, and members of the applicant, and any other persons with direct access to the settlement or clearing activities of the applicant, including any parties affiliated with any of the persons described in this subparagraph.
 
 - **(d)** *Amendments*
   - **(1)** Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4422) is amended—
     - **(A)** in subsection (a), by inserting after “Federal Reserve Act” the following: “, and the person is registered as a clearing agency under the Securities Exchange Act of 1934 or as a derivatives clearing organization under the Commodity Exchange Act”; and
-    - **(B)** in subsection (b)(3), by striking “the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation”.
+    - **(B)** in subsection (b)(3), by striking “the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation,”.
   - **(2)** Section 407 of the Legal Certainty for Bank Products Act of 2000 (7 U.S.C. 27e) is amended by inserting “and the settlement and clearing requirements of sections 2(d)(1)(C), 2(d)(2)(D), 2(g)(4), 2(h)(1)(C), 2(h)(3)(C), and 4(c)(1) of such Act” after “the clearing of covered swap agreements”.
   - **(3)** Section 10 of the Federal Reserve Act is amended by adding at the end the following new provision:
+    > -  The Board shall have no power to issue any rule, regulation, or order, or otherwise to establish the standards of regulation of any entity in its capacity as a multilateral clearing organization as defined in section 408 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+
   - **(4)** Section 5b(b) of the Commodity Exchange Act (7 U.S.C. 7a–1(b)) is amended—
     - **(A)** by striking “(b) Voluntary registration.—A derivatives clearing organization” and inserting the following:
       > - **(b)** *Voluntary registration*
@@ -266,20 +290,22 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
       >   - **(A)** A national bank, a State member bank, an insured State nonmember bank, an affiliate of a national bank, a State member bank, an insured State nonmember bank, or a corporation chartered under section 25A of the Federal Reserve Act may register with the Commission as a derivatives clearing organization.
       >   - **(B)** The Commission shall expedite the application of any institution referred to in subparagraph (A) to the extent that, as of the date of enactment of this paragraph, the institution had received the approval of the Board of Governors of the Federal Reserve System to act as a multilateral clearing organization.
 
-- **(e)** *Effective date* The amendments made by this section shall take effect 150 days after the date of the enactment of this Act.
-- **(f)** *Transition rule* Any agreement, contract, or transaction entered into before the date of the enactment of this Act or within 150 days after such date of enactment, in reliance on subsection (d), (g), (h)(1), or (h)(3) of section 2 of the Commodity Exchange Act or any other exemption issued by the Commission Futures Trading Commission by rule, regulation, or order shall, within 150 days after such date of enactment, unless settled and cleared through an entity registered with the Commission as a derivatives clearing organization or another clearing entity pursuant to section 4(h) of such Act, be reported to the Commission in a manner designated by the Commission, or to such other entity as the Commission deems appropriate.
+- **(e)** *Effective date*
+  - **(1)** *In general* The amendments made by this section shall take effect 150 days after the date of the enactment of this Act.
+  - **(2)** *Publication of guidelines* Before the amendments made by this section take effect, the Commission shall through rulemaking, after notice and comment, establish and publish guidelines outlining the terms and conditions that must apply for an agreement, contract, transaction, or class thereof, to qualify for the exemption cited in section 4(h)(2) of the Commodity Exchange Act.
+- **(f)** *Transition rule* Any agreement, contract, or transaction entered into before the date of the enactment of this Act or within 150 days after such date of enactment, in reliance on subsection (d), (g), (h)(1), or (h)(3) of section 2 of the Commodity Exchange Act or any other exemption issued by the Commodity Futures Trading Commission by rule, regulation, or order shall, within 150 days after such date of enactment, unless settled and cleared through an entity registered with the Commission as a derivatives clearing organization or another clearing entity pursuant to section 4(h) of such Act, be reported to the Commission in a manner designated by the Commission, or to such other entity as the Commission deems appropriate.
 
 ## § 14. Treatment of emission allowances and offset credits
 
 - **(a)** Section 1a(14) of the Commodity Exchange Act (7 U.S.C. 1a(14)) is amended by striking “or an agricultural commodity” and inserting “, an agricultural commodity, any allowance authorized under law to emit a greenhouse gas, and any credit authorized under law toward the reduction in greenhouse gas emissions or an increase in carbon sequestration”.
-- **(b)** Within 180 days after the date of the enactment of this section, the Commodity Futures Trading Commission shall enter into a memorandum of understanding with the Secretary of Agriculture which shall include provisions, consistent with section 1245 of the Food Security Act of 1985, ensuring that the development of any procedures and protocols for a market-based greenhouse gas program are properly constructed and coordinated to maximize credits for carbon sequestration.
+- **(b)** Within 180 days after the date of the enactment of this section, the Commodity Futures Trading Commission shall enter into a memorandum of understanding with the Secretary of Agriculture which shall include provisions, consistent with section 1245 of the Food Security Act of 1985, ensuring that the development of any procedures and protocols for a market-based greenhouse gas contract on a board of trade designated as a contract market under section 5 of the Commodity Exchange Act are properly constructed and coordinated to maximize credits for carbon sequestration.
 
 ## § 15. Inspector General of the Commodity Futures Trading Commission
 
 - **(a)** *Elevation of office*
   - **(1)** *Inclusion of cftc in definition of establishment*
-    - **(A)** Section 11(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; or the Chairman of the Commodity Futures Trading Commission;”.
-    - **(B)** Section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, or the Commodity Futures Trading Commission,”.
+    - **(A)** Section 12(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; or the Chairman of the Commodity Futures Trading Commission;”.
+    - **(B)** Section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, or the Commodity Futures Trading Commission,”.
   - **(2)** *Exclusion of cftc from definition of designated federal entity* Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “the Commodity Futures Trading Commission,”.
 - **(b)** *Effective date; transition rule*
   - **(1)** *Effective date* The amendments made by this section shall take effect 30 days after the date of the enactment of this Act.
@@ -294,10 +320,13 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
   >   - **(1)** *In general* If, in the opinion of the Commission, the public interest and the protection of investors so require, the Commission may, by order—
   >     - **(A)** summarily suspend trading in any credit default swap; and
   >     - **(B)** summarily suspend all trading on any contract market, derivatives transaction execution facility, or otherwise, in credit default swaps.
-  >   - **(2)** *Limitation* An action described in paragraph (1) shall not take effect unless the Commission notifies the President of its decision, and the President notifies the Commission that the President does not disapprove of the decision.
+  >   - **(2)** *Limitation* An action described in paragraph (1) shall—
+  >     - **(A)** not take effect unless the Commission notifies the President of its decision, and the President notifies the Commission that the President does not disapprove of the decision;
+  >     - **(B)** only apply to credit default swaps that are related to securities subject to a short selling suspension order by the Securities and Exchange Commission, and such action must terminate when such suspension order terminates; and
+  >     - **(C)** only apply to credit default swaps purchased by persons who are not purchasing the credit default swap to reduce an existing credit risk directly related to the reference entity or its obligations.
 
 - **(b)** *Definition of credit default swap* Section 1a of such Act (7 U.S.C. 1a) is amended by adding at the end the following:
-  > - **(34)** *Credit default swap* The term credit default swap means a contract which insures a party to the contract against the risk that an entity may experience a loss of value as a result of an event specified in the contract, such as a default or credit downgrade. A credit default swap that is traded on or cleared by a registered entity shall be excluded from the definition of a security as defined in this Act and in section 2(a)(1) of the Securities Act of 1933 or section 3(a)(10) of the Securities Exchange Act of 1934, except as necessary solely for purposes of enforcing prohibitions against insider trading in sections 10 and 16 of the Securities Exchange Act of 1934.
+  > - **(34)** *Credit default swap* The term credit default swap means a contract which hedges a party to the contract against the risk that an entity may experience a loss of value as a result of an event specified in the contract, such as a default or credit downgrade. A credit default swap that is proposed to be traded or is traded on or proposed to be or is cleared by a registered entity pursuant to this Act shall be excluded from the definition of a security as defined in this Act and in section 2(a)(1) of the Securities Act of 1933 or section 3(a)(10) of the Securities Exchange Act of 1934, except as necessary solely for purposes of enforcing prohibitions against insider trading in sections 10 and 16 of the Securities Exchange Act of 1934.
 
 - **(c)** *Effective date* The amendment made by subsection (b) shall be effective for credit default swaps entered into after 90 days after the date of the enactment of this section.
 
@@ -306,3 +335,9 @@ The Commodity Futures Trading Commission may use emergency and expedited procedu
 Section 9 of the Commodity Exchange Act (7 U.S.C. 13) is amended by adding at the end the following:
 
 > - **(f)** Notwithstanding section 516 of title 28, United States Code, the Commission may initiate and conduct criminal litigation relating to a violation of this Act, and secure evidence therefor, if the Attorney General has declined to do so.
+
+## § 18. Diversity of directors of boards of trade
+
+Section 5(d) of the Commodity Exchange Act (7 U.S.C. 7(d)) is amended by adding at the end the following:
+
+> - **(19)** *Diversity of boards of directors* The board of trade of a publicly traded company shall endeavor to recruit individuals to serve on the board of directors and the other decision-making bodies (as determined by the Commission) of the board of trade from among, and to have the composition of such bodies reflect, a broad and culturally diverse pool of qualified candidates.
