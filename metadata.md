@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2188
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2188
@@ -53,3 +53,8 @@ Joint Ventures for Bird Habitat Conservation Act of 2009
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 550). (text: CR 7/14/2009 H8053-8055)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 550).(text: CR 7/14/2009 H8053-8055)
 - 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-12-03 — Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.
+- 2009-12-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2009-12-21 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-111.
+- 2009-12-21 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-111.
+- 2009-12-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.
