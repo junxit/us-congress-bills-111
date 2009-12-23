@@ -1,7 +1,7 @@
 ---
 measure: H.R. 730
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 730
@@ -29,9 +29,10 @@ Nuclear Forensics and Attribution Act
 - House — Foreign Affairs Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2009-03-24 — [House 111-1-148](votes/house-111-1-0148.md) — On Motion to Suspend the Rules and Pass — **Passed** (402–16)
+- 2010-01-21 — [House 111-2-16](votes/house-111-2-0016.md) — Suspend the Rules and Concur in the Senate Amendment — **Passed** (397–10)
 
 ## Actions
 
@@ -56,3 +57,18 @@ Nuclear Forensics and Attribution Act
 - 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.
 - 2009-12-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S13886-13887; text as passed Senate: S13886-13887)
 - 2009-12-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S13886-13887; text as passed Senate: S13886-13887)
+- 2009-12-24 — Message on Senate action sent to the House.
+- 2010-01-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 730.
+- 2010-01-20 — Ms. Clarke moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H226-229)
+- 2010-01-21 — Cleared for White House.
+- 2010-01-21 — Considered as unfinished business. (consideration: CR H300-301)
+- 2010-01-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 397 - 10 (Roll no. 16). (text as House agreed to Senate amendment: CR 1/20/2010 H226-227)
+- 2010-01-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 397 - 10 (Roll no. 16).(text as House agreed to Senate amendment: CR 1/20/2010 H226-227)
+- 2010-02-04 — Presented to President.
+- 2010-02-04 — Presented to President.
+- 2010-02-16 — Became Public Law No: 111-140.
+- 2010-02-16 — Became Public Law No: 111-140.
+- 2010-02-16 — Signed by President.
+- 2010-02-16 — Signed by President.
