@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1242
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1242
@@ -83,3 +83,5 @@ To amend the Emergency Economic Stabilization Act of 2008 to provide for additio
 - 2009-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 921). (text: CR H13405-13406)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 921).(text: CR H13405-13406)
 - 2009-12-02 — The title of the measure was amended. Agreed to without objection.
+- 2009-12-03 — Received in the Senate.
+- 2009-12-23 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
