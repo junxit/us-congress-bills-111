@@ -1,7 +1,7 @@
 ---
 measure: S. 1178
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1178
@@ -28,3 +28,7 @@ Indian Tribes of Virginia Federal Recognition Act of 2009
 
 - 2009-06-03 — Introduced in Senate
 - 2009-06-03 — Read twice and referred to the Committee on Indian Affairs.
+- 2009-10-22 — Committee on Indian Affairs. Ordered to be reported with amendments favorably.
+- 2009-12-23 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-113.
+- 2009-12-23 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-113.
+- 2009-12-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 251.
