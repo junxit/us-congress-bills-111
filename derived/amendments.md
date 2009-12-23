@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3639
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “This Act” and inserting “(a) In general.—This Act”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | by striking “9 months after the date of enactment of this section” and inserting “the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)(… | the bill names no machine-readable US Code section |
 | — | replace | by striking “become effective 15 months after that date of enactment” and inserting “take effect on the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in… | the bill names no machine-readable US Code section |
 | — | replace | by striking “9 months after the date of enactment of this section,” and inserting “the date of the enactment of the Expedited CARD Reform for Consumers Act of 2009, except that for a depository institution, as defined in section 19(b)(1)… | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3639
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3639
@@ -143,3 +143,5 @@ Expedited CARD Reform for Consumers Act of 2009
 - 2009-11-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3639.
 - 2009-11-04 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2009-11-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12320, H12322)
+- 2009-11-05 — Received in the Senate.
+- 2009-12-23 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
