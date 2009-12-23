@@ -1,7 +1,7 @@
 ---
 measure: H.R. 730
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 730
@@ -54,3 +54,5 @@ Nuclear Forensics and Attribution Act
 - 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.
+- 2009-12-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S13886-13887; text as passed Senate: S13886-13887)
+- 2009-12-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S13886-13887; text as passed Senate: S13886-13887)
