@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2489
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

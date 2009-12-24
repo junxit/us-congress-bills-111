@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2489
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2489
@@ -21,9 +21,10 @@ National Land Remote Sensing Outreach Act
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,5 @@ National Land Remote Sensing Outreach Act
 - 2009-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 33 (Roll no. 817). (text: CR 10/26/2009 H11742-11743)
 - 2009-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 33 (Roll no. 817).(text: CR 10/26/2009 H11742-11743)
 - 2009-10-27 — The title of the measure was amended. Agreed to without objection.
+- 2009-10-28 — Received in the Senate.
+- 2009-12-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
