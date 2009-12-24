@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3224
@@ -21,10 +21,11 @@ To authorize the Board of Regents of the Smithsonian Institution to plan, design
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Transportation and Infrastructure Committee
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -50,3 +51,5 @@ To authorize the Board of Regents of the Smithsonian Institution to plan, design
 - 2009-12-08 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2009-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13582)
 - 2009-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13582)
+- 2009-12-09 — Received in the Senate.
+- 2009-12-24 — Read twice and referred to the Committee on Rules and Administration.
