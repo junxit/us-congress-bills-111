@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1147
@@ -105,9 +105,10 @@ Local Community Radio Act of 2009
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -131,3 +132,5 @@ Local Community Radio Act of 2009
 - 2009-12-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/15/2009 H14903)
 - 2009-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/15/2009 H14903)
+- 2009-12-17 — Received in the Senate.
+- 2009-12-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
