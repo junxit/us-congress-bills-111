@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3726
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Castle Nugent National Historic Site Establishment Act of 2009”.
+This Act may be cited as the “Castle Nugent National Historic Site Establishment Act of 2010”.
 
 ## § 2. Definitions
 
@@ -23,7 +23,7 @@ In this Act:
 ## § 3. Castle Nugent National Historic Site
 
 - **(a)** *Establishment* There is established as a unit of the National Park System the Castle Nugent National Historic Site on the Island of St. Croix, U.S. Virgin Islands, in order to preserve, protect, and interpret, for the benefit of present and future generations, a Caribbean cultural landscape that spans more than 300 years of agricultural use, significant archeological resources, mangrove forests, endangered sea turtle nesting beaches, an extensive barrier coral reef system, and other outstanding natural features.
-- **(b)** *Boundaries* The historic site consists of the approximately 2,900 acres of land extending from Lowrys Hill and Laprey Valley to the Caribbean Sea and from Manchenil Bay to Great Pond, along with associated submerged lands to the three-mile territorial limit, as generally depicted on the map titled “________”, numbered ____, and dated ____.
+- **(b)** *Boundaries* The historic site consists of the approximately 2,900 acres of land extending from Lowrys Hill and Laprey Valley to the Caribbean Sea and from Manchenil Bay to Great Pond, along with associated submerged lands to the three-mile territorial limit, as generally depicted on the map titled “Castle Nugent National Historic Site Proposed Boundary Map”, numbered T22/100,447, and dated October 2009.
 - **(c)** *Map availability* The map referred to in subsection (b) shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 - **(d)** *Acquisition of land*
   - **(1)** *In general* Except as provided in paragraph (2), the Secretary is authorized to acquire lands and interests in lands within the boundaries of the historic site by donation, purchase with donated or appropriated funds, or exchange.
