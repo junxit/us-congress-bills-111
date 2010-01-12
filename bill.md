@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3254
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -12,30 +12,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Taos Pueblo Indian Water Rights Settlement Act”.
-- **(b)** *Table of Contents* The table of contents of this Act is as follows:
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
 
 ## § 2. Purpose
 
 The purposes of this Act are—
 
 - **(1)** to approve, ratify, and confirm the Taos Pueblo Indian Water Rights Settlement Agreement;
-- **(2)** to authorize and direct the Secretary to execute the settlement agreement and to perform all obligations of the Secretary under the settlement agreement and this Act; and
-- **(3)** to authorize all actions and appropriations necessary for the United States to meet its obligations under the settlement agreement and this Act.
+- **(2)** to authorize and direct the Secretary to execute the Settlement Agreement and to perform all obligations of the Secretary under the Settlement Agreement and this Act; and
+- **(3)** to authorize all actions and appropriations necessary for the United States to meet its obligations under the Settlement Agreement and this Act.
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Eligible non-pueblo entities* The term eligible non-Pueblo entities means the Town of Taos, El Prado Water and Sanitation District (“EPWSD”), and the New Mexico Department of Finance and Administration Local Government Division on behalf of the Acequia Madre del Rio Lucero y del Arroyo Seco, the Acequia Madre del Prado, the Acequia del Monte, the Acequia Madre del Rio Chiquito, the Upper Ranchitos Mutual Domestic Water Consumers Association, the Upper Arroyo Hondo Mutual Domestic Water Consumers Association, and the Llano Quemado Mutual Domestic Water Consumers Association.
-- **(2)** *Enforcement date* The term enforcement date means the date upon which the Secretary publishes the notice required by section 10(f)(1).
-- **(3)** *Mutual-benefit projects* The term mutual-benefit projects means the projects described and identified in articles 6 and 10.1 of the settlement agreement.
-- **(4)** *Partial final decree* The term partial final decree means the Decree entered in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M) (consolidated), for the resolution of the Pueblo’s water right claims and which is substantially in the form agreed to by the parties and attached to the settlement agreement as attachment 5.
-- **(5)** *Parties* The term parties means the parties to the settlement agreement, as identified in article 1 of the settlement agreement.
+- **(1)** *Eligible non-pueblo entities* The term Eligible Non-Pueblo Entities means the Town of Taos, El Prado Water and Sanitation District (“EPWSD”), and the New Mexico Department of Finance and Administration Local Government Division on behalf of the Acequia Madre del Rio Lucero y del Arroyo Seco, the Acequia Madre del Prado, the Acequia del Monte, the Acequia Madre del Rio Chiquito, the Upper Ranchitos Mutual Domestic Water Consumers Association, the Upper Arroyo Hondo Mutual Domestic Water Consumers Association, and the Llano Quemado Mutual Domestic Water Consumers Association.
+- **(2)** *Enforcement date* The term Enforcement Date means the date upon which the Secretary publishes the notice required by section 10(f)(1).
+- **(3)** *Mutual-benefit projects* The term Mutual-Benefit Projects means the projects described and identified in articles 6 and 10.1 of the Settlement Agreement.
+- **(4)** *Partial final decree* The term Partial Final Decree means the Decree entered in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M) (consolidated), for the resolution of the Pueblo's water right claims and which is substantially in the form agreed to by the Parties and attached to the Settlement Agreement as Attachment 5.
+- **(5)** *Parties* The term Parties means the Parties to the Settlement Agreement, as identified in article 1 of the Settlement Agreement.
 - **(6)** *Pueblo* The term Pueblo means the Taos Pueblo, a sovereign Indian tribe duly recognized by the United States of America.
-- **(7)** *Pueblo lands* The term Pueblo lands means those lands located within the Taos Valley to which the Pueblo, or the United States in its capacity as trustee for the Pueblo, holds title subject to Federal law limitations on alienation. Such lands include Tracts A, B, and C, the Pueblo’s land grant, the Blue Lake Wilderness Area, and the Tenorio and Karavas Tracts and are generally depicted in attachment 2 to the settlement agreement.
-- **(8)** *San juan-chama project* The term San Juan-Chama Project means the project authorized by section 8 of the Act of June 13, 1962 (76 Stat. 96, 97), and the Act of April 11, 1956 (70 Stat. 105).
+- **(7)** *Pueblo lands* The term Pueblo lands means those lands located within the Taos Valley to which the Pueblo, or the United States in its capacity as trustee for the Pueblo, holds title subject to Federal law limitations on alienation. Such lands include Tracts A, B, and C, the Pueblo's land grant, the Blue Lake Wilderness Area, and the Tenorio and Karavas Tracts and are generally depicted in Attachment 2 to the Settlement Agreement.
+- **(8)** *San juan-chama project* The term San Juan-Chama Project means the Project authorized by section 8 of the Act of June 13, 1962 (76 Stat. 96, 97), and the Act of April 11, 1956 (70 Stat. 105).
 - **(9)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(10)** *Settlement agreement* The term settlement agreement means the contract dated March 31, 2006, between and among—
+- **(10)** *Settlement agreement* The term Settlement Agreement means the contract dated March 31, 2006, between and among—
   - **(A)** the United States, acting solely in its capacity as trustee for Taos Pueblo;
   - **(B)** the Taos Pueblo, on its own behalf;
   - **(C)** the State of New Mexico;
@@ -44,12 +44,12 @@ In this Act:
   - **(F)** EPWSD; and
   - **(G)** the 12 Taos area Mutual Domestic Water Consumers Associations (“MDWCAs”), as amended to conform with this Act.
 - **(11)** *State engineer* The term State Engineer means the New Mexico State Engineer.
-- **(12)** *Taos valley* The term Taos Valley means the geographic area depicted in attachment 4 of the settlement agreement.
+- **(12)** *Taos valley* The term Taos Valley means the geographic area depicted in Attachment 4 of the Settlement Agreement.
 
 ## § 4. Pueblo rights
 
-- **(a)** *In general* Those rights to which the Pueblo is entitled under the Partial Final Decree shall be held in trust by the United States on behalf of the Pueblo and shall not be subject to forfeiture, abandonment, or permanent alienation.
-- **(b)** *Subsequent act of congress* The Pueblo shall not be denied all or any part of its rights held in trust absent its consent unless such rights are explicitly abrogated by an Act of Congress hereafter enacted.
+- **(a)** *In General* Those rights to which the Pueblo is entitled under the Partial Final Decree shall be held in trust by the United States on behalf of the Pueblo and shall not be subject to forfeiture, abandonment, or permanent alienation.
+- **(b)** *Subsequent Act of congress* The Pueblo shall not be denied all or any part of its rights held in trust absent its consent unless such rights are explicitly abrogated by an Act of Congress hereafter enacted.
 
 ## § 5. Pueblo water infrastructure and watershed enhancement
 
@@ -57,99 +57,99 @@ In this Act:
   - **(1)** plan, permit, design, engineer, construct, reconstruct, replace, or rehabilitate water production, treatment, and delivery infrastructure;
   - **(2)** restore, preserve, and protect the environment associated with the Buffalo Pasture area; and
   - **(3)** protect and enhance watershed conditions.
-- **(b)** *Availability of grants* Upon the enforcement date, all amounts appropriated pursuant to section 10(c)(1) or made available from other authorized sources, shall be available in grants to the Pueblo after the requirements of subsection (c) have been met.
-- **(c)** *Plan* The Secretary shall provide financial assistance pursuant to subsection (a) upon the Pueblo’s submittal of a plan that identifies the projects to be implemented consistent with the purposes of this section and describes how such projects are consistent with the settlement agreement.
+- **(b)** *Availability of grants* Upon the Enforcement Date, all amounts appropriated pursuant to section 10(c)(1) or made available from other authorized sources, shall be available in grants to the Pueblo after the requirements of subsection (c) have been met.
+- **(c)** *Plan* The Secretary shall provide financial assistance pursuant to subsection (a) upon the Pueblo's submittal of a plan that identifies the projects to be implemented consistent with the purposes of this section and describes how such projects are consistent with the Settlement Agreement.
 - **(d)** *Early funds* Notwithstanding subsection (b), $10,000,000 of the monies authorized to be appropriated pursuant to section 10(c)(1)—
   - **(1)** shall be made available in grants to the Pueblo by the Secretary upon appropriation or availability of the funds from other authorized sources; and
-  - **(2)** shall be distributed by the Secretary to the Pueblo on receipt by the Secretary from the Pueblo of a written notice, a tribal council resolution that describes the purposes under subsection (a) for which the monies will be used, and a plan under subsection (c) for this portion of the funding.
+  - **(2)** shall be distributed by the Secretary to the Pueblo on receipt by the Secretary from the Pueblo of a written notice, a Tribal Council resolution that describes the purposes under subsection (a) for which the monies will be used, and a plan under subsection (c) for this portion of the funding.
 
 ## § 6. Taos Pueblo Water Development Fund
 
-- **(a)** *Establishment* There is established in the Treasury of the United States a fund to be known as the “Taos Pueblo Water Development Fund” (hereinafter, “fund”) to be used to pay or reimburse costs incurred by the Pueblo for—
+- **(a)** *Establishment* There is established in the Treasury of the United States a fund to be known as the “Taos Pueblo Water Development Fund” (hereinafter, “Fund”) to be used to pay or reimburse costs incurred by the Pueblo for—
   - **(1)** acquiring water rights;
   - **(2)** planning, permitting, designing, engineering, constructing, reconstructing, replacing, rehabilitating, operating, or repairing water production, treatment or delivery infrastructure, on-farm improvements, or wastewater infrastructure;
-  - **(3)** restoring, preserving, and protecting the Buffalo Pasture, including planning, permitting, designing, engineering, constructing, operating, managing and replacing the Buffalo Pasture Recharge Project;
-  - **(4)** administering the Pueblo’s water rights acquisition program and water management and administration system; and
-  - **(5)** for watershed protection and enhancement, support of agriculture, water-related Pueblo community welfare and economic development, and costs related to the negotiation, authorization, and implementation of the settlement agreement.
-- **(b)** *Management of the fund* The Secretary shall manage the fund, invest amounts in the fund, and make monies available from the fund for distribution to the Pueblo consistent with the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001, et seq.) (hereinafter, “Trust Fund Reform Act”), this Act, and the settlement agreement.
-- **(c)** *Investment of the fund* Upon the enforcement date, the Secretary shall invest amounts in the fund in accordance with—
+  - **(3)** restoring, preserving and protecting the Buffalo Pasture, including planning, permitting, designing, engineering, constructing, operating, managing and replacing the Buffalo Pasture Recharge Project;
+  - **(4)** administering the Pueblo's water rights acquisition program and water management and administration system; and
+  - **(5)** for watershed protection and enhancement, support of agriculture, water-related Pueblo community welfare and economic development, and costs related to the negotiation, authorization, and implementation of the Settlement Agreement.
+- **(b)** *Management of the fund* The Secretary shall manage the Fund, invest amounts in the Fund, and make monies available from the Fund for distribution to the Pueblo consistent with the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001, et seq.) (hereinafter, “Trust Fund Reform Act”), this Act, and the Settlement Agreement.
+- **(c)** *Investment of the fund* Upon the Enforcement Date, the Secretary shall invest amounts in the Fund in accordance with—
   - **(1)** the Act of April 1, 1880 (21 Stat. 70, ch. 41, 25 U.S.C. 161);
   - **(2)** the first section of the Act of June 24, 1938 (52 Stat. 1037, ch. 648, 25 U.S.C. 162a); and
   - **(3)** the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.).
-- **(d)** *Availability of amounts from the fund* Upon the enforcement date, all monies deposited in the fund pursuant to section 10(c)(2) or made available from other authorized sources shall be available to the Pueblo for expenditure or withdrawal after the requirements of subsection (e) have been met.
+- **(d)** *Availability of amounts from the fund* Upon the Enforcement Date, all monies deposited in the Fund pursuant to section 10(c)(2) or made available from other authorized sources shall be available to the Pueblo for expenditure or withdrawal after the requirements of subsection (e) have been met.
 - **(e)** *Expenditures and withdrawal*
   - **(1)** *Tribal management plan*
-    - **(A)** *In general* The Pueblo may withdraw all or part of the fund on approval by the Secretary of a tribal management plan as described in the Trust Fund Reform Act.
+    - **(A)** *In general* The Pueblo may withdraw all or part of the Fund on approval by the Secretary of a tribal management plan as described in the Trust Fund Reform Act.
     - **(B)** *Requirements* In addition to the requirements under the Trust Fund Reform Act, the tribal management plan shall require that the Pueblo spend any funds in accordance with the purposes described in subsection (a).
-  - **(2)** *Enforcement* The Secretary may take judicial or administrative action to enforce the requirement that monies withdrawn from the fund are used for the purposes specified in subsection (a).
-  - **(3)** *Liability* If the Pueblo exercises the right to withdraw monies from the fund, neither the Secretary nor the Secretary of the Treasury shall retain any liability for the expenditure or investment of the monies withdrawn.
+  - **(2)** *Enforcement* The Secretary may take judicial or administrative action to enforce the requirement that monies withdrawn from the Fund are used for the purposes specified in subsection (a).
+  - **(3)** *Liability* If the Pueblo exercises the right to withdraw monies from the Fund, neither the Secretary nor the Secretary of the Treasury shall retain any liability for the expenditure or investment of the monies withdrawn.
   - **(4)** *Expenditure plan*
     - **(A)** *In general* The Pueblo shall submit to the Secretary for approval an expenditure plan for any portions of the funds made available under this Act that the Pueblo does not withdraw under paragraph (1)(A).
-    - **(B)** *Description* The expenditure plan shall describe the manner in which, and the purposes for which, amounts remaining in the fund will be used.
+    - **(B)** *Description* The expenditure plan shall describe the manner in which, and the purposes for which, amounts remaining in the Fund will be used.
     - **(C)** *Approval* On receipt of an expenditure plan under subparagraph (A), the Secretary shall approve the plan if the Secretary determines that the plan is reasonable and consistent with this Act.
-  - **(5)** *Annual report* The Pueblo shall submit to the Secretary an annual report that describes all expenditures from the fund during the year covered by the report.
+  - **(5)** *Annual report* The Pueblo shall submit to the Secretary an annual report that describes all expenditures from the Fund during the year covered by the report.
 - **(f)** *Funds available upon appropriation* Notwithstanding subsection (d), $15,000,000 of the monies authorized to be appropriated pursuant to section 10(c)(2)—
-  - **(1)** shall be available upon appropriation or made available from other authorized sources for the Pueblo’s acquisition of water rights pursuant to article 5.1.1.2.3 of the settlement agreement, the Buffalo Pasture Recharge Project, implementation of the Pueblo’s water rights acquisition program and water management and administration system, the design, planning, and permitting of water or wastewater infrastructure eligible for funding under sections 5 or 6, or costs related to the negotiation, authorization, and implementation of the settlement agreement; and
-  - **(2)** shall be distributed by the Secretary to the Pueblo on receipt by the Secretary from the Pueblo of a written notice and a tribal council resolution that describes the purposes under paragraph (1) for which the monies will be used.
-- **(g)** *No per capita distributions* No part of the fund shall be distributed on a per capita basis to members of the Pueblo.
+  - **(1)** shall be available upon appropriation or made available from other authorized sources for the Pueblo's acquisition of water rights pursuant to Article 5.1.1.2.3 of the Settlement Agreement, the Buffalo Pasture Recharge Project, implementation of the Pueblo's water rights acquisition program and water management and administration system, the design, planning, and permitting of water or wastewater infrastructure eligible for funding under sections 5 or 6, or costs related to the negotiation, authorization, and implementation of the Settlement Agreement; and
+  - **(2)** shall be distributed by the Secretary to the Pueblo on receipt by the Secretary from the Pueblo of a written notice and a Tribal Council resolution that describes the purposes under paragraph (1) for which the monies will be used.
+- **(g)** *No per capita distributions* No part of the Fund shall be distributed on a per capita basis to members of the Pueblo.
 
 ## § 7. Marketing
 
-- **(a)** *Pueblo water rights* Subject to the approval of the Secretary in accordance with subsection (e), the Pueblo may market water rights secured to it under the settlement agreement and partial final decree, provided that such marketing is in accordance with this section.
-- **(b)** *Pueblo contract rights to san juan-chama project water* Subject to the approval of the Secretary in accordance with subsection (e), the Pueblo may subcontract water made available to the Pueblo under the contract authorized under section 9(b)(1)(A) to third parties to supply water for use within or without the Taos Valley, provided that the delivery obligations under such subcontract are not inconsistent with the Secretary’s existing San Juan-Chama Project obligations and such subcontract is in accordance with this section.
+- **(a)** *Pueblo water rights* Subject to the approval of the Secretary in accordance with subsection (e), the Pueblo may market water rights secured to it under the Settlement Agreement and Partial Final Decree, provided that such marketing is in accordance with this section.
+- **(b)** *Pueblo contract rights to san juan-chama project water* Subject to the approval of the Secretary in accordance with subsection (e), the Pueblo may subcontract water made available to the Pueblo under the contract authorized under section 9(b)(1)(A) to third parties to supply water for use within or without the Taos Valley, provided that the delivery obligations under such subcontract are not inconsistent with the Secretary's existing San Juan-Chama Project obligations and such subcontract is in accordance with this section.
 - **(c)** *Limitation*
   - **(1)** *In general* Diversion or use of water off Pueblo lands pursuant to Pueblo water rights or Pueblo contract rights to San Juan-Chama Project water shall be subject to and not inconsistent with the same requirements and conditions of State law, any applicable Federal law, and any applicable interstate compact as apply to the exercise of water rights or contract rights to San Juan-Chama Project water held by non-Federal, non-Indian entities, including all applicable State Engineer permitting and reporting requirements.
   - **(2)** *Effect on water rights* Such diversion or use off Pueblo lands under paragraph (1) shall not impair water rights or increase surface water depletions within the Taos Valley.
 - **(d)** *Maximum Term*
   - **(1)** *In general* The maximum term of any water use lease or subcontract, including all renewals, shall not exceed 99 years in duration.
-  - **(2)** *Alienation of rights* The Pueblo shall not permanently alienate any rights it has under the settlement agreement, the partial final decree, and this Act.
-- **(e)** *Approval of secretary* The Secretary shall approve or disapprove any lease or subcontract submitted by the Pueblo for approval not later than—
+  - **(2)** *Alienation of rights* The Pueblo shall not permanently alienate any rights it has under the Settlement Agreement, the Partial Final Decree, and this Act.
+- **(e)** *Approval of Secretary* The Secretary shall approve or disapprove any lease or subcontract submitted by the Pueblo for approval not later than—
   - **(1)** 180 days after submission; or
-  - **(2)** 60 days after compliance, if required, with section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or any other requirement of Federal law, whichever is later, provided that no secretarial approval shall be required for any water use lease or subcontract with a term of less than 7 years.
-- **(f)** *No forfeiture or abandonment* The nonuse by a lessee or subcontractor of the Pueblo of any right to which the Pueblo is entitled under the partial final decree shall in no event result in a forfeiture, abandonment, relinquishment, or other loss of all or any part of those rights.
-- **(g)** *No Preemption*
+  - **(2)** 60 days after compliance, if required, with section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or any other requirement of Federal law, whichever is later, provided that no Secretarial approval shall be required for any water use lease with a term of less than 7 years.
+- **(f)** *No forfeiture or abandonment* The nonuse by a lessee or subcontractor of the Pueblo of any right to which the Pueblo is entitled under the Partial Final Decree shall in no event result in a forfeiture, abandonment, relinquishment, or other loss of all or any part of those rights.
+- **(g)** *No preemption*
   - **(1)** *In general* The approval authority of the Secretary provided under subsection (e) shall not amend, construe, supersede, or preempt any State or Federal law, interstate compact, or international treaty that pertains to the Colorado River, the Rio Grande, or any of their tributaries, including the appropriation, use, development, storage, regulation, allocation, conservation, exportation, or quantity of those waters.
-  - **(2)** *Applicable law* The provisions of section 2116 of the Revised Statutes (25 U.S.C. 177) shall not apply to any water made available under the settlement agreement.
-- **(h)** *No prejudice* Nothing in this Act shall be construed to establish, address, prejudice, or prevent any party from litigating whether or to what extent any applicable State law, Federal law, or interstate compact does or does not permit, govern, or apply to the use of the Pueblo’s water outside of New Mexico.
+  - **(2)** *Applicable law* The provisions of section 2116 of the Revised Statutes (25 U.S.C. 177) shall not apply to any water made available under the Settlement Agreement.
+- **(h)** *No prejudice* Nothing in this Act shall be construed to establish, address, prejudice, or prevent any party from litigating whether or to what extent any applicable State law, Federal law, or interstate compact does or does not permit, govern, or apply to the use of the Pueblo's water outside of New Mexico.
 
-## § 8. Mutual-benefit projects
+## § 8. Mutual-Benefit Projects
 
-- **(a)** *In general* Upon the enforcement date, the Secretary, acting through the Commissioner of Reclamation, shall provide financial assistance in the form of grants on a nonreimbursable basis to eligible non-Pueblo entities to plan, permit, design, engineer, and construct the mutual-benefit projects in accordance with the settlement agreement—
-  - **(1)** to minimize adverse impacts on the Pueblo’s water resources by moving future non-Indian ground water pumping away from the Pueblo’s Buffalo Pasture; and
+- **(a)** *In general* Upon the Enforcement Date, the Secretary, acting through the Commissioner of Reclamation, shall provide financial assistance in the form of grants on a nonreimbursable basis to Eligible Non-Pueblo Entities to plan, permit, design, engineer, and construct the Mutual-Benefit Projects in accordance with the Settlement Agreement—
+  - **(1)** to minimize adverse impacts on the Pueblo's water resources by moving future non-Indian ground water pumping away from the Pueblo's Buffalo Pasture; and
   - **(2)** to implement the resolution of a dispute over the allocation of certain surface water flows between the Pueblo and non-Indian irrigation water right owners in the community of Arroyo Seco Arriba.
-- **(b)** *Cost-Sharing*
-  - **(1)** *Federal share* The Federal share of the total cost of planning, designing, and constructing the mutual-benefit projects authorized in subsection (a) shall be 75 percent and shall be nonreimbursable.
-  - **(2)** *Non-federal share* The non-Federal share of the total cost of planning, designing, and constructing the mutual-benefit projects shall be 25 percent and may be in the form of in-kind contributions, including the contribution of any valuable asset or service that the Secretary determines would substantially contribute to completing the mutual-benefit projects.
+- **(b)** *Cost-sharing*
+  - **(1)** *Federal share* The Federal share of the total cost of planning, designing, and constructing the Mutual-Benefit Projects authorized in subsection (a) shall be 75 percent and shall be nonreimbursable.
+  - **(2)** *Non-Federal share* The non-Federal share of the total cost of planning, designing, and constructing the Mutual-Benefit Projects shall be 25 percent and may be in the form of in-kind contributions, including the contribution of any valuable asset or service that the Secretary determines would substantially contribute to completing the Mutual-Benefit Projects.
 
 ## § 9. San Juan-Chama Project contracts
 
-- **(a)** *In general* Contracts issued under this section shall be in accordance with this Act and the settlement agreement.
-- **(b)** *Contracts for San Juan-Chama Project Water*
-  - **(1)** *In general* The Secretary shall enter into 3 repayment contracts by December 31, 2009, for the delivery of San Juan-Chama Project water in the following amounts:
+- **(a)** *In general* Contracts issued under this section shall be in accordance with this Act and the Settlement Agreement.
+- **(b)** *Contracts for san juan-chama project water*
+  - **(1)** *In general* The Secretary shall enter into 3 repayment contracts by not later than 180 days after the date of enactment of this Act, for the delivery of San Juan-Chama Project water in the following amounts:
     - **(A)** 2,215 acre-feet/annum to the Pueblo.
     - **(B)** 366 acre-feet/annum to the Town of Taos.
     - **(C)** 40 acre-feet/annum to EPWSD.
-  - **(2)** *Requirements* Each such contract shall provide that if the conditions precedent set forth in section 10(f)(2) have not been fulfilled by December 31, 2015, the contract shall expire on that date.
+  - **(2)** *Requirements* Each such contract shall provide that if the conditions precedent set forth in section 10(f)(2) have not been fulfilled by December 31, 2016, the contract shall expire on that date.
   - **(3)** *Applicable law* Public Law 87–483 (76 Stat. 97) applies to the contracts entered into under paragraph (1) and no preference shall be applied as a result of section 4(a) with regard to the delivery or distribution of San Juan-Chama Project water or the management or operation of the San Juan-Chama Project.
 - **(c)** *Waiver* With respect to the contract authorized and required by subsection (b)(1)(A) and notwithstanding the provisions of Public Law 87–483 (76 Stat. 96) or any other provision of law—
-  - **(1)** the Secretary shall waive the entirety of the Pueblo’s share of the construction costs, both principal and the interest, for the San Juan-Chama Project and pursuant to that waiver, the Pueblo’s share of all construction costs for the San Juan-Chama Project, inclusive of both principal and interest shall be nonreimbursable; and
-  - **(2)** the Secretary’s waiver of the Pueblo’s share of the construction costs for the San Juan-Chama Project will not result in an increase in the pro rata shares of other San Juan-Chama Project water contractors, but such costs shall be absorbed by the United States Treasury or otherwise appropriated to the Department of the Interior.
+  - **(1)** the Secretary shall waive the entirety of the Pueblo's share of the construction costs, both principal and the interest, for the San Juan-Chama Project and pursuant to that waiver, the Pueblo's share of all construction costs for the San Juan-Chama Project, inclusive of both principal and interest shall be nonreimbursable; and
+  - **(2)** the Secretary's waiver of the Pueblo's share of the construction costs for the San Juan-Chama Project will not result in an increase in the pro rata shares of other San Juan-Chama Project water contractors, but such costs shall be absorbed by the United States Treasury or otherwise appropriated to the Department of the Interior.
 
 ## § 10. Authorizations, ratifications, confirmations, and conditions precedent
 
 - **(a)** *Ratification*
-  - **(1)** *In general* Except to the extent that any provision of the settlement agreement conflicts with any provision of this Act, the settlement agreement is authorized, ratified, and confirmed.
-  - **(2)** *Amendments* To the extent amendments are executed to make the settlement agreement consistent with this Act, such amendments are also authorized, ratified, and confirmed.
-- **(b)** *Execution of settlement agreement* To the extent that the settlement agreement does not conflict with this Act, the Secretary shall execute the settlement agreement, including all exhibits to the settlement agreement requiring the signature of the Secretary and any amendments necessary to make the settlement agreement consistent with this Act, after the Pueblo has executed the settlement agreement and any such amendments.
-- **(c)** *Authorization of Appropriations*
+  - **(1)** *In general* Except to the extent that any provision of the Settlement Agreement conflicts with any provision of this Act, the Settlement Agreement is authorized, ratified, and confirmed.
+  - **(2)** *Amendments* To the extent amendments are executed to make the Settlement Agreement consistent with this Act, such amendments are also authorized, ratified, and confirmed.
+- **(b)** *Execution of settlement agreement* To the extent that the Settlement Agreement does not conflict with this Act, the Secretary shall execute the Settlement Agreement, including all exhibits to the Settlement Agreement requiring the signature of the Secretary and any amendments necessary to make the Settlement Agreement consistent with this Act, after the Pueblo has executed the Settlement Agreement and any such amendments.
+- **(c)** *Authorization of appropriations*
   - **(1)** *Taos pueblo infrastructure and watershed fund* There is authorized to be appropriated to the Secretary to provide grants pursuant to section 5, $30,000,000, as adjusted under paragraph (4), for the period of fiscal years 2010 through 2016.
   - **(2)** *Taos pueblo water development fund* There is authorized to be appropriated to the Taos Pueblo Water Development Fund, established at section 6(a), $58,000,000, as adjusted under paragraph (4), for the period of fiscal years 2010 through 2016.
   - **(3)** *Mutual-benefit projects funding* There is further authorized to be appropriated to the Secretary to provide grants pursuant to section 8, a total of $33,000,000, as adjusted under paragraph (4), for the period of fiscal years 2010 through 2016.
   - **(4)** *Adjustments to amounts authorized* The amounts authorized to be appropriated under paragraphs (1) through (3) shall be adjusted by such amounts as may be required by reason of changes since April 1, 2007, in construction costs, as indicated by engineering cost indices applicable to the types of construction or rehabilitation involved.
-  - **(5)** *Deposit in fund* Except for the funds to be provided to the Pueblo pursuant to section 5(d), the Secretary shall deposit the funds made available pursuant to paragraphs (1) and (3) into a Taos Settlement Fund to be established within the Treasury of the United States so that such funds may be made available to the Pueblo and the eligible non-Pueblo entities upon the enforcement date as set forth in sections 5(b) and 8(a).
-- **(d)** *Authority of the secretary* The Secretary is authorized to enter into such agreements and to take such measures as the Secretary may deem necessary or appropriate to fulfill the intent of the settlement agreement and this Act.
+  - **(5)** *Deposit in fund* Except for the funds to be provided to the Pueblo pursuant to section 5(d), the Secretary shall deposit the funds made available pursuant to paragraphs (1) and (3) into a Taos Settlement Fund to be established within the Treasury of the United States so that such funds may be made available to the Pueblo and the Eligible Non-Pueblo Entities upon the Enforcement Date as set forth in sections 5(b) and 8(a).
+- **(d)** *Authority of the Secretary* The Secretary is authorized to enter into such agreements and to take such measures as the Secretary may deem necessary or appropriate to fulfill the intent of the Settlement Agreement and this Act.
 - **(e)** *Environmental compliance*
-  - **(1)** *Effect of execution of settlement agreement* The Secretary’s execution of the settlement agreement shall not constitute a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+  - **(1)** *Effect of execution of settlement agreement* The Secretary's execution of the Settlement Agreement shall not constitute a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
   - **(2)** *Compliance with environmental laws* In carrying out this Act, the Secretary shall comply with each law of the Federal Government relating to the protection of the environment, including—
     - **(A)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
     - **(B)** the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
@@ -157,40 +157,40 @@ In this Act:
   - **(1)** *In general* Upon the fulfillment of the conditions precedent described in paragraph (2), the Secretary shall publish in the Federal Register a statement of finding that the conditions have been fulfilled.
   - **(2)** *Conditions* The conditions precedent referred to in paragraph (1) are the following:
     - **(A)** The President has signed into law the Taos Pueblo Indian Water Rights Settlement Act.
-    - **(B)** To the extent that the settlement agreement conflicts with this Act, the settlement agreement has been revised to conform with this Act.
-    - **(C)** The settlement agreement, so revised, including waivers and releases pursuant to section 11, has been executed by the parties and the Secretary prior to the parties’ motion for entry of the partial final decree.
+    - **(B)** To the extent that the Settlement Agreement conflicts with this Act, the Settlement Agreement has been revised to conform with this Act.
+    - **(C)** The Settlement Agreement, so revised, including waivers and releases pursuant to section 11, has been executed by the Parties and the Secretary prior to the Parties' motion for entry of the Partial Final Decree.
     - **(D)** Congress has fully appropriated or the Secretary has provided from other authorized sources all funds authorized by paragraphs (1) through (3) of subsection (c) so that the entire amounts so authorized have been previously provided to the Pueblo pursuant to sections 5 and 6, or placed in the Taos Pueblo Water Development Fund or the Taos Settlement Fund as directed in subsection (c).
-    - **(E)** The Legislature of the State of New Mexico has fully appropriated the funds for the State contributions as specified in the settlement agreement, and those funds have been deposited in appropriate accounts.
-    - **(F)** The State of New Mexico has enacted legislation that amends NMSA 1978, section 72–6–3 to state that a water use due under a water right secured to the Pueblo under the settlement agreement or the partial final decree may be leased for a term, including all renewals, not to exceed 99 years, provided that this condition shall not be construed to require that said amendment state that any State law-based water rights acquired by the Pueblo or by the United States on behalf of the Pueblo may be leased for said term.
-    - **(G)** A partial final decree that sets forth the water rights and contract rights to water to which the Pueblo is entitled under the settlement agreement and this Act and that substantially conforms to the settlement agreement and attachment 5 thereto has been approved by the Court and has become final and nonappealable.
-- **(g)** *Enforcement date* The settlement agreement shall become enforceable, and the waivers and releases executed pursuant to section 11 and the limited waiver of sovereign immunity set forth in section 12(a) shall become effective, as of the date that the Secretary publishes the notice required by subsection (f)(1).
-- **(h)** *Expiration date*
-  - **(1)** *In general* If all of the conditions precedent described in section (f)(2) have not been fulfilled by December 31, 2016, the settlement agreement shall be null and void, the waivers and releases executed pursuant to section 11 and the sovereign immunity waivers in section 12(a) shall not become effective, and any unexpended Federal funds, together with any income earned thereon, and title to any property acquired or constructed with expended Federal funds, shall be returned to the Federal Government, unless otherwise agreed to by the parties in writing and approved by Congress.
+    - **(E)** The Legislature of the State of New Mexico has fully appropriated the funds for the State contributions as specified in the Settlement Agreement, and those funds have been deposited in appropriate accounts.
+    - **(F)** The State of New Mexico has enacted legislation that amends NMSA 1978, section 72–6–3 to state that a water use due under a water right secured to the Pueblo under the Settlement Agreement or the Partial Final Decree may be leased for a term, including all renewals, not to exceed 99 years, provided that this condition shall not be construed to require that said amendment state that any State law based water rights acquired by the Pueblo or by the United States on behalf of the Pueblo may be leased for said term.
+    - **(G)** A Partial Final Decree that sets forth the water rights and contract rights to water to which the Pueblo is entitled under the Settlement Agreement and this Act and that substantially conforms to the Settlement Agreement and Attachment 5 thereto has been approved by the Court and has become final and nonappealable.
+- **(g)** *Enforcement date* The Settlement Agreement shall become enforceable, and the waivers and releases executed pursuant to section 11 and the limited waiver of sovereign immunity set forth in section 12(a) shall become effective, as of the date that the Secretary publishes the notice required by subsection (f)(1).
+- **(h)** *Expiration Date*
+  - **(1)** *In general* If all of the conditions precedent described in section (f)(2) have not been fulfilled by December 31, 2016, the Settlement Agreement shall be null and void, the waivers and releases executed pursuant to section 11 and the sovereign immunity waivers in section 12(a) shall not become effective, and any unexpended Federal funds, together with any income earned thereon, and title to any property acquired or constructed with expended Federal funds, shall be returned to the Federal Government, unless otherwise agreed to by the Parties in writing and approved by Congress.
   - **(2)** *Exception* Notwithstanding subsection (h)(1) or any other provision of law, any unexpended Federal funds, together with any income earned thereon, made available under sections 5(d) and 6(f) and title to any property acquired or constructed with expended Federal funds made available under sections 5(d) and 6(f) shall be retained by the Pueblo.
-  - **(3)** *Right to set-off* In the event the conditions precedent set forth in subsection (f)(2) have not been fulfilled by December 31, 2016, the United States shall be entitled to set-off any funds expended or withdrawn from the amount appropriated pursuant to paragraphs (1) and (2) of subsection (c) or made available from other authorized sources, together with any interest accrued, against any claims asserted by the Pueblo against the United States relating to water rights in the Taos Valley.
+  - **(3)** *Right to set-off* In the event the conditions precedent set forth in subsection (f)(2) have not been fulfilled by December 31, 2016, the United States shall be entitled to set off any funds expended or withdrawn from the amount appropriated pursuant to paragraphs (1) and (2) of subsection (c) or made available from other authorized sources, together with any interest accrued, against any claims asserted by the Pueblo against the United States relating to water rights in the Taos Valley.
 
 ## § 11. Waivers and releases
 
-- **(a)** *Claims by the Pueblo and the United States* In return for recognition of the Pueblo’s water rights and other benefits, including but not limited to the commitments by non-Pueblo parties, as set forth in the settlement agreement and this Act, the Pueblo, on behalf of itself and its members, and the United States acting in its capacity as trustee for the Pueblo are authorized to execute a waiver and release of claims against the parties to New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated) from—
-  - **(1)** all claims for water rights in the Taos Valley that the Pueblo, or the United States acting in its capacity as trustee for the Pueblo, asserted, or could have asserted, in any proceeding, including but not limited to in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated), up to and including the enforcement date, except to the extent that such rights are recognized in the settlement agreement or this Act;
-  - **(2)** all claims for water rights, whether for consumptive or nonconsumptive use, in the Rio Grande mainstream or its tributaries that the Pueblo, or the United States acting in its capacity as trustee for the Pueblo, asserted or could assert in any water rights adjudication proceedings except those claims based on Pueblo or United States ownership of lands or water rights acquired after the enforcement date, provided that nothing in this paragraph shall prevent the Pueblo or the United States from fully participating in the inter se phase of any such water rights adjudication proceedings;
-  - **(3)** all claims for damages, losses or injuries to water rights or claims of interference with, diversion or taking of water (including but not limited to claims for injury to lands resulting from such damages, losses, injuries, interference with, diversion, or taking) in the Rio Grande mainstream or its tributaries or for lands within the Taos Valley that accrued at any time up to and including the enforcement date; and
-  - **(4)** all claims against the State of New Mexico, its agencies, or employees relating to the negotiation or the adoption of the settlement agreement.
-- **(b)** *Claims by the pueblo against the united states* The Pueblo, on behalf of itself and its members, is authorized to execute a waiver and release of—
+- **(a)** *Claims by the pueblo and the United States* In return for recognition of the Pueblo’s water rights and other benefits, including but not limited to the commitments by non-Pueblo parties, as set forth in the Settlement Agreement and this Act, the Pueblo, on behalf of itself and its members, and the United States acting in its capacity as trustee for the Pueblo are authorized to execute a waiver and release of claims against the parties to New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated) from—
+  - **(1)** all claims for water rights in the Taos Valley that the Pueblo, or the United States acting in its capacity as trustee for the Pueblo, asserted, or could have asserted, in any proceeding, including but not limited to in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated), up to and including the Enforcement Date, except to the extent that such rights are recognized in the Settlement Agreement or this Act;
+  - **(2)** all claims for water rights, whether for consumptive or nonconsumptive use, in the Rio Grande mainstream or its tributaries that the Pueblo, or the United States acting in its capacity as trustee for the Pueblo, asserted or could assert in any water rights adjudication proceedings except those claims based on Pueblo or United States ownership of lands or water rights acquired after the Enforcement Date, provided that nothing in this paragraph shall prevent the Pueblo or the United States from fully participating in the inter se phase of any such water rights adjudication proceedings;
+  - **(3)** all claims for damages, losses or injuries to water rights or claims of interference with, diversion or taking of water (including but not limited to claims for injury to lands resulting from such damages, losses, injuries, interference with, diversion, or taking) in the Rio Grande mainstream or its tributaries or for lands within the Taos Valley that accrued at any time up to and including the Enforcement Date; and
+  - **(4)** all claims against the State of New Mexico, its agencies, or employees relating to the negotiation or the adoption of the Settlement Agreement.
+- **(b)** *Claims by the pueblo against the United States* The Pueblo, on behalf of itself and its members, is authorized to execute a waiver and release of—
   - **(1)** all claims against the United States, its agencies, or employees relating to claims for water rights in or water of the Taos Valley that the United States acting in its capacity as trustee for the Pueblo asserted, or could have asserted, in any proceeding, including but not limited to in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated);
-  - **(2)** all claims against the United States, its agencies, or employees relating to damages, losses, or injuries to water, water rights, land, or natural resources due to loss of water or water rights (including but not limited to damages, losses or injuries to hunting, fishing, gathering, or cultural rights due to loss of water or water rights, claims relating to interference with, diversion or taking of water or water rights, or claims relating to failure to protect, acquire, replace, or develop water, water rights or water infrastructure) in the Rio Grande mainstream or its tributaries or within the Taos Valley that first accrued at any time up to and including the enforcement date;
+  - **(2)** all claims against the United States, its agencies, or employees relating to damages, losses, or injuries to water, water rights, land, or natural resources due to loss of water or water rights (including but not limited to damages, losses or injuries to hunting, fishing, gathering, or cultural rights due to loss of water or water rights, claims relating to interference with, diversion or taking of water or water rights, or claims relating to failure to protect, acquire, replace, or develop water, water rights or water infrastructure) in the Rio Grande mainstream or its tributaries or within the Taos Valley that first accrued at any time up to and including the Enforcement Date;
   - **(3)** all claims against the United States, its agencies, or employees for an accounting of funds appropriated by the Act of March 4, 1929 (45 Stat. 1562), the Act of March 4, 1931 (46 Stat. 1552), the Act of June 22, 1936 (49 Stat. 1757), the Act of August 9, 1937 (50 Stat. 564), and the Act of May 9, 1938 (52 Stat. 291), as authorized by the Pueblo Lands Act of June 7, 1924 (43 Stat. 636), and the Pueblo Lands Act of May 31, 1933 (48 Stat. 108), and for breach of trust relating to funds for water replacement appropriated by said Acts that first accrued before the date of enactment of this Act;
   - **(4)** all claims against the United States, its agencies, or employees relating to the pending litigation of claims relating to the Pueblo’s water rights in New Mexico v. Abeyta and New Mexico v. Arellano, Civil Nos. 7896–BB (U.S.6 D.N.M.) and 7939–BB (U.S. D.N.M.) (consolidated); and
-  - **(5)** all claims against the United States, its agencies, or employees relating to the negotiation, execution or the adoption of the settlement agreement, exhibits thereto, the final decree, or this Act.
+  - **(5)** all claims against the United States, its agencies, or employees relating to the negotiation, Execution or the adoption of the Settlement Agreement, exhibits thereto, the Final Decree, or this Act.
 - **(c)** *Reservation of rights and retention of claims* Notwithstanding the waivers and releases authorized in this Act, the Pueblo on behalf of itself and its members and the United States acting in its capacity as trustee for the Pueblo retain—
-  - **(1)** all claims for enforcement of the settlement agreement, the final decree, including the partial final decree, the San Juan-Chama Project contract between the Pueblo and the United States, or this Act;
-  - **(2)** all claims against persons other than the parties to the settlement agreement for damages, losses or injuries to water rights or claims of interference with, diversion or taking of water rights (including but not limited to claims for injury to lands resulting from such damages, losses, injuries, interference with, diversion, or taking of water rights) within the Taos Valley arising out of activities occurring outside the Taos Valley or the Taos Valley Stream System;
+  - **(1)** all claims for enforcement of the Settlement Agreement, the Final Decree, including the Partial Final Decree, the San Juan-Chama Project contract between the Pueblo and the United States, or this Act;
+  - **(2)** all claims against persons other than the Parties to the Settlement Agreement for damages, losses or injuries to water rights or claims of interference with, diversion or taking of water rights (including but not limited to claims for injury to lands resulting from such damages, losses, injuries, interference with, diversion, or taking of water rights) within the Taos Valley arising out of activities occurring outside the Taos Valley or the Taos Valley Stream System;
   - **(3)** all rights to use and protect water rights acquired after the date of enactment of this Act;
-  - **(4)** all rights to use and protect water rights acquired pursuant to State law, to the extent not inconsistent with the partial final decree and the settlement agreement (including water rights for the land the Pueblo owns in Questa, New Mexico);
+  - **(4)** all rights to use and protect water rights acquired pursuant to State law, to the extent not inconsistent with the Partial Final Decree and the Settlement Agreement (including water rights for the land the Pueblo owns in Questa, New Mexico);
   - **(5)** all claims relating to activities affecting the quality of water including but not limited to any claims the Pueblo might have under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) (including but not limited to claims for damages to natural resources), the Safe Drinking Water Act (42 U.S.C. 300f et seq.), the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), and the regulations implementing those Acts;
   - **(6)** all claims relating to damages, losses, or injuries to land or natural resources not due to loss of water or water rights (including but not limited to hunting, fishing, gathering, or cultural rights); and
-  - **(7)** all rights, remedies, privileges, immunities, powers, and claims not specifically waived and released pursuant to this Act and the settlement agreement.
-- **(d)** *Effect of section* Nothing in the settlement agreement or this Act—
+  - **(7)** all rights, remedies, privileges, immunities, powers, and claims not specifically waived and released pursuant to this Act and the Settlement Agreement.
+- **(d)** *Effect of Section* Nothing in the Settlement Agreement or this Act—
   - **(1)** affects the ability of the United States acting in its sovereign capacity to take actions authorized by law, including but not limited to any laws relating to health, safety, or the environment, including but not limited to the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Safe Drinking Water Act (42 U.S.C. 300f et seq.), the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.), and the regulations implementing such Acts;
   - **(2)** affects the ability of the United States to take actions acting in its capacity as trustee for any other Indian tribe or allottee;
   - **(3)** confers jurisdiction on any State court to—
@@ -200,16 +200,16 @@ In this Act:
 - **(e)** *Tolling of claims*
   - **(1)** *In general* Each applicable period of limitation and time-based equitable defense relating to a claim described in this section shall be tolled for the period beginning on the date of enactment of this Act and ending on the earlier of—
     - **(A)** December 31, 2016; or
-    - **(B)** the enforcement date.
-  - **(2)** *Effect of subsection* Nothing in this subsection revives any claim or tolls any period of limitation or time-based equitable defense that expired before the date of enactment of this Act.
+    - **(B)** the Enforcement Date.
+  - **(2)** *Effect of Subsection* Nothing in this subsection revives any claim or tolls any period of limitation or time-based equitable defense that expired before the date of enactment of this Act.
   - **(3)** *Limitation* Nothing in this subsection precludes the tolling of any period of limitations or any time-based equitable defense under any other applicable law.
 
 ## § 12. Interpretation and enforcement
 
-- **(a)** *Limited waiver of sovereign immunity* Upon and after the enforcement date, if any party to the settlement agreement brings an action in any court of competent jurisdiction over the subject matter relating only and directly to the interpretation or enforcement of the settlement agreement or this Act, and names the United States or the Pueblo as a party, then the United States, the Pueblo, or both may be added as a party to any such action, and any claim by the United States or the Pueblo to sovereign immunity from the action is waived, but only for the limited and sole purpose of such interpretation or enforcement, and no waiver of sovereign immunity is made for any action against the United States or the Pueblo that seeks money damages.
-- **(b)** *Subject matter jurisdiction not affected* Nothing in this Act shall be deemed as conferring, restricting, enlarging, or determining the subject matter jurisdiction of any court, including the jurisdiction of the court that enters the partial final decree adjudicating the Pueblo’s water rights.
+- **(a)** *Limited waiver of sovereign immunity* Upon and after the Enforcement Date, if any Party to the Settlement Agreement brings an action in any court of competent jurisdiction over the subject matter relating only and directly to the interpretation or enforcement of the Settlement Agreement or this Act, and names the United States or the Pueblo as a party, then the United States, the Pueblo, or both may be added as a party to any such action, and any claim by the United States or the Pueblo to sovereign immunity from the action is waived, but only for the limited and sole purpose of such interpretation or enforcement, and no waiver of sovereign immunity is made for any action against the United States or the Pueblo that seeks money damages.
+- **(b)** *Subject matter jurisdiction not affected* Nothing in this Act shall be deemed as conferring, restricting, enlarging, or determining the subject matter jurisdiction of any court, including the jurisdiction of the court that enters the Partial Final Decree adjudicating the Pueblo's water rights.
 - **(c)** *Regulatory authority not affected* Nothing in this Act shall be deemed to determine or limit any authority of the State or the Pueblo to regulate or administer waters or water rights now or in the future.
 
 ## § 13. Disclaimer
 
-Nothing in the settlement agreement or this Act shall be construed in any way to quantify or otherwise adversely affect the land and water rights, claims, or entitlements to water of any other Indian tribe.
+Nothing in the Settlement Agreement or this Act shall be construed in any way to quantify or otherwise adversely affect the land and water rights, claims, or entitlements to water of any other Indian tribe.
