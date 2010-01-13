@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1001
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1001
@@ -25,3 +25,9 @@ Congratulating North Central College on winning the 2009 NCAA Division III men's
 - 2010-01-12 — Introduced in House
 - 2010-01-12 — Introduced in House
 - 2010-01-12 — Referred to the House Committee on Education and Labor.
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H55-56)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1001.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Kildee moved to suspend the rules and agree to the resolution.
+- 2010-01-13 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H55)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H55)
