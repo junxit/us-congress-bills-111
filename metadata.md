@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3892
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3892
@@ -35,8 +35,22 @@ To designate the facility of the United States Postal Service located at 101 Wes
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-01-13 — [House 111-2-5](votes/house-111-2-0005.md) — On Motion to Suspend the Rules and Pass — **Passed** (356–1)
+
 ## Actions
 
 - 2009-10-21 — Introduced in House
 - 2009-10-21 — Introduced in House
 - 2009-10-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-11-18 — Committee Consideration and Mark-up Session Held.
+- 2009-11-18 — Ordered to be Reported by Unanimous Consent.
+- 2010-01-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-01-13 — Considered as unfinished business. (consideration: CR H108-109)
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H61-63)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3892.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 1 (Roll no. 5). (text: CR H62)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 1 (Roll no. 5).(text: CR H62)
