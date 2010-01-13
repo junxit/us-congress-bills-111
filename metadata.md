@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4139
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4139
@@ -31,3 +31,11 @@ To designate the facility of the United States Postal Service located at 7464 Hi
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Introduced in House
 - 2009-11-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-12-10 — Committee Consideration and Mark-up Session Held.
+- 2009-12-10 — Ordered to be Reported by Voice Vote.
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H63-64)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4139.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H63-64)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H63-64)
