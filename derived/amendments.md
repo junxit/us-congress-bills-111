@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,7 +39,3 @@ complete account of the bill's effect, which it is not.
 | — | amend | Paragraph (4) of section 711 of title 31, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “or planned” after “action taken”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 714 of title 31, United States Code (as amended by section 801 of Public Law 111–22), is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | in the first sentence, by inserting after “an agency” the following: “or any facility established by an agency (as specified in subsection (f))”; and | the bill names no machine-readable US Code section |
-| — | insert | in the second sentence, by inserting after “and any entity” the following: “or facility”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting after “used by an agency” the following: “or any facility established by an agency (as specified in subsection (f))”. | the bill names no machine-readable US Code section |

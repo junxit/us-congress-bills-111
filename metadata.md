@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2646
@@ -34,3 +34,9 @@ Government Accountability Office Improvement Act of 2010
 - 2009-12-19 — Referred sequentially to the House Committee on Financial Services for a period ending not later than Dec. 19, 2009 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(g), rule X.
 - 2009-12-19 — Reported (Amended) by the Committee on 111-387, Part I.
 - 2009-12-19 — Reported (Amended) by the Committee on 111-387, Part I.
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H65-67)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2646.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H65-66)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H65-66)
