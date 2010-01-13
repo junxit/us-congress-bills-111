@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 970
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 970
@@ -16,7 +16,7 @@ Congratulating Flint native, University of Alabama sophomore, and running back M
 
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 
-## Cosponsors (29)
+## Cosponsors (31)
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
@@ -47,6 +47,8 @@ Congratulating Flint native, University of Alabama sophomore, and running back M
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Boren, Dan [D-OK-2] (B001254)
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
 
 ## Committees (1)
 
@@ -57,3 +59,9 @@ Congratulating Flint native, University of Alabama sophomore, and running back M
 - 2009-12-15 — Introduced in House
 - 2009-12-15 — Introduced in House
 - 2009-12-15 — Referred to the House Committee on Education and Labor.
+- 2010-01-13 — Considered under suspension of the rules. (consideration: CR H51-53)
+- 2010-01-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 970.
+- 2010-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-13 — Mr. Kildee moved to suspend the rules and agree to the resolution.
+- 2010-01-13 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H51)
+- 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H51)
