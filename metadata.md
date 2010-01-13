@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3650
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3650
@@ -16,13 +16,46 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Cosponsors (5)
+## Cosponsors (38)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Mack, Connie [R-FL-14] (M001155)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 - Rep. Delahunt, Bill [D-MA-10] (D000210)
 - Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Murphy, Scott [D-NY-20] (M001178)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
 
 ## Committees (2)
 
@@ -36,3 +69,16 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 - 2009-09-25 — Referred to House Natural Resources
 - 2009-09-25 — Referred to House Science and Technology
 - 2009-09-25 — Referred to the Committee on Science and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-09-28 — Referred to the Subcommittee on Energy and Environment.
+- 2009-09-28 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2009-09-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-09-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-09-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2009-10-07 — Committee Consideration and Mark-up Session Held.
+- 2009-10-07 — Committee Consideration and Mark-up Session Held.
+- 2009-10-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-01-13 — Committee on Natural Resources discharged.
+- 2010-01-13 — Committee on Natural Resources discharged.
+- 2010-01-13 — Placed on the Union Calendar, Calendar No. 233.
+- 2010-01-13 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-396, Part I.
+- 2010-01-13 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-396, Part I.
