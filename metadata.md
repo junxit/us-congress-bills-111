@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1007
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1007
@@ -34,3 +34,9 @@ Commending the University of Alabama for winning the Bowl Championship Series Na
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Referred to the House Committee on Education and Labor.
+- 2010-01-19 — Considered under suspension of the rules. (consideration: CR H155-157)
+- 2010-01-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1007.
+- 2010-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-19 — Ms. Hirono moved to suspend the rules and agree to the resolution.
+- 2010-01-19 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H155-156)
+- 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H155-156)
