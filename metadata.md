@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 725
@@ -45,3 +45,9 @@ Indian Arts and Crafts Amendments Act of 2010
 - 2010-01-15 — Placed on the Union Calendar, Calendar No. 234.
 - 2010-01-15 — Reported by the Committee on Natural Resources. H. Rept. 111-397, Part I.
 - 2010-01-15 — Reported by the Committee on Natural Resources. H. Rept. 111-397, Part I.
+- 2010-01-19 — Considered under suspension of the rules. (consideration: CR H152-154)
+- 2010-01-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 725.
+- 2010-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-19 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2010-01-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H152-153)
+- 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H152-153)
