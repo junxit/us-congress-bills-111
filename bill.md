@@ -2,7 +2,7 @@
 legis-num: H. RES. 1008
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1008
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Catholic schools teach a diverse group of students;
 - Whereas nearly 30 percent of school children enrolled in Catholic schools are from minority backgrounds, and nearly 15 percent are non-Catholics;
 - Whereas Catholic schools produce students strongly dedicated to their faith, values, families, and communities by providing an intellectually stimulating environment rich in spiritual, character, and moral development;
-- Whereas the Catholic high school graduation rate is 99 percent, with 80 percent of graduates attending four-year colleges and 17 percent attending two-year colleges or technical schools;
+- Whereas in 2000, the Catholic high school graduation rate was 99 percent, with 80 percent of graduates attending four-year colleges and 17 percent attending two-year colleges or technical schools;
 - Whereas in the 1972 pastoral message concerning Catholic education, the National Conference of Catholic Bishops stated: “Education is one of the most important ways by which the Church fulfills its commitment to the dignity of the person and building of community. Community is central to education ministry, both as a necessary condition and an ardently desired goal. The educational efforts of the Church, therefore, must be directed to forming persons-in-community; for the education of the individual Christian is important not only to his solitary destiny, but also the destinies of the many communities in which he lives.”;
 - Whereas the week of January 31, 2010, to February 6, 2010, has been designated as Catholic Schools Week by the National Catholic Educational Association and the United States Conference of Catholic Bishops;
 - Whereas the Nation’s Catholic schools emphasize the lifelong development of moral, intellectual, physical, and social values in addition to academic excellence;

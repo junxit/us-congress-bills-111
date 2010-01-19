@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1008
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1008
@@ -16,7 +16,7 @@ Honoring the contributions of Catholic schools.
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (36)
+## Cosponsors (46)
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
@@ -54,6 +54,16 @@ Honoring the contributions of Catholic schools.
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Terry, Lee [R-NE-2] (T000459)
 
 ## Committees (1)
 
@@ -64,3 +74,9 @@ Honoring the contributions of Catholic schools.
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Referred to the House Committee on Education and Labor.
+- 2010-01-19 — Considered under suspension of the rules. (consideration: CR H160-164)
+- 2010-01-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1008.
+- 2010-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-19 — Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.
+- 2010-01-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H160)
+- 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H160)
