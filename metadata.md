@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 228
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 228
@@ -24,3 +24,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2010-01-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-01-19 — On agreeing to the resolution Agreed to without objection. (text: CR H166)
 - 2010-01-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H166)
+- 2010-01-20 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S58)
+- 2010-01-20 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S58)
