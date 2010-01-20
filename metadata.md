@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 228
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 228
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2010-01-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H166)
 - 2010-01-20 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S58)
 - 2010-01-20 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S58)
+- 2010-01-21 — Message on Senate action sent to the House.
