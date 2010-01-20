@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1017
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1017
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 3254) to approve the Taos Pueblo I
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2010-01-20 — [House 111-2-9](votes/house-111-2-0009.md) — On Ordering the Previous Question — **Passed** (239–175)
+
 ## Actions
 
 - 2010-01-19 — Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,
@@ -27,3 +31,11 @@ Providing for consideration of the bill (H.R. 3254) to approve the Taos Pueblo I
 - 2010-01-19 — Placed on the House Calendar, Calendar No. 149.
 - 2010-01-19 — The House Committee on Rules reported an original measure, H. Rept. 111-399, by Mr. McGovern.
 - 2010-01-19 — The House Committee on Rules reported an original measure, H. Rept. 111-399, by Mr. McGovern.
+- 2010-01-20 — Considered as privileged matter. (consideration: CR H206-211)
+- 2010-01-20 — Considered as unfinished business. (consideration: CR H229-230)
+- 2010-01-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 1017.
+- 2010-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-20 — On agreeing to the resolution Agreed to by voice vote. (text: CR H206-207)
+- 2010-01-20 — On ordering the previous question Agreed to by the Yeas and Nays: 239 - 175 (Roll no. 9). (consideration: CR H210, H229-230)
+- 2010-01-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1017, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2010-01-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H206-207)
