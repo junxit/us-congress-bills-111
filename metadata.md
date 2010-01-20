@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3759
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3759
@@ -21,9 +21,10 @@ BLM Contract Extension Act
 - Rep. Rehberg, Denny [R-MT-At Large] (R000571)
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ BLM Contract Extension Act
 - 2010-01-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H151)
 - 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H151)
 - 2010-01-19 — The title of the measure was amended. Agreed to without objection.
+- 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
