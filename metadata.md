@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3892
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3892
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 101 Wes
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 101 Wes
 - 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 1 (Roll no. 5). (text: CR H62)
 - 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 1 (Roll no. 5).(text: CR H62)
+- 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
