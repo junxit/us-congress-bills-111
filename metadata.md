@@ -1,7 +1,7 @@
 ---
 measure: S. 1735
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1735
@@ -28,3 +28,7 @@ Lumbee Recognition Act
 
 - 2009-10-01 — Introduced in Senate
 - 2009-10-01 — Read twice and referred to the Committee on Indian Affairs.
+- 2009-10-22 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2010-01-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-116. Additional views filed.
+- 2010-01-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-116. Additional views filed.
+- 2010-01-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
