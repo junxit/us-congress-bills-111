@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 111
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3961
@@ -66,3 +66,4 @@ An Act to extend expiring provisions of the USA PATRIOT Improvement and Reauthor
 - 2009-11-19 — The previous question was ordered pursuant to the rule. (consideration: CR H13308)
 - 2009-11-20 — Received in the Senate.
 - 2009-12-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-01-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
