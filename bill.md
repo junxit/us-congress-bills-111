@@ -1,7 +1,7 @@
 ---
 legis-num: S. 965
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -125,11 +125,11 @@ In this Act:
 
 - **(a)** *In general* Contracts issued under this section shall be in accordance with this Act and the Settlement Agreement.
 - **(b)** *Contracts for san juan-chama project water*
-  - **(1)** *In general* The Secretary shall enter into 3 repayment contracts by December 31, 2009, for the delivery of San Juan-Chama Project water in the following amounts:
+  - **(1)** *In general* The Secretary shall enter into 3 repayment contracts by December 31, 2009not later than 180 days after the date of enactment of this Act, for the delivery of San Juan-Chama Project water in the following amounts:
     - **(A)** 2,215 acre-feet/annum to the Pueblo.
     - **(B)** 366 acre-feet/annum to the Town of Taos.
     - **(C)** 40 acre-feet/annum to EPWSD.
-  - **(2)** *Requirements* Each such contract shall provide that if the conditions precedent set forth in section 10(f)(2) have not been fulfilled by December 31, 2015, the contract shall expire on that date.
+  - **(2)** *Requirements* Each such contract shall provide that if the conditions precedent set forth in section 10(f)(2) have not been fulfilled by December 31, 20152016, the contract shall expire on that date.
   - **(3)** *Applicable law* Public Law 87–483 (76 Stat. 97) applies to the contracts entered into under paragraph (1) and no preference shall be applied as a result of section 4(a) with regard to the delivery or distribution of San Juan-Chama Project water or the management or operation of the San Juan-Chama Project.
 - **(c)** *Waiver* With respect to the contract authorized and required by subsection (b)(1)(A) and notwithstanding the provisions of Public Law 87–483 (76 Stat. 96) or any other provision of law—
   - **(1)** the Secretary shall waive the entirety of the Pueblo's share of the construction costs, both principal and the interest, for the San Juan-Chama Project and pursuant to that waiver, the Pueblo's share of all construction costs for the San Juan-Chama Project, inclusive of both principal and interest shall be nonreimbursable; and
