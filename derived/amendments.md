@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1854
 congress: 111
-version: Referred in Senate
+version: Reference Change Senate
 derived: true
 ---
 
