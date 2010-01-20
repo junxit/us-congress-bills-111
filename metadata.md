@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2646
@@ -16,10 +16,11 @@ Government Accountability Office Improvement Act of 2010
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Government Accountability Office Improvement Act of 2010
 - 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H65-66)
 - 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H65-66)
+- 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
