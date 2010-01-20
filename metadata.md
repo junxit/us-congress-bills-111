@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4462
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4462
@@ -16,7 +16,7 @@ To accelerate the income tax benefits for charitable cash contributions for the 
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (155)
+## Cosponsors (163)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
@@ -173,6 +173,14 @@ To accelerate the income tax benefits for charitable cash contributions for the 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
 
 ## Committees (1)
 
@@ -183,3 +191,9 @@ To accelerate the income tax benefits for charitable cash contributions for the 
 - 2010-01-19 — Introduced in House
 - 2010-01-19 — Introduced in House
 - 2010-01-19 — Referred to the House Committee on Ways and Means.
+- 2010-01-20 — Considered under suspension of the rules. (consideration: CR H211-214)
+- 2010-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4462.
+- 2010-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-20 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
+- 2010-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H211)
+- 2010-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H211)
