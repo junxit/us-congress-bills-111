@@ -1,7 +1,7 @@
 ---
 measure: S. 2778
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2778
@@ -32,3 +32,7 @@ Economic Development Revitalization Act of 2009
 
 - 2009-11-16 — Introduced in Senate
 - 2009-11-16 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-11-18 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2010-01-20 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 111-114.
+- 2010-01-20 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 111-114.
+- 2010-01-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.

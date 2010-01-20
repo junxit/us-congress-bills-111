@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2778
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,13 @@ This Act may be cited as the “Economic Development Revitalization Act of 2009�
 
 Section 2(b) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121(b)) is amended by striking paragraph (3) and inserting the following:
 
-> - **(3)** whether suffering from long-term distress or a sudden economic dislocation, distressed communities should be encouraged to promote innovation and entrepreneurship, including, as appropriate, the support of the formation of business incubators in economically distressed areas, so as to help regions to create higher-skill, higher-wage jobs and foster the participation of those regions in the global marketplace; and
+## § 2. Findings and declarations
+
+Section 2 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121) is amended—
+
+- **(1)** in subsection (a)(3)(C), by inserting “, including the location of information technology and manufacturing jobs in the United States” after “investment”; and
+- **(2)** in subsection (b), by striking paragraph (3) and inserting the following:
+  > - **(3)** whether suffering from long-term distress or a sudden economic dislocation, distressed communities should be encouraged to promote innovation and entrepreneurship, including, as appropriate, the support of the formation of business incubators in economically distressed areas, so as to help regions to create higher-skill, higher-wage jobs and foster the participation of those regions in the global marketplace; and
 
 ## § 3. Definitions
 
@@ -75,6 +81,7 @@ Section 203 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 
 Section 207(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3147(a)) is amended—
 
 - **(1)** in paragraph (1), by inserting “, outmigration,” after “unemployment”; and
+- **(1)** in paragraph (1), by striking “or underemployment” and inserting “, outmigration, or underemployment, or in assisting in the location of information technology and manufacturing jobs in the United States”; and
 - **(2)** in paragraph (2)—
   - **(A)** in subparagraph (H), by striking “and” at the end;
   - **(B)** by redesignating subparagraph (I) as subparagraph (J); and
@@ -84,6 +91,9 @@ Section 207(a) of the Public Works and Economic Development Act of 1965 (42 U.S.
 ## § 8. Enhancement of recipient flexibility to deal with project assets
 
 - **(a)** *Particular community assistance* Section 209(c)(5) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(c)(5)) is amended by inserting “, natural resource-based, agricultural, or service sector” after “manufacturing”.
+- **(a)** *Particular community assistance* Section 209(c) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(c)) is amended by striking paragraph (5) and inserting the following:
+  > - **(5)** the loss of information technology, manufacturing, natural resource-based, agricultural, or service sector jobs, for reinvesting in and diversifying the economies of the communities.
+
 - **(b)** *Revolving loan fund program flexibility* Section 209(d) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(d)) is amended—
   - **(1)** by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively;
   - **(2)** by inserting after paragraph (1) the following:

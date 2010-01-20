@@ -1,7 +1,7 @@
 ---
 measure: S. 2778
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 0 executed, 34 stated and not applied.
+38 amendatory instructions. 0 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 2(b) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121(b)) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(3)(C), by inserting “, including the location of information technology and manufacturing jobs in the United States” after “investment”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -49,10 +51,12 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “to 75 percent of the cost of the project, and may increase” after “subsection (a)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “, outmigration,” after “unemployment”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “or underemployment” and inserting “, outmigration, or underemployment, or in assisting in the location of information technology and manufacturing jobs in the United States”; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (H), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (I) as subparagraph (J); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 209(c)(5) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(c)(5)) is amended by inserting “, natural resource-based, agricultural, or service sector” after “manufacturing”. | the bill names no machine-readable US Code section |
+| — | replace | Section 209(c) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(c)) is amended by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) of paragraph (5) (as redesignated by paragraph (1)), by striking “paragraph (2)(C)” and inserting “paragraph (3)(C)”; and | the bill names no machine-readable US Code section |
