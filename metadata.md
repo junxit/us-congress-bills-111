@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4173
@@ -16,7 +16,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (8)
+## Committees (9)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
@@ -26,6 +26,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (16)
 
@@ -290,3 +291,4 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2009-12-11 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H14803)
 - 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
 - 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -543,7 +543,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Paragraphs (1) through (3) of section 9(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78i(b)(1)–(3)) are amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 is amended by inserting after section 10A (15 U.S.C. 78j–1) the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15E (15 U.S.C. 78o–7) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 13 the following section: | the bill names no machine-readable US Code section |
 | — | insert | Section 13(d)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(d)(1)) is amended by inserting “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based s… | the bill names no machine-readable US Code section |
@@ -926,7 +926,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding after section 4C the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 19 of the Securities Act of 1933 (15 U.S.C. 77s) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively, and inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 38 of the Investment Company Act of 1940 (15 U.S.C. 80a–38) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 38 of the Investment Company Act of 1940 (15 U.S.C. 80a–38) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 211 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–11) (as amended by section 5008(2)) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) (as amended by section 1951(c)) is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 211 of the Investment Advisers Act of 1940, as amended by section 7102(d), is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
@@ -943,9 +943,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (2)(B), by inserting after “officer” the following: “, or within such shorter time as the Commission may establish by rule”. | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (a)(1), by adding at the end the following: “Each person with custody or use of a registered investment company’s securities, deposits, or credits shall maintain and preserve all records that relate to the person’s custody … | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o), as amended by section 7103, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 205 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–5) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 205 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–5) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding after section 21E the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Each of the following provisions is amended by inserting “and section 21F of the Securities Exchange Act of 1934” after “the Sarbanes-Oxley Act of 2002”: | the bill names no machine-readable US Code section |
 | — | insert | in section 21(d)(3)(C)(i) (15 U.S.C. 78u(d)(3)(C)(i)), by inserting “and section 21F of this title” after “the Sarbanes-Oxley Act of 2002”; | the bill names no machine-readable US Code section |
@@ -985,7 +985,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “such officer or director” and inserting “such person”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “a person serving or acting” and inserting “a person who is, or at the time of the alleged misconduct was, serving or acting”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “such person so serves or acts” and inserting “such person so serves or acts, or at the time of the alleged misconduct, so served or acted”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2(a)(9) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 2(a)(9) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(9)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 21(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended by striking “or a person associated with such a firm” and inserting “, a person associated with such a firm, or, as to any act, practice, or omissio… | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “the supervisory personnel” and inserting “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “No associated person” and inserting “No current or former supervisory person”; and | the bill names no machine-readable US Code section |
@@ -1005,7 +1005,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The district” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 17(g) of the Investment Company Act of 1940 (15 U.S.C. 80a–17(g)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 17(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 17(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 31(b) of the Investment Company Act of 1940 (15 U.S.C. 80a–30(b)), as amended by section 7106(a)(2), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–4), as amended by section 7106(b), is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 31(b)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–30) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -1087,10 +1087,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after clause (iv) the following new clause: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (vii) as clause (vi); and | the bill names no machine-readable US Code section |
 | — | replace | in clause (vi), as redesignated, by striking “two completed fiscal years” and inserting “five completed fiscal years”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 22(e) of the Investment Company Act of 1940 (15 U.S.C. 80a–22(e)) is amended by adding at the end the following: “The Commission may, by rules and regulations, limit the extent to which a registered open-end investment company ma… | the bill names no machine-readable US Code section |
+| — | amend | Section 22(e) of the Investment Company Act of 1940 (15 U.S.C. 80a–22(e)) is amended by adding at the end the following: “The Commission may, by rules and regulations, limit the extent to which a registered open-end investment company ma… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 13(f) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f)) is amended by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6), respectively, and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d), (e), (f), (g), (h), and (i) as subsections (e), (f), (g), (h), (i), and (j), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e), (f), (g), (h), and (i) as subsections (f), (g), (h), (i), and (j), respectively; and | the bill names no machine-readable US Code section |
@@ -1142,7 +1142,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subclause (IV), by striking the comma and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subclause (IV) the following new subclause: | the bill names no machine-readable US Code section |
 | — | insert | Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a)) is amended by inserting after paragraph (16) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 105(b)(5) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 105(b)(5) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 105(b)(5)(A) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A)) is amended by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (g); and | the bill names no machine-readable US Code section |
@@ -1159,7 +1159,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 101(a), by striking “Public Company Accounting Oversight Board” and inserting “Auditing Oversight Board”; and | the bill names no machine-readable US Code section |
 | — | replace | in the heading of title I, by striking “Public Company Accounting Oversight Board” and inserting “Auditing Oversight Board”. | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (as amended by section 3204) is amended by inserting after section 15F (15 U.S.C. 78o–7) the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) (as amended by section 3201(6)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | amend | Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) (as amended by section 3201(6)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | in section 15(b)(4)(B)(ii) (15 U.S.C. 78o(b)(4)(B)(ii)), by inserting “municipal finance adviser,” after “nationally recognized statistical rating organization,”; | the bill names no machine-readable US Code section |
 | — | insert | in section 15(b)(4)(C) (15 U.S.C. 78o(b)(4)(C)), by inserting “municipal finance adviser,” after “nationally recognized statistical rating organization,”; and | the bill names no machine-readable US Code section |
 | — | insert | in section 17(a)(1) (15 U.S.C. 78q(a)(1)), by inserting “registered municipal financial adviser,” after “nationally recognized statistical rating organization,”. | the bill names no machine-readable US Code section |
@@ -1319,7 +1319,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “(a)”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 108 (12 U.S.C. 2707), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | in section 108 (12 U.S.C. 2707), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in the section heading, by striking “authorization and”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (a); | the bill names no machine-readable US Code section |
 | — | strike | by striking “(b)”; and | the bill names no machine-readable US Code section |
