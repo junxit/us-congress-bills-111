@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4139
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4139
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 7464 Hi
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 7464 Hi
 - 2010-01-13 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H63-64)
 - 2010-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H63-64)
+- 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
