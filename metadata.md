@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4154
 congress: 111
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4154
@@ -66,3 +66,4 @@ To amend the Internal Revenue Code of 1986 to repeal the new carryover basis rul
 - 2009-12-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H13493-13494; text: CR H13493)
 - 2009-12-03 — The previous question was ordered pursuant to the rule. (consideration: CR H13491)
 - 2009-12-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-01-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.
