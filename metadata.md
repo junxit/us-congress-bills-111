@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2611
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2611
@@ -23,9 +23,10 @@ To amend the Homeland Security Act of 2002 to authorize the Securing the Cities 
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend the Homeland Security Act of 2002 to authorize the Securing the Cities 
 - 2010-01-20 — Ms. Clarke moved to suspend the rules and pass the bill, as amended.
 - 2010-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H225)
 - 2010-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H225)
+- 2010-01-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
