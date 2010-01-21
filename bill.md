@@ -1,7 +1,7 @@
 ---
 legis-num: S.J. RES. 25
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 

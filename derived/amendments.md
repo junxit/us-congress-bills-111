@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 25
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
