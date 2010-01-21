@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4462
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4462
@@ -201,3 +201,9 @@ To accelerate the income tax benefits for charitable cash contributions for the 
 - 2010-01-21 — Message on Senate action sent to the House.
 - 2010-01-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S105-106)
 - 2010-01-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S105-106)
+- 2010-01-22 — Became Public Law No: 111-126.
+- 2010-01-22 — Became Public Law No: 111-126.
+- 2010-01-22 — Presented to President.
+- 2010-01-22 — Presented to President.
+- 2010-01-22 — Signed by President.
+- 2010-01-22 — Signed by President.
