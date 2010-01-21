@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 375
@@ -28,3 +28,7 @@ Crow Tribe Water Rights Settlement Act of 2009
 
 - 2009-02-04 — Introduced in Senate
 - 2009-02-04 — Read twice and referred to the Committee on Indian Affairs.
+- 2009-09-10 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-01-21 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 111-118.
+- 2010-01-21 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 111-118.
+- 2010-01-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.

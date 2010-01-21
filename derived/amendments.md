@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | repeal | this Act is repealed effective January 1, 2015, and any action taken by the Secretary and any contract or agreement pursuant to the authority provided under any provision of this Act shall be void; | the bill names no machine-readable US Code section |
+| — | repeal | this Act is repealed effective January 1, 2016, and any action taken by the Secretary and any contract or agreement pursuant to the authority provided under any provision of this Act shall be void; | the bill names no machine-readable US Code section |
