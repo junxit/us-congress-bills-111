@@ -2,7 +2,7 @@
 legis-num: H. RES. 1021
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1021
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on January 12, 2010, a 7.0 magnitude earthquake struck the country of Haiti;
-- Whereas, according to the United States Geological Survey (USGS), the earthquake epicenter was located approximately 10 miles southwest of the capital, Port-au-Prince;
+- Whereas on January 12, 2010, a 7.0 magnitude earthquake struck the country of Haiti;
+- Whereas according to the United States Geological Survey (USGS) the earthquake epicenter was located approximately 10 miles southwest of the capital, Port-au-Prince;
 - Whereas the earthquake has been followed by dangerous aftershocks, including two of 5.9 and 5.5 magnitude, and with the most severe to date, at 6.1, coming on January 20, 2010;
 - Whereas casualty estimates, still being compiled, as well as infrastructure damage, including to roads, ports, hospitals, and residential dwellings, place this earthquake as the worst cataclysm to hit Haiti in over two centuries;
 - Whereas an estimated 3,000,000 people have been directly affected by the disaster in Haiti, nearly one-third of the country’s population, who are currently at risk of long-term displacement and vulnerability;

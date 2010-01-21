@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1021
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1021
@@ -16,7 +16,7 @@ Expressing condolences to and solidarity with the people of Haiti in the afterma
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Cosponsors (49)
+## Cosponsors (53)
 
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
@@ -67,11 +67,19 @@ Expressing condolences to and solidarity with the people of Haiti in the afterma
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
 ## Committees (2)
 
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-01-21 — [House 111-2-15](votes/house-111-2-0015.md) — On Motion to Suspend the Rules and Agree — **Passed** (411–1)
 
 ## Actions
 
@@ -84,3 +92,7 @@ Expressing condolences to and solidarity with the people of Haiti in the afterma
 - 2010-01-20 — Referred to House Financial Services
 - 2010-01-20 — Referred to House Foreign Affairs
 - 2010-01-20 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-01-21 — Considered as unfinished business. (consideration: CR H299-300)
+- 2010-01-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-21 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 15). (text: CR 1/20/2010 H231-232)
+- 2010-01-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 15).(text: CR 1/20/2010 H231-232)
