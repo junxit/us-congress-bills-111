@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “White Mountain Apache Tribe Water Rights Quantification Act of 2009”.
+This Act may be cited as the “White Mountain Apache Tribe Water Rights Quantification Act of 2010”.
 
 ## § 2. Findings and purposes
 
@@ -285,7 +285,7 @@ In this Act:
     - **(D)** the State funds described in subparagraph 13.3 of the Agreement have been deposited in the White Mountain Apache Tribe Water Rights Settlement Subaccount;
     - **(E)** the Secretary has issued a record of decision approving the construction of the WMAT rural water system in a configuration substantially similar to that described in section 7; and
     - **(F)** the judgments and decrees substantially in the form of those attached to the Agreement as exhibits 12.9.6.1 and 12.9.6.2 have been approved by the respective trial courts.
-  - **(2)** *Failure of enforceability date to occur* If, because of the failure of the enforceability date to occur by October 31, 2015, this section does not become effective, the Tribe and its members, and the United States, acting in the capacity of trustee for the Tribe and its members, shall retain the right to assert past, present, and future water rights claims and claims for injury to water rights for the reservation and off-reservation trust land.
+  - **(2)** *Failure of enforceability date to occur* If, because of the failure of the enforceability date to occur by April 30, 2020, this section does not become effective, the Tribe and its members, and the United States, acting in the capacity of trustee for the Tribe and its members, shall retain the right to assert past, present, and future water rights claims and claims for injury to water rights for the reservation and off-reservation trust land.
   - **(3)** *No rights to water* On the occurrence of the enforceability date, all land held by the United States in trust for the Tribe and its members shall have no rights to water other than those specifically quantified for the Tribe and the United States, acting in the capacity of trustee for the Tribe and its members, for the reservation and off-reservation trust land pursuant to paragraph 4.0 of the Agreement.
 - **(e)** *United States enforcement authority* Nothing in this Act or the Agreement affects any right of the United States to take any action, including environmental actions, under any laws (including regulations and the common law) relating to human health, safety, or the environment.
 - **(f)** *No effect on water rights* Except as provided in paragraphs (1)(A)(ii), (1)(B)(ii), (3)(A)(ii), and (3)(B)(ii) of subsection (a), nothing in this Act affects any rights to water of the Tribe, its members, or the United States acting as trustee for the Tribe and members, for land outside the boundaries of the reservation or the off-reservation trust land.
@@ -297,14 +297,15 @@ In this Act:
 ## § 10. White Mountain Apache Tribe Water Rights Settlement Subaccount
 
 - **(a)** *Establishment* There is established in the Lower Colorado River Basin Development Fund a subaccount to be known as the “White Mountain Apache Tribe Water Rights Settlement Subaccount”, consisting of—
-  - **(1)** the amounts appropriated to the subaccount pursuant to subsections (a) and (d) of section 12, as applicable; and
-  - **(2)** such other amounts as are available, including the funds provided in subparagraph 13.3 of the Agreement.
+  - **(1)** the amounts made available under subsection (e);
+  - **(2)** the amounts appropriated to the subaccount pursuant to subsections (a) and (d) of section 12, as applicable; and
+  - **(3)** such other amounts as are available including the funds provided in subparagraph 13.3 of the Agreement.
 - **(b)** *Expenditures and withdrawals*
   - **(1)** *Contracts*
     - **(A)** *In general* The Tribe may withdraw any portion of the White Mountain Apache Tribe Water Rights Settlement Subaccount on approval by the Secretary pursuant to the terms of an agreement entered into under section 7(g).
     - **(B)** *Requirements* An agreement entered into under section 7(g) shall require that the Tribe shall use the amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount only for the planning, design, and construction of the rural water system, including such sums as are necessary—
       - **(i)** for the Bureau to carry out oversight of the planning, design, and construction of the rural water system;
-      - **(ii)** to repay any outstanding balance on the loan authorized by the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110-390; 122 Stat. 4191); and
+      - **(ii)** to repay any outstanding balance on the loan authorized by the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110–390; 122 Stat. 4191); and
       - **(iii)** to carry out all required environmental compliance activities associated with the planning, design, and construction of the rural water system.
   - **(2)** *Enforcement* The Secretary may pursue such judicial remedies and carry out such administrative actions as are necessary to enforce an agreement described in paragraph (1) to ensure that amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount are used in accordance with this section.
   - **(3)** *Liability* On withdrawal by the Tribe of amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount, the Secretary and the Secretary of the Treasury shall not retain liability for the expenditure or investment of those amounts.
@@ -318,7 +319,15 @@ In this Act:
 - **(c)** *Prohibition on per capita distributions* No amount of the principal, or the interest or income accruing on the principal, of the White Mountain Apache Tribe Water Rights Settlement Subaccount shall be distributed to any member of the Tribe on a per capita basis.
 - **(d)** *Availability of funds*
   - **(1)** *In general* Amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount shall not be available for expenditure or withdrawal by the Tribe until the enforceability date.
-  - **(2)** *Investment* Beginning on the date described in section 9(d), the Secretary shall invest the amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount in accordance with section 403(f)(4) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)(4)).
+  - **(2)** *Investment* The Secretary shall invest the amounts in the White Mountain Apache Tribe Water Rights Settlement Subaccount in accordance with section 403(f)(4) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)(4)).
+  - **(3)** *Use of interest* The interest accrued on amounts invested under paragraph (2) shall not be available for expenditure or withdrawal until the later of—
+    - **(A)** November 1, 2019; and
+    - **(B)** the enforceability date.
+- **(e)** *Lower Colorado river basin development fund*
+  - **(1)** *In general* Of amounts in the Lower Colorado River Basin Development Fund made available under section 403(f)(2)(D)(vi) of the Colorado River Basin Project Act (43 U.S.C. 1543 (f)(2)(D)(vi)), an amount equal to the difference between the balance of the White Mountain Apache Tribe Settlement Subaccount (as of November 1, 2019), and the amount authorized to be appropriated under section 12(a)(1), but not to exceed $100,000,000, shall be deposited, without further appropriation, in the White Mountain Apache Tribe Settlement Subaccount.
+  - **(2)** *Availability of funds* The funds authorized to be deposited in the White Mountain Apache Tribe Settlement Subaccount pursuant to paragraph (1) shall not be available for expenditure or withdrawal until the later of—
+    - **(A)** November 1, 2019; and
+    - **(B)** the enforceability date.
 
 ## § 11. Miscellaneous provisions
 
@@ -363,7 +372,7 @@ In this Act:
   - **(3)** *Acceptance of land in trust status*
     - **(A)** *In general* If the Tribe acquires legal fee title to land that is located within the exterior boundaries of the reservation, the Secretary shall accept the land in trust status for the benefit of the Tribe in accordance with applicable Federal law (including regulations) for such real estate acquisitions.
     - **(B)** *Reservation status* Land taken or held in trust by the Secretary under paragraph (3), or restored to the reservation as a result of resolution of a boundary dispute between the Tribe and the United States, shall be deemed to be part of the reservation.
-- **(h)** *Conforming amendment* Section 3(b)(2) of the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110–390; 122 Stat. 4191) is amended by striking “2013” and inserting “2016”.
+- **(h)** *Conforming amendment* Section 3(b)(2) of the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110–390; 122 Stat. 4191) is amended by striking “January 1, 2013” and inserting “May 1, 2020”.
 
 ## § 12. Authorization of appropriations
 
@@ -375,9 +384,7 @@ In this Act:
     - **(A)** the WMAT Settlement Fund established by paragraph (2)(A); and
     - **(B)** the WMAT Maintenance Fund established by paragraph (3)(A).
   - **(2)** *WMAT Settlement Fund*
-    - **(A)** *Establishment* There is established in the Treasury of the United States a fund to be known as the “WMAT Settlement Fund”, for use by the Tribe in accordance with subparagraph (C), which shall consist of—
-      - **(i)** such amounts as are deposited in the fund under subparagraph (B); and
-      - **(ii)** any interest accrued on the deposited amounts.
+    - **(A)** *Establishment* There is established in the Treasury of the United States a fund to be known as the “WMAT Settlement Fund”, consisting of such amounts as are deposited in the fund under subparagraph (B), together with any interest accrued on those amounts, for use by the Tribe in accordance with subparagraph (C).
     - **(B)** *Transfers to fund* There is authorized to be appropriated to the Secretary $113,500,000 for deposit in the WMAT Settlement Fund, of which not less than $4,950,000 shall be used for the rehabilitation of existing irrigation systems.
     - **(C)** *Use of funds* The Tribe shall use amounts in the WMAT Settlement Fund for any of the following purposes:
       - **(i)** Fish production, including hatcheries.
@@ -409,14 +416,14 @@ In this Act:
 - **(d)** *Emergency Fund for Indian Safety and Health*
   - **(1)** *Definition of Emergency Fund for Indian Safety and Health* In this subsection, the term Emergency Fund for Indian Safety and Health means the Emergency Fund for Indian Safety and Health established by section 601(a) of the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008 (22 U.S.C. 7601 et seq.).
   - **(2)** *Initial transfer* Not later than 90 days after the date of enactment of this Act, such amounts as are available, but not to exceed $50,000,000, in the Emergency Fund for Indian Safety and Health shall be transferred to the White Mountain Apache Tribe Water Rights Settlement Subaccount.
-  - **(3)** *Subsequent transfer* Effective beginning on January 1, 2012, if the Secretary determines that, on an annual basis, the deadline described in section 9(d)(2) is not likely to be met because the amount authorized by subsection (a) has not been appropriated and deposited in the White Mountain Apache Tribe Water Rights Settlement Subaccount, not more than $50,000,000 of the amounts in the Emergency Fund for Indian Safety and Health shall be transferred to the White Mountain Apache Tribe Water Rights Settlement Subaccount, as necessary to complete the WMAT rural water system project.
+  - **(3)** *Subsequent transfer* Effective beginning on January 1, 2012, if the Secretary determines that, on an annual basis, the amount authorized to be appropriated under subsection (a) will not be appropriated and deposited in the White Mountain Apache Tribe Water Rights Settlement Subaccount by October 31, 2012, not more than $50,000,000 of the amounts in the Emergency Fund for Indian Safety and Health shall be transferred to the White Mountain Apache Tribe Water Rights Settlement Subaccount, as necessary to complete the WMAT rural water system project.
   - **(4)** *Limitation* The total amount transferred from the Emergency Fund for Indian Safety and Health to the White Mountain Apache Tribe Water Rights Settlement Subaccount under paragraphs (2) and (3) shall not exceed $100,000,000.
 - **(e)** *Operation, maintenance, and replacement*
   - **(1)** *In general* There is authorized to be appropriated to the Secretary $2,500,000 for the operation, maintenance, and replacement costs of the WMAT rural water system, to remain available until the conditions described in subsection (g) have been met.
-  - **(2)** *Subsequent funding* Beginning on January 1, 2021, the Tribe or the Secretary, as applicable, may use amounts deposited in the WMAT Maintenance Fund under subsection (b)(3)(B) for operation, maintenance, and replacement costs of the WMAT rural water system.
+  - **(2)** *Subsequent funding* Beginning on November 1, 2019, or the enforceability date, whichever is later, the Tribe or the Secretary, as applicable, may use amounts deposited in the WMAT Maintenance Fund under subsection (b)(3)(B) for operation, maintenance, and replacement costs of the WMAT rural water system.
 - **(f)** *Cost overruns* On a determination by the Secretary that the amount authorized to be appropriated under subsection (a) is not sufficient for the completion of the WMAT rural water system, there are authorized to be appropriated such sums as are necessary, but not to exceed an additional $25,000,000, to complete the WMAT rural water system, to be derived by transfer from the amounts authorized to be appropriated to the Secretary for deposit in the WMAT Settlement Fund under subsection (b)(2)(B) in such amounts as the Secretary, in concurrence with the Tribe, determines to be appropriate.
 - **(g)** *Conditions* The amounts authorized to be appropriated to the Secretary for deposit in the WMAT Maintenance Fund, together with any interest accrued thereon, under subsection (b)(3), and any interest accruing on the WMAT Settlement Fund under subsection (b)(2), shall not be available for expenditure or withdrawal until the later of—
-  - **(1)** December 31, 2020; and
+  - **(1)** November 1, 2019; and
   - **(2)** the date on which the Secretary determines that the conditions described in section 9(d) have been met.
 
 ## § 13. Antideficiency
@@ -425,9 +432,9 @@ The United States shall not be liable for failure to carry out any obligation or
 
 ## § 14. Repeal on failure of enforceability date
 
-If the Secretary fails to publish in the Federal Register a statement of findings as required under section 9(d) by not later than October 31, 2015—
+If the Secretary fails to publish in the Federal Register a statement of findings as required under section 9(d) by not later than April 30, 2020—
 
-- **(1)** effective beginning on November 1, 2015—
+- **(1)** effective beginning on May 1, 2020—
   - **(A)** this Act is repealed; and
   - **(B)** any action carried out by the Secretary, and any contract entered into, pursuant to this Act shall be void;
 - **(2)** any amounts appropriated under subsections (a), (b), (d), and (e) of section 12, together with any interest accrued on those amounts, shall immediately revert to the general fund of the Treasury; and

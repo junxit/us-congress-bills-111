@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 3(b)(2) of the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110–390; 122 Stat. 4191) is amended by striking “2013” and inserting “2016”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3(b)(2) of the White Mountain Apache Tribe Rural Water System Loan Authorization Act (Public Law 110–390; 122 Stat. 4191) is amended by striking “January 1, 2013” and inserting “May 1, 2020”. | the bill names no machine-readable US Code section |
 | — | repeal | this Act is repealed; and | the bill names no machine-readable US Code section |
