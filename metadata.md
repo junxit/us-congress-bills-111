@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4462
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4462
@@ -197,3 +197,7 @@ To accelerate the income tax benefits for charitable cash contributions for the 
 - 2010-01-20 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
 - 2010-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H211)
 - 2010-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H211)
+- 2010-01-21 — Cleared for White House.
+- 2010-01-21 — Message on Senate action sent to the House.
+- 2010-01-21 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S105-106)
+- 2010-01-21 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S105-106)
