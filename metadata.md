@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4095
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4095
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 9727 An
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 9727 An
 - 2010-01-20 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H202)
 - 2010-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H202)
+- 2010-01-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
