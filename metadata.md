@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 158
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 158
@@ -70,9 +70,10 @@ Expressing support for the designation of an Early Detection Month for breast ca
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Expressing support for the designation of an Early Detection Month for breast ca
 - 2010-01-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-01-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 1/20/2010 H204)
 - 2010-01-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 1/20/2010 H204)
+- 2010-01-22 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
