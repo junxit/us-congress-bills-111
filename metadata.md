@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 25
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 25
@@ -38,3 +38,16 @@ A joint resolution granting the consent and approval of Congress to amendments m
 - 2010-01-22 — Message on Senate action sent to the House.
 - 2010-01-22 — Received in the House.
 - 2010-01-22 — Referred to the House Committee on the Judiciary.
+- 2010-04-14 — Cleared for White House.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2521-2522)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 25.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Conyers moved to suspend the rules and pass the resolution.
+- 2010-04-14 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H2521-2522)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H2521-2522)
+- 2010-04-16 — Presented to President.
+- 2010-04-16 — Presented to President.
+- 2010-04-26 — Became Public Law No: 111-160.
+- 2010-04-26 — Became Public Law No: 111-160.
+- 2010-04-26 — Signed by President.
+- 2010-04-26 — Signed by President.
