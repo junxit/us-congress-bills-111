@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 158
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 158
@@ -91,3 +91,8 @@ Expressing support for the designation of an Early Detection Month for breast ca
 - 2010-01-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 1/20/2010 H204)
 - 2010-01-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 1/20/2010 H204)
 - 2010-01-22 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-02-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-02-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S714)
+- 2010-02-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S714)
+- 2010-02-24 — Message on Senate action sent to the House.
