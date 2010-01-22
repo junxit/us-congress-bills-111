@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3250
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3250
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 1210 We
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To designate the facility of the United States Postal Service located at 1210 We
 - 2010-01-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 1/20/2010 H198)
 - 2010-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 1/20/2010 H198)
+- 2010-01-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
