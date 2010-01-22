@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 25
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 25
@@ -22,9 +22,10 @@ A joint resolution granting the consent and approval of Congress to amendments m
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A joint resolution granting the consent and approval of Congress to amendments m
 - 2010-01-21 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(text: CR S132)
 - 2010-01-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S131-132)
 - 2010-01-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S131-132)
+- 2010-01-22 — Message on Senate action sent to the House.
+- 2010-01-22 — Received in the House.
+- 2010-01-22 — Referred to the House Committee on the Judiciary.
