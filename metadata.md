@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 395
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 395
@@ -28,3 +28,7 @@ A resolution commemorating the 150th anniversary of the founding of the Colorado
 
 - 2010-01-22 — Introduced in Senate
 - 2010-01-22 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S155-156)
+- 2010-01-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S204)
+- 2010-01-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S204)
+- 2010-01-25 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S203-204)
+- 2010-01-25 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S203-204)
