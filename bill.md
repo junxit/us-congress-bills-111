@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 373
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -26,7 +26,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas digital abuse and “sexting” is becoming a new frontier for teen dating abuse;
 - Whereas 1 in 4 teens in a relationship say they have been called names, harassed, or put down by their partner through cellphones and texting;
 - Whereas 3 in 10 young people have sent or received nude pictures of other young people on their cell or online, and 61 percent who have “sexted” report being pressured to do so at least once;
-- Whereas targets of digital abuse are almost 3 times as likely to contemplate suicide as those who haven not encountered such abuse (8 percent vs. 3 percent), and targets of digital abuse are nearly 3 times more likely to have considered dropping out of school;
+- Whereas targets of digital abuse are almost 3 times as likely to contemplate suicide as those who have not encountered such abuse (8 percent vs. 3 percent), and targets of digital abuse are nearly 3 times more likely to have considered dropping out of school;
 - Whereas the severity of violence among intimate partners has been shown to be greater in cases where the pattern of violence has been established in adolescence;
 - Whereas primary prevention programs are a key part of addressing teen dating violence and many successful community examples include education, community outreach, and social marketing campaigns that also understand the cultural appropriateness of programs;
 - Whereas skilled assessment and intervention programs are also necessary for youth victims and abusers; and
