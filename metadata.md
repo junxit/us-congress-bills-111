@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1029
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1029
@@ -16,7 +16,7 @@ Expressing support for designation of the week of February 1 through February 5,
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Cosponsors (37)
+## Cosponsors (39)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
@@ -55,6 +55,8 @@ Expressing support for designation of the week of February 1 through February 5,
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
 
 ## Committees (1)
 
@@ -65,3 +67,9 @@ Expressing support for designation of the week of February 1 through February 5,
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Referred to the House Committee on Education and Labor.
+- 2010-01-26 — Considered under suspension of the rules. (consideration: CR H342-344)
+- 2010-01-26 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1029.
+- 2010-01-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-26 — Ms. Woolsey moved to suspend the rules and agree to the resolution.
+- 2010-01-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H342)
+- 2010-01-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H342)
