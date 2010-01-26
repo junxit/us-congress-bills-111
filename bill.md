@@ -2,7 +2,7 @@
 legis-num: H. RES. 1003
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1003
@@ -24,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas one of the goals, in addition to fostering continuing influenza vaccination, of National Influenza Vaccination Week is to engage H1N1 at-risk audiences who are not yet vaccinated;
 - Whereas when the vaccine was first made available, the CDC’s Advisory Committee on Immunization Practices (ACIP) recommended that vaccination efforts should focus first on people in five target groups who are at higher risk for the 2009 H1N1 influenza or related complications;
 - Whereas the five target groups for H1N1 are pregnant women, people who live with or provide care for infants younger than 6 months, health care and emergency medical services personnel, people 6 months through 24 years of age, and people 25 years through 64 years of age who have certain medical conditions that put them at higher risk for influenza-related complications;
-- Whereas Monica Rodriguez, a pregnant mother from El Monte, California, could have prevented her death if she was able to get vaccinated;
+- Whereas Monica Rodriguez, a pregnant mother from El Monte, California, could likely have prevented her death if she was able to get vaccinated;
 - Whereas January 13 is Families Flu Vaccination Day and will highlight the importance of the 2009 H1N1 vaccination for pregnant women, children, and caregivers of children less than 6 months of age;
 - Whereas H1N1 flu shots are widely available and everyone, even those not in the high-risk groups are urged to get vaccinated;
 - Whereas the U.S. Department of Health and Human Services as well as State and local public health departments and other partners, such as Families Fighting Flu, are planning National Influenza Vaccination Week events around the country and have additional information available at www.cdc.gov/flu/NIVW/;
