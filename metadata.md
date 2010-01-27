@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 980
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 980
@@ -34,3 +34,8 @@ Of inquiry directing the Secretary of Homeland Security to transmit to the House
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Referred to the House Committee on Homeland Security.
+- 2010-01-20 — Committee Consideration and Mark-up Session Held.
+- 2010-01-20 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2010-01-27 — Placed on the House Calendar, Calendar No. 152.
+- 2010-01-27 — Reported adversely by the Committee on Homeland Security. H. Rept. 111-403.
+- 2010-01-27 — Reported adversely by the Committee on Homeland Security. H. Rept. 111-403.
