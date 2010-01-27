@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1038
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1038
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 3726) to establish the Castle Nuge
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2010-01-27 — [House 111-2-20](votes/house-111-2-0020.md) — On Agreeing to the Resolution — **Passed** (234–174)
+
 ## Actions
 
 - 2010-01-26 — Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 3726) to establish the Castle Nuge
 - 2010-01-26 — Placed on the House Calendar, Calendar No. 150.
 - 2010-01-26 — The House Committee on Rules reported an original measure, H. Rept. 111-401, by Mr. Polis (CO).
 - 2010-01-26 — The House Committee on Rules reported an original measure, H. Rept. 111-401, by Mr. Polis (CO).
+- 2010-01-27 — Considered as privileged matter. (consideration: CR H393-400)
+- 2010-01-27 — DEBATE - The House proceeded with one hour of debate on H. Res. 1038.
+- 2010-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-27 — On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 174 (Roll no. 20). (text: CR H393-394)
+- 2010-01-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 174 (Roll no. 20).(text: CR H393-394)
+- 2010-01-27 — The previous question was ordered without objection. (consideration: CR H399)
