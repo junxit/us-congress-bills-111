@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3726
@@ -20,6 +20,11 @@ Castle Nugent National Historic Site Establishment Act of 2010
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2010-01-20 — [House 111-2-10](votes/house-111-2-0010.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (241–173)
+- 2010-01-27 — [House 111-2-23](votes/house-111-2-0023.md) — On Passage — **Passed** (240–175)
+
 ## Actions
 
 - 2009-10-06 — Introduced in House
@@ -33,3 +38,21 @@ Castle Nugent National Historic Site Establishment Act of 2010
 - 2010-01-12 — Placed on the Union Calendar, Calendar No. 230.
 - 2010-01-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-393.
 - 2010-01-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-393.
+- 2010-01-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-01-19 — Considered under suspension of the rules. (consideration: CR H149-151; text of measure as reported in House: CR H149)
+- 2010-01-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3726.
+- 2010-01-19 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2010-01-20 — Considered as unfinished business. (consideration: CR H230)
+- 2010-01-20 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 173 (Roll no. 10).
+- 2010-01-20 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 173 (Roll no. 10).
+- 2010-01-26 — Rules Committee Resolution H. Res. 1038 Reported to House. Rule provides for consideration of H.R. 3726 and H.R. 4474. Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
+- 2010-01-27 — Considered as unfinished business. (consideration: CR H411)
+- 2010-01-27 — Considered under the provisions of rule H. Res. 1038. (consideration: CR H405-410)
+- 2010-01-27 — DEBATE - The House proceeded with one hour of debate on H.R. 3726.
+- 2010-01-27 — House amendment offered
+- 2010-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-01-27 — On passage Passed by the Yeas and Nays: 240 - 175 (Roll no. 23). (text: CR H405)
+- 2010-01-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3726, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Hastings of Washington demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2010-01-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 175 (Roll no. 23).(text: CR H405)
+- 2010-01-27 — Rule provides for consideration of H.R. 3726 and H.R. 4474. Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
+- 2010-01-27 — The previous question was ordered pursuant to the rule. (consideration: CR H410)
