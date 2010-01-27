@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4061
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4061
@@ -37,3 +37,8 @@ Cybersecurity Enhancement Act of 2010
 - 2009-11-07 — Introduced in House
 - 2009-11-07 — Introduced in House
 - 2009-11-07 — Referred to the House Committee on Science and Technology.
+- 2009-11-18 — Committee Consideration and Mark-up Session Held.
+- 2009-11-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-01-27 — Placed on the Union Calendar, Calendar No. 236.
+- 2010-01-27 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-405.
+- 2010-01-27 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-405.
