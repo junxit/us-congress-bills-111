@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1387
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1387
@@ -30,3 +30,8 @@ Electronic Message Preservation Act
 - 2009-03-09 — Introduced in House
 - 2009-03-09 — Introduced in House
 - 2009-03-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-03-10 — Committee Consideration and Mark-up Session Held.
+- 2009-03-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-01-27 — Placed on the Union Calendar, Calendar No. 237.
+- 2010-01-27 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-406.
+- 2010-01-27 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-406.
