@@ -1,0 +1,66 @@
+---
+legis-num: H.R. 4537
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4537
+
+> To amend the Securities Exchange Act of 1934 to require the express authorization of a majority of shareholders of a public company for certain political expenditures by that company, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Shareholder Protection Act of 2010”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Corporations make significant political contributions and expenditures that directly or indirectly influence the election of candidates and support or oppose political causes. Decisions to use corporate funds for political contributions and expenditures are usually made by corporate boards and executives, rather than shareholders.
+- **(2)** Corporations, acting through their boards and executives, are obligated to conduct business for the best interests of their owners, the shareholders. Corporate boards and executives that use corporation funds to support and oppose political candidates, parties, and causes in opposition to the interests of their shareholders are not acting for the best interests of the corporation.
+- **(3)** Historically, shareholders have not had a way to know, or to influence, the political activities of corporations they own. Shareholders and the public have a right to know how corporations are spending their funds to make political contributions or expenditures benefitting candidates, political parties, and political causes.
+- **(4)** Corporations should be accountable to their shareholders prior to making political contributions or expenditures affecting local, State or Federal governance and public policy. Requiring the express approval of a corporation’s shareholders prior to making political contributions or expenditures will establish necessary accountability.
+
+## § 3. Shareholder approval of corporate political activity
+
+The Securities Exchange Act of 1934 is amended by adding after section 14 the following new section:
+
+> ## § 14A. Shareholder approval of certain political expenditures
+>
+> - **(a)** *Affirmative authorization* No issuer may make any expenditure for political activities in excess of $10,000 in any fiscal year without first obtaining the written affirmative authorization for such expenditure by a majority of all shareholders.
+> - **(b)** *Nature of decisions* A decision to make a contribution or expenditure for political activities in excess of $10,000 shall not be considered a routine matter of the corporation under rules and guidelines established by any national securities exchange or by the Commission.
+> - **(c)** *fiduciary duty; liability* A violation of subsection (a) shall be considered a breach of a fiduciary duty of the officers and directors who authorized such an expenditure. The officers and directors who authorize such an expenditure without first obtaining such authorization of shareholders shall be jointly and severally liable in any action brought in any court of competent jurisdiction to any shareholder or class of shareholders for the amount of such expenditure.
+> - **(d)** *Exemption for certain media* The provisions of this section shall not apply to an issuer whose sole business is the publication or broadcasting of news, commentary, literature, music, entertainment, artistic expression, scientific, historical or academic works, or other forms of information. The Commission shall issue such guidance as it determines necessary or appropriate regarding the extent of the exemption provided by this subsection.
+> - **(e)** *Definitions* As used in this section the following definitions apply:
+>   - **(1)** *affirmative authorization* The term “affirmative authorization” means the full, free, and written consent of a shareholder, obtained without intimidation or fear of reprisal, and shall not include votes made by a broker or any other representative.
+>   - **(2)** *issue advocacy campaign* The term “issue advocacy campaign” means any expenditure for any communication to the general public intended to encourage the public to contact a State or Federal Government official regarding pending legislation, public policy or government rule or regulation, but does not include contributions or expenditures for registered lobbyists employed by the corporation to lobby State or Federal Government officials directly.
+>   - **(3)** *majority of all shareholders* The term “majority of all shareholders” means number of shareholders that combined own more than 50 percent of all outstanding shares. Shareholders not casting votes shall not count toward such a majority.
+>   - **(4)** *expenditure for political activities*
+>     - **(A)** The term “expenditure for political activities” means—
+>       - **(i)** expenditures in support of, or opposition to, any Federal, State, or local candidate;
+>       - **(ii)** contributions to or expenditures in support of any political party, committee, electioneering communication, voter registration campaign, ballot measure campaign, or an issue advocacy campaign; and
+>       - **(iii)** dues or other payments to trade associations or other tax exempt organizations that are, or could reasonably be anticipated to be, used for the purposes described in subparagraphs (A) and (B).
+>     - **(B)** Such term shall not include—
+>       - **(i)** direct lobbying efforts through registered lobbyists employed or hired by the corporation;
+>       - **(ii)** communications by a corporation to its stockholders and executive or administrative personnel and their families;
+>       - **(iii)** nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families; or
+>       - **(iv)** the establishment, administration and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation.
+
+## § 4. Reporting requirements
+
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
+
+> - **(m)** *Reporting requirements relating to certain political expenditures*
+>   - **(1)** *In general* Not later than 180 days after the date of enactment of this subsection, the Commission shall modify its reporting rules under this section to require issuers to disclose quarterly any expenditure for political activities (as such term is defined in section 14A(e)(4)) made during the preceding quarter. Such a report shall be filed with the Commission and provided to shareholders and shall include—
+>     - **(A)** the date of the contributions or expenditures;
+>     - **(B)** the amount of the contributions or expenditures;
+>     - **(C)** the name or identity of the candidate, political party, committee, electioneering communication, voter registration campaign, ballot measure campaign or issue advocacy campaign;
+>     - **(D)** if the expenditures were made for or against a candidate, including an electioneering communication, the office sought by the candidate and the political party affiliation of the candidate;
+>     - **(E)** if the contributions or expenditures were made for or against a ballot measure, the purpose of the measure and whether the contributions or expenditures were made in support or opposition to the ballot measure; and
+>     - **(F)** if the contributions or expenditures were made for or against an issue advocacy campaign, the nature of the political issue and whether the contributions were made in support or opposition to the political issue.
+>   - **(2)** *Public availability* The Commission shall ensure that, to the greatest extent practicable, the quarterly reports required by this subsection are publicly available through the Commission website in a manner that is searchable, sortable and downloadable, consistent with the requirements of section 24.
+
+## § 5. Report
+
+On an annual basis, the Office of Management and Budget shall conduct an audit on the compliance or noncompliance with the requirements of this Act by public corporations, their management and shareholders, as well as the effectiveness of the Securities and Exchange Commission in meeting the reporting and disclosure requirements of this Act. Not later than April 1 of each year, the Office of Management and Budget shall submit to the President a report on the audit activities required under this Act.
