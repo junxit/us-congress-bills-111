@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 978
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 978
@@ -25,3 +25,8 @@ Requesting the President to transmit to the House of Representatives all documen
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2010-01-20 — Committee Consideration and Mark-up Session Held.
+- 2010-01-20 — Ordered to be Reported Adversely by the Yeas and Nays: 8 - 5.
+- 2010-01-27 — Placed on the House Calendar, Calendar No. 151.
+- 2010-01-27 — Reported adversely by the Committee on Intelligence (Permanent). H. Rept. 111-402.
+- 2010-01-27 — Reported adversely by the Committee on Intelligence (Permanent). H. Rept. 111-402.
