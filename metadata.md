@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4508
@@ -40,3 +40,10 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2010-01-28 — Cleared for White House.
 - 2010-01-28 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S351)
 - 2010-01-28 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S351)
+- 2010-01-29 — Became Public Law No: 111-136.
+- 2010-01-29 — Became Public Law No: 111-136.
+- 2010-01-29 — Message on Senate action sent to the House.
+- 2010-01-29 — Presented to President.
+- 2010-01-29 — Presented to President.
+- 2010-01-29 — Signed by President.
+- 2010-01-29 — Signed by President.
