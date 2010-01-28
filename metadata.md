@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4508
@@ -37,3 +37,6 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2010-01-27 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2010-01-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 24). (text: CR H400)
 - 2010-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 24).(text: CR H400)
+- 2010-01-28 — Cleared for White House.
+- 2010-01-28 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S351)
+- 2010-01-28 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S351)
