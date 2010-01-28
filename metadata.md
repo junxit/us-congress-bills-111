@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3276
@@ -59,3 +59,8 @@ American Medical Isotopes Production Act of 2010
 - 2009-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863). (text: CR H12401-12403)
 - 2009-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863).(text: CR H12401-12403)
 - 2009-11-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-12-03 — Committee on Energy and Natural Resources. Hearings held.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-01-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-120.
+- 2010-01-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-120.
+- 2010-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.

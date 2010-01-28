@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3276
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “American Medical Isotopes Production Act of 2009”.
+This Act may be cited as the “American Medical Isotopes Production Act of 20092010”.
 
 ## § 2. Findings
 
@@ -30,10 +30,13 @@ Congress finds the following:
 - **(11)** The United States should accelerate its efforts to convert nuclear reactors worldwide away from the use of highly enriched uranium, which can be used in nuclear weapons, to low enriched uranium. Converting nuclear reactors away from the use of highly enriched uranium is a critically important element of United States efforts to prevent nuclear terrorism, and supports the goal announced in Prague by President Barack Obama on April 5, 2009, to create “a new international effort to secure all vulnerable nuclear material around the world within four years”.
 - **(12)** The United States is engaged in an effort to convert civilian nuclear test and research reactors from highly enriched uranium fuel to low enriched uranium fuel through the Global Threat Reduction Initiative. As of September 2009, this program has successfully converted 17 reactors in the United States to low enriched uranium fuel, some of which are capable of producing molybdenum-99 for medical uses.
 
-## § 3. Improving the reliability of domestic medical isotope supply
+## § 3.2. Improving the reliability of domestic medical isotope supply
 
 - **(a)** *Medical isotope development projects*
-  - **(1)** *In general* The Secretary of Energy shall establish a program to evaluate and support projects for the production in the United States, without the use of highly enriched uranium, of significant quantities of molybdenum-99 for medical uses.
+  - **(1)** *In general* The Secretary of Energy shall establish a program to evaluate and support projects for the production in the United States, without the use of highly enriched uranium, of significant quantities of molybdenum-99 for medical uses. shall establish a technology-neutral program—
+    - **(A)** to evaluate and support projects for the production in the United States, without the use of highly enriched uranium, of significant quantities of molybdenum-99 for medical uses;
+    - **(B)** to be carried out in cooperation with non-Federal entities; and
+    - **(C)** the costs of which shall be shared in accordance with section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352).
   - **(2)** *Criteria* Projects shall be judged against the following primary criteria:
     - **(A)** The length of time necessary for the proposed project to begin production of molybdenum-99 for medical uses within the United States.
     - **(B)** The capability of the proposed project to produce a significant percentage of United States demand for molybdenum-99 for medical uses.
@@ -42,24 +45,28 @@ Congress finds the following:
     - **(A)** there is no alternative nuclear reactor fuel, enriched in the isotope U-235 to less than 20 percent, that can be used in that reactor;
     - **(B)** the reactor operator has provided assurances that, whenever an alternative nuclear reactor fuel, enriched in the isotope U-235 to less than 20 percent, can be used in that reactor, it will use that alternative in lieu of highly enriched uranium; and
     - **(C)** the reactor operator has provided a current report on the status of its efforts to convert the reactor to an alternative nuclear reactor fuel enriched in the isotope U-235 to less than 20 percent, and an anticipated schedule for completion of conversion.
-  - **(4)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy for carrying out the program under paragraph (1) $163,000,000 for the period encompassing fiscal years 2010 through 2014.
+  - **(4)** *Public participation and review* The Secretary of Energy shall—
+    - **(A)** develop a program plan and annually update the program plan through public workshops; and
+    - **(B)** use the Nuclear Science Advisory Committee to conduct annual reviews of the progress made in achieving the program goals.
+  - **(4)(5)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Energy for carrying out the program under paragraph (1) $163,000,000 for the period encompassing fiscal years 2010 through 2014.
 - **(b)** *Development assistance* The Secretary of Energy shall establish a program to provide assistance for—
   - **(1)** the development of fuels, targets, and processes for domestic molybdenum-99 production that do not use highly enriched uranium; and
   - **(2)** commercial operations using the fuels, targets, and processes described in paragraph (1).
 - **(c)** *Uranium lease and take back* The Secretary of Energy shall establish a program to make low enriched uranium available, through lease contracts, for irradiation for the production of molybdenum-99 for medical uses. The lease contracts shall provide for the Secretary to retain responsibility for the final disposition of radioactive waste created by the irradiation, processing, or purification of leased uranium. The lease contracts shall also provide for compensation in cash amounts equivalent to prevailing market rates for the sale of comparable uranium products and for compensation in cash amounts equivalent to the net present value of the cost to the Federal Government for the final disposition of such radioactive waste, provided that the discount rate used to determine the net present value of such costs shall be no greater than the average interest rate on marketable Treasury securities. The Secretary shall not barter or otherwise sell or transfer uranium in any form in exchange for services related to final disposition of the radioactive waste from such leased uranium.
 
-## § 4. Exports
+## § 4.3. Exports
 
-Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)) is amended by striking subsections b. and c. and inserting in lieu thereof the following:
+Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)2160d) is amended by striking subsections b. and c. and inserting in lieu thereof the following:
 
-> - **(b)** Effective 7 years after the date of enactment of the American Medical Isotopes Production Act of 2009, the Commission may not issue a license for the export of highly enriched uranium from the United States for the purposes of medical isotope production.
-> - **(c)** The period referred to in subsection b. may be extended for no more than four years if, no earlier than 6 years after the date of enactment of the American Medical Isotopes Production Act of 2009, the Secretary of Energy certifies to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that—
+> - **(b)** Effective 7 years after the date of enactment of the American Medical Isotopes Production Act of 20092010, the Commission may not issue a license for the export of highly enriched uranium from the United States for the purposes of medical isotope production.
+> - **(c)** The period referred to in subsection b. may be extended for no more than four 6 years if, no earlier than 6 years after the date of enactment of the American Medical Isotopes Production Act of 20092010, the Secretary of Energy certifies to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that—
 >   - **(1)** there is insufficient global supply of molybdenum-99 produced without the use of highly enriched uranium available to satisfy the domestic United States market; and
 >   - **(2)** the export of United States-origin highly enriched uranium for the purposes of medical isotope production is the most effective temporary means to increase the supply of molybdenum-99 to the domestic United States market.
-> - **(d)** At any time after the restriction of export licenses provided for in subsection b. becomes effective, if there is a critical shortage in the supply of molybdenum-99 available to satisfy the domestic United States medical isotope needs, the restriction of export licenses may be suspended for a period of no more than 12 months, if—
+> - **(d)** To ensure public review and comment, the development of the certification described in subsection c. shall be carried out through announcement in the Federal Register.
+> - **(d.e)** At any time after the restriction of export licenses provided for in subsection b. becomes effective, if there is a critical shortage in the supply of molybdenum-99 available to satisfy the domestic United States medical isotope needs, the restriction of export licenses may be suspended for a period of no more than 12 months, if—
 >   - **(1)** the Secretary of Energy certifies to the Congress that the export of United States-origin highly enriched uranium for the purposes of medical isotope production is the only effective temporary means to increase the supply of molybdenum-99 necessary to meet United States medical isotope needs during that period; and
->   - **(2)** the Congress passes a Joint Resolution approving the temporary suspension of the restriction of export licenses.
-> - **(e)** As used in this section—
+>   - **(2)** the Congress passesenacts a Joint Resolution approving the temporary suspension of the restriction of export licenses.
+> - **(e.f)** As used in this section—
 >   - **(1)** the term “alternative nuclear reactor fuel or target” means a nuclear reactor fuel or target which is enriched to less than 20 percent in the isotope U-235;
 >   - **(2)** the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U-235;
 >   - **(3)** a fuel or target “can be used” in a nuclear research or test reactor if—
@@ -67,7 +74,7 @@ Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)) is amended by 
 >     - **(B)** use of the fuel or target will permit the large majority of ongoing and planned experiments and isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor; and
 >   - **(4)** the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic, therapeutic procedures or for research and development.
 
-## § 5. Report on disposition of exports
+## § 5.4. Report on disposition of exports
 
 Not later than 1 year after the date of the enactment of this Act, the Chairman of the Nuclear Regulatory Commission, after consulting with other relevant agencies, shall submit to the Congress a report detailing the current disposition of previous United States exports of highly enriched uranium, including—
 
@@ -79,7 +86,7 @@ Not later than 1 year after the date of the enactment of this Act, the Chairman 
 - **(6)** their current physical and chemical forms; and
 - **(7)** whether they are being stored in a manner which adequately protects against theft and unauthorized access.
 
-## § 6. Domestic medical isotope production
+## § 6.5. Domestic medical isotope production
 
 - **(a)** *In general* Chapter 10 of the Atomic Energy Act of 1954 (42 U.S.C. 2131 et seq.) is amended by adding at the end the following new section:
   > ## § 112. Domestic medical isotope production
@@ -97,22 +104,22 @@ Not later than 1 year after the date of the enactment of this Act, the Chairman 
   >   - **(3)** the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U-235; and
   >   - **(4)** the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic, therapeutic procedures or for research and development.
 
-- **(b)** *Table of contents* The table of contents for the Atomic Energy Act of 1954 is amended by inserting the following new item after the item relating to section 111:
+- **(b)** *Table of contents* The table of contents for the Atomic Energy Act of 1954 is amended by inserting the following new item after the item relating to section 111: at the end of the items relating to chapter 10 of title I:
 
-## § 7. Annual Department of Energy reports
+## § 7.6. Annual Department of Energy reports
 
 The Secretary of Energy shall report to Congress no later than one year after the date of enactment of this Act, and annually thereafter for 5 years, on Department of Energy actions to support the production in the United States, without the use of highly enriched uranium, of molybdenum-99 for medical uses. These reports shall include the following:
 
 - **(1)** For medical isotope development projects—
-  - **(A)** the names of any recipients of Department of Energy support under section 3 of this Act;
+  - **(A)** the names of any recipients of Department of Energy support under section 3 section 2 of this Act;
   - **(B)** the amount of Department of Energy funding committed to each project;
   - **(C)** the milestones expected to be reached for each project during the year for which support is provided;
   - **(D)** how each project is expected to support the increased production of molybdenum-99 for medical uses;
-  - **(E)** the findings of the evaluation of projects under section 3(a)(2) of this Act; and
-  - **(F)** the ultimate use of any Department of Energy funds used to support projects under section 3 of this Act.
+  - **(E)** the findings of the evaluation of projects under section 3(a)(2) 2(a)(2) of this Act; and
+  - **(F)** the ultimate use of any Department of Energy funds used to support projects under section 3 section 2 of this Act.
 - **(2)** A description of actions taken in the previous year by the Secretary of Energy to ensure the safe disposition of radioactive waste from used molybdenum-99 targets.
 
-## § 8. National Academy of Sciences report
+## § 8.7. National Academy of Sciences report
 
 The Secretary of Energy shall enter into an arrangement with the National Academy of Sciences to conduct a study of the state of molybdenum-99 production and utilization, to be provided to the Congress not later than 5 years after the date of enactment of this Act. This report shall include the following:
 
@@ -122,12 +129,12 @@ The Secretary of Energy shall enter into an arrangement with the National Academ
     - **(i)** whether any new production was brought online;
     - **(ii)** whether any facilities halted production unexpectedly; and
     - **(iii)** whether any facilities used for production were decommissioned or otherwise permanently removed from service; and
-  - **(C)** an assessment of progress made in the previous 5 years toward establishing domestic production of molybdenum-99 for medical uses, including the extent to which other medical isotopes coproduced with molybdenum-99, such as iodine-131 and xenon-133, are being used for medical purposes.
+  - **(C)** an assessment of progress made in the previous 5 years toward establishing domestic production of molybdenum-99 for medical uses, including the extent to which other medical isotopes coproducedthat have been produced with molybdenum-99, such as iodine-131 and xenon-133, are being used for medical purposes.
 - **(2)** An assessment of the progress made by the Department of Energy and others to eliminate all worldwide use of highly enriched uranium in reactor fuel, reactor targets, and medical isotope production facilities.
 
-## § 9. Definitions
+## § 9.8. Definitions
 
 In this Act the following definitions apply:
 
-- **(1)** *Highly enriched uranium* The term “highly enriched uranium” means uranium enriched to 20 percent or greater in the isotope U-235.
-- **(2)** *Low enriched uranium* The term “low enriched uranium” means uranium enriched to less than 20 percent in the isotope U-235.
+- **(1)** *Highly enriched uranium* The term highly enriched uranium means uranium enriched to 20 percent or greater in the isotope U-235.
+- **(2)** *Low enriched uranium* The term low enriched uranium means uranium enriched to less than 20 percent in the isotope U-235.

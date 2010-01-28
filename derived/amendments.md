@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 2160d` | replace | Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)) is amended by striking subsections b. and c. and inserting in lieu thereof the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 134 of the Atomic Energy Act of 1954 (42 U.S.C. 2160d(b)2160d) is amended by striking subsections b. and c. and inserting in lieu thereof the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 2131` | add-at-end | Chapter 10 of the Atomic Energy Act of 1954 (42 U.S.C. 2131 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2131` | insert | The table of contents for the Atomic Energy Act of 1954 is amended by inserting the following new item after the item relating to section 111: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2131` | insert | The table of contents for the Atomic Energy Act of 1954 is amended by inserting the following new item after the item relating to section 111: at the end of the items relating to chapter 10 of title I: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
