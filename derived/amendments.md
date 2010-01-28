@@ -1,7 +1,7 @@
 ---
 measure: S. 2799
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -44,7 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `50 U.S.C. § 1701` | replace | Section 5 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | replace | by striking “The sanctions to be imposed on a sanctioned person under section 5 are as follows:” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1701` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | replace | Section 9(c)(2) of such Act is amended by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting “financial institution, insurer, underwriter, guarantor, and any other business organization, including any foreign subsidiary, parent, or affiliate thereof,” after “trust,”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1701` | insert | by inserting “, such as an export credit agency” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |

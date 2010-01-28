@@ -1,7 +1,7 @@
 ---
 measure: S. 2799
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2799
@@ -26,3 +26,5 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2009
 - 2009-11-19 — Committee on Banking, Housing, and Urban Affairs. Original measure reported to Senate by Senator Dodd. With written report No. 111-99.
 - 2009-11-19 — Introduced in Senate
 - 2009-11-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 215.
+- 2010-01-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S324-332; text as passed Senate: CR S327-332)
+- 2010-01-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S324-332; text as passed Senate: CR S327-332)
