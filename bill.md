@@ -28,7 +28,7 @@ For purposes of this Act, the term “Trademark Act of 1946” means the Act ent
   - **(4)** by amending subsection (g) to read as follows:
     > - **(g)** *Correction of Patent and Trademark Office mistake* Whenever a material mistake in a registration, incurred through the fault of the United States Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the United States Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
 
-- **(b)** *Incontestability of right to use mark under certain conditions* Section 15 of the Trademark Act of 1946 (15 U.S.C. 1065) is amended—
+- **(b)** *Incontestability of right To use mark under certain conditions* Section 15 of the Trademark Act of 1946 (15 U.S.C. 1065) is amended—
   - **(1)** by striking “right of the registrant” and inserting “right of the owner”;
   - **(2)** by amending paragraph (1) to read as follows:
     > - **(1)** there has been no final decision adverse to the owner’s claim of ownership of such mark for such goods or services, or to the owner’s right to register the same or to keep the same on the register; and
