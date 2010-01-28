@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3726
@@ -16,9 +16,10 @@ Castle Nugent National Historic Site Establishment Act of 2010
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -56,3 +57,4 @@ Castle Nugent National Historic Site Establishment Act of 2010
 - 2010-01-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 175 (Roll no. 23).(text: CR H405)
 - 2010-01-27 — Rule provides for consideration of H.R. 3726 and H.R. 4474. Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
 - 2010-01-27 — The previous question was ordered pursuant to the rule. (consideration: CR H410)
+- 2010-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
