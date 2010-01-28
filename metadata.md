@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4474
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4474
@@ -20,9 +20,10 @@ Idaho Wilderness Water Facilities Act
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Idaho Wilderness Water Facilities Act
 - 2010-01-27 — Rule H. Res. 1038 passed House.
 - 2010-01-27 — Rule provides for consideration of H.R. 3726 and H.R. 4474. Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
 - 2010-01-27 — The previous question was ordered pursuant to the rule. (consideration: CR H405)
+- 2010-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
