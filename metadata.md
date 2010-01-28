@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 45
@@ -92,7 +92,7 @@ Increasing the statutory limit on the public debt.
 
 - Senate — Finance Committee
 
-## Recorded votes (12)
+## Recorded votes (13)
 
 - 2010-01-21 — [Senate 111-2-2](votes/senate-111-2-0002.md) — On the Amendment — **Amendment Rejected** (53–45)
 - 2010-01-26 — [Senate 111-2-4](votes/senate-111-2-0004.md) — On the Amendment — **Amendment Agreed to** (97–0)
@@ -106,6 +106,7 @@ Increasing the statutory limit on the public debt.
 - 2010-01-28 — [Senate 111-2-12](votes/senate-111-2-0012.md) — On the Amendment — **Amendment Agreed to** (60–40)
 - 2010-01-28 — [Senate 111-2-13](votes/senate-111-2-0013.md) — On the Amendment — **Amendment Agreed to** (60–40)
 - 2010-01-28 — [Senate 111-2-14](votes/senate-111-2-0014.md) — On the Joint Resolution — **Joint Resolution Passed** (60–39)
+- 2010-02-04 — [House 111-2-48](votes/house-111-2-0048.md) — On Adoption of the second portion of the divided question — **Passed** (233–187)
 
 ## Actions
 
@@ -220,3 +221,17 @@ Increasing the statutory limit on the public debt.
 - 2010-01-28 — Senate amendment agreed to: Amendment SA 3305 under the order of 12/22/2009, having achieved 60 votes in the affirmative, the amendment was agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 12.
 - 2010-01-28 — Senate amendment not agreed to: Amendment SA 3308 under the order of 12/22/2009, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 11.
 - 2010-01-28 — Senate amendment not agreed to: Amendment SA 3309 under the order of 12/22/2009, not having achieved 60 votes in the affirmative, the amendement was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 10.
+- 2010-02-04 — Cleared for White House.
+- 2010-02-04 — DEBATE - The House proceeded with 1 hour of debate on the second portion of the divided question. The second portion consists of Title I and II of the Senate amendment to H.J. Res. 45.
+- 2010-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-04 — Mr. Hoyer moved that the House adopt the second portion of the divided question. (consideration: CR H593)
+- 2010-02-04 — On motion to adopt the second portion of the divided question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 48). (consideration: CR H593)
+- 2010-02-04 — Presented to President.
+- 2010-02-04 — Presented to President.
+- 2010-02-04 — Pursuant to the provisions of H.Res. 1065, the portion of the Senate amendment prior to Title I is considered as agreed to. (consideration: CR H574-593; text as received in House: CR H574-579)
+- 2010-02-04 — Resolving differences -- House actions: On motion to adopt the second portion of the divided question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 48).(consideration: CR H593)
+- 2010-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H593)
+- 2010-02-12 — Became Public Law No: 111-139.
+- 2010-02-12 — Became Public Law No: 111-139.
+- 2010-02-12 — Signed by President.
+- 2010-02-12 — Signed by President.

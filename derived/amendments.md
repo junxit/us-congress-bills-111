@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 0 executed, 17 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | That subsection (b) of section 3101 of title 31, United States Code, is amended by striking out the dollar limitation contained in such subsection and inserting in lieu thereof $14,294,000,000,000. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 308(a) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | The side heading of section 308(a) of the Congressional Budget Act of 1974 is amended by striking “Reports on”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 308 of the Congressional Budget Act of 1974 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

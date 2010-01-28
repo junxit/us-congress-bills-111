@@ -1,12 +1,12 @@
 ---
 legis-num: H.J. RES. 45
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 45
 
-That the resolution from the House of Representatives (H.J. Res. 45) entitled “Joint resolution increasing the statutory limit on the public debt. ”, do pass with the following
+> Increasing the statutory limit on the public debt.
 
-*Strike all after the resolving clause and insert the following:*
+That subsection (b) of section 3101 of title 31, United States Code, is amended by striking out the dollar limitation contained in such subsection and inserting in lieu thereof $14,294,000,000,000.
