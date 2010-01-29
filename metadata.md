@@ -1,7 +1,7 @@
 ---
 measure: S. 2968
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2968
@@ -20,8 +20,15 @@ Trademark Technical and Conforming Amendment Act of 2010
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2010-01-28 — Introduced in Senate
 - 2010-01-28 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S349-351; text as passed Senate: CR S350-351)
 - 2010-01-28 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S349-351; text as passed Senate: CR S350-351)
+- 2010-01-29 — Message on Senate action sent to the House.
+- 2010-01-29 — Received in the House.
+- 2010-01-29 — Referred to the House Committee on the Judiciary.
