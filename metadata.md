@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 995
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 995
@@ -25,3 +25,10 @@ Of inquiry requesting the President to transmit to the House of Representatives 
 - 2009-12-19 — Introduced in House
 - 2009-12-19 — Introduced in House
 - 2009-12-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2009-12-21 — Referred to the Subcommittee on Water Resources and Environment.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-01-27 — Subcommittee on Water Resources and Environment Discharged.
+- 2010-01-29 — Placed on the House Calendar, Calendar No. 154.
+- 2010-01-29 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-407.
+- 2010-01-29 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-407.
