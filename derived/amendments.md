@@ -1,7 +1,7 @@
 ---
 measure: S. 2968
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
