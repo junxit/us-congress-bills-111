@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 983
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 983
@@ -25,3 +25,9 @@ Requesting the President, and directing the Secretary of Health and Human Servic
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Referred to the House Committee on Energy and Commerce.
+- 2009-12-19 — Referred to the Subcommittee on Health.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported Without Recommendation by Voice Vote.
+- 2010-01-29 — Placed on the House Calendar, Calendar No. 155.
+- 2010-01-29 — Reported by the Committee on Energy and Commerce. H. Rept. 111-408.
+- 2010-01-29 — Reported by the Committee on Energy and Commerce. H. Rept. 111-408.
