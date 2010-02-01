@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3254
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3254
@@ -52,3 +52,5 @@ Taos Pueblo Indian Water Rights Settlement Act
 - 2010-01-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 254 - 158 (Roll no. 12).(text: CR H272-275)
 - 2010-01-21 — Rule provides for consideration of H.R. 3254, H.R. 3342 and H.R. 1065. Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,
 - 2010-01-21 — The previous question was ordered pursuant to the rule. (consideration: CR H298)
+- 2010-01-22 — Received in the Senate.
+- 2010-02-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
