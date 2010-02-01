@@ -1,0 +1,43 @@
+---
+measure: S.Res. 404
+congress: 111
+version: Introduced in Senate
+---
+
+# S.Res. 404
+
+A resolution supporting full implementation of the Comprehensive Peace Agreement and other efforts to promote peace and stability in Sudan, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+
+## Cosponsors (14)
+
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+
+## Committees (1)
+
+- Senate — Foreign Relations Committee
+
+## Actions
+
+- 2010-02-01 — Introduced in Senate
+- 2010-02-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S397)
