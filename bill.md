@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1749
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Cell Phone Contraband Act of 2009”.
+This Act may be cited as the “Cell Phone Contraband Act of 20092010”.
 
 ## § 2. Wireless devices in prison
 
-Section 1971 of title 18, United States Code, is amended—
+Section 19711791 of title 18, United States Code, is amended—
 
 - **(1)** in subsection (b)—
   - **(A)** in paragraph (4), by striking “or (d)(1)(E)” and inserting “, (d)(1)(E), or (d)(1)(F)”; and
