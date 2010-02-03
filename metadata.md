@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2843
@@ -45,3 +45,10 @@ Architect of the Capitol Appointment Act of 2010
 - 2009-12-10 — Placed on the Union Calendar, Calendar No. 216.
 - 2009-12-10 — Reported by the Committee on House Administration. H. Rept. 111-372, Part I.
 - 2009-12-10 — Reported by the Committee on House Administration. H. Rept. 111-372, Part I.
+- 2010-02-03 — Considered under suspension of the rules. (consideration: CR H480-482)
+- 2010-02-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2843.
+- 2010-02-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-03 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill, as amended.
+- 2010-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H480)
+- 2010-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H480)
+- 2010-02-03 — The title of the measure was amended. Agreed to without objection.
