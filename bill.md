@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 901
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 901
@@ -25,10 +25,5 @@ That the House of Representatives—
 
 - **(1)** recognizes the 49th anniversary of the first day of integrated schools in New Orleans, Louisiana;
 - **(2)** remembers Judge J. Skelly Wright for his advocacy, support, and lifelong commitment to promoting civil rights, fairness, and equality;
-- **(3)** commends Ruby Bridges for her bravery and courage 49 years ago, and for her lifetime commitment to raising awareness of diversity through improved educational opportunities for all children;
-- **(4)** supports policies and efforts to—
-  - **(A)** close the achievement gap in the schools of our Nation;
-  - **(B)** improve the high school graduation rate for all students;
-  - **(C)** strengthen the ability of all students to attend and complete post-secondary education; and
-  - **(D)** promote the benefits of school integration throughout the educational careers of students; and
-- **(5)** congratulates all the individuals who have dedicated their lives to the field of education and to promoting equal opportunities for all students regardless of the backgrounds of the students.
+- **(3)** commends Ruby Bridges for her bravery and courage 49 years ago, and for her lifetime commitment to raising awareness of diversity through improved educational opportunities for all children; and
+- **(4)** supports policies and efforts to promote equal opportunities for all students regardless of their backgrounds.
