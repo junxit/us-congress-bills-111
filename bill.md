@@ -1,0 +1,60 @@
+---
+legis-num: S. 3004
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3004
+
+> To require notification to and prior approval by shareholders of certain political expenditures by publicly traded companies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Citizens Right to Know Act of 2010”.
+
+## § 2. Notification to shareholders of electioneering communications
+
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 17B the following:
+
+> ## § 17C. Notification to shareholders of electioneering communications
+>
+> - **(a)** *Disclosures to shareholders* Each issuer, the securities of which are registered under section 12, or that is subject to the reporting requirements of section 13(a) or 15(d), that makes or participates in an electioneering communication shall disclose such activity, in writing, to each shareholder of the issuer.
+> - **(b)** *Definition* As used in this section, the term electioneering communication has the same meaning as in section 304(f)(3)(A) of the Federal Election Campaign Act of 1971 (2 U.S.C. 434(f)(3)(A)).
+
+## § 3. Prior shareholder approval of electioneering communications
+
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following new subsection:
+
+> - **(i)** *Limitations on electioneering communications*
+>   - **(1)** *Prohibition on foreign-owned issuers* Notwithstanding any other provision of law, no issuer may make or participate in any electioneering communication if 51 percent or more of the outstanding securities of such issuer are owned or controlled by any foreign principal or agent of a foreign principal.
+>   - **(2)** *Prior shareholder approval required* Before an issuer makes or participates in any electioneering communication, as defined in section 304(f)(3)(A) of the Federal Election Campaign Act of 1971 (2 U.S.C. 434(f)(3)(A)), the issuer shall obtain prior approval, by majority vote of all shareholders, for any such activity. Such vote shall be taken with each shareholder entitled to one vote per share of common stock held, regardless of any per-share voting rights of an outstanding class or classes of common stock under any other agreement or provision to the contrary.
+>   - **(3)** *Definitions* As used in this subsection—
+>     - **(A)** the term “electioneering communication” has the same meaning as in section 304(f)(3)(A) of the Federal Election Campaign Act of 1971 (2 U.S.C. 434(f)(3)(A));
+>     - **(B)** the terms “foreign principal” and “agent of a foreign principal” have the same meanings as in section 611 of the Foreign Agents Registration Act of 1938 (11 U.S.C. 611); and
+>     - **(C)** the term “issuer” means only those issuers, the securities of which are registered under section 12, or that are subject to the reporting requirements of section 13(a) or 15(d).
+
+## § 4. Stand by your ad requirements
+
+- **(a)** *Rules for corporations* Paragraph (2) of section 318(d) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441d(d)) is amended—
+  - **(1)** by striking “Any communication” and inserting the following:
+    > - **(A)** *In general* Any communication
+
+  - **(2)** by adding at the end the following new subparagraph:
+    > - **(B)** *Special rule for communications by corporations*
+    >   - **(i)** *In general* In the case of any communication described in subparagraph (A) which is paid for by a corporation—
+    >     - **(I)** the audio statement required under this paragraph shall be made by the president or chief executive officer of such corporation and shall identify such individual by name and position; and
+    >     - **(II)** for purposes of the second sentence of subparagraph (A), the view of the person making the statement shall be a view of such president or chief executive officer.
+    >   - **(ii)** *Joint communications* In the case of any communication described in subparagraph (A) which is paid for by more than 1 corporation, the president or chief executive officer described in clause (i) shall be the president or chief executive officer of the corporation which pays for the largest portion of the communication (or, if paid for equally by all such corporations, the president or chief executive officer of the corporation with the highest gross revenue for the calendar year prior to the date on which such communication is made).
+
+- **(b)** *Rules for other entities*
+  - **(1)** *In general* Paragraph (2) of section 318(d) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441d(d)), as amended by subsection (a), is amended by adding at the end the following new subparagraph:
+    > - **(C)** *Special rules for certain other organizations* In the case of any communication described in paragraph (A) which is paid for by an organization (other than a corporation), such communication shall include, in addition to the other requirements of this section, a statement listing the name of the 3 persons making the largest aggregate contributions to such organization during the 12-month period before the date of the communication.
+
+  - **(2)** *Reporting of contributors on Internet* Section 304 of such Act (2 U.S.C. 434) is amended by adding at the end the following new subsection:
+    > - **(j)** *Internet disclosure of contributors for certain radio and television ads* In addition to any reports required to be filed with the Commission under this section, any organization (other than a corporation) which makes a communication to which section 318(d)(2)(C) applies shall make available on the Internet, by means of a direct link from the home page of such organization, the following information:
+    >   - **(1)** In the case of any such communication made by a political committee, the information required under subsection (b)(3).
+    >   - **(2)** In the case of any communication which is an independent expenditure and which is made by a person other than a political committee, the information required under subsection (c)(2)(C).
+    >   - **(3)** In the case of any communication which is an electioneering communication and which is made by a person other than a political committee, the information required under subsection (f)(2)(F).
+
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to communications made after the date of the enactment of this Act, without regard to whether or not the Federal Election Commission has promulgated regulations to carry out such amendments.
