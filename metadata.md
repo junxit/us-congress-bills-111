@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2843
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2843
@@ -25,10 +25,11 @@ Architect of the Capitol Appointment Act of 2010
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Rep. Wamp, Zach [R-TN-3] (W000119)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Architect of the Capitol Appointment Act of 2010
 - 2010-02-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H480)
 - 2010-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H480)
 - 2010-02-03 — The title of the measure was amended. Agreed to without objection.
+- 2010-02-04 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
