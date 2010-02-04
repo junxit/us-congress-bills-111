@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1022
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1022
@@ -16,7 +16,7 @@ Honoring the life and sacrifice of Medgar Evers and congratulating the United St
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Cosponsors (49)
+## Cosponsors (57)
 
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -67,11 +67,23 @@ Honoring the life and sacrifice of Medgar Evers and congratulating the United St
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
 ## Committees (2)
 
 - House — Armed Services Committee
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2010-02-04 — [House 111-2-44](votes/house-111-2-0044.md) — On Motion to Suspend the Rules and Agree — **Passed** (426–0)
 
 ## Actions
 
@@ -80,3 +92,11 @@ Honoring the life and sacrifice of Medgar Evers and congratulating the United St
 - 2010-01-20 — Referred to House Armed Services
 - 2010-01-20 — Referred to House Judiciary
 - 2010-01-20 — Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-02-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-02-02 — Considered under suspension of the rules. (consideration: CR H437-440)
+- 2010-02-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1022.
+- 2010-02-02 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
+- 2010-02-04 — Considered as unfinished business. (consideration: CR H571-572)
+- 2010-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-04 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 44). (text: CR 02/02/2010 H437)
+- 2010-02-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 44).(text: CR 02/02/2010 H437)
