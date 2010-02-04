@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4061
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4061
@@ -32,6 +32,19 @@ Cybersecurity Enhancement Act of 2010
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (10)
+
+- 2010-02-03 — [House 111-2-34](votes/house-111-2-0034.md) — On Agreeing to the Amendment — **Agreed to** (417–5)
+- 2010-02-03 — [House 111-2-35](votes/house-111-2-0035.md) — On Agreeing to the Amendment — **Agreed to** (396–31)
+- 2010-02-03 — [House 111-2-36](votes/house-111-2-0036.md) — On Agreeing to the Amendment — **Agreed to** (419–3)
+- 2010-02-03 — [House 111-2-37](votes/house-111-2-0037.md) — On Agreeing to the Amendment — **Agreed to** (416–4)
+- 2010-02-03 — [House 111-2-38](votes/house-111-2-0038.md) — On Agreeing to the Amendment — **Agreed to** (417–4)
+- 2010-02-04 — [House 111-2-39](votes/house-111-2-0039.md) — On Agreeing to the Amendment — **Agreed to** (424–0)
+- 2010-02-04 — [House 111-2-40](votes/house-111-2-0040.md) — On Agreeing to the Amendment — **Agreed to** (419–4)
+- 2010-02-04 — [House 111-2-41](votes/house-111-2-0041.md) — On Agreeing to the Amendment — **Agreed to** (423–6)
+- 2010-02-04 — [House 111-2-42](votes/house-111-2-0042.md) — On Agreeing to the Amendment — **Agreed to** (430–0)
+- 2010-02-04 — [House 111-2-43](votes/house-111-2-0043.md) — On Passage — **Passed** (422–5)
+
 ## Actions
 
 - 2009-11-07 — Introduced in House
@@ -42,3 +55,217 @@ Cybersecurity Enhancement Act of 2010
 - 2010-01-27 — Placed on the Union Calendar, Calendar No. 236.
 - 2010-01-27 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-405.
 - 2010-01-27 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-405.
+- 2010-02-02 — Rules Committee Resolution H. Res. 1051 Reported to House. Rule provides for consideration of H.R. 4061 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-02-03 — Amendment (A001) offered by Mr. Hastings (FL). (consideration: CR H503-504, H520-521; text: CR H503)
+- 2010-02-03 — Amendment (A002) offered by Mr. Gordon (TN). (consideration: CR H504; text: CR H504)
+- 2010-02-03 — Amendment (A003) offered by Mr. Flake. (consideration: CR H504-505, H521-522; text: CR H504)
+- 2010-02-03 — Amendment (A004) offered by Mr. Matheson. (consideration: CR H505-506; text: CR H505)
+- 2010-02-03 — Amendment (A005) offered by Mr. Roskam. (consideration: CR H506; text: CR H506)
+- 2010-02-03 — Amendment (A006) offered by Ms. Edwards (MD). (consideration: CR H506-507; text: CR H506)
+- 2010-02-03 — Amendment (A007) offered by Mr. Paulsen. (consideration: CR H507-508; text: CR H507)
+- 2010-02-03 — Amendment (A008) offered by Mrs. Dahlkemper. (consideration: CR H508-509, H522; text: CR H508)
+- 2010-02-03 — Amendment (A009) offered by Mr. Garamendi. (consideration: CR H509; text: CR H509)
+- 2010-02-03 — Amendment (A010) offered by Mrs. McCarthy (NY). (consideration: CR H509-510; text: CR H509)
+- 2010-02-03 — Amendment (A011) offered by Ms. Sanchez, Loretta. (consideration: CR H510; text: CR H510)
+- 2010-02-03 — Amendment (A012) offered by Mr. Langevin. (consideration: CR H510-511; text: CR H510)
+- 2010-02-03 — Amendment (A013) offered by Ms. Sanchez, Loretta. (consideration: CR H511-512; text: CR H511)
+- 2010-02-03 — Amendment (A014) offered by Mr. Cuellar. (consideration: CR H512, H522-523; text: CR H512)
+- 2010-02-03 — Amendment (A015) offered by Ms. Shea-Porter. (consideration: CR H512-513; text: CR H513)
+- 2010-02-03 — Amendment (A016) offered by Ms. Clarke. (consideration: CR H513-514; text: CR H513)
+- 2010-02-03 — Amendment (A017) offered by Mr. Bright. (consideration: CR H514-515; text: CR H514)
+- 2010-02-03 — Amendment (A018) offered by Mr. Connolly (VA). (consideration: CR H515-516, H523-524; text: CR H515)
+- 2010-02-03 — Amendment (A019) offered by Mrs. Halvorson. (consideration: CR H516; text: CR H516)
+- 2010-02-03 — Amendment (A020) offered by Ms. Kilroy. (consideration: CR H516-517; text: CR H517)
+- 2010-02-03 — Amendment (A021) offered by Mr. Kissell. (consideration: CR H517-518; text: CR H517)
+- 2010-02-03 — Amendment (A022) offered by Mr. Kratovil. (consideration: CR H518; text: CR H518)
+- 2010-02-03 — Amendment (A023) offered by Mr. Lipinski. (consideration: CR H518-519; text: CR H519)
+- 2010-02-03 — Amendment (A024) offered by Mr. Owens. (consideration: CR H519; text: CR H519)
+- 2010-02-03 — Amendment (A025) offered by Mr. Heinrich. (consideration: CR H519-520; text: CR H519)
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Amendment agreed to Committee of the Whole
+- 2010-02-03 — Committee of the Whole House on the state of the Union rises leaving H.R. 4061 as unfinished business.
+- 2010-02-03 — Considered under the provisions of rule H. Res. 1051. (consideration: CR H495-524)
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Bright amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Clarke amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Dahlkemper amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards of Maryland amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Gordon amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Halvorson amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Heinrich amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Kilroy amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Kissell amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Kratovil amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy of New York amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Owens amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Paulsen amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Roskam amendment.
+- 2010-02-03 — DEBATE - Pursuant to the provisions of H.Res. 1051, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter amendment.
+- 2010-02-03 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4061.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Bright amendment (A017) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Clarke amendment (A016) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Connolly (VA) amendment (A018) Agreed to by recorded vote: 417 - 4 (Roll no. 38).
+- 2010-02-03 — House amendment agreed to: On agreeing to the Cuellar amendment (A014) Agreed to by recorded vote: 416 - 4 (Roll no. 37).
+- 2010-02-03 — House amendment agreed to: On agreeing to the Dahlkemper amendment (A008) Agreed to by recorded vote: 419 - 3 (Roll no. 36).
+- 2010-02-03 — House amendment agreed to: On agreeing to the Edwards (MD) amendment (A006) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Flake amendment (A003) Agreed to by recorded vote: 396 - 31 (Roll no. 35).
+- 2010-02-03 — House amendment agreed to: On agreeing to the Garamendi amendment (A009) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Gordon (TN) amendment (A002) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A001) Agreed to by recorded vote: 417 - 5 (Roll no. 34).
+- 2010-02-03 — House amendment agreed to: On agreeing to the Heinrich amendment (A025) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Kratovil amendment (A022) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Lipinski amendment (A023) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the McCarthy (NY) amendment (A010) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Paulsen amendment (A007) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Roskam amendment (A005) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Sanchez, Loretta amendment (A011) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Sanchez, Loretta amendment (A013) Agreed to by voice vote.
+- 2010-02-03 — House amendment agreed to: On agreeing to the Shea-Porter amendment (A015) Agreed to by voice vote.
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered
+- 2010-02-03 — House amendment offered/reported by : Amendment (A001) offered by Mr. Hastings (FL).(consideration: CR H503-504, H520-521; text: CR H503)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A002) offered by Mr. Gordon (TN).(consideration: CR H504; text: CR H504)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A003) offered by Mr. Flake.(consideration: CR H504-505, H521-522; text: CR H504)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A004) offered by Mr. Matheson.(consideration: CR H505-506; text: CR H505)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A005) offered by Mr. Roskam.(consideration: CR H506; text: CR H506)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A006) offered by Ms. Edwards (MD).(consideration: CR H506-507; text: CR H506)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A007) offered by Mr. Paulsen.(consideration: CR H507-508; text: CR H507)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A008) offered by Mrs. Dahlkemper.(consideration: CR H508-509, H522; text: CR H508)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A009) offered by Mr. Garamendi.(consideration: CR H509; text: CR H509)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A010) offered by Mrs. McCarthy (NY).(consideration: CR H509-510; text: CR H509)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A011) offered by Ms. Sanchez, Loretta.(consideration: CR H510; text: CR H510)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A012) offered by Mr. Langevin.(consideration: CR H510-511; text: CR H510)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A013) offered by Ms. Sanchez, Loretta.(consideration: CR H511-512; text: CR H511)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A014) offered by Mr. Cuellar.(consideration: CR H512, H522-523; text: CR H512)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A015) offered by Ms. Shea-Porter.(consideration: CR H512-513; text: CR H513)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A016) offered by Ms. Clarke.(consideration: CR H513-514; text: CR H513)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A017) offered by Mr. Bright.(consideration: CR H514-515; text: CR H514)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A018) offered by Mr. Connolly (VA).(consideration: CR H515-516, H523-524; text: CR H515)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A019) offered by Mrs. Halvorson.(consideration: CR H516; text: CR H516)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A020) offered by Ms. Kilroy.(consideration: CR H516-517; text: CR H517)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A021) offered by Mr. Kissell.(consideration: CR H517-518; text: CR H517)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A022) offered by Mr. Kratovil.(consideration: CR H518; text: CR H518)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A023) offered by Mr. Lipinski.(consideration: CR H518-519; text: CR H519)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A024) offered by Mr. Owens.(consideration: CR H519; text: CR H519)
+- 2010-02-03 — House amendment offered/reported by : Amendment (A025) offered by Mr. Heinrich.(consideration: CR H519-520; text: CR H519)
+- 2010-02-03 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1051 and Rule XVIII.
+- 2010-02-03 — Mr. McGovern moved that the Committee rise.
+- 2010-02-03 — On agreeing to the Bright amendment (A017) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Clarke amendment (A016) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Connolly (VA) amendment (A018) Agreed to by recorded vote: 417 - 4 (Roll no. 38).
+- 2010-02-03 — On agreeing to the Cuellar amendment (A014) Agreed to by recorded vote: 416 - 4 (Roll no. 37).
+- 2010-02-03 — On agreeing to the Dahlkemper amendment (A008) Agreed to by recorded vote: 419 - 3 (Roll no. 36).
+- 2010-02-03 — On agreeing to the Edwards (MD) amendment (A006) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Flake amendment (A003) Agreed to by recorded vote: 396 - 31 (Roll no. 35).
+- 2010-02-03 — On agreeing to the Garamendi amendment (A009) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Gordon (TN) amendment (A002) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Hastings (FL) amendment (A001) Agreed to by recorded vote: 417 - 5 (Roll no. 34).
+- 2010-02-03 — On agreeing to the Heinrich amendment (A025) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Kratovil amendment (A022) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Lipinski amendment (A023) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the McCarthy (NY) amendment (A010) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Paulsen amendment (A007) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Roskam amendment (A005) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Sanchez, Loretta amendment (A011) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Sanchez, Loretta amendment (A013) Agreed to by voice vote.
+- 2010-02-03 — On agreeing to the Shea-Porter amendment (A015) Agreed to by voice vote.
+- 2010-02-03 — On motion that the Committee rise Agreed to without objection.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cuellar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cuellar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dahlkemper amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Dahlkemper demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Halvorson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Halvorson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question of adoption on the amendment and by voice vote announced that the ayes had prevailed. Mr. Hastings (FL) demanded a recorded vote and the Chair postponed further proceedings on the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kilroy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kilroy demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kissell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kissell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Owens amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Owens demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — POSTPONED PROCEEINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gordon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-02-03 — Roll call votes on amendments in House
+- 2010-02-03 — Roll call votes on amendments in House
+- 2010-02-03 — Roll call votes on amendments in House
+- 2010-02-03 — Roll call votes on amendments in House
+- 2010-02-03 — Roll call votes on amendments in House
+- 2010-02-03 — Rule H. Res. 1051 passed House.
+- 2010-02-03 — Rule provides for consideration of H.R. 4061 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-02-03 — The Speaker designated the Honorable Betty McCollum to act as Chairwoman of the Committee.
+- 2010-02-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-02-04 — Amendment agreed to Committee of the Whole
+- 2010-02-04 — Amendment agreed to Committee of the Whole
+- 2010-02-04 — Amendment agreed to Committee of the Whole
+- 2010-02-04 — Amendment agreed to Committee of the Whole
+- 2010-02-04 — Considered as unfinished business. (consideration: CR H559-563)
+- 2010-02-04 — House amendment agreed to: On agreeing to the Halvorson amendment (A019) Agreed to by recorded vote: 424 - 0 (Roll no. 39).(consideration: CR H559-560; text: CR H559)
+- 2010-02-04 — House amendment agreed to: On agreeing to the Kilroy amendment (A020) Agreed to by recorded vote: 419 - 4 (Roll no. 40).(consideration: CR H560; text: CR H560)
+- 2010-02-04 — House amendment agreed to: On agreeing to the Kissell amendment (A021) Agreed to by recorded vote: 423 - 6 (Roll no. 41).(consideration: CR H560-561; text: CR H560-561)
+- 2010-02-04 — House amendment agreed to: On agreeing to the Owens amendment (A024) Agreed to by recorded vote: 430 - 0 (Roll no. 42).(consideration: CR H561-562; text: CR H561)
+- 2010-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-04 — On agreeing to the Halvorson amendment (A019) Agreed to by recorded vote: 424 - 0 (Roll no. 39). (consideration: CR H559-560; text: CR H559)
+- 2010-02-04 — On agreeing to the Kilroy amendment (A020) Agreed to by recorded vote: 419 - 4 (Roll no. 40). (consideration: CR H560; text: CR H560)
+- 2010-02-04 — On agreeing to the Kissell amendment (A021) Agreed to by recorded vote: 423 - 6 (Roll no. 41). (consideration: CR H560-561; text: CR H560-561)
+- 2010-02-04 — On agreeing to the Owens amendment (A024) Agreed to by recorded vote: 430 - 0 (Roll no. 42). (consideration: CR H561-562; text: CR H561)
+- 2010-02-04 — On passage Passed by the Yeas and Nays: 422 - 5 (Roll no. 43).
+- 2010-02-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 422 - 5 (Roll no. 43).
+- 2010-02-04 — Roll call votes on amendments in House
+- 2010-02-04 — Roll call votes on amendments in House
+- 2010-02-04 — Roll call votes on amendments in House
+- 2010-02-04 — Roll call votes on amendments in House
+- 2010-02-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4061.
+- 2010-02-04 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 02/3/2010 H500-503)
+- 2010-02-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-02-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4061.
+- 2010-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H562)
+- 2010-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
