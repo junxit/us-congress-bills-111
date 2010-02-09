@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 235
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 235
@@ -25,3 +25,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2010-02-09 — On agreeing to the resolution Agreed to by voice vote. (text: CR H609)
 - 2010-02-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H609)
 - 2010-02-09 — Received in the Senate.
+- 2010-02-11 — Message on Senate action sent to the House.
+- 2010-02-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S592; text as passed Senate: CR S592)
+- 2010-02-11 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S592; text as passed Senate: CR S592)
