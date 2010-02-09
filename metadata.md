@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4532
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4532
@@ -51,3 +51,4 @@ Social Security Disability Applicants' Access to Professional Representation Act
 - 2010-02-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-02-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 47). (text: CR 2/3/2010 H482-483)
 - 2010-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 47).(text: CR 2/3/2010 H482-483)
+- 2010-02-09 — Received in the Senate, read twice.

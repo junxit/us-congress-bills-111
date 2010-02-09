@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4532
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -37,5 +37,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 206 of the Social Security Act (42 U.S.C. 406) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in clause (iv), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | strike | Section 303(e)(2) of the Social Security Protection Act of 2004 (Public Law 108–203; 118 Stat. 523) is amended by striking “and final report” in the heading and by striking the last sentence. | the bill names no machine-readable US Code section |
