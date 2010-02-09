@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4061
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4061
@@ -28,9 +28,10 @@ Cybersecurity Enhancement Act of 2010
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (10)
 
@@ -269,3 +270,4 @@ Cybersecurity Enhancement Act of 2010
 - 2010-02-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4061.
 - 2010-02-04 — The previous question was ordered pursuant to the rule. (consideration: CR H562)
 - 2010-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2010-02-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
