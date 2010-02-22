@@ -1,0 +1,32 @@
+---
+measure: H.Con.Res. 237
+congress: 111
+version: Introduced in House
+---
+
+# H.Con.Res. 237
+
+Authorizing the use of the rotunda of the Capitol for the presentation of the Congressional Gold Medal to the Women Airforce Service Pilots.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+
+## Cosponsors (1)
+
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+
+## Committees (1)
+
+- House — Committee on House Administration
+
+## Actions
+
+- 2010-02-22 — Introduced in House
+- 2010-02-22 — Introduced in House
+- 2010-02-22 — Referred to the House Committee on House Administration.
+- 2010-02-22 — Sponsor introductory remarks on measure. (CR E180)
