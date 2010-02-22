@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3695
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 3701(a) of the National Child Search Assistance Act of 1990 (42 U.S.C. 5779) is amended by striking the period and inserting the following: “and, consistent with section 4 (including rules promulgated pursuant to section 4(b)) of… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “or the National Crime Information Center computer database” and inserting “, the National Crime Information Center computer database, or the NamUs databases (as defined in section 8 of the Help Find the Mis… | the bill names no machine-readable US Code section |
+| — | replace | Section 3701(a) of title XXXVII of the Crime Control Act of 1990 (42 U.S.C. 5779(a)) is amended by striking the period and inserting the following: “and, consistent with section 3 (including rules promulgated pursuant to section 3(b)) of… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or the National Crime Information Center computer database” and inserting “, the National Crime Information Center computer database, or the NamUs databases (as defined in section 7 of the Help Find the Mis… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “and the National Crime Information Center computer networks” and inserting “, the National Crime Information Center computer networks, and the NamUs databases (as so defined)”; and | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “or the NamUs databases” after “National Crime Information Center”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “and National Crime Information Center computer networks” and inserting “, National Crime Information Center computer networks, and the NamUs databases”. | the bill names no machine-readable US Code section |
