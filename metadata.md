@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4425
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4425
@@ -50,8 +50,22 @@ To designate the facility of the United States Postal Service located at 2-116th
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-02-22 — [House 111-2-49](votes/house-111-2-0049.md) — On Motion to Suspend the Rules and Pass — **Passed** (330–0)
+
 ## Actions
 
 - 2010-01-12 — Introduced in House
 - 2010-01-12 — Introduced in House
 - 2010-01-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported by Unanimous Consent.
+- 2010-02-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-02-22 — Considered as unfinished business. (consideration: CR H623-624)
+- 2010-02-22 — Considered under suspension of the rules. (consideration: CR H612-614)
+- 2010-02-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4425.
+- 2010-02-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-22 — Mr. Lynch moved to suspend the rules and pass the bill.
+- 2010-02-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 0 (Roll no. 49). (text: CR H612)
+- 2010-02-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 0 (Roll no. 49).(text: CR H612)
