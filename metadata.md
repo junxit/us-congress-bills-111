@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 417
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 417
@@ -31,3 +31,7 @@ A resolution supporting the goals and ideals of National Engineers Week, and for
 - 2010-02-11 — Introduced in Senate
 - 2010-02-11 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S574)
 - 2010-02-11 — Sponsor introductory remarks on measure. (CR S574-575)
+- 2010-02-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S715)
+- 2010-02-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S715)
+- 2010-02-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S715)
+- 2010-02-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S715)
