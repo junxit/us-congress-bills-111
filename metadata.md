@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3695
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3695
@@ -65,3 +65,9 @@ Billy's Law
 - 2010-02-22 — Placed on the Union Calendar, Calendar No. 242.
 - 2010-02-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-416.
 - 2010-02-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-416.
+- 2010-02-23 — Considered under suspension of the rules. (consideration: CR H683-687)
+- 2010-02-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3695.
+- 2010-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-23 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2010-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H683-685)
+- 2010-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H683-685)
