@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1066
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1066
@@ -16,7 +16,7 @@ Recognizing the bravery and efforts of the United States Armed Forces, local fir
 
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 
-## Cosponsors (48)
+## Cosponsors (53)
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. Mack, Connie [R-FL-14] (M001155)
@@ -66,11 +66,20 @@ Recognizing the bravery and efforts of the United States Armed Forces, local fir
 - Rep. Murphy, Scott [D-NY-20] (M001178)
 - Rep. Massa, Eric J. J. [D-NY-29] (M001173)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
 ## Committees (2)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2010-02-23 — [House 111-2-52](votes/house-111-2-0052.md) — On Motion to Suspend the Rules and Agree — **Passed** (406–0)
 
 ## Actions
 
@@ -79,3 +88,11 @@ Recognizing the bravery and efforts of the United States Armed Forces, local fir
 - 2010-02-03 — Referred to House Armed Services
 - 2010-02-03 — Referred to House Foreign Affairs
 - 2010-02-03 — Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-02-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-02-23 — Considered as unfinished business. (consideration: CR H696-697)
+- 2010-02-23 — Considered under suspension of the rules. (consideration: CR H667-671)
+- 2010-02-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1066.
+- 2010-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-23 — Mr. Skelton moved to suspend the rules and agree to the resolution.
+- 2010-02-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 52). (text: CR H667-668)
+- 2010-02-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 52).(text: CR H667-668)
