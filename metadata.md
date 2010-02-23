@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1059
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1059
@@ -16,7 +16,7 @@ Honoring the heroism of the seven United States Agency for International Develop
 
 - Rep. McMahon, Michael E. [D-NY-13] (M001174)
 
-## Cosponsors (50)
+## Cosponsors (52)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -68,11 +68,17 @@ Honoring the heroism of the seven United States Agency for International Develop
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-02-23 — [House 111-2-53](votes/house-111-2-0053.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (406–0)
 
 ## Actions
 
@@ -81,3 +87,13 @@ Honoring the heroism of the seven United States Agency for International Develop
 - 2010-02-02 — Referred to House Foreign Affairs
 - 2010-02-02 — Referred to House Transportation and Infrastructure
 - 2010-02-02 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-02-03 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-02-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-02-23 — Considered as unfinished business. (consideration: CR H697)
+- 2010-02-23 — Considered under suspension of the rules. (consideration: CR H671-673)
+- 2010-02-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1059.
+- 2010-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-23 — Mr. McMahon moved to suspend the rules and agree to the resolution, as amended.
+- 2010-02-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 53). (text: CR H671-672)
+- 2010-02-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 53).(text: CR H671-672)
+- 2010-02-23 — The title of the measure was amended. Agreed to without objection.
