@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 393
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 393
@@ -28,3 +28,7 @@ A resolution recognizing the contributions of the American Kennel Club.
 
 - 2010-01-21 — Introduced in Senate
 - 2010-01-21 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S127-128)
+- 2010-02-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S715)
+- 2010-02-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S715)
+- 2010-02-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S714-715)
+- 2010-02-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S714-715)
