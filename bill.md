@@ -2,7 +2,7 @@
 legis-num: H. RES. 1048
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1048
@@ -19,10 +19,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas President Obama vowed the “unwavering support” of the United States and pledged a “swift, coordinated and aggressive effort to save lives and support the recovery in Haiti”;
 - Whereas the people of Haiti have shown remarkable resilience and courage in the face of epic tragedy;
 - Whereas the United States Navy responded within hours of the earthquake to swiftly provide the Haitians with aid;
-- Whereas the USNS Comfort and its crew of 1,200 have provided 24-hour care for nearly 500 Haitians, ranging from newborns to critically ill patients;
-- Whereas the USNS Comfort’s 550-person medical staff includes trauma surgeons, orthopedic surgeons, head and neck surgeons, eye surgeons, and obstetricians and gynecologists;
-- Whereas the medical staff of the USNS Comfort, as of January 24, 2010, had performed over 100 surgeries;
-- Whereas the extraordinary USNS Comfort medical staff has saved the lives of 98 percent of the ship’s patient population as of January 25, 2010;
+- Whereas the USNS Comfort and its crew of more than 1,200 has provided 24-hour care for over 900 Haitians, ranging from newborns to critically ill patients;
+- Whereas the USNS Comfort’s over 550-person medical staff includes trauma surgeons, orthopedic surgeons, head and neck surgeons, eye surgeons, and obstetricians and gynecologists;
+- Whereas the medical staff of the USNS Comfort, as of February 18, 2010, had performed over 755 surgeries;
+- Whereas the extraordinary USNS Comfort medical staff has saved countless lives;
 - Whereas the people of the United States empathize with the medical staff of the USNS Comfort who must make agonizing decisions about the use of scarce resources for critically ill patients;
 - Whereas prior to the arrival of the USNS Comfort, the USS Carl Vinson dutifully provided initial triage of patients; and
 - Whereas the USNS Comfort and the USS Carl Vinson have been aided in their efforts by other Navy vessels, including the crews of the USS Higgins, the USS Underwood, the USS Normandy, the USS Bunker Hill, the USS Bataan, the USS Carter Hall, the USS Gunston Hall, the USS Fort McHenry, the USNS Grasp, the Navy Underwater Construction Team One, and the Navy Mobile Diving Salvage Unit Two: Now, therefore, be it
