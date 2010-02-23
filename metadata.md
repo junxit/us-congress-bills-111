@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1046
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1046
@@ -16,7 +16,7 @@ Recognizing the significance of Black History Month.
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (34)
+## Cosponsors (61)
 
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -52,13 +52,52 @@ Recognizing the significance of Black History Month.
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Chu, Judy [D-CA-32] (C001080)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-02-23 — [House 111-2-55](votes/house-111-2-0055.md) — On Motion to Suspend the Rules and Agree — **Passed** (402–0)
 
 ## Actions
 
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-02-22 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-02-22 — Considered under suspension of the rules. (consideration: CR H618-621)
+- 2010-02-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1046.
+- 2010-02-22 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2010-02-23 — Considered as unfinished business. (consideration: CR H699-700)
+- 2010-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-23 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 402 - 0 (Roll no. 55). (text: CR 2/22/2010 H618-619)
+- 2010-02-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 402 - 0 (Roll no. 55).(text: CR 2/22/2010 H618-619)
