@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1074
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1074
@@ -16,7 +16,7 @@ Honoring the life of Miep Gies, who aided Anne Frank's family while they were in
 
 - Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
 
-## Cosponsors (55)
+## Cosponsors (60)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
@@ -73,13 +73,30 @@ Honoring the life of Miep Gies, who aided Anne Frank's family while they were in
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-02-24 — [House 111-2-61](votes/house-111-2-0061.md) — On Motion to Suspend the Rules and Agree — **Passed** (421–0)
 
 ## Actions
 
 - 2010-02-04 — Introduced in House
 - 2010-02-04 — Introduced in House
 - 2010-02-04 — Referred to the House Committee on Foreign Affairs.
+- 2010-02-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-02-23 — Considered under suspension of the rules. (consideration: CR H673-675)
+- 2010-02-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1074.
+- 2010-02-23 — Mr. McMahon moved to suspend the rules and agree to the resolution.
+- 2010-02-24 — Considered as unfinished business. (consideration: CR H769-770)
+- 2010-02-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 61). (text: CR 2/23/2010 H673)
+- 2010-02-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 61).(text: CR 2/23/2010 H673)
