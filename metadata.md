@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2847
@@ -102,7 +102,7 @@ Hiring Incentives to Restore Employment Act
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (71)
+## Recorded votes (75)
 
 - 2009-06-16 — [House 111-1-350](votes/house-111-1-0350.md) — On Motion that the Committee Rise — **Passed** (179–124)
 - 2009-06-17 — [House 111-1-353](votes/house-111-1-0353.md) — On Agreeing to the Amendment — **Agreed to** (411–14)
@@ -175,6 +175,10 @@ Hiring Incentives to Restore Employment Act
 - 2010-02-22 — [Senate 111-2-23](votes/senate-111-2-0023.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–30)
 - 2010-02-24 — [Senate 111-2-24](votes/senate-111-2-0024.md) — On the Motion — **Motion Agreed to** (62–34)
 - 2010-02-24 — [Senate 111-2-25](votes/senate-111-2-0025.md) — On the Motion — **Motion Agreed to** (70–28)
+- 2010-03-04 — [House 111-2-90](votes/house-111-2-0090.md) — Concurring with an Amdt to the Senate Amdt to the House Amdt to the Senate Amdt — **Passed** (217–201)
+- 2010-03-15 — [Senate 111-2-49](votes/senate-111-2-0049.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–30)
+- 2010-03-17 — [Senate 111-2-54](votes/senate-111-2-0054.md) — On the Motion — **Motion Agreed to** (63–34)
+- 2010-03-17 — [Senate 111-2-55](votes/senate-111-2-0055.md) — On the Motion — **Motion Agreed to** (68–29)
 
 ## Actions
 
@@ -862,3 +866,61 @@ Hiring Incentives to Restore Employment Act
 - 2010-02-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 62 - 34. Record Vote Number: 24.
 - 2010-02-24 — Senate amendment agreed to: Amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 25.
 - 2010-02-24 — Senate concurred in House amendment to Senate amendment with an amendment (SA 3310) Yea-Nay Vote. 70 - 28. Record Vote Number: 25. (consideration: CR S725; text as Senate agreed to House amendment with an amendment: CR 2/25/2010 S804-815)
+- 2010-02-25 — Message on Senate action sent to the House.
+- 2010-03-04 — DEBATE - The House proceeded with one hour of debate on the motion that the House agree to the Senate amendment to the House amendment to the Senate amendment, with an amendment.
+- 2010-03-04 — Message on House action received in Senate and at desk: House amendments to Senate amendment to House amendment to Senate amendment.
+- 2010-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-04 — On motion that the House agree with an amendment to the Senate amendment to the House amendment to the Senate Agreed to by the Yeas and Nays: 217 - 201 (Roll no. 90). (text of House amendment to Senate amendment to House amendment to Senate amendment: CR H1136-1137)
+- 2010-03-04 — Pursuant to the provisions of H.Res. 1137 the House moved to agree with an amendment to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H1125-1147)
+- 2010-03-04 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment to the House amendment to the Senate Agreed to by the Yeas and Nays: 217 - 201 (Roll no. 90).(text of House amendment to Senate amendment to House amendment to Senate amendment: CR H1136-1137)
+- 2010-03-04 — The previous question was ordered pursuant to the rule. (consideration: CR H1146-1147)
+- 2010-03-11 — Amendment SA 3498 proposed by Senator Durbin to the motion to concur in the House amendments to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR S1479; text: CR S1479) Of a perfecting nature.
+- 2010-03-11 — Amendment SA 3499 proposed by Senator Durbin to Amendment SA 3498. (consideration: CR S1479; text: CR S1479) Of a perfecting nature.
+- 2010-03-11 — Amendment SA 3500 proposed by Senator Durbin. (consideration: CR S1479-1480; text: CR S1480) To provide for a study.
+- 2010-03-11 — Amendment SA 3501 proposed by Senator Durbin to the instructions (amendment SA 3500) of the motion to refer the bill (H.R. 2847). (consideration: CR S1480; text: CR S1480) Of a perfecting nature.
+- 2010-03-11 — Amendment SA 3502 proposed by Senator Durbin to Amendment SA 3501. (consideration: CR S1480; text: CR S1480) Of a perfecting nature.
+- 2010-03-11 — Cloture motion on the motion to concur in the House amendments to Senate amendment to House amendment to Senate amendment presented in Senate. (consideration: CR S1479; text: CR S1479)
+- 2010-03-11 — Measure laid before Senate by unanimous consent. (consideration: CR S1479-1480)
+- 2010-03-11 — Motion by Senator Durbin to concur in the House amendments to Senate amendment to House amendment to Senate amendment made in Senate. (consideration: CR S1479)
+- 2010-03-11 — Motion by Senator Durbin to concur in the House amendments to Senate amendment to House amendment to Senate amendment to the bill (H.R. 2847) with an amendment (SA 3498). (consideration: CR S1479)
+- 2010-03-11 — Motion by Senator Durbin to refer to Senate Committee on Appropriations with instructions to report back forthwith, with the following amendment (SA 3500) made in Senate. (consideration: CR S1479)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3498 proposed by Senator Durbin to the motion to concur in the House amendments to the Senate amendment to the House amendment to the Senate amendment.(consideration: CR S1479; text: CR S1479)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3499 proposed by Senator Durbin to Amendment SA 3498.(consideration: CR S1479; text: CR S1479)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3500 proposed by Senator Durbin.(consideration: CR S1479-1480; text: CR S1480)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3501 proposed by Senator Durbin to the instructions (amendment SA 3500) of the motion to refer the bill (H.R. 2847).(consideration: CR S1480; text: CR S1480)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3502 proposed by Senator Durbin to Amendment SA 3501.(consideration: CR S1480; text: CR S1480)
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-15 — Cloture on the motion to concur in the House amendments to Senate amendment to House amendment to Senate amendment invoked in Senate by Yea-Nay Vote. 61 - 30. Record Vote Number: 49. (consideration: CR S1501; text: CR S1501)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500, S1501)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500, S1501)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500, S1501)
+- 2010-03-15 — Considered by Senate. (consideration: CR S1500-1501, S1513)
+- 2010-03-15 — Motion by Senator Durbin to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3500) fell when cloture was invoked on the motion to concur in the House amendments to Senate amendment to House amendment to Senate amendment in Senate.
+- 2010-03-15 — SA 3500 fell when cloture was invoked on the motion to concur in the House amendments to Senate amendment to House amendment to Senate amendment.
+- 2010-03-15 — SA 3501 fell when SA 3500 fell.
+- 2010-03-15 — SA 3502 fell when SA 3501 fell.
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-17 — Cleared for White House.
+- 2010-03-17 — Considered by Senate. (consideration: CR S1633)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1633)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1633-1635, S1635-1638)
+- 2010-03-17 — Message on Senate action sent to the House.
+- 2010-03-17 — Motion by Senator Durbin to concur in the House amendment to the Senate amendment to the House amendment to the Senate amendment with an amendment (SA 3498) is withdrawn. (consideration: CR S1633)
+- 2010-03-17 — Motion to waive all applicable budgetary discipline with respect to House amendment to the Senate amendment to the House amendment to the Senate amendment agreed to in Senate by Yea-Nay Vote. 63 - 34. Record Vote Number: 54. (consideration: CR S1634-1635)
+- 2010-03-17 — Point of order that the House amendment to the Senate amendment to the House amendment to the Senate amendment violates the Budget Act raised in Senate.
+- 2010-03-17 — Presented to President.
+- 2010-03-17 — Presented to President.
+- 2010-03-17 — Proposed amendment SA 3498 withdrawn in Senate. (consideration: CR S1633)
+- 2010-03-17 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the House amendment to the Senate amendment Yea-Nay Vote. 68 - 29. Record Vote Number: 55.
+- 2010-03-17 — SA 3499 fell when SA 3498 withdrawn. (consideration: CR S1633)
+- 2010-03-17 — Senate concurred in the House amendment to the Senate amendment to the House amendment to the Senate amendment Yea-Nay Vote. 68 - 29. Record Vote Number: 55.
+- 2010-03-18 — Became Public Law No: 111-147.
+- 2010-03-18 — Became Public Law No: 111-147.
+- 2010-03-18 — Signed by President.
+- 2010-03-18 — Signed by President.

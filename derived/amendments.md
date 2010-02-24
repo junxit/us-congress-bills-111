@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-208 amendatory instructions. 0 executed, 208 stated and not applied.
+209 amendatory instructions. 0 executed, 209 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 3111 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 51(c) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 3221 of the Internal Revenue Code of 1986 is amended by redesignating subsection (c) as subsection (d) and by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “($125,000 in the case of taxable years beginning after 2006 and before 2011)” in paragraph (1) and inserting “($250,000 in the case of taxable years beginning after 2007 and before 2011)”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “($500,000 in the case of taxable years beginning after 2006 and before 2011)” in paragraph (2) and inserting “($800,000 in the case of taxable years beginning after 2007 and before 2011)”, | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (5) and (7), and | the bill names no machine-readable US Code section |
@@ -238,4 +239,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “the greater of $10,000 or” before “35 percent”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking the last sentence and inserting the following: “At such time as the gross reportable amount with respect to any failure can be determined by the Secretary, any subsequent penalty imposed under this subsection with respect to … | the bill names no machine-readable US Code section |
 | — | redesignate | Section 871 is amended by redesignating subsection (l) as subsection (m) and by inserting after subsection (k) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Paragraphs (5)(D) and (6) of section 864(f) are each amended by striking “December 31, 2017” and inserting “December 31, 2019”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraphs (5)(D) and (6) of section 864(f) are each amended by striking “December 31, 2017” and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
