@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2847
 congress: 111
-version: Public Print
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2847
@@ -16,8 +16,26 @@ Hiring Incentives to Restore Employment Act
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 
-## Cosponsors (60)
+## Cosponsors (78)
 
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -84,7 +102,7 @@ Hiring Incentives to Restore Employment Act
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (67)
+## Recorded votes (71)
 
 - 2009-06-16 — [House 111-1-350](votes/house-111-1-0350.md) — On Motion that the Committee Rise — **Passed** (179–124)
 - 2009-06-17 — [House 111-1-353](votes/house-111-1-0353.md) — On Agreeing to the Amendment — **Agreed to** (411–14)
@@ -153,6 +171,10 @@ Hiring Incentives to Restore Employment Act
 - 2009-11-05 — [Senate 111-1-338](votes/senate-111-1-0338.md) — On the Motion to Table — **Motion to Table Agreed to** (54–45)
 - 2009-11-05 — [Senate 111-1-339](votes/senate-111-1-0339.md) — On the Motion — **Motion Rejected** (32–67)
 - 2009-11-05 — [Senate 111-1-340](votes/senate-111-1-0340.md) — On Passage of the Bill — **Bill Passed** (71–28)
+- 2009-12-16 — [House 111-1-991](votes/house-111-1-0991.md) — On Concurring in Senate Amendment with an Amendment — **Passed** (217–212)
+- 2010-02-22 — [Senate 111-2-23](votes/senate-111-2-0023.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–30)
+- 2010-02-24 — [Senate 111-2-24](votes/senate-111-2-0024.md) — On the Motion — **Motion Agreed to** (62–34)
+- 2010-02-24 — [Senate 111-2-25](votes/senate-111-2-0025.md) — On the Motion — **Motion Agreed to** (70–28)
 
 ## Actions
 
@@ -775,3 +797,68 @@ Hiring Incentives to Restore Employment Act
 - 2009-11-05 — Senate amendment submitted
 - 2009-11-05 — Senate insists on its amendment, asks for a conference, appoints conferees Mikulski; Inouye; Leahy; Kohl; Dorgan; Feinstein; Reed; Lautenberg; Nelson NE; Pryor; Byrd; Shelby; Gregg; McConnell; Hutchison; Alexander; Voinovich; Murkowski; Cochran. (consideration: CR S11186)
 - 2009-11-05 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S11174)
+- 2009-12-16 — A point of order was raised against consideration of the measure on the grounds that it violated the Budget Act. Following 20 minutes of debate on the point of order, the Chair will put the question on consideration.
+- 2009-12-16 — DEBATE - The House proceeded with 1 hour of debate on the motion to concur in the Senate amendment with an amendment.
+- 2009-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2009-12-16 — Mr. Obey moved that the House agree with an amendment to the Senate amendment. (consideration: CR H15431-15472, H15472-15473)
+- 2009-12-16 — On motion that the House agree with an amendment to the Senate amendment Agreed to by recorded vote: 217 - 212 (Roll no. 991). (text as House agreed to Senate amendment with an amendment: CR H15443-15455)
+- 2009-12-16 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by recorded vote: 217 - 212 (Roll no. 991).(text as House agreed to Senate amendment with an amendment: CR H15443-15455)
+- 2009-12-16 — Rule H. Res. 976 passed House.
+- 2009-12-16 — Rules Committee Resolution H. Res. 976 Reported to House. Rule provides for consideration of H.R. 3326, H.J. Res. 64, H.R. 4314 and H.R. 2847.
+- 2009-12-16 — The Chair put the question on consideration of the measure. (consideration: CR H15443)
+- 2009-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H15472)
+- 2009-12-18 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-02-11 — Amendment SA 3310 proposed by Senator Reid. (consideration: CR S559) In the nature of a substitute.
+- 2010-02-11 — Amendment SA 3311 proposed by Senator Reid to Amendment SA 3310. (consideration: CR S559; text: CR S559) To change the enactment date.
+- 2010-02-11 — Amendment SA 3312 proposed by Senator Reid. (consideration: CR S559; text: CR S559) To provide for a study.
+- 2010-02-11 — Amendment SA 3313 proposed by Senator Reid to the instructions (amendment SA 3312) of the motion to concur. (consideration: CR S559-560; text: CR S559-560) Of a perfecting nature.
+- 2010-02-11 — Amendment SA 3314 proposed by Senator Reid to Amendment SA 3313. (consideration: CR S560; text: CR S560) Of a perfecting nature.
+- 2010-02-11 — Cloture motion on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 3310) presented in Senate. (consideration: CR S559; text: CR S559)
+- 2010-02-11 — Measure laid before Senate by unanimous consent. (consideration: CR S559-560)
+- 2010-02-11 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (H.R. 2847) with an amendment (SA 3310) made in Senate.
+- 2010-02-11 — Motion by Senator Reid to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA3312) made in Senate.
+- 2010-02-11 — Senate amendment proposed (on the floor): Amendment SA 3310 proposed by Senator Reid.(consideration: CR S559)
+- 2010-02-11 — Senate amendment proposed (on the floor): Amendment SA 3311 proposed by Senator Reid to Amendment SA 3310.(consideration: CR S559; text: CR S559)
+- 2010-02-11 — Senate amendment proposed (on the floor): Amendment SA 3312 proposed by Senator Reid.(consideration: CR S559; text: CR S559)
+- 2010-02-11 — Senate amendment proposed (on the floor): Amendment SA 3313 proposed by Senator Reid to the instructions (amendment SA 3312) of the motion to concur.(consideration: CR S559-560; text: CR S559-560)
+- 2010-02-11 — Senate amendment proposed (on the floor): Amendment SA 3314 proposed by Senator Reid to Amendment SA 3313.(consideration: CR S560; text: CR S560)
+- 2010-02-11 — Senate amendment submitted
+- 2010-02-11 — Senate amendment submitted
+- 2010-02-11 — Senate amendment submitted
+- 2010-02-11 — Senate amendment submitted
+- 2010-02-11 — Senate amendment submitted
+- 2010-02-22 — Cloture on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 3310) invoked in Senate by Yea-Nay Vote. 62 - 30. Record Vote Number: 23. (consideration: CR S610; text: CR S610)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600)
+- 2010-02-22 — Considered by Senate. (consideration: CR S600-604, S607-613)
+- 2010-02-22 — Motion by Senator Reid to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3312) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 3310) in Senate.
+- 2010-02-22 — SA 3312 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 3310).
+- 2010-02-22 — SA 3313 fell when SA 3312 fell.
+- 2010-02-22 — SA 3314 fell when SA 3313 fell.
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-22 — Senate amendment submitted
+- 2010-02-23 — Considered by Senate. (consideration: CR S681)
+- 2010-02-23 — Considered by Senate. (consideration: CR S681)
+- 2010-02-23 — Considered by Senate. (consideration: CR S681-682, S682-693)
+- 2010-02-23 — Motion to waive provisions of the Budget Act and budget resolutions, under section 904(b) of the Budget Act,  for consideration of the pending motion to concur with amendment.
+- 2010-02-23 — Motion to waive the Budget Act with respect to amendment SA 3310 made in Senate.
+- 2010-02-23 — Point of order raised in Senate with respect to amendment SA 3310.
+- 2010-02-23 — Senate amendment submitted
+- 2010-02-24 — Amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 25.
+- 2010-02-24 — Considered by Senate. (consideration: CR S718)
+- 2010-02-24 — Considered by Senate. (consideration: CR S718)
+- 2010-02-24 — Considered by Senate. (consideration: CR S718-725)
+- 2010-02-24 — Motion to waive the Budget Act with respect to amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 62 - 34. Record Vote Number: 24.
+- 2010-02-24 — Proposed amendment SA 3311, by unanimous consent, was withdrawn in Senate. (consideration: CR S725)
+- 2010-02-24 — Resolving differences -- Senate actions: Senate concurred in House amendment to Senate amendment with an amendment (SA 3310) Yea-Nay Vote. 70 - 28. Record Vote Number: 25.(consideration: CR S725; text as Senate agreed to House amendment with an amendment: CR 2/25/2010 S804-815)
+- 2010-02-24 — Roll call votes on amendments in Senate: Amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 25.
+- 2010-02-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 62 - 34. Record Vote Number: 24.
+- 2010-02-24 — Senate amendment agreed to: Amendment SA 3310 agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 25.
+- 2010-02-24 — Senate concurred in House amendment to Senate amendment with an amendment (SA 3310) Yea-Nay Vote. 70 - 28. Record Vote Number: 25. (consideration: CR S725; text as Senate agreed to House amendment with an amendment: CR 2/25/2010 S804-815)
