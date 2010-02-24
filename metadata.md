@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3961
@@ -67,3 +67,17 @@ An Act to extend expiring provisions of the USA PATRIOT Improvement and Reauthor
 - 2009-11-20 — Received in the Senate.
 - 2009-12-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-01-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
+- 2010-02-24 — Amendment SA 3331 agreed to in Senate by Unanimous Consent.
+- 2010-02-24 — Amendment SA 3331 proposed by Senator Reid. (consideration: CR S737; text: CR S737) In the nature of a substitute.
+- 2010-02-24 — Amendment SA 3332 agreed to in Senate by Unanimous Consent.
+- 2010-02-24 — Amendment SA 3332 proposed by Senator Reid. (consideration: CR S737; text: CR S737) To amend the title.
+- 2010-02-24 — Measure laid before Senate by unanimous consent. (consideration: CR S736-737)
+- 2010-02-24 — Message on Senate action sent to the House.
+- 2010-02-24 — Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2010-02-24 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2010-02-24 — Senate amendment agreed to: Amendment SA 3331 agreed to in Senate by Unanimous Consent.
+- 2010-02-24 — Senate amendment agreed to: Amendment SA 3332 agreed to in Senate by Unanimous Consent.
+- 2010-02-24 — Senate amendment proposed (on the floor): Amendment SA 3331 proposed by Senator Reid.(consideration: CR S737; text: CR S737)
+- 2010-02-24 — Senate amendment proposed (on the floor): Amendment SA 3332 proposed by Senator Reid.(consideration: CR S737; text: CR S737)
+- 2010-02-24 — Senate amendment submitted
+- 2010-02-24 — Senate amendment submitted
