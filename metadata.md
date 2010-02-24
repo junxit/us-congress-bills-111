@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4626
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4626
@@ -16,7 +16,7 @@ Health Insurance Industry Fair Competition Act
 
 - Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
 
-## Cosponsors (65)
+## Cosponsors (73)
 
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
@@ -83,13 +83,40 @@ Health Insurance Industry Fair Competition Act
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Barrow, John [D-GA-12] (B001252)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Murphy, Scott [D-NY-20] (M001178)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Filner, Bob [D-CA-51] (F000116)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (2)
+
+- 2010-02-24 — [House 111-2-63](votes/house-111-2-0063.md) — On Motion to Recommit with Instructions — **Failed** (170–249)
+- 2010-02-24 — [House 111-2-64](votes/house-111-2-0064.md) — On Passage — **Passed** (406–19)
 
 ## Actions
 
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Referred to the House Committee on the Judiciary.
+- 2010-02-23 — Rules Committee Resolution H. Res. 1098 Reported to House. Rule provides for consideration of H.R. 4626 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2010-02-24 — Considered under the provisions of rule H. Res. 1098. (consideration: CR H771-791)
+- 2010-02-24 — DEBATE - The House proceeded with 10 minutes of debate on the Smith (TX) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to the McCarran-Ferguson Act and an amendment adding a new section at the end of the bill entitled "GAO REPORT".
+- 2010-02-24 — DEBATE - The House proceeded with two hours of debate on H.R. 4626.
+- 2010-02-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-24 — Mr. Smith (TX) moved to recommit with instructions to Judiciary. (consideration: CR H787-789; text: CR H787-788)
+- 2010-02-24 — On motion to recommit with instructions Failed by the Yeas and Nays: 170 - 249 (Roll no. 63). (consideration: CR H789-790)
+- 2010-02-24 — On passage Passed by the Yeas and Nays: 406 - 19 (Roll no. 64). (text: CR H771)
+- 2010-02-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 406 - 19 (Roll no. 64).(text: CR H771)
+- 2010-02-24 — Rule H. Res. 1098 passed House.
+- 2010-02-24 — Rule provides for consideration of H.R. 4626 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2010-02-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H789)
+- 2010-02-24 — The previous question was ordered pursuant to the rule. (consideration: CR H787)
+- 2010-02-24 — WORDS TAKEN DOWN - Twice during the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Weiner asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed debate on H.R. 4626.
