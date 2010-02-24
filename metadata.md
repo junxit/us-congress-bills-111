@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3961
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3961
@@ -30,11 +30,12 @@ An Act to extend expiring provisions of the USA PATRIOT Improvement and Reauthor
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2009-11-19 — [House 111-1-907](votes/house-111-1-0907.md) — Table Appeal of the Ruling of the Chair — **Passed** (251–177)
 - 2009-11-19 — [House 111-1-908](votes/house-111-1-0908.md) — On Motion to Recommit with Instructions — **Failed** (177–252)
 - 2009-11-19 — [House 111-1-909](votes/house-111-1-0909.md) — On Passage — **Passed** (243–183)
+- 2010-02-25 — [House 111-2-67](votes/house-111-2-0067.md) — On Motion to Concur in Senate Amendments — **Passed** (315–97)
 
 ## Actions
 
@@ -81,3 +82,19 @@ An Act to extend expiring provisions of the USA PATRIOT Improvement and Reauthor
 - 2010-02-24 — Senate amendment proposed (on the floor): Amendment SA 3332 proposed by Senator Reid.(consideration: CR S737; text: CR S737)
 - 2010-02-24 — Senate amendment submitted
 - 2010-02-24 — Senate amendment submitted
+- 2010-02-25 — Cleared for White House.
+- 2010-02-25 — DEBATE - The House proceeded with one hour of debate on the Conyers motion to agree to the Senate amendments to H.R. 3961.
+- 2010-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-25 — Mr. Conyers moved that the House agree to the Senate amendments. (consideration: CR H895)
+- 2010-02-25 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 315 - 97 (Roll no. 67). (text as House agreed to Senate amendments: CR H895)
+- 2010-02-25 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, the Chair postponed further proceedings on the Conyers motion to concur in the Senate amendments to H.R. 3961 until later in the legislative day.
+- 2010-02-25 — POSTPONED PROCEEDINGS - The Chair put the question on concurring in the Senate amendments and by voice vote announced that the ayes had prevailed. Mr. Posey objected to the vote on the grounds that a quorum was not present. Pursuant to clause 6 of rule XX, the yeas and nays were ordered.
+- 2010-02-25 — Pursuant to the provisions of H. Res. 1109, Mr. Conyers took from the Speaker's table H.R. 3961 with the Senate amendments thereto, and was recognized for a motion. (consideration: CR H895-901, H906-907)
+- 2010-02-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 315 - 97 (Roll no. 67).(text as House agreed to Senate amendments: CR H895)
+- 2010-02-25 — The previous question was ordered pursuant to the rule. (consideration: CR H901)
+- 2010-02-26 — Presented to President.
+- 2010-02-26 — Presented to President.
+- 2010-02-27 — Became Public Law No: 111-141.
+- 2010-02-27 — Became Public Law No: 111-141.
+- 2010-02-27 — Signed by President.
+- 2010-02-27 — Signed by President.
