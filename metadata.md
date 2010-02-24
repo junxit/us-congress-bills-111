@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3695
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3695
@@ -49,9 +49,10 @@ Billy's Law
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ Billy's Law
 - 2010-02-23 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
 - 2010-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H683-685)
 - 2010-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H683-685)
+- 2010-02-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
