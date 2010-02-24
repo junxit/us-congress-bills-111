@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 944
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 944
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives on the protection of member
 
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 
-## Cosponsors (40)
+## Cosponsors (42)
 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
@@ -58,10 +58,16 @@ Expressing the sense of the House of Representatives on the protection of member
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-02-24 — [House 111-2-62](votes/house-111-2-0062.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (415–3)
 
 ## Actions
 
@@ -69,3 +75,12 @@ Expressing the sense of the House of Representatives on the protection of member
 - 2009-12-03 — Introduced in House
 - 2009-12-03 — Referred to the House Committee on Foreign Affairs.
 - 2009-12-03 — Sponsor introductory remarks on measure. (CR E2880-2881)
+- 2010-02-23 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McMahon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-02-23 — Considered under suspension of the rules. (consideration: CR H675-679)
+- 2010-02-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 944.
+- 2010-02-23 — Mr. McMahon moved to suspend the rules and agree to the resolution, as amended.
+- 2010-02-24 — Considered as unfinished business. (consideration: CR H770-771)
+- 2010-02-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 415 - 3 (Roll no. 62). (text: CR 2/23/2010 H676)
+- 2010-02-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 415 - 3 (Roll no. 62).(text: CR 2/23/2010 H676)
+- 2010-02-24 — The title of the measure was amended. Agreed to without objection.
