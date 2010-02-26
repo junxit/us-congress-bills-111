@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-175 amendatory instructions. 0 executed, 175 stated and not applied.
+168 amendatory instructions. 0 executed, 168 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Title I of the National Security Act of 1947 (50 U.S.C. 402 et seq.) is amended by inserting after section 113 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note) is amended by inserting after the item relating to section 113 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title I of the National Security Act of 1947 (50 U.S.C. 402 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note) is further amended by inserting after the item relating to section 119B the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subtitle C of title X of the National Security Act of 1947 (50 U.S.C. 441m et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note), as amended by section 303 of this Act, is further amended by inserting after the item relating to section 1021 the following new item: | the bill names no machine-readable US Code section |
 | — | repeal | Section 318 of the Intelligence Authorization Act for Fiscal Year 2004 (Public Law 108–177; 50 U.S.C. 441g note) is repealed. | the bill names no machine-readable US Code section |
@@ -45,14 +48,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 16(e) of the National Security Agency Act of 1959 (50 U.S.C. 402 note) is amended by striking “(1) When an employee” and all that follows through “(2) Agency efforts” and inserting “Agency efforts”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subtitle C of title X of the National Security Act of 1947 (50 U.S.C. 441g et seq.), as amended by section 312 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note), as amended by section 312 of this Act, is further amended by inserting after the item relating to section 1023 the following new item: | the bill names no machine-readable US Code section |
-| — | amend | Section 501(a) of the National Security Act of 1947 (50 U.S.C. 413(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 501(a) of the National Security Act of 1947 (50 U.S.C. 413(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 501(c) of such Act (50 U.S.C. 413(c)) is amended by striking “such procedures” and inserting “such written procedures”. | the bill names no machine-readable US Code section |
-| — | insert | Section 502(a)(2) of such Act (50 U.S.C. 413a(a)(2)) is amended by inserting “(including any information or material relating to the legal authority under which an intelligence activity is being or was conducted, and any information or m… | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(2), by inserting “(including any information or material relating to the legal authority under which a covert action is being or was conducted, and any information or material relating to legal issues upon which guidanc… | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (2) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking “is limited to the Members of Congress specified in paragraph (2)” and inserting “is not provided to all members of one of the congressional intelligence committees in accordance with paragraph (2)”; | the bill names no machine-readable US Code section |
+| — | insert | Section 502(a)(2) of such Act (50 U.S.C. 413a(a)(2)) is amended by inserting “(including the legal authority under which the intelligence activity is being or was conducted)” after “concerning intelligence activities”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(2), by inserting “(including the legal authority under which the covert action is being or was conducted)” after “concerning covert actions”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “in writing” after “be reported”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “If the President” and inserting “Subject to paragraph (5), if the President”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(d) The President” and inserting “(d)(1) The President”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), as designated by subparagraph (A) of this paragraph, by striking “specified in” and inserting “informed in accordance with”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), as designated by subparagraph (A) of this paragraph, by inserting “in writing” after “notified”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Semiannual” and inserting “Annual”; | the bill names no machine-readable US Code section |
@@ -65,18 +69,15 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (2), by inserting “the Committee on Armed Services,” after “the Committee on Appropriations,”. | the bill names no machine-readable US Code section |
 | — | insert | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.) is amended by inserting after section 507 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 332, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 333 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 334 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 335 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “Annual” and inserting “Biannual”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “Annual” and inserting “Biennial”; | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
 | — | repeal | Section 109 of the National Security Act of 1947 (50 U.S.C. 404d) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | by striking “(1) The Director” and inserting “The Director” ; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(1) The Director” and inserting “The Director”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (d); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (d), (e), (f), and (g), respectively. | the bill names no machine-readable US Code section |
 | — | repeal | Section 826 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2429; 21 U.S.C. 873 note) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraphs (A) and (G); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B), (C), (D), (E), (F), (H), (I), and (N) as subparagraphs (A), (B), (C), (D), (E), (F), (G), and (H), respectively; and | the bill names no machine-readable US Code section |
@@ -88,14 +89,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsection (b) of such section is amended by striking “five years” and inserting “10 years”. | the bill names no machine-readable US Code section |
 | — | insert | The first sentence of section 603(a) of the National Security Act of 1947 (50 U.S.C. 423(a)) is amended by inserting “including an assessment of the need for any modification of this title for the purpose of improving legal protections f… | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (4) of section 7342(f) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 119 of the National Security Act of 1947 (50 U.S.C. Section 404o) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 119 of the National Security Act of 1947 (50 U.S.C. Section 404o) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.), as amended by subsection (a) of this section, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents in the first section of such Act (50 U.S.C. 401 note), as amended by section 357 of this Act, is further amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 336 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note), as amended by section 365 of this Act, is further amended by inserting after the item relating to section 512 the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Title I of the National Security Act of 1947 (50 U.S.C. 402 et seq.), as amended by section 303 of this Act, is further amended by inserting after section 103G the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act (50 U.S.C. 401 note), as amended by subsection (a)(1)(C) of this section, is further amended by inserting after the item relating to section 103G the following new item: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “with” and inserting “of headquarters with headquarters of”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Commencing as of October 1, 2008, the” and inserting “(1) Except as provided in paragraph (2), the”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), as designated by paragraph (2) of this section, by inserting “the headquarters of” before “the Office”; | the bill names no machine-readable US Code section |
@@ -118,11 +121,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of contents in the first section of the National Security Act of 1947 (50 U.S.C. 401 note), as amended by section 366 of this Act, is further amended by inserting after the item relating to section 103H the following new item: | the bill names no machine-readable US Code section |
 | — | repeal | Section 8K of the Inspector General Act of 1978 (5 U.S.C. App.) is repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5314 of title 5, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (e) as subsection (i) and transferring such subsection to the end; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in section 501(f) (50 U.S.C. 413(f)), by striking “503(e)” and inserting “503(i)”; | the bill names no machine-readable US Code section |
-| — | replace | in section 502(a)(1) (50 U.S.C. 413b(a)(1)), by striking “503(e)” and inserting “503(i)”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 504(c) (50 U.S.C. 414(c)), by striking “503(e)” and inserting “503(i)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(4) If” and inserting “(4)(A) If”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (E) and (F) as subsections (F) and (G), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Section 8(d) of the Contract Disputes Act of 1978 (41 U.S.C. 607(d)) is amended by inserting before the sentence beginning with “In exercising” the following new sentence: “Notwithstanding any other provision of law, an appeal from a dec… | the bill names no machine-readable US Code section |
 | — | insert | Title I of the National Security Act of 1947 (50 U.S.C. 402 et seq.) is amended by inserting after section 104A the following new section: | the bill names no machine-readable US Code section |
@@ -133,7 +136,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (H), by inserting “the Coast Guard,” after “the Marine Corps,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (K), by striking “The elements” and all that follows through “the Coast Guard” and inserting “The Office of Intelligence and Analysis of the Department of Homeland Security”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3(4)(H) of the National Security Act of 1947 (50 U.S.C. 401a(4)(H)), as amended by section 421 of this Act, is further amended by inserting “the Drug Enforcement Administration,” after “the Federal Bureau of Investigation,”. | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (d), (h), (i), and (j); and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (d), (h), (i), and (j); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e), (f), (g), (k), (l), and (m) as subsections (d), (e), (f), (g), (h), and (i), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (f), as redesignated by paragraph (2) of this subsection, by striking paragraphs (3) and (4). | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “subsection (f)” and inserting “subsection (e)”; and | the bill names no machine-readable US Code section |
@@ -144,19 +147,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subparagraphs (A) and (B); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C) through (I) as subparagraphs (A) through (G), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | The National Security Agency Act of 1959 (50 U.S.C. 402 note), as amended by section 424 of this Act, is further amended by inserting after section 2 (as added by such section 424) the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The National Security Agency Act of 1959 (50 U.S.C. 402 note), as amended by section 425 of this Act, is further amended by inserting after section 3 (as added by such section 425), the following new section: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “the National Security Agency;” after “the Federal Emergency Management Agency,”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “the National Security Agency,” after “the National Aeronautics and Space Administration,”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a) of section 1007 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2442) is amended by striking “September 1, 2004” and inserting “February 1, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 1002(b) of such Act is amended by striking “The Deputy Director of Central Intelligence for Community Management.” and inserting “The Principal Deputy Director of National Intelligence.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1002(i) of such Act is amended in the matter preceding paragraph (1) by striking “including—” and inserting “including advanced research and development programs and activities. Such review shall include—”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “terrorism and homeland security information” and inserting “national security information”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(A), by striking “terrorism information” and inserting “national security information”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) in the first sentence of the matter preceding subparagraph (A), by striking “terrorism information” and inserting “national security information”; and | the bill names no machine-readable US Code section |
-| — | insert | in the second sentence, by inserting “in the Executive Office of the President and shall serve” after “The individual designated as the program manager shall serve”; and | the bill names no machine-readable US Code section |
-| — | replace | in the third sentence, by striking “homeland security information, terrorism information, and weapons of mass destruction information” and inserting “national security information”. | the bill names no machine-readable US Code section |
 | — | replace | in section 5(a)(1), by striking “authorized under paragraphs (2) and (3)” and all that follows through “(50 U.S.C. 403(a)(2), (3), 403–3(c)(7), (d), 403–4(a), (g), and 405)” and inserting “authorized under section 104A of the National Se… | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “advise” and inserting “advice”; and | the bill names no machine-readable US Code section |
 | — | replace | in subclause (I), by striking “Executive Director” and inserting “Associate Deputy Director”; | the bill names no machine-readable US Code section |

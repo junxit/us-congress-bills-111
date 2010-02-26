@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2701
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Congressional intelligence committees* The term “congressional intelligence committees” means—
+- **(1)** *Congressional intelligence committees* The term congressional intelligence committees means—
   - **(A)** the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(B)** the Select Committee on Intelligence of the Senate.
-- **(2)** *Intelligence community* The term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+- **(2)** *Intelligence community* The term intelligence community has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
