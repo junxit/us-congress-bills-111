@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1113
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

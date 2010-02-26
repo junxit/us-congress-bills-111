@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1113
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1113
@@ -16,6 +16,10 @@ Providing for further consideration of the bill (H.R. 2701) to authorize appropr
 
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2010-02-25 — Introduced in House
@@ -23,3 +27,9 @@ Providing for further consideration of the bill (H.R. 2701) to authorize appropr
 - 2010-02-25 — The House Committee on Rules reported an original measure, H. Rept. 111-421, by Mr. Cardoza.
 - 2010-02-25 — The House Committee on Rules reported an original measure, H. Rept. 111-421, by Mr. Cardoza.
 - 2010-02-25 — The resolution provides for further consideration of H.R. 2701, the "Intelligence Authorization Act for Fiscal Year 2010." The resolution provides that amendment number 1 printed in House Report 111-419 shall be modified by striking the matter proposed to be inserted as section 506.
+- 2010-02-26 — Considered as privileged matter. (consideration: CR H936-942)
+- 2010-02-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 1113.
+- 2010-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-02-26 — On agreeing to the resolution Agreed to by voice vote. (text: CR H937)
+- 2010-02-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H937)
+- 2010-02-26 — The previous question was ordered without objection. (consideration: CR H942)
