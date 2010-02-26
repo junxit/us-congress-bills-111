@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3820
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 0 executed, 42 stated and not applied.
+43 amendatory instructions. 0 executed, 43 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,23 +32,24 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | repeal | Section 2 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701) is repealed. | the bill names no machine-readable US Code section |
-| — | strike | Section 4 of the National Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is amended by striking paragraphs (8) and (9). | the bill names no machine-readable US Code section |
+| — | strike | Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is amended by striking paragraphs (8) and (9). | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (3) through (5); | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c)(1) by inserting “on Natural Hazards Risk Reduction established under section 301 of the Natural Hazards Risk Reduction Act of 2009” after “Interagency Coordinating Committee”. | the bill names no machine-readable US Code section |
 | — | replace | Section 11 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705e) is amended by striking “There is established” and all that follows through “conduct of such earthquake investigations.” and inserting “The Program shall include… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of subsection (a) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of subsection (b) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | repeal | Section 14(b) of the National Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7708(b)) is repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “(a) Establishment.—”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
 | — | amend | Section 202 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15701) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 203(1) of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15702(1)) is amended by striking “Director of the Office of Science and Technology Policy” and inserting “Director of the National Institute of Standards an… | the bill names no machine-readable US Code section |
 | — | amend | Section 204 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15703) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 207 of the National Windstorm Impact Reduction Program of 2004 (42 U.S.C. 15706) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “a building or buildings” and inserting “a building, buildings, or infrastructure”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “To the maximum extant practicable, the Director shall establish and deploy a Team within 48 hours after such an event.” and inserting “The Director shall make a decision whether to deploy a Team within 72 hours after such an… | the bill names no machine-readable US Code section |
+| — | replace | by striking “To the maximum extent practicable, the Director shall establish and deploy a Team within 48 hours after such an event.” and inserting “The Director shall make a decision whether to deploy a Team within 72 hours after such an… | the bill names no machine-readable US Code section |
 | — | replace | in section 2(b)(1), by striking “buildings” and inserting “buildings or infrastructure”; | the bill names no machine-readable US Code section |
 | — | replace | in section 2(b)(2)(A), by striking “building” and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
 | — | replace | in section 2(b)(2)(D), by striking “buildings” and inserting “buildings or infrastructure”; | the bill names no machine-readable US Code section |
