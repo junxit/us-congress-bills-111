@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4626
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 3 of the Act of March 9, 1945 (15 U.S.C. 1013), commonly known as the McCarran-Ferguson Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3 of the Act of March 9, 1945 (15 U.S.C. 1013), commonly known as the McCarran-Ferguson Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |

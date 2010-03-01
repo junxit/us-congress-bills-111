@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4626
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4626
@@ -120,3 +120,6 @@ Health Insurance Industry Fair Competition Act
 - 2010-02-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H789)
 - 2010-02-24 — The previous question was ordered pursuant to the rule. (consideration: CR H787)
 - 2010-02-24 — WORDS TAKEN DOWN - Twice during the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Weiner asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed debate on H.R. 4626.
+- 2010-02-25 — Received in the Senate.
+- 2010-02-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
