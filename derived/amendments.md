@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4691
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (C) the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a)(3)(A) of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) is amended by striking “February 28, 2010” and inserting “March 31, 2010”. | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3)(C), by inserting before the period at the end the following: “or consists of a reduction of hours followed by such an involuntary termination of employment during such period (as described in paragraph (17)(C))”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (ii) of subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subclause (I) of subparagraph (C)(i), and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | Subsection (a)(2)(A)(ii)(I) of such section is amended by striking “of the first month”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4691
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4691
@@ -55,3 +55,5 @@ Temporary Extension Act of 2010
 - 2010-02-25 — Referred to House Ways and Means
 - 2010-02-25 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Education and Labor, Transportation and Infrastructure, Financial Services, Small Business, the Judiciary, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-02-25 — Referred to the Subcommittee on Highways and Transit.
+- 2010-02-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
