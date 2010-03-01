@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 238
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 238
@@ -64,9 +64,10 @@ Recognizing the difficult challenges Black veterans faced when returning home af
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -86,3 +87,4 @@ Recognizing the difficult challenges Black veterans faced when returning home af
 - 2010-02-26 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 74). (text: CR 2/24/2010 H791-792)
 - 2010-02-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 74).(text: CR 2/24/2010 H791-792)
 - 2010-02-26 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2701.
+- 2010-03-01 — Received in the Senate and referred to the Committee on Veterans' Affairs.
