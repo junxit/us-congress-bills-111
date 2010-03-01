@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 227
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 227
@@ -33,9 +33,10 @@ Supporting the goals and ideals of National Urban Crimes Awareness Week.
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Supporting the goals and ideals of National Urban Crimes Awareness Week.
 - 2010-02-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-02-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 68). (text: CR 2/23/2010 H687)
 - 2010-02-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 68).(text: CR 2/23/2010 H687)
+- 2010-03-01 — Received in the Senate and referred to the Committee on the Judiciary.
