@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4691
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4691
@@ -34,6 +34,11 @@ Temporary Extension Act of 2010
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2010-03-02 — [Senate 111-2-31](votes/senate-111-2-0031.md) — On the Motion — **Motion Rejected** (43–53)
+- 2010-03-02 — [Senate 111-2-32](votes/senate-111-2-0032.md) — On Passage of the Bill — **Bill Passed** (78–19)
+
 ## Actions
 
 - 2010-02-25 — Considered under suspension of the rules. (consideration: CR H901-906)
@@ -57,3 +62,21 @@ Temporary Extension Act of 2010
 - 2010-02-25 — Referred to the Subcommittee on Highways and Transit.
 - 2010-02-26 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
+- 2010-03-02 — Amendment SA 3355 proposed by Senator Bunning. (consideration: CR S927-933) In the nature of a substitute.
+- 2010-03-02 — Amendment SA 3355 ruled out of order by the chair.
+- 2010-03-02 — Became Public Law No: 111-144.
+- 2010-03-02 — Became Public Law No: 111-144.
+- 2010-03-02 — Cleared for White House.
+- 2010-03-02 — Measure laid before Senate by unanimous consent. (consideration: CR S926-934)
+- 2010-03-02 — Message on Senate action sent to the House.
+- 2010-03-02 — Motion to waive the Budget Act with respect to amendment SA 3355 rejected in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 31.
+- 2010-03-02 — Passed Senate without amendment by Yea-Nay Vote. 78 - 19. Record Vote Number: 32.
+- 2010-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 78 - 19. Record Vote Number: 32.
+- 2010-03-02 — Point of order raised in Senate with respect to amendment SA 3355.
+- 2010-03-02 — Presented to President.
+- 2010-03-02 — Presented to President.
+- 2010-03-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3355 rejected in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 31.
+- 2010-03-02 — Senate amendment proposed (on the floor): Amendment SA 3355 proposed by Senator Bunning.(consideration: CR S927-933)
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Signed by President.
+- 2010-03-02 — Signed by President.
