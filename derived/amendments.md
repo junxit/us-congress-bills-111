@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3820
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-43 amendatory instructions. 0 executed, 43 stated and not applied.
+45 amendatory instructions. 0 executed, 45 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,7 +36,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (3) through (5); | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (c)(1) by inserting “on Natural Hazards Risk Reduction established under section 301 of the Natural Hazards Risk Reduction Act of 2009” after “Interagency Coordinating Committee”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(1) by inserting “on Natural Hazards Risk Reduction established under section 301 of the Natural Hazards Risk Reduction Act of 2010” after “Interagency Coordinating Committee”. | the bill names no machine-readable US Code section |
 | — | replace | Section 11 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705e) is amended by striking “There is established” and all that follows through “conduct of such earthquake investigations.” and inserting “The Program shall include… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of subsection (a) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of subsection (b) the following: | the bill names no machine-readable US Code section |
@@ -63,7 +63,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 4(a)(3), by striking “building” both places it appears and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
 | — | replace | in section 4(b), by striking “building” both places it appears and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
 | — | replace | in section 4(c)(1) and (2), by striking “building” both places it appears and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
+| — | amend | by amending section 4(d)(1) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 4(d)(3) and (4), by striking “building” both places it appears and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 4, by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in section 7(a), by striking “on request and at reasonable cost”; | the bill names no machine-readable US Code section |
 | — | replace | in section 7(c), by striking “building” and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
 | — | replace | in section 8(1) and (4), by striking “building” both places it appears and inserting “building or infrastructure”; | the bill names no machine-readable US Code section |
