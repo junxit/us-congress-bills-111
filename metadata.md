@@ -1,7 +1,7 @@
 ---
 measure: S. 1453
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1453
@@ -33,3 +33,8 @@ Bureau of Reclamation Fish Recovery Programs Reauthorization Act of 2009
 - 2009-07-14 — Introduced in Senate
 - 2009-07-14 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S7483)
 - 2009-07-14 — Sponsor introductory remarks on measure. (CR S7482)
+- 2009-07-23 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 111-91.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-142.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-142.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
