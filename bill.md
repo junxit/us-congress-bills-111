@@ -1,7 +1,7 @@
 ---
 legis-num: S. 853
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,17 +25,21 @@ Congress finds that—
 
 ## § 3. Designation of segments of White Clay Creek, as scenic and recreational rivers
 
-Section 3(a)(163) of the Wild and Scenic Rivers Act (16 U.S. C. 1274(a)(163)) is amended—
+## § 2. Designation of segments of White Clay Creek, as scenic and recreational rivers
 
-- **(1)** in the matter preceding subparagraph (A)—
-  - **(A)** by striking “190 miles” and inserting “199 miles”; and
-  - **(B)** by striking “(dated June 2000)” and inserting “(dated February 2009)”;
-- **(2)** by striking subparagraph (B) and inserting the following:
-  > - **(B)** 22.4 miles of the east branch beginning at the southern boundary line of the Borough of Avondale, including Walnut Run, Broad Run, and Egypt Run, outside the boundaries of the White Clay Creek Preserve, as a recreational river.
+-  Section 3(a)(163) of the Wild and Scenic Rivers Act (16 U.S. C. 1274(a)(163)) is amended—
+  - **(1)** in the matter preceding subparagraph (A)—
+    - **(A)** by striking “190 miles” and inserting “199 miles”; and
+    - **(B)** by striking “(dated June 2000)” and inserting “(dated February 2009)”;
+    - **(B)** by striking “the recommended designation and classification maps (dated June 2000)” and inserting “the map entitled ‘White Clay Creek Wild and Scenic River Designated Area Map’ and dated July 2008, the map entitled ‘White Clay Creek Wild and Scenic River Classification Map’ and dated July 2008, and the map entitled ‘White Clay Creek National Wild and Scenic River Proposed Additional Designated Segments-July 2008’”;
+  - **(2)** by striking subparagraph (B) and inserting the following:
+    > - **(B)** 22.4 miles of the east branch beginning at the southern boundary line of the Borough of Avondale, including Walnut Run, Broad Run, and Egypt Run, outside the boundaries of the White Clay Creek Preserve, as a recreational river.
 
-- **(3)** by striking subparagraph (H) and inserting the following:
-  > - **(H)** 14.3 miles of the main stem, including Lamborn Run, that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania and Delaware, and White Clay Creek State Park, Delaware beginning at the confluence of the east and middle branches in London Britain Township, Pennsylvania, downstream to the northern boundary line of the City of Newark, Delaware, as a scenic river.
+  - **(3)** by striking subparagraph (H) and inserting the following:
+    > - **(H)** 14.3 miles of the main stem, including Lamborn Run, that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania and Delaware, and White Clay Creek State Park, Delaware beginning at the confluence of the east and middle branches in London Britain Township, Pennsylvania, downstream to the northern boundary line of the City of Newark, Delaware, as a scenic river.
+
+## § 3. Administration of White Clay Creek
 
 ## § 4. Administration of White Clay Creek
 
-Sections 4 through 8 of Public Law 106–357 (16 U.S.C. 1274 note; 114 Stat. 1393), shall be applicable to the additional segments of the White Clay Creek designated by the amendments made by section 3.
+-  Sections 4 through 8 of Public Law 106–357 (16 U.S.C. 1274 note; 114 Stat. 1393), shall be applicable to the additional segments of the White Clay Creek designated by the amendments made by section 3 section 2.

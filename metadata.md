@@ -1,7 +1,7 @@
 ---
 measure: S. 853
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 853
@@ -30,3 +30,8 @@ White Clay Creek Wild and Scenic River Expansion Act of 2009
 - 2009-04-22 — Introduced in Senate
 - 2009-04-22 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S4576)
 - 2009-04-22 — Sponsor introductory remarks on measure. (CR S4575-4576)
+- 2009-07-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 111-92.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-134.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-134.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 284.
