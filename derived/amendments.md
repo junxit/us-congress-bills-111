@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2802
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 

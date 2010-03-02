@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2802
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2802
@@ -54,3 +54,13 @@ To provide for an extension of the legislative authority of the Adams Memorial F
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-155.
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-155.
 - 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.
+- 2010-05-07 — Cleared for White House.
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3429-3431)
+- 2010-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3429-3431)
+- 2010-05-13 — Presented to President.
+- 2010-05-13 — Presented to President.
+- 2010-05-24 — Became Public Law No: 111-169.
+- 2010-05-24 — Became Public Law No: 111-169.
+- 2010-05-24 — Signed by President.
+- 2010-05-24 — Signed by President.
