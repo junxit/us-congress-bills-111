@@ -1,7 +1,7 @@
 ---
 measure: S. 782
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 782
@@ -28,3 +28,8 @@ National Volcano Early Warning and Monitoring Program Act
 
 - 2009-04-02 — Introduced in Senate
 - 2009-04-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-06-17 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 111-65.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-133.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-133.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 283.
