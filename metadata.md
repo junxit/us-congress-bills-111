@@ -1,7 +1,7 @@
 ---
 measure: S. 721
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 721
@@ -28,3 +28,8 @@ Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Pr
 
 - 2009-03-26 — Introduced in Senate
 - 2009-03-26 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3920)
+- 2009-10-29 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 111-223.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-132.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-132.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
