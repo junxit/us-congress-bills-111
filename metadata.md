@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3113
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3113
@@ -42,3 +42,8 @@ Upper Elk River Wild and Scenic Study Act
 - 2009-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9755)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9755)
 - 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-11-04 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-156.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-156.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.
