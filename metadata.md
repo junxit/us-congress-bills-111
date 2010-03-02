@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1694
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1694
@@ -50,3 +50,8 @@ A bill to authorize the acquisition and protection of nationally significant bat
 - 2009-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4528)
 - 2009-04-21 — The title of the measure was amended. Agreed to without objection.
 - 2009-04-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-07-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-152.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-152.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.

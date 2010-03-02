@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1694
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -14,6 +14,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
 Section 7301(c) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11) is amended as follows:
 
 - **(1)** In paragraph (1)(A), by inserting after “means” the following: “collectively, both the document entitled “Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States”, prepared by the National Park Service, and dated September 2007, and”.
+- **(1)** In paragraph (1)—
+  - **(A)** by striking subparagraph (A) and inserting the following:
+    > - **(A)** *Battlefield report* The term “battlefield report” means, collectively—
+    >   - **(i)** the report entitled ‘Report on the Nation’s Civil War Battlefields’, prepared by the Civil War Sites Advisory Commission, and dated July 1993; and
+    >   - **(ii)** the report entitled ‘Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States’, prepared by the National Park Service, and dated September 2007.
+
+  - **(B)** in subpagraph (C)(ii), by striking “Battlefield Report” and inserting “battlefield report”.
 - **(2)** In paragraph (2), by inserting “eligible sites or” after “acquiring”.
 - **(3)** In paragraph (3), by inserting “an eligible site or” after “acquire”.
 - **(4)** In paragraph (4), by inserting “an eligible site or” after “acquiring”.
@@ -25,3 +32,8 @@ Section 7301(c) of the Omnibus Public Land Management Act of 2009 (Public Law 11
   >   - **(A)** preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the report required under this paragraph;
   >   - **(B)** changes in the condition of the battlefields and associated sites during that period; and
   >   - **(C)** any other relevant developments relating to the battlefields and associated sites during that period.
+
+- **(8)** By striking paragraph (8) (as redesignated by paragraph (6)) and inserting the following:
+  > - **(8)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to provide grants under this subsection for each of fiscal years 2009 through 2019—
+  >   - **(A)** $10,000,000 for the protection of Civil War battlefields; and
+  >   - **(B)** $10,000,000 for the protection of Revolutionary War and War of 1812 battlefields.
