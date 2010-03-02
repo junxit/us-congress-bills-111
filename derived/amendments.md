@@ -1,7 +1,7 @@
 ---
 measure: S. 1369
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “Squaw Creek” and inserting “Whychus Creek”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “McAllister Ditch, including the Soap Fork Squaw Creek, the North Fork, the South Fork, the East and West Forks of Park Creek, and Park Creek Fork” and inserting “Plainview Ditch, inc… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “McAllister Ditch” and inserting “Plainview Ditch”. | the bill names no machine-readable US Code section |

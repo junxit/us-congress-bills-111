@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1369
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,4 +27,12 @@ Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by
 >     - **(iii)** disposition under all laws relating to mineral and geothermal leasing or mineral materials.
 >   - **(C)** *Effect of designation*
 >     - **(i)** *In general* The designation of the river segments under this paragraph shall not affect valid existing rights (including rights-of-way and easements) in, through, and to the land designated as part of the Wild and Scenic River System under this paragraph.
->     - **(ii)** *Private land* Nothing in this paragraph requires management of private land within the basins of the river segments designated under this paragraph in a manner different than that required under State law, including Chapter 527 of the Oregon Revised Statutes.
+>     - **(ii)** *Private land* Nothing in this paragraph requires management of private land within the basins of the river segments designated under this paragraph in a manner different than that required under State law, including Chapter 527 of the Oregon Revised Statutes.”. mineral materials.
+
+## § 3. Technical corrections
+
+Section 3(a)(102) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)(102)) is amended—
+
+- **(1)** in the heading, by striking “Squaw Creek” and inserting “Whychus Creek”;
+- **(2)** in the matter preceding subparagraph (A), by striking “McAllister Ditch, including the Soap Fork Squaw Creek, the North Fork, the South Fork, the East and West Forks of Park Creek, and Park Creek Fork” and inserting “Plainview Ditch, including the Soap Creek, the North and South Forks of Whychus Creek, the East and West Forks of Park Creek, and Park Creek”; and
+- **(3)** in subparagraph (B), by striking “McAllister Ditch” and inserting “Plainview Ditch”.
