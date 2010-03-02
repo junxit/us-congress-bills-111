@@ -1,7 +1,7 @@
 ---
 measure: H.R. 714
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 714
@@ -34,3 +34,8 @@ To authorize the Secretary of the Interior to lease certain lands in Virgin Isla
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1622)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1622)
 - 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-07-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-146.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-146.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
