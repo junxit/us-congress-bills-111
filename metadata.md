@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1097
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1097
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Engineers Week, and for other purpos
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (25)
+## Cosponsors (29)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Inglis, Bob [R-SC-4] (I000023)
@@ -43,13 +43,29 @@ Supporting the goals and ideals of National Engineers Week, and for other purpos
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Foster, Bill [D-IL-14] (F000454)
 
 ## Committees (1)
 
 - House — Science, Space, and Technology Committee
+
+## Recorded votes (1)
+
+- 2010-03-02 — [House 111-2-77](votes/house-111-2-0077.md) — On Motion to Suspend the Rules and Agree — **Passed** (382–0)
 
 ## Actions
 
 - 2010-02-23 — Introduced in House
 - 2010-02-23 — Introduced in House
 - 2010-02-23 — Referred to the House Committee on Science and Technology.
+- 2010-03-02 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Wu objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-03-02 — Considered as unfinished business. (consideration: CR H1000-1001)
+- 2010-03-02 — Considered under suspension of the rules. (consideration: CR H984-987)
+- 2010-03-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1097.
+- 2010-03-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-02 — Mr. Wu moved to suspend the rules and agree to the resolution.
+- 2010-03-02 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 382 - 0 (Roll no. 77). (text: CR H984)
+- 2010-03-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 382 - 0 (Roll no. 77).(text: CR H984)
