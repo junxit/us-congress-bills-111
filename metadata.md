@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1112
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1112
@@ -36,3 +36,9 @@ Congratulating the Pennsylvania State University IFC/Panhellenic Dance Marathon 
 - 2010-02-25 — Introduced in House
 - 2010-02-25 — Introduced in House
 - 2010-02-25 — Referred to the House Committee on Education and Labor.
+- 2010-03-02 — Considered under suspension of the rules. (consideration: CR H994-995)
+- 2010-03-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1112.
+- 2010-03-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-02 — Mr. Courtney moved to suspend the rules and agree to the resolution.
+- 2010-03-02 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H994)
+- 2010-03-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H994)
