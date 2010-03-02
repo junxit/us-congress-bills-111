@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1442
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1442
@@ -51,3 +51,8 @@ To provide for the sale of the Federal Government's reversionary interest in app
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 548). (text: CR 7/14/2009 H8052)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 548).(text: CR 7/14/2009 H8052)
 - 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-10-08 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2009-12-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-150.
+- 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-150.
+- 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.
