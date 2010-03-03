@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2554
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2554
@@ -16,7 +16,7 @@ National Association of Registered Agents and Brokers Reform Act of 2010
 
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Cosponsors (34)
+## Cosponsors (44)
 
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
@@ -52,6 +52,16 @@ National Association of Registered Agents and Brokers Reform Act of 2010
 - Rep. Adler, John H. [D-NJ-3] (A000364)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
 
 ## Committees (1)
 
@@ -62,3 +72,9 @@ National Association of Registered Agents and Brokers Reform Act of 2010
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Financial Services.
+- 2010-03-03 — Considered under suspension of the rules. (consideration: CR H1071-1076)
+- 2010-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2554.
+- 2010-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-03 — Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.
+- 2010-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1071-1075)
+- 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1071-1075)
