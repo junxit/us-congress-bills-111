@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preventing Harmful Restraint and Seclusion in Schools Act”.
+This Act may be cited as the “Keeping All Students Safe Act”.
 
 ## § 2. Findings
 
@@ -49,8 +49,8 @@ The purposes of this Act are to—
 In this Act:
 
 - **(1)** *Chemical restraint* The term chemical restraint means a drug or medication used on a student to control behavior or restrict freedom of movement that is not—
-  - **(A)** prescribed by a licensed physician for the standard treatment of a student’s medical or psychiatric condition; and
-  - **(B)** administered as prescribed by the licensed physician.
+  - **(A)** prescribed by a licensed physician, or other qualified health professional acting under the scope of the professional’s authority under State law, for the standard treatment of a student’s medical or psychiatric condition; and
+  - **(B)** administered as prescribed by the licensed physician or other qualified health professional acting under the scope of the professional’s authority under State law.
 - **(2)** *Educational service agency* The term educational service agency has the meaning given such term in section 9101(17) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(17)).
 - **(3)** *Elementary school* The term elementary school has the meaning given the term in section 9101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(18)).
 - **(4)** *Local educational agency* The term local educational agency has the meaning given the term in section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
@@ -64,7 +64,7 @@ In this Act:
   - **(A)** that—
     - **(i)** is a public or private—
       - **(I)** day or residential elementary school or secondary school; or
-      - **(II)** early childhood, elementary school, or secondary school program that is under the jurisdiction of a school, educational service agency, or other educational institution or program; and
+      - **(II)** early childhood, elementary school, or secondary school program that is under the jurisdiction of a school, local educational agency, educational service agency, or other educational institution or program; and
     - **(ii)** receives, or serves students who receive, support in any form from any program supported, in whole or in part, with funds appropriated to the Department of Education; or
   - **(B)** that is a school funded or operated by the Department of the Interior.
 - **(12)** *School personnel* The term school personnel has the meaning—
@@ -74,10 +74,10 @@ In this Act:
 - **(14)** *Seclusion* The term seclusion has the meaning given the term in section 595(d)(4) of the Public Health Service Act (42 U.S.C. 290jj(d)(4)).
 - **(15)** *Secretary* The term Secretary means the Secretary of Education.
 - **(16)** *State-approved crisis intervention training program* The term State-approved crisis intervention training program means a training program approved by a State and the Secretary that, at a minimum, provides—
-  - **(A)** evidence-based techniques shown to be effective in the prevention of physical restraint and seclusion;
-  - **(B)** evidence-based techniques shown to be effective in keeping both school personnel and students safe when imposing physical restraint or seclusion;
+  - **(A)** training in evidence-based techniques shown to be effective in the prevention of physical restraint and seclusion;
+  - **(B)** training in evidence-based techniques shown to be effective in keeping both school personnel and students safe when imposing physical restraint or seclusion;
   - **(C)** evidence-based skills training related to positive behavior supports, safe physical escort, conflict prevention, understanding antecedents, de-escalation, and conflict management;
-  - **(D)** first aid and cardiopulmonary resuscitation;
+  - **(D)** training in first aid and cardiopulmonary resuscitation;
   - **(E)** information describing State policies and procedures that meet the minimum standards established by regulations promulgated pursuant to section 5(a); and
   - **(F)** certification for school personnel in the techniques and skills described in subparagraphs (A) through (D), which shall be required to be renewed on a periodic basis.
 - **(17)** *State* The term State has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
@@ -103,7 +103,7 @@ In this Act:
       - **(i)** school personnel trained and certified by a State-approved crisis intervention training program (as defined in section 4(16)); or
       - **(ii)** other school personnel in the case of a rare and clearly unavoidable emergency circumstance when school personnel trained and certified as described in clause (i) are not immediately available due to the unforeseeable nature of the emergency circumstance; and
     - **(E)** such physical restraint or seclusion end immediately upon the cessation of the conditions described in subparagraphs (A) and (B).
-  - **(3)** States and local educational agencies shall ensure that a sufficient number of personnel are trained and certified by a State-approved crisis intervention training program (as defined in section 4(16)) to meet the needs of the specific student population in each school.
+  - **(3)** States, in consultation with local educational agencies and private school officials, shall ensure that a sufficient number of personnel are trained and certified by a State-approved crisis intervention training program (as defined in section 4(16)) to meet the needs of the specific student population in each school.
   - **(4)** The use of physical restraint or seclusion as a planned intervention shall not be written into a student’s education plan, individual safety plan, behavioral plan, or individualized education program (as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401)). Local educational agencies or schools may establish policies and procedures for use of physical restraint or seclusion in school safety or crisis plans, provided that such school plans are not specific to any individual student.
   - **(5)** Schools shall establish procedures to be followed after each incident involving the imposition of physical restraint or seclusion upon a student, including—
     - **(A)** procedures to provide to the parent of the student, with respect to each such incident—
@@ -223,3 +223,12 @@ Protection and Advocacy Systems shall have the authority provided under section 
 ## § 12. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this Act for fiscal year 2011 and each of the 4 succeeding fiscal years.
+
+## § 13. Presumption of Congress relating to competitive procedures
+
+- **(a)** *Presumption* It is the presumption of Congress that grants awarded under this Act will be awarded using competitive procedures based on merit.
+- **(b)** *Report to Congress* If grants are awarded under this Act using procedures other than competitive procedures, the Secretary shall submit to Congress a report explaining why competitive procedures were not used.
+
+## § 14. Prohibition on earmarks
+
+None of the funds appropriated to carry out this Act may be used for a congressional earmark as defined in clause 9e, of Rule XXI of the rules of the House of Representatives of the 111th Congress.
