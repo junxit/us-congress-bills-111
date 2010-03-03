@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 239
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 239
@@ -30,3 +30,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2010-02-24 — Introduced in House
 - 2010-02-24 — Referred to the House Committee on House Administration.
 - 2010-02-24 — Sponsor introductory remarks on measure. (CR E229)
+- 2010-03-03 — Considered under suspension of the rules. (consideration: CR H1076-1078)
+- 2010-03-03 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 239.
+- 2010-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-03 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2010-03-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1076)
+- 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1076)
+- 2010-03-03 — Received in the Senate.
