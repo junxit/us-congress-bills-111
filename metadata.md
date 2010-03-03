@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1096
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1096
@@ -16,7 +16,7 @@ Encouraging individuals across the United States to participate in the 2010 Cens
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Cosponsors (56)
+## Cosponsors (62)
 
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -74,13 +74,31 @@ Encouraging individuals across the United States to participate in the 2010 Cens
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Lewis, John [D-GA-5] (L000287)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-03-03 — [House 111-2-80](votes/house-111-2-0080.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (409–1)
 
 ## Actions
 
 - 2010-02-23 — Introduced in House
 - 2010-02-23 — Introduced in House
 - 2010-02-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-03-03 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-03-03 — Considered as unfinished business. (consideration: CR H1046-1047)
+- 2010-03-03 — Considered under suspension of the rules. (consideration: CR H1035-1037)
+- 2010-03-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1096.
+- 2010-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-03 — Mr. Lynch moved to suspend the rules and agree to the resolution, as amended.
+- 2010-03-03 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 409 - 1, 1 Present (Roll no. 80). (text: CR H1035)
+- 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 409 - 1, 1 Present (Roll no. 80).(text: CR H1035)

@@ -2,7 +2,7 @@
 legis-num: H. RES. 1096
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1096
@@ -20,10 +20,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the 2000 Census determined the United States had a total population of 281,421,906 and current estimates project the population has grown to 308,573,696;
 - Whereas the 2010 Census is fast, safe, and easy to complete, with just 10 questions, and requiring only about 10 minutes;
 - Whereas the 2010 Census data are strictly confidential and Federal law prevents the information from being shared with any entity;
-- Whereas the data obtained from the census are protected under United States privacy laws, cannot be disclosed for 72 years, or used against any person by any Government agency or court;
-- Whereas neighborhoods with large populations of low-income and minority residents are especially at risk of being undercounted in the 2010 Census;
-- Whereas, in the 2000 Census count, Hispanics, African-Americans, and Asian Americans were most likely to be undercounted;
-- Whereas it is estimated that over 16,000,000 people were not counted in the 2000 Census resulting in a decreased share of Federal funding for those undercounted communities; and
+- Whereas the individual data obtained from the census are protected under United States privacy laws, cannot be disclosed for 72 years, or used against any person by any government agency or court;
+- Whereas neighborhoods with large populations of low-income, minority, or rural residents are especially at risk of being undercounted in the 2010 Census;
+- Whereas, in the 2000 Census count, Hispanics, African-Americans, Asian Americans, and rural Americans were the most difficult to count;
+- Whereas the goal of the 2010 Census is to count every person in the United States, including Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, the Virgin Islands, and any other territory or possession of the United States once, and only once, and in the right place;
+- Whereas the goal of the 2010 Census is to eliminate undercounts and overcounts of specific population groups, problems that were apparent in the 2000 Census; and
 - Whereas the month of March 2010 would be an appropriate month to designate as Census Awareness Month: Now, therefore, be it
 
 That the House of Representatives—
