@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1082
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1082
@@ -30,3 +30,9 @@ Supporting the goals and ideals of the fourth annual America Saves Week.
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Referred to the House Committee on Financial Services.
+- 2010-03-03 — Considered under suspension of the rules. (consideration: CR H1069-1071)
+- 2010-03-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1082.
+- 2010-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-03 — Mr. Scott (GA) moved to suspend the rules and agree to the resolution.
+- 2010-03-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1069)
+- 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1069)
