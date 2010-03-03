@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3820
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3820
@@ -24,11 +24,12 @@ Natural Hazards Risk Reduction Act of 2010
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Natural Hazards Risk Reduction Act of 2010
 - 2010-03-02 — Mr. Wu moved to suspend the rules and pass the bill, as amended.
 - 2010-03-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 50 (Roll no. 76). (text: CR H976-980)
 - 2010-03-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 50 (Roll no. 76).(text: CR H976-980)
+- 2010-03-03 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
