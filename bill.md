@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 4744
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4744
+
+> To require, as a condition for purchase of a home mortgage loan by Fannie Mae or Freddie Mac, and insurance of a home mortgage loan under the National Housing Act, that the mortgagor be verified under the E-Verify program.
+
+## § 1. Short title
+
+This Act may be cited as the “E-Verify Loan Origination Act of 2010”.
+
+## § 2. Verification of mortgagor under E-verification program
+
+- **(a)** *Fannie Mae* Subsection (b) of section 302 of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)) is amended by adding at the end the following new paragraph:
+  > - **(7)**
+  >   - **(A)** Notwithstanding any other provision of law, after the date of the enactment of the E-Verify Loan Origination Act of 2010, the corporation may not purchase any single-family housing mortgage unless the identity and work eligibility of the mortgagor under such mortgage has been confirmed by an inquiry under subparagraph (B).
+  >   - **(B)** An inquiry under this subparagraph is an inquiry made through the basic pilot program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1324a note; commonly referred to as the E-Verify program). Notwithstanding any other provision of law, lenders for single-family housing mortgages and the corporation may submit such inquiries regarding the identities and work eligibility of mortgagors under such mortgages, and may be provided confirmations and nonconfirmations pursuant to such inquiries, under such basic pilot program.
+  >   - **(C)** For purposes of this paragraph, the term “single-family housing mortgage” means a mortgage that is secured by a 1- to 4-family residence.
+
+- **(b)** *Freddie Mac* Subsection (a) of section 305 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)) is amended by adding at the end the following new paragraph:
+  > - **(6)**
+  >   - **(A)** Notwithstanding any other provision of law, after the date of the enactment of the E-Verify Loan Origination Act of 2010, the Corporation may not purchase any single-family housing mortgage unless the identity and work eligibility of the mortgagor under such mortgage has been confirmed by an inquiry under subparagraph (B).
+  >   - **(B)** An inquiry under this subparagraph is an inquiry made through the basic pilot program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1324a note; commonly referred to as the E-Verify program). Notwithstanding any other provision of law, lenders for single-family housing mortgages and the Corporation may submit such inquiries regarding the identities and work eligibility of mortgagors under such mortgages, and may be provided confirmations and nonconfirmations pursuant to such inquiries, under such basic pilot program.
+  >   - **(C)** For purposes of this paragraph, the term “single-family housing mortgage” means a mortgage that is secured by a 1- to 4-family residence.
+
+- **(c)** *FHA* Title II of the National Housing Act (12 U.S.C. 1707 et seq.) is amended by adding at the end the following new section:
+  > ## § 543. E-verification requirement for mortgagors
+  >
+  > - **(a)** *Prohibition* Notwithstanding any other provision of law, after the date of the enactment of the E-Verify Loan Origination Act of 2010, the Secretary may not newly insure any single-family housing mortgage unless the identity and work eligibility of the mortgagor under such mortgage has been confirmed by an inquiry under subsection (b).
+  > - **(b)** *E-Verify inquiries* An inquiry under this subsection is an inquiry made through the basic pilot program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1324a note; commonly referred to as the E-Verify program). Notwithstanding any other provision of law, lenders for single-family housing mortgages and the Secretary may submit such inquiries regarding the identities and work eligibility of mortgagors under such mortgages, and may be provided confirmations and nonconfirmations pursuant to such inquiries, under such basic pilot program.
+  > - **(c)** *Single-Family housing mortgage* For purposes of this paragraph, the term “single-family housing mortgage” means a mortgage that is secured by a 1- to 4-family residence.
