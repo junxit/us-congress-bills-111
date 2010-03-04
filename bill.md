@@ -1,0 +1,24 @@
+---
+legis-num: S. 3075
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3075
+
+> To withdraw certain Federal land and interests in that land from location, entry, and patent under the mining laws and disposition under the mineral and geothermal leasing laws.
+
+## § 1. Short title
+
+This Act may be cited as the “North Fork Watershed Protection Act of 2010”.
+
+## § 2. Withdrawal
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Eligible Federal land* The term eligible Federal land means any federally owned land or interest in land depicted on the Map as within the North Fork Flathead Watershed.
+  - **(2)** *Map* The term Map means the Bureau of Land Management map entitled “North Fork Federal Lands Withdrawal Area” and dated February 27, 2010.
+- **(b)** *Withdrawal* Subject to valid existing rights, the eligible Federal land is withdrawn from—
+  - **(1)** all forms of location, entry, and patent under the mining laws; and
+  - **(2)** disposition under all laws relating to mineral or geothermal leasing.
+- **(c)** *Availability of map* The Map shall be made available to the public at each appropriate office of the Bureau of Land Management by not later than 30 days after the date of enactment of this Act.
