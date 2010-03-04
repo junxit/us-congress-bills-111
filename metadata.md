@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4247
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4247
@@ -59,9 +59,10 @@ Keeping All Students Safe Act
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -102,3 +103,4 @@ Keeping All Students Safe Act
 - 2010-03-03 — Rule H. Res. 1126 passed House.
 - 2010-03-03 — Rule provides for consideration of H.R. 4247 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.
 - 2010-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1063)
+- 2010-03-04 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
