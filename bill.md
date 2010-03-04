@@ -2,7 +2,7 @@
 legis-num: H. RES. 1086
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1086
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas it is hoped that the naming of an elder to be the first member of that community to answer the 2010 Census will encourage other members of that community to answer the 2010 Census;
 - Whereas it is hoped that each other community within the Indian Country will name an elder to be the first member of their community to answer the 2010 Census;
 - Whereas elders are looked upon as the trusted ones in the tribe who will have the most influence in carrying the message of how important an accurate 2010 Census count is; and
-- Whereas elder participation in the 2010 Census count will encourage others to participate in the 2010 Census: Now, therefore, be it;
+- Whereas elder participation in the 2010 Census count will encourage others to participate in the 2010 Census: Now, therefore, be it
 
 That the House of Representatives—
 
