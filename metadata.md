@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 431
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 431
@@ -28,3 +28,7 @@ A resolution expressing profound concern, deepest sympathies, and solidarity on 
 
 - 2010-03-03 — Introduced in Senate
 - 2010-03-03 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1031)
+- 2010-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1207)
+- 2010-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1207)
+- 2010-03-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1207)
+- 2010-03-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1207)

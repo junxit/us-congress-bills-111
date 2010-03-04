@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas the massive 8.8-magnitude earthquake that struck Chile in the early hours of Saturday, February 27, 2010, has claimed approximately 800 lives, according to government officials of Chile, and the death toll is expected to continue to rise as assessments of the devastation continue;
+- Whereas the massive 8.8-magnitude earthquake that struck Chile in the early hours of Saturday, February 27, 2010, has claimed approximatley 800 lives, according to government officials of Chile, and the death toll is expected to continue to rise as assessments of the devastation continue;
 - Whereas the earthquake hit most strongly in 6 central and south regions, from the capital, Santiago, and the nearby port of Valparaíso in central Chile, to the Bernardo O'Higgins, Maule, Bio Bio, and Araucanía regions of the south;
 - Whereas the regions most strongly hit are home to about 60 percent of the 17,000,000 inhabitants of Chile and account for approximately 70 percent of the gross domestic product of Chile;
 - Whereas the earthquake generated some tsunami activity, in addition to the earthquake, and several hundred people were killed in the coastal towns of Constitución and Talcahuano as a result;
