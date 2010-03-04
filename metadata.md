@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 422
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 422
@@ -29,3 +29,7 @@ A resolution recognizing the important progress made by the people of Ukraine in
 - 2010-02-25 — Introduced in Senate
 - 2010-02-25 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S800)
 - 2010-02-25 — Sponsor introductory remarks on measure. (CR S800)
+- 2010-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1129)
+- 2010-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1129)
+- 2010-03-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1128-1129)
+- 2010-03-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1128-1129)
