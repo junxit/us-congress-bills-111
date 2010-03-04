@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 236
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 236
@@ -38,3 +38,4 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2010-03-03 — Mr. Klein (FL) moved to suspend the rules and agree to the resolution.
 - 2010-03-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1078)
 - 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1078)
+- 2010-03-04 — Received in the Senate.
