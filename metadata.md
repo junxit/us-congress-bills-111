@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1031
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1031
@@ -41,3 +41,8 @@ Impeaching G. Thomas Porteous, Jr., judge of the United States District Court fo
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Referred to the House Committee on the Judiciary.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2010-03-04 — Placed on the House Calendar, Calendar No. 170.
+- 2010-03-04 — Reported by the Committee on Judiciary. H. Rept. 111-427.
+- 2010-03-04 — Reported by the Committee on Judiciary. H. Rept. 111-427.
