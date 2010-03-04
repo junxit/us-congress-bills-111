@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 414
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 414
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate on the recovery, rehabilitation,
 
 - Sen. Kerry, John F. [D-MA] (K000148)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Nelson, Bill [D-FL] (N000032)
@@ -24,6 +24,7 @@ A resolution expressing the sense of the Senate on the recovery, rehabilitation,
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
 ## Committees (1)
 
@@ -37,3 +38,5 @@ A resolution expressing the sense of the Senate on the recovery, rehabilitation,
 - 2010-02-24 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-02-24 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.
+- 2010-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1127-1128; text as passed Senate: CR S1127-1128)
+- 2010-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1127-1128; text as passed Senate: CR S1127-1128)

@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas on January 12, 2010, Haiti suffered an earthquake measuring 7.0 on the Richter scale, the greatest natural disaster in Haiti’s history, which— (1)devastated Port-au-Prince and the surrounding areas; (2)killed more than 100,000 people; (3)injured hundreds of thousands more people; and (4)left many hundreds of thousands of people homeless;
+- Whereas, on January 12, 2010, Haiti suffered an earthquake measuring 7.0 on the Richter scale, the greatest natural disaster in Haiti’s history, which— (1)devastated Port-au-Prince and the surrounding areas; (2)killed more than 100,000 people; (3)injured hundreds of thousands more people; and (4)left many hundreds of thousands of people homeless;
 - Whereas Haiti, which is the poorest country in the Western Hemisphere— (1)has an estimated 54 percent of its population living on less than $1 per day; (2)has approximately 120,000 people living with HIV; (3)had 29,333 new cases of Tuberculosis in 2007; and (4)has nearly 400,000 children living in orphanages;
 - Whereas despite these challenges, cautious signs of developmental progress and stability were beginning to emerge in Haiti prior to the earthquake;
 - Whereas although initial recovery efforts must continue to assist the people of Haiti struggling to secure basic necessities, including food, water, health care, shelter, and electricity, Haiti cannot afford to only focus on its immediate needs;
