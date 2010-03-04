@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 426
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 426
@@ -33,3 +33,7 @@ A resolution designating the week of February 28 through March 7, 2010, as "Scho
 
 - 2010-02-26 — Introduced in Senate
 - 2010-02-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S823-824)
+- 2010-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1129)
+- 2010-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1129)
+- 2010-03-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1129)
+- 2010-03-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1129)
