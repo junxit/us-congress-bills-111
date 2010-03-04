@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 372
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -33,4 +33,4 @@ That the Senate—
 
 - **(1)** designates March 2010 as “National Autoimmune Diseases Awareness Month”;
 - **(2)** supports the efforts of health care providers and autoimmune patient advocacy and education organizations to increase awareness of the causes of, and treatments for, autoimmune diseases; and
-- **(3)** supports the goal of increasing Federal funding for aggressive research to learn the root causes of autoimmune diseases, as well as the best diagnostic methods and treatments for people with autoimmune diseases.
+- **(3)** supports the goal of increasing funding for aggressive research to learn the root causes of autoimmune diseases, as well as the best diagnostic methods and treatments for people with autoimmune diseases.
