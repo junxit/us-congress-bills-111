@@ -1,0 +1,44 @@
+---
+legis-num: S. 3076
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3076
+
+> To direct the Secretary of the Interior to conduct studies of natural soundscape preservation in the National Park Service.
+
+## § 1. Short title
+
+This Act may be cited as the “Silence Helps Us Hear Act of 2010”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Administrator* The term “Administrator” means the Administrator of the Federal Aviation Administration.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+
+## § 3. Studies of natural soundscape preservation
+
+- **(a)** *Study of Least Degraded National Park Service Natural Soundscapes*
+  - **(1)** *In general* The Secretary shall conduct a study to identify National Park Service natural soundscape values and resources, as defined by policies 4.9 and 8.2 of the 2006 Management Policies of the National Park Service.
+  - **(2)** *Identification of lease degraded soundscapes* In conducting the study under paragraph (1), the Secretary shall analyze and identify National Park Service natural soundscapes that have been the least degraded by—
+    - **(A)** unnatural sounds; and
+    - **(B)** undesirable sounds cause by humans.
+  - **(3)** *Technical assistance* To the extent that the Secretary has identified aviation or aircraft noise as 1 of the sources of natural soundscapes degradation, the Secretary of Transportation, acting through the Administrator, shall provide technical assistance to the Secretary in carrying out the study under paragraph (1).
+- **(b)** *Study of Preservation of Natural Soundscape Resources* To the extent that the Secretary has identified aviation or aircraft noise as 1 of the sources of National Park Service natural soundscapes degradation, the Secretary, in coordination with the Secretary of Transportation (acting through the Administrator), shall conduct a study to identify methods to preserve the National Park Service natural soundscapes that have been the least degraded by—
+  - **(1)** unnatural sounds; and
+  - **(2)** undesirable sounds caused by humans.
+
+## § 4. Report
+
+Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress a report that—
+
+- **(1)** describes the results of the studies conducted under subsections (a) and (b) of section 3; and
+- **(2)** includes any recommendations that the Secretary determines to be appropriate.
+
+## § 5. Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this Act.
