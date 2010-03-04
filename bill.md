@@ -2,7 +2,7 @@
 legis-num: H. RES. 1079
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1079
@@ -28,6 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Saints’ motto all year has been “Finish Strong”;
 - Whereas the Saints repeatedly have been called a beacon of hope for the city of New Orleans and a catalyst for recovery throughout Louisiana and the Gulf Coast Region;
 - Whereas the Saints have positively influenced and lifted the morale of the people in New Orleans and throughout Louisiana and the Gulf Coast Region;
+- Whereas the New Orleans Saints are headquartered in the 1st Congressional District of Louisiana in Metairie, Louisiana;
 - Whereas ESPN’s Wright Thompson in his article “Saints the Soul of America’s City” captured the essence and importance of the Saints to the city of New Orleans and noted the resilience of this year’s team by stating, “It’s perfect, isn’t it? The expansion team whose first roster was created from players unwanted by other teams has finally found success with a similar group.”; and
 - Whereas the 2009 Saints are evidence of what can be accomplished when self is set aside and a teamwork mentality is adopted by all of the players: Now, therefore, be it
 
