@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 404
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 404
@@ -16,7 +16,7 @@ A resolution supporting full implementation of the Comprehensive Peace Agreement
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 
-## Cosponsors (19)
+## Cosponsors (21)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
@@ -37,6 +37,8 @@ A resolution supporting full implementation of the Comprehensive Peace Agreement
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -50,3 +52,5 @@ A resolution supporting full implementation of the Comprehensive Peace Agreement
 - 2010-02-24 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-02-24 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
+- 2010-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1126-1127; text as passed Senate: CR S1126-1127)
+- 2010-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1126-1127; text as passed Senate: CR S1126-1127)
