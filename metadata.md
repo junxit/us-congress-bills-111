@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2554
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2554
@@ -63,9 +63,10 @@ National Association of Registered Agents and Brokers Reform Act of 2010
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Tiahrt, Todd [R-KS-4] (T000260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ National Association of Registered Agents and Brokers Reform Act of 2010
 - 2010-03-03 — Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.
 - 2010-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1071-1075)
 - 2010-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1071-1075)
+- 2010-03-04 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
