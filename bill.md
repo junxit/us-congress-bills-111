@@ -1,0 +1,27 @@
+---
+legis-num: H.J. RES. 80
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 80
+
+> Recognizing and honoring the Blinded Veterans Association on its 65th anniversary of representing blinded veterans and their families.
+
+## Preamble
+
+- Whereas, at 8:45 a.m. on March 28, 1945, 100 blinded members of the Armed Forces who served in World War II formed the Blinded Veterans Association at Avon “Old Farms” Army Convalescent Hospital in Connecticut;
+- Whereas the founders of the Blinded Veterans Association were a cross-section of heroes and pioneers who not only shaped the rich history, philosophy, and knowledge of education and rehabilitation of the blind, but also provided insight into current and future challenges facing the blind and engaged in continual advocacy efforts to ensure that services for all blinded persons would be unique and specialized;
+- Whereas, on March 28, 2010, the Blinded Veterans Association will mark its 65th anniversary of dedication to blinded members of the Armed Forces, veterans, and their families;
+- Whereas in 1946, General Omar Bradley, of the Veterans Administration, appointed the Blinded Veterans Association as the first official representative for blinded veterans for the filing of claims and appeals to the Veterans Administration, making the Blinded Veterans Association only the eighth veterans service organization to receive such authorization;
+- Whereas the Blinded Veterans Association was originally incorporated in New York State as a nonprofit association, and then moved to Washington, DC, in 1947;
+- Whereas in 1958, the 58th Congress approved the Congressional Charter for the Blinded Veterans Association;
+- Whereas from its early beginnings, the Blinded Veterans Association encouraged the blinded veterans it served “to take their rightful place in the community with their fellow men and work with them toward the creation of a peaceful world”, and it has continued to advocate for the war-blinded to regain independence, confidence, and self-esteem through rehabilitation and training; and
+- Whereas many people of the United States recognize March 28 of each year as Blinded Veterans Day: Now, therefore, be it
+
+That Congress—
+
+- **(1)** expresses appreciation for the efforts of the Blinded Veterans Association in improving the rehabilitation services, education, and benefits for blinded veterans of the United States;
+- **(2)** supports the goals and ideals of Blinded Veterans Day; and
+- **(3)** calls upon the people of the United States to observe Blinded Veterans Day with appropriate programs and activities.
