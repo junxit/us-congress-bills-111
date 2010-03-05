@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3433
@@ -46,3 +46,13 @@ To amend the North American Wetlands Conservation Act to establish requirements 
 - 2010-03-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-158.
 - 2010-03-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-158.
 - 2010-03-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 308.
+- 2010-03-09 — Cleared for White House.
+- 2010-03-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1318)
+- 2010-03-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1318)
+- 2010-03-10 — Message on Senate action sent to the House.
+- 2010-03-15 — Presented to President.
+- 2010-03-15 — Presented to President.
+- 2010-03-25 — Became Public Law No: 111-149.
+- 2010-03-25 — Became Public Law No: 111-149.
+- 2010-03-25 — Signed by President.
+- 2010-03-25 — Signed by President.
