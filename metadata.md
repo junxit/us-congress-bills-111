@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3433
@@ -41,3 +41,8 @@ To amend the North American Wetlands Conservation Act to establish requirements 
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11178)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11178)
 - 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-12-03 — Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.
+- 2009-12-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-03-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-158.
+- 2010-03-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-158.
+- 2010-03-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 308.
