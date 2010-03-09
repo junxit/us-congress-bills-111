@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4506
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4506
@@ -30,3 +30,8 @@ Bankruptcy Judgeship Act of 2010
 - 2010-01-26 — Introduced in House
 - 2010-01-26 — Introduced in House
 - 2010-01-26 — Referred to the House Committee on the Judiciary.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported by Voice Vote.
+- 2010-03-09 — Placed on the Union Calendar, Calendar No. 246.
+- 2010-03-09 — Reported by the Committee on Judiciary. H. Rept. 111-430.
+- 2010-03-09 — Reported by the Committee on Judiciary. H. Rept. 111-430.
