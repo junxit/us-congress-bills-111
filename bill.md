@@ -2,38 +2,35 @@
 legis-num: H. RES. 1032
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1032
 
-> Expressing the sense of the House of Representatives that the United States should continue to assist the Mexican Government in fighting the drug cartels and curbing violence against Mexican and United States citizens, both in the United States and abroad.
+> Expressing the sense of the House of Representatives that the United States should continue to assist the Government of Mexico in fighting the drug cartels and curbing violence against Mexican and United States citizens, both in the United States and abroad.
 
 ## Preamble
 
-- Whereas Mr. Agustin Roberto “Bobby” Salcedo was senselessly murdered on December 31, 2009, at the young age of 33 while vacationing with his family in the city of Gomez Palacio, Durango, Mexico;
+- Whereas Mr. Agustin Roberto “Bobby” Salcedo, a United States citizen and resident of California, was senselessly murdered on December 31, 2009, at the young age of 33 while vacationing with his family in the city of Gomez Palacio, Durango, Mexico;
 - Whereas Bobby Salcedo was a rising star in the community, had just been elected to his second term as a member of the El Monte City School Board, and served as the vice principal and football coach at his alma mater, Mountain View High School;
-- Whereas Bobby Salcedo was studying for his doctorate in educational leadership at the University of California, Los Angeles, after having earned his bachelor’s degree in history from California State University, Long Beach, and a master’s degree in educational administration from California State University, San Bernardino;
+- Whereas Bobby Salcedo was studying for his doctorate in educational leadership at the University of California, Los Angeles, after having earned his bachelor's degree in history from California State University, Long Beach, and a master's degree in educational administration from California State University, San Bernardino;
 - Whereas Bobby Salcedo, the son of immigrant parents, sought to chart a better course for his entire community, serving as a local leader for such organizations as the South El Monte/Gomez Palacio, Durango, Mexico Sister City Organization;
-- Whereas, on December 31, 2009, Mr. Salcedo was having dinner in a restaurant with family and friends when a group of armed and masked men burst in and forcibly removed Mr. Salcedo and 5 other men;
+- Whereas, on December 31, 2009, Mr. Salcedo was having dinner in Mexico in a restaurant with family and friends when a group of armed and masked men burst in and forcibly removed Mr. Salcedo and 5 other men;
 - Whereas Mr. Salcedo was killed execution-style with a single gunshot to the head;
-- Whereas Bobby Salcedo’s body, along with the bodies of the 5 other men, was found several hours later dumped in a field near a canal;
-- Whereas Bobby Salcedo, as well as the 5 other men who were killed, had no connection to the Mexican drug trade;
-- Whereas the Federal Bureau of Investigation has been asked by the Mexican Government to assist in investigating the death of Mr. Salcedo;
-- Whereas the Federal Government should provide the Mexican Government any assistance necessary to bring Mr. Salcedo’s killers to justice;
-- Whereas the violence in Mexico has historically involved disputes between warring drug cartels, Mr. Salcedo’s tragic death is the result of the recent and pervasive surge in violence against innocent bystanders;
-- Whereas the Mexican drug cartels are major producers and suppliers to the United States market for heroin, methamphetamine, and marijuana and the major transit country for cocaine sold in the United States;
-- Whereas the Department of Justice has identified Mexican drug trafficking organizations as the greatest drug trafficking threat to the United States worldwide;
-- Whereas Mexican drug cartels have repatriated huge sums of money to Mexico from drug sales in the United States, estimated to range from $15,000,000,000 to $25,000,000,000 annually;
-- Whereas the Mexican Government estimates that 2,000 guns are smuggled from the United States into Mexico every day;
+- Whereas Bobby Salcedo's body, along with the bodies of the 5 other men, was found several hours later dumped in a field near a canal;
+- Whereas the Federal Bureau of Investigation has been asked by the Government of Mexico to assist in investigating the death of Mr. Salcedo;
+- Whereas innocents are directly impacted by drug-related violence in Mexico;
+- Whereas the Mexican drug cartels are major producers and suppliers to the United States market for heroin, methamphetamine, and marijuana and the major transit country for 90 percent of the cocaine sold in the United States;
+- Whereas the National Drug Intelligence Center, a component of the U.S. Department of Justice, has identified Mexican drug trafficking organizations as “the greatest drug trafficking threat to the United States”;
+- Whereas the illegal trafficking of firearms, including from the United States to Mexico, contributes to drug-related violence, and the United States–Mexico Joint Statement on the Merida Initiative on October 22, 2007, stated that the United States will “continue to combat trafficking of weapons and bulk currency to Mexico.”;
 - Whereas the Mexican drug cartels have become increasingly violent, killing at least 5,600 people in 2008 and more than 7,000 people in 2009;
-- Whereas the Mexican State of Durango is one of the most violent with more than 700 recorded gang related killings in 2009;
-- Whereas the Mexican Government, under President Felipe Calderón, has significantly increased its efforts to stop the drug cartels and end the violence, deploying some 45,000 troops and 5,000 police throughout Mexico;
-- Whereas the United States has appropriated over $1,300,000,000 under the Mérida Initiative to Mexico to help break the power and impunity of the drug cartels, assist the Mexican Government in strengthening its military organizations, help improve the capacity of its justice system, curtail gang activity in Mexico, and diminish demand for drugs in the region; and
-- Whereas the United States should continue to assist the Mexican Government in fighting the drug cartels and curbing violence against United States and Mexican citizens both in the United States and abroad: Now, therefore, be it
+- Whereas the Mexican State of Durango, where Bobby Salcedo’s execution took place, is one of the most violent with more than 700 recorded gang related killings in 2009;
+- Whereas the Government of President Felipe Calderon has significantly stepped up Mexico’s efforts to confront the drug cartels and end the violence, deploying some 45,000 troops and 5,000 police throughout Mexico; and
+- Whereas the United States Congress has appropriated over $1,300,000,000 under the Merida Initiative to help Mexico break the power and impunity of the drug cartels, assist the Government of Mexico in strengthening its judicial and law enforcement institutions, curtail gang activity in Mexico, and disrupt demand for and distribution of drugs in the region: Now, therefore, be it
 
-That it is the sense of the House of Representatives that—
+That the House of Representatives—
 
-- **(1)** all efforts should be made to find those responsible for the violent drug-related killings of innocent United States and Mexican citizens throughout Mexico, including the people who killed Mr. Salcedo;
-- **(2)** the extreme violence by the Mexican drug cartels has affected and continues to affect the lives of thousands of innocent people in Mexico, the United States, and around the world; and
-- **(3)** the United States Congress should continue to support bilateral cooperation between the United States and Mexico to break the power of the Mexican drug cartels, curtail violence, reduce arms trafficking, and diminish the demand for drugs throughout North America.
+- **(1)** expresses sorrow at the death of Mr. Agustin Roberto “Bobby” Salcedo;
+- **(2)** supports continued cooperation between the United States Government and the Government of Mexico to help identify and convict Mr. Salcedo's killers;
+- **(3)** calls on the Governments of the United States and Mexico to increase cooperation to prosecute those responsible for the drug-related killings of innocents in Mexico, be they United States or Mexican citizens; and
+- **(4)** reaffirms its continued support for bilateral cooperation with Mexico to break the power of the Mexican drug cartels and turn the tide of violence.
