@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4624
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4624
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 125 Ker
 
 - Rep. Souder, Mark E. [R-IN-3] (S001143)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
@@ -24,6 +24,8 @@ To designate the facility of the United States Postal Service located at 125 Ker
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
 
 ## Committees (1)
 
@@ -34,3 +36,11 @@ To designate the facility of the United States Postal Service located at 125 Ker
 - 2010-02-09 — Introduced in House
 - 2010-02-09 — Introduced in House
 - 2010-02-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-03-04 — Committee Consideration and Mark-up Session Held.
+- 2010-03-04 — Ordered to be Reported by Unanimous Consent.
+- 2010-03-09 — Considered under suspension of the rules. (consideration: CR H1200-1201)
+- 2010-03-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4624.
+- 2010-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-09 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2010-03-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1200)
+- 2010-03-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1200)
