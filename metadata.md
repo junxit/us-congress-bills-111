@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4547
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4547
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 119 Sta
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-03-04 — Committee Consideration and Mark-up Session Held.
+- 2010-03-04 — Ordered to be Reported by Unanimous Consent.
+- 2010-03-09 — Considered under suspension of the rules. (consideration: CR H1203)
+- 2010-03-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4547.
+- 2010-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-09 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2010-03-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1203)
+- 2010-03-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1203)
