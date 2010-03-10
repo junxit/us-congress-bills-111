@@ -1,0 +1,30 @@
+---
+measure: S. 3099
+congress: 111
+version: Introduced in Senate
+---
+
+# S. 3099
+
+A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving the American Falls Reservoir.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Risch, James E. [R-ID] (R000584)
+
+## Cosponsors (1)
+
+- Sen. Crapo, Mike [R-ID] (C000880)
+
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
+## Actions
+
+- 2010-03-10 — Introduced in Senate
+- 2010-03-10 — Read twice and referred to the Committee on Energy and Natural Resources.
