@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4213
@@ -16,15 +16,244 @@ Unemployment Compensation Extension Act of 2010
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
+## Cosponsors (211)
+
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cochran, Thad [R-MS] (C000567)
+
 ## Committees (2)
 
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (2)
+## Recorded votes (17)
 
 - 2009-12-09 — [House 111-1-942](votes/house-111-1-0942.md) — Table Appeal of the Ruling of the Chair — **Passed** (251–172)
 - 2009-12-09 — [House 111-1-943](votes/house-111-1-0943.md) — On Passage — **Passed** (241–181)
+- 2010-03-03 — [Senate 111-2-33](votes/senate-111-2-0033.md) — On the Motion — **Motion Rejected** (38–61)
+- 2010-03-03 — [Senate 111-2-34](votes/senate-111-2-0034.md) — On the Motion to Table — **Motion to Table Agreed to** (54–45)
+- 2010-03-03 — [Senate 111-2-35](votes/senate-111-2-0035.md) — On the Motion — **Motion Rejected** (38–59)
+- 2010-03-03 — [Senate 111-2-36](votes/senate-111-2-0036.md) — On the Motion — **Motion Rejected** (47–50)
+- 2010-03-03 — [Senate 111-2-37](votes/senate-111-2-0037.md) — On the Motion to Table — **Motion to Table Agreed to** (56–41)
+- 2010-03-03 — [Senate 111-2-38](votes/senate-111-2-0038.md) — On the Motion to Table — **Motion to Table Agreed to** (61–36)
+- 2010-03-03 — [Senate 111-2-39](votes/senate-111-2-0039.md) — On the Motion — **Motion Agreed to** (60–37)
+- 2010-03-04 — [Senate 111-2-40](votes/senate-111-2-0040.md) — On the Motion — **Motion Rejected** (44–56)
+- 2010-03-04 — [Senate 111-2-41](votes/senate-111-2-0041.md) — On the Motion — **Motion Rejected** (22–78)
+- 2010-03-04 — [Senate 111-2-42](votes/senate-111-2-0042.md) — On the Motion — **Motion Rejected** (59–41)
+- 2010-03-09 — [Senate 111-2-44](votes/senate-111-2-0044.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2010-03-09 — [Senate 111-2-45](votes/senate-111-2-0045.md) — On the Motion — **Motion Rejected** (55–45)
+- 2010-03-09 — [Senate 111-2-46](votes/senate-111-2-0046.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–34)
+- 2010-03-10 — [Senate 111-2-47](votes/senate-111-2-0047.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–33)
+- 2010-03-10 — [Senate 111-2-48](votes/senate-111-2-0048.md) — On Passage of the Bill — **Bill Passed** (62–36)
 
 ## Actions
 
@@ -47,3 +276,352 @@ Unemployment Compensation Extension Act of 2010
 - 2009-12-09 — Rule provides for consideration of H.R. 4213 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-12-09 — The previous question was ordered pursuant to the rule. (consideration: CR H14405)
 - 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2010-03-01 — Amendment SA 3336 proposed by Senator Baucus. (consideration: CR S836-847) In the nature of a substitute.
+- 2010-03-01 — Amendment SA 3337 proposed by Senator Sessions to Amendment SA 3336. (consideration: CR S847-851) To reduce the deficit by establishing discretionary spending caps.
+- 2010-03-01 — Amendment SA 3338 proposed by Senator Thune to Amendment SA 3336. (consideration: CR S851-852) To create additional tax relief for businesses, and for other purposes.
+- 2010-03-01 — Measure laid before Senate by unanimous consent. (consideration: CR S836-858)
+- 2010-03-01 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-03-01 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-03-01 — Senate amendment proposed (on the floor): Amendment SA 3336 proposed by Senator Baucus.(consideration: CR S836-847)
+- 2010-03-01 — Senate amendment proposed (on the floor): Amendment SA 3337 proposed by Senator Sessions to Amendment SA 3336.(consideration: CR S847-851)
+- 2010-03-01 — Senate amendment proposed (on the floor): Amendment SA 3338 proposed by Senator Thune to Amendment SA 3336.(consideration: CR S851-852)
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-01 — Senate amendment submitted
+- 2010-03-02 — Amendment SA 3335 proposed by Senator Landrieu to Amendment SA 3336. (consideration: CR S934; text: CR S934) To amend the Internal Revenue Code of 1986 to extend for 2 years the low-income housing credit rules for buildings in GO Zones.
+- 2010-03-02 — Considered by Senate. (consideration: CR S934)
+- 2010-03-02 — Considered by Senate. (consideration: CR S934)
+- 2010-03-02 — Considered by Senate. (consideration: CR S934)
+- 2010-03-02 — Considered by Senate. (consideration: CR S934)
+- 2010-03-02 — Senate amendment proposed (on the floor): Amendment SA 3335 proposed by Senator Landrieu to Amendment SA 3336.(consideration: CR S934; text: CR S934)
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-02 — Senate amendment submitted
+- 2010-03-03 — Amendment SA 3338 ruled out of order by the chair.
+- 2010-03-03 — Amendment SA 3342 proposed by Senator Baucus for Senator Webb to Amendment SA 3336. (consideration: CR S997) To amend the Internal Revenue Code of 1986 to impose an excise tax on excessive 2009 bonuses received from certain major recipients of Federal emergency economic assistance, to limit the deduction allowable for such bonuses, and for other purposes.
+- 2010-03-03 — Amendment SA 3352 proposed by Senator Grassley to Amendment SA 3336. (consideration: CR S976-978, S995, S998-999) To improve the bill.
+- 2010-03-03 — Amendment SA 3353 proposed by Senator Reid for Senator Sanders to Amendment SA 3336. (consideration: CR S974-976, S978-980, S992-995, S1009-1010; text as modified: CR S992-993) To provide an emergency benefit of $250 to seniors, veterans, and persons with disabilities in 2010 to compensate for the lack of cost-of-living adjustment for such year, and for other purposes.
+- 2010-03-03 — Amendment SA 3353 ruled out of order by the chair.
+- 2010-03-03 — Amendment SA 3356 proposed by Senator Reid for Senator Murray to Amendment SA 3336. (consideration: CR S973-974, S984-986; text: CR S973-974) To extend the TANF Emergency Fund through fiscal year 2011 and to provide funding for summer employment for youth.
+- 2010-03-03 — Amendment SA 3358 proposed by Senator Coburn to Amendment SA 3336. (consideration: CR S997; text: CR S997) To require the Senate to be transparent with taxpayers about spending.
+- 2010-03-03 — Amendment SA 3360 proposed by Senator Bunning to Amendment SA 3336. (consideration: CR S981-984, S1010-1011) To offset the cost of the bill.
+- 2010-03-03 — Amendment SA 3361 proposed by Senator Bunning to Amendment SA 3336. (consideration: CR S981-984, S1011) To provide additional offsets.
+- 2010-03-03 — Amendment SA 3368 proposed by Senator Feingold to Amendment SA 3336. (consideration: CR S1004-1005; text: CR S1004) To provide for the rescission of unused transportation earmarks and to establish a general reporting requirement for any unused earmarks.
+- 2010-03-03 — Amendment SA 3382 proposed by Senator Stabenow to Amendment SA 3336. (consideration: CR S1001-1003; text: CR S1002-1003) To amend the Internal Revenue Code of 1986 to allow companies to utilize existing alternative minimum tax credits to create and maintain American jobs through new domestic investments, and for other purposes.
+- 2010-03-03 — Amendment SA 3389 proposed by Senator Burr to Amendment SA 3336. (consideration: CR S1005-1006; text: CR S1005-1006) To provide Federal reimbursement to State and local governments for a limited sales, use, and retailers' occupation tax holiday, and to offset the cost of such reimbursements.
+- 2010-03-03 — Amendment SA 3390 proposed by Senator Burr to Amendment SA 3336. (consideration: CR S1006-1009) To provide an emergency benefit of $250 to seniors, veterans, and persons with disabilities in 2010 to compensate for the lack of cost-of-living adjustment for such year, to provide an offset using unobligated stimulus funds, and for other purposes.
+- 2010-03-03 — Amendment SA 3390 ruled out of order by the chair.
+- 2010-03-03 — Amendment SA 3391 proposed by Senator Brown MA to Amendment SA 3336. (consideration: CR S1005; text: CR S1005) To provide for a 6-month employee payroll tax rate cut, and for other purposes.
+- 2010-03-03 — Considered by Senate. (consideration: CR S973, S1003-1004; text as modified: CR S1003-1004)
+- 2010-03-03 — Considered by Senate. (consideration: CR S973, S980-981)
+- 2010-03-03 — Considered by Senate. (consideration: CR S973, S986-992, S995-998; text as modified: CR S986-987, S995-996, S997-998; text as further modified: CR S996-997)
+- 2010-03-03 — Considered by Senate. (consideration: CR S973, S996-997, S1011-1012; text as further modified: CR S996-997)
+- 2010-03-03 — Considered by Senate. (consideration: CR S973-1013)
+- 2010-03-03 — Motion to table amendment SA 3352 agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 34.
+- 2010-03-03 — Motion to table amendment SA 3360 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 37.
+- 2010-03-03 — Motion to table amendment SA 3361 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 38.
+- 2010-03-03 — Motion to waive sections of the Budget Act with respect to amendment SA 3336 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 39.
+- 2010-03-03 — Motion to waive the Budget Act with respect to amendment SA 3336 made in Senate.
+- 2010-03-03 — Motion to waive the Budget Act with respect to amendment SA 3338 rejected in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 33.
+- 2010-03-03 — Motion to waive the Budget Act with respect to amendment SA 3353 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 36.
+- 2010-03-03 — Motion to waive the Budget Act with respect to amendment SA 3390 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 35.
+- 2010-03-03 — Point of order raised in Senate with respect to amendment SA 3336.
+- 2010-03-03 — Point of order raised in Senate with respect to amendment SA 3338.
+- 2010-03-03 — Point of order that an emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 3353.
+- 2010-03-03 — Point of order that an emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 3390.
+- 2010-03-03 — Point of order that the amendment violates the Budget Act raised in Senate with respect to amendment SA 3353.
+- 2010-03-03 — Point of order that the amendment violates the Budget Act raised in Senate with respect to amendment SA 3390.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to table amendment SA 3352 agreed to in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 34.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to table amendment SA 3360 agreed to in Senate by Yea-Nay Vote. 56 - 41. Record Vote Number: 37.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to table amendment SA 3361 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 38.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to waive sections of the Budget Act with respect to amendment SA 3336 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 39.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3338 rejected in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 33.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3353 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 36.
+- 2010-03-03 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3390 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 35.
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3342 proposed by Senator Baucus for Senator Webb to Amendment SA 3336.(consideration: CR S997)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3352 proposed by Senator Grassley to Amendment SA 3336.(consideration: CR S976-978, S995, S998-999)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3353 proposed by Senator Reid for Senator Sanders to Amendment SA 3336.(consideration: CR S974-976, S978-980, S992-995, S1009-1010; text as modified: CR S992-993)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3356 proposed by Senator Reid for Senator Murray to Amendment SA 3336.(consideration: CR S973-974, S984-986; text: CR S973-974)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3358 proposed by Senator Coburn to Amendment SA 3336.(consideration: CR S997; text: CR S997)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3360 proposed by Senator Bunning to Amendment SA 3336.(consideration: CR S981-984, S1010-1011)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3361 proposed by Senator Bunning to Amendment SA 3336.(consideration: CR S981-984, S1011)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3368 proposed by Senator Feingold to Amendment SA 3336.(consideration: CR S1004-1005; text: CR S1004)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3382 proposed by Senator Stabenow to Amendment SA 3336.(consideration: CR S1001-1003; text: CR S1002-1003)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3389 proposed by Senator Burr to Amendment SA 3336.(consideration: CR S1005-1006; text: CR S1005-1006)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3390 proposed by Senator Burr to Amendment SA 3336.(consideration: CR S1006-1009)
+- 2010-03-03 — Senate amendment proposed (on the floor): Amendment SA 3391 proposed by Senator Brown MA to Amendment SA 3336.(consideration: CR S1005; text: CR S1005)
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — Senate amendment submitted
+- 2010-03-03 — The emergency designation within amendment SA 3353 was stricken.
+- 2010-03-03 — The emergency designation within amendment SA 3390 was stricken.
+- 2010-03-04 — Amendment SA 3337 ruled out of order by the chair.
+- 2010-03-04 — Amendment SA 3346 as modified agreed to in Senate by Unanimous Consent. (text: CR S1164)
+- 2010-03-04 — Amendment SA 3346 proposed by Senator Reid for Senator Leahy to Amendment SA 3336. (consideration: CR S1164) To improve title V.
+- 2010-03-04 — Amendment SA 3349 agreed to in Senate by Unanimous Consent.
+- 2010-03-04 — Amendment SA 3349 proposed by Senator Reid for Senator Dodd to Amendment SA 3336. (consideration: CR S1164; text: CR S1164) To clarify the effective date of section 244.
+- 2010-03-04 — Amendment SA 3354 proposed by Senator Whitehouse to Amendment SA 3336. (consideration: CR S1159) To encourage energy efficiency and conservation and development of renewable energy sources for housing, commercial structures, and other buildings, and to create sustainable communities.
+- 2010-03-04 — Amendment SA 3382 agreed to in Senate by Voice Vote.
+- 2010-03-04 — Amendment SA 3389 ruled out of order by the chair.
+- 2010-03-04 — Amendment SA 3391 ruled out of order by the chair.
+- 2010-03-04 — Amendment SA 3401 proposed by Senator Lincoln to Amendment SA 3336. (consideration: CR S1162-1164; text: CR S1162-1163) To improve a provision relating to emergency disaster assistance.
+- 2010-03-04 — Amendment SA 3406 agreed to in Senate by Unanimous Consent.
+- 2010-03-04 — Amendment SA 3406 proposed by Senator Reid for Senator Baucus to Amendment SA 3336. (consideration: CR S1164; text: CR S1164) To make technical changes.
+- 2010-03-04 — Amendment SA 3417 proposed by Senator Reid to Amendment SA 3336. (consideration: CR S1161; text: CR S1161) To temporarily modify the allocation of geothermal receipts.
+- 2010-03-04 — Amendment SA 3427 proposed by Senator McCain to Amendment SA 3336. (consideration: CR S1161-1162; text: CR S1161) To prohibit the use of reconciliation to consider changes in Medicare.
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1131-1153, S1154-1159, S1159-1164)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1141-1142, S1152-1153)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1142-1146, S1151-1152)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1146-1147, S1152)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1147-1149)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1149-1150)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1151)
+- 2010-03-04 — Considered by Senate. (consideration: CR S1126, S1160-1161; text as modified: CR S1160-1161)
+- 2010-03-04 — Motion to waive the Budget Act with respect to amendment SA 3337 rejected in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 42.
+- 2010-03-04 — Motion to waive the Budget Act with respect to amendment SA 3389 rejected in Senate by Yea-Nay Vote. 22 - 78. Record Vote Number: 41.
+- 2010-03-04 — Motion to waive the Budget Act with respect to amendment SA 3391 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 44 - 56. Record Vote Number: 40.
+- 2010-03-04 — Point of order raised in Senate with respect to amendment SA 3337.
+- 2010-03-04 — Point of order raised in Senate with respect to amendment SA 3389.
+- 2010-03-04 — Point of order that an emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 3391.
+- 2010-03-04 — Point of order that the amendment violates the Budget Act raised in Senate with respect to amendment SA 3391.
+- 2010-03-04 — Proposed amendment SA 3354 withdrawn in Senate. (consideration: CR S1159)
+- 2010-03-04 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3337 rejected in Senate by Yea-Nay Vote. 59 - 41. Record Vote Number: 42.
+- 2010-03-04 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3389 rejected in Senate by Yea-Nay Vote. 22 - 78. Record Vote Number: 41.
+- 2010-03-04 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3391 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 44 - 56. Record Vote Number: 40.
+- 2010-03-04 — Senate amendment agreed to: Amendment SA 3346 as modified agreed to in Senate by Unanimous Consent.(text: CR S1164)
+- 2010-03-04 — Senate amendment agreed to: Amendment SA 3349 agreed to in Senate by Unanimous Consent.
+- 2010-03-04 — Senate amendment agreed to: Amendment SA 3382 agreed to in Senate by Voice Vote.
+- 2010-03-04 — Senate amendment agreed to: Amendment SA 3406 agreed to in Senate by Unanimous Consent.
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3346 proposed by Senator Reid for Senator Leahy to Amendment SA 3336.(consideration: CR S1164)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3349 proposed by Senator Reid for Senator Dodd to Amendment SA 3336.(consideration: CR S1164; text: CR S1164)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3354 proposed by Senator Whitehouse to Amendment SA 3336.(consideration: CR S1159)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3401 proposed by Senator Lincoln to Amendment SA 3336.(consideration: CR S1162-1164; text: CR S1162-1163)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3406 proposed by Senator Reid for Senator Baucus to Amendment SA 3336.(consideration: CR S1164; text: CR S1164)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3417 proposed by Senator Reid to Amendment SA 3336.(consideration: CR S1161; text: CR S1161)
+- 2010-03-04 — Senate amendment proposed (on the floor): Amendment SA 3427 proposed by Senator McCain to Amendment SA 3336.(consideration: CR S1161-1162; text: CR S1161)
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — Senate amendment submitted
+- 2010-03-04 — The emergency designation within amendment SA 3391 was stricken.
+- 2010-03-05 — Amendment SA 3335 as modified agreed to in Senate by Unanimous Consent. (text as further modified: CR S1222-1223)
+- 2010-03-05 — Amendment SA 3374 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1223)
+- 2010-03-05 — Amendment SA 3374 proposed by Senator Baucus for Senator Bayh to Amendment SA 3338. (consideration: CR S1222-1224) To clarify the low-income housing credits that are eligible for the low-income housing elections, and for other purposes.
+- 2010-03-05 — Amendment SA 3383 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1223)
+- 2010-03-05 — Amendment SA 3383 proposed by Senator Baucus for Senator Wicker to Amendment SA 3336. (consideration: CR S1222-1224) To amend the Internal Revenue Code of 1986 to extend tax-exempt bond financing in the GO Zone, and for other purposes.
+- 2010-03-05 — Amendment SA 3397 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1223-1224)
+- 2010-03-05 — Amendment SA 3397 proposed by Senator Baucus for Senator Rockefeller to Amendment SA 3336. (consideration: CR S1222-1224) To amend the Internal Revenue Code of 1986 to modify the requirements for exterior windows, doors, and skylights to be eligible for nonbusiness energy property, and for other purposes.
+- 2010-03-05 — Amendment SA 3411 as modified agreed to in Senate by Unanimous Consent.
+- 2010-03-05 — Amendment SA 3411 proposed by Senator Baucus for Senator Roberts to Amendment SA 3336. (consideration: CR S1222-1224) To extend the special allowance for certain property, and for other purposes.
+- 2010-03-05 — Amendment SA 3416 agreed to in Senate by Unanimous Consent.
+- 2010-03-05 — Amendment SA 3416 proposed by Senator Baucus for Senator Lincoln to Amendment SA 3336. (consideration: CR S1222-1224; text: CR S1224) To provide grants for energy efficient appliances in lieu of tax credits.
+- 2010-03-05 — Amendment SA 3430 proposed by Senator Baucus for Senator Isakson to Amendment SA 3336. (consideration: CR S1224-1225) To modify the pension funding provisions.
+- 2010-03-05 — Cloture motion on amendment SA 3336 presented in Senate. (consideration: CR S1225; text: CR S1225)
+- 2010-03-05 — Cloture motion on the bill presented in Senate. (consideration: CR S1225; text: CR S1225)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212, S1222-1224)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212, S1240-1241; text as further modified: CR S1240-1241)
+- 2010-03-05 — Considered by Senate. (consideration: CR S1212-1225, S1240-1241)
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3335 as modified agreed to in Senate by Unanimous Consent.(text as further modified: CR S1222-1223)
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3374 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1223)
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3383 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1223)
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3397 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1223-1224)
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3411 as modified agreed to in Senate by Unanimous Consent.
+- 2010-03-05 — Senate amendment agreed to: Amendment SA 3416 agreed to in Senate by Unanimous Consent.
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3374 proposed by Senator Baucus for Senator Bayh to Amendment SA 3338.(consideration: CR S1222-1224)
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3383 proposed by Senator Baucus for Senator Wicker to Amendment SA 3336.(consideration: CR S1222-1224)
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3397 proposed by Senator Baucus for Senator Rockefeller to Amendment SA 3336.(consideration: CR S1222-1224)
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3411 proposed by Senator Baucus for Senator Roberts to Amendment SA 3336.(consideration: CR S1222-1224)
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3416 proposed by Senator Baucus for Senator Lincoln to Amendment SA 3336.(consideration: CR S1222-1224; text: CR S1224)
+- 2010-03-05 — Senate amendment proposed (on the floor): Amendment SA 3430 proposed by Senator Baucus for Senator Isakson to Amendment SA 3336.(consideration: CR S1224-1225)
+- 2010-03-05 — Senate amendment submitted
+- 2010-03-05 — Senate amendment submitted
+- 2010-03-05 — The amendment was modified to amend SA 3336 by Unanimous Consent.
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253-1258)
+- 2010-03-08 — Considered by Senate. (consideration: CR S1253-1258)
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-08 — Senate amendment submitted
+- 2010-03-09 — Amendment SA 3356 ruled out of order by the chair.
+- 2010-03-09 — Amendment SA 3358 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 44.
+- 2010-03-09 — Amendment SA 3365 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1290)
+- 2010-03-09 — Amendment SA 3365 proposed by Senator Baucus for Senator Whitehouse to Amendment SA 3336. (consideration: CR S1288-1291) To require the Comptroller General to report to Congress on the causes of job losses in New England and the Midwest over the past 20 years and to suggest possible remedies.
+- 2010-03-09 — Amendment SA 3371 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1290-1291)
+- 2010-03-09 — Amendment SA 3371 proposed by Senator Baucus for Senator Rockefeller to Amendment SA 3336. (consideration: CR S1288-1291) To amend the Internal Revenue Code of 1986 to extend certain expiring provisions.
+- 2010-03-09 — Amendment SA 3372 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1289)
+- 2010-03-09 — Amendment SA 3372 proposed by Senator Baucus for Senator Merkley to Amendment SA 3336. (consideration: CR S1288-1291) To authorize the Secretary of the Interior to grant market-related contract extensions of certain timber contracts between the Secretary of the Interior and timber purchasers.
+- 2010-03-09 — Amendment SA 3381 proposed by Senator Lieberman to Amendment SA 3336. (consideration: CR S1292-1293) To reauthorize the DC opportunity scholarship program.
+- 2010-03-09 — Amendment SA 3401 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1289)
+- 2010-03-09 — Amendment SA 3417 agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Amendment SA 3429 agreed to in Senate by Voice Vote.
+- 2010-03-09 — Amendment SA 3429 proposed by Senator Baucus to Amendment SA 3336. (consideration: CR S1285; text: CR S1285) To provide an explanation of the budgetary effects of legislation considered by the Senate.
+- 2010-03-09 — Amendment SA 3430 as modified agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Amendment SA 3430, previously agreed to, was further modified by Unanimous Consent.
+- 2010-03-09 — Amendment SA 3442 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1289-1290)
+- 2010-03-09 — Amendment SA 3442 proposed by Senator Baucus for Senator Warner to Amendment SA 3336. (consideration: CR S1288-1291) To ensure adequate planning and reporting relating to the use of funds made available under the American Recovery and Reinvestment Act of 2009.
+- 2010-03-09 — Amendment SA 3451 agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Amendment SA 3451 proposed by Senator Baucus to Amendment SA 3336. (consideration: CR S1288-1291; text: CR S1291) To make technical changes.
+- 2010-03-09 — Cloture on amendment SA 3336 invoked in Senate by Yea-Nay Vote. 66 - 34. Record Vote Number: 46. (consideration: CR S1292; text: CR S1292)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1284, S1285)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1284, S1285-1286)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1284-1286, S1288-1303)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1284-1288, S1288-1291)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1285)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1285)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1285)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1285, S1288-1291, S1302-1303)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1285-1288, S1288-1291; text: CR S1289)
+- 2010-03-09 — Considered by Senate. (consideration: CR S1288-1291)
+- 2010-03-09 — Motion to waive the Budget Act with respect to amendment SA 3356 rejected in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 45.
+- 2010-03-09 — Point of order raised in Senate with respect to amendment SA 3356.
+- 2010-03-09 — Proposed amendment SA 3381 withdrawn in Senate. (consideration: CR S1293)
+- 2010-03-09 — Roll call votes on amendments in Senate: Amendment SA 3358 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 44.
+- 2010-03-09 — Roll call votes on amendments in Senate: Cloture on amendment SA 3336 invoked in Senate by Yea-Nay Vote. 66 - 34. Record Vote Number: 46.(consideration: CR S1292; text: CR S1292)
+- 2010-03-09 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3356 rejected in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 45.
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3358 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 44.
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3365 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1290)
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3371 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1290-1291)
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3372 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1289)
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3401 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1289)
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3417 agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3429 agreed to in Senate by Voice Vote.
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3430 as modified agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3442 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1289-1290)
+- 2010-03-09 — Senate amendment agreed to: Amendment SA 3451 agreed to in Senate by Unanimous Consent.
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3365 proposed by Senator Baucus for Senator Whitehouse to Amendment SA 3336.(consideration: CR S1288-1291)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3371 proposed by Senator Baucus for Senator Rockefeller to Amendment SA 3336.(consideration: CR S1288-1291)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3372 proposed by Senator Baucus for Senator Merkley to Amendment SA 3336.(consideration: CR S1288-1291)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3381 proposed by Senator Lieberman to Amendment SA 3336.(consideration: CR S1292-1293)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3429 proposed by Senator Baucus to Amendment SA 3336.(consideration: CR S1285; text: CR S1285)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3442 proposed by Senator Baucus for Senator Warner to Amendment SA 3336.(consideration: CR S1288-1291)
+- 2010-03-09 — Senate amendment proposed (on the floor): Amendment SA 3451 proposed by Senator Baucus to Amendment SA 3336.(consideration: CR S1288-1291; text: CR S1291)
+- 2010-03-09 — Senate amendment submitted
+- 2010-03-09 — Senate amendment submitted
+- 2010-03-09 — Senate amendment submitted
+- 2010-03-09 — Senate amendment submitted
+- 2010-03-10 — Amendment SA 3336 agreed to in Senate by Unanimous Consent.
+- 2010-03-10 — Amendment SA 3342 ruled non-germane by the chair.
+- 2010-03-10 — Amendment SA 3368 ruled non-germane by the chair.
+- 2010-03-10 — Amendment SA 3427 ruled non-germane by the chair.
+- 2010-03-10 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 47. (consideration: CR S1339; text: CR S1339)
+- 2010-03-10 — Considered by Senate. (consideration: CR S1338)
+- 2010-03-10 — Considered by Senate. (consideration: CR S1338)
+- 2010-03-10 — Considered by Senate. (consideration: CR S1338)
+- 2010-03-10 — Considered by Senate. (consideration: CR S1338-1339)
+- 2010-03-10 — Considered by Senate. (consideration: CR S1338-1340)
+- 2010-03-10 — Passed Senate with an amendment by Yea-Nay Vote. 62 - 36. Record Vote Number: 48. (text: CR 3/15/2010 S1533-1562)
+- 2010-03-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 36. Record Vote Number: 48.(text: CR 3/15/2010 S1533-1562)
+- 2010-03-10 — Point of order raised in Senate with respect to amendment SA 3342.
+- 2010-03-10 — Point of order raised in Senate with respect to amendment SA 3368.
+- 2010-03-10 — Point of order raised in Senate with respect to amendment SA 3427.
+- 2010-03-10 — Senate amendment agreed to: Amendment SA 3336 agreed to in Senate by Unanimous Consent.
