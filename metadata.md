@@ -1,7 +1,7 @@
 ---
 measure: S. 443
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 443
@@ -28,3 +28,8 @@ Hoh Indian Tribe Safe Homelands Act
 
 - 2009-02-13 — Introduced in Senate
 - 2009-02-13 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S2330-2331)
+- 2009-04-02 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 111-66.
+- 2009-08-06 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-10 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 111-161.
+- 2010-03-10 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 111-161.
+- 2010-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 312.
