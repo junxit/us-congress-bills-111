@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4786
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4786
@@ -36,3 +36,11 @@ To provide authority to compensate Federal employees for the 2-day period in whi
 - 2010-03-09 — Referred to House Oversight and Government Reform
 - 2010-03-09 — Referred to House Transportation and Infrastructure
 - 2010-03-09 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-03-10 — Considered under suspension of the rules. (consideration: CR H1226-1228)
+- 2010-03-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4786.
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2010-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1226-1227)
+- 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1226-1227)
+- 2010-03-10 — Received in the Senate.
+- 2010-03-10 — Referred to the Subcommittee on Highways and Transit.
