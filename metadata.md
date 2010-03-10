@@ -1,7 +1,7 @@
 ---
 measure: S. 1067
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1067
@@ -16,7 +16,7 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 
-## Cosponsors (47)
+## Cosponsors (65)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -65,6 +65,24 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
 
 ## Committees (1)
 
@@ -79,3 +97,12 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 - 2009-12-15 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-108.
 - 2009-12-15 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-108.
 - 2009-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
+- 2010-03-10 — Amendment SA 3461 agreed to in Senate by Unanimous Consent.
+- 2010-03-10 — Amendment SA 3461 proposed by Senator Dorgan for Senator Feingold. (consideration: CR S1411; text: CR S1411) To express the sense of Congress regarding the funding of activities under this Act.
+- 2010-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1409-1412; text of measure as reported in Senate: CR S1411-1412)
+- 2010-03-10 — Passed Senate with an amendment by Unanimous Consent. (text: CR S1411-1412)
+- 2010-03-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S1411-1412)
+- 2010-03-10 — Senate amendment agreed to: Amendment SA 3461 agreed to in Senate by Unanimous Consent.
+- 2010-03-10 — Senate amendment proposed (on the floor): Amendment SA 3461 proposed by Senator Dorgan for Senator Feingold.(consideration: CR S1411; text: CR S1411)
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — The committee substitute agreed to by Unanimous Consent.
