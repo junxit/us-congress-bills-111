@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1087
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1087
@@ -40,3 +40,9 @@ Honoring the life of John H. "Jack" Ruffin, Jr.
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Introduced in House
 - 2010-02-22 — Referred to the House Committee on the Judiciary.
+- 2010-03-10 — Considered under suspension of the rules. (consideration: CR H1234-1235)
+- 2010-03-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1087.
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2010-03-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1234)
+- 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1234)
