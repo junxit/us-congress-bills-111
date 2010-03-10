@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4547
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4547
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 119 Sta
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 119 Sta
 - 2010-03-09 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2010-03-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1203)
 - 2010-03-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1203)
+- 2010-03-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
