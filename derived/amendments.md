@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4621
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(h)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(i)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
