@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1146
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1146
@@ -20,6 +20,10 @@ Providing for consideration of the concurrent resolution (H. Con. Res. 248) dire
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2010-03-10 — [House 111-2-95](votes/house-111-2-0095.md) — On Agreeing to the Resolution — **Passed** (225–195)
+
 ## Actions
 
 - 2010-03-09 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the concurrent resolution (H. Con. Res. 248) dire
 - 2010-03-09 — Rule provides for consideration of H. Con. Res. 248 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
 - 2010-03-09 — The House Committee on Rules reported an original measure, H. Rept. 111-428, by Mr. McGovern.
 - 2010-03-09 — The House Committee on Rules reported an original measure, H. Rept. 111-428, by Mr. McGovern.
+- 2010-03-10 — Considered as privileged matter. (consideration: CR H1245-1249)
+- 2010-03-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 1146.
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 195 (Roll no. 95). (text: CR H1245)
+- 2010-03-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 195 (Roll no. 95).(text: CR H1245)
+- 2010-03-10 — The previous question was ordered without objection. (consideration: CR H1249)
