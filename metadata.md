@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1061
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1061
@@ -30,3 +30,9 @@ Honoring the heroic actions of Court Security Officer Stanley Cooper, Deputy Uni
 - 2010-02-02 — Introduced in House
 - 2010-02-02 — Introduced in House
 - 2010-02-02 — Referred to the House Committee on the Judiciary.
+- 2010-03-10 — Considered under suspension of the rules. (consideration: CR H1240-1242)
+- 2010-03-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1061.
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
+- 2010-03-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1240)
+- 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1240)
