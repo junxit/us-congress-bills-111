@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4783
@@ -16,7 +16,7 @@ Claims Resolution Act of 2010
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -39,6 +39,7 @@ Claims Resolution Act of 2010
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
 
 ## Committees (2)
 
@@ -52,3 +53,10 @@ Claims Resolution Act of 2010
 - 2010-03-09 — Referred to House Budget
 - 2010-03-09 — Referred to House Ways and Means
 - 2010-03-09 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-03-10 — Considered under suspension of the rules. (consideration: CR H1242-1245)
+- 2010-03-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4783.
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — Mr. Levin moved to suspend the rules and pass the bill.
+- 2010-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1242-1243)
+- 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1242-1243)
+- 2010-03-10 — Received in the Senate.
