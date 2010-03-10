@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1144
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1144
@@ -54,6 +54,10 @@ Expressing condolences to the families of the victims of the February 27, 2010, 
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-03-10 — [House 111-2-100](votes/house-111-2-0100.md) — On Motion to Suspend the Rules and Agree — **Passed** (404–1)
+
 ## Actions
 
 - 2010-03-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Connolly (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
@@ -63,3 +67,7 @@ Expressing condolences to the families of the victims of the February 27, 2010, 
 - 2010-03-09 — Introduced in House
 - 2010-03-09 — Mr. Connolly (VA) moved to suspend the rules and agree to the resolution.
 - 2010-03-09 — Referred to the House Committee on Foreign Affairs.
+- 2010-03-10 — Considered as unfinished business. (consideration: CR H1287)
+- 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-10 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 404 - 1 (Roll no. 100). (text: CR 3/9/2010 H1188-1189)
+- 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 404 - 1 (Roll no. 100).(text: CR 3/9/2010 H1188-1189)

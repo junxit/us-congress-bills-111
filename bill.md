@@ -2,7 +2,7 @@
 legis-num: H. RES. 1144
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1144
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on February 27, 2010, an 8.8-magnitude earthquake, one of the largest ever recorded, struck off the coast of Chile;
+- Whereas, on February 27, 2010, an 8.8 magnitude earthquake, one of the largest ever recorded, struck off the coast of Chile;
 - Whereas casualty estimates, which number in the hundreds and continue to grow, as well as the destruction of entire coastal villages and extensive damage to highways, bridges, apartments, and infrastructure, have led to the Government of Chile’s declaration of a “state of catastrophe”;
 - Whereas an estimated 2,000,000 people, including upwards of 1,500,000 displaced persons, have been directly affected by the earthquake, the tsunami, and its aftermath;
 - Whereas aftershocks numbering over 100, including 8 aftershocks registering above a 6.0 magnitude, continue to affect the coast and the rest of the country after the initial 120-second tremor, the strongest and most damaging earthquake in Chile in the last 50 years;
-- Whereas Chile had already overcome the trials of more than a dozen previous 7.0-magnitude-or-greater earthquakes since the 1960 Valdivia 9.5-magnitude quake, the largest ever measured, which left thousands dead;
+- Whereas Chile had already overcome the trials of more than a dozen previous 7.0-magnitude or greater earthquakes since the 1960 Valdivia 9.5-magnitude quake, the largest ever measured, which left thousands dead;
 - Whereas the tsunami caused by the earthquake, which came shortly after, with waves measuring over 19 feet, slammed 124 miles of Chile’s coast and accounted for a significant percentage of the casualties and missing;
 - Whereas the threat of potential tsunamis across the “Ring of Fire” earthquake area prompted warnings and advisories issued from Hawaii to as far as the California coast and Alaska;
 - Whereas according to the United States Geological Survey (USGS), Concepcion, Chile’s second largest city, was 70 miles from the earthquake’s epicenter and suffered some of the worst damage, and its hundreds of thousands of residents initially remained largely cut off from the remainder of the country without many basic necessities, including running water and electricity;
