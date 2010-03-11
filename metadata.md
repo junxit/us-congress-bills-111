@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 249
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 249
@@ -20,9 +20,10 @@ Commemorating the 45th anniversary of Bloody Sunday and the role that it played 
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Commemorating the 45th anniversary of Bloody Sunday and the role that it played 
 - 2010-03-10 — Mr. Cohen moved to suspend the rules and agree to the resolution.
 - 2010-03-10 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 99). (text: CR H1228)
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 99).(text: CR H1228)
+- 2010-03-11 — Received in the Senate and referred to the Committee on the Judiciary.
