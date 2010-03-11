@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 946
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Plain Language Act of 2009”.
+This Act may be cited as the “Plain Writing Act of 2010”.
 
 ## § 2. Purpose
 
@@ -21,34 +21,46 @@ The purpose of this Act is to improve the effectiveness and accountability of Fe
 
 In this Act:
 
-- **(1)** *Agency* The term agency means an Executive agency, as defined under section 105 of title 5, United States Code.
-- **(2)** *Covered document* The term covered document means any document (other than a regulation) issued by an agency to the public, including documents and other text released in electronic form.
-- **(3)** *Plain language* The term plain language means language that the intended audience can readily understand and use because that language is clear, concise, well-organized, and follows other best practices of plain language writing.
+- **(1)** *Agency* The term “agency” means an Executive agency, as defined under section 105 of title 5, United States Code.
+- **(2)** *Covered document* The term “covered document”—
+  - **(A)** means any document that—
+    - **(i)** is relevant to obtaining any Federal Government benefit or service or filing taxes;
+    - **(ii)** provides information about any Federal Government benefit or service; or
+    - **(iii)** explains to the public how to comply with a requirement the Federal Government administers or enforces;
+  - **(B)** includes (whether in paper or electronic form) a letter, publication, form, notice, or instruction; and
+  - **(C)** does not include a regulation.
+- **(3)** *Plain writing* The term “plain writing” means writing that the intended audience can readily understand and use because that writing is clear, concise, well-organized, and follows other best practices of plain writing.
 
 ## § 4. Responsibilities of Federal agencies
 
-- **(a)** *Requirement To use plain language in new documents* Not later than 1 year after the date of enactment of this Act, each agency shall use plain language in any covered document of the agency issued or substantially revised.
-- **(b)** *Guidance*
-  - **(1)** *In general*
-    - **(A)** *Development* Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop guidance on implementing the requirements of subsection (a).
-    - **(B)** *Issuance* The Director of the Office of Management and Budget shall issue the guidance developed under subparagraph (A) to agencies as a circular.
+- **(a)** *Preparation for Implementation of Plain Writing Requirements*
+  - **(1)** *In general* Not later than 9 months after the date of enactment of this Act, the head of each agency shall—
+    - **(A)** designate 1 or more senior officials within the agency to oversee the agency implementation of this Act;
+    - **(B)** communicate the requirements of this Act to the employees of the agency;
+    - **(C)** train employees of the agency in plain writing;
+    - **(D)** establish a process for overseeing the ongoing compliance of the agency with the requirements of this Act;
+    - **(E)** create and maintain a plain writing section of the agency’s website that is accessible from the homepage of the agency’s website; and
+    - **(F)** designate 1 or more agency points-of-contact to receive and respond to public input on—
+      - **(i)** agency implementation of this Act; and
+      - **(ii)** the agency reports required under section 5.
+  - **(2)** *Website* The plain writing section described under paragraph (1)(E) shall—
+    - **(A)** inform the public of agency compliance with the requirements of this Act; and
+    - **(B)** provide a mechanism for the agency to receive and respond to public input on—
+      - **(i)** agency implementation of this Act; and
+      - **(ii)** the agency reports required under section 5.
+- **(b)** *Requirement to use plain writing in new documents* Beginning not later than 1 year after the date of enactment of this Act, each agency shall use plain writing in every covered document of the agency that the agency issues or substantially revises.
+- **(c)** *Guidance*
+  - **(1)** *In general* Not later than 6 months after the date of enactment of this Act, the Director of the Office of Management and Budget shall develop and issue guidance on implementing the requirements of this section. The Director may designate a lead agency, and may use interagency working groups to assist in developing and issuing the guidance.
   - **(2)** *Interim guidance* Before the issuance of guidance under paragraph (1), agencies may follow the guidance of—
     - **(A)** the writing guidelines developed by the Plain Language Action and Information Network; or
-    - **(B)** guidance provided by the head of the agency that is consistent with the guidelines referred to under subparagraph (A).
+    - **(B)** guidance provided by the head of the agency that is consistent with the guidelines referred to in subparagraph (A).
 
 ## § 5. Reports to Congress
 
-- **(a)** *Initial report* Not later than 6 months after the date of enactment of this Act, the head of each agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report that describes how the agency intends to meet the following objectives:
-  - **(1)** Communicating the requirements of this Act to agency employees.
-  - **(2)** Training agency employees to write in plain language.
-  - **(3)** Meeting the requirement under section 4(a).
-  - **(4)** Ensuring ongoing compliance with the requirements of this Act.
-  - **(5)** Designating a senior official to be responsible for implementing the requirements of this Act.
-  - **(6)** Using, to the extent practicable and appropriate, plain language in regulations promulgated by the agency.
-- **(b)** *Annual and other reports*
-  - **(1)** *Agency reports*
-    - **(A)** *In general* The head of each agency shall submit reports on compliance with this Act to the Office of Management and Budget.
-    - **(B)** *Submission dates* The Office of Management and Budget shall notify each agency of the date each report under subparagraph (A) is required for submission to enable the Office of Management and Budget to meet the requirements of paragraph (2).
-  - **(2)** *Reports to congress* The Director of the Office of Management and Budget shall review agency reports submitted under paragraph (1) using the guidance issued under section 4(b)(1)(B) and submit a report on the progress of agencies to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of Representatives—
-    - **(A)** annually for the first 2 years after the date of enactment of this Act; and
-    - **(B)** once every 3 years thereafter.
+- **(a)** *Initial report* Not later than 9 months after the date of enactment of this Act, the head of each agency shall publish on the plain writing section of the agency’s website a report that describes the agency plan for compliance with the requirements of this Act.
+- **(b)** *Annual compliance report* Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency’s website a report on agency compliance with the requirements of this Act.
+
+## § 6. Judicial review and enforceability
+
+- **(a)** *Judicial review* There shall be no judicial review of compliance or noncompliance with any provision of this Act.
+- **(b)** *Enforceability* No provision of this Act shall be construed to create any right or benefit, substantive or procedural, enforceable by any administrative or judicial action.
