@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1047
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1047
@@ -16,7 +16,7 @@ Commending The Ohio State University Buckeyes football team for its victory in t
 
 - Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Driehaus, Steve [D-OH-1] (D000609)
 - Rep. Schmidt, Jean [R-OH-2] (S001164)
@@ -43,6 +43,7 @@ Commending The Ohio State University Buckeyes football team for its victory in t
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. Titus, Dina [D-NV-3] (T000468)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Boehner, John A. [R-OH-8] (B000589)
 
 ## Committees (1)
 
@@ -53,3 +54,12 @@ Commending The Ohio State University Buckeyes football team for its victory in t
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Introduced in House
 - 2010-01-27 — Referred to the House Committee on Education and Labor.
+- 2010-02-23 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+- 2010-03-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Pierluisi objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-03-09 — Considered under suspension of the rules. (consideration: CR H1203-1205)
+- 2010-03-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1047.
+- 2010-03-09 — Mr. Pierluisi moved to suspend the rules and agree to the resolution.
+- 2010-03-11 — Considered as unfinished business. (consideration: CR H1340)
+- 2010-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 3/9/2010 H1203-1204)
+- 2010-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 3/9/2010 H1203-1204)
