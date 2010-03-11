@@ -1,7 +1,7 @@
 ---
 measure: S. 1132
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+29 amendatory instructions. 0 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,21 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 926B of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 926B of title 18, United States Code is amended by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “retired” and inserting “separated from service”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “, other than for reasons of mental instability”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “retirement” and inserting “separation”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more” and inserting “separation, served as a law enforcement officer for an aggregate of 10 years or more”;… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “retired” and inserting “separated”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (5) and replacing it with the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “retired” and inserting “separated”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “to meet the standards” and all that follows through “concealed firearm” and inserting “to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “retired” and inserting “separated”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “that indicates” and all that follows through the period and inserting “or by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within tha… | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(3), by inserting “which could result in suspension or loss of police powers” after “agency”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 926B of title 18, United States Code is amended by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “retired” and inserting “separated from service”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, other than for reasons of mental instability”; | the bill names no machine-readable US Code section |
