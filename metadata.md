@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4252
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4252
@@ -29,3 +29,10 @@ Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010
 - 2009-12-09 — Introduced in House
 - 2009-12-09 — Introduced in House
 - 2009-12-09 — Referred to the House Committee on Natural Resources.
+- 2009-12-11 — Referred to the Subcommittee on Water and Power.
+- 2010-02-24 — Committee Consideration and Mark-up Session Held.
+- 2010-02-24 — Ordered to be Reported by Voice Vote.
+- 2010-02-24 — Subcommittee on Water and Power Discharged.
+- 2010-03-11 — Placed on the Union Calendar, Calendar No. 249.
+- 2010-03-11 — Reported by the Committee on Natural Resources. H. Rept. 111-433.
+- 2010-03-11 — Reported by the Committee on Natural Resources. H. Rept. 111-433.
