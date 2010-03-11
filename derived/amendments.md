@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4621
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,13 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `39 U.S.C. § 3001` | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | insert | by inserting “(1)” after “(h)”; and | the bill quotes the text inserted but describes where it goes |
-| `39 U.S.C. § 3001` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3001` | insert | by inserting “(1)” after “(i)”; and | the bill quotes the text inserted but describes where it goes |
-| `39 U.S.C. § 3001` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(h)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting, in the matter preceding paragraph (1), “; or which bears the term census on the envelope or outside cover or wrapper” after “such matter by the Federal Government”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(i)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

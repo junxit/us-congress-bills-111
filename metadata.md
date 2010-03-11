@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4621
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4621
@@ -64,3 +64,14 @@ Prevent Deceptive Census Look Alike Mailings Act
 - 2010-03-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 97). (text: CR  3/9/2010 H1198)
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 97).(text: CR  3/9/2010 H1198)
 - 2010-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-03-26 — Cleared for White House.
+- 2010-03-26 — Passed Senate without amendment by Unanimous Consent. (text: CR S2165)
+- 2010-03-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2165)
+- 2010-03-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2165)
+- 2010-03-26 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2165)
+- 2010-04-01 — Presented to President.
+- 2010-04-01 — Presented to President.
+- 2010-04-07 — Became Public Law No: 111-155.
+- 2010-04-07 — Became Public Law No: 111-155.
+- 2010-04-07 — Signed by President.
+- 2010-04-07 — Signed by President.
