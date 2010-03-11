@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2194
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2194
@@ -370,9 +370,12 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - House — Foreign Affairs Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2009-12-15 — [House 111-1-975](votes/house-111-1-0975.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–12)
+- 2010-04-22 — [House 111-2-219](votes/house-111-2-0219.md) — On Motion to Instruct Conferees — **Passed** (403–11)
+- 2010-06-24 — [House 111-2-394](votes/house-111-2-0394.md) — On Motion to Suspend the Rules and Agree to the Conference Report — **Passed** (408–8)
+- 2010-06-24 — [Senate 111-2-199](votes/senate-111-2-0199.md) — On the Conference Report — **Conference Report Agreed to** (99–0)
 
 ## Actions
 
@@ -420,3 +423,41 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3466 proposed by Senator Kaufman for Senator Dodd.(consideration: CR S1421)
 - 2010-03-11 — Senate amendment submitted
 - 2010-03-11 — Senate insists on its amendment, asks for a conference, appoints conferees Dodd; Kerry; Lieberman; Menendez; Shelby; Bennett; Lugar. (consideration: CR S1421)
+- 2010-04-22 — Considered as unfinished business. (consideration: CR H2817)
+- 2010-04-22 — DEBATE - The House resumed debate on the Ros-Lehtinen motion to instruct conferees on H.R. 2194.
+- 2010-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-22 — Mr. Berman asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H2806-2815)
+- 2010-04-22 — Ms. Ros-Lehtinen moved that the House instruct conferees. (consideration: CR H2806)
+- 2010-04-22 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H2806; text: CR H2806)
+- 2010-04-22 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 403 - 11, 3 Present (Roll no. 219). (consideration: CR H2817)
+- 2010-04-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ros-Lehtinen motion to instruct conferees on H.R. 2194, the Chair put the question on the motion and by voice vote, announced that the ayes had prevailed. Ms. Ros-Lehtinen demanded the yeas and nays and the Chair postponed further proceedings on the motion to instruct conferees until later in the legislative day.
+- 2010-04-22 — The House proceeded with one hour of debate on the Ros-Lehtinen motion to instruct conferees on H.R. 2194. The instructions contained in the motion seek to require the managers on the part of the House to insist on the provisions of H.R. 2194 as passed by the House on December 15, 2009 and to complete their work and present a conference report and joint explanatory statement by no later than May 28, 2010.
+- 2010-04-22 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of secs. 3 and 4 of the House bill, and secs. 101-103, 106, 203, and 401 of the Senate amendment, and modifications committed to conference: Frank (MA), Meeks (NY), and Garrett (NJ). (consideration: CR H2818)
+- 2010-04-22 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of the House bill and the Senate amendment, and modifications committed to conference: Berman, Ackerman, Sherman, Crowley, Scott (GA), Costa, Klein (FL), Ros-Lehtinen, Burton (IN), Royce, and Pence. (consideration: CR H2818)
+- 2010-04-22 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of secs. 3 and 4 of the House bill, and secs. 101-103 and 401 of the Senate amendment, and modifications committed to conference: Levin, Tanner, and Camp. (consideration: CR H2818)
+- 2010-04-22 — The previous question on the motion that the House instruct conferees was ordered without objection. (consideration: CR H2815)
+- 2010-04-28 — Conference committee actions: Conference held.
+- 2010-04-28 — Conference held.
+- 2010-06-23 — Conferees agreed to file conference report.
+- 2010-06-23 — Conference committee actions: Conferees agreed to file conference report.
+- 2010-06-23 — Conference report H. Rept. 111-512 filed. (text of conference report: CR H4751-4770)
+- 2010-06-23 — Conference report filed: Conference report H. Rept. 111-512 filed.(text of conference report: CR H4751-4770)
+- 2010-06-24 — Cleared for White House.
+- 2010-06-24 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2010-06-24 — Conference report agreed to in House: On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 408 - 8, 1 Present (Roll no. 394).
+- 2010-06-24 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 99 - 0. Record Vote Number: 199.
+- 2010-06-24 — Conference report considered in Senate, notwithstanding the receipt of the official papers, by Unanimous Consent. (consideration: CR S5394-5409)
+- 2010-06-24 — DEBATE - By unanimous consent the House proceeded with fifty minutes of debate on the conference report to accompany H.R. 2194.
+- 2010-06-24 — Message on Senate action sent to the House.
+- 2010-06-24 — Motions to reconsider laid on the table Agreed to without objection.
+- 2010-06-24 — Mr. Berman moved to suspend the rules and agree to the conference report, H. Rept. 111-512. (consideration: CR H4841-4855)
+- 2010-06-24 — On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 408 - 8, 1 Present (Roll no. 394).
+- 2010-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany H.R. 2194, the Chair put the question on adoption of the motion to suspend the rules and agree to the conference report, and announced by voice vote that the ayes had prevailed. Mr. Berman demanded the yeas and nays and pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-06-24 — Senate agreed to conference report by Yea-Nay Vote. 99 - 0. Record Vote Number: 199.
+- 2010-06-24 — The House proceeded to consider the conference report H.Rept. 111-512 as unfinished business. (consideration: CR H4856-4857)
+- 2010-06-28 — Presented to President.
+- 2010-06-28 — Presented to President.
+- 2010-07-01 — Became Public Law No: 111-195.
+- 2010-07-01 — Became Public Law No: 111-195.
+- 2010-07-01 — Signed by President.
+- 2010-07-01 — Signed by President.
