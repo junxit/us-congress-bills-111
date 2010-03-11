@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title XVI of the International Financial Institutions Act (22 U.S.C. 262p et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 262p` | add-at-end | Title XVI of the International Financial Institutions Act (22 U.S.C. 262p et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

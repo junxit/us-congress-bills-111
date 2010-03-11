@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4573
@@ -104,3 +104,4 @@ Haiti Debt Relief and Earthquake Recovery Act of 2010
 - 2010-03-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1288)
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1288)
 - 2010-03-10 — The title of the measure was amended. Agreed to without objection.
+- 2010-03-11 — Received in the Senate, read twice.
