@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4621
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4621
@@ -39,9 +39,10 @@ Prevent Deceptive Census Look Alike Mailings Act
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Loebsack, David [D-IA-2] (L000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Prevent Deceptive Census Look Alike Mailings Act
 - 2010-03-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 97). (text: CR  3/9/2010 H1198)
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 97).(text: CR  3/9/2010 H1198)
+- 2010-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
