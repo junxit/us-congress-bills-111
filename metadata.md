@@ -1,7 +1,7 @@
 ---
 measure: S. 1067
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1067
@@ -110,3 +110,16 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 - 2010-03-11 — Message on Senate action sent to the House.
 - 2010-03-11 — Received in the House.
 - 2010-03-11 — Referred to the House Committee on Foreign Affairs.
+- 2010-05-12 — Cleared for White House.
+- 2010-05-12 — Considered under suspension of the rules. (consideration: CR H3409-3416)
+- 2010-05-12 — DEBATE - The House proceeded with forty minutes of debate on S. 1067.
+- 2010-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-12 — Mr. Engel moved to suspend the rules and pass the bill.
+- 2010-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3409-3411)
+- 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3409-3411)
+- 2010-05-17 — Presented to President.
+- 2010-05-17 — Presented to President.
+- 2010-05-24 — Became Public Law No: 111-172.
+- 2010-05-24 — Became Public Law No: 111-172.
+- 2010-05-24 — Signed by President.
+- 2010-05-24 — Signed by President.
