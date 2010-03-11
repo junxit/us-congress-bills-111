@@ -1,7 +1,7 @@
 ---
 measure: S. 1067
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1067
@@ -84,9 +84,10 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -106,3 +107,6 @@ Lord's Resistance Army Disarmament and Northern Uganda Recovery Act of 2009
 - 2010-03-10 — Senate amendment proposed (on the floor): Amendment SA 3461 proposed by Senator Dorgan for Senator Feingold.(consideration: CR S1411; text: CR S1411)
 - 2010-03-10 — Senate amendment submitted
 - 2010-03-10 — The committee substitute agreed to by Unanimous Consent.
+- 2010-03-11 — Message on Senate action sent to the House.
+- 2010-03-11 — Received in the House.
+- 2010-03-11 — Referred to the House Committee on Foreign Affairs.
