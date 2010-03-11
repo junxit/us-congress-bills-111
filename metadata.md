@@ -1,7 +1,7 @@
 ---
 measure: S. 1147
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1147
@@ -43,6 +43,10 @@ PACT Act
 
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2010-03-17 — [House 111-2-124](votes/house-111-2-0124.md) — On Motion to Suspend the Rules and Pass — **Passed** (387–25)
+
 ## Actions
 
 - 2009-05-21 — Introduced in Senate
@@ -54,3 +58,21 @@ PACT Act
 - 2009-11-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 216.
 - 2010-03-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1480-1487; text as passed Senate: CR S1480-1486)
 - 2010-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1480-1487; text as passed Senate: CR S1480-1486)
+- 2010-03-12 — Message on Senate action sent to the House.
+- 2010-03-15 — Held at the desk.
+- 2010-03-15 — Received in the House.
+- 2010-03-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-17 — Cleared for White House.
+- 2010-03-17 — Considered as unfinished business. (consideration: CR H1558-1559)
+- 2010-03-17 — Considered under suspension of the rules. (consideration: CR H1526-1535)
+- 2010-03-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1147.
+- 2010-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-17 — Mr. Cohen moved to suspend the rules and pass the bill.
+- 2010-03-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 25 (Roll no. 124). (text: CR H1526-1533)
+- 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 25 (Roll no. 124).(text: CR H1526-1533)
+- 2010-03-19 — Presented to President.
+- 2010-03-19 — Presented to President.
+- 2010-03-31 — Became Public Law No: 111-154.
+- 2010-03-31 — Became Public Law No: 111-154.
+- 2010-03-31 — Signed by President.
+- 2010-03-31 — Signed by President.
