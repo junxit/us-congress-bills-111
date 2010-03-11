@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1769
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1769
@@ -16,12 +16,14 @@ Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Pr
 
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Inslee, Jay [D-WA-1] (I000026)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
 ## Committees (1)
 
@@ -32,3 +34,11 @@ Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Pr
 - 2009-03-26 — Introduced in House
 - 2009-03-26 — Introduced in House
 - 2009-03-26 — Referred to the House Committee on Natural Resources.
+- 2009-03-30 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2009-11-05 — Subcommittee Hearings Held.
+- 2010-02-24 — Committee Consideration and Mark-up Session Held.
+- 2010-02-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-02-24 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2010-03-11 — Placed on the Union Calendar, Calendar No. 250.
+- 2010-03-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-434.
+- 2010-03-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-434.
