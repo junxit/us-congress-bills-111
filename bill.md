@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1147
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -56,7 +56,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >   - **(A)** has the meaning given that term in section 1151 of title 18, United States Code, except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
   >   - **(B)** includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
   > - **(8)** *Indian tribe* The term Indian tribe, tribe, or tribal refers to an Indian tribe as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) or as listed pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1).
-  > - **(9)** *Interstate commerce* The term interstate commerce means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
+  > - **(9)** *Interstate commerce*
+  >   - **(A)** *In general* The term interstate commerce means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
+  >   - **(B)** *Into a State, place, or locality* A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.
   > - **(10)** *Person* The term person means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
   > - **(11)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
   > - **(12)** *Smokeless tobacco* The term smokeless tobacco means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
@@ -160,7 +162,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >         - **(I)** the Assurance of Discontinuance entered into by the Attorney General of New York and DHL Holdings USA, Inc. and DHL Express (USA), Inc. on or about July 1, 2005, the Assurance of Discontinuance entered into by the Attorney General of New York and United Parcel Service, Inc. on or about October 21, 2005, and the Assurance of Compliance entered into by the Attorney General of New York and Federal Express Corporation and FedEx Ground Package Systems, Inc. on or about February 3, 2006, if each of those agreements is honored throughout the United States to block illegal deliveries of cigarettes or smokeless tobacco to consumers; and
   >         - **(II)** any other active agreement between a common carrier and a State that operates throughout the United States to ensure that no deliveries of cigarettes or smokeless tobacco shall be made to consumers or illegally operating Internet or mail-order sellers and that any such deliveries to consumers shall not be made to minors or without payment to the States and localities where the consumers are located of all taxes on the tobacco products.
   >   - **(4)** *Shipments from persons on list*
-  >     - **(A)** *In general* If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described in paragraph (1)(A) and that the package contains cigarettes or smokeless tobacco—
+  >     - **(A)** *In general* If a common carrier or other delivery service delays or interrupts the delivery of a package in the possession of the common carrier or delivery service because the common carrier or delivery service determines or has reason to believe that the person ordering the delivery is on a list described in paragraph (1)(A) and that clauses (i), (ii), and (iii) of paragraph (2)(A) do not apply—
   >       - **(i)** the person ordering the delivery shall be obligated to pay—
   >         - **(I)** the common carrier or other delivery service as if the delivery of the package had been timely completed; and
   >         - **(II)** if the package is not deliverable, any reasonable additional fee or charge levied by the common carrier or other delivery service to cover any extra costs and inconvenience and to serve as a disincentive against such noncomplying delivery orders; and
@@ -348,29 +350,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(b)** *Clerical amendment* The table of sections for chapter 83 of title 18 is amended by inserting after the item relating to section 1716D the following:
 
-## § 4. Compliance with Model Statute or Qualifying Statute
-
-- **(a)** *In general* A Tobacco Product Manufacturer or importer may not sell in, deliver to, or place for delivery sale, or cause to be sold in, delivered to, or placed for delivery sale in a State that is a party to the Master Settlement Agreement, any cigarette manufactured by a Tobacco Product Manufacturer that is not in full compliance with the terms of the Model Statute or Qualifying Statute enacted by the State requiring funds to be placed into a qualified escrow account under specified conditions, and with any regulations promulgated pursuant to the statute.
-- **(b)** *Jurisdiction To prevent and restrain violations*
-  - **(1)** *In general* The United States district courts shall have jurisdiction to prevent and restrain violations of subsection (a) in accordance with this subsection.
-  - **(2)** *Initiation of action* A State, through its attorney general, may bring an action in an appropriate United States district court to prevent and restrain violations of subsection (a) by any person.
-  - **(3)** *Attorney fees* In any action under paragraph (2), a State, through its attorney general, shall be entitled to reasonable attorney fees from a person found to have knowingly violated subsection (a).
-  - **(4)** *Nonexclusivity of remedies* The remedy available under paragraph (2) is in addition to any other remedies available under Federal, State, or other law. No provision of this Act or any other Federal law shall be held or construed to prohibit or preempt the Master Settlement Agreement, the Model Statute (as defined in the Master Settlement Agreement), any legislation amending or complementary to the Model Statute in effect as of June 1, 2006, or any legislation substantially similar to such existing, amending, or complementary legislation enacted after the date of enactment of this Act.
-  - **(5)** *Other enforcement actions* Nothing in this subsection shall be construed to prohibit an authorized State official from proceeding in State court or taking other enforcement actions on the basis of an alleged violation of State or other law.
-  - **(6)** *Authority of the attorney general* The Attorney General of the United States may bring an action in an appropriate United States district court to prevent and restrain violations of subsection (a) by any person.
-- **(c)** *Definitions* In this section the following definitions apply:
-  - **(1)** *Delivery sale* The term delivery sale means any sale of cigarettes or smokeless tobacco to a consumer if—
-    - **(A)** the consumer submits the order for the sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
-    - **(B)** the cigarettes or smokeless tobacco are delivered to the buyer by common carrier, private delivery service, or other method of remote delivery, or the seller is not in the physical presence of the buyer when the buyer obtains possession of the cigarettes or smokeless tobacco.
-  - **(2)** *Importer* The term importer means each of the following:
-    - **(A)** *Shipping or consigning* Any person in the United States to whom nontaxpaid tobacco products manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned.
-    - **(B)** *Manufacturing warehouses* Any person who removes cigars or cigarettes for sale or consumption in the United States from a customs-bonded manufacturing warehouse.
-    - **(C)** *Unlawful importing* Any person who smuggles or otherwise unlawfully brings tobacco products into the United States.
-  - **(3)** *Master Settlement Agreement* The term Master Settlement Agreement means the agreement executed November 23, 1998, between the attorneys general of 46 States, the District of Columbia, the Commonwealth of Puerto Rico, and 4 territories of the United States and certain tobacco manufacturers.
-  - **(4)** *Model statute; qualifying statute* The terms Model Statute and Qualifying Statute means a statute as defined in section IX(d)(2)(e) of the Master Settlement Agreement.
-  - **(5)** *Tobacco Product Manufacturer* The term Tobacco Product Manufacturer has the meaning given that term in section II(uu) of the Master Settlement Agreement.
-
-## § 5. Inspection by bureau of alcohol, tobacco, firearms, and explosives of records of certain cigarette and smokeless tobacco sellers; civil penalty
+## § 4. Inspection by bureau of alcohol, tobacco, firearms, and explosives of records of certain cigarette and smokeless tobacco sellers; civil penalty
 
 Section 2343(c) of title 18, United States Code, is amended to read as follows:
 
@@ -381,7 +361,7 @@ Section 2343(c) of title 18, United States Code, is amended to read as follows:
 >   - **(2)** The district courts of the United States shall have the authority in a civil action under this subsection to compel inspections authorized by paragraph (1).
 >   - **(3)** Whoever denies access to an officer under paragraph (1), or who fails to comply with an order issued under paragraph (2), shall be subject to a civil penalty in an amount not to exceed $10,000.
 
-## § 6. Exclusions regarding Indian Tribes and Tribal matters
+## § 5. Exclusions regarding Indian Tribes and Tribal matters
 
 - **(a)** *In general* Nothing in this Act or the amendments made by this Act shall be construed to amend, modify, or otherwise affect—
   - **(1)** any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country;
@@ -400,24 +380,15 @@ Section 2343(c) of title 18, United States Code, is amended to read as follows:
   - **(1)** the term Indian country has the meaning given that term in section 1 of the Jenkins Act, as amended by this Act; and
   - **(2)** the term “tribal enterprise” means any business enterprise, regardless of whether incorporated or unincorporated under Federal or tribal law, of an Indian tribe or group of Indian tribes.
 
-## § 7. Enhanced contraband tobacco enforcement
-
-- **(a)** *Requirements* The Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives shall—
-  - **(1)** not later than the end of the 3-year period beginning on the effective date of this Act, create a regional contraband tobacco trafficking team in each of New York, New York, the District of Columbia, Detroit, Michigan, Los Angeles, California, Seattle, Washington, and Miami, Florida;
-  - **(2)** create a Tobacco Intelligence Center to oversee investigations and monitor and coordinate ongoing investigations and to serve as the coordinator for all ongoing tobacco diversion investigations within the Bureau of Alcohol, Tobacco, Firearms, and Explosives, in the United States and, where applicable, with law enforcement organizations around the world;
-  - **(3)** establish a covert national warehouse for undercover operations; and
-  - **(4)** create a computer database that will track and analyze information from retail sellers of tobacco products that sell through the Internet or by mail order or make other non-face-to-face sales.
-- **(b)** *Authorization of appropriations* There is authorized to be appropriated to carry out subsection (a) $8,500,000 for each of fiscal years 2010 through 2014.
-
-## § 8. Effective date
+## § 6. Effective date
 
 - **(a)** *In general* Except as provided in subsection (b), this Act shall take effect on the date that is 90 days after the date of enactment of this Act.
-- **(b)** *BATFE authority* The amendments made by section 5 shall take effect on the date of enactment of this Act.
+- **(b)** *BATFE authority* The amendments made by section 4 shall take effect on the date of enactment of this Act.
 
-## § 9. Severability
+## § 7. Severability
 
 If any provision of this Act, or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.
 
-## § 10. Sense of Congress concerning the precedential effect of this Act
+## § 8. Sense of Congress concerning the precedential effect of this Act
 
 It is the sense of Congress that unique harms are associated with online cigarette sales, including problems with verifying the ages of consumers in the digital market and the long-term health problems associated with the use of certain tobacco products. This Act was enacted recognizing the longstanding interest of Congress in urging compliance with States’ laws regulating remote sales of certain tobacco products to citizens of those States, including the passage of the Jenkins Act over 50 years ago, which established reporting requirements for out-of-State companies that sell certain tobacco products to citizens of the taxing States, and which gave authority to the Department of Justice and the Bureau of Alcohol, Tobacco, Firearms, and Explosives to enforce the Jenkins Act. In light of the unique harms and circumstances surrounding the online sale of certain tobacco products, this Act is intended to help collect cigarette excise taxes, to stop tobacco sales to underage youth, and to help the States enforce their laws that target the online sales of certain tobacco products only. This Act is in no way meant to create a precedent regarding the collection of State sales or use taxes by, or the validity of efforts to impose other types of taxes on, out-of-State entities that do not have a physical presence within the taxing State.

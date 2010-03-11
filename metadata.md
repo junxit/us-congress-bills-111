@@ -1,7 +1,7 @@
 ---
 measure: S. 1147
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1147
@@ -16,7 +16,7 @@ PACT Act
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Cosponsors (16)
+## Cosponsors (20)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -34,6 +34,10 @@ PACT Act
 - Sen. Sessions, Jeff [R-AL] (S001141)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -48,3 +52,5 @@ PACT Act
 - 2009-11-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2009-11-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2009-11-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 216.
+- 2010-03-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1480-1487; text as passed Senate: CR S1480-1486)
+- 2010-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1480-1487; text as passed Senate: CR S1480-1486)
