@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4003
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,32 +22,20 @@ In this Act:
   - **(A)** means the portion of the Hudson River that flows from Rodgers Island at Fort Edward to the southern-most boundary of Westchester County, New York; and
   - **(B)** includes any relevant sites and landscapes within the counties in New York that abut the area described in subparagraph (A).
 
-## § 3. Findings
+## § 3. Authorization of study
 
-Congress finds as follows:
-
-- **(1)** The Hudson River Valley possesses important and unique cultural, historical, natural, recreational and scenic resources that have been central to the development and sustainment of our Nation.
-- **(2)** The Hudson River Valley encompasses a rich array of sensitive natural resources ranging from the River itself and its vast estuarine district, to its wetlands, refuges, parks, forests, farmlands, preserves, cliffs, mountains and valleys.
-- **(3)** The Hudson River and its tributaries are home to a number of rare and threatened animal species, habitats, and plants.
-- **(4)** The Hudson River Valley is home to myriad biking, heritage, pedestrian and scenic trail systems on the eastern and western sides of the River that are now connected by the Walkway Over the Hudson bridge, which has been designated as a National Recreation Trail.
-- **(5)** Throughout history, the Hudson River Valley has played a central role in the development of our nation, starting from the vibrant Native American communities that first inhabited the land, to Henry Hudson’s voyage up the river later named for him in the vessel Half Moon in 1609 and later with the American Revolution, the debate on our Constitution, the first successful steamboat voyage by Robert Fulton in 1807, the Industrial Revolution, and the modern labor and environmental movements.
-- **(6)** The Hudson River Valley gave birth to important movements in American art, architecture and literature through the work of Andrew Jackson Downing, Alexander Jackson Davis, Thomas Cole, Frederick Church and their associates from the Hudson River School of Art, as well as through authors such as Washington Irving, James Fenimore Cooper, William Cullen Bryant, Susan and Anna Warner, and John Burroughs.
-- **(7)** The depictions and descriptions of the Hudson River Valley’s renowned scenery and natural resources played a central role in the recognition of the value of the landscape and the development of an American esthetic and environmental ideal.
-- **(8)** A 1996 National Park Service study called the Hudson River Valley “the landscape that defined America.”
-- **(9)** The Hudson River Valley has been the subject of multiple State and Federal inventories, studies, and plans that should greatly assist a National Park Service special resource study.
-
-## § 4. Authorization of study
-
-- **(a)** *In general* As soon as funds are made available for this purpose, the Secretary shall complete a study of the Hudson River Valley in the State of New York to evaluate—
+- **(a)** *In general* As soon as funds are made available for this purpose, the Secretary shall complete a special resource study of the Hudson River Valley in the State of New York to evaluate—
   - **(1)** the national significance of the area; and
   - **(2)** the suitability and feasibility of designating the area as a unit of the National Park System.
 - **(b)** *Study guidelines* In conducting the study under subsection (a), the Secretary shall—
-  - **(1)** use the criteria for the study of areas for potential inclusion in the National Park System included in section 8 of Public Law 91–383, as amended by section 303 of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 112 Stat. 3501); and
-  - **(2)** closely examine park unit models, in particular national river and recreation areas, as well as other landscape protection models, that—
+  - **(1)** use the criteria for the study of areas for potential inclusion in the National Park System in accordance with section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c));
+  - **(2)** determine the effect of the designation of the area as a unit of the National Park System on existing commercial and recreational activities, including but not limited to hunting, fishing, trapping, recreational shooting, motor boat use, off-highway vehicle use, snowmobile use, and on the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure, and the effect on the authority of State and local governments to manage those activities;
+  - **(3)** identify any authorities that will compel or permit the Secretary to influence local land use decisions (such as zoning) or place restrictions on non-Federal land if the area is designated a unit of the National Park System; and
+  - **(4)** closely examine park unit models, in particular national river and recreation areas, as well as other landscape protection models, that—
     - **(A)** encompass large areas of non-Federal lands within their designated boundaries;
     - **(B)** foster public and private collaborative arrangements for achieving National Park Service objectives; and
     - **(C)** protect and respect the rights of private land owners.
 
-## § 5. Report
+## § 4. Report
 
-Not later than 24 months after the date that funds are first made available for this purpose, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report on the findings, conclusions, and recommendations of the study authorized by this Act.
+Not later than 36 months after the date that funds are first made available for this purpose, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the findings, conclusions, and recommendations of the study authorized by this Act.
