@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2194
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2194
@@ -408,3 +408,15 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 - 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975). (text: CR H14921-14923)
 - 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 12, 4 Present (Roll no. 975).(text: CR H14921-14923)
 - 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-03-11 — Amendment SA 3466 agreed to in Senate by Unanimous Consent.
+- 2010-03-11 — Amendment SA 3466 proposed by Senator Kaufman for Senator Dodd. (consideration: CR S1421) In the nature of a substitute.
+- 2010-03-11 — Measure laid before Senate by unanimous consent. (consideration: CR S1421)
+- 2010-03-11 — Message on Senate action sent to the House.
+- 2010-03-11 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-03-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2010-03-11 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2010-03-11 — Senate amendment agreed to: Amendment SA 3466 agreed to in Senate by Unanimous Consent.
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3466 proposed by Senator Kaufman for Senator Dodd.(consideration: CR S1421)
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate insists on its amendment, asks for a conference, appoints conferees Dodd; Kerry; Lieberman; Menendez; Shelby; Bennett; Lugar. (consideration: CR S1421)
