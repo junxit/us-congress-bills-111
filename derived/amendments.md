@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4506
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,35 +31,35 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the item relating to the eastern and western districts of Arkansas by striking “3” and inserting “4”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of California by striking “6” and inserting “8”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Delaware by striking “1” and inserting “6”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the middle district of Florida by striking “8” and inserting “9”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the northern district of Florida by striking “1” and inserting “2”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the southern district of Florida by striking “5” and inserting “7”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the northern district of Georgia by striking “8” and inserting “10”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the southern district of Georgia by striking “2” and inserting “3”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Maryland by striking “4” and inserting “7”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of Michigan by striking “4” and inserting “7”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the northern district of Mississippi by striking “1” and inserting “2”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of Nevada by striking “3” and inserting “5”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of New Hampshire by striking “1” and inserting “2”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the district of New Jersey by striking “8” and inserting “9”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the northern district of New York by striking “2” and inserting “3”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the southern district of New York by striking “9” and inserting “10”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of North Carolina by striking “2” and inserting “3”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the western district of North Carolina by striking “2” and inserting “3”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the middle district of Pennsylvania by striking “2” and inserting “3”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of Tennessee by striking “3” and inserting “4”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the western district of Tennessee by striking “4” and inserting “5”, | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to the eastern district of Virginia by striking “5” and inserting “6”, and | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern and western districts of Arkansas by striking “3” and inserting “4”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern district of California by striking “6” and inserting “8”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the district of Delaware by striking “1” and inserting “6”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the middle district of Florida by striking “8” and inserting “9”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the northern district of Florida by striking “1” and inserting “2”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the southern district of Florida by striking “5” and inserting “7”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the northern district of Georgia by striking “8” and inserting “10”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the southern district of Georgia by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the district of Maryland by striking “4” and inserting “7”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern district of Michigan by striking “4” and inserting “7”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the northern district of Mississippi by striking “1” and inserting “2”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the district of Nevada by striking “3” and inserting “5”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the district of New Hampshire by striking “1” and inserting “2”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the district of New Jersey by striking “8” and inserting “9”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the northern district of New York by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the southern district of New York by striking “9” and inserting “10”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern district of North Carolina by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the western district of North Carolina by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the middle district of Pennsylvania by striking “2” and inserting “3”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern district of Tennessee by striking “3” and inserting “4”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the western district of Tennessee by striking “4” and inserting “5”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the eastern district of Virginia by striking “5” and inserting “6”; and | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to the southern district of West Virginia by striking “1” and inserting “2” . | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “$245” and inserting “$246”, and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “$235” and inserting “$236”, and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3) by striking “$1000” and inserting “$1042”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “40.46” and inserting “40.28”, and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “28.33” and inserting “28.15”, and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) by striking “$245” and inserting “$246”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking “$235” and inserting “$236”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “$1,000” and inserting “$1,042”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) by striking “40.46” and inserting “40.28”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking “28.33” and inserting “28.15”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “55” and inserting “52.78”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “28.87” and inserting “28.74”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “35” and inserting “34.77”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “28.87” and inserting “28.74”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “35.00” and inserting “34.77”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “25” and inserting “23.99”. | the bill names no machine-readable US Code section |
