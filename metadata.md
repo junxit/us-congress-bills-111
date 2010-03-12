@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3650
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3650
@@ -16,7 +16,7 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Cosponsors (38)
+## Cosponsors (39)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Mack, Connie [R-FL-14] (M001155)
@@ -56,11 +56,17 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Garamendi, John [D-CA-10] (G000559)
 
 ## Committees (2)
 
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
+
+## Recorded votes (2)
+
+- 2010-03-09 — [House 111-2-92](votes/house-111-2-0092.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (263–142)
+- 2010-03-12 — [House 111-2-109](votes/house-111-2-0109.md) — On Passage — **Passed** (251–103)
 
 ## Actions
 
@@ -82,3 +88,20 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 - 2010-01-13 — Placed on the Union Calendar, Calendar No. 233.
 - 2010-01-13 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-396, Part I.
 - 2010-01-13 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-396, Part I.
+- 2010-03-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-09 — Considered as unfinished business. (consideration: CR H1208)
+- 2010-03-09 — Considered under suspension of the rules. (consideration: CR H1182-1188; text of measure as reported in House: CR H1182-1184)
+- 2010-03-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3650.
+- 2010-03-09 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 263 - 142 (Roll no. 92).
+- 2010-03-09 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
+- 2010-03-09 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 263 - 142 (Roll no. 92).
+- 2010-03-11 — Rules Committee Resolution H. Res. 1168 Reported to House. Rule provides for consideration of H.R. 3650 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in part A of House Report 111-439 shall be considered as adopted.
+- 2010-03-12 — Considered under the provisions of rule H. Res. 1168. (consideration: CR H1368-1375)
+- 2010-03-12 — DEBATE - The House proceeded with one hour of debate on H.R. 3650.
+- 2010-03-12 — House amendment offered
+- 2010-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-12 — On passage Passed by the Yeas and Nays: 251 - 103 (Roll No. 109). (text: CR H1368-1370)
+- 2010-03-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 251 - 103 (Roll No. 109).(text: CR H1368-1370)
+- 2010-03-12 — Rule H. Res. 1168 passed House.
+- 2010-03-12 — Rule provides for consideration of H.R. 3650 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in part A of House Report 111-439 shall be considered as adopted.
+- 2010-03-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1374)
