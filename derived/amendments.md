@@ -1,7 +1,7 @@
 ---
 measure: S. 2865
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
