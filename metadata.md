@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3650
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3650
@@ -105,3 +105,4 @@ Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2010
 - 2010-03-12 — Rule H. Res. 1168 passed House.
 - 2010-03-12 — Rule provides for consideration of H.R. 3650 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute printed in part A of House Report 111-439 shall be considered as adopted.
 - 2010-03-12 — The previous question was ordered pursuant to the rule. (consideration: CR H1374)
+- 2010-03-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 318.

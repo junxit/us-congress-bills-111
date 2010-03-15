@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3650
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -33,8 +33,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | The Act is amended by inserting after section 602 the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by adding after the item relating to section 602 the following new item: | the bill names no machine-readable US Code section |
-| — | insert | The Act is amended by inserting after section 603 the following: | the bill names no machine-readable US Code section |
-| — | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by adding after the item relating to section 603 the following new item: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 3601` | insert | The Act is amended by inserting after section 603 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3601` | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by adding after the item relating to section 603 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | The Act is amended by inserting after section 603A the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by adding after the item relating to section 603A, as added by section 4(b) of this Act, the following new item: | the bill names no machine-readable US Code section |
 | — | amend | Section 604 is amended to read as follows: | the bill names no machine-readable US Code section |
