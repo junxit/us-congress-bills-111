@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4506
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4506
@@ -21,9 +21,10 @@ Bankruptcy Judgeship Act of 2010
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Bankruptcy Judgeship Act of 2010
 - 2010-03-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 5 (Roll no. 111). (text: CR 3/10/2010 H1235-1236)
 - 2010-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 5 (Roll no. 111).(text: CR 3/10/2010 H1235-1236)
+- 2010-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
