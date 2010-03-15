@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 53
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 53
@@ -28,3 +28,7 @@ A concurrent resolution recognizing and congratulating the City of Colorado Spri
 
 - 2010-03-10 — Introduced in Senate
 - 2010-03-10 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1367)
+- 2010-03-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1563)
+- 2010-03-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1563)
+- 2010-03-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1562-1563)
+- 2010-03-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1562-1563)
