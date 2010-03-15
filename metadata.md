@@ -1,7 +1,7 @@
 ---
 measure: S. 1789
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1789
@@ -16,7 +16,7 @@ Fair Sentencing Act of 2010
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (10)
+## Cosponsors (17)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Specter, Arlen [D-PA] (S000709)
@@ -28,6 +28,13 @@ Fair Sentencing Act of 2010
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (1)
 
@@ -38,3 +45,7 @@ Fair Sentencing Act of 2010
 - 2009-10-15 — Introduced in Senate
 - 2009-10-15 — Read twice and referred to the Committee on the Judiciary.
 - 2009-10-15 — Sponsor introductory remarks on measure. (CR S10490-10492)
+- 2010-03-11 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2010-03-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-03-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
