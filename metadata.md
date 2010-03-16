@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 53
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 53
@@ -20,9 +20,10 @@ A concurrent resolution recognizing and congratulating the City of Colorado Spri
 
 - Sen. Udall, Mark [D-CO] (U000038)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A concurrent resolution recognizing and congratulating the City of Colorado Spri
 - 2010-03-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1563)
 - 2010-03-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1562-1563)
 - 2010-03-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1562-1563)
+- 2010-03-16 — Message on Senate action sent to the House.
+- 2010-03-16 — Received in the House.
+- 2010-03-16 — Referred to the House Committee on Energy and Commerce.
