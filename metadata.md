@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2314
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2314
@@ -86,3 +86,6 @@ Native Hawaiian Government Reorganization Act of 2010
 - 2010-02-23 — Rule provides for consideration of H.R. 2314 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2010-02-23 — The previous question was ordered pursuant to the rule. (consideration: CR H730)
 - 2010-02-23 — UNFINISHED BUSINESS - The Chair announced that proceedings would now resume on amendments debated earlier and on which further proceedings had been postponed.
+- 2010-02-24 — Received in the Senate.
+- 2010-03-15 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-03-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 319.
