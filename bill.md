@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 885
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 2. Elevation of certain Inspectors General to appointment pursuant to section 3 of the Inspector General Act of 1978
 
 - **(a)** *Inclusion in certain definitions* Section 12 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
-  - **(1)** in paragraph (1), by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Chairman of the Board of Governors of the Federal Reserve System; the Chairman of the Commodity Futures Trading Commission; the Chairman of the National Credit Union Administration; the Director of the Pension Benefit Guaranty Corporation; or the Chairman of the Securities and Exchange Commission;”; and
+  - **(1)** in paragraph (1), by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Chairman of the Board of Governors of the Federal Reserve System; the Chairman of the Commodity Futures Trading Commission; the Chairman Board of the National Credit Union Administration; the Director Board of Directors of the Pension Benefit Guaranty Corporation; or the Chairman of the Securities and Exchange Commission;”; and
   - **(2)** in paragraph (2), by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, or the Securities and Exchange Commission,”.
 - **(b)** *Exclusion from definition of designated Federal entity* Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
   - **(1)** by striking “the Board of Governors of the Federal Reserve System,”;

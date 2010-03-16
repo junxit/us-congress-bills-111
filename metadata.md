@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 885
@@ -79,3 +79,7 @@ Improved Financial and Commodity Markets Oversight and Accountability Act
 - 2009-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6284)
 - 2009-06-10 — Received in the Senate.
 - 2009-07-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-03-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2010-03-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2010-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.
