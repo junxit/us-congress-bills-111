@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2377
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2377
@@ -78,9 +78,10 @@ To direct the Secretary of Education to establish and administer an awards progr
 - Rep. Souder, Mark E. [R-IN-3] (S001143)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ To direct the Secretary of Education to establish and administer an awards progr
 - 2010-03-15 — Ms. Hirono moved to suspend the rules and pass the bill.
 - 2010-03-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1404)
 - 2010-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1404)
+- 2010-03-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
