@@ -1,7 +1,7 @@
 ---
 measure: S. 1782
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1782
@@ -40,3 +40,19 @@ Federal Judiciary Administrative Improvements Act of 2010
 - 2010-03-16 — Senate amendment agreed to: Amendment SA 3540 agreed to in Senate by Unanimous Consent.
 - 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3540 proposed by Senator Kaufman for Senator Whitehouse.(consideration: CR S1631-1632; text: CR S1631-1632)
 - 2010-03-16 — Senate amendment submitted
+- 2010-03-17 — Held at the desk.
+- 2010-03-17 — Message on Senate action sent to the House.
+- 2010-03-17 — Received in the House.
+- 2010-05-18 — Cleared for White House.
+- 2010-05-18 — Considered under suspension of the rules. (consideration: CR H3500-3501)
+- 2010-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 1782.
+- 2010-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-18 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
+- 2010-05-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3500)
+- 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3500)
+- 2010-05-21 — Presented to President.
+- 2010-05-21 — Presented to President.
+- 2010-05-27 — Became Public Law No: 111-174.
+- 2010-05-27 — Became Public Law No: 111-174.
+- 2010-05-27 — Signed by President.
+- 2010-05-27 — Signed by President.
