@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1128
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1128
@@ -16,7 +16,7 @@ Thanking Vancouver for hosting the world during the 2010 Winter Olympics and hon
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (45)
+## Cosponsors (61)
 
 - Rep. Flake, Jeff [R-AZ-6] (F000444)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
@@ -63,13 +63,41 @@ Thanking Vancouver for hosting the world during the 2010 Winter Olympics and hon
 - Rep. Harman, Jane [D-CA-36] (H000213)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Boozman, John [R-AR-3] (B001236)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-03-16 — [House 111-2-119](votes/house-111-2-0119.md) — On motion to suspend the rules and agree, as amended — **Passed** (420–0)
 
 ## Actions
 
 - 2010-03-02 — Introduced in House
 - 2010-03-02 — Introduced in House
 - 2010-03-02 — Referred to the House Committee on Foreign Affairs.
+- 2010-03-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-16 — Considered as unfinished business. (consideration: CR H1483)
+- 2010-03-16 — Considered under suspension of the rules. (consideration: CR H1478-1481)
+- 2010-03-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1128.
+- 2010-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-16 — Ms. Watson moved to suspend the rules and agree to the resolution, as amended.
+- 2010-03-16 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays (2/3 required): 420 - 0 (Roll No. 119).
+- 2010-03-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays (2/3 required): 420 - 0 (Roll No. 119).
