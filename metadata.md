@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4628
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4628
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 216 Wes
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 216 Wes
 - 2010-03-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 116). (text: CR 3/15/2010 H1406)
 - 2010-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 116).(text: CR 3/15/2010 H1406)
+- 2010-03-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
