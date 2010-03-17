@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3954
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Florida National Forest Land Adjustment Act of 2009”.
+This Act may be cited as the “Florida National Forest Land Adjustment Act of 2010”.
 
 ## § 2. Release of deed restrictions on certain lands acquired under the Bankhead-Jones Farm Tenant Act in Florida
 
@@ -21,7 +21,7 @@ This Act may be cited as the “Florida National Forest Land Adjustment Act of 2
   - **(3)** The deed restrictions impede the ability of the State to remedy boundary and encroachment problems involving the lands.
   - **(4)** The release of the deed restrictions by the Secretary of Agriculture (hereafter referred to as the “Secretary”) will further the purposes for which the lands are being managed as State forests and will alleviate future Federal responsibilities with respect to the lands.
 - **(b)** *Release required* Subject to valid existing rights, and such reservations as the Secretary considers to be in the public interest, the Secretary shall release, convey, and quitclaim to the State of Florida, without monetary consideration, all rights, title, and remaining interest of the United States in and to those lands within or adjacent to the Blackwater River and Withlacoochee State Forests that were conveyed to the State under the authority of section 32(c) of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1011(c)) or under any other law authorizing conveyance subject to restrictions or reversionary interests retained by the United States.
-- **(c)** *Terms and conditions* The conveyances authorized by subjection (b) are subject to the following terms and conditions.
+- **(c)** *Terms and conditions* The conveyances authorized by subjection (b) are subject to the following terms and conditions:
   - **(1)** The State shall cover or reimburse the Secretary for reasonable costs incurred by the Secretary to make the conveyances, including title searches, surveys, deed preparation, attorneys’ fees, and similar expenses. The Secretary may not seek reimbursement for administrative overhead costs.
   - **(2)** By accepting the conveyances authorized by this section, the State agrees—
     - **(A)** that all net proceeds from any sale, exchange, or other disposition of the real property subject to deed restrictions shall be used by the State for the acquisition of lands or interests in lands within or adjacent to units of the state forest and park systems;
@@ -36,7 +36,7 @@ This Act may be cited as the “Florida National Forest Land Adjustment Act of 2
 - **(b)** *Approximately equal value defined* In this section, the term “approximately equal value” means a comparative estimate of the value between lands to be interchanged, regarding which, without the necessity of an appraisal, the elements of value, such as physical characteristics and other amenities, are readily apparent and substantially similar.
 - **(c)** *Land interchange authorized*
   - **(1)** *Authorization* Subject to valid existing rights, if the State of Florida offers to convey to the United States those State lands designated for interchange on the two maps entitled “State of Florida—U.S. Forest Service Interchange—January, 2009” and title to such lands is otherwise acceptable to the Secretary of Agriculture, the Secretary shall convey and quitclaim to the State those National Forest System lands in the Ocala National Forest and the Apalachicola National Forest designated for interchange on the maps.
-  - **(2)** *Maps* The maps referenced in paragraph (1) shall be available for public inspection in the office of the Chief of the Forest Service and in the office of the Supervisor of the National Forests in Florida for a period of at least five years after completion of the land interchanges authorized by this section.
+  - **(2)** *Maps* The maps referenced in paragraph (1) shall be available for public inspection in the office of the Chief of the Forest Service and in the office of the Supervisor of the National Forests in Florida for a period of at least 5 years after completion of the land interchanges authorized by this section.
 - **(d)** *Terms and conditions* Any land interchange under this section shall be subject to such reservations and rights-of-way as may be mutually acceptable to the Secretary and the authorized officer of the State.
 - **(e)** *Replacement land* In the event that any of the designated lands are in whole or part found to be unacceptable for interchange under this section due to title deficiencies, survey problems, the existence of hazardous materials, or for any other reason, the Secretary and the authorized officer of the State may substitute or modify the lands to be interchanged insofar as it is mutually agreed that the lands are of comparable quality and approximately equal value.
 
@@ -48,3 +48,7 @@ This Act may be cited as the “Florida National Forest Land Adjustment Act of 2
     - **(A)** to acquire lands and interests in land for inclusion in the Apalachicola National Forest; and
     - **(B)** to cover the disposal costs incurred by the Secretary to carry out the sale of such tract.
   - **(2)** *Certain other tracts* With respect to tract A–943, tract A–944, and tract C–2210, as described in paragraphs (5), (6), and (16) of subsection (b) of section 3 of the Florida National Forest Land Management Act of 2003 and authorized for sale by subsection (a) of such section, being lands having permanent improvements and infrastructure, the Secretary may use the net proceeds derived from any sale of such tracts to acquire, construct, or maintain administrative improvements for units of the National Forest System in Florida.
+
+## § 5. Required designation in PAYGO Acts
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010 (Public Law 111–39; 124 Stat. 8), shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
