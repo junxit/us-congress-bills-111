@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1387
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,10 +35,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | The table of sections for chapter 29 of title 44, United States Code, is amended by adding after the item relating to section 2910 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (14); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (15) and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 22 of title 44, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 22 of title 44, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
