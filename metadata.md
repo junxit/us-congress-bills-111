@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4715
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4715
@@ -29,3 +29,10 @@ Clean Estuaries Act of 2010
 - 2010-03-02 — Introduced in House
 - 2010-03-02 — Introduced in House
 - 2010-03-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-03-03 — Committee Consideration and Mark-up Session Held.
+- 2010-03-03 — Ordered to be Reported by Voice Vote.
+- 2010-03-03 — Referred to the Subcommittee on Water Resources and Environment.
+- 2010-03-03 — Subcommittee on Water Resources and Environment Discharged.
+- 2010-03-17 — Placed on the Union Calendar, Calendar No. 255.
+- 2010-03-17 — Reported by the Committee on Transportation. H. Rept. 111-442.
+- 2010-03-17 — Reported by the Committee on Transportation. H. Rept. 111-442.
