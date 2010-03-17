@@ -1,7 +1,7 @@
 ---
 measure: S. 1789
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,15 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (A)(iii), by striking “50 grams” and inserting “5 kilograms”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B)(iii), by striking “5 grams” and inserting “500 grams”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(C), by striking “50 grams” and inserting “5 kilograms”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(C), by striking “5 grams” and inserting “500 grams”. | the bill names no machine-readable US Code section |
-| — | strike | Section 404(a) of the Controlled Substances Act (21 U.S.C. 844(a)) is amended by striking the sentence beginning “Notwithstanding the preceding sentence,”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “$4,000,000”, “$10,000,000”, “$8,000,000”, and “$20,000,000” and inserting “$10,000,000”, “$50,000,000”, “$20,000,000”, and “$75,000,000”, respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “$2,000,000”, “$5,000,000”, “$4,000,000”, and “$10,000,000” and inserting “$5,000,000”, “$25,000,000”, “$8,000,000”, and “$50,000,000”, respectively. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “$4,000,000”, “$10,000,000”, “$8,000,000”, and “$20,000,000” and inserting “$10,000,000”, “$50,000,000”, “$20,000,000”, and “$75,000,000”, respectively, and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “$2,000,000”, “$5,000,000”, “$4,000,000”, and “$10,000,000” and inserting “$5,000,000”, “$25,000,000”, “$8,000,000”, and “$50,000,000”, respectively. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A)(iii), by striking “50 grams” and inserting “280 grams”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(iii), by striking “5 grams” and inserting “28 grams”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(C), by striking “50 grams” and inserting “280 grams”; and | the bill names no machine-readable US Code section |
