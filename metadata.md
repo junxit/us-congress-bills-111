@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4851
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4851
@@ -47,3 +47,9 @@ Continuing Extension Act of 2010
 - 2010-03-16 — Referred to House Transportation and Infrastructure
 - 2010-03-16 — Referred to House Ways and Means
 - 2010-03-16 — Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, Education and Labor, Energy and Commerce, Financial Services, the Judiciary, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-03-17 — Considered under suspension of the rules. (consideration: CR H1548-1553)
+- 2010-03-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4851.
+- 2010-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-17 — Mr. McDermott moved to suspend the rules and pass the bill, as amended.
+- 2010-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1548-1549)
+- 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1548-1549)
