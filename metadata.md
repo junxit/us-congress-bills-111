@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4853
@@ -36,3 +36,12 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-03-16 — Referred to House Transportation and Infrastructure
 - 2010-03-16 — Referred to House Ways and Means
 - 2010-03-16 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-03-17 — Considered under suspension of the rules. (consideration: CR H1553-1558)
+- 2010-03-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4853.
+- 2010-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-17 — Mr. Costello moved to suspend the rules and pass the bill.
+- 2010-03-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1553-1554)
+- 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1553-1554)
+- 2010-03-17 — Received in the Senate.
+- 2010-03-17 — Referred to the Subcommittee on Aviation.
+- 2010-03-17 — Referred to the Subcommittee on Highways and Transit.
