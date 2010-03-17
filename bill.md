@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4825
 
-> To require any amounts remaining in a Member’s Representational Allowance at the end of a fiscal year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.
+> To direct unused appropriations for Members’ Representational Allowances to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.
 
 ## § 1. Requiring amounts remaining in members’ representational allowances to be used for deficit reduction or to reduce the federal debt
 
