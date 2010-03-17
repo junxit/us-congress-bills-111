@@ -30,7 +30,7 @@ This Act may be cited as the “Congressional Award Program Reauthorization Act 
 
 - **(c)** *Requirements regarding financial operations* Section 104(c) of the Congressional Award Act (2 U.S.C. 804(c)) is amended—
   - **(1)** in paragraph (1), in the third sentence, by striking “, in any calendar year,” and inserting “in any fiscal year”; and
-  - **(2)** by striking paragraph (2) and inserting the following
+  - **(2)** by striking paragraph (2) and inserting the following:
     > - **(2)**
     >   - **(A)** The Comptroller General of the United States shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the reports submitted under section 107(b).
     >   - **(B)** If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.

@@ -1,7 +1,7 @@
 ---
 measure: S. 2865
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -62,7 +62,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `2 U.S.C. § 808` | strike | in the matter following subsection (b)(5), by striking “under paragraph (3)”; and | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 808` | replace | Section 103 of the Congressional Award Act (2 U.S.C. 803) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 808` | replace | by striking paragraph (2) and inserting the following | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 808` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 808` | replace | Section 106(a) of the Congressional Award Act (2 U.S.C. 806(a)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 808` | replace | Section 106(c) of the Congressional Award Act (2 U.S.C. 806(c)) is amended by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 808` | insert | in subsection (d), by inserting “to be” after “expenditure is”; and | the bill quotes the text inserted but describes where it goes |

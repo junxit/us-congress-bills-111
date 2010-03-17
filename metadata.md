@@ -1,7 +1,7 @@
 ---
 measure: S. 2865
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2865
@@ -32,3 +32,5 @@ Congressional Award Program Reauthorization Act of 2009
 - 2010-03-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-163.
 - 2010-03-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-163.
 - 2010-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
+- 2010-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1680; text as passed Senate: CR S1680)
+- 2010-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1680; text as passed Senate: CR S1680)
