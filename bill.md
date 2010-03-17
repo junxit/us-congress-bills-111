@@ -64,3 +64,7 @@ In this Act:
 
 - **(a)** *Judicial review* There shall be no judicial review of compliance or noncompliance with any provision of this Act.
 - **(b)** *Enforceability* No provision of this Act shall be construed to create any right or benefit, substantive or procedural, enforceable by any administrative or judicial action.
+
+## § 7. Budgetary effects of PAYGO legislation for this Act
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
