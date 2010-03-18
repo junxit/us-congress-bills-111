@@ -1,7 +1,7 @@
 ---
 measure: S. 2865
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2865
@@ -20,9 +20,10 @@ Congressional Award Program Reauthorization Act of 2009
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Congressional Award Program Reauthorization Act of 2009
 - 2010-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
 - 2010-03-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1680; text as passed Senate: CR S1680)
 - 2010-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1680; text as passed Senate: CR S1680)
+- 2010-03-18 — Message on Senate action sent to the House.
+- 2010-03-18 — Received in the House.
+- 2010-03-18 — Referred to the House Committee on Education and Labor.
