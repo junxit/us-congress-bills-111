@@ -1,7 +1,7 @@
 ---
 measure: S. 1789
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1789
@@ -16,7 +16,7 @@ Fair Sentencing Act of 2010
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (18)
+## Cosponsors (23)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Specter, Arlen [D-PA] (S000709)
@@ -36,6 +36,11 @@ Fair Sentencing Act of 2010
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (3)
 
@@ -59,3 +64,17 @@ Fair Sentencing Act of 2010
 - 2010-03-18 — Referred to House Energy and Commerce
 - 2010-03-18 — Referred to House Judiciary
 - 2010-03-18 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-06-15 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2010-07-28 — Cleared for White House.
+- 2010-07-28 — Considered under suspension of the rules. (consideration: CR H6196-6204)
+- 2010-07-28 — DEBATE - The House proceeded with forty minutes of debate on S. 1789.
+- 2010-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-28 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
+- 2010-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6196-6197)
+- 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6196-6197)
+- 2010-07-29 — Presented to President.
+- 2010-07-29 — Presented to President.
+- 2010-08-03 — Became Public Law No: 111-220.
+- 2010-08-03 — Became Public Law No: 111-220.
+- 2010-08-03 — Signed by President.
+- 2010-08-03 — Signed by President.
