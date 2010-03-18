@@ -1,7 +1,7 @@
 ---
 measure: H.R. 946
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 946
@@ -55,3 +55,4 @@ Plain Writing Act of 2010
 - 2010-03-17 — Mr. Clay moved to suspend the rules and pass the bill, as amended.
 - 2010-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 33 (Roll no. 126). (text: CR H1538)
 - 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 33 (Roll no. 126).(text: CR H1538)
+- 2010-03-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.
