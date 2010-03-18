@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3509
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3509
@@ -44,8 +44,22 @@ Agricultural Credit Act of 2010
 
 - House — Agriculture Committee
 
+## Recorded votes (1)
+
+- 2010-03-18 — [House 111-2-134](votes/house-111-2-0134.md) — On Motion to Suspend the Rules and Pass — **Passed** (382–26)
+
 ## Actions
 
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Referred to the House Committee on Agriculture.
+- 2010-03-03 — Committee Consideration and Mark-up Session Held.
+- 2010-03-03 — Ordered to be Reported by Voice Vote.
+- 2010-03-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-17 — Considered under suspension of the rules. (consideration: CR H1545)
+- 2010-03-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3509.
+- 2010-03-17 — Mr. Baca moved to suspend the rules and pass the bill.
+- 2010-03-18 — Considered as unfinished business. (consideration: CR H1626)
+- 2010-03-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134). (text: CR 3/18/2010 H1545)
+- 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134).(text: CR 3/18/2010 H1545)
