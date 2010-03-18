@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4825
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4825
@@ -25,9 +25,10 @@ To direct unused appropriations for Members' Representational Allowances to be d
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To direct unused appropriations for Members' Representational Allowances to be d
 - 2010-03-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 127). (text: CR H1543)
 - 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 127).(text: CR H1543)
 - 2010-03-17 — The title of the measure was amended. Agreed to without objection.
+- 2010-03-18 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
