@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Inland Empire Perchlorate Ground Water Plume Assessment Act of 2009”.
+This Act may be cited as the “Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010”.
 
 ## § 2. Rialto-Colton Basin, California, water resources study
 
