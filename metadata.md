@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3954
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3954
@@ -21,9 +21,10 @@ Florida National Forest Land Adjustment Act of 2010
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Florida National Forest Land Adjustment Act of 2010
 - 2010-03-17 — Mr. Baca moved to suspend the rules and pass the bill, as amended.
 - 2010-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 125). (text: CR H1546)
 - 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 125).(text: CR H1546)
+- 2010-03-18 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
