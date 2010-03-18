@@ -1,7 +1,7 @@
 ---
 measure: S. 2865
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2865
@@ -38,3 +38,16 @@ Congressional Award Program Reauthorization Act of 2009
 - 2010-03-18 — Message on Senate action sent to the House.
 - 2010-03-18 — Received in the House.
 - 2010-03-18 — Referred to the House Committee on Education and Labor.
+- 2010-06-23 — Cleared for White House.
+- 2010-06-23 — Considered under suspension of the rules. (consideration: CR H4690-4692)
+- 2010-06-23 — DEBATE - The House proceeded with forty minutes of debate on S. 2865.
+- 2010-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-23 — Mr. Payne moved to suspend the rules and pass the bill.
+- 2010-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4690-4691)
+- 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4690-4691)
+- 2010-06-25 — Presented to President.
+- 2010-06-25 — Presented to President.
+- 2010-07-07 — Became Public Law No: 111-200.
+- 2010-07-07 — Became Public Law No: 111-200.
+- 2010-07-07 — Signed by President.
+- 2010-07-07 — Signed by President.
