@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3542
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short Title
 
-This Act may be cited as the “State Admission Day Recognition Act of 2009”.
+This Act may be cited as the “State Admission Day Recognition Act of 2010”.
 
 ## § 2. Flying State Flag Over Capitol on Anniversary of State’s Admission to Union
 
