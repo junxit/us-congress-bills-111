@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 54
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 54
@@ -29,9 +29,10 @@ A concurrent resolution recognizing the life of Orlando Zapata Tamayo, who died 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Kyl, Jon [R-AZ] (K000352)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,6 @@ A concurrent resolution recognizing the life of Orlando Zapata Tamayo, who died 
 - 2010-03-18 — Senate amendment agreed to: Amendment SA 3552 agreed to in Senate by Unanimous Consent.
 - 2010-03-18 — Senate amendment proposed (on the floor): Amendment SA 3552 proposed by Senator Reid for Senator Nelson FL.(consideration: CR S1755; text: CR S1755)
 - 2010-03-18 — Senate amendment submitted
+- 2010-03-19 — Message on Senate action sent to the House.
+- 2010-03-19 — Received in the House.
+- 2010-03-19 — Referred to the House Committee on Foreign Affairs.
