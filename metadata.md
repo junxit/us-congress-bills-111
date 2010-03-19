@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4849
@@ -45,3 +45,8 @@ Small Business and Infrastructure Jobs Tax Act of 2010
 - 2010-03-16 — Introduced in House
 - 2010-03-16 — Introduced in House
 - 2010-03-16 — Referred to the House Committee on Ways and Means.
+- 2010-03-17 — Committee Consideration and Mark-up Session Held.
+- 2010-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 15.
+- 2010-03-19 — Placed on the Union Calendar, Calendar No. 257.
+- 2010-03-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-447.
+- 2010-03-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-447.
