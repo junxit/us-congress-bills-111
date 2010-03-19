@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3542
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3542
@@ -16,9 +16,10 @@ State Admission Day Recognition Act of 2009
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ State Admission Day Recognition Act of 2009
 - 2010-03-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 133). (text: CR 3/18/2010 H1544)
 - 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 133).(text: CR 3/18/2010 H1544)
+- 2010-03-19 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
