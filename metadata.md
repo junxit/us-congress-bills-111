@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2788
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2788
@@ -71,6 +71,10 @@ Distinguished Flying Cross National Memorial Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-03-19 — [House 111-2-138](votes/house-111-2-0138.md) — On Motion to Suspend the Rules and Pass — **Passed** (410–0)
+
 ## Actions
 
 - 2009-06-10 — Introduced in House
@@ -84,3 +88,11 @@ Distinguished Flying Cross National Memorial Act
 - 2010-03-11 — Placed on the Union Calendar, Calendar No. 251.
 - 2010-03-11 — Reported by the Committee on Natural Resources. H. Rept. 111-435.
 - 2010-03-11 — Reported by the Committee on Natural Resources. H. Rept. 111-435.
+- 2010-03-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-18 — Considered under suspension of the rules. (consideration: CR H1618-1619)
+- 2010-03-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2788.
+- 2010-03-18 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2010-03-19 — Considered as unfinished business. (consideration: CR H1668-1669)
+- 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 138). (text: CR 3/18/2010 H1618)
+- 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 138).(text: CR 3/18/2010 H1618)
