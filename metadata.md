@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4853
@@ -45,3 +45,5 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-03-17 — Received in the Senate.
 - 2010-03-17 — Referred to the Subcommittee on Aviation.
 - 2010-03-17 — Referred to the Subcommittee on Highways and Transit.
+- 2010-03-18 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-03-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
