@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1062
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1062
@@ -33,3 +33,10 @@ Recognizing the Coast Guard Group Astoria's more than 60 years of service to the
 - 2010-02-03 — Introduced in House
 - 2010-02-03 — Introduced in House
 - 2010-02-03 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-02-04 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2010-03-03 — Committee Consideration and Mark-up Session Held.
+- 2010-03-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-03-03 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2010-03-19 — Placed on the House Calendar, Calendar No. 177.
+- 2010-03-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-446.
+- 2010-03-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-446.

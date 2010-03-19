@@ -24,6 +24,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas since 2003, Coast Guard Air Station Astoria has spent more than 1,000 hours responding to High Interest Vessels to ensure the security of United States ports and waterways in accordance with the Coast Guard's statutory homeland security responsibilities;
 - Whereas during the December 2007 Pacific Northwest winter storm, Coast Guard Air Station Astoria helicopter crews flew 28 sorties to rescue and save 136 persons as winds exceeded 130 knots; and
 - Whereas Coast Guard Group Astoria continues to protect the Pacific Northwest and embody the Coast Guard motto, Semper Paratus: Now, therefore, be it
+- Whereas Coast Guard Group Astoria was established in 1948;
+- Whereas Coast Guard Group Astoria units are responsible for safeguarding mariners in the often treacherous waters of the Pacific Northwest;
+- Whereas Coast Guard Group Astoria’s area of responsibility covers more than 140 miles of coastline between Queets, Washington, and Pacific City, Oregon;
+- Whereas helicopters from Coast Guard Air Station Astoria regularly patrol and respond to offshore missions from the Canadian border to northern California;
+- Whereas Coast Guard Group Astoria is comprised of Station Grays Harbor in Westport, Washington; Station Cape Disappointment in Ilwaco, Washington; Station Tillamook Bay in Garibaldi, Oregon; Air Station Astoria in Warrenton, Oregon; and Aids to Navigation Team Astoria at Tongue Point, Oregon;
+- Whereas during an average year, Coast Guard Group Astoria units respond to more than 800 search-and-rescue calls for help, assist more than 1,700 mariners, and save nearly 100 lives;
+- Whereas the 325 men and women of Coast Guard Group Astoria perform many missions including search and rescue, homeland security, enforcement of laws and treaties, and maintenance of Aids to Navigation;
+- Whereas Coast Guard Group Astoria supports local Coast Guard cutters in maintaining 470 Aids to Navigation, enabling mariners to safely navigate the coastal waters of Oregon and Washington;
+- Whereas since 2003, the men and women of Coast Guard Group Astoria have assisted more than 10,000 individuals in distress and saved more than 500 lives;
+- Whereas since 2003, Coast Guard Group Astoria has conducted more than 1,200 Living Marine Resources missions to ensure commercial fishing vessel crews abide by Federal and State laws in order to preserve fisheries for future generations;
+- Whereas since 2003, Coast Guard Group Astoria has spent more than 1,000 hours responding to High Interest Vessels to ensure the security of United States ports and waterways in accordance with the Coast Guard's statutory homeland security responsibilities;
+- Whereas during the December 2007 Pacific Northwest winter storm, Coast Guard Air Station Astoria helicopter crews flew 28 sorties to rescue and save 136 persons as winds exceeded 130 knots; and
+- Whereas Coast Guard Group Astoria continues to protect the Pacific Northwest and embody the Coast Guard motto, Semper Paratus: Now, therefore, be it
 
 That the House of Representatives—
 
