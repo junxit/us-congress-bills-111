@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1769
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1769
@@ -48,3 +48,4 @@ Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Pr
 - 2010-03-18 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2010-03-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1619-1620)
 - 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1619-1620)
+- 2010-03-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 325.
