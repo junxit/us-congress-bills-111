@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1192
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1192
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 3644) to direct the National Ocean
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2010-03-19 — [House 111-2-136](votes/house-111-2-0136.md) — On Agreeing to the Resolution — **Passed** (236–171)
+
 ## Actions
 
 - 2010-03-18 — Introduced in House
@@ -27,3 +31,10 @@ Providing for consideration of the bill (H.R. 3644) to direct the National Ocean
 - 2010-03-18 — Placed on the House Calendar, Calendar No. 176.
 - 2010-03-18 — The House Committee on Rules reported an original measure, H. Rept. 111-445, by Mr. Polis (CO).
 - 2010-03-18 — The House Committee on Rules reported an original measure, H. Rept. 111-445, by Mr. Polis (CO).
+- 2010-03-19 — Considered as privileged matter. (consideration: CR H1661-1665, H1667-1668)
+- 2010-03-19 — DEBATE - The House continued with further debate on H. Res. 1192.
+- 2010-03-19 — DEBATE - The House proceeded with one hour of debate on H. Res. 1192.
+- 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-19 — On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 171 (Roll no. 136). (text: CR H1661)
+- 2010-03-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 171 (Roll no. 136).(text: CR H1661)
+- 2010-03-19 — The previous question was ordered without objection. (consideration: CR H1667)
