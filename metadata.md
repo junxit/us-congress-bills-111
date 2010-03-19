@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4003
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4003
@@ -28,6 +28,10 @@ Hudson River Valley Special Resource Study Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-03-19 — [House 111-2-143](votes/house-111-2-0143.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (293–115)
+
 ## Actions
 
 - 2009-11-03 — Introduced in House
@@ -41,3 +45,11 @@ Hudson River Valley Special Resource Study Act
 - 2010-03-11 — Placed on the Union Calendar, Calendar No. 252.
 - 2010-03-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-436.
 - 2010-03-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-436.
+- 2010-03-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-18 — Considered under suspension of the rules. (consideration: CR H1616-1617)
+- 2010-03-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4003.
+- 2010-03-18 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2010-03-19 — Considered as unfinished business. (consideration: CR H1686-1687)
+- 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 115 (Roll no. 143). (text: CR 3/18/2010 H1616)
+- 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 115 (Roll no. 143).(text: CR 3/18/2010 H1616)
