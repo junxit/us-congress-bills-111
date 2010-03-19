@@ -2,7 +2,7 @@
 legis-num: H.R. 4851
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4851
@@ -89,4 +89,4 @@ Section 1012 of the Department of Defense Appropriations Act, 2010 (Public Law 1
 
 - **(a)** *In general* The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
 - **(b)** *Emergency Designation for Congressional Enforcement* This Act, with the exception of section 4, is designated as an emergency for purposes of pay-as-you-go principles. In the Senate, this Act is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
-- **(c)** *Emergency Designation for Statutory PAYGO* This Act, with the exception of section 4, is designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (Public Law 111–139; 2 U.S.C. 933(g)).
+- **(c)** *Emergency Designation for Statutory PAYGO* This Act, with the exception of section 4, is designated as an emergency requirement pursuant to sec-tion 4(g) of the Statutory Pay-As-You-Go Act of 2010 (Public Law 111–139; 2 U.S.C. 933(g)).

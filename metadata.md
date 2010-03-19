@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4851
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4851
@@ -53,3 +53,6 @@ Continuing Extension Act of 2010
 - 2010-03-17 — Mr. McDermott moved to suspend the rules and pass the bill, as amended.
 - 2010-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1548-1549)
 - 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1548-1549)
+- 2010-03-18 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-03-18 — Received in the Senate.
+- 2010-03-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.
