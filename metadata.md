@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3509
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3509
@@ -40,9 +40,10 @@ Agricultural Credit Act of 2010
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 - Rep. Childers, Travis [D-MS-1] (C001074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Agricultural Credit Act of 2010
 - 2010-03-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134). (text: CR 3/18/2010 H1545)
 - 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134).(text: CR 3/18/2010 H1545)
+- 2010-03-19 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
