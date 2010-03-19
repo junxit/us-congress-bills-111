@@ -16,11 +16,12 @@ This Act may be cited as the “Ocean, Coastal, and Watershed Education Act”.
 ## § 2. Findings and purpose
 
 - **(a)** *Findings* The Congress finds the following:
-  - **(1)** The United States faces major challenges, such as mitigating and adapting to the impacts of climate change, stewarding critical coastal and marine resources including fish and wildlife habitat while sustaining the commercial and recreational activities that depend on these resources, and improving resilience to natural disasters, that collectively threaten human health, economic development, environmental quality, and national security.
+  - **(1)** The United States faces major challenges, such as mitigating and adapting to the impacts of climate change, stewarding critical coastal and marine resources including fish and wildlife habitat while sustaining the commercial and recreational activities that depend on these resources, and improving resilience to natural disasters, that collectively threaten human health, sustainable economic development, environmental quality, and national security.
   - **(2)** Communities in coastal watersheds are particularly vulnerable to these increasingly urgent, interconnected, and complex challenges and need support for teacher professional development and experiential learning among students of all ages.
   - **(3)** These challenges can be met with the help of comprehensive programs specifically targeted to engage coastal watershed communities, schoolchildren, and the general public to develop engaged and environmentally literate citizens who are better able to understand complex environmental issues, assess risk, evaluate proposed plans, and understand how individual decisions affect the environment at local, regional, national, and global scales.
   - **(4)** The intrinsic social and conservation values of wildlife-dependent and other outdoor recreation can play an important role in outdoor educational programs that address the myriad of coastal and ocean concerns, as well as instill a sustainable conservation ethic that will enable them to face those challenges to the betterment of both the environment and coastal communities.
-- **(b)** *Purpose* The purpose of this Act is to advance environmental literacy, develop public awareness and appreciation of the economic, social, recreational, and environmental benefits of coastal watersheds, and emphasize stewardship of critical coastal and marine resources, including an understanding of how climate change is impacting those resources, through the establishment of—
+  - **(5)** The economic importance of coastal areas and resources to the overall economy of the United States is significant. According to the U.S. Commission on Ocean Policy, coastal and ocean-related activities support millions of American jobs and generate more than $1 trillion, or one tenth of the Nation’s annual gross domestic product. Sustainable use of the Nation’s natural resources can provide additional economic opportunities to the United States economy.
+- **(b)** *Purpose* The purpose of this Act is to advance environmental literacy, develop public awareness and appreciation of the economic, social, recreational, and environmental benefits of coastal watersheds, and emphasize stewardship and sustainable economic development of critical coastal and marine resources, including an understanding of how climate change is impacting those resources, through the establishment of—
   - **(1)** an Environmental Literacy Grant Program; and
   - **(2)** regional programs under the B-WET Program.
 
@@ -29,11 +30,11 @@ This Act may be cited as the “Ocean, Coastal, and Watershed Education Act”.
 In this Act:
 
 - **(1)** *Administrator* The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
-- **(2)** *Bay-watershed education* The term “bay-watershed education” means environmental education focused on watersheds, with an emphasis on stewardship of critical coastal and marine resources, including an understanding of how climate change is impacting those resources.
+- **(2)** *Bay-watershed education* The term “bay-watershed education” means environmental education focused on watersheds, with an emphasis on stewardship and sustainable economic development of critical coastal and marine resources, including an understanding of how climate change is impacting those resources.
 - **(3)** *B-WET Program* The term “B-WET Program” means the Bay-Watershed Education and Training Program of the National Oceanic and Atmospheric Administration, as in effect immediately before the enactment of this Act and modified under this Act or any subsequently enacted Act.
 - **(4)** *Eligible entity* The term “eligible entity” means a State agency, local agency, school district, institution of higher education, or for-profit or non-profit nongovernmental organization, consortium, or other entity that the Administrator finds has demonstrated expertise and experience in the development of the institutional, intellectual, or policy resources to help environmental education become more effective and widely practiced.
-- **(5)** *Environmental education* The term “environmental education” means interdisciplinary formal and informal learning about the relevant interrelationships between dynamic environmental and human systems, and which results in increasing the learner’s capacity for decisionmaking and stewardship regarding natural and community resources.
-- **(6)** *Environmental literacy* The term “environmental literacy” means the capacity to perceive and interpret the relative health of environmental systems and the interrelationships between natural and social systems and technology, and to assess options and take appropriate action to maintain, restore, or improve the health of those systems.
+- **(5)** *Environmental education* The term “environmental education” means interdisciplinary formal and informal learning about the relevant interrelationships between dynamic environmental and human systems, including economic systems that depend on coastal, watershed and marine resources for job creation and economic growth, that results in increasing the learner’s capacity for decisionmaking, stewardship, and sustainable economic development of natural and community resources.
+- **(6)** *Environmental literacy* The term “environmental literacy” means the capacity to perceive and interpret the relative health of environmental systems and the interrelationships between natural, economic, and social systems and technology, and to assess options and take appropriate action to maintain, restore, or improve the health of those systems and promote sustainable economic development.
 - **(7)** *High-leverage projects* The term “high-leverage projects” means projects supported by grants authorized under this Act that use Federal, State and nongovernmental financial, technical, and other resources in such a manner that the potential beneficial outcomes are highly magnified or enhanced.
 - **(8)** *State* The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, and any Indian tribe.
 
@@ -42,8 +43,9 @@ In this Act:
 - **(a)** *In general* The Administrator shall establish a national competitive grant program, to be known as the “Environmental Literacy Grant Program”, under which the Administrator shall provide, subject to the availability of appropriations, financial assistance to—
   - **(1)** expand the adoption of coastal, ocean, Great Lakes, and climate on all time scales education;
   - **(2)** build administrative and technical capacity with coastal, ocean, and watershed communities and stakeholder groups to enhance their effectiveness;
-  - **(3)** encourage water-dependent, wildlife-dependent, and other outdoor recreation, experiential learning, and hands-on involvement with coastal and watershed resources as a method of promoting stewardship of those resources; and
-  - **(4)** develop and implement new approaches to advance coastal, ocean, Great Lakes, and climate on all time scales education and environmental literacy at national, regional, and local levels.
+  - **(3)** encourage water-dependent, wildlife-dependent, and other outdoor recreation, experiential learning, and hands-on involvement with coastal and watershed resources as a method of promoting stewardship and sustainable economic development of those resources;
+  - **(4)** develop and implement new approaches to advance coastal, ocean, Great Lakes, and climate on all time scales education and environmental literacy at national, regional, and local levels; and
+  - **(5)** encourage formal and informal environmental education about the systemic interrelationships between healthy coastal, watershed, and marine resources and sustainable economic systems that depend on such resources for job creation and economic development.
 - **(b)** *Priorities* In awarding grants under this section, the Administrator shall give priority consideration to innovative, strategic, high-leverage projects that demonstrate strong potential for being sustained in the future by a grant recipient beyond the time period in which activities are carried out with the grant.
 - **(c)** *Guidelines* No later than 180 days after the date of enactment of this Act and after consultation with appropriate stakeholders, the Administrator shall publish in the Federal Register guidelines regarding the implementation of this grant program, including publication of criteria for eligible entities, identification of national priorities, establishment of performance measures to evaluate program effectiveness, information regarding sources of non-Federal matching funds or in-kind contributions, and reporting requirements for grant award recipients.
 - **(d)** *Limitation on use of funds by administrator* Of the amounts made available to implement this section—
@@ -87,7 +89,7 @@ In this Act:
   - **(3)** *Functions* Each regional program manager shall—
     - **(A)** be responsible for managing and administering the B-WET Program in the region for which appointed, in accordance with this Act;
     - **(B)** determine the most appropriate communities within the region to be served by the B-WET Program;
-    - **(C)** encourage water-dependent, wildlife-dependent, and other outdoor recreation, experiential learning experiences for students, and hands-on involvement with coastal and watershed resources as a method of promoting stewardship of those resources and complementing core classroom curriculum;
+    - **(C)** encourage water-dependent, wildlife-dependent, and other outdoor recreation, experiential learning experiences for students, and hands-on involvement with coastal and watershed resources as a method of promoting stewardship and sustainable economic development of those resources and complementing core classroom curriculum;
     - **(D)** support communication and collaboration among educators, natural resource planners and managers, and governmental and nongovernmental stakeholders;
     - **(E)** share and distribute information regarding educational plans, strategies, learning activities, and curricula to all stakeholders within its region;
     - **(F)** provide financial and technical assistance pursuant to the guidelines developed by the Administrator under this section; and
@@ -123,4 +125,17 @@ Not later than December 31, 2011, and biennially thereafter, the Administrator s
 
 ## § 7. Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator to carry out this Act such sums as may be necessary for each of fiscal years 2011 through 2015.
+- **(a)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator—
+  - **(1)** to carry out the Environmental Literacy Grant Program authorized by section 4 (including administrative expenses for preparing the report under section 6)—
+    - **(A)** for fiscal year 2011, $13,200,000;
+    - **(B)** for fiscal year 2012, $14,500,000;
+    - **(C)** for fiscal year 2013, $16,000,000;
+    - **(D)** for fiscal year 2014, $17,600,000; and
+    - **(E)** for fiscal year 2015, $19,300,000; and
+  - **(2)** to carry out the B-WET Program authorized by section 5 (including administrative expenses for preparing the report under section 6)—
+    - **(A)** for fiscal year 2011, $10,700,000;
+    - **(B)** for fiscal year 2012, $11,700,000;
+    - **(C)** for fiscal year 2013, $12,900,000;
+    - **(D)** for fiscal year 2014, $14,200,000; and
+    - **(E)** for fiscal year 2015, $15,600,000.
+- **(b)** *Prohibition on earmarks* None of the funds appropriated pursuant to subsection (a) may be used for a congressional earmark as defined in clause 9(e) of rule XXI of the Rules of the House of Representatives.
