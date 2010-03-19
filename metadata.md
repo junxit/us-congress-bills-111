@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3509
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3509
@@ -65,3 +65,15 @@ Agricultural Credit Act of 2010
 - 2010-03-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134). (text: CR 3/18/2010 H1545)
 - 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 26 (Roll no. 134).(text: CR 3/18/2010 H1545)
 - 2010-03-19 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2010-08-05 — Cleared for White House.
+- 2010-08-05 — Passed Senate without amendment by Unanimous Consent.
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-08-05 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S6979)
+- 2010-08-05 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S6979)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Presented to President.
+- 2010-08-16 — Became Public Law No: 111-233.
+- 2010-08-16 — Became Public Law No: 111-233.
+- 2010-08-16 — Signed by President.
+- 2010-08-16 — Signed by President.
