@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1612
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1612
@@ -89,6 +89,13 @@ Public Lands Service Corps Act of 2010
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (4)
+
+- 2010-03-20 — [House 111-2-148](votes/house-111-2-0148.md) — On Agreeing to the Amendment — **Agreed to** (227–180)
+- 2010-03-20 — [House 111-2-149](votes/house-111-2-0149.md) — On Agreeing to the Amendment — **Agreed to** (402–0)
+- 2010-03-20 — [House 111-2-150](votes/house-111-2-0150.md) — On Motion to Recommit with Instructions — **Passed** (387–21)
+- 2010-03-20 — [House 111-2-151](votes/house-111-2-0151.md) — On Passage — **Passed** (288–116)
+
 ## Actions
 
 - 2009-03-19 — Introduced in House
@@ -115,3 +122,42 @@ Public Lands Service Corps Act of 2010
 - 2009-10-23 — Placed on the Union Calendar, Calendar No. 177.
 - 2009-10-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-312, Part I.
 - 2009-10-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-312, Part I.
+- 2010-03-18 — Rules Committee Resolution H. Res. 1192 Reported to House. Rule provides for consideration of H.R. 3644 and H.R. 1612. It shall be in order to consider in the House, H.R. 3644 and H.R. 1612. All points of order against consideration of each bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in each bill shall be considered as adopted. The bills, as amended, shall be considered read. Further amendments are in order. Each bill shall be debatable for one hour.
+- 2010-03-19 — Rule H. Res. 1192 passed House.
+- 2010-03-20 — Amendment (A001) offered by Mr. Cole. (consideration: CR H1757, H1759; text: CR H1757)
+- 2010-03-20 — Amendment (A002) offered by Mr. Bishop (UT). (consideration: CR H1757-1759; text: CR H1757)
+- 2010-03-20 — Amendment (A003) offered by Mr. Grijalva. (consideration: CR H1761-1762; text: CR H1761-1762)
+- 2010-03-20 — Amendment agreed to by House: On agreeing to the Bishop (UT) amendment (A002) Agreed to by the Yeas and Nays: 227 - 180 (Roll no. 148).
+- 2010-03-20 — Amendment agreed to by House: On agreeing to the Cole amendment (A001) Agreed to by the Yeas and Nays: 402 - 0 (Roll no. 149).
+- 2010-03-20 — Amendment agreed to by House: On agreeing to the Grijalva amendment (A003) Agreed to by voice vote.
+- 2010-03-20 — Considered under the provisions of rule H. Res. 1192. (consideration: CR H1749-1756, H1757-1762)
+- 2010-03-20 — DEBATE - Pursuant to the provisions of H.Res. 1192, the House proceeded with 10 minutes of debate on the Bishop(UT) amendment.
+- 2010-03-20 — DEBATE - Pursuant to the provisions of H.Res. 1192, the House proceeded with 10 minutes of debate on the Cole amendment.
+- 2010-03-20 — DEBATE - The House proceeded with 10 minutes of debate on the Lummis motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with sundry amendments. The amendments insert sections pertaining to limitation on use of funds and further limitation on use of funds to protect children.
+- 2010-03-20 — DEBATE - The House proceeded with one hour of debate on H.R. 1612.
+- 2010-03-20 — House amendment agreed to: On agreeing to the Bishop (UT) amendment (A002) Agreed to by the Yeas and Nays: 227 - 180 (Roll no. 148).
+- 2010-03-20 — House amendment agreed to: On agreeing to the Cole amendment (A001) Agreed to by the Yeas and Nays: 402 - 0 (Roll no. 149).
+- 2010-03-20 — House amendment agreed to: On agreeing to the Grijalva amendment (A003) Agreed to by voice vote.
+- 2010-03-20 — House amendment offered
+- 2010-03-20 — House amendment offered
+- 2010-03-20 — House amendment offered
+- 2010-03-20 — House amendment offered/reported by : Amendment (A001) offered by Mr. Cole.(consideration: CR H1757, H1759; text: CR H1757)
+- 2010-03-20 — House amendment offered/reported by : Amendment (A002) offered by Mr. Bishop (UT).(consideration: CR H1757-1759; text: CR H1757)
+- 2010-03-20 — House amendment offered/reported by : Amendment (A003) offered by Mr. Grijalva.(consideration: CR H1761-1762; text: CR H1761-1762)
+- 2010-03-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-20 — Mrs. Lummis moved to recommit with instructions to Natural Resources. (consideration: CR H1759-1761; text: CR H1759-1760)
+- 2010-03-20 — On agreeing to the Bishop (UT) amendment (A002) Agreed to by the Yeas and Nays: 227 - 180 (Roll no. 148).
+- 2010-03-20 — On agreeing to the Cole amendment (A001) Agreed to by the Yeas and Nays: 402 - 0 (Roll no. 149).
+- 2010-03-20 — On agreeing to the Grijalva amendment (A003) Agreed to by voice vote.
+- 2010-03-20 — On motion to recommit with instructions Agreed to by recorded vote: 387 - 21 (Roll no. 150).
+- 2010-03-20 — On passage Passed by the Yeas and Nays: 288 - 116 (Roll no. 151).
+- 2010-03-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (UT) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Bishop (UT) demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2010-03-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cole amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Grijalva demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2010-03-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 288 - 116 (Roll no. 151).
+- 2010-03-20 — Roll call votes on amendments in House
+- 2010-03-20 — Roll call votes on amendments in House
+- 2010-03-20 — Rule provides for consideration of H.R. 3644 and H.R. 1612. It shall be in order to consider in the House, H.R. 3644 and H.R. 1612. All points of order against consideration of each bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in each bill shall be considered as adopted. The bills, as amended, shall be considered read. Further amendments are in order. Each bill shall be debatable for one hour.
+- 2010-03-20 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H1749-1752)
+- 2010-03-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR S1760)
+- 2010-03-20 — The previous question was ordered without objection. (consideration: CR H1759)
+- 2010-03-20 — The title of the measure was amended. Agreed to without objection.

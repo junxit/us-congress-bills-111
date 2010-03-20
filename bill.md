@@ -1,17 +1,17 @@
 ---
 legis-num: H.R. 1612
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1612
 
-> To amend the Public Lands Corps Act of 1993 to expand the authorization of the Secretaries of Agriculture, Commerce, and the Interior to provide service-learning opportunities on public lands, help restore the Nation’s natural, cultural, historic, archaeological, recreational, and scenic resources, train a new generation of public land managers and enthusiasts, and promote the value of public service.
+> To amend the Public Lands Corps Act of 1993 to expand the authorization of the Secretaries of Agriculture, Commerce, and the Interior to provide service opportunities for young Americans; help restore the nation’s natural, cultural, historic, archaeological, recreational and scenic resources; train a new generation of public land managers and enthusiasts; and promote the value of public service.
 
 ## § 1. Short title
 
-This Act may be cited as the “Public Lands Service Corps Act of 2009”.
+This Act may be cited as the “Public Lands Service Corps Act of 2010”.
 
 ## § 2. Reference
 
@@ -50,7 +50,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 - **(d)** *Definitions* Section 203 of the Act is amended as follows:
   - **(1)** By amending paragraphs (1) and (2) to read as follows:
-    > - **(1)** *Appropriate natural and cultural resources conservation project* The term appropriate natural and cultural resources conservation project means any project for the conservation, restoration, construction, or rehabilitation of natural, cultural, historic, archaeological, recreational, or scenic resources.
+    > - **(1)** *Appropriate natural and cultural resources conservation project* The term appropriate natural and cultural resources conservation project means any project for the conservation, restoration, construction, or rehabilitation of natural, cultural, historic, archaeological, recreational, or scenic resources on public lands.
     > - **(2)** *Corps and Public Lands Service Corps* The terms Corps and Public Lands Service Corps mean the Public Lands Service Corps established under section 204 of this title.
 
   - **(2)** By striking paragraphs (3) and (8).
@@ -122,8 +122,9 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
         >   - **(i)** protection and restoration of watersheds and forest, riparian, estuarine, grassland, coral reef, intertidal, or other habitat;
         >   - **(ii)** reduction of wildfire risk and mitigation of damage from insects, disease, and disasters;
         >   - **(iii)** erosion control;
-        >   - **(iv)** control or removal of invasive, noxious, or non-native species; and
-        >   - **(v)** restoration of native species;
+        >   - **(iv)** control or removal of invasive, noxious, or non-native species;
+        >   - **(v)** restoration of native species; and
+        >   - **(vi)** projects under the Healthy Forests Restoration Act of 2003 (Public Law 108–148);
         > - **(C)** collection of biological, archaeological, and other scientific data, including monitoring of climatological information, species populations and movement, habitat status, and other factors;
         > - **(D)** assisting in historical and cultural research, archival and curatorial work, oral history projects, documentary photography, and activities that support the creation of public works of art related to public lands; and
         > - **(E)** construction, repair, rehabilitation, green building retrofitting, and maintenance of roads, trails, campgrounds, and other facilities, employee housing, cultural and historic sites and structures, and facilities that further the purposes of the Public Lands Service Corps.
@@ -141,9 +142,10 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
     - **(D)** In paragraph (4) (as so redesignated), by striking “Appropriate conservation projects” and inserting “Appropriate natural and cultural resources conservation projects”.
   - **(7)** In subsection (g) (as so redesignated), by striking “appropriate conservation project” inserting “appropriate natural and cultural resources conservation project”.
-  - **(8)** By amending the text of subsection (f)(2) (as so redesignated) to read as follows: “will instill in Corps participants a work ethic and a sense of public service;”.
-  - **(9)** In subsection (g) (as so redesignated), by striking “on eligible service lands”.
-  - **(10)** By adding at the end the following:
+  - **(8)** By amending the text of subsection (f) (as so redesignated), by inserting “involve improvements to Federal property and” after “preference to those projects which”.
+  - **(9)** By amending the text of subsection (f)(2) (as so redesignated) to read as follows: “will instill in Corps participants a work ethic and a sense of public service;”.
+  - **(10)** In subsection (g) (as so redesignated), by striking “on eligible service lands”.
+  - **(11)** By adding at the end the following:
     > - **(h)** *Other participants* The Secretary may allow volunteers from other programs administered or designated by the Secretary to participate as volunteers in projects carried out under this section on such terms as the Secretary considers appropriate.
 
 - **(f)** *Residential conservation centers and program support* Section 205 of the Act is amended as follows:
@@ -164,7 +166,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
       > - **(1)** The Secretary
 
     - **(B)** by adding at the end the following:
-      > - **(2)** The Secretary may make arrangements with other Federal agencies, States, local governments, or private organizations to provide temporary housing as needed and available.
+      > - **(2)** The Secretary may make arrangements with other Federal agencies, States, local, and tribal governments, or private organizations to provide temporary housing as needed and available.
       > - **(3)** In project areas where Corps participants can reasonably be expected to reside at their own homes, the Secretary may fund or provide transportation to and from project sites.
 
   - **(4)** By redesignating subsection (d) as subsection (g).
@@ -222,7 +224,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 - **(k)** *National service educational awards* Section 209 of the Act (as so redesignated) is amended—
   - **(1)** in subsection (a), by striking “If a” and all that follows through “shall be eligible” and inserting “If a Corps participant also serves in an approved national service position designated under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.), the Corps participant shall be eligible”; and
   - **(2)** in subsection (b), by striking—
-    - **(A)** “either participants in the Corps or resource assistants” and inserting “participants in the Corps” ; and
+    - **(A)** “either participants in the Corps or resource assistants” and inserting “participants in the Corps”; and
     - **(B)** “or a resource assistant”.
 - **(l)** *Nondisplacement* Section 210 of the Act (as so redesignated) is amended to read as follows:
   > ## § 210. Nondisplacement
@@ -237,7 +239,14 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
     - **(A)** by inserting “program” after “Corps”; and
     - **(B)** by inserting “, consulting interns” before “and qualified youth”.
 - **(n)** *Authorization of appropriations* Section 212 of the Act (as so redesignated) is amended—
-  - **(1)** in subsection (a), by inserting “to the Secretary” after “authorized to be appropriated”;
-  - **(2)** in subsection (a), by striking “to carry out” the first place it appears and all that follows through the period and inserting “such sums as may be necessary to carry out this title.”;
-  - **(3)** by striking subsection (b); and
-  - **(4)** by redesignating subsection (c) as subsection (b).
+  - **(1)** by amending subsection (a) to read as follows:
+    > - **(a)** *In General* There is authorized to be appropriated to carry out this title $12,000,000 for each of fiscal years 2011, 2012, 2013, 2014, and 2015, of which no less than ¾ of the sums shall be made available for healthy forests restoration priority projects under section 204(e)(1)(B)(vi).
+
+  - **(2)** by striking subsection (b); and
+  - **(3)** by redesignating subsection (c) as subsection (b).
+- **(o)** *Limitation on Use of Funds* No person or entity who is a party to a pending lawsuit against the dispensing Secretary is eligible to receive funds authorized or made available under this Act or amendments made by this Act.
+- **(p)** *Further Limitation on Use of Funds to Protect Children* No adult shall be eligible to receive funds or participate in the Public Lands Service Corps program under this Act or amendments made by this Act, if that person—
+  - **(1)** refuses to consent to a criminal history check;
+  - **(2)** makes a false statement in connection with such a criminal history check;
+  - **(3)** is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.); or
+  - **(4)** has been convicted of murder, as described in section 1111 of title 18, United States Code.
