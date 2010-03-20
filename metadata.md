@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4887
@@ -16,7 +16,7 @@ TRICARE Affirmation Act
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -35,13 +35,28 @@ TRICARE Affirmation Act
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2010-03-20 — [House 111-2-152](votes/house-111-2-0152.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (403–0)
 
 ## Actions
 
 - 2010-03-19 — Introduced in House
 - 2010-03-19 — Introduced in House
 - 2010-03-19 — Referred to the House Committee on Ways and Means.
+- 2010-03-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-20 — Considered as unfinished business. (consideration: CR H1771-1772)
+- 2010-03-20 — Considered under suspension of the rules. (consideration: CR H1762-1767)
+- 2010-03-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4887.
+- 2010-03-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-20 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
+- 2010-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152). (text: CR H1762-1763)
+- 2010-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152).(text: CR H1762-1763)

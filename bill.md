@@ -9,9 +9,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to ensure that health coverage provided by the Department of Defense is treated as minimal essential coverage.
 
-## § 1. Treatment of Department of Defense health coverage as minimal essential coverage
+## § 1. Short title
 
-- **(a)** *In general* Section 5000A(f)(1) of the Internal Revenue Code of 1986, as added by section 1501(b) of the Patient Protection and Affordable Care Act, is amended—
+This Act may be cited as the “TRICARE Affirmation Act”.
+
+## § 2. Treatment of Department of Defense health coverage as minimal essential coverage
+
+- **(a)** *In general* Section 5000A(f)(1)(A) of the Internal Revenue Code of 1986, as added by section 1501(b) of the Patient Protection and Affordable Care Act, is amended—
   - **(1)** by striking clause (iv) and inserting the following new clause:
     > - **(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program;
 
