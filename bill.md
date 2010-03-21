@@ -7,12 +7,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4872
 
-> To provide for reconciliation pursuant to section 202 of the concurrent resolution on the budget for fiscal year 2010.
+> To provide for reconciliation pursuant to Title II of the concurrent resolution on the budget for fiscal year 2010 (S. Con. Res. 13).
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Reconciliation Act of 2010”.
-
-## § 2. Table of contents
-
-The table of divisions is as follows:
+- **(a)** *Short title* This Act may be cited as the “Health Care and Education Reconciliation Act of 2010”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
