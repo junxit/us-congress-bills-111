@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1119
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1119
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that all Americans should p
 
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 
-## Cosponsors (45)
+## Cosponsors (51)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Inglis, Bob [R-SC-4] (I000023)
@@ -63,13 +63,32 @@ Expressing the sense of the House of Representatives that all Americans should p
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Owens, William L. [D-NY-23] (O000169)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2010-03-21 — [House 111-2-169](votes/house-111-2-0169.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (400–0)
 
 ## Actions
 
 - 2010-02-25 — Introduced in House
 - 2010-02-25 — Introduced in House
 - 2010-02-25 — Referred to the House Committee on Armed Services.
+- 2010-03-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-20 — Considered under suspension of the rules. (consideration: CR H1788-1793)
+- 2010-03-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1119.
+- 2010-03-20 — Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.
+- 2010-03-21 — Considered as unfinished business. (consideration: CR H2170-2171)
+- 2010-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 169). (text: CR 3/20/2010 H1788)
+- 2010-03-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 169).(text: CR 3/20/2010 H1788)
+- 2010-03-21 — The title of the measure was amended. Agreed to without objection.
