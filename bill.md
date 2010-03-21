@@ -2,16 +2,18 @@
 legis-num: H. RES. 1203
 congress: 111th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1203
+
+> Providing for consideration of the Senate amendments to the bill (H.R. 3590) to amend the Internal Revenue Code of 1986 to modify the first-time homebuyers credit in the case of members of the Armed Forces and certain other Federal employees, and for other purposes, and providing for consideration of the bill (H.R. 4872) to provide for reconciliation pursuant to section 202 of the concurrent resolution on the budget for fiscal year 2010.
 
 That upon the adoption of this resolution it shall be in order to debate the topics addressed by the Senate amendments to the bill (H.R. 3590) to amend the Internal Revenue Code of 1986 to modify the first-time homebuyers credit in the case of members of the Armed Forces and certain other Federal employees, and for other purposes, and the topics addressed by the bill (H.R. 4872) to provide for reconciliation pursuant to section 202 of the concurrent resolution on the budget for fiscal year 2010, for two hours equally divided and controlled by the Majority Leader and Minority Leader or their respective designees.
 
 ## § 2.
 
-After debate pursuant to the first section of this resolution, it shall be in order to take from the Speaker’s table the bill (H.R. 3590) to amend the Internal Revenue Code of 1986 to modify the first-time homebuyers credit in the case of members of the Armed Forces and certain other Federal employees, and for other purposes, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 of rule XXI, a single motion offered by the Majority Leader or his designee that the House concur in the Senate amendments. The Senate amendments and the motion shall be considered as read. The previous question shall be considered as ordered on the motion to final adoption without intervening motion or demand for division of the question.
+After debate pursuant to the first section of this resolution, it shall be in order to take from the Speaker's table the bill (H.R. 3590) to amend the Internal Revenue Code of 1986 to modify the first-time homebuyers credit in the case of members of the Armed Forces and certain other Federal employees, and for other purposes, with the Senate amendments thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 of rule XXI, a single motion offered by the Majority Leader or his designee that the House concur in the Senate amendments. The Senate amendments and the motion shall be considered as read. The previous question shall be considered as ordered on the motion to final adoption without intervening motion or demand for division of the question.
 
 ## § 3.
 
