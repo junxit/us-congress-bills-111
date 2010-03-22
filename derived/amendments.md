@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4810
 congress: 111
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -39,7 +39,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (B) and inserting the following new subparagraph (B): | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking “other sources of income” and all that follows through the period at the end and inserting “the cost of services provided by the grant recipient as the Secretary may require to assist the Secretary in mak… | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (D) and inserting the following new subparagraph (D): | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking paragraph (3) and inserting the following new paragraph (3): | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
