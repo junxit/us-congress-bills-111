@@ -1,7 +1,7 @@
 ---
 legis-num: S. 479
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,6 +15,6 @@ This Act may be cited as the “Chesapeake Bay Gateways and Watertrails Network 
 
 ## § 2. Authorization of appropriations
 
-Section 502 of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amending by striking subsection (c) and inserting the following:
+Section 502 of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amended by striking subsection (c) and inserting the following:
 
 > - **(c)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.

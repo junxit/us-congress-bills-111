@@ -1,7 +1,7 @@
 ---
 measure: S. 479
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 502 of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amending by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 502 of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amended by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |

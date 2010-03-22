@@ -1,7 +1,7 @@
 ---
 measure: S. 479
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 479
@@ -16,7 +16,7 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Warner, Mark R. [D-VA] (W000805)
@@ -24,6 +24,7 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Kaufman, Edward E. [D-DE] (K000373)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Specter, Arlen [R-PA] (S000709)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 
 - 2009-02-25 — Introduced in Senate
 - 2009-02-25 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-06-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-03-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-164.
+- 2010-03-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-164.
+- 2010-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 326.
