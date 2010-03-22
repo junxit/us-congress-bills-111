@@ -13,50 +13,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be referred to as the “Energy Jobs for Veterans Act”.
 
-## § 2. Pilot program to encourage the employment of veterans in energy-related positions
+## § 2. Veterans Energy-Related Employment Program
 
-- **(a)** *Establishment of pilot program* To encourage the employment of eligible veterans in energy-related positions, the Secretary of Labor, through the Assistant Secretary of Labor for Veterans’ Employment and Training, shall establish a pilot program to be known as the “Veterans Energy-Related Employment Program”. Under the pilot program, the Secretary shall award competitive grants to each of 2 States for the establishment and administration of a State program to make payments to energy employers who employ eligible veterans, to be known as a “State Energy-Related Employment Program”.
-- **(b)** *Eligibility for grants* To be eligible for a grant under the pilot program, a State shall submit to the Secretary an application that—
-  - **(1)** includes a proposal for a State program that satisfies the requirements in subsection (d); and
-  - **(2)** demonstrates that the State has—
+- **(a)** *Establishment of pilot program* To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veteran’s Workforce Investment Program, shall carry out a pilot program to be known as the “Veterans Energy-Related Employment Program”. Under the pilot program, the Secretary shall award competitive grants to three States for the establishment and administration of a State program to make grants to energy employers and labor-management organizations that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a “State Energy-Related Employment Program”.
+- **(b)** *Eligibility for grants* To be eligible to receive a grant under the pilot program, a State shall submit to the Secretary an application that includes each of the following:
+  - **(1)** A proposal for the expenditure of grant funds to establish and administer a public-private partnership program designed to provide covered training, on-job training, apprenticeships, and certification classes to a significant number of eligible veterans and ensure lasting and sustainable employment in well-paying jobs in the energy industry.
+  - **(2)** Evidence that the State has—
     - **(A)** a population of eligible veterans of an appropriate size to carry out the State program;
     - **(B)** a robust and diverse energy industry; and
-    - **(C)** the ability to carry out the State program in paragraph (1).
-- **(c)** *Selection* Under the pilot program, grants shall be awarded to 2 States that, in the determination of the Secretary, have proposed and have the ability to carry out a State program that, for the greatest number of eligible veterans, will provide marketable energy job skills and employment experience and ensure lasting and sustainable employment in well-paying energy jobs. The Secretary shall base such determination on the proposal and criteria referred to in paragraphs (1) and (2) of subsection (b), respectively.
-- **(d)** *Requirements for State program* Under a State program:
-  - **(1)** *Amount of payments* A State shall pay to an energy employer, with respect to each eligible veteran employed in an apprenticeship or provided on-job training referred to in subsection (h)(2)(A) by the energy employer in the State, an amount not to exceed 50 percent of the product of—
-    - **(A)** the hourly rate of wages paid to the eligible veteran by the energy employer; and
-    - **(B)** the number of hours worked by the eligible veteran.
-  - **(2)** *Limitations* With respect to each eligible veteran in paragraph (1):
-    - **(A)** *Aggregate limitation* The aggregate amount paid to an energy employer shall not exceed $20,000.
-    - **(B)** *Monthly limitation* The amount paid to an energy employer for any month shall not exceed one-twelfth of the amount specified in clause (i).
-    - **(C)** *Payment period limitation* Payments to an energy employer shall not be made for a period of more than 12 months.
-  - **(3)** *Payment frequency* Payments to an energy employer shall be made on a quarterly basis.
-  - **(4)** *Reporting* An energy employer that receives payments shall be required to submit to the State, for each quarter, a report—
-    - **(A)** in which the energy employer and eligible veteran certify the wages paid by the energy employer to the eligible veteran for such quarter under the program; and
-    - **(B)** containing such other information as the Secretary may specify.
-  - **(5)** *Outreach* A State shall conduct outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
-- **(e)** *Grant* Under the pilot program:
-  - **(1)** *Amount* Grants to a State shall be in such amounts as the Secretary, based on the proposal by the State in subsection (b)(1), determines necessary for the State to—
-    - **(A)** make payments under subsection (d)(1) with respect to eligible veterans who first begin work under the State program in fiscal years 2011 through 2015; and
-    - **(B)** pay the reasonable costs of administering the State program until the date on which no eligible veteran under subparagraph (A) is working under the State program.
-  - **(2)** *Frequency* Grants shall be made for such periods as the Secretary determines appropriate.
-- **(f)** *Conditions* Under the pilot program, each grant to a State shall be subject to the following conditions:
-  - **(1)** *Payment* The State shall pay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the grant that is not used for the purposes in subparagraphs (A) or (B) of paragraph (1) of subsection (e).
-  - **(2)** *Reporting* The State shall submit to the Secretary a report at such time and containing such information as the Secretary shall require, including information on the use of grant funds.
-- **(g)** *Reporting* The Secretary shall include as part of the annual report required by section 4107(c) of title 38, United States Code, a detailed description of activities carried out under this section.
-- **(h)** *Definitions* For purposes of this section:
-  - **(1)** *Eligible veteran* The term eligible veteran means an individual entitled to educational assistance under subsection (a) of section 3311 of title 38, United States Code.
-  - **(2)** *Energy employer* The term energy employer means an employer who—
-    - **(A)** employs an eligible veteran in a program of apprenticeship or provides to an eligible veteran other on-job training approved as provided in paragraph (1) or (2), as appropriate, of subsection (a) of section 3687 of title 38, United States Code; and
-    - **(B)** employs such eligible veteran in a trade or business in—
-      - **(i)** the energy-efficient building, construction, and retrofits industries;
-      - **(ii)** the renewable electric power industry, including the wind and solar energy industries;
-      - **(iii)** the biofuels industry;
-      - **(iv)** the energy efficiency assessment industry that serves the residential, commercial, or industrial sectors;
-      - **(v)** the oil and natural gas industry; or
-      - **(vi)** the nuclear industry.
-  - **(3)** *Pilot program* The term “pilot program” means the Veterans Energy-Related Employment Program established under subsection (a).
-  - **(4)** *Secretary* The term Secretary means the Secretary of Labor.
-  - **(5)** *State program* The term “State program” means a State Energy-Related Employment Program referred to in subsection (a).
-- **(i)** *Appropriations* There is authorized to be appropriated to the Secretary $5,000,000 for each of fiscal years 2011 through 2015, for the purpose of carrying out the pilot program.
+    - **(C)** the ability to carry out the State program described in the proposal under paragraph (1).
+  - **(3)** Such other information and assurances as the Secretary may require.
+- **(c)** *Use of funds* A State that is the recipient of a grant under this section shall use the grant for the following purposes:
+  - **(1)** Making grants to energy employers and labor-management organizations to reimburse such employers and organizations for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans.
+  - **(2)** Conducting outreach to inform energy employers, labor-management organizations, and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
+- **(d)** *Conditions* Under the pilot program, each grant to a State shall be subject to the following conditions:
+  - **(1)** The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c).
+  - **(2)** The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds.
+- **(e)** *Employer requirements* In order to receive a grant made by a State under the pilot program, an energy employer shall—
+  - **(1)** submit to the administrator of the State Energy-Related Employment Program an application that includes—
+    - **(A)** the rate of pay for each eligible veteran proposed to be trained using grant funds;
+    - **(B)** the average rate of pay for an individual employed by the energy employer in a similar position who is not an eligible veteran; and
+    - **(C)** such other information and assurances as the administrator may require; and
+  - **(2)** agree to submit to the administrator, for each quarter, a report containing such information as the Secretary may specify.
+- **(f)** *Limitation* None of the funds made available to an energy employer through a grant under the pilot program may be used to provide training of any kind to a person who is not an eligible veteran.
+- **(g)** *Report to Congress* Together with the report required to be submitted annually under section 4107(c) of title 38, United States Code, the Secretary shall submit to Congress a report on the pilot program for the year covered by such report. The report on the pilot program shall include a detailed description of activities carried out under this section and an evaluation of the program.
+- **(h)** *Administrative and reporting costs* Of the amounts appropriated pursuant to the authorization of appropriations under subsection (j), two percent shall be made available to the Secretary for administrative costs associated with implementing and evaluating the pilot program under this section and for preparing and submitting the report required under subsection (f). The Secretary shall determine the appropriate maximum amount of each grant awarded under this section that may be used by the recipient for administrative and reporting costs.
+- **(i)** *Definitions* For purposes of this section:
+  - **(1)** The term “covered training, on-job training, apprenticeships, and certification classes” means training, on-job training, apprenticeships, and certification classes that are—
+    - **(A)** designed to provide the veteran with skills that are particular to an energy industry and not directly transferable to employment in another industry; and
+    - **(B)** approved as provided in paragraph (1) or (2), as appropriate, of subsection (a) of section 3687 of title 38, United States Code.
+  - **(2)** The term eligible veteran means a veteran, as that term is defined in section 101(3) of title 38, United States Code, who is employed by an energy employer and enrolled or participating in a covered training, on-job training, apprenticeship, or certification class.
+  - **(3)** The term energy employer means an entity that employs individuals in a trade or business in an energy industry.
+  - **(4)** The term “energy industry” means any of the following industries:
+    - **(A)** The energy-efficient building, construction, or retrofits industry.
+    - **(B)** The renewable electric power industry, including the wind and solar energy industries.
+    - **(C)** The biofuels industry.
+    - **(D)** The energy efficiency assessment industry that serves the residential, commercial, or industrial sectors.
+    - **(E)** The oil and natural gas industry.
+    - **(F)** The nuclear industry.
+- **(j)** *Appropriations* There is authorized to be appropriated to the Secretary $10,000,000 for each of fiscal years 2011 through 2015, for the purpose of carrying out the pilot program.
