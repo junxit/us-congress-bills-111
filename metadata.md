@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2788
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2788
@@ -67,9 +67,10 @@ Distinguished Flying Cross National Memorial Act
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ Distinguished Flying Cross National Memorial Act
 - 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 138). (text: CR 3/18/2010 H1618)
 - 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 138).(text: CR 3/18/2010 H1618)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
