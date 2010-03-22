@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1741
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1741
@@ -60,3 +60,7 @@ Witness Security and Protection Grant Program Act of 2010
 - 2009-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 315). (text: CR H6325-6326)
 - 2009-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 315).(text: CR H6325-6326)
 - 2009-06-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-02-25 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-03-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 329.
