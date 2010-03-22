@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4810
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4810
@@ -37,8 +37,22 @@ End Veteran Homelessness Act of 2010
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-03-22 — [House 111-2-170](votes/house-111-2-0170.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–0)
+
 ## Actions
 
 - 2010-03-10 — Introduced in House
 - 2010-03-10 — Introduced in House
 - 2010-03-10 — Referred to the House Committee on Veterans' Affairs.
+- 2010-03-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-22 — Considered as unfinished business. (consideration: CR H2189)
+- 2010-03-22 — Considered under suspension of the rules. (consideration: CR H2178-2180)
+- 2010-03-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4810.
+- 2010-03-22 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2010-03-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 170). (text: CR H2178-2179)
+- 2010-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 170).(text: CR H2178-2179)
+- 2010-03-22 — Placed on the Union Calendar, Calendar No. 258.
+- 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-449.
+- 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-449.
