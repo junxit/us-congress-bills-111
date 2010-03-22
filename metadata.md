@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4395
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4395
@@ -16,9 +16,10 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 - 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 31 (Roll no. 144). (text: CR 3/18/2010 H16211)
 - 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 31 (Roll no. 144).(text: CR 3/18/2010 H16211)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
