@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3671
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3671
@@ -29,9 +29,10 @@ Upper Mississippi River Basin Protection Act
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 - Rep. Foster, Bill [D-IL-14] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Upper Mississippi River Basin Protection Act
 - 2010-03-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 289 - 121 (Roll no. 137). (text: CR 3/18/2010 H1611-1612)
 - 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 289 - 121 (Roll no. 137).(text: CR 3/18/2010 H1611-1612)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
