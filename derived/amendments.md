@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1879
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “or” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (E) and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of subparagraph (E) and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
