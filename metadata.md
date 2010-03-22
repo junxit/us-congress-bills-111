@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 244
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 244
@@ -71,9 +71,10 @@ Expressing support for designation of a National Day of Recognition for Long-Ter
 - Rep. Fleming, John [R-LA-4] (F000456)
 - Rep. Griffith, Parker [R-AL-5] (G000557)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -95,3 +96,4 @@ Expressing support for designation of a National Day of Recognition for Long-Ter
 - 2010-03-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 147). (text: CR H1691)
 - 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 147).(text: CR H1691)
 - 2010-03-19 — The title of the measure was amended. Agreed to without objection.
+- 2010-03-22 — Received in the Senate and referred to the Committee on the Judiciary.
