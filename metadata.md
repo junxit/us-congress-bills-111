@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3644
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3644
@@ -49,9 +49,10 @@ Ocean, Coastal, and Watershed Education Act
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (4)
 
@@ -101,3 +102,4 @@ Ocean, Coastal, and Watershed Education Act
 - 2010-03-19 — Rule provides for consideration of H.R. 3644 and H.R. 1612. It shall be in order to consider in the House, H.R. 3644 and H.R. 1612. All points of order against consideration of each bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in each bill shall be considered as adopted. The bills, as amended, shall be considered read. Further amendments are in order. Each bill shall be debatable for one hour.
 - 2010-03-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1685)
 - 2010-03-19 — The previous question was ordered pursuant to the rule. (consideration: CR H1684)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
