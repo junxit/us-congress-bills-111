@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4840
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4840
@@ -35,9 +35,10 @@ An act to designate the facility of the United States Postal Service located at 
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ An act to designate the facility of the United States Postal Service located at 
 - 2010-03-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 155). (text: CR 3/19/2010 CR H1701)
 - 2010-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 155).(text: CR 3/19/2010 CR H1701)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
