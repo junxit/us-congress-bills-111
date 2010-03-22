@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4887
@@ -39,9 +39,10 @@ TRICARE Affirmation Act
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ TRICARE Affirmation Act
 - 2010-03-20 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
 - 2010-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152). (text: CR H1762-1763)
 - 2010-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152).(text: CR H1762-1763)
+- 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
