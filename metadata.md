@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4887
@@ -62,3 +62,15 @@ TRICARE Affirmation Act
 - 2010-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152). (text: CR H1762-1763)
 - 2010-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152).(text: CR H1762-1763)
 - 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2010-04-12 — Cleared for White House.
+- 2010-04-12 — Passed Senate without amendment by Unanimous Consent.
+- 2010-04-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-04-12 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S2213)
+- 2010-04-12 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S2213)
+- 2010-04-13 — Message on Senate action sent to the House.
+- 2010-04-14 — Presented to President.
+- 2010-04-14 — Presented to President.
+- 2010-04-26 — Became Public Law No: 111-159.
+- 2010-04-26 — Became Public Law No: 111-159.
+- 2010-04-26 — Signed by President.
+- 2010-04-26 — Signed by President.

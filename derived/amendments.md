@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4887
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 5000A` | replace | by striking clause (iv) and inserting the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5000A` | strike | by striking “or” at the end of clause (v); | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 5000A` | replace | by striking the period at the end of clause (vi) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `10 U.S.C. § 1587` | insert | by inserting after clause (vi) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking clause (iv) and inserting the following new clause: | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” at the end of clause (v); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of clause (vi) and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (vi) the following new clause: | the bill names no machine-readable US Code section |
