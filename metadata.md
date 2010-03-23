@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4667
@@ -27,9 +27,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2010
 - Rep. Teague, Harry [D-NM-2] (T000466)
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2010
 - 2010-03-22 — Placed on the Union Calendar, Calendar No. 261.
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-452.
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-452.
+- 2010-03-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
