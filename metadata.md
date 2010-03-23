@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4667
@@ -56,3 +56,16 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2010
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-452.
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-452.
 - 2010-03-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2010-09-22 — Cleared for White House.
+- 2010-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR S7363-7364)
+- 2010-09-22 — Passed Senate without amendment by Unanimous Consent.
+- 2010-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-09-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2010-09-22 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2010-09-23 — Message on Senate action sent to the House.
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-247.
+- 2010-09-30 — Became Public Law No: 111-247.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
