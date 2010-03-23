@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3976
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3976
@@ -25,6 +25,10 @@ Helping Heroes Keep Their Homes Act of 2010
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-03-23 — [House 111-2-176](votes/house-111-2-0176.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–4)
+
 ## Actions
 
 - 2009-10-29 — Introduced in House
@@ -45,3 +49,6 @@ Helping Heroes Keep Their Homes Act of 2010
 - 2010-03-22 — Placed on the Union Calendar, Calendar No. 260.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-451.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-451.
+- 2010-03-23 — Considered as unfinished business. (consideration: CR H2240-2241)
+- 2010-03-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 416 - 4 (Roll no. 176). (text: CR 3/22/2010 H2183)
+- 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 416 - 4 (Roll no. 176).(text: CR 3/22/2010 H2183)

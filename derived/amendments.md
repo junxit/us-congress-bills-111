@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3976
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,8 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “December 31, 2010” and inserting “December 31, 2015”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “January 1, 2011” and inserting “January 1, 2016”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “December 31, 2010” and inserting “December 31, 2015”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “January 1, 2011” and inserting “January 1, 2016”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Clause (ii) of section 3677(b)(1)(A) of title 38, United States Code, is amended by striking “85 per centum” and inserting “60 percent”. | the bill names no machine-readable US Code section |
-| — | replace | Effective October 1, 2013, clause (ii) of section 3677(b)(1)(A) of title 38, United States Code, as amended by subsection (a) of this section, is amended by striking “60 percent” and inserting “85 percent”. | the bill names no machine-readable US Code section |
