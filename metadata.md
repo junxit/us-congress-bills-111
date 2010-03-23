@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4592
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4592
@@ -27,6 +27,10 @@ Energy Jobs for Veterans Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-03-23 — [House 111-2-177](votes/house-111-2-0177.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (397–19)
+
 ## Actions
 
 - 2010-02-03 — Introduced in House
@@ -45,3 +49,6 @@ Energy Jobs for Veterans Act
 - 2010-03-22 — Placed on the Union Calendar, Calendar No. 262.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-453.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-453.
+- 2010-03-23 — Considered as unfinished business. (consideration: CR H2241)
+- 2010-03-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 397 - 19 (Roll no. 177). (text: CR 3/22/2010 H2185-2186)
+- 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 397 - 19 (Roll no. 177).(text: CR 3/22/2010 H2185-2186)
