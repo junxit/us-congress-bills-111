@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4872
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -58,7 +58,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the flush text following subsection (c)(1)(B), by striking “400 percent of the applicable payment amount” and inserting “an amount equal to 1/12 of $3,000”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking “$750” and inserting “$2,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(5)(A), in the matter preceding clause (i), by striking “subsection (b)(2) and (d)(1)” and inserting “subsection (b) and paragraph (1)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4980H(d)(2) of such Code, as so added and amended and as amended by subsection (a), is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 4980H(d)(2) of such Code, as so added and amended and as amended by subsection (a), is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 4980H of such Code, as so added and amended and as amended by the preceding subsections, is amended by striking subsection (b) and redesignating subsections (c), (d), and (e) as subsections (b), (c), and (d), respectively. | the bill names no machine-readable US Code section |
 | — | replace | The following provisions of the Internal Revenue Code of 1986 are each amended by striking “modified gross” each place it appears and inserting “modified adjusted gross”: | the bill names no machine-readable US Code section |
 | — | amend | Section 36B(d)(2)(B) of such Code, as so added, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -94,7 +94,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2)(A), by striking “The coverage” and inserting “Subject to subparagraphs (C) and (D), the coverage”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B), by striking “subparagraph (A)(ii)” and inserting “subparagraphs (A)(ii), (C), and (D)”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of paragraph (2) the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(A), as restored under subsection (a)(2), by striking “paragraph (4)” and inserting “paragraphs (2)(C), (2)(D), and (4)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(A), as restored under subsection (a)(2), by striking “paragraph (4)” and inserting “paragraphs (2)(C), (2)(D), and (4)”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4)(E), by inserting before the period at the end the following: “, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application… | the bill names no machine-readable US Code section |
 | — | insert | in section 1860D–22(a)(2)(A), by inserting before the period at the end the following: “, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial… | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subclause (III); | the bill names no machine-readable US Code section |
@@ -121,7 +121,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in the third sentence, by inserting “and updated as appropriate” before the period at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subclauses: | the bill names no machine-readable US Code section |
 | — | repeal | Section 1860C–1 of the Social Security Act (42 U.S.C. 1395w–29), as added by section 241(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173), is repealed. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1857(e) of the Social Security Act (42 U.S.C. 1395w–27(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 1857(e) of the Social Security Act (42 U.S.C. 1395w–27(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “2015” and inserting “2014”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “2015” and inserting “2014”; | the bill names no machine-readable US Code section |
 | — | insert | in the heading, by inserting “2014,” after “years”; | the bill names no machine-readable US Code section |
