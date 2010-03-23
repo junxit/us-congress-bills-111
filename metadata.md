@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4810
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4810
@@ -33,9 +33,10 @@ End Veteran Homelessness Act of 2010
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Adler, John H. [D-NJ-3] (A000364)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ End Veteran Homelessness Act of 2010
 - 2010-03-22 — Placed on the Union Calendar, Calendar No. 258.
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-449.
 - 2010-03-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-449.
+- 2010-03-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
