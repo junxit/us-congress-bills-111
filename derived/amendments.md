@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3976
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

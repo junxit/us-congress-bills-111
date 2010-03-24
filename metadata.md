@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3976
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3976
@@ -21,9 +21,10 @@ Helping Heroes Keep Their Homes Act of 2010
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Teague, Harry [D-NM-2] (T000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Helping Heroes Keep Their Homes Act of 2010
 - 2010-03-23 — Considered as unfinished business. (consideration: CR H2240-2241)
 - 2010-03-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 416 - 4 (Roll no. 176). (text: CR 3/22/2010 H2183)
 - 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 416 - 4 (Roll no. 176).(text: CR 3/22/2010 H2183)
+- 2010-03-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
