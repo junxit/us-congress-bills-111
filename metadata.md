@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 80
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 80
@@ -63,3 +63,12 @@ Recognizing and honoring the Blinded Veterans Association on its 65th anniversar
 - 2010-03-23 — On motion to suspend the rules and pass the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 174). (text: CR 3/22/2010 H2182)
 - 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 174).(text: CR 3/22/2010 H2182)
 - 2010-03-24 — Received in the Senate, read twice.
+- 2010-03-26 — Cleared for White House.
+- 2010-03-26 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2166)
+- 2010-03-26 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2166)
+- 2010-04-01 — Presented to President.
+- 2010-04-01 — Presented to President.
+- 2010-04-07 — Became Public Law No: 111-156.
+- 2010-04-07 — Became Public Law No: 111-156.
+- 2010-04-07 — Signed by President.
+- 2010-04-07 — Signed by President.
