@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4592
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4592
@@ -23,9 +23,10 @@ Energy Jobs for Veterans Act
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Hare, Phil [D-IL-17] (H001040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Energy Jobs for Veterans Act
 - 2010-03-23 — Considered as unfinished business. (consideration: CR H2241)
 - 2010-03-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 397 - 19 (Roll no. 177). (text: CR 3/22/2010 H2185-2186)
 - 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 397 - 19 (Roll no. 177).(text: CR 3/22/2010 H2185-2186)
+- 2010-03-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
