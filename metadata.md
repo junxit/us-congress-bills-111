@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3562
@@ -36,3 +36,10 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 - 2010-02-22 — Placed on the House Calendar, Calendar No. 160.
 - 2010-02-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-414.
 - 2010-02-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-414.
+- 2010-03-23 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Perriello objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-03-23 — Considered under suspension of the rules. (consideration: CR H2235-2237)
+- 2010-03-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3562.
+- 2010-03-23 — Mr. Perriello moved to suspend the rules and pass the bill, as amended.
+- 2010-03-24 — Considered as unfinished business. (consideration: CR H2311)
+- 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 3/23/2010 H2235)
+- 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 3/23/2010 H2235)
