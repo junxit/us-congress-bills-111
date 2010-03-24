@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1879
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1879
@@ -43,6 +43,10 @@ National Guard Employment Protection Act of 2010
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-03-24 — [House 111-2-184](votes/house-111-2-0184.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–1)
+
 ## Actions
 
 - 2009-04-02 — Introduced in House
@@ -64,3 +68,6 @@ National Guard Employment Protection Act of 2010
 - 2010-03-22 — Placed on the Union Calendar, Calendar No. 259.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-450.
 - 2010-03-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-450.
+- 2010-03-24 — Considered as unfinished business. (consideration: CR H2299-2300)
+- 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 184). (text: CR 3/22/2010 H2181)
+- 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 184).(text: CR 3/22/2010 H2181)
