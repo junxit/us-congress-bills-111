@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 80
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 80
@@ -62,3 +62,4 @@ Recognizing and honoring the Blinded Veterans Association on its 65th anniversar
 - 2010-03-23 — Considered as unfinished business. (consideration: CR H2228-2229)
 - 2010-03-23 — On motion to suspend the rules and pass the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 174). (text: CR 3/22/2010 H2182)
 - 2010-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 174).(text: CR 3/22/2010 H2182)
+- 2010-03-24 — Received in the Senate, read twice.
