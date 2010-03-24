@@ -2,7 +2,7 @@
 legis-num: H. RES. 917
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 917
@@ -12,9 +12,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas established by Congress in 1991, the National Scenic Byways program is a collaborative effort to help recognize, preserve, and enhance selected roads throughout the United States;
-- Whereas the U.S. Department of Transportation recognizes certain roads as All-American Roads or National Scenic Byways based on one or more archeological, cultural, historic, natural, recreational, and scenic qualities;
-- Whereas, on October 16, 2009, the U.S. Department of Transportation announced 42 new designations to the America’s Byways collection, including five All-American Roads and 37 National Scenic Byways, thus increasing the total number of designations to 151;
-- Whereas the Florida Keys Scenic Highway was listed by the U.S. Department of Transportation as one of five All-American Roads for 2009;
+- Whereas the United States Department of Transportation recognizes certain roads as All-American Roads or National Scenic Byways based on one or more archeological, cultural, historic, natural, recreational, and scenic qualities;
+- Whereas, on October 16, 2009, the United States Department of Transportation announced 42 new designations to the America’s Byways collection, including five All-American Roads and 37 National Scenic Byways, thus increasing the total number of designations to 151;
+- Whereas the Florida Keys Scenic Highway was listed by the United States Department of Transportation as one of five All-American Roads for 2009;
 - Whereas the Florida Keys Scenic Highway is the first All-American Road in the State of Florida and only one of 30 in the United States, joining an elite list which includes the Blue Ridge Parkway, Alaska’s Seward Highway, and Historic Route 66;
 - Whereas the Florida Keys Scenic Highway follows the railroad trail blazed in the 1900s by Henry Flagler;
 - Whereas the Florida Keys Scenic Highway comprises of an 110-mile stretch of US 1 from Key Largo to Key West;
@@ -24,6 +24,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** recognizes the Florida Keys Scenic Highway on the occasion of its designation as an All-American Road by the U.S. Department of Transportation;
-- **(2)** congratulates those residents of the Florida Keys who participated in the effort to support this designation; and
-- **(3)** reaffirms its support of the National Scenic Byways Program.
+- **(1)** recognizes the Florida Keys Scenic Highway on the occasion of its designation as an All-American Road by the United States Department of Transportation; and
+- **(2)** congratulates those residents of the Florida Keys who participated in the effort to support this designation.

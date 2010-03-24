@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 917
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 917
@@ -46,6 +46,10 @@ Recognizing the Florida Keys Scenic Highway on the occasion of its designation a
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2010-03-24 — [House 111-2-180](votes/house-111-2-0180.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (420–2)
+
 ## Actions
 
 - 2009-11-18 — Introduced in House
@@ -60,3 +64,10 @@ Recognizing the Florida Keys Scenic Highway on the occasion of its designation a
 - 2010-02-22 — Placed on the House Calendar, Calendar No. 161.
 - 2010-02-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-415.
 - 2010-02-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-415.
+- 2010-03-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-23 — Considered under suspension of the rules. (consideration: CR H2233-2235)
+- 2010-03-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 917.
+- 2010-03-23 — Mr. Perriello moved to suspend the rules and agree to the resolution, as amended.
+- 2010-03-24 — Considered as unfinished business. (consideration: CR H2280-2281)
+- 2010-03-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 180). (text: CR 3/23/2010 H2233)
+- 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 180).(text: CR 3/23/2010 H2233)
