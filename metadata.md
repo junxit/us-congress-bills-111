@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4098
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4098
@@ -34,6 +34,10 @@ Secure Federal File Sharing Act
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-03-24 — [House 111-2-183](votes/house-111-2-0183.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–13)
+
 ## Actions
 
 - 2009-11-17 — Introduced in House
@@ -44,3 +48,10 @@ Secure Federal File Sharing Act
 - 2010-03-11 — Placed on the Union Calendar, Calendar No. 247.
 - 2010-03-11 — Reported by the Committee on Oversight and Government. H. Rept. 111-431.
 - 2010-03-11 — Reported by the Committee on Oversight and Government. H. Rept. 111-431.
+- 2010-03-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-03-23 — Considered under suspension of the rules. (consideration: CR H2237-2239)
+- 2010-03-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4098.
+- 2010-03-23 — Mr. Towns moved to suspend the rules and pass the bill, as amended.
+- 2010-03-24 — Considered as unfinished business. (consideration: CR H2299)
+- 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13, 1 Present (Roll no. 183). (text : CR 3/23/2010 H2237-2238)
+- 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13, 1 Present (Roll no. 183).(text : CR 3/23/2010 H2237-2238)

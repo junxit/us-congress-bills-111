@@ -31,7 +31,7 @@ This Act may be cited as the “Secure Federal File Sharing Act”.
 
 ## § 3. Annual report
 
-Not later than one year after the date of the enactment of this Act, and annually thereafter, the Director of the Office of Management and Budget shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of this Act, including—
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Director of the Office of Management and Budget shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of this Act, including—
 
 - **(1)** a justification for each open-network peer-to-peer file sharing software program that is approved pursuant to subsection (b); and
 - **(2)** an inventory of the agencies where such programs are being used.
@@ -56,3 +56,7 @@ In this Act:
     - **(ii)** to transmit or receive email messages, instant messaging, real-time audio or video communications, or real-time voice communications; or
     - **(iii)** to provide network or computer security (including the detection or prevention of fraudulent activities), network management, maintenance, diagnostics, or technical support or repair.
 - **(4)** *Contractor* The term “contractor” means a prime contractor or a subcontractor, as defined by the Federal Acquisition Regulation.
+
+## § 5. Budgetary effects of PAYGO legislation for this Act
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
