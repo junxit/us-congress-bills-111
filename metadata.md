@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4849
@@ -40,6 +40,11 @@ Small Business and Infrastructure Jobs Tax Act of 2010
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2010-03-24 — [House 111-2-181](votes/house-111-2-0181.md) — On Motion to Recommit with Instructions — **Failed** (184–239)
+- 2010-03-24 — [House 111-2-182](votes/house-111-2-0182.md) — On Passage — **Passed** (246–178)
+
 ## Actions
 
 - 2010-03-16 — Introduced in House
@@ -50,3 +55,16 @@ Small Business and Infrastructure Jobs Tax Act of 2010
 - 2010-03-19 — Placed on the Union Calendar, Calendar No. 257.
 - 2010-03-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-447.
 - 2010-03-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-447.
+- 2010-03-22 — Rules Committee Resolution H. Res. 1205 Reported to House. Rule provides for consideration of H.R. 4849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-03-23 — Rule H. Res. 1205 passed House.
+- 2010-03-24 — Considered under the provisions of rule H. Res. 1205. (consideration: CR H2281-2299)
+- 2010-03-24 — DEBATE - The House proceeded with 10 minutes of debate on the Camp motion to recommit with instructions, pending reservation of a point of order. Subsequently, the point of order was removed. The instructions contained in the motion seek to report the same back to the House with an amendment to put a temporary exclusion of 100 percent of gain on certain small business stock; to put a limitation on penalties for failure to disclose certain information; and to direct the Commissioner of Internal Revenue to submit an annual report on the penalties assessed by the Internal Revenue Service.
+- 2010-03-24 — DEBATE - The House proceeded with one hour of debate on H.R. 4849.
+- 2010-03-24 — House amendment offered
+- 2010-03-24 — Mr. Camp moved to recommit with instructions to Ways and Means. (consideration: CR H2295-2298; text: CR H2295-2296)
+- 2010-03-24 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 239 (Roll no. 181).
+- 2010-03-24 — On passage Passed by recorded vote: 246 - 178 (Roll no. 182). (text: CR H2281-2285)
+- 2010-03-24 — Passed/agreed to in House: On passage Passed by recorded vote: 246 - 178 (Roll no. 182).(text: CR H2281-2285)
+- 2010-03-24 — Rule provides for consideration of H.R. 4849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-03-24 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H2297)
+- 2010-03-24 — The previous question was ordered pursuant to the rule. (consideration: CR H2295)
