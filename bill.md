@@ -1,0 +1,489 @@
+---
+legis-num: H.R. 4933
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4933
+
+> To establish a strategy to coordinate all health-related United States foreign assistance, to assist developing countries in improving delivery of health services, and to establish an initiative to assist developing countries in strengthening their indigenous health workforces, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Global Health Expansion, Access to Labor, Transparency, and Harmonization Act of 2010” or the “Global HEALTH Act of 2010”.
+- **(b)** *Table of Contents* The table of contents for this Act is as follows:
+
+## § 2. Purpose
+
+The purpose of this Act is to strengthen and improve the health systems of developing countries and the delivery of health services in developing countries to assist their national governments in reducing mortality and improving health outcomes among their populations, consistent with the United Nations Millennium Development Goals, by—
+
+- **(1)** improving the coordination and effectiveness of all health-related United States foreign assistance by establishing under section 3 a comprehensive and integrated 5-year United States Global Health Strategy that—
+  - **(A)** supports developing countries in their efforts to expand and develop their health systems and increase their numbers of trained health workers;
+  - **(B)** encourages and supports developing countries to adopt policies that produce positive health outcomes; and
+  - **(C)** coordinates the global health-related work of United States global health programs and relevant United States executive branch agencies with the global health-related work of governments of other countries and international organizations;
+- **(2)** providing assistance under section 4 for developing countries to improve the delivery of health services by their health systems;
+- **(3)** supporting the efforts of developing countries to strengthen their indigenous health workforces and expand the supply and equitable distribution within such countries of skilled health workers by establishing under section 5 a Global Health Workforce Initiative; and
+- **(4)** ensuring, as outlined in section 6, that the laws and policies of the United States and multilateral organizations of which the United States is a member do not interfere with the ability of developing countries to establish and maintain skilled indigenous health workforces, to obtain pharmaceuticals and other medical supplies and equipment, or to otherwise develop the capacity of their health systems.
+
+## § 3. United States Global Health Strategy
+
+- **(a)** *Establishment* Not later than 1 year after the date of the enactment of this Act, the President shall transmit to Congress and make publicly available a comprehensive and integrated 5-year United States Global Health Strategy (in this section referred to as the “Global Health Strategy”) to coordinate all health-related United States foreign assistance and to integrate and harmonize such assistance with the work of relevant United States executive branch agencies, governments of other countries, and international organizations.
+- **(b)** *Goals and objectives*
+  - **(1)** *Goals* The President shall ensure that the Global Health Strategy will assist countries in achieving the health-related goals and targets of the United Nations Millennium Development Goals and Targets, including—
+    - **(A)** reducing child mortality, with special emphasis on reducing the mortality rate of children under 5 years of age by 2/3 between 1990 and 2015;
+    - **(B)** improving maternal health, with special emphasis on reducing the maternal mortality ratio by 3/4 between 1990 and 2015, and achieving universal access to reproductive health services by 2015; and
+    - **(C)** combating HIV/AIDS, tuberculosis, malaria, and other diseases, with special emphasis on halting and beginning to reverse by 2015 the spread of HIV/AIDS and the incidence of malaria and other major diseases.
+  - **(2)** *Additional objectives* The President shall ensure that the goals listed in paragraph (1) are achieved in a manner that, to the maximum extent practicable—
+    - **(A)** improves access to quality health services for poor, vulnerable, or marginalized populations in countries receiving health-related United States foreign assistance;
+    - **(B)** ensures that skilled health workers are available in sufficient numbers and on a sufficiently sustainable and equitably distributed basis within each country that their participation in programs supported by health-related United States foreign assistance does not negatively impact the health workforce of any component of a developing country’s health system that is not supported by such assistance; and
+    - **(C)** advances the efforts of developing countries to develop health systems capable of providing universal access to a comprehensive package of primary health services.
+  - **(3)** *Rule of construction* The goals and objectives listed in this subsection are in addition to and shall not be construed to supplant the goals or objectives of any program under a law, regulation, Executive order, or international commitment of the United States.
+- **(c)** *Consultation* In developing the Global Health Strategy, the President shall consult with—
+  - **(1)** each executive branch agency administering United States foreign assistance related to—
+    - **(A)** improving global health;
+    - **(B)** strengthening financial management systems;
+    - **(C)** monitoring animal and plant populations; and
+    - **(D)** addressing environmental problems such as pollution and climate change;
+  - **(2)** personnel at United States embassies and country missions involved in the administration of the types of United States foreign assistance described in paragraph (1);
+  - **(3)** the appropriate congressional committees with jurisdiction over the agencies described in paragraph (1);
+  - **(4)** civil society and nongovernmental organizations engaged in improving health care and health outcomes in developing countries, including indigenous community and faith-based organizations;
+  - **(5)** international organizations engaged in improving health care and health outcomes in developing countries and of which the United States is a voting member, with which the United States coordinates the delivery of foreign assistance, or to which the United States contributes funding for the purpose of providing such assistance;
+  - **(6)** academic organizations, private foundations, businesses, and other organizations engaged in improving health care and health outcomes in developing countries and not receiving United States funding for such purposes;
+  - **(7)** other donor nations engaged in improving health care and health outcomes in developing countries;
+  - **(8)** countries receiving health-related United States foreign assistance; and
+  - **(9)** any other global, regional, or subregional organizations or partnerships engaged in improving health care and health outcomes in developing countries.
+- **(d)** *Elements of United States Global Health Strategy* The Global Health Strategy shall include the following elements:
+  - **(1)** Plans for coordinating all health-related United States foreign assistance among the executive branch agencies authorized to deliver such assistance in order to achieve the goals listed in subsection (b)(1) in a manner that facilitates harmonization with partners at the country level and takes maximum advantage of the expertise of personnel at the United States embassy and country mission level, including plans—
+    - **(A)** that incorporate all United States programs related to global health and their goals and strategies, including programs related to child survival and maternal health, vulnerable children, family planning and reproductive health, nutrition, health systems and infrastructure, health care workforces, HIV/AIDS, tuberculosis, malaria, pandemic influenza, chronic and noncommunicable diseases, neglected diseases, and other infectious diseases;
+    - **(B)** to assist countries in strengthening their financial management, accounting, auditing, and reporting systems, and to ensure the effectiveness of such assistance;
+    - **(C)** to monitor the spread of disease among animal and plant populations, including livestock and wildlife;
+    - **(D)** to assist countries in addressing the health-related threats posed by environmental problems, including pollution and climate change; and
+    - **(E)** for oversight of all health-related United States foreign assistance, including an analysis of the capacity of each executive branch agency authorized to deliver such assistance to conduct periodic audits, inspections, and investigations and an analysis of how oversight activities should be prioritized.
+  - **(2)** Plans that describe how health-related United States foreign assistance will help developing countries strengthen and improve their health systems and the delivery of health services to achieve their national health goals and the goals of all United States programs related to global health, including the goals listed in subsection (b)(1), by means that include—
+    - **(A)** assisting developing countries to create, strengthen, and implement their own evidence-based national health strategies, including subnational health strategies where appropriate;
+    - **(B)** providing technical assistance and support to national ministries of health, or their equivalents, and other relevant ministries in overseeing the health systems of their countries and monitoring and evaluating the effectiveness of such systems in reducing mortality and improving health outcomes;
+    - **(C)** supporting the construction, expansion, rehabilitation, and maintenance of health facilities at the national and local level, and ensuring the equitable distribution and use of such facilities among and within urban, peri-urban, and rural areas in each country;
+    - **(D)** providing assistance to national ministries of health, or their equivalents, and other relevant ministries in recruiting, training, and retaining skilled health workers, managers, and administrators and in ensuring the equitable distribution of such personnel in health facilities throughout each country;
+    - **(E)** supporting the development and implementation of national health workforce plans for achieving a combined total of at least 2.3 doctors, nurses, and trained midwives per 1,000 residents, and comparable numbers of other health workers, such as paraprofessionals, community health workers, managers, and administrative and support staff, and ensuring such workers are equitably distributed within each country;
+    - **(F)** providing assistance to developing countries to create and transparently manage their own supply-chain management systems and to use existing nongovernmental systems, where appropriate, to—
+      - **(i)** efficiently and equitably distribute medical and laboratory supplies, including diagnostics, pharmaceuticals, technology, and equipment, to health facilities throughout the country; and
+      - **(ii)** perform any maintenance necessary to ensure the continued operation of medical and laboratory equipment;
+    - **(G)** supporting the development, improvement, and implementation of financial management systems and the training of financial management personnel in order to track health expenditures by the national governments of developing countries, ensure the equitable and effective allocation of such expenditures, anticipate and budget for annual resource needs, equitably mobilize additional domestic resources, and increase the accountability of the health systems of such countries to their people, including accountability at the subnational and community levels;
+    - **(H)** supporting the establishment, improvement, and implementation, where appropriate, of mechanisms to operate, manage, regulate, monitor, and evaluate a country’s health system, particularly its effectiveness in reducing mortality and improving health outcomes among the general population and for poor, vulnerable, or marginalized populations;
+    - **(I)** supporting the development and implementation of national health information systems to securely track, compile, and manage data collected by a country’s health system at the individual, community, and population level, with appropriate privacy safeguards, in order to measure the impact of health services on health outcomes, and to provide a basis for adjustments to the health system;
+    - **(J)** supporting meaningful community involvement and participation, inclusive of poor, vulnerable, or marginalized populations and their representative indigenous and civil society organizations, in decisionmaking related to national and subnational health strategies and the delivery of health services, including in decisions related to the adoption of health policies and the total amount and distribution of health funding;
+    - **(K)** further promoting the community involvement and participation described in subparagraph (J) by strengthening partnerships between government, civil society, and indigenous nongovernmental organizations, including community and faith-based organizations seeking to improve health conditions in their countries and communities;
+    - **(L)** supporting evidence-based public health education initiatives that teach healthy habits and behaviors, increase health literacy, and encourage greater utilization of the health system;
+    - **(M)** assisting countries to coordinate, regulate, and harmonize the delivery of health services provided by the United States and nongovernmental organizations, including community and faith-based organizations, private foundations, international organizations, and other donors, and to coordinate or integrate such services with the health system to the maximum extent practicable;
+    - **(N)** supporting indigenous nongovernmental organizations, including community and faith-based organizations, that seek to improve the efficiency, transparency, and delivery of health services to poor, vulnerable, or mar­gin­al­ized populations; and
+    - **(O)** using, to the maximum extent practicable, local and regional entities for the provision of technical assistance, and where the capacity of such entities is insufficient, supporting capacity building to enable them to provide such assistance.
+  - **(3)** Plans to strengthen the ability of countries receiving health-related United States foreign assistance to detect, identify, and respond to emerging public health threats by—
+    - **(A)** developing and improving laboratory capacity, including constructing or rehabilitating laboratory facilities and providing any necessary technology, equipment, or supplies;
+    - **(B)** supporting the recruitment, training, and retention of public health professionals with the expertise to monitor, respond to, and contain the spread of disease, including laboratory personnel, epidemiologists, and animal and plant inspectors;
+    - **(C)** supporting the development of integrated and comprehensive surveillance and notification systems at the national and regional level that are integrated within the health system to address the spread of emerging diseases among human, animal, and plant populations that may pose potential threats to public health; and
+    - **(D)** facilitating partnerships between health systems and relevant United States Government agencies to strengthen national and regional disease surveillance and notification systems to address the spread of emerging diseases among human, animal, and plant populations.
+  - **(4)** Plans to improve research collaboration with countries receiving health-related United States foreign assistance, including plans related to—
+    - **(A)** basic, clinical, and applied research on diseases that primarily impact developing countries, including research on medical technology and equipment, protocols, procedures, standards, and strategies to combat such diseases;
+    - **(B)** operations research to facilitate the development and administration of effective health systems and health-related programs;
+    - **(C)** support for developing indigenous research capacity, including the establishment of independent and scientific peer review processes to help countries pursue their own research agendas;
+    - **(D)** encouraging the development of sustainable, country-driven partnerships between indigenous and United States-based research institutions; and
+    - **(E)** strengthening regional research partnerships.
+  - **(5)** Plans for encouraging and assisting national governments of developing countries to pursue policies and legal frameworks that improve health outcomes and make progress toward the goals listed in subsection (b)(1), including policies and legal frameworks that—
+    - **(A)** are medically accurate and evidence-based and adhere to the latest global public health standards for prevention, treatment, and care;
+    - **(B)** integrate and deliver, to the maximum extent practicable, a comprehensive package of primary health services at the local clinic level, with appropriate and functional systems for referral to secondary and tertiary medical facilities that provide services including—
+      - **(i)** preventive care;
+      - **(ii)** prenatal and perinatal services;
+      - **(iii)** immunizations and vaccinations;
+      - **(iv)** family planning and reproductive health services;
+      - **(v)** chronic and infectious disease management;
+      - **(vi)** maternal and child health services;
+      - **(vii)** psychosocial and mental health services;
+      - **(viii)** nutritional support; and
+      - **(ix)** emergency response and triage;
+    - **(C)** promote and improve the status of women and youth, ensuring their ability to access and use health services without fear or risk of gender-based violence, reprisal, discrimination, stigmatization, or other mistreatment;
+    - **(D)** work to remove stigmatization of and discrimination against poor, vulnerable, or mar­gin­al­ized populations and to protect the rights of such populations;
+    - **(E)** provide for the equitable allocation and distribution of health resources among rural, peri-urban, and urban areas, including facilities, personnel, medicines, medical technology and equipment, and health financing;
+    - **(F)** ensure that all individuals, especially the poorest of the poor, have access to high-quality, confidential, affordable health services, including by—
+      - **(i)** encouraging the elimination of user fees or their replacement with equitable financing strategies where appropriate; and
+      - **(ii)** addressing other persistent barriers to such access, including those related to housing, transportation, language, and similar issues;
+    - **(G)** promote sustainable working conditions and policies that protect the health and safety of patients and health workers within their communities and in all medical facilities;
+    - **(H)** provide comprehensive, confidential, high-quality health services to health workers, including for chronic and infectious diseases;
+    - **(I)** respect the rights and dignity of health workers and patients;
+    - **(J)** coordinate the delivery of health services with other core development programs to better address the social determinants of health, including programs to reduce poverty, expand educational opportunities, provide access to clean water and sanitation services, improve food security and nutrition, protect women’s rights, improve access to legal services, protect the environment, and spur economic growth; and
+    - **(K)** facilitate the development and implementation of sustainable policies, legal frameworks, and capacity-building activities that actively engage and support civil society organizations and community members, including individuals from poor, vulnerable, or marginalized populations, to monitor and enforce policies related to the provision of health services.
+  - **(6)** Plans to support the efforts of national governments of developing countries in responding to health-related threats posed by environmental problems, including pollution and climate change.
+  - **(7)** Plans for a review of, including recommendations to adjust, laws and policies of the United States Government that impact the provision of health-related United States foreign assistance, including—
+    - **(A)** recruitment, training, and retention of the United States health workforce, including through the immigration of foreign health professionals to the United States;
+    - **(B)** negotiation and enforcement of bilateral, multilateral, and other international treaties and trade and investment agreements, including any provisions related to the delivery of health services or the supply of medical technology and equipment, diagnostics, or pharmaceutical products;
+    - **(C)** negotiation and voting practices within international financial institutions; and
+    - **(D)** negotiation and voting practices within the World Health Organization, the Global Fund to Fight AIDS, Tuberculosis and Malaria, the Global Alliance for Vaccines and Immunisation, and any other international organizations of which the United States is a voting member and to which the United States contributes funding.
+  - **(8)** Plans for establishing an integrated monitoring and evaluation system, coordinated at the country level with any such systems previously in existence, in order to assess the effectiveness of all health-related United States foreign assistance.
+  - **(9)** Annual resource plans for implementing the Global Health Strategy, achieving the goals listed in subsection (b)(1), and achieving the relevant goals of all United States programs related to global health, including, to the extent practicable, annual budgets, annual projected resource needs, and long-term funding commitments of—
+    - **(A)** the United States Government;
+    - **(B)** international organizations of which the United States is a voting member and to which the United States contributes funding for the purpose of providing health-related assistance to developing countries; and
+    - **(C)** countries receiving health-related United States foreign assistance.
+- **(e)** *Strategy coordinator*
+  - **(1)** *In general* The President shall designate an individual as coordinator of the Global Health Strategy (in this section referred to as the “Strategy Coordinator”).
+  - **(2)** *Duties* The duties of the Strategy Coordinator shall include—
+    - **(A)** coordinating the Global Health Strategy among all relevant executive branch agencies;
+    - **(B)** serving as a point of reference for Congress and the public regarding the implementation of the Global Health Strategy; and
+    - **(C)** producing the annual report required by subsection (g).
+- **(f)** *Performance goals and indicators* In order to measure and evaluate the effectiveness of the Global Health Strategy in achieving the goals described in subsection (b)(1) and in order to provide a basis to periodically review and adjust the Global Health Strategy, the President shall establish, where appropriate, objective and quantifiable performance goals and indicators for each element required by subsection (d).
+- **(g)** *Report* Not later than 1 year after the President’s transmission to Congress of the Global Health Strategy under subsection (a) and annually thereafter, the President shall transmit to Congress a report that includes—
+  - **(1)** a description of the impact and effectiveness of all health-related United States foreign assistance in achieving the goals listed in subsection (b)(1) and the additional objectives listed in subsection (b)(2);
+  - **(2)** a description of the progress made toward achieving the performance goals established under subsection (f);
+  - **(3)** a description of any audits, inspections, or investigations of health-related United States foreign assistance completed during the year preceding the transmission of the report, including their results, and a brief summary of any plans to undertake similar audits, inspections, or investigations during the subsequent year; and
+  - **(4)** a detailed programmatic list of expenditures for all United States programs related to global health for the fiscal year preceding the transmission of the report, including the amounts and percentages of funding that each program allocated for—
+    - **(A)** the direct provision of health services, including directly supporting health workforces that provide such services;
+    - **(B)** the purchase of commodities, including medicines;
+    - **(C)** the construction, expansion, rehabilitation, or maintenance of health facilities within a country’s health system; and
+    - **(D)** any technical assistance provided to carry out the goals and objectives of the program.
+- **(h)** *Evaluation of the Global Health Strategy by the Institute of Medicine*
+  - **(1)** *In general* The Strategy Coordinator shall enter into a contract with the Institute of Medicine of the National Academies, or, if the Institute declines, another appropriate entity, to complete an evaluation of the effectiveness of the Global Health Strategy not later than 4 years after the President’s transmission to Congress of such strategy under subsection (a).
+  - **(2)** *Elements of study* The contract required by paragraph (1) shall provide for—
+    - **(A)** an assessment of the level of coordination of health-related United States foreign assistance, including at the country-mission level;
+    - **(B)** an assessment of the progress made toward the goals listed in subsection (b)(1) and the additional objectives listed in subsection (b)(2);
+    - **(C)** an assessment of the contributions of the Global Health Strategy to strengthening health systems, improving the delivery of health services, ensuring a sustainable supply of health workers, and improving the accountability of health systems of developing countries to the people of such countries;
+    - **(D)** an assessment of the progress made toward reviewing and evaluating the impact of existing laws and policies of the United States Government related to the provision of health-related United States foreign assistance, including any recommendations for the adjustment of such laws and policies;
+    - **(E)** recommendations for improving the Global Health Strategy; and
+    - **(F)** an assessment of any additional factors that the entity with which the Strategy Coordinator contracts under paragraph (1), in consultation with the appropriate congressional committees and the Strategy Coordinator, considers appropriate.
+- **(i)** *Authorization of appropriations*
+  - **(1)** *In general* In addition to amounts otherwise made available for such purposes, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2011 through 2015 to carry out this section.
+  - **(2)** *Availability of funds* Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) are authorized to remain available until expended.
+
+## § 4. Assistance for developing countries to improve delivery of health services
+
+- **(a)** *Authorization*
+  - **(1)** *In general* The President is authorized to provide assistance to developing countries to improve the delivery of health services by the health systems of such countries.
+  - **(2)** *Authorized activities* The assistance authorized by paragraph (1) includes assistance for the following activities in order to assist a country in providing health services:
+    - **(A)** Direct support to implement particular elements of a country’s national health strategy, including—
+      - **(i)** construction, expansion, rehabilitation, and maintenance of health facilities at the national and local level, including ensuring the equitable distribution and use of such facilities among and within urban, peri-urban, and rural areas of the country;
+      - **(ii)** recruiting, training, and retaining skilled health workers, managers, and administrators, including ensuring the equitable distribution of such personnel in health facilities throughout the country;
+      - **(iii)** developing a supply-chain management system to—
+        - **(I)** efficiently, transparently, and equitably purchase and distribute medical and laboratory supplies, including diagnostics, pharmaceuticals, technology, equipment, and other health commodities, to health facilities throughout the country; and
+        - **(II)** perform any maintenance necessary to ensure the continued operation of medical and laboratory equipment; and
+      - **(iv)** providing the items described in clause (iii)(I) or funds for the purchase of such items.
+    - **(B)** Technical assistance and operational support in conjunction with direct assistance described in subparagraph (A) for national governments to develop, implement, and evaluate the relevant elements of their national health strategies and any associated plans and policies.
+    - **(C)** Support for indigenous civil society and nongovernmental organizations to monitor and evaluate the development and effectiveness of their country’s health system and national health strategy.
+  - **(3)** *Eligible entities* In carrying out paragraph (1), the President is authorized to provide assistance directly to—
+    - **(A)** the national government of each developing country that has a national health strategy, including assistance to the national ministry of health and the national ministry of finance, or their equivalents, and other relevant ministries;
+    - **(B)** indigenous nongovernmental, community, and faith-based organizations and civil society groups within each developing country that has a national health strategy;
+    - **(C)** United States-based nongovernmental organizations and academic organizations that provide health-related services or assistance in developing countries; and
+    - **(D)** international organizations involved in delivering health-related assistance and of which the United States is a voting member, with which the United States coordinates the delivery of foreign assistance, or to which the United States contributes funding for the purpose of providing such assistance.
+  - **(4)** *Relationship to national health strategies and United States Global Health Strategy* Assistance provided under paragraph (1) shall be—
+    - **(A)** aligned to the fullest extent possible with the national health strategy of each country receiving such assistance; and
+    - **(B)** in accordance with the goals and additional objectives of the United States Global Health Strategy listed in section 3(b)(1) and section 3(b)(2), respectively.
+  - **(5)** *Contract authority* The President may enter into contracts to provide the assistance authorized by paragraph (1).
+- **(b)** *Principles of national health strategies* The President shall encourage each country receiving direct assistance described in subsection (a)(2)(A) to incorporate into its national health strategy, to the maximum extent practicable, the following principles:
+  - **(1)** Goals and targets to reduce morbidity and mortality and improve health outcomes, including to reach commonly agreed-upon international and regional health targets.
+  - **(2)** Plans to provide universal access to a comprehensive package of primary health services.
+  - **(3)** Plans to increase the equitable distribution of health services among rural, peri-urban, and urban areas of the country, including plans to ensure the availability of the facilities, personnel, medical and laboratory supplies, technology and equipment, financing, and other resources necessary to provide such services.
+  - **(4)** Plans to ensure that poor, vulnerable, or marginalized populations have access to the services and necessary resources described in paragraph (3).
+  - **(5)** Transparent annual budget plans with cost estimates for reaching the goals and targets described in paragraph (1), including a description of any funding gaps and plans to fill such gaps through increased and equitable mobilization of national resources and in partnership with external donors, including the United States, and other funding sources.
+  - **(6)** Appropriate mechanisms and tools to monitor and evaluate the effectiveness of the country’s health system in improving health-service delivery and to measure progress toward achieving the goals and targets described in paragraph (1), with a particular focus on expanding access to health services for poor, vulnerable, or marginalized populations.
+  - **(7)** Appropriate financial management and auditing mechanisms for health financing in order to track health expenditures by the national government, ensure the equitable distribution of such expenditures within the country, anticipate and budget for the annual resource needs of the health system, and increase the accountability of the health system to the country’s people.
+  - **(8)** Meaningful participation of indigenous civil society and nongovernmental organizations, including community and faith-based organizations, affected communities, and poor, vulnerable, or marginalized populations, in the development and implementation of the national health strategy, including program and budget decisions, monitoring and evaluation, and implementation.
+  - **(9)** Promotion of the ability of women and youth to access and use health services without fear, gender-based violence, reprisal, discrimination, or other mistreatment.
+  - **(10)** Plans to reduce stigmatization of and discrimination against poor, vulnerable, or marginalized populations, to promote their rights, and to promote their ability to access and use health services.
+  - **(11)** Medically accurate and evidence-based policies and program plans that adhere to the latest global public health standards for prevention, treatment, and care and that are contextualized within each country.
+  - **(12)** Plans to ensure that all individuals, especially the poorest of the poor, are able to exercise their rights and have access to high-quality, confidential, affordable health services, including by—
+    - **(A)** encouraging the elimination of user fees or their replacement with equitable financing strategies where appropriate; and
+    - **(B)** addressing other persistent barriers to such access, including those related to housing, transportation, language, and similar issues.
+  - **(13)** Support for the creation of sustainable working conditions and policies that protect the health and safety of patients and health workers within their communities and in all medical facilities, including through following recommended occupational health and safety standards for health workers, including standards for training and protective technology, equipment, and supplies, as well as through other forms of infection prevention and control.
+  - **(14)** Access for health workers employed in the country’s health system to comprehensive, confidential, high-quality health services, including prevention and treatment of chronic and infectious diseases and psychosocial and mental health services.
+  - **(15)** Promotion of multisectoral harmonization through coordination and collaboration between the delivery of health services and other development programs and plans that impact public health, including programs and plans to address emerging public health threats and health-related threats posed by environmental problems and to advance applied research into diseases affecting the country.
+  - **(16)** Support for the development and implementation of sustainable policies, legal frameworks, and capacity-building activities that actively engage civil society organizations and community members, including individuals from poor, vulnerable, or marginalized populations, to monitor and enforce policies related to the provision of health services.
+- **(c)** *Partnership agreements*
+  - **(1)** *In general* The President may enter into a partnership agreement with a developing country receiving assistance under this section in which the country receives additional assistance to—
+    - **(A)** encourage the inclusion, adoption, and implementation of the principles listed in subsection (b) as part of the country’s national health strategy and any associated plans or policies; and
+    - **(B)** encourage the country to increase the amount of national resources it commits to expanding and improving the delivery of health services.
+  - **(2)** *No reduction of assistance* A partnership agreement under paragraph (1) shall not result in a reduction of the total level of health-related United States foreign assistance provided to a country below the level of such assistance provided to such country in the previous fiscal year.
+- **(d)** *Monitoring and evaluation system*
+  - **(1)** *In general* The President shall establish an integrated monitoring and evaluation system to measure the effectiveness of assistance provided under this section including, where appropriate, objective and quantifiable performance goals and indicators to measure progress toward the development and implementation of national health strategies in accordance with the principles listed in subsection (b).
+  - **(2)** *Harmonization with systems of recipient countries* To the maximum extent possible, the system established under paragraph (1) shall be harmonized with the monitoring and evaluation systems of countries receiving assistance under this section.
+- **(e)** *Report* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the President shall transmit to Congress a report describing the impact and effectiveness of the assistance provided under this section, including—
+  - **(1)** a detailed description, with respect to each country receiving assistance under this section, of the effectiveness of such assistance in improving the delivery of health services by the health system, including how such assistance was aligned with each country’s national health strategy and any associated plans or policies, as they existed before such country began receiving such assistance;
+  - **(2)** a brief summary of plans to address gaps in the delivery of health services among countries receiving assistance under this section during the following year and the resources that will be required to carry out such plans;
+  - **(3)** a detailed description of any partnership agreements entered into under subsection (c) and any potential strategies for further encouraging countries to incorporate the principles listed in subsection (b) into their national health strategies; and
+  - **(4)** a detailed programmatic list of expenditures under this section for the previous fiscal year, including the amounts and percentages of funding allocated for—
+    - **(A)** the direct provision of health services, including directly supporting health workforces that provide such services;
+    - **(B)** the purchase of commodities, including medicines;
+    - **(C)** the construction, expansion, rehabilitation, or maintenance of health facilities within a country’s health system; and
+    - **(D)** any technical assistance provided under this section, including a list of any contractors providing such assistance and the impact of such assistance in improving health outcomes and health service delivery.
+- **(f)** *Certification requirement*
+  - **(1)** *In general* The President shall certify to Congress that each contract described in paragraph (2)—
+    - **(A)** has been openly and transparently secured and provides the highest quality goods and services at the lowest cost; and
+    - **(B)** wherever possible, makes use of indigenous entities within the country receiving assistance.
+  - **(2)** *Contracts described* A contract described in this paragraph is a contract related to the construction, expansion, rehabilitation, or maintenance of health facilities, the purchase of commodities, or technical assistance that is entered into—
+    - **(A)** by the United States Government to provide health-related United States foreign assistance under this section; or
+    - **(B)** by a foreign country or other entity to carry out a program or activity receiving health-related United States foreign assistance under this section.
+- **(g)** *Authorization of appropriations*
+  - **(1)** *In general* In addition to amounts otherwise made available for such purposes, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2011 through 2015 to carry out this section.
+  - **(2)** *Availability of funds* Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) are authorized to remain available until expended.
+
+## § 5. Global Health Workforce Initiative
+
+- **(a)** *Establishment* The President is authorized to establish a Global Health Workforce Initiative (in this section referred to as the “Initiative”) to provide technical and direct financial assistance to entities described in subsection (c) to support the recruitment, training, retention, effectiveness, and equitable distribution within each country of skilled indigenous health workers as part of the health systems of developing countries in order to achieve a combined total of at least 2.3 doctors, nurses, and trained midwives per 1,000 residents, and comparable numbers of other health workers, such as paraprofessionals, community health workers, managers, and administrative and support staff.
+- **(b)** *Participating countries*
+  - **(1)** *Selection*
+    - **(A)** *In general* Not later than 90 days after the date of the enactment of this Act, the President shall select for participation in the Initiative not fewer than 12 developing countries and may, in consultation with Congress, subsequently select additional developing countries.
+    - **(B)** *Participating country defined* A country selected under subparagraph (A) is referred to in this section as a “participating country”.
+  - **(2)** *Mandatory criteria* The President shall not select a country under paragraph (1)(A) unless it meets the following criteria:
+    - **(A)** The government of the country has expressly requested the assistance of the United States Government to support the expansion of the country’s indigenous health workforce.
+    - **(B)** The country is currently developing or implementing a national health strategy.
+    - **(C)** The country is already receiving health-related United States foreign assistance and is able to effectively use additional funding from the United States or other external sources to expand its indigenous health workforce, reduce morbidity and mortality, and improve health outcomes among its population.
+    - **(D)** The country is experiencing a critical shortage of health workers, which is a significant obstacle to reducing mortality and improving health outcomes among its people and to achieving the United Nations Millennium Development Goals and other such international health targets.
+    - **(E)** The country is taking concrete steps to sustainably expand its indigenous health workforce, such as direct budgetary investments, the development and implementation of supportive policies, the development of educational, training, and clinical care and practice standards, and direct agreements or partnerships at the national or regional level with other countries or international organizations.
+    - **(F)** A health professional training institution is currently located in the country, or the country is in the process of establishing such an institution or has a partnership with such an institution in another country in the region.
+  - **(3)** *Additional criteria* The President should ensure that countries selected under paragraph (1)(A) are diverse with respect to—
+    - **(A)** total size and demography of the population;
+    - **(B)** prevalence and incidence of disease and any associated mortality rates;
+    - **(C)** levels of development and functionality of the health system;
+    - **(D)** the extent to which financial resources are available or have been committed by the country or by external funding sources to expand the indigenous health workforce;
+    - **(E)** the size of the indigenous health workforce; and
+    - **(F)** gross national product and per capita income.
+- **(c)** *Eligible entities* The following entities are eligible to receive funding under the Initiative:
+  - **(1)** The national government of each participating country, including the national ministry of health and the national ministry of finance, or their equivalents.
+  - **(2)** Indigenous nongovernmental, community, and faith-based organizations and civil society groups engaged in improving health care and health outcomes in 1 or more participating countries.
+  - **(3)** United States-based nongovernmental and academic organizations that provide health-related services or assistance in developing countries.
+  - **(4)** International organizations involved in delivering health-related assistance and of which the United States is a voting member, with which the United States coordinates the delivery of foreign assistance, or to which the United States contributes funding for the purpose of providing such assistance.
+- **(d)** *Authorized activities* The activities for which the President may provide funding under the Initiative include the following:
+  - **(1)** Technical assistance and direct support for countries to develop, strengthen, implement, evaluate, and adjust the national health workforce plans described in subsection (f).
+  - **(2)** Programs to prepare and encourage individuals to seek careers as health professionals and to serve as teachers in health professional training institutions, including through—
+    - **(A)** basic education programs;
+    - **(B)** expanding the capacity of the educational system to provide access to secondary-level and advanced math and science education;
+    - **(C)** teaching basic health literacy and supporting basic disease prevention education; and
+    - **(D)** additional educational opportunities targeted to health professionals to enable and prepare them to become effective teachers.
+  - **(3)** Expansion and improvement of health education and training of new health workers, including—
+    - **(A)** new construction, expansion, rehabilitation, and maintenance of health professional training institutions, including residential housing facilities for students, teachers, and administrators;
+    - **(B)** hiring and retention of teachers and administrators to fully staff health professional training institutions and other health worker training facilities and programs, including through continuing education, professional development, and research opportunities and such financial incentives as direct salary support and housing assistance;
+    - **(C)** providing financial incentives to students enrolled in health professional training institutions, including financial aid, housing assistance, and loan repayment in exchange for defined periods of service in the country’s health system;
+    - **(D)** supporting distance learning and community- and hospital-based clinical training;
+    - **(E)** encouraging students to pursue careers in primary care in the health system of their country of residence, especially to meet the needs of rural areas and underserved populations, while also supporting students who choose to pursue careers in health administration and management or in needed tertiary care fields;
+    - **(F)** establishing professional standards for the entire range of health workers, including doctors, nurses, trained midwives, paraprofessionals, community health workers, health administrators and managers, and support personnel;
+    - **(G)** improving the quality and diversity of health education and training courses and strengthening existing curricula, including through the integration of program planning, mangagement, leadership training, and professional standards to better meet national and local circumstances;
+    - **(H)** integrating the use of information and communications technologies, including the management of medical records and medical and laboratory supply inventories, into all health education and training courses;
+    - **(I)** providing health workers with the appropriate training to pursue health-related research, including basic, clinical, applied, and operations research to improve the efficiency and effectiveness of health interventions and encourage the development of innovative tools and approaches to support national health goals;
+    - **(J)** improving the management of health professional training institutions and other health worker training facilities and programs and reducing student attrition rates; and
+    - **(K)** encouraging partnerships between and among health professional training institutions and other health worker training facilities and programs, including on a regional level and among participating countries.
+  - **(4)** Retention programs to encourage health workers to remain employed as part of the health system, including—
+    - **(A)** direct salary support, housing assistance, and other financial incentives to enable public-sector employers of health workers to compete with private-sector employers of health workers;
+    - **(B)** providing comprehensive, confidential, high-quality health services to health workers, including prevention and treatment of chronic and infectious diseases and psychosocial and mental health services;
+    - **(C)** creating sustainable working conditions and policies that protect the health and safety of patients and health workers within their communities and in all medical facilities, including through—
+      - **(i)** following recommended occupational health and safety standards for health workers, including standards for training and protective technology, equipment, and supplies and standards for blood and injection safety; and
+      - **(ii)** other forms of infection prevention and control, including rapid access to postexposure prophylaxis in the event of exposure to HIV;
+    - **(D)** ensuring that all medical facilities maintain stocks of medical and laboratory supplies, including diagnostics, pharmaceuticals, technology, and equipment, that meet or exceed recommended standards for resource-poor settings;
+    - **(E)** encouraging efficient and effective matching of patient needs with health workers of appropriate skill levels, while providing opportunities to expand the scope of practice for all nonphysician health workers;
+    - **(F)** providing continuing education, distance learning, career advancement, and research and development opportunities, including through national- and regional-level exchange programs;
+    - **(G)** establishing programs to reinforce respect for the rights and dignity of patients and health workers; and
+    - **(H)** reevaluating and supporting the removal of any other government policies, whether at the local, regional, national, or international level, that discourage health workers from choosing to continue their employment in the health system.
+  - **(5)** Improving health workforce administration and management, including—
+    - **(A)** direct salary support to hire and retain qualified health administrators and managers of hospitals, clinics, and other such health facilities;
+    - **(B)** training and education in human resource management, leadership, and financial planning for health administrators and managers and their support staff;
+    - **(C)** developing national standards and protocols for clinical practice and program management and other quality improvement procedures and measurements for health administrators and managers to follow and enforce;
+    - **(D)** integrating staffing, resource, and referral systems between the community-level and primary, secondary, and tertiary medical facilities;
+    - **(E)** developing and implementing strategies to improve staffing systems and health worker productivity, including through regular and supportive supervision; and
+    - **(F)** developing, implementing, and evaluating health workforce policies and regulations to most effectively meet the needs of patient populations and health workers.
+  - **(6)** Ensuring the equitable distribution of health resources and health workers to meet the needs of rural areas and underserved populations, including by—
+    - **(A)** providing direct salary support, housing assistance, transportation, and other financial or nonfinancial benefits or incentives to health workers working in such areas or among such populations;
+    - **(B)** improving basic health-related infrastructure to improve access to health facilities in such areas and among such populations;
+    - **(C)** strengthening procurement and distribution supply-chain management systems to ensure that medical and laboratory supplies, including diagnostics, pharmaceuticals, technology, and equipment, can reach such areas and such populations;
+    - **(D)** improving management and administrative support in such areas and among such populations;
+    - **(E)** ensuring and prioritizing continuing onsite educational opportunities for health workers in such areas or among such populations; and
+    - **(F)** evaluating, developing, and implementing education and health workforce policies and regulations that incentivize the recruitment, training, and retention of health workers most likely to work in such areas or among such populations.
+  - **(7)** Establishing and expanding the use of information and communications technologies, including the management of human resources, medical records, and medical and laboratory supply inventories, to—
+    - **(A)** enhance the skills and knowledge of health workers;
+    - **(B)** improve consultation and referral systems; and
+    - **(C)** provide information to health administrators, managers, and planners.
+  - **(8)** Preservice and in-service health worker education and training programs to build respect for the rights and dignity of all patients and coworkers that are tailored to local contexts and developed with the participation of health workers and indigenous civil society organizations and include information about—
+    - **(A)** the rights and status of women and girls;
+    - **(B)** stigmatization of and discrimination against individuals living with diseases and against other poor, vulnerable, or marginalized populations; and
+    - **(C)** the legal, human, and civil rights of all individuals, including the right of access to health services.
+  - **(9)** Technical support for the national ministry of health, or its equivalent, of each participating country in its leadership of the health system and the development of the indigenous health workforce, including support to—
+    - **(A)** coordinate resources, funding, and strategy throughout the government;
+    - **(B)** effectively mobilize government resources and funding to support the indigenous health workforce;
+    - **(C)** improve governance, accountability, and responsiveness to the population and to civil society organizations;
+    - **(D)** reduce corruption within the health system; and
+    - **(E)** coordinate with and regulate the private-sector health workforce and any health workers employed by nongovernmental, community, and faith-based organizations, international organizations, private funding sources, or donor nations.
+  - **(10)** Support for participating countries to access funding related to health workforces and health systems from multilateral organizations or other external funding sources.
+  - **(11)** Direct support to indigenous civil society organizations that promote and advocate for an effective health system and an expanded indigenous health workforce in order for such organizations to—
+    - **(A)** monitor and evaluate health programs, expenditures, and national health workforce plans of their governments;
+    - **(B)** access other sources of domestic and international financing, on behalf of themselves or on behalf of the health systems of their countries, including national health workforces;
+    - **(C)** improve the quality, accessibility, affordability, and equitability of health services; and
+    - **(D)** measure progress toward attaining the goals of the Initiative.
+  - **(12)** Research on evidence-based policies and practices related to health workforces and health systems to improve the delivery of primary care in participating countries.
+  - **(13)** Establishing a system to annually monitor and make publicly available aggregate, nonpersonally identifiable information regarding the emigration of indigenously trained health workers from participating countries, including—
+    - **(A)** the country where the health professional was born;
+    - **(B)** the country where the health professional was educated and trained;
+    - **(C)** the country to which the health professional is immigrating in order to engage in health-related employment; and
+    - **(D)** a general classification of the title and specialty of the health professional before and after emigration.
+- **(e)** *Contract authority* The President may enter into contracts to carry out the Initiative.
+- **(f)** *National health workforce plans*
+  - **(1)** *In general* The President shall encourage participating countries to develop, strengthen, and implement national health workforce plans that—
+    - **(A)** are integrated with their national health strategies, where appropriate;
+    - **(B)** are based on the situational analysis described in paragraph (2); and
+    - **(C)** contain the elements described in paragraph (3).
+  - **(2)** *Situational analysis* The situational analysis described in this paragraph is a situational analysis of the country’s indigenous health workforce, including an initial assessment of the number per 1,000 residents of each type of health worker, including doctors, nurses, trained midwives, paraprofessionals, community health workers, managers, administrators, and support staff, and of the extent to which each such type of health worker is equitably distributed within such country.
+  - **(3)** *Plan elements* The elements described in this paragraph are the following:
+    - **(A)** Performance goals and indicators, including interim benchmarks, over a multiyear period, to achieve a combined total of at least 2.3 doctors, nurses, and trained midwives per 1,000 residents, and comparable numbers of other health workers, such as paraprofessionals, community health workers, managers, administrators, and support staff, and to ensure that such personnel are equitably distributed within the country and can carry out their positions effectively.
+    - **(B)** Objectives and plans of action to—
+      - **(i)** recruit, prepare, and encourage individuals to seek careers in the health professions;
+      - **(ii)** expand and improve health education and training programs for health workers;
+      - **(iii)** encourage health workers to remain employed in the health system;
+      - **(iv)** reduce the emigration of health workers and its impact on the indigenous health workforce and health system;
+      - **(v)** improve health workforce administration and management in the health system;
+      - **(vi)** increase access to and the placement of skilled health workers among rural, poor, and other underserved populations;
+      - **(vii)** expand the use of information and communications technologies, including the management of medical records and medical and laboratory supply inventories;
+      - **(viii)** provide preservice and in-service education and training programs to combat stigma and discrimination among health workers and reinforce respect for the rights and dignity of patients;
+      - **(ix)** improve the health and safety of health workers;
+      - **(x)** identify and describe budgetary gaps related to expanding recruitment, training, and retention of the indigenous health workforce and any financial resource mobilization efforts to close such gaps; and
+      - **(xi)** monitor and evaluate the implementation of the plan, including identifying and addressing barriers to implementation, and provide a basis for adjustments to the plan as required.
+    - **(C)** Participation and input into the development, implementation, monitoring, and evaluation of all aspects of the plan from indigenous civil society and nongovernmental, community, and faith-based organizations dedicated to improving public health and expanding the indigenous health workforce, with representation from a multisectoral group of stakeholders, including health workers and communities.
+- **(g)** *Global health workforce initiative strategy*
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the President shall transmit to Congress and make publicly available a 5-year strategy for implementing and monitoring the Initiative established under this section.
+  - **(2)** *Content* The strategy required by paragraph (1) shall include—
+    - **(A)** a description of how assistance provided under this section will be coordinated among United States Government agencies with responsibilities related to global health;
+    - **(B)** a description of how assistance provided under this section will be coordinated with each country, international organization, and other donor;
+    - **(C)** a description of how assistance provided under this section will support and encourage countries to develop the national health workforce plans described in subsection (f);
+    - **(D)** a description, for programs carried out in each participating country, of performance goals and indicators for each activity listed in subsection (d);
+    - **(E)** plans of action to reach the performance goals and indicators required by subparagraph (D); and
+    - **(F)** a description of the consultation required by paragraph (3).
+  - **(3)** *Consultation* In developing the strategy required by paragraph (1), the President shall ensure proper consultation with—
+    - **(A)** each executive branch agency authorized to deliver health workforce-related foreign assistance, including personnel at United States embassies and country missions;
+    - **(B)** the appropriate congressional committees with jurisdiction over the agencies described in subparagraph (A);
+    - **(C)** civil society and nongovernmental, community, and faith-based organizations engaged in improving health care and health outcomes and in addressing health workforce needs in developing countries;
+    - **(D)** participating countries;
+    - **(E)** international organizations engaged in delivering health-related assistance and of which the United States is a voting member, with which the United States coordinates the delivery of foreign assistance, or to which the United States contributes funding for the purpose of providing such assistance;
+    - **(F)** private foundations, businesses, and organizations that provide a significant amount of health-related assistance and do not receive United States funding for the purpose of providing such assistance;
+    - **(G)** other donor nations that provide health-related assistance to developing countries; and
+    - **(H)** any other global, regional, or subregional organizations or partnerships engaged in improving health care and health outcomes in developing countries.
+- **(h)** *Monitoring and evaluation system*
+  - **(1)** *In general* The President shall establish an integrated monitoring and evaluation system to measure the effectiveness of foreign assistance provided under the Initiative.
+  - **(2)** *Harmonization with systems of participating countries* To the maximum extent possible, the monitoring and evaluation system required by paragraph (1) shall be harmonized with and may be modified to reflect the monitoring and evaluation systems of participating countries.
+  - **(3)** *Elements of monitoring and evaluation system* The monitoring and evaluation system required by paragraph (1) shall—
+    - **(A)** establish country-specific performance goals;
+    - **(B)** establish performance indicators to be used in measuring and assessing the achievement of the performance goals established under subparagraph (A), including indicators for—
+      - **(i)** the recruitment of health workers through the absorption capacity of the educational system;
+      - **(ii)** the training of health workers through the absorption capacity, intake, and output of health professional training institutions;
+      - **(iii)** the retention of health workers by the health system;
+      - **(iv)** health worker immigration and emigration;
+      - **(v)** the distribution and density of health workers, including the relative density and absorption capacity of urban and rural health workforces and health facilities;
+      - **(vi)** vacancy rates for health-related jobs;
+      - **(vii)** the health and safety of health workers;
+      - **(viii)** the overall effectiveness and productivity of health workers and their capacity to deliver quality health services; and
+      - **(ix)** improvements in health outcomes tied directly to the efforts of health workers;
+    - **(C)** provide a basis for recommendations of adjustments to the strategy established under subsection (g) to enhance the impact of assistance provided under the Initiative and support the integration of such recommendations into the national planning processes of participating countries; and
+    - **(D)** provide regular public accessibility to all collected data in a clear and readable format.
+- **(i)** *Report*
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the President shall transmit to Congress a report describing the impact and effectiveness of the assistance provided under the Initiative.
+  - **(2)** *Content* The report required by paragraph (1) shall include—
+    - **(A)** an assessment and description, for activities within each participating country, of progress toward achieving the goals of the Initiative;
+    - **(B)** an assessment and description of the financial, policy, and other obstacles to achieving the performance goals established under subsection (h)(3)(A) and the steps taken to overcome such obstacles;
+    - **(C)** an assessment and description, for each participating country, of progress toward and obstacles to developing, strengthening, and implementing a national health workforce plan described in subsection (f), including any assistance provided by the United States to overcome such obstacles; and
+    - **(D)** an evaluation of knowledge about strengthening health workforces that was acquired through implementing the Initiative in each participating country.
+- **(j)** *Authorization of appropriations*
+  - **(1)** *In general* In addition to amounts otherwise made available for such purposes, there are authorized to be appropriated to the President to carry out this section—
+    - **(A)** $300,000,000 for fiscal year 2011;
+    - **(B)** $350,000,000 for fiscal year 2012;
+    - **(C)** $400,000,000 for fiscal year 2013;
+    - **(D)** $450,000,000 for fiscal year 2014; and
+    - **(E)** $500,000,000 for fiscal year 2015.
+  - **(2)** *Availability of funds* Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) are authorized to remain available until expended.
+
+## § 6. Relation to other United States laws and policies
+
+- **(a)** *Sense of Congress on laws and policies related to the United States domestic health workforce* It is the sense of Congress that the President, in consultation with Congress, the States, public and private medical and health organizations and groups, health professional training institutions, and patients, should take steps to address the urgent shortage of health professionals in the United States without exacerbating the shortage of health professionals in developing countries, including by—
+  - **(1)** identifying and recommending changes to United States laws, regulations, and policies that incentivize the immigration of foreign-educated health professionals into the United States from countries with recognized shortages of health professionals or further increase the reliance of the United States health care system on such professionals;
+  - **(2)** supporting policies that mitigate the impacts of recruiting foreign-educated health professionals away from their countries of origin for health-related employment in the United States and ensure the continued availability of qualified health professionals in such countries, including—
+    - **(A)** establishing relationships or partnership agreements with national and local authorities, hospitals, clinics, and health professional training institutions in source countries to—
+      - **(i)** set mutually agreed-upon time frames and processes for training and departure of foreign-educated health professionals;
+      - **(ii)** allow and provide for opportunities for foreign-educated health professionals to periodically return to their countries of origin to provide technical assistance and support to their home communities or to work in a health care facility, particularly for countries experiencing a critical lack of indigenous health workers;
+      - **(iii)** provide opportunities for visiting faculty and health professionals from the United States to provide direct technical assistance and support for the training of health professionals in source countries;
+      - **(iv)** support the direct purchase of medical or laboratory supplies, pharmaceuticals, diagnostics, technology, and equipment for use within the source country, in accordance with the law governing such products in such country;
+      - **(v)** match a portion of the remittances sent by recruited foreign-educated health professionals and direct such matching funds to health care organizations or national or local health authorities in their countries of origin; and
+      - **(vi)** create scholarships with health professional training institutions in source countries to support the training and retention of new indigenous health professionals, particularly to provide health services to poor, vulnerable, or marginalized populations;
+    - **(B)** respecting contractual obligations and other agreements of foreign-educated health professionals to serve the health systems of their countries of origin in exchange for public education or scholarships provided in such countries, including by encouraging foreign-educated health professionals to honor such agreements, and, where appropriate, requiring evidence that such agreements have been satisfied; and
+    - **(C)** ending active overseas recruitment in—
+      - **(i)** countries or areas within countries where a temporary health crisis is causing a severe shortage of health professionals;
+      - **(ii)** countries that are experiencing a chronic shortage of health workers, with fewer than a combined total of 2.3 doctors, nurses, and trained midwives per 1,000 residents; and
+      - **(iii)** countries that request the end of such recruitment, in whole or in part;
+  - **(3)** advocating the mandatory adoption of the policies described in paragraph (2) by recruiting organizations that receive United States funding;
+  - **(4)** establishing programs that allow foreign-educated health professionals working in the United States to return to their countries of origin to participate in health-related United States foreign assistance programs without impacting their immigration status in the United States;
+  - **(5)** annually monitoring and making publicly available aggregate, nonpersonally identifiable information related to foreign-educated health professionals who are recruited to or who otherwise immigrate to the United States, including information related to—
+    - **(A)** their countries of birth;
+    - **(B)** the countries where they were educated and trained to become health professionals;
+    - **(C)** the countries in which they engaged in health-related employment immediately prior to entering the United States; and
+    - **(D)** the States to which they were recruited or in which they otherwise intend to engage in health-related employment;
+  - **(6)** developing a health workforce plan for the United States that includes a specific focus on recruiting and training significant numbers of new health professionals to address the urgent shortage of health professionals in the United States, in accordance with the principles of paragraphs (1) through (4); and
+  - **(7)** supporting the World Health Organization in developing and implementing a Global Code of Practice on the International Recruitment of Health Personnel that is consistent with paragraphs (1) through (4) and that takes into consideration the views of all relevant stakeholders.
+- **(b)** *Sense of Congress on laws and policies related to bilateral and international trade* It is the sense of Congress that the President should pursue trade and investment agreements and policies that support the goals of the United States Global Health Strategy and maximize the ability of national governments to improve health outcomes and reduce mortality among their populations, including by ensuring that any trade agreement—
+  - **(1)** encourages broad access for poor, vulnerable, or marginalized populations to quality, affordable pharmaceuticals, medical products, and medical devices, including generics, if such items are covered by such agreement;
+  - **(2)** allows for the negotiation of lower prices for pharmaceuticals, especially if no generic alternative exists or the original product cannot be purchased at an affordable cost;
+  - **(3)** adheres to the principles of the 2001 World Trade Organization (in this subsection referred to as the “WTO”) Doha Declaration on Trade-Related Aspects of Intellectual Property Rights (in this subsection referred to as the “Declaration”), including measures that the Agreement on Trade-Related Aspects of Intellectual Property Rights permits countries to take to protect public health and ensure access to essential medicines;
+  - **(4)** is negotiated, implemented, monitored, and enforced with the input and participation, in an advisory capacity, of a broad range of indigenous and United States-based civil society organizations that are dedicated to improving and protecting public health;
+  - **(5)** expressly allows for the adoption of public interest licensing agreements for medications developed with significant public funding, such as—
+    - **(A)** open licensing;
+    - **(B)** nonenforcement of patents;
+    - **(C)** licensing of such products to international drug purchase facilities and patent pools; and
+    - **(D)** other mechanisms to make medications available at reduced cost;
+  - **(6)** disavows the use of trade threats, such as placement on “watchlists” or the removal of trade benefits, against countries using WTO-compliant trade flexibilities, in accordance with the principles of the Declaration, in order to protect public health and ensure access to essential medicines; and
+  - **(7)** does not result in costs of pharmaceuticals, medical products, or medical devices that are unaffordable for the general population, and does not subject national governments to any limitations with respect to the use, distribution, or manufacturing of such items that are inconsistent with the principles of the Declaration.
+- **(c)** *United States participation in international financial institutions*
+  - **(1)** *Opposition to certain user fees* The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution to oppose and vote against any proposed loan, grant, strategy, or policy of such respective institution that would require or result in the imposition of user fees or service charges on poor individuals in connection with such institution’s financing programs for primary education or primary health care, including prevention, care, and treatment for HIV/AIDS, malaria, and tuberculosis and care related to infant, child, reproductive, and maternal well-being.
+  - **(2)** *Opposition to certain IMF spending caps* The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to oppose and vote against any loan, project, agreement, memorandum, instrument, or program of the International Monetary Fund that would not exempt government spending on health care, health infrastructure, and education from national budget caps and restraints, hiring and wage ceilings, and other limits imposed by the International Monetary Fund.
+- **(d)** *Participation of health workers in United States global health programs* For all United States programs related to global health that provide foreign assistance, it shall be the policy of the United States Government to ensure that—
+  - **(1)** all health workers participating in such programs follow recommended occupational health and safety standards and have the proper training and access to the necessary protective technology, equipment, and supplies, including those for blood and injection safety, to establish and sustain safe and sanitary working conditions in accordance with accepted forms of effective infection prevention and control, including rapid access to postexposure prophylaxis in the event of exposure to HIV;
+  - **(2)** all health workers participating in such programs have access to comprehensive, confidential, high-quality health services, including prevention and treatment for chronic and infectious diseases and psychosocial and mental health services;
+  - **(3)** all health workers participating in such programs receive training about respect for the rights and dignity of all patients and coworkers that is tailored to local contexts, developed with the participation of health workers and indigenous civil society organizations, and includes information about—
+    - **(A)** the rights and status of women and girls;
+    - **(B)** stigmatization of and discrimination against individuals living with diseases and other marginalized groups; and
+    - **(C)** the legal, civil, and human rights of all individuals, including the right of access to health services; and
+  - **(4)** community health workers are—
+    - **(A)** recognized for their work;
+    - **(B)** integrated into countries’ health systems through—
+      - **(i)** a functional process by which community health workers may refer patients to other appropriate health workers; and
+      - **(ii)** the provision of ongoing support and supervision;
+    - **(C)** paid adequate salaries and offered tangible pathways for career advancement; and
+    - **(D)** when possible, recruited from underserved and rural communities.
+
+## § 7. Definitions
+
+In this Act, the following definitions apply:
+
+- **(1)** *Community health worker* The term community health worker means a health worker who is engaged in the provision of health services directly to individuals and who does not have the advanced training of a health professional.
+- **(2)** *Health professional* The term health professional means a health worker who provides health services and has received advanced training regarding the provision of such services, including doctors, nurses, midwives, pharmacists, pharmacy technicians, dentists, laboratory technicians, and clinical officers.
+- **(3)** *Health professional training institution* The term health professional training institution means an institution that trains health professionals in accordance with generally accepted standards of clinical practice and confers a degree or diploma on each graduate of a training program.
+- **(4)** *Health system* Used in relation to a country, the term health system means all components, public and private, of the health care mobilization, financing, and delivery system of such country, including health workers, health professionals, clinics, hospitals, pharmacies, institutions performing health-related research, producers of pharmaceuticals and medical equipment, and government health-service agencies.
+- **(5)** *Health worker* The term health worker means any individual who provides or supports the provision of health services, directly or indirectly, including health professionals, paraprofessionals, community health workers, social workers, caregivers, nutritionists, health administrators and managers, and government officials who set health care policy.
+- **(6)** *International financial institution* The term international financial institution means the following institutions:
+  - **(A)** The International Bank for Reconstruction and Development.
+  - **(B)** The International Development Association.
+  - **(C)** The International Finance Corporation.
+  - **(D)** The Multilateral Investment Guarantee Agency.
+  - **(E)** The International Centre for Settlement of Investment Disputes.
+  - **(F)** The Inter-American Development Bank.
+  - **(G)** The Asian Development Bank.
+  - **(H)** The Asian Development Fund.
+  - **(I)** The African Development Bank.
+  - **(J)** The African Development Fund.
+  - **(K)** The International Monetary Fund.
+  - **(L)** The North American Development Bank.
+  - **(M)** The European Bank for Reconstruction and Development.
+- **(7)** *National health strategy* Used in relation to a country, the term national health strategy means any set of policies, whether or not formally enumerated and however called, aimed at improving health outcomes in such country by improving and increasing access to the health system of such country.
+- **(8)** *Poor, vulnerable, or marginalized populations* The term poor, vulnerable, or marginalized populations means—
+  - **(A)** indigenous populations;
+  - **(B)** racial, ethnic, religious, and national minorities;
+  - **(C)** children who have lost one or both parents;
+  - **(D)** women and girls;
+  - **(E)** individuals with physical or mental disabilities;
+  - **(F)** individuals living with chronic or infectious diseases;
+  - **(G)** sexual minorities, including men who have sex with men;
+  - **(H)** sex workers;
+  - **(I)** drug users;
+  - **(J)** incarcerated and formerly incarcerated individuals;
+  - **(K)** individuals of foreign national origin;
+  - **(L)** refugees and internally displaced populations;
+  - **(M)** the elderly;
+  - **(N)** individuals who live in rural areas; and
+  - **(O)** any other group that has difficulty accessing health services because of economic, political, or social status.
