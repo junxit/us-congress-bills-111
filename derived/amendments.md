@@ -1,7 +1,7 @@
 ---
 measure: S. 3186
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in subsection (c)(1)(E), by striking “March 28, 2010” and inserting “April 30, 2010”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking “March 28, 2010” and inserting “April 30 2010”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “March 28, 2010” and inserting “April 30, 2010”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1003(a)(2)(A) of Public Law 111–118 is amended by striking “March 28, 2010”, and inserting “April 30, 2010” . | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(C), by striking “March 28, 2010” and inserting “April 30, 2010”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(C), by striking “March 29, 2010” each place it appears in clauses (ii) and (iii) and inserting “May 1, 2010”. | the bill names no machine-readable US Code section |
