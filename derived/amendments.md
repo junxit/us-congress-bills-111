@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1879
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking “or” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (E) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 4312` | strike | by striking “or” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 4312` | replace | by striking the period at the end of subparagraph (E) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `32 U.S.C. § 502` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
