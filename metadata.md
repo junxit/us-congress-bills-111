@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4872
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4872
@@ -16,12 +16,43 @@ Health Care and Education Reconciliation Act of 2010
 
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 
-## Cosponsors (15)
+## Cosponsors (46)
 
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Vitter, David [R-LA] (V000127)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
@@ -38,11 +69,54 @@ Health Care and Education Reconciliation Act of 2010
 
 - House — Budget Committee
 
-## Recorded votes (3)
+## Recorded votes (46)
 
 - 2010-03-21 — [House 111-2-166](votes/house-111-2-0166.md) — On Motion to Recommit with Instructions — **Failed** (199–232)
 - 2010-03-21 — [House 111-2-167](votes/house-111-2-0167.md) — On Passage — **Passed** (220–211)
 - 2010-03-23 — [Senate 111-2-63](votes/senate-111-2-0063.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (56–40)
+- 2010-03-24 — [Senate 111-2-64](votes/senate-111-2-0064.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2010-03-24 — [Senate 111-2-65](votes/senate-111-2-0065.md) — On the Motion to Table — **Motion to Table Agreed to** (54–43)
+- 2010-03-24 — [Senate 111-2-66](votes/senate-111-2-0066.md) — On the Motion to Table — **Motion to Table Agreed to** (56–43)
+- 2010-03-24 — [Senate 111-2-67](votes/senate-111-2-0067.md) — On the Motion to Table — **Motion to Table Agreed to** (58–41)
+- 2010-03-24 — [Senate 111-2-68](votes/senate-111-2-0068.md) — On the Motion to Table — **Motion to Table Agreed to** (57–41)
+- 2010-03-24 — [Senate 111-2-69](votes/senate-111-2-0069.md) — On the Motion — **Motion Rejected** (43–56)
+- 2010-03-24 — [Senate 111-2-70](votes/senate-111-2-0070.md) — On the Motion to Table — **Motion to Table Agreed to** (58–41)
+- 2010-03-24 — [Senate 111-2-71](votes/senate-111-2-0071.md) — On the Motion — **Motion Rejected** (40–59)
+- 2010-03-24 — [Senate 111-2-72](votes/senate-111-2-0072.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2010-03-24 — [Senate 111-2-73](votes/senate-111-2-0073.md) — On the Motion to Table — **Motion to Table Agreed to** (57–42)
+- 2010-03-24 — [Senate 111-2-74](votes/senate-111-2-0074.md) — On the Motion to Table — **Motion to Table Agreed to** (58–41)
+- 2010-03-24 — [Senate 111-2-75](votes/senate-111-2-0075.md) — On the Motion to Table — **Motion to Table Agreed to** (58–41)
+- 2010-03-24 — [Senate 111-2-76](votes/senate-111-2-0076.md) — On the Motion to Table — **Motion to Table Agreed to** (55–43)
+- 2010-03-24 — [Senate 111-2-77](votes/senate-111-2-0077.md) — On the Motion — **Motion Rejected** (43–55)
+- 2010-03-24 — [Senate 111-2-78](votes/senate-111-2-0078.md) — On the Motion to Table — **Motion to Table Agreed to** (52–46)
+- 2010-03-24 — [Senate 111-2-79](votes/senate-111-2-0079.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2010-03-24 — [Senate 111-2-80](votes/senate-111-2-0080.md) — On the Motion to Table — **Motion to Table Agreed to** (57–41)
+- 2010-03-24 — [Senate 111-2-81](votes/senate-111-2-0081.md) — On the Motion to Table — **Motion to Table Agreed to** (54–44)
+- 2010-03-24 — [Senate 111-2-82](votes/senate-111-2-0082.md) — On the Motion — **Motion Rejected** (42–56)
+- 2010-03-24 — [Senate 111-2-83](votes/senate-111-2-0083.md) — On the Motion to Table — **Motion to Table Agreed to** (54–44)
+- 2010-03-24 — [Senate 111-2-84](votes/senate-111-2-0084.md) — On the Motion to Table — **Motion to Table Agreed to** (58–39)
+- 2010-03-24 — [Senate 111-2-85](votes/senate-111-2-0085.md) — On the Motion — **Motion Rejected** (42–54)
+- 2010-03-25 — [House 111-2-194](votes/house-111-2-0194.md) — On Motion to Concur in Senate Amendments — **Passed** (220–207)
+- 2010-03-25 — [Senate 111-2-86](votes/senate-111-2-0086.md) — On the Motion to Table — **Motion to Table Agreed to** (59–37)
+- 2010-03-25 — [Senate 111-2-87](votes/senate-111-2-0087.md) — On the Motion to Table — **Motion to Table Agreed to** (61–36)
+- 2010-03-25 — [Senate 111-2-88](votes/senate-111-2-0088.md) — On the Motion — **Motion Rejected** (40–56)
+- 2010-03-25 — [Senate 111-2-89](votes/senate-111-2-0089.md) — On the Motion — **Motion Rejected** (36–59)
+- 2010-03-25 — [Senate 111-2-90](votes/senate-111-2-0090.md) — On the Motion to Table — **Motion to Table Agreed to** (55–40)
+- 2010-03-25 — [Senate 111-2-91](votes/senate-111-2-0091.md) — On the Motion — **Motion Rejected** (40–55)
+- 2010-03-25 — [Senate 111-2-92](votes/senate-111-2-0092.md) — On the Motion to Table — **Motion to Table Agreed to** (56–39)
+- 2010-03-25 — [Senate 111-2-93](votes/senate-111-2-0093.md) — On the Motion — **Motion Rejected** (40–55)
+- 2010-03-25 — [Senate 111-2-94](votes/senate-111-2-0094.md) — On the Motion — **Motion Rejected** (45–53)
+- 2010-03-25 — [Senate 111-2-95](votes/senate-111-2-0095.md) — On the Motion to Table — **Motion to Table Agreed to** (55–43)
+- 2010-03-25 — [Senate 111-2-96](votes/senate-111-2-0096.md) — On the Motion to Table — **Motion to Table Agreed to** (58–40)
+- 2010-03-25 — [Senate 111-2-97](votes/senate-111-2-0097.md) — On the Motion to Table — **Motion to Table Agreed to** (53–45)
+- 2010-03-25 — [Senate 111-2-98](votes/senate-111-2-0098.md) — On the Motion to Table — **Motion to Table Agreed to** (56–42)
+- 2010-03-25 — [Senate 111-2-99](votes/senate-111-2-0099.md) — On the Motion — **Motion Rejected** (39–56)
+- 2010-03-25 — [Senate 111-2-100](votes/senate-111-2-0100.md) — On the Motion to Table — **Motion to Table Agreed to** (56–43)
+- 2010-03-25 — [Senate 111-2-101](votes/senate-111-2-0101.md) — On the Motion to Table — **Motion to Table Agreed to** (58–40)
+- 2010-03-25 — [Senate 111-2-102](votes/senate-111-2-0102.md) — On the Motion — **Motion Rejected** (42–57)
+- 2010-03-25 — [Senate 111-2-103](votes/senate-111-2-0103.md) — On the Motion to Table — **Motion to Table Agreed to** (55–43)
+- 2010-03-25 — [Senate 111-2-104](votes/senate-111-2-0104.md) — On the Motion to Table — **Motion to Table Agreed to** (57–41)
+- 2010-03-25 — [Senate 111-2-105](votes/senate-111-2-0105.md) — On Passage of the Bill — **Bill Passed** (56–43)
 
 ## Actions
 
@@ -107,3 +181,322 @@ Health Care and Education Reconciliation Act of 2010
 - 2010-03-23 — Senate amendment submitted
 - 2010-03-23 — Senate amendment submitted
 - 2010-03-23 — Senate amendment submitted
+- 2010-03-24 — Amendment SA 3553 proposed by Senator Vitter. (consideration: CR S1978-1980, S2004; text: CR S1978) To repeal the government takeover of health care.
+- 2010-03-24 — Amendment SA 3556 proposed by Senator Coburn. (consideration: CR S1942-1944, S1998; text: CR S1942) To reduce the cost of providing federally funded prescription drugs by eliminating fraudulent payments and prohibiting coverage of Viagra for child molesters and rapists and for drugs intended to induce abortion.
+- 2010-03-24 — Amendment SA 3564 ruled out of order by the chair.
+- 2010-03-24 — Amendment SA 3577 proposed by Senator Roberts. (consideration: CR S1980, S2004-2005; text: CR S1980) To protect Medicare beneficiary access to hospital care in rural areas from recommendations by the Independent Payment Advisory Board.
+- 2010-03-24 — Amendment SA 3579 proposed by Senator Roberts. (consideration: CR S1965, S2001; text: CR S1965) To strike the medical device tax.
+- 2010-03-24 — Amendment SA 3586 proposed by Senator LeMieux. (consideration: CR S1934-1937, S1997; text: CR S1934) To enroll Members of Congress in the Medicaid program.
+- 2010-03-24 — Amendment SA 3586 ruled out of order by the chair.
+- 2010-03-24 — Amendment SA 3588 proposed by Senator Inhofe. (consideration: CR S1965-1966, S2001-2002; text: CR S1965) To exclude pediatric devices for persons with disabilities from the medical device tax.
+- 2010-03-24 — Amendment SA 3608 proposed by Senator Hutchison. (consideration: CR S1944-1957, S1998-1999; text: CR S1944-1945) To protect the right of States to opt out of a Federal health care takeover.
+- 2010-03-24 — Amendment SA 3638 proposed by Senator Collins. (consideration: CR S1957, S1999; text: CR S1957) To improve the bill by waiving the $40,000 penalty on hiring previously unemployed individuals.
+- 2010-03-24 — Amendment SA 3639 proposed by Senator Thune. (consideration: CR S1957, S1999-2000; text: CR S1957) To ensure that no State experiences a net job loss as a result of the enactment of the SAFRA Act.
+- 2010-03-24 — Amendment SA 3640 proposed by Senator Thune. (consideration: CR S1957-1959, S2000; text: CR S1958) To repeal the CLASS Act.
+- 2010-03-24 — Amendment SA 3640 ruled out of order by the chair.
+- 2010-03-24 — Amendment SA 3644 proposed by Senator Hatch. (consideration: CR S1966-1972, S2002; text: CR S1966) To protect access for America's wounded warriors.
+- 2010-03-24 — Amendment SA 3651 proposed by Senator Gregg. (consideration: CR S1972-1975, S2002-2003; text: CR S1972) To provide for a long-term fix to the Medicare sustainable growth rate formula in order to improve access for Medicare beneficiaries.
+- 2010-03-24 — Amendment SA 3651 ruled out of order by the chair.
+- 2010-03-24 — Amendment SA 3652 proposed by Senator Burr. (consideration: CR S1975-1978, S2003-2004; text: CR S1975) To protect the integrity of Department of Veterans Affairs and Department of Defense health care programs for veterans, active-duty service members, their families, widows and widowers, and orphans who have sacrificed in defense of our Nation.
+- 2010-03-24 — Considered by Senate. (consideration: CR S1923, S1993)
+- 2010-03-24 — Considered by Senate. (consideration: CR S1923, S1993-1994)
+- 2010-03-24 — Considered by Senate. (consideration: CR S1923, S1995-1996)
+- 2010-03-24 — Considered by Senate. (consideration: CR S1923, S1996)
+- 2010-03-24 — Considered by Senate. (consideration: CR S1923-2012)
+- 2010-03-24 — Motion by Senator Alexander to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions made in Senate. (consideration: CR S1923-1934; text: CR S1924)
+- 2010-03-24 — Motion by Senator Alexander to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions made in Senate. (consideration: CR S1996-1997)
+- 2010-03-24 — Motion by Senator Alexander to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions tabled in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 70. (consideration: CR S1996-1997)
+- 2010-03-24 — Motion by Senator Alexander to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions withdrawn in Senate. (consideration: CR S1928)
+- 2010-03-24 — Motion by Senator Cornyn to commit to Senate Committee on Finance with instructions made in Senate. (consideration: CR S1959-1965; text: CR S1959)
+- 2010-03-24 — Motion by Senator Cornyn to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 78. (consideration: CR S2000-2001)
+- 2010-03-24 — Motion by Senator Crapo to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 66. (consideration: CR S1923, S1994)
+- 2010-03-24 — Motion by Senator Enzi to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 67. (consideration: CR S1923, S1994-1995)
+- 2010-03-24 — Motion by Senator Hatch to commit to Senate Committee on Finance with instructions made in Senate. (consideration: CR S1937-1942; text: CR S1937)
+- 2010-03-24 — Motion by Senator Hatch to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 72. (consideration: CR S1997-1998)
+- 2010-03-24 — Motion by Senator Roberts to commit to Senate Committee on Finance with instructions made in Senate. (consideration: CR S1980-1993; text: CR S1980)
+- 2010-03-24 — Motion to table amendment SA 3553 agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 84.
+- 2010-03-24 — Motion to table amendment SA 3556 agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 73.
+- 2010-03-24 — Motion to table amendment SA 3567 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 64.
+- 2010-03-24 — Motion to table amendment SA 3570 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 65.
+- 2010-03-24 — Motion to table amendment SA 3579 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 79.
+- 2010-03-24 — Motion to table amendment SA 3582 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 68.
+- 2010-03-24 — Motion to table amendment SA 3588 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 80.
+- 2010-03-24 — Motion to table amendment SA 3608 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 74.
+- 2010-03-24 — Motion to table amendment SA 3638 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 75.
+- 2010-03-24 — Motion to table amendment SA 3639 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 76.
+- 2010-03-24 — Motion to table amendment SA 3644 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 81.
+- 2010-03-24 — Motion to table amendment SA 3652 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 83.
+- 2010-03-24 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3586 rejected in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 71.
+- 2010-03-24 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3640 rejected in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 77.
+- 2010-03-24 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3651 rejected in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 82.
+- 2010-03-24 — Motion to waive the Budget Act with respect to amendment SA 3564 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 69.
+- 2010-03-24 — Point of order raised in Senate with respect to amendment SA 3564.
+- 2010-03-24 — Point of order raised in Senate with respect to amendment SA 3577.
+- 2010-03-24 — Point of order raised in Senate with respect to amendment SA 3586.
+- 2010-03-24 — Point of order raised in Senate with respect to amendment SA 3640.
+- 2010-03-24 — Point of order raised in Senate with respect to amendment SA 3651.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3553 agreed to in Senate by Yea-Nay Vote. 58 - 39. Record Vote Number: 84.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3556 agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 73.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3567 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 64.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3570 agreed to in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 65.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3579 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 79.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3582 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 68.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3588 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 80.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3608 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 74.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3638 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 75.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3639 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 76.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3644 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 81.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 3652 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 83.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3586 rejected in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 71.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3640 rejected in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 77.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3651 rejected in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 82.
+- 2010-03-24 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3564 rejected in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 69.
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3553 proposed by Senator Vitter.(consideration: CR S1978-1980, S2004; text: CR S1978)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3556 proposed by Senator Coburn.(consideration: CR S1942-1944, S1998; text: CR S1942)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3577 proposed by Senator Roberts.(consideration: CR S1980, S2004-2005; text: CR S1980)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3579 proposed by Senator Roberts.(consideration: CR S1965, S2001; text: CR S1965)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3586 proposed by Senator LeMieux.(consideration: CR S1934-1937, S1997; text: CR S1934)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3588 proposed by Senator Inhofe.(consideration: CR S1965-1966, S2001-2002; text: CR S1965)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3608 proposed by Senator Hutchison.(consideration: CR S1944-1957, S1998-1999; text: CR S1944-1945)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3638 proposed by Senator Collins.(consideration: CR S1957, S1999; text: CR S1957)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3639 proposed by Senator Thune.(consideration: CR S1957, S1999-2000; text: CR S1957)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3640 proposed by Senator Thune.(consideration: CR S1957-1959, S2000; text: CR S1958)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3644 proposed by Senator Hatch.(consideration: CR S1966-1972, S2002; text: CR S1966)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3651 proposed by Senator Gregg.(consideration: CR S1972-1975, S2002-2003; text: CR S1972)
+- 2010-03-24 — Senate amendment proposed (on the floor): Amendment SA 3652 proposed by Senator Burr.(consideration: CR S1975-1978, S2003-2004; text: CR S1975)
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-24 — Senate amendment submitted
+- 2010-03-25 — Amendment SA 3568 proposed by Senator Bennett. (consideration: CR 3/24/2010 S2008-2009; text: CR 3/24/2010 S2008) To protect the democratic process and the right of the people of the District of Columbia to define marriage.
+- 2010-03-25 — Amendment SA 3568 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3569 proposed by Senator Grassley. (consideration: CR S2073-2074; text: CR S2073-2074) To amend title XVIII of the Social Security Act to ensure Medicare beneficiary access to physicians, eliminate sweetheart deals for frontier States, and ensure equitable reimbursement under the Medicare program for all rural states.
+- 2010-03-25 — Amendment SA 3577 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3593 proposed by Senator Ensign. (consideration: CR S2069-2070; text: CR S2069-2070) To improve access to pro bono care for medically underserved or indigent individuals by providing limited medical liability protections.
+- 2010-03-25 — Amendment SA 3593 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3634 proposed by Senator Hutchison. (consideration: CR S2077-2078; text: CR S2077-2078) To strike the 2-year limitation on the small business tax credit for taxable years after the Exchanges open.
+- 2010-03-25 — Amendment SA 3635 proposed by Senator Hutchison. (consideration: CR 3/24/2010 S2010; text: CR 3/24/2010 S2010) To repeal the sunset on marriage penalty relief and to make the election to deduct State and local sales taxes permanent.
+- 2010-03-25 — Amendment SA 3635 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3645 proposed by Senator Risch. (consideration: CR 3/24/2010 S2009-2010; text: CR 3/24/2010 S2009) To repeal the limitation on itemized medical expense deductions.
+- 2010-03-25 — Amendment SA 3665 proposed by Senator Vitter. (consideration: CR S2075; text: CR S2075) To prevent the new government entitlement program from further increasing an unsustainable deficit.
+- 2010-03-25 — Amendment SA 3665 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3668 proposed by Senator Vitter. (consideration: CR 3/24/2010 S2010-2012; text: CR 3/24/2010 S2010) To increase women's access to breast cancer screenings.
+- 2010-03-25 — Amendment SA 3681 proposed by Senator Bunning. (consideration: CR 3/24/2010 S2006-2007; text: CR 3/24/2010 S2006) To allow individuals to elect to opt out of the Medicare part A benefits.
+- 2010-03-25 — Amendment SA 3697 proposed by Senator Brownback. (consideration: CR S2074-2075; text: CR S2074) To index tax thresholds imposed under the legislation to prevent the government from using inflation to impose those taxes on individuals currently making less than $200,000 and families making less than $250,000.
+- 2010-03-25 — Amendment SA 3698 proposed by Senator Cornyn. (consideration: CR S2072-2073; text: CR S2072) To ensure that health care reform reduces health care costs for American families, small businesses, and taxpayers.
+- 2010-03-25 — Amendment SA 3699 proposed by Senator Grassley. (consideration: CR 3/24/2010 S2007-2008; text: CR 3/24/2010 S2007-2008) To provide a temporary extension of certain programs.
+- 2010-03-25 — Amendment SA 3699 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3700 proposed by Senator Coburn. (consideration: CR S2070-2071; text: CR S2070-2071) To help protect Second Amendment rights of law-abiding Americans.
+- 2010-03-25 — Amendment SA 3700 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3701 proposed by Senator Sessions. (consideration: CR S2071-2072; text: CR S2071-2072) To ensure that Americans are not require to pay for the health benefits for those here illegally by requiring the use of an effective eligibility verification system, consistent with existing law for other federal health related programs, and to also maintain the current, and well-established requirement of law, that legal immigrants should not become a "public charge" or burden to the American taxpayers, to reduce the cost of this bill, and to reduce the deficit and for other purposes.
+- 2010-03-25 — Amendment SA 3710 proposed by Senator Ensign. (consideration: CR S2076; text: CR S2076) To strike the penalty for failure to comply with the individual mandate.
+- 2010-03-25 — Amendment SA 3711 proposed by Senator Murkowski. (consideration: CR S2076-2077; text: CR S2077) To provide an inflation adjustment for the additional hospital insurance tax on high-income taxpayers.
+- 2010-03-25 — Amendment SA 3711 ruled out of order by the chair.
+- 2010-03-25 — Amendment SA 3712 proposed by Senator Cornyn. (consideration: CR S2078-2079; text: CR S2078) To give States incentives to reduce fraud, waste, and abuse in their Medicaid programs.
+- 2010-03-25 — Cleared for White House.
+- 2010-03-25 — Considered by Senate. (consideration: CR S2069-2089)
+- 2010-03-25 — DEBATE - Pursuant to H.Res. 1225, the House proceeded with ten minutes of debate on agreeing to the Senate amendments to H.R. 4872.
+- 2010-03-25 — Message on Senate action sent to the House.
+- 2010-03-25 — Motion by Senator DeMint to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 100. (consideration: CR S2075-2076; text: CR S2075)
+- 2010-03-25 — Motion by Senator Roberts to commit to Senate Committee on Finance with instructions tabled in Senate by Yea-Nay Vote. 59 - 37. Record Vote Number: 86. (consideration: CR 3/24/2010 S2005-2006)
+- 2010-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-25 — Motion to table amendment SA 3569 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 97.
+- 2010-03-25 — Motion to table amendment SA 3634 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 103.
+- 2010-03-25 — Motion to table amendment SA 3645 agreed to in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 90.
+- 2010-03-25 — Motion to table amendment SA 3668 agreed to in Senate by Yea-Nay Vote. 56 - 39. Record Vote Number: 92.
+- 2010-03-25 — Motion to table amendment SA 3681 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 87.
+- 2010-03-25 — Motion to table amendment SA 3697 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 98.
+- 2010-03-25 — Motion to table amendment SA 3698 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 96.
+- 2010-03-25 — Motion to table amendment SA 3701 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 95.
+- 2010-03-25 — Motion to table amendment SA 3710 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 101.
+- 2010-03-25 — Motion to table amendment SA 3712 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 104.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3568 rejected in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 89.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3577 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 85.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3593 rejected in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 93.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3635 rejected in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 91.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3665 rejected in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 99.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3699 rejected in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 88.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3700 rejected in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 94.
+- 2010-03-25 — Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3711 rejected in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 102.
+- 2010-03-25 — Mr. Miller, George moved that the House agree to the Senate amendments. (consideration: CR H2429-2440)
+- 2010-03-25 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 194). (text as House agreed to Senate amendment: CR H2429)
+- 2010-03-25 — Passed Senate with amendments by Yea-Nay Vote. 56 - 43. Record Vote Number: 105.
+- 2010-03-25 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 56 - 43. Record Vote Number: 105.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3568.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3593.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3635.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3665.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3699.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3700.
+- 2010-03-25 — Point of order raised in Senate with respect to amendment SA 3711.
+- 2010-03-25 — Point of order under Section 313 (b)(1)(a) of the Congressional Budget Act of 1974 (re: page 118, lines 15-25 in H.R. 4872) against the measure raised in Senate.
+- 2010-03-25 — Point of order under Section 313 (b)(1)(a) of the Congressional Budget Act of 1974 (re: page 120, lines 3-5 in H.R. 4872) against the measure raised in Senate.
+- 2010-03-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 194).(text as House agreed to Senate amendment: CR H2429)
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3569 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 97.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3634 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 103.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3645 agreed to in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 90.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3668 agreed to in Senate by Yea-Nay Vote. 56 - 39. Record Vote Number: 92.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3681 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 87.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3697 agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 98.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3698 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 96.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3701 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 95.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3710 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 101.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to table amendment SA 3712 agreed to in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 104.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3568 rejected in Senate by Yea-Nay Vote. 36 - 59. Record Vote Number: 89.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3577 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 85.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3593 rejected in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 93.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3635 rejected in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 91.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3665 rejected in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 99.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3699 rejected in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 88.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3700 rejected in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 94.
+- 2010-03-25 — Roll call votes on amendments in Senate: Motion to waive the Budget Act (all applicable budgetary discipline) with respect to amendment SA 3711 rejected in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 102.
+- 2010-03-25 — Rule H. Res. 1225 passed House.
+- 2010-03-25 — Rules Committee Resolution H. Res. 1225 Reported to House. The resolution makes in order a motion offered by the chair of the Committee on Education and Labor that the House concur in the Senate amendments to H.R. 4872. The previous question shall be considered as ordered without intervening motion or demand for division of the question. The resolution provides 10 minutes of debate on the motion. The resolution waives all points of order against consideration of the motion except those arising under clause 10 of rule XXI.
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3568 proposed by Senator Bennett.(consideration: CR 3/24/2010 S2008-2009; text: CR 3/24/2010 S2008)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3569 proposed by Senator Grassley.(consideration: CR S2073-2074; text: CR S2073-2074)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3593 proposed by Senator Ensign.(consideration: CR S2069-2070; text: CR S2069-2070)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3634 proposed by Senator Hutchison.(consideration: CR S2077-2078; text: CR S2077-2078)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3635 proposed by Senator Hutchison.(consideration: CR 3/24/2010 S2010; text: CR 3/24/2010 S2010)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3645 proposed by Senator Risch.(consideration: CR 3/24/2010 S2009-2010; text: CR 3/24/2010 S2009)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3665 proposed by Senator Vitter.(consideration: CR S2075; text: CR S2075)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3668 proposed by Senator Vitter.(consideration: CR 3/24/2010 S2010-2012; text: CR 3/24/2010 S2010)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3681 proposed by Senator Bunning.(consideration: CR 3/24/2010 S2006-2007; text: CR 3/24/2010 S2006)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3697 proposed by Senator Brownback.(consideration: CR S2074-2075; text: CR S2074)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3698 proposed by Senator Cornyn.(consideration: CR S2072-2073; text: CR S2072)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3699 proposed by Senator Grassley.(consideration: CR 3/24/2010 S2007-2008; text: CR 3/24/2010 S2007-2008)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3700 proposed by Senator Coburn.(consideration: CR S2070-2071; text: CR S2070-2071)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3701 proposed by Senator Sessions.(consideration: CR S2071-2072; text: CR S2071-2072)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3710 proposed by Senator Ensign.(consideration: CR S2076; text: CR S2076)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3711 proposed by Senator Murkowski.(consideration: CR S2076-2077; text: CR S2077)
+- 2010-03-25 — Senate amendment proposed (on the floor): Amendment SA 3712 proposed by Senator Cornyn.(consideration: CR S2078-2079; text: CR S2078)
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — Senate amendment submitted
+- 2010-03-25 — The point of order was sustained.
+- 2010-03-25 — The point of order was sustained.
+- 2010-03-25 — The previous question was ordered pursuant to the rule. (consideration: CR H2439)
