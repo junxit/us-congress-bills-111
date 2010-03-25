@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3489
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3489
@@ -38,3 +38,8 @@ To amend the Help America Vote Act of 2002 to prohibit State election officials 
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Introduced in House
 - 2009-07-31 — Referred to the House Committee on House Administration.
+- 2009-11-04 — Committee Consideration and Mark-up Session Held.
+- 2009-11-04 — Ordered to be Reported by Voice Vote.
+- 2010-03-25 — Placed on the Union Calendar, Calendar No. 263.
+- 2010-03-25 — Reported by the Committee on House Administration. H. Rept. 111-457.
+- 2010-03-25 — Reported by the Committee on House Administration. H. Rept. 111-457.
