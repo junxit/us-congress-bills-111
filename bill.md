@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1635
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,6 +38,11 @@ This Act may be cited as the “7th Generation Promise: Indian Youth Suicide Pre
       - **(i)** for males, up to 4 times greater; and
       - **(ii)** for females, up to 11 times greater; and
     - **(B)** data demonstrates that, over their lifetimes, females attempt suicide 2 to 3 times more often than males;
+  - **(4)**
+    - **(A)** the suicide rates of Indian and Alaska Native males aged 15 through 24 are—
+      - **(i)** as compared to suicide rates of males of any other racial group, up to 4 times greater; and
+      - **(ii)** as compared to suicide rates of females of any other racial group, up to 11 times greater; and
+    - **(B)** data demonstrates that, over their lifetimes, females attempt suicide 2 to 3 times more often than males;
   - **(5)**
     - **(A)** Indian tribes, especially Indian tribes located in the Great Plains, have experienced epidemic levels of suicide, up to 10 times the national average; and
     - **(B)** suicide clustering in Indian country affects entire tribal communities;
@@ -45,7 +50,7 @@ This Act may be cited as the “7th Generation Promise: Indian Youth Suicide Pre
   - **(7)**
     - **(A)** the Indian Health Service experiences health professional shortages, with physician vacancy rates of approximately 17 percent, and nursing vacancy rates of approximately 18 percent, in 2007;
     - **(B)** 90 percent of all teens who die by suicide suffer from a diagnosable mental illness at time of death;
-    - **(C)** more than 1⁄2 of teens who commit suicide have never been seen by a mental health provider; and
+    - **(C)** more than 1⁄2 of teens who commitdie by suicide have never been seen by a mental health provider; and
     - **(D)** 1/3 of health needs in Indian country relate to mental health;
   - **(8)** often, the lack of resources of Indian tribes and the remote nature of Indian reservations make it difficult to meet the requirements necessary to access Federal assistance, including grants;
   - **(9)** the Substance Abuse and Mental Health Services Administration and the Service have established specific initiatives to combat youth suicide in Indian country and among Indians and Alaska Natives throughout the United States, including the National Suicide Prevention Initiative of the Service, which has worked with Service, tribal, and urban Indian health programs since 2003;
@@ -76,11 +81,11 @@ In this Act:
   - **(A)** a member of an Indian tribe; or
   - **(B)** eligible for health services under the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
 - **(4)** *Indian country* The term Indian country has the meaning given the term in section 1151 of title 18, United States Code.
-- **(5)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
-- **(6)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
-- **(7)** *Service* The term Service means the Indian Health Service.
-- **(8)** *Telemental health* The term telemental health means the use of electronic information and telecommunications technologies to support long-distance mental health care, patient and professional-related education, public health, and health administration.
-- **(9)** *Tribal organization* The term tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+- **(5)(4)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+- **(6)(5)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+- **(7)(6)** *Service* The term Service means the Indian Health Service.
+- **(8)(7)** *Telemental health* The term telemental health means the use of electronic information and telecommunications technologies to support long-distance mental health care, patient and professional-related education, public health, and health administration.
+- **(9)(8)** *Tribal organization* The term tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 ## § 4. Indian youth telemental health demonstration project
 
@@ -151,17 +156,17 @@ In this Act:
 - **(a)** *Grant applications*
   - **(1)** *Efficiency of grant application process* The Secretary, acting through the Administration, shall carry out such measures as the Secretary determines to be necessary to maximize the time and workload efficiency of the process by which Indian tribes and tribal organizations apply for grants under any program administered by the Administration, including by providing methods other than electronic methods of submitting applications for those grants, if necessary.
   - **(2)** *Priority for certain grants*
-    - **(A)** *In general* To fulfill the trust responsibility of the United States to Indian tribes, in awarding relevant grants pursuant to a program described in subparagraph (B), the Secretary shall give priority consideration to the applications of Indian tribes or tribal organizations, as applicable, that serve populations with documented high suicide rates, regardless of whether those Indian tribes or tribal organizations possess adequate personnel or infrastructure to fulfill all applicable requirements of the relevant program.
+    - **(A)** *In general* To fulfill the trust responsibility of the United States to Indian tribes, in awarding relevant grants pursuant to a program described in subparagraph (B), the Secretary shall give priority consideration to the applicationstake into consideration the needs of Indian tribes or tribal organizations, as applicable, that serve populations with documented high suicide rates, regardless of whether those Indian tribes or tribal organizations possess adequate personnel or infrastructure to fulfill all applicable requirements of the relevant program.
     - **(B)** *Description of grant programs* A grant program referred to in subparagraph (A) is a grant program—
       - **(i)** administered by the Administration to fund activities relating to mental health, suicide prevention, or suicide-related risk factors; and
-      - **(ii)** under which an Indian tribe is an eligible recipient.
+      - **(ii)** under which an Indian tribe or tribal organization is an eligible recipient.
   - **(3)** *Clarification regarding Indian tribes and tribal organizations* Notwithstanding any other provision of law, in applying for a grant under any program administered by the Administration, no Indian tribe or tribal organization shall be required to apply through a State or State agency.
   - **(4)** *Requirements for affected States*
     - **(A)** *Definitions* In this paragraph:
       - **(i)** *Affected State* The term affected State means a State—
         - **(I)** the boundaries of which include 1 or more Indian tribes; and
         - **(II)** the application for a grant under any program administered by the Administration of which includes statewide data.
-      - **(ii)** *Indian population* The term Indian population means the total number of residents of an affected State who are members of 1 or more Indian tribes located within the affected State.
+      - **(ii)** *Indian population* The term Indian population means the total number of residents of an affected State who are members of 1 or more Indian tribes located within the affected State.are Indian.
     - **(B)** *Requirements* As a condition of receipt of a grant under any program administered by the Administration, each affected State shall—
       - **(i)** describe in the grant application—
         - **(I)** the Indian population of the affected State; and
@@ -171,6 +176,7 @@ In this Act:
           - **(aa)** the Indian population of the affected State; bears to
           - **(bb)** the total population of the affected State; and
         - **(II)** the affected State will offer to enter into a partnership with each Indian tribe located within the affected State to carry out youth suicide prevention and treatment measures for members of the Indian tribe.
+        - **(II)** the affected State will take reasonable efforts to collaborate with each Indian tribe located within the affected State to carry out youth suicide prevention and treatment measures for members of the Indian tribe.
     - **(C)** *Report* Not later than 1 year after the date of receipt of a grant described in subparagraph (B), an affected State shall submit to the Secretary a report describing the measures carried out by the affected State to ensure compliance with the requirements of subparagraph (B)(ii).
 - **(b)** *No non-Federal share requirement* Notwithstanding any other provision of law, no Indian tribe or tribal organization shall be required to provide a non-Federal share of the cost of any project or activity carried out using a grant provided under any program administered by the Administration.
 - **(c)** *Outreach for rural and isolated Indian tribes* Due to the rural, isolated nature of most Indian reservations and communities (especially those reservations and communities in the Great Plains region), the Secretary shall conduct outreach activities, with a particular emphasis on the provision of telemental health services, to achieve the purposes of this Act with respect to Indian tribes located in rural, isolated areas.
@@ -198,3 +204,85 @@ The Secretary shall carry out such activities as the Secretary determines to be 
 
 - **(1)** to increase the quantity of patients served by the Indian tribes, tribal organizations, and other mental health care providers; and
 - **(2)** for purposes of recruitment and retention.
+
+## § 7. Indian youth life skills development demonstration program
+
+- **(a)** *Purpose* The purpose of this section is to authorize the Secretary, acting through the Administration, to carry out a demonstration program to test the effectiveness of a culturally compatible, school-based, life skills curriculum for the prevention of Indian and Alaska Native adolescent suicide, including through—
+  - **(1)** the establishment of tribal partnerships to develop and implement such a curriculum, in cooperation with—
+    - **(A)** behavioral health professionals, with a priority for tribal partnerships cooperating with behavioral health professionals employed by the Service;
+    - **(B)** tribal or local school agencies; and
+    - **(C)** parent and community groups;
+  - **(2)** the provision by the Administration or the Service of—
+    - **(A)** technical expertise; and
+    - **(B)** clinicians, analysts, and educators, as appropriate;
+  - **(3)** training for teachers, school administrators, and community members to implement the curriculum;
+  - **(4)** the establishment of advisory councils composed of parents, educators, community members, trained peers, and others to provide advice regarding the curriculum and other components of the demonstration program;
+  - **(5)** the development of culturally appropriate support measures to supplement the effectiveness of the curriculum; and
+  - **(6)** projects modeled after evidence-based projects, such as programs evaluated and published in relevant literature.
+- **(b)** *Demonstration grant program*
+  - **(1)** *Definitions* In this subsection:
+    - **(A)** *Curriculum* The term curriculum means the culturally compatible, school-based, life skills curriculum for the prevention of Indian and Alaska Native adolescent suicide identified by the Secretary under paragraph (2)(A).
+    - **(B)** *Eligible entity* The term eligible entity means—
+      - **(i)** an Indian tribe;
+      - **(ii)** a tribal organization;
+      - **(iii)** any other tribally authorized entity; and
+      - **(iv)** any partnership composed of 2 or more entities described in clause (i), (ii), or (iii).
+  - **(2)** *Establishment* The Secretary, acting through the Administration, may establish and carry out a demonstration program under which the Secretary shall—
+    - **(A)** identify a culturally compatible, school-based, life skills curriculum for the prevention of Indian and Alaska Native adolescent suicide;
+    - **(B)** identify the Indian tribes that are at greatest risk for adolescent suicide;
+    - **(C)** invite those Indian tribes to participate in the demonstration program by—
+      - **(i)** responding to a comprehensive program requirement request of the Secretary; or
+      - **(ii)** submitting, through an eligible entity, an application in accordance with paragraph (4); and
+    - **(D)** provide grants to the Indian tribes identified under subparagraph (B) and eligible entities to implement the curriculum with respect to Indian and Alaska Native youths who—
+      - **(i)** are between the ages of 10 and 19; and
+      - **(ii)** attend school in a region that is at risk of high youth suicide rates, as determined by the Administration.
+  - **(3)** *Requirements*
+    - **(A)** *Term* The term of a grant provided under the demonstration program under this section shall be not less than 4 years.
+    - **(B)** *Maximum number* The Secretary may provide not more than 5 grants under the demonstration program under this section.
+    - **(C)** *Amount* The grants provided under this section shall be of equal amounts.
+    - **(D)** *Certain schools* In selecting eligible entities to receive grants under this section, the Secretary shall ensure that not less than 1 demonstration program shall be carried out at each of—
+      - **(i)** a school operated by the Bureau of Indian Education;
+      - **(ii)** a Tribal school; and
+      - **(iii)** a school receiving payments under section 8002 or 8003 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7702, 7703).
+  - **(4)** *Applications* To be eligible to receive a grant under the demonstration program, an eligible entity shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+    - **(A)** an assurance that, in implementing the curriculum, the eligible entity will collaborate with 1 or more local educational agencies, including elementary schools, middle schools, and high schools;
+    - **(B)** an assurance that the eligible entity will collaborate, for the purpose of curriculum development, implementation, and training and technical assistance, with 1 or more—
+      - **(i)** nonprofit entities with demonstrated expertise regarding the development of culturally sensitive, school-based, youth suicide prevention and intervention programs; or
+      - **(ii)** institutions of higher education with demonstrated interest and knowledge regarding culturally sensitive, school-based, life skills youth suicide prevention and intervention programs;
+    - **(C)** an assurance that the curriculum will be carried out in an academic setting in conjunction with at least 1 classroom teacher not less frequently than twice each school week for the duration of the academic year;
+    - **(D)** a description of the methods by which curriculum participants will be—
+      - **(i)** screened for behavioral health at-risk indicators; and
+      - **(ii)** if needed and on a case-by-case basis, referred to a behavioral health clinician for further assessment and treatment and with crisis response capability; and
+    - **(E)** an assurance that supportive services will be provided to curriculum participants identified as high-risk participants, including referral, counseling, and follow-up services for—
+      - **(i)** drug or alcohol abuse;
+      - **(ii)** sexual or domestic abuse; and
+      - **(iii)** depression and other relevant behavioral health concerns.
+  - **(5)** *Use of funds* An Indian tribe identified under paragraph (2)(B) or an eligible entity may use a grant provided under this subsection—
+    - **(A)** to develop and implement the curriculum in a school-based setting;
+    - **(B)** to establish an advisory council—
+      - **(i)** to advise the Indian tribe or eligible entity regarding curriculum development; and
+      - **(ii)** to provide support services identified as necessary by the community being served by the Indian tribe or eligible entity;
+    - **(C)** to appoint and train a school- and community-based cultural resource liaison, who will act as an intermediary among the Indian tribe or eligible entity, the applicable school administrators, and the advisory council established by the Indian tribe or eligible entity;
+    - **(D)** to establish an on-site, school-based, MA- or PhD-level behavioral health practitioner (employed by the Service, if practicable) to work with tribal educators and other personnel;
+    - **(E)** to provide for the training of peer counselors to assist in carrying out the curriculum;
+    - **(F)** to procure technical and training support from nonprofit or State entities or institutions of higher education identified by the community being served by the Indian tribe or eligible entity as the best suited to develop and implement the curriculum;
+    - **(G)** to train teachers and school administrators to effectively carry out the curriculum;
+    - **(H)** to establish an effective referral procedure and network;
+    - **(I)** to identify and develop culturally compatible curriculum support measures;
+    - **(J)** to obtain educational materials and other resources from the Administration or other appropriate entities to ensure the success of the demonstration program; and
+    - **(K)** to evaluate the effectiveness of the curriculum in preventing Indian and Alaska Native adolescent suicide.
+- **(c)** *Evaluations* Using such amounts made available pursuant to subsection (e) as the Secretary determines to be appropriate, the Secretary shall conduct, directly or through a grant, contract, or cooperative agreement with an entity that has experience regarding the development and operation of successful culturally compatible, school-based, life skills suicide prevention and intervention programs or evaluations, an annual evaluation of the demonstration program under this section, including an evaluation of—
+  - **(1)** the effectiveness of the curriculum in preventing Indian and Alaska Native adolescent suicide;
+  - **(2)** areas for program improvement; and
+  - **(3)** additional development of the goals and objectives of the demonstration program.
+- **(d)** *Report to Congress*
+  - **(1)** *In general* Subject to paragraph (2), not later than 180 days after the date of termination of the demonstration program, the Secretary shall submit to the Committee on Indian Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Natural Resources and the Committee on Education and Labor of the House of Representatives a final report that—
+    - **(A)** describes the results of the program of each Indian tribe or eligible entity under this section;
+    - **(B)** evaluates the effectiveness of the curriculum in preventing Indian and Alaska Native adolescent suicide;
+    - **(C)** makes recommendations regarding—
+      - **(i)** the expansion of the demonstration program under this section to additional eligible entities;
+      - **(ii)** designating the demonstration program as a permanent program; and
+      - **(iii)** identifying and distributing the curriculum through the Suicide Prevention Resource Center of the Administration; and
+    - **(D)** incorporates any public comments received under paragraph (2).
+  - **(2)** *Public comment* The Secretary shall provide a notice of the report under paragraph (1) and an opportunity for public comment on the report for a period of not less than 90 days before submitting the report to Congress.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2010 through 2014.
