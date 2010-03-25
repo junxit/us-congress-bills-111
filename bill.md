@@ -1,0 +1,26 @@
+---
+legis-num: H. RES. 1220
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1220
+
+> Raising a question of the privileges of the House.
+
+## Preamble
+
+- Whereas the Committee on Standards of Official Conduct initiated an investigtion into allegations related to earmarks and campaign contributions in the Spring of 2009;
+- Whereas, on December 2, 2009, reports and findings in seven separate matters involving the alleged connection between earmarks and campaign contributions were forwarded by the Office of Congressional Ethics to the Standards Committee;
+- Whereas, on February 26, 2010, the Standards Committee made public its report on the matter wherein the Committee found, though a widespread perception exists among corporations and lobbyists that campaign contributions provide a greater chance of obtaining earmarks, there was no evidence that members or their staff considered contributions when requesting earmarks;
+- Whereas the committee indicated that, with respect to the matters forwarded by the Office of Congressional Ethics, neither the evidence cited in the OCE's findings nor the evidence in the record before the Standards Committee provided a substantial reason to believe that violations of applicable standards of conduct occured;
+- Whereas the Office of Congressional Ethics is prohibited from reviewing activities taking place prior to March of 2008 and lacks the authority to subpoena witnesses and documents;
+- Whereas, for example, the Office of Congressional Ethics noted that in some instances documents were redacted or specific information was not provided and that, in at least on instance, they had reason to believe a witness withheld information requested and did not identify what was being withheld;
+- Whereas the Office of Congressional Ethics also noted that they were able to interview only six former employees of the PMA Group, with many former employees refusing to consent to interviews and the OCE unable to obtain evidence within PMA's possession;
+- Whereas Roll Call noted that “the committee report was five pages long and included no documentation of any evidence collected or any interviews conducted by the committee, beyond a statement that the investigation “included extensive document reviews and interviews with numerous witnesses.” ”(Roll Call, March 8, 2010);
+- Whereas it is unclear whether the Standards Committee included in their investigation any activities that occured prior to 2008;
+- Whereas it is unclear whether the Standards Committee interviewed any members in the course of their investigation;
+- Whereas it is unclear whether the Standards Committee, in the course of their investigation, initiated their own supoenas or followed the Office of Congressional Ethics recommendations to issue subpoenas: Now, therefore, be it
+
+That not later than seven days after the adoption of this resolution, the Committee on Standards of Official Conduct shall report to the House of Representatives, with respect to the activities addressed in its report of February 26, 2010, (1) how many witnesses were interviewed, (2) how many, if any, subpoenas were issued in the course of their investigation, and (3) what documents were reviewed and their availability for public review.
