@@ -1,0 +1,195 @@
+---
+measure: S. 3173
+congress: 111
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 3173 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+24 amendatory instructions. 17 executed, 7 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 26 U.S.C. § 3304
+
+> by striking “April 5, 2010” each place it appears and inserting “May 5, 2010”;
+
+| | |
+|---|---|
+| Removed | `April 5, 2010` |
+| Inserted | `May 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in the heading for subsection (b)(2), by striking “april 5, 2010” and inserting “may 5, 2010”; and
+
+| | |
+|---|---|
+| Removed | `april 5, 2010` |
+| Inserted | `may 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in subsection (b)(3), by striking “September 4, 2010” and inserting “October 2, 2010”.
+
+| | |
+|---|---|
+| Removed | `September 4, 2010` |
+| Inserted | `October 2, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in paragraph (1)(B), by striking “April 5, 2010” and inserting “May 5, 2010”;
+
+| | |
+|---|---|
+| Removed | `April 5, 2010` |
+| Inserted | `May 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in the heading for paragraph (2), by striking “april 5, 2010” and inserting “may 5, 2010”; and
+
+| | |
+|---|---|
+| Removed | `april 5, 2010` |
+| Inserted | `may 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in paragraph (3), by striking “October 5, 2010” and inserting “November 5, 2010”.
+
+| | |
+|---|---|
+| Removed | `October 5, 2010` |
+| Inserted | `November 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> by striking “April 5, 2010” each place it appears and inserting “May 5, 2010”; and
+
+| | |
+|---|---|
+| Removed | `April 5, 2010` |
+| Inserted | `May 5, 2010` |
+
+### 26 U.S.C. § 3304
+
+> in subsection (c), by striking “September 4, 2010” and inserting “October 2, 2010”.
+
+| | |
+|---|---|
+| Removed | `September 4, 2010` |
+| Inserted | `October 2, 2010` |
+
+### 26 U.S.C. § 3304
+
+> Section 5 of the Unemployment Compensation Extension Act of 2008 (Public Law 110–449; 26 U.S.C. 3304 note) is amended by striking “September 4, 2010” and inserting “October 2, 2010”.
+
+| | |
+|---|---|
+| Removed | `September 4, 2010` |
+| Inserted | `October 2, 2010` |
+
+### 42 U.S.C. § 1395l
+
+> Section 1833(g)(5) of the Social Security Act (42 U.S.C. 1395l(g)(5)), as amended by section 6 of the Temporary Extension Act of 2010 (Public Law 111–144), is amended by striking “March 31, 2009” and inserting “April 30, 2010”.
+
+| | |
+|---|---|
+| Removed | `March 31, 2009` |
+| Inserted | `April 30, 2010` |
+
+### 42 U.S.C. § 1395w-4
+
+> Section 1848(o)(1)(C)(ii) of the Social Security Act (42 U.S.C. 1395w–4(o)(1)(C)(ii)) is amended by striking “setting (whether inpatient or outpatient)” and inserting “inpatient or emergency room setting”.
+
+| | |
+|---|---|
+| Removed | `setting (whether inpatient or outpatient)` |
+| Inserted | `inpatient or emergency room setting` |
+
+### 42 U.S.C. § 1396b
+
+> Section 1903(t)(3)(D) of the Social Security Act (42 U.S.C. 1396b(t)(3)(D)) is amended by striking “setting (whether inpatient or outpatient)” and inserting “inpatient or emergency room setting”.
+
+| | |
+|---|---|
+| Removed | `setting (whether inpatient or outpatient)` |
+| Inserted | `inpatient or emergency room setting` |
+
+### 17 U.S.C. § 119
+
+> in subsection (c)(1)(E), by striking “March 28, 2010” and inserting “April 30, 2010”; and
+
+| | |
+|---|---|
+| Removed | `March 28, 2010` |
+| Inserted | `April 30, 2010` |
+
+### 17 U.S.C. § 119
+
+> in subsection (e), by striking “March 28, 2010” and inserting “April 30, 2010”.
+
+| | |
+|---|---|
+| Removed | `March 28, 2010` |
+| Inserted | `April 30, 2010` |
+
+### 17 U.S.C. § 119
+
+> Section 1003(a)(2)(A) of Public Law 111–118 is amended by striking “March 28, 2010”, and inserting “April 30, 2010”.
+
+| | |
+|---|---|
+| Removed | `March 28, 2010` |
+| Inserted | `April 30, 2010` |
+
+### 47 U.S.C. § 325
+
+> in paragraph (2)(C), by striking “March 28, 2010” and inserting “April 30, 2010”; and
+
+| | |
+|---|---|
+| Removed | `March 28, 2010` |
+| Inserted | `April 30, 2010` |
+
+### 47 U.S.C. § 325
+
+> in paragraph (3)(C), by striking “March 29, 2010” each place it appears in clauses (ii) and (iii) and inserting “May 1, 2010”.
+
+| | |
+|---|---|
+| Removed | `March 29, 2010` |
+| Inserted | `May 1, 2010` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `26 U.S.C. § 3304` | strike | in subparagraph (C), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 3304` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (a)(3)(A) of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5), as amended by section 3(a) of the Temporary Extension Act of 2010 (Public Law 111–144), is amended by striking “… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “March 31, 2010” and inserting “April 30, 2010”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “April 1, 2010” and inserting “May 1, 2010”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1012 of the Department of Defense Appropriations Act, 2010 (Public Law 111–118), as amended by section 7 of the Temporary Extension Act of 2010 (Public Law 111–144), is amended by striking “March 31, 2010” and inserting “April 30… | the bill names no machine-readable US Code section |
+| — | replace | Section 129 of the Continuing Appropriations Resolution, 2010 (Public Law 111–68), as amended by section 8 of Public Law 111–144, is amended by striking “by substituting” and all that follows through the period at the end and inserting “… | the bill names no machine-readable US Code section |
