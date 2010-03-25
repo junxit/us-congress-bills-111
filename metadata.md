@@ -1,7 +1,7 @@
 ---
 measure: S. 1830
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1830
@@ -30,3 +30,7 @@ Federal Agency Energy Efficiency Improvement Act of 2009
 - 2009-10-21 — Introduced in Senate
 - 2009-10-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2009-10-21 — Sponsor introductory remarks on measure. (CR S10642-10643)
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 335.
