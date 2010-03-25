@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3562
@@ -20,9 +20,10 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 - 2010-03-24 — Considered as unfinished business. (consideration: CR H2311)
 - 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 3/23/2010 H2235)
 - 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 3/23/2010 H2235)
+- 2010-03-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
