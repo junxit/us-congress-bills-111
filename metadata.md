@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4098
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4098
@@ -30,9 +30,10 @@ Secure Federal File Sharing Act
 - Rep. Chu, Judy [D-CA-32] (C001080)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Secure Federal File Sharing Act
 - 2010-03-24 — Considered as unfinished business. (consideration: CR H2299)
 - 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13, 1 Present (Roll no. 183). (text : CR 3/23/2010 H2237-2238)
 - 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13, 1 Present (Roll no. 183).(text : CR 3/23/2010 H2237-2238)
+- 2010-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
