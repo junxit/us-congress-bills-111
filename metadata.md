@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4938
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4938
@@ -35,3 +35,9 @@ To permit the use of previously appropriated funds to extend the Small Business 
 - 2010-03-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2105)
 - 2010-03-25 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2105)
 - 2010-03-25 — Referred to the House Committee on Small Business.
+- 2010-03-26 — Became Public Law No: 111-150.
+- 2010-03-26 — Became Public Law No: 111-150.
+- 2010-03-26 — Presented to President.
+- 2010-03-26 — Presented to President.
+- 2010-03-26 — Signed by President.
+- 2010-03-26 — Signed by President.
