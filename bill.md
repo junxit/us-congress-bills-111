@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 4970
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4970
+
+> To further the mission of the Global Justice Information Sharing Initiative Advisory Committee by continuing its development of policy recommendations and technical solutions on information sharing and interoperability, and enhancing its pursuit of benefits and cost savings for local, State, tribal, and Federal justice agencies.
+
+## § 1. Short title
+
+This Act may be cited as the “Department of Justice Global Advisory Committee Authorization Act of 2010”.
+
+## § 2. Global justice information sharing initiative advisory committee
+
+- **(a)** *Definition* In this Act, the term Committee means the Global Justice Information Sharing Initiative (Global) Advisory Committee established by the Attorney General.
+- **(b)** *Authorization* Notwithstanding section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Committee shall not terminate unless terminated by an Act of Congress. The Attorney General is authorized to provide technical and financial assistance and support services to the Committee to carry out the activities of the Committee, including the activities described in subsection (c).
+- **(c)** *Activities* In addition to any activities assigned to the Committee by the Attorney General, the Committee shall—
+  - **(1)** gather views from agencies of local, State, and tribal governments and the Federal Government and other entities that work to support public safety and justice;
+  - **(2)** recommend to the Attorney General measures to improve the administration of justice and protect the public by promoting practices and technologies for database interoperability and the secure sharing of justice and public safety information between local, State, and tribal governments and the Federal Government; and
+  - **(3)** submit to Congress an annual report regarding issues considered by the Committee and recommendations made to the Attorney General by the Committee.
+- **(d)** *Sense of congress* It is the sense of Congress that local, State, and tribal governments and other relevant entities should use the recommendations developed and disseminated by the Committee in accordance with this Act to evaluate, improve, and develop effective strategies and technologies to improve public safety and information sharing.
+- **(e)** *Funding* There are authorized to be appropriated to the Attorney General for the activities of the Committee such sums as may be necessary out of the funds made available to the Department of Justice for State and local law enforcement assistance.
+
+## § 3. Report of the attorney general on information sharing between corrections agencies, law enforcement agencies, and the interstate commission for adult offender supervision
+
+- **(a)** *Review* The Attorney General, based on input from local, State, and tribal governments through the Committee and other components of the Department of Justice, shall review the state of information sharing between corrections and law enforcement agencies of local, State, and tribal governments and of the Federal Government.
+- **(b)** *Contents* The review by the Attorney General under subsection (a) shall—
+  - **(1)** identify policy and technical barriers to effective information sharing;
+  - **(2)** identify best practices for effective information sharing; and
+  - **(3)** assess ways for information sharing to improve the awareness and safety of law enforcement and corrections officials, including information sharing by the Interstate Commission for Adult Offenders Supervision.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Attorney General shall submit to Congress a report regarding the review under this section, including a discussion of the recommendations of the Committee and the efforts of the Department of Justice to address the recommendations.
