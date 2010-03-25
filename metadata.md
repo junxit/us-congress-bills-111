@@ -1,0 +1,52 @@
+---
+measure: H.Con.Res. 258
+congress: 111
+version: Introduced in House
+---
+
+# H.Con.Res. 258
+
+Congratulating the Commandant of the Coast Guard and the Superintendent of the Coast Guard Academy and its staff for 100 years of operation of the Coast Guard Academy in New London, Connecticut, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+
+## Cosponsors (22)
+
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
+## Actions
+
+- 2010-03-25 — Introduced in House
+- 2010-03-25 — Introduced in House
+- 2010-03-25 — Referred to the House Committee on Transportation and Infrastructure.
