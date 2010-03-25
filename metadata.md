@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1586
@@ -16,7 +16,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (51)
+## Cosponsors (157)
 
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
@@ -69,14 +69,130 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Begich, Mark [D-AK] (B001265)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (11)
 
 - 2009-03-19 — [House 111-1-143](votes/house-111-1-0143.md) — On Motion to Suspend the Rules and Pass — **Passed** (328–93)
+- 2010-03-16 — [Senate 111-2-50](votes/senate-111-2-0050.md) — On the Motion to Table — **Motion to Table Agreed to** (68–29)
+- 2010-03-16 — [Senate 111-2-51](votes/senate-111-2-0051.md) — On the Amendment — **Amendment Agreed to** (87–11)
+- 2010-03-16 — [Senate 111-2-52](votes/senate-111-2-0052.md) — On the Motion — **Motion Rejected** (41–57)
+- 2010-03-16 — [Senate 111-2-53](votes/senate-111-2-0053.md) — On the Amendment — **Amendment Rejected** (42–55)
+- 2010-03-18 — [Senate 111-2-57](votes/senate-111-2-0057.md) — On the Motion — **Motion Rejected** (56–40)
+- 2010-03-18 — [Senate 111-2-58](votes/senate-111-2-0058.md) — On the Motion — **Motion Rejected** (27–70)
+- 2010-03-18 — [Senate 111-2-59](votes/senate-111-2-0059.md) — On the Motion — **Motion Rejected** (41–56)
+- 2010-03-18 — [Senate 111-2-60](votes/senate-111-2-0060.md) — On the Amendment — **Amendment Rejected** (26–70)
+- 2010-03-22 — [Senate 111-2-61](votes/senate-111-2-0061.md) — On Passage of the Bill — **Bill Passed** (93–0)
+- 2010-03-25 — [House 111-2-190](votes/house-111-2-0190.md) — On Concurring in Senate Amendments, With Amendment to Senate Amendment To Text — **Passed** (276–145)
 
 ## Actions
 
@@ -93,3 +209,328 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2009-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 328 - 93 (Roll no. 143).(text: CR H3655-3656)
 - 2009-03-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-03-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
+- 2010-03-10 — Amendment SA 3452 proposed by Senator Rockefeller. (consideration: CR S1340-1346) In the nature of a substitute
+- 2010-03-10 — Amendment SA 3453 proposed by Senator Sessions to Amendment SA 3452. (consideration: CR S1350-1352) To reduce the deficit by establishing discretionary spending caps.
+- 2010-03-10 — Amendment SA 3456 proposed by Senator Lieberman to Amendment SA 3452. (consideration: CR S1350-1352) To reauthorize the DC opportunity scholarship program.
+- 2010-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1340-1352)
+- 2010-03-10 — Senate amendment proposed (on the floor): Amendment SA 3452 proposed by Senator Rockefeller.(consideration: CR S1340-1346)
+- 2010-03-10 — Senate amendment proposed (on the floor): Amendment SA 3453 proposed by Senator Sessions to Amendment SA 3452.(consideration: CR S1350-1352)
+- 2010-03-10 — Senate amendment proposed (on the floor): Amendment SA 3456 proposed by Senator Lieberman to Amendment SA 3452.(consideration: CR S1350-1352)
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-10 — Senate amendment submitted
+- 2010-03-11 — Amendment SA 3454 proposed by Senator DeMint to Amendment SA 3452. (consideration: CR S1429-1434; text: CR S1429) To establish an earmark moratorium for fiscal years 2010 and 2011.
+- 2010-03-11 — Amendment SA 3458 proposed by Senator Vitter to Amendment SA 3452. (consideration: CR S1429; text: CR S1429) To clarify application requirements relating to the coastal impact assistance program.
+- 2010-03-11 — Amendment SA 3470 proposed by Senator Feingold to Amendment SA 3452. (consideration: CR S1434-1437; text: CR S1434) To provide for the rescission of unused transportation earmarks and to establish a general reporting requirement for any unused earmarks.
+- 2010-03-11 — Considered by Senate. (consideration: CR S1429)
+- 2010-03-11 — Considered by Senate. (consideration: CR S1429, S1448-1453; text as modified: CR S1448-1450)
+- 2010-03-11 — Considered by Senate. (consideration: CR S1429-1437)
+- 2010-03-11 — Considered by Senate. (consideration: CR S1429-1437, S1437-1453)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3454 proposed by Senator DeMint to Amendment SA 3452.(consideration: CR S1429-1434; text: CR S1429)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3458 proposed by Senator Vitter to Amendment SA 3452.(consideration: CR S1429; text: CR S1429)
+- 2010-03-11 — Senate amendment proposed (on the floor): Amendment SA 3470 proposed by Senator Feingold to Amendment SA 3452.(consideration: CR S1434-1437; text: CR S1434)
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-11 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-15 — Senate amendment submitted
+- 2010-03-16 — Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number:  53.
+- 2010-03-16 — Amendment SA 3462 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3462 proposed by Senator Rockefeller for Senator Bennett to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1604) To authorize the Secretary of Transportation to release restrictions on the use of certain property conveyed to the City of St. George, Utah, for airport purposes.
+- 2010-03-16 — Amendment SA 3467 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3467 proposed by Senator Rockefeller for Senator Reid to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1605) To authorize Clark County, Nevada, to permit the use of certain lands in the Las Vegas McCarran International Airport Environs Overlay District for transient lodging and associated facilities.
+- 2010-03-16 — Amendment SA 3470 as modified agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 51. (text as modified: CR S1598)
+- 2010-03-16 — Amendment SA 3472 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3472 proposed by Senator McCain to Amendment SA 3452. (consideration: CR S1582-1588, S1604-1606; text: CR S1582, S1605) To prohibit the use of passenger facility charges for the construction of bicycle storage facilities.
+- 2010-03-16 — Amendment SA 3473 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1605)
+- 2010-03-16 — Amendment SA 3473 proposed by Senator Rockefeller for Senator Lautenberg to Amendment SA 3452. (consideration: CR S1604-1606) To require a report on Newark Liberty Airport air traffic control.
+- 2010-03-16 — Amendment SA 3474 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1605)
+- 2010-03-16 — Amendment SA 3474 proposed by Senator Rockefeller for Senator Barrasso to Amendment SA 3452. (consideration: CR S1604-1606) To require the Administrator to prioritize the review of construction projects that are carried out in cold weather States.
+- 2010-03-16 — Amendment SA 3475 proposed by Senator McCain to Amendment SA 3452. (consideration: CR S1582-1588; text: CR S1582) To prohibit earmarks in years in which there is a deficit.
+- 2010-03-16 — Amendment SA 3482 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1605)
+- 2010-03-16 — Amendment SA 3482 proposed by Senator Rockefeller for Senator Durbin. (consideration: CR S1604-1606) To require the Secretary of Transportation to conduct a study of airline and intercity rail codeshare arrangements.
+- 2010-03-16 — Amendment SA 3486 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1605)
+- 2010-03-16 — Amendment SA 3486 proposed by Senator Rockefeller for Senator Schumer to Amendment SA 3452. (consideration: CR S1604-1606) To impose an additional tax on bonuses received from certain TARP recipients.
+- 2010-03-16 — Amendment SA 3487 agreed to in Senate by Unanimous Consent. (text as modified: CR S1605)
+- 2010-03-16 — Amendment SA 3487 proposed by Senator Rockefeller for Senator Bingaman to Amendment SA 3452. (consideration: CR S1604-1606) To preserve the essential air service program.
+- 2010-03-16 — Amendment SA 3497 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3497 proposed by Senator Rockefeller for Senator Cardin to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1605) To extend the termination date for the final order with respect to determining mileage eligibility for essential air service.
+- 2010-03-16 — Amendment SA 3503 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3503 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1605) To require an ongoing monitoring of and report on the New York/New Jersey/Philadelphia Metropolitan Area Airspace Redesign.
+- 2010-03-16 — Amendment SA 3504 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3504 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1605) To require the Administrator of the Federal Aviation Administration to conduct a study of the safety impact of distracted pilots.
+- 2010-03-16 — Amendment SA 3508 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3508 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1605-1606) To require the Comptroller General of the United States to study the impact of increases in fuel prices on the long-term viability of the Airport and Airway Trust Fund and on the aviation industry in general.
+- 2010-03-16 — Amendment SA 3509 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3509 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1606) To require the Administrator of the Federal Aviation Administration to identify the benefits of ADS-B for small and medium-sized airports and general aviation users.
+- 2010-03-16 — Amendment SA 3510 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3510 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1606) To extend conditionally the deadlines for equipping aircraft with ADS-B technology.
+- 2010-03-16 — Amendment SA 3527 proposed by Senator McCain to Amendment SA 3452. (consideration: CR S1582-1588; text: CR S1582) To require the Administrator of the Federal Aviation Administration to develop a financing proposal for fully funding the development and implementation of technology for the Next Generation Air Transportation System.
+- 2010-03-16 — Amendment SA 3528 proposed by Senator McCain to Amendment SA 3452. (consideration: CR S1582-1588; text: CR S1582-1583) To provide standards for determining whether the substantial restoration of the natural quiet and experience of the Grand Canyon National Park has been achieved and to clarify regulatory authority with respect to commercial air tours operating over the Park.
+- 2010-03-16 — Amendment SA 3531 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Amendment SA 3531 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452. (consideration: CR S1604-1606; text: CR S1606) To discontinue a Federal program that has never been used since its creation in 2003.
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582, S1588-1596, S1604)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582, S1598, S1602-1603)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582, S1598, S1603-1604, text as modified: CR S1598)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582, S1598-1602)
+- 2010-03-16 — Considered by Senate. (consideration: CR S1582-1588, S1588-1596, S1597-1598, S1598-1607)
+- 2010-03-16 — Motion to table amendment SA 3454 agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 50.
+- 2010-03-16 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3458 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 52.
+- 2010-03-16 — Point of order that amendment SA 3458 violates Budget Act raised in Senate.
+- 2010-03-16 — Roll call votes on amendments in Senate: Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number:  53.
+- 2010-03-16 — Roll call votes on amendments in Senate: Amendment SA 3470 as modified agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 51.(text as modified: CR S1598)
+- 2010-03-16 — Roll call votes on amendments in Senate: Motion to table amendment SA 3454 agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 50.
+- 2010-03-16 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3458 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 52.
+- 2010-03-16 — SA 3458 fell when motion to waive all applicable budgetary discipline rejected.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3462 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3467 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3470 as modified agreed to in Senate by Yea-Nay Vote. 87 - 11. Record Vote Number: 51.(text as modified: CR S1598)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3472 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3473 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1605)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3474 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1605)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3482 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1605)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3486 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1605)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3487 agreed to in Senate by Unanimous Consent.(text as modified: CR S1605)
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3497 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3503 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3504 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3508 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3509 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3510 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment agreed to: Amendment SA 3531 agreed to in Senate by Unanimous Consent.
+- 2010-03-16 — Senate amendment not agreed to: Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number:  53.
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3462 proposed by Senator Rockefeller for Senator Bennett to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1604)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3467 proposed by Senator Rockefeller for Senator Reid to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1605)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3472 proposed by Senator McCain to Amendment SA 3452.(consideration: CR S1582-1588, S1604-1606; text: CR S1582, S1605)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3473 proposed by Senator Rockefeller for Senator Lautenberg to Amendment SA 3452.(consideration: CR S1604-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3474 proposed by Senator Rockefeller for Senator Barrasso to Amendment SA 3452.(consideration: CR S1604-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3475 proposed by Senator McCain to Amendment SA 3452.(consideration: CR S1582-1588; text: CR S1582)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3482 proposed by Senator Rockefeller for Senator Durbin.(consideration: CR S1604-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3486 proposed by Senator Rockefeller for Senator Schumer to Amendment SA 3452.(consideration: CR S1604-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3487 proposed by Senator Rockefeller for Senator Bingaman to Amendment SA 3452.(consideration: CR S1604-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3497 proposed by Senator Rockefeller for Senator Cardin to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1605)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3503 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1605)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3504 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1605)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3508 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1605-1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3509 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3510 proposed by Senator Rockefeller for Senator Johanns to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1606)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3527 proposed by Senator McCain to Amendment SA 3452.(consideration: CR S1582-1588; text: CR S1582)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3528 proposed by Senator McCain to Amendment SA 3452.(consideration: CR S1582-1588; text: CR S1582-1583)
+- 2010-03-16 — Senate amendment proposed (on the floor): Amendment SA 3531 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452.(consideration: CR S1604-1606; text: CR S1606)
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-16 — Senate amendment submitted
+- 2010-03-17 — Amendment SA 3467, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S1644)
+- 2010-03-17 — Amendment SA 3548 proposed by Senator Pryor. (consideration: CR S1657-1660, S1664) To reduce the deficit by establishing discretionary spending caps.
+- 2010-03-17 — Considered by Senate. (consideration: CR S1647)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1647)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1647)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1647)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1647-1648, S1652-1660, S1664)
+- 2010-03-17 — Considered by Senate. (consideration: CR S1648)
+- 2010-03-17 — Senate amendment proposed (on the floor): Amendment SA 3548 proposed by Senator Pryor.(consideration: CR S1657-1660, S1664)
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-17 — Senate amendment submitted
+- 2010-03-18 — Amendment SA 3475 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 60.
+- 2010-03-18 — Amendment SA 3549 proposed by Senator Inhofe to Amendment SA 3475. (consideration: CR S1717-1719, S1721-1723) To reduce the deficit by establishing discretionary spending caps for non-security spending.
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693, S1694-1695, S1716)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693, S1695-1697, S1715-1716)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693, S1697-1700, S1723)
+- 2010-03-18 — Considered by Senate. (consideration: CR S1693-1736)
+- 2010-03-18 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3453 rejected in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 57.
+- 2010-03-18 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3548 rejected in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 58.
+- 2010-03-18 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3549 rejected in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 59.
+- 2010-03-18 — Point of order that amendment SA 3453 violates the Budget Act raised in Senate.
+- 2010-03-18 — Point of order that amendment SA 3548 violates the Budget Act raised in Senate.
+- 2010-03-18 — Point of order that amendment SA 3549 violates the Budget Act raised in Senate.
+- 2010-03-18 — Roll call votes on amendments in Senate: Amendment SA 3475 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 60.
+- 2010-03-18 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3453 rejected in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 57.
+- 2010-03-18 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3548 rejected in Senate by Yea-Nay Vote. 27 - 70. Record Vote Number: 58.
+- 2010-03-18 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3549 rejected in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 59.
+- 2010-03-18 — SA 3453 fell when motion to waive all applicable budgetary discipline rejected.
+- 2010-03-18 — SA 3548 fell when motion to waive all applicable budgetary discipline rejected.
+- 2010-03-18 — SA 3549 fell when motion to waive all applicable budgetary discipline rejected.
+- 2010-03-18 — Senate amendment not agreed to: Amendment SA 3475 not agreed to in Senate by Yea-Nay Vote. 26 - 70. Record Vote Number: 60.
+- 2010-03-18 — Senate amendment proposed (on the floor): Amendment SA 3549 proposed by Senator Inhofe to Amendment SA 3475.(consideration: CR S1717-1719, S1721-1723)
+- 2010-03-18 — Senate amendment submitted
+- 2010-03-18 — Senate amendment submitted
+- 2010-03-19 — Considered by Senate. (consideration: CR S1760)
+- 2010-03-19 — Considered by Senate. (consideration: CR S1760)
+- 2010-03-19 — Considered by Senate. (consideration: CR S1760)
+- 2010-03-19 — Considered by Senate. (consideration: CR S1760, S1763-1764, S1772-1774)
+- 2010-03-22 — Amendment SA 3452 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3469 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3469 proposed by Senator Rockefeller for Senator Reid to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1805-1806) To require the Secretary of the Interior to convey to Clark County, Nevada, certain public land for the development of flood mitigation infrastructure for the Southern Nevada Supplemental Airport in the State of Nevada.
+- 2010-03-22 — Amendment SA 3476 proposed by Senator Hutchison for Senator Ensign to Amendment SA 3452. (consideration: CR S1798-1805; text as modified: CR S1799) To enhance air travel opportunities to and from the National Capital.
+- 2010-03-22 — Amendment SA 3479 as modified agreed to in Senate by Unanimous Consent. (text corrected as modified: CR S1809)
+- 2010-03-22 — Amendment SA 3479 proposed by Senator Rockefeller for Senator Nelson FL to Amendment SA 3452. (consideration: CR S1805-1809, S1810; text: CR S1806) To allow for the simultaneous inclusion of more than one General Aviation airport in the Military Airport Program.
+- 2010-03-22 — Amendment SA 3483 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1806-1807)
+- 2010-03-22 — Amendment SA 3483 proposed by Senator Rockefeller for Senator Durbin to Amendment SA 3452. (consideration: CR S1805-1809) To authorize the Administrator of the Federal Aviation Administration to make a grant to develop best practices and metrics with respect to the sustainable design, construction, planning, maintenance, and operation of airports.
+- 2010-03-22 — Amendment SA 3488 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3488 proposed by Senator Rockefeller for Senator Warner to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1806) To allow aircraft owners and operators to accept reimbursement for voluntary medical transportation.
+- 2010-03-22 — Amendment SA 3492 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3492 proposed by Senator Rockefeller for Senator Begich to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1806) To provide a limited exemption from compliance with FAA and PHMSA standards for the air transportation within Alaska of cylinders of compressed oxygen, nitrous oxide, or other oxidizing gases without regard to the end use of the cylinders.
+- 2010-03-22 — Amendment SA 3494 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3494 proposed by Senator Rockefeller for Senator Wicker to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1806) To correct an error related to Amtrak security in the enrollment of the Consolidated Appropriations Act, 2010.
+- 2010-03-22 — Amendment SA 3506 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807)
+- 2010-03-22 — Amendment SA 3506 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452. (consideration: CR S1805-1809) To ensure that all consumers are able to easily and fairly compare airfares and other costs applicable to tickets for air transportation, including all taxes and fees.
+- 2010-03-22 — Amendment SA 3511 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3511 proposed by Senator Rockefeller for Senator Cantwell to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1806) To require a semiannual report on the status of the Greener Skies project.
+- 2010-03-22 — Amendment SA 3514 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807)
+- 2010-03-22 — Amendment SA 3514 proposed by Senator Rockefeller for Senator Feingold to Amendment SA 3452. (consideration: CR S1805-1809) To include the modernization, renovation, and repairs of buildings to meet the criteria for being high-performance green buildings as airport development.
+- 2010-03-22 — Amendment SA 3520 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807)
+- 2010-03-22 — Amendment SA 3520 proposed by Senator Rockefeller for Senator Murkowski to Amendment SA 3452. (consideration: CR S1805-1809) To develop a monitoring system for flight service specialist staffing and training under service contracts for flight service stations.
+- 2010-03-22 — Amendment SA 3525 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1808)
+- 2010-03-22 — Amendment SA 3525 proposed by Senator Rockefeller for Senator Cantwell to Amendment SA 3452. (consideration: CR S1805-1809) To require the Secretary of Transportation and the Secretary of Commerce to develop a plan for flying scientific instruments on commercial flights.
+- 2010-03-22 — Amendment SA 3527 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807)
+- 2010-03-22 — Amendment SA 3532 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3532 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1808) To set the fee to be paid by commercial air tour operations over a national park at an amount sufficient to offset all of the costs incurred by the Federal Government to develop air tour management plans for national parks.
+- 2010-03-22 — Amendment SA 3534 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1808)
+- 2010-03-22 — Amendment SA 3534 proposed by Senator Rockefeller for Senator Wyden to Amendment SA 3452. (consideration: CR S1805-1809) To amend section 40128 of title 49, United States Code, relating to air tour management plans at national parks.
+- 2010-03-22 — Amendment SA 3538 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807)
+- 2010-03-22 — Amendment SA 3538 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452. (consideration: CR S1805-1809) To conduct audits of certain small airports to analyze the accrual of annual passenger enplanements and to modify the method for apportioning amounts to airports for airport improvements.
+- 2010-03-22 — Amendment SA 3539 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1808)
+- 2010-03-22 — Amendment SA 3539 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452. (consideration: CR S1805-1809) To apportion amounts to airports for airport improvements in proportion to the amounts of air traffic at the airports and to limit aggregate apportionments to the aggregate amount apportioned for fiscal year 2009.
+- 2010-03-22 — Amendment SA 3541 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1807-1808)
+- 2010-03-22 — Amendment SA 3541 proposed by Senator Rockefeller for Senator Feinstein to Amendment SA 3452. (consideration: CR S1805-1809) To require the Administrator of the Federal Aviation Administration to conduct a study of air quality in aircraft cabins.
+- 2010-03-22 — Amendment SA 3543 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3543 proposed by Senator Rockefeller for Senator Hutchison to Amendment SA 3452. (consideration: CR S1805-1809; text: CR S1807) To authorize the FAA to provide financial assistance for NextGen equipage of aircraft.
+- 2010-03-22 — Amendment SA 3555 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Amendment SA 3555 proposed by Senator Rockefeller. To amend the title.
+- 2010-03-22 — Considered by Senate. (consideration: CR S1790)
+- 2010-03-22 — Considered by Senate. (consideration: CR S1790, S1805-1809)
+- 2010-03-22 — Considered by Senate. (consideration: CR S1790-1798)
+- 2010-03-22 — Considered by Senate. (consideration: CR S1790-1810)
+- 2010-03-22 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 93 - 0. Record Vote Number: 61. (text: CR S1887-1921)
+- 2010-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 93 - 0. Record Vote Number: 61.(text: CR S1887-1921)
+- 2010-03-22 — Proposed amendment SA 3476 withdrawn in Senate. (consideration: CR S1805)
+- 2010-03-22 — Proposed amendment SA 3528 withdrawn in Senate. (consideration: CR S1795)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3452 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3469 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3479 as modified agreed to in Senate by Unanimous Consent.(text corrected as modified: CR S1809)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3483 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1806-1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3488 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3492 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3494 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3506 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3511 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3514 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3520 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3525 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1808)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3527 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3532 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3534 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1808)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3538 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3539 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1808)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3541 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1807-1808)
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3543 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment agreed to: Amendment SA 3555 agreed to in Senate by Unanimous Consent.
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3469 proposed by Senator Rockefeller for Senator Reid to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1805-1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3476 proposed by Senator Hutchison for Senator Ensign to Amendment SA 3452.(consideration: CR S1798-1805; text as modified: CR S1799)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3479 proposed by Senator Rockefeller for Senator Nelson FL to Amendment SA 3452.(consideration: CR S1805-1809, S1810; text: CR S1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3483 proposed by Senator Rockefeller for Senator Durbin to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3488 proposed by Senator Rockefeller for Senator Warner to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3492 proposed by Senator Rockefeller for Senator Begich to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3494 proposed by Senator Rockefeller for Senator Wicker to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3506 proposed by Senator Rockefeller for Senator Menendez to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3511 proposed by Senator Rockefeller for Senator Cantwell to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1806)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3514 proposed by Senator Rockefeller for Senator Feingold to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3520 proposed by Senator Rockefeller for Senator Murkowski to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3525 proposed by Senator Rockefeller for Senator Cantwell to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3532 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1808)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3534 proposed by Senator Rockefeller for Senator Wyden to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3538 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3539 proposed by Senator Rockefeller for Senator Coburn to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3541 proposed by Senator Rockefeller for Senator Feinstein to Amendment SA 3452.(consideration: CR S1805-1809)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3543 proposed by Senator Rockefeller for Senator Hutchison to Amendment SA 3452.(consideration: CR S1805-1809; text: CR S1807)
+- 2010-03-22 — Senate amendment proposed (on the floor): Amendment SA 3555 proposed by Senator Rockefeller.
+- 2010-03-22 — Senate amendment submitted
+- 2010-03-23 — Message on Senate action sent to the House.
+- 2010-03-24 — Rules Committee Resolution H. Res. 1212 Reported to House. The resolution provides for consideration of the Senate amendments to the bill with an amendment debatable for one hour. The resolution also provides for the Speaker to entertain motions that the House suspend the rules. In addition, the requirement waives the requirement for a two-thirds vote to consider a report from the Committee on Rules on the same day it is reported.
+- 2010-03-25 — DEBATE - The House proceeded with one hour of debate on agreeing with an amendment to the Senate amendments to H.R. 1586.
+- 2010-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-03-25 — Mr. Oberstar moved that the House agree with an amendment to the Senate amendments. (consideration: CR H2332-2413, H2416-2417)
+- 2010-03-25 — On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 276 - 145 (Roll no. 190). (text as House agreed to Senate amendments: CR H2366-2404)
+- 2010-03-25 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, the Chair postponed further proceedings of the motion to agree to the Senate amendments with an amendment to H.R. 1586.
+- 2010-03-25 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 276 - 145 (Roll no. 190).(text as House agreed to Senate amendments: CR H2366-2404)
+- 2010-03-25 — Rule H. Res. 1212 passed House.
+- 2010-03-25 — The previous question was ordered pursuant to the rule. (consideration: CR H2416)
