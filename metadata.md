@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4872
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4872
@@ -500,3 +500,9 @@ Health Care and Education Reconciliation Act of 2010
 - 2010-03-25 — The point of order was sustained.
 - 2010-03-25 — The point of order was sustained.
 - 2010-03-25 — The previous question was ordered pursuant to the rule. (consideration: CR H2439)
+- 2010-03-30 — Became Public Law No: 111-152.
+- 2010-03-30 — Became Public Law No: 111-152.
+- 2010-03-30 — Presented to President.
+- 2010-03-30 — Presented to President.
+- 2010-03-30 — Signed by President.
+- 2010-03-30 — Signed by President.
