@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 725
@@ -51,3 +51,5 @@ Indian Arts and Crafts Amendments Act of 2010
 - 2010-01-19 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2010-01-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H152-153)
 - 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H152-153)
+- 2010-01-20 — Received in the Senate.
+- 2010-03-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
