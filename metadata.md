@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4915
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4915
@@ -24,10 +24,11 @@ An Act to amend the Internal Revenue Code of 1986 to make technical corrections 
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ An Act to amend the Internal Revenue Code of 1986 to make technical corrections 
 - 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2268-2269)
 - 2010-03-24 — Received in the Senate.
 - 2010-03-24 — Referred to the Subcommittee on Aviation.
+- 2010-03-26 — Read twice and referred to the Committee on Finance.
