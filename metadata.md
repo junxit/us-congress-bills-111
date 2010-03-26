@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4786
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4786
@@ -24,10 +24,11 @@ To provide authority to compensate Federal employees for the 2-day period in whi
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To provide authority to compensate Federal employees for the 2-day period in whi
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1226-1227)
 - 2010-03-10 — Received in the Senate.
 - 2010-03-10 — Referred to the Subcommittee on Highways and Transit.
+- 2010-03-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
