@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4360
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4360
@@ -92,9 +92,10 @@ To designate the Department of Veterans Affairs blind rehabilitation center in L
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 - Rep. Boozman, John [R-AR-3] (B001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -114,3 +115,4 @@ To designate the Department of Veterans Affairs blind rehabilitation center in L
 - 2010-03-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-03-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 192). (text: CR 3/24/2010 H2267)
 - 2010-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 192).(text: CR 3/24/2010 H2267)
+- 2010-03-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
