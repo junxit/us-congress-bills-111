@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4783
@@ -41,10 +41,11 @@ Claims Resolution Act of 2010
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Claims Resolution Act of 2010
 - 2010-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1242-1243)
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1242-1243)
 - 2010-03-10 — Received in the Senate.
+- 2010-03-26 — Read twice and referred to the Committee on Finance.
