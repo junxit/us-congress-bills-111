@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4957
@@ -43,3 +43,7 @@ Federal Aviation Administration Extension Act of 2010
 - 2010-03-26 — Presented to President.
 - 2010-03-26 — Presented to President.
 - 2010-03-26 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2151)
+- 2010-03-31 — Became Public Law No: 111-153.
+- 2010-03-31 — Became Public Law No: 111-153.
+- 2010-03-31 — Signed by President.
+- 2010-03-31 — Signed by President.
