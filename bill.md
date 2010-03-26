@@ -18,7 +18,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the expected survival time for those diagnosed with mesothelioma is between 6 and 24 months;
 - Whereas generally, little is known about late-stage treatment of asbestos-related diseases, and there is no cure for such diseases;
 - Whereas early detection of asbestos-related diseases may give some patients increased treatment options and might improve their prognoses;
-- Whereas the World Health Organization, the Environmental Protection Agency, and the Surgeon General currently state that there is no safe level of exposure to asbestos;
 - Whereas the United States has reduced its consumption of asbestos substantially, yet continues to consume almost 2,000 metric tons of the fibrous mineral for use in certain products throughout the Nation;
 - Whereas asbestos-related diseases have killed thousands of people in the United States;
 - Whereas exposure to asbestos continues, but safety and prevention of asbestos exposure already has significantly reduced the incidence of asbestos-related diseases and can further reduce the incidence of such diseases;
