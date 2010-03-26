@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 117
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 117
@@ -29,3 +29,7 @@ A resolution commemorating the 80th anniversary of the Daughters of Penelope, a 
 - 2009-04-29 — Introduced in Senate
 - 2009-04-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4899-4900)
 - 2009-04-29 — Sponsor introductory remarks on measure. (CR S4900)
+- 2010-03-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2166)
+- 2010-03-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2166)
+- 2010-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2166-2167)
+- 2010-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2166-2167)
