@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4360
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4360
@@ -116,3 +116,15 @@ To designate the Department of Veterans Affairs blind rehabilitation center in L
 - 2010-03-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 192). (text: CR 3/24/2010 H2267)
 - 2010-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 192).(text: CR 3/24/2010 H2267)
 - 2010-03-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2010-04-19 — Cleared for White House.
+- 2010-04-19 — Passed Senate without amendment by Unanimous Consent.
+- 2010-04-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-04-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2431)
+- 2010-04-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2431)
+- 2010-04-20 — Message on Senate action sent to the House.
+- 2010-04-26 — Presented to President.
+- 2010-04-26 — Presented to President.
+- 2010-05-07 — Became Public Law No: 111-164.
+- 2010-05-07 — Became Public Law No: 111-164.
+- 2010-05-07 — Signed by President.
+- 2010-05-07 — Signed by President.
