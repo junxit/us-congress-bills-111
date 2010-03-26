@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1612
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1612
@@ -83,11 +83,12 @@ Public Lands Service Corps Act of 2010
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
-## Committees (3)
+## Committees (4)
 
 - House — Education and the Workforce Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (4)
 
@@ -161,3 +162,5 @@ Public Lands Service Corps Act of 2010
 - 2010-03-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR S1760)
 - 2010-03-20 — The previous question was ordered without objection. (consideration: CR H1759)
 - 2010-03-20 — The title of the measure was amended. Agreed to without objection.
+- 2010-03-25 — CORRECTION TO ENGROSSMENT - Mr. Heinrich asked unanimous consent that in the engrossment of H.R. 1612, the Clerk be directed to execute the sixth instruction in the amendment conveyed by the motion to recommit in the form that was placed at the desk. Agreed to without objection.
+- 2010-03-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
