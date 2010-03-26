@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4849
@@ -36,9 +36,10 @@ Small Business and Infrastructure Jobs Tax Act of 2010
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -68,3 +69,5 @@ Small Business and Infrastructure Jobs Tax Act of 2010
 - 2010-03-24 — Rule provides for consideration of H.R. 4849 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2010-03-24 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H2297)
 - 2010-03-24 — The previous question was ordered pursuant to the rule. (consideration: CR H2295)
+- 2010-03-25 — Received in the Senate.
+- 2010-03-26 — Read twice and referred to the Committee on Finance.
