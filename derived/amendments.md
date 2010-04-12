@@ -1,7 +1,7 @@
 ---
 measure: S. 469
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
