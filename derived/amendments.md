@@ -1,7 +1,7 @@
 ---
 measure: S. 629
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | redesignate | by redesignating subsection (l) as subsection (m); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (k) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(k)” and inserting “(l)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or (k)” and inserting “(k), or (l)”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(h)” and inserting “(i)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or (h)” and inserting “(h), or (i)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(l)(2)” and inserting “(m)(2)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(i)(2)” and inserting “(j)(2)”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (l) as subsection (m); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (k) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “(k)” and inserting “(l)”; and | the bill names no machine-readable US Code section |
