@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1258
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1258
@@ -16,9 +16,13 @@ Truth in Caller ID Act of 2010
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Polis, Jared [D-CO-2] (P000598)
 
 ## Committees (1)
 
@@ -29,3 +33,12 @@ Truth in Caller ID Act of 2010
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Referred to the House Committee on Energy and Commerce.
+- 2009-03-04 — Referred to the Subcommittee on Communications, Technology, and the Internet.
+- 2009-06-11 — Subcommittee Hearings Held.
+- 2009-10-08 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2009-10-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-03-10 — Committee Consideration and Mark-up Session Held.
+- 2010-03-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-04-13 — Placed on the Union Calendar, Calendar No. 264.
+- 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-461.
+- 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-461.
