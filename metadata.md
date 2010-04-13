@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 197
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 197
@@ -16,6 +16,11 @@ To commend the American Sail Training Association for its advancement of charact
 
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 
+## Cosponsors (2)
+
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+
 ## Committees (2)
 
 - House — Foreign Affairs Committee
@@ -28,3 +33,12 @@ To commend the American Sail Training Association for its advancement of charact
 - 2009-02-26 — Referred to House Foreign Affairs
 - 2009-02-26 — Referred to House Transportation and Infrastructure
 - 2009-02-26 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-02-27 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2010-01-27 — Committee Consideration and Mark-up Session Held.
+- 2010-01-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-01-27 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2010-04-13 — Committee on Foreign Affairs discharged.
+- 2010-04-13 — Committee on Foreign Affairs discharged.
+- 2010-04-13 — Placed on the House Calendar, Calendar No. 183.
+- 2010-04-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-460, Part I.
+- 2010-04-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-460, Part I.
