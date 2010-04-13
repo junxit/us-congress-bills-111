@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3125
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3125
@@ -16,7 +16,7 @@ Radio Spectrum Inventory Act
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (17)
+## Cosponsors (29)
 
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 - Rep. Barton, Joe [R-TX-6] (B000213)
@@ -35,6 +35,18 @@ Radio Spectrum Inventory Act
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (1)
 
@@ -45,3 +57,12 @@ Radio Spectrum Inventory Act
 - 2009-07-08 — Introduced in House
 - 2009-07-08 — Introduced in House
 - 2009-07-08 — Referred to the House Committee on Energy and Commerce.
+- 2009-07-09 — Referred to the Subcommittee on Communications, Technology, and the Internet.
+- 2009-12-15 — Subcommittee Hearings Held.
+- 2010-01-21 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2010-01-21 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-03-10 — Committee Consideration and Mark-up Session Held.
+- 2010-03-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-04-13 — Placed on the Union Calendar, Calendar No. 265.
+- 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-462.
+- 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-462.
