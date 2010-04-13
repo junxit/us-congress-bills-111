@@ -1,7 +1,7 @@
 ---
 measure: S. 1749
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1749
@@ -37,3 +37,12 @@ Cell Phone Contraband Act of 2010
 - 2010-02-02 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2010-02-02 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2010-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.
+- 2010-04-13 — Amendment SA 3722 agreed to in Senate by Unanimous Consent.
+- 2010-04-13 — Amendment SA 3722 proposed by Senator Brown OH for Senator Feinstein. (consideration: CR S2248; text: CR S2248) To require a GAO study of cell phone use in prisons.
+- 2010-04-13 — Measure laid before Senate by unanimous consent. (consideration: CR S2248)
+- 2010-04-13 — Passed Senate with amendments by Unanimous Consent. (text: CR S2248)
+- 2010-04-13 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S2248)
+- 2010-04-13 — Senate amendment agreed to: Amendment SA 3722 agreed to in Senate by Unanimous Consent.
+- 2010-04-13 — Senate amendment proposed (on the floor): Amendment SA 3722 proposed by Senator Brown OH for Senator Feinstein.(consideration: CR S2248; text: CR S2248)
+- 2010-04-13 — Senate amendment submitted
+- 2010-04-13 — The committee reported amendments were agreed to by Unanimous Consent. (text: CR S2248)
