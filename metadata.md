@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 409
 congress: 111
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 409
