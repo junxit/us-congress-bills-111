@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 468
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 468
@@ -28,3 +28,7 @@ A resolution honoring the Blackstone Valley Tourism Council on the celebration o
 
 - 2010-03-24 — Introduced in Senate
 - 2010-03-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2026-2027)
+- 2010-04-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2326)
+- 2010-04-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2326)
+- 2010-04-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2326)
+- 2010-04-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2326)
