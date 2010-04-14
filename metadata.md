@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4275
@@ -47,3 +47,10 @@ To designate the annex building under construction for the Elbert P. Tuttle Unit
 - 2010-03-18 — Placed on the House Calendar, Calendar No. 175.
 - 2010-03-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-444.
 - 2010-03-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-444.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2516-2517)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
+- 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2516)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2516)
+- 2010-04-14 — The title of the measure was amended. Agreed to without objection.
