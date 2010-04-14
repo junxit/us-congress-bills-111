@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4994
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4994
@@ -44,6 +44,10 @@ Medicare and Medicaid Extenders Act of 2010
 - House — Budget Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2010-04-14 — [House 111-2-200](votes/house-111-2-0200.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–9)
+
 ## Actions
 
 - 2010-04-13 — Introduced in House
@@ -51,3 +55,11 @@ Medicare and Medicaid Extenders Act of 2010
 - 2010-04-13 — Referred to House Budget
 - 2010-04-13 — Referred to House Ways and Means
 - 2010-04-13 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-04-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-04-14 — Considered as unfinished business. (consideration: CR H2551-2552)
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2531-2535)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4994.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Lewis (GA) moved to suspend the rules and pass the bill, as amended.
+- 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200). (text: CR H2531-2533)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200).(text: CR H2531-2533)

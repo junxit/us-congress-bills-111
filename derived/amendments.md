@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4994
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 0 executed, 29 stated and not applied.
+27 amendatory instructions. 0 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,10 +40,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
 | — | replace | Subsection (f) of section 6159 is amended by striking “section 7122(e)” and inserting “section 7122(d)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (c) of section 7526 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 77 (relating to miscellaneous provisions) is amended by inserting after section 7526 the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 7526(c) (relating to aggregate limitation) is amended by striking “$6,000,000” and inserting “$20,000,000”. | the bill names no machine-readable US Code section |
 | — | insert | Section 7526(c)(5) is amended by inserting “qualified” before “low-income”. | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for chapter 77 is amended by inserting after the item relating to section 7526 the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 32 (relating to earned income) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 77 (relating to miscellaneous provisions), as amended by this Act, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 77 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
