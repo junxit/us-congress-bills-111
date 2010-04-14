@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1258
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1258
@@ -42,3 +42,10 @@ Truth in Caller ID Act of 2010
 - 2010-04-13 — Placed on the Union Calendar, Calendar No. 264.
 - 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-461.
 - 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-461.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2522-2524)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1258.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
+- 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2522-2523)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2522-2523)
+- 2010-04-14 — The title of the measure was amended. Agreed to without objection.

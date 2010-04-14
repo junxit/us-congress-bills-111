@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1258
 
-> To amend the Communications Act of 1934 to prohibit manipulation of caller identification information, and for other purposes.
+> To amend the Communications Act of 1934 to prohibit manipulation of caller ID information, and for other purposes.
 
 ## § 1. Short title
 
