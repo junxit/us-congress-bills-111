@@ -1,7 +1,7 @@
 ---
 measure: S. 1749
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1749
@@ -24,9 +24,10 @@ Cell Phone Contraband Act of 2010
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ Cell Phone Contraband Act of 2010
 - 2010-04-13 — Senate amendment proposed (on the floor): Amendment SA 3722 proposed by Senator Brown OH for Senator Feinstein.(consideration: CR S2248; text: CR S2248)
 - 2010-04-13 — Senate amendment submitted
 - 2010-04-13 — The committee reported amendments were agreed to by Unanimous Consent. (text: CR S2248)
+- 2010-04-14 — Message on Senate action sent to the House.
+- 2010-04-14 — Received in the House.
+- 2010-04-14 — Referred to the House Committee on the Judiciary.
