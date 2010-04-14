@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 197
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 197
@@ -42,3 +42,9 @@ To commend the American Sail Training Association for its advancement of charact
 - 2010-04-13 — Placed on the House Calendar, Calendar No. 183.
 - 2010-04-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-460, Part I.
 - 2010-04-13 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-460, Part I.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2514-2516)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 197.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Cummings moved to suspend the rules and agree to the resolution, as amended.
+- 2010-04-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2514-2515)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2514-2515)

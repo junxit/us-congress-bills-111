@@ -2,7 +2,7 @@
 legis-num: H. RES. 197
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 197
@@ -18,6 +18,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** commends the American Sail Training Association for its advancement of character building experiences for youth at sea in traditionally rigged sailing vessels and its advancement of the finest traditions of the sea;
-- **(2)** commends the American Sail Training Association as the national sail training association of the United States, representing the sail training community of the United States in the international forum; and
-- **(3)** encourages all citizens of the United States and of nations around the world to join in the celebration of Tall Ships Atlantic Challenge 2009 and in the character building and educational experience that it represents for the youth of all nations.
+- **(1)** commends the American Sail Training Association for its advancement of character building experiences for youth at sea in traditionally rigged sailing vessels and its advancement of the finest traditions of the sea; and
+- **(2)** commends the American Sail Training Association as the national sail training association of the United States, representing the sail training community of the United States in the international forum.
