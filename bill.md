@@ -2,7 +2,7 @@
 legis-num: H. RES. 1237
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1237
@@ -14,8 +14,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Wilma was born November 18, 1945, at Hastings Indian Hospital in Tahlequah, Oklahoma, and had her roots planted deep in the rural community of Mankiller Flats in Adair County, Oklahoma, where she spent most of her life;
 - Whereas at age 10, her family moved to San Francisco as part of the Bureau of Indian Affairs Relocation Program where she lived for two decades before returning to Oklahoma in 1977;
 - Whereas upon returning to Oklahoma, Wilma found a job as a community coordinator at the Cherokee Nation capital and enrolled in graduate courses at the University of Arkansas in Fayetteville;
-- Whereas in 1983, Wilma ran for the office of Deputy Chief alongside Ross Swimmer, then Principal Chief of the Cherokee Nation, and the two won the election and took office in August 1983;
-- Whereas, on December 5, 1985, Wilma was sworn in to replace Chief Swimmer as Principal Chief of the Cherokee Nation, making her the first female to hold the office;
+- Whereas in 1983 Wilma ran for the office of Deputy Chief alongside Ross Swimmer, then Principal Chief of the Cherokee Nation, and the two won the election and took office in August, 1983;
+- Whereas on December 5, 1985, Wilma was sworn in to replace Chief Swimmer as Principal Chief of the Cherokee Nation, making her the first female to hold the office;
 - Whereas Wilma was formally elected to serve as the first female Principal Chief of the Cherokee Nation in 1987, and was overwhelmingly re-elected in 1991;
 - Whereas during her time as Principal Chief, Wilma focused on education and health care, overseeing the construction of new schools, job-training centers, health clinics, community development, and a award winning housing and water projects in low-income communities;
 - Whereas over the course of her three terms, Wilma made great strides to reinstate the traditional Cherokee culture and values, especially the role of women, reinvigorating the Cherokee Nation through community development projects where men and women work collectively for the common good;

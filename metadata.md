@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1237
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1237
@@ -40,3 +40,9 @@ Honoring the life of Wilma Pearl Mankiller and expressing condolences of the Hou
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Referred to the House Committee on Natural Resources.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2535-3537)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1237.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Boren moved to suspend the rules and agree to the resolution.
+- 2010-04-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2535)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2535)
