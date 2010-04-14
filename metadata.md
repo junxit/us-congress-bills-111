@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3125
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3125
@@ -52,6 +52,10 @@ Radio Spectrum Inventory Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2010-04-14 — [House 111-2-201](votes/house-111-2-0201.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–18)
+
 ## Actions
 
 - 2009-07-08 — Introduced in House
@@ -66,3 +70,11 @@ Radio Spectrum Inventory Act
 - 2010-04-13 — Placed on the Union Calendar, Calendar No. 265.
 - 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-462.
 - 2010-04-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-462.
+- 2010-04-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-04-14 — Considered as unfinished business. (consideration: CR H2552-2553)
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2525-2530)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3125.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
+- 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 201). (text: CR H2525-2526)
+- 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 201).(text: CR H2525-2526)
