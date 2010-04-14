@@ -2,12 +2,12 @@
 legis-num: H. RES. 1236
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1236
 
-> Honoring the coal miners who perished in the Upper Big Branch Mine-South in Raleigh County, West Virginia, extending condolences to their families, and recognizing the valiant efforts of emergency response workers at the mine disaster.
+> Honoring the coal miners who perished in the Upper Big Branch Mine-South in Raleigh County, West Virginia, extending condolences to their families and recognizing the valiant efforts of emergency response workers at the mine disaster.
 
 ## Preamble
 
