@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4275
@@ -31,9 +31,10 @@ To designate the annex building under construction for the Elbert P. Tuttle Unit
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 - Rep. Linder, John [R-GA-7] (L000321)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the annex building under construction for the Elbert P. Tuttle Unit
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2516)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2516)
 - 2010-04-14 — The title of the measure was amended. Agreed to without objection.
+- 2010-04-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
