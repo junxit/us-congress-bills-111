@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1242
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1242
@@ -51,8 +51,20 @@ Congratulating the Duke University men's basketball team for winning the 2010 NC
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2010-04-15 — [House 111-2-210](votes/house-111-2-0210.md) — On Motion to Suspend the Rules and Agree — **Passed** (390–0)
+
 ## Actions
 
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Referred to the House Committee on Education and Labor.
+- 2010-04-14 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Fudge objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-04-14 — Considered under suspension of the rules. (consideration: CR H2542-2545)
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1242.
+- 2010-04-14 — Ms. Fudge moved to suspend the rules and agree to the resolution.
+- 2010-04-15 — Considered as unfinished business. (consideration: CR H2614)
+- 2010-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-15 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 390 - 0, 12 Present (Roll no. 210). (text: CR 4/14/2010 H2542)
+- 2010-04-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 390 - 0, 12 Present (Roll no. 210).(text: CR 4/14/2010 H2542)
