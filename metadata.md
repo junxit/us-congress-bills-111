@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1258
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1258
@@ -49,3 +49,4 @@ Truth in Caller ID Act of 2010
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2522-2523)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2522-2523)
 - 2010-04-14 — The title of the measure was amended. Agreed to without objection.
+- 2010-04-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
