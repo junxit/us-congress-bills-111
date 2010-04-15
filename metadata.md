@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4994
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4994
@@ -39,10 +39,11 @@ Medicare and Medicaid Extenders Act of 2010
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Medicare and Medicaid Extenders Act of 2010
 - 2010-04-14 — Mr. Lewis (GA) moved to suspend the rules and pass the bill, as amended.
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200). (text: CR H2531-2533)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200).(text: CR H2531-2533)
+- 2010-04-15 — Received in the Senate and Read twice and referred to the Committee on Finance.
