@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3506
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3506
@@ -25,9 +25,10 @@ To amend the Gramm-Leach-Bliley Act to provide an exception from the continuing 
 - Rep. Paul, Ron [R-TX-14] (P000583)
 - Rep. Lance, Leonard [R-NJ-7] (L000567)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend the Gramm-Leach-Bliley Act to provide an exception from the continuing 
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2513-2514)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2513-2514)
 - 2010-04-14 — The title of the measure was amended. Agreed to without objection.
+- 2010-04-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
