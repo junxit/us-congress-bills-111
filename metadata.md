@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 243
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 243
@@ -39,3 +39,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2010-04-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2530)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2530)
 - 2010-04-15 — Received in the Senate.
+- 2010-04-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2431)
+- 2010-04-19 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2431)
+- 2010-04-20 — Message on Senate action sent to the House.
