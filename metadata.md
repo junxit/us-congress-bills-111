@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3125
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3125
@@ -78,3 +78,4 @@ Radio Spectrum Inventory Act
 - 2010-04-14 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 201). (text: CR H2525-2526)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 201).(text: CR H2525-2526)
+- 2010-04-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.

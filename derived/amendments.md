@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3125
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Part B of title I of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 921` | add-at-end | Part B of title I of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
