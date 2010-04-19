@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 222
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 222
@@ -26,10 +26,11 @@ Recognizing the leadership and historical contributions of Dr. Hector Garcia to 
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Recognizing the leadership and historical contributions of Dr. Hector Garcia to 
 - 2010-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-04-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 4/14/2010 H2519)
 - 2010-04-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 4/14/2010 H2519)
+- 2010-04-19 — Received in the Senate and referred to the Committee on the Judiciary.
