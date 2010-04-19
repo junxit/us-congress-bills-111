@@ -26,11 +26,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** *Qualifications of congressional appointees* Of the 3 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1)—
     - **(A)** at least 1 shall have experience in submitting requests under section 552 of title 5, United States Code, to Federal agencies, such as on behalf of nonprofit research or educational organizations or news media organizations; and
     - **(B)** at least 1 shall have experience in academic research in the fields of library science, information management, or public access to Government information.
+  - **(2)** *Qualifications of congressional appointees* Of the 3 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1) at least 2 shall have experience in academic research in the fields of library science, information management, or public access to Government information.
+  - **(3)** *Timeliness of appointments* Appointments to the Commission shall be made as expeditiously as possible, but not later than 60 days after the date of enactment of this Act.
 - **(d)** *Study* The Commission shall conduct a study to—
   - **(1)** identify methods that—
     - **(A)** will help reduce delays in the processing of requests submitted to Federal agencies under section 552 of title 5, United States Code; and
     - **(B)** ensure the efficient and equitable administration of that section throughout the Federal Government; and
-  - **(2)** examine whether the system for charging fees and granting waivers of fees under section 552 of title 5, United States Code, needs to be reformed in order to reduce delays in processing requests.
+  - **(2)** examine whether the system for charging fees and granting waivers of fees under section 552 of title 5, United States Code, needs to be reformed in order to reduce delays in processing requests.; and
+  - **(3)** examine and determine—
+    - **(A)** why the Federal Government’s use of the exemptions under section 552(b) of title 5, United States Code, increased during fiscal year 2009;
+    - **(B)** the reasons for any increase, including whether the increase was warranted and whether the increase contributed to FOIA processing delays;
+    - **(C)** what efforts were made by Federal agencies to comply with President Obama’s January 21, 2009 Presidential Memorandum on Freedom of Information Act Requests and whether those efforts were successful; and
+    - **(D)** make recommendations on how the use of exemptions under section 552(b) of title 5, United States Code, may be limited.
 - **(e)** *Report* Not later than 1 year after the date of enactment of this Act, the Commission shall submit a report to Congress and the President containing the results of the study under this section, which shall include—
   - **(1)** a description of the methods identified by the study;
   - **(2)** the conclusions and recommendations of the Commission regarding—
