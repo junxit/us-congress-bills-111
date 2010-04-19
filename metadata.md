@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4715
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4715
@@ -20,9 +20,10 @@ Clean Estuaries Act of 2010
 
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -116,3 +117,4 @@ Clean Estuaries Act of 2010
 - 2010-04-15 — The previous question on the motion was ordered without objection. (consideration: CR H2612)
 - 2010-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H2611)
 - 2010-04-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-04-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
