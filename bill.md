@@ -1,0 +1,35 @@
+---
+legis-num: H. RES. 1275
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1275
+
+> Expressing disapproval of the decision issued by the Supreme Court in Citizens United v. Federal Election Commission.
+
+## Preamble
+
+- Whereas the majority opinion issued by the Supreme Court of the United States on January 21, 2010, in Citizens United v. Federal Election Commission overturns long-standing Supreme Court precedent barring corporations from making independent expenditures from general treasury funds to expressly support or oppose candidates in Federal elections;
+- Whereas in issuing such opinion, the majority engaged in judicial activism by expanding the scope of their decision from a determination of whether an advertisement for a politically charged film made by the non-profit corporation Citizens United that was critical of a candidate for President constituted an electioneering communication under the Bipartisan Campaign Reform Act of 2002 to a sweeping decision on the constitutionality of corporate use of general treasury funds for independent expenditures on political advertisements in Federal elections;
+- Whereas pursuant to the majority opinion in Citizens United, Federal law now permits the expansion of the role that special interest groups, including oil companies, Wall Street banks, health insurance companies, unions, trade associations, and companies that received money under the Troubled Asset Relief Program created by the Emergency Economic Stabilization Act of 2008 (Public Law 110–343) are able to play in politics;
+- Whereas under such opinion, Federal law now permits Government-owned entities, including American International Group, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and automobile companies that are now subject to Federal control to spend taxpayer dollars to expressly support or oppose candidates in Federal elections;
+- Whereas under such opinion, Federal law now permits domestic corporations owned or controlled by foreign governments, foreign corporations, and foreign individuals to make independent expenditures to expressly support or oppose candidates in United States Federal elections, including— (1)CITGO Petroleum Corporation, which is owned and operated by the Government of Venezuela; (2)Saudi Aramco and Motiva Enterprises, which are fully or partially owned by the Government of Saudi Arabia; and (3)Lenovo Group Limited, Haier Group, China Telcom Corporation, Limited, and the China State Construction Engineering Corporation, which are fully or partially owned by the Government of China;
+- Whereas in treating corporations and living persons equally with respect to free speech rights under the First Amendment, the Supreme Court has effectively bestowed on corporations aspects of personhood, which, as the dissenting opinion stated, “have no consciences, no beliefs, no feelings, no thoughts, no desires”;
+- Whereas in effectively bestowing on corporations aspects of personhood, the majority opinion ensures that the voices of individual citizens of the United States must now compete against voices funded by the vast resources of multibillion dollar, multinational corporations, thus diminishing the individual right of freedom of speech guaranteed to every individual citizen of the United States by the First Amendment to the Constitution;
+- Whereas according to the Small Business Administration, half of all the individuals employed in the United States in the private sector are employed by small businesses;
+- Whereas pursuant to the majority opinion in Citizens United, Federal law now permits large corporations to use general treasury funds to influence public policy and to advocate for regulations and promote deregulation designed to favor large corporations over small businesses;
+- Whereas pursuant to such opinion, Federal law now permits corporations to exercise vast power to advocate for the type of deregulation policies favoring large corporations that led to the 2008 global economic crisis and continue to jeopardize economic recovery in the United States;
+- Whereas legal experts have stated that such opinion will unleash a flood of new corporate money into the democratic process in the United States that will separate voters from their representatives and make candidates more beholden to special interests;
+- Whereas, on January 21, 2010, more than 40 current and former corporate executives sent a letter to the Speaker of the House of Representatives, Nancy Pelosi, expressing the “corrosive influence of special interest money” and urging the House of Representatives to act to address the Citizens United decision and reform the current campaign finance system;
+- Whereas pursuant to the majority opinion, Exxon Mobil Corporation could expend $8,000,000 on each congressional race in the United States, which would account for less than 10 percent of the corporation’s profits in 2008;
+- Whereas the dissenting opinion asserted that after the decision by the majority, “[C]orporations with large war chests to deploy on electioneering may find democratically elected bodies becoming much more attuned to their interests.”; and
+- Whereas the dissenting opinion stated that the majority opinion in Citizens United— (1)“[T]hreatens to undermine the integrity of elected institutions across the Nation.”; (2)“[I]s a rejection of the common sense of the American people, who have recognized a need to prevent corporations from undermining self-government since its founding, and who have fought against the distinctive corrupting potential of corporate electioneering since the days of Theodore Roosevelt.”; (3)“[O]perates with a sledgehammer rather than a scalpel when it strikes down one of Congress’s most significant efforts to regulate the role that corporations and unions play in electoral politics.”; and (4)“[C]reates new opportunities for the mirror image of quid pro quo deals: threats, both explicit and implicit.”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** believes that multinational corporations, such as CITGO Petroleum Corporation, which is controlled by the Government of Venezuela, should not have a greater voice in the democratic process in the United States than citizens of the United States;
+- **(2)** disapproves of the majority opinion in Citizens United v. Federal Election Commission, because it allows the interests of corporations, both foreign and domestic, to supersede the voices of citizens of the United States in the democratic process;
+- **(3)** believes the majority opinion in Citizens United will further increase the flow of money into elections in the United States and have a corrosive effect on the electoral process, the cornerstone of democracy in the United States, by separating the people from their elected representatives; and
+- **(4)** encourages the House of Representatives and the Senate to work in a bipartisan manner to limit the influence of special interest groups in Federal elections in light of the decision rendered by the Supreme Court in Citizens United.
