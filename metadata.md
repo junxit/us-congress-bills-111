@@ -1,7 +1,7 @@
 ---
 measure: S. 933
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 933
@@ -34,3 +34,7 @@ Contaminated Sediment Remediation Reauthorization Act
 
 - 2009-04-30 — Introduced in Senate
 - 2009-04-30 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-06-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-04-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-171. Minority views filed.
+- 2010-04-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-171. Minority views filed.
+- 2010-04-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
