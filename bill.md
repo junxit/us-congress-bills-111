@@ -2,7 +2,7 @@
 legis-num: H. RES. 1257
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1257
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Federal Deposit Insurance Corporation’s “National Survey of Unbanked and Underbanked Households, December 2009” found that approximately 60,000,000 people in the United States are either unbanked or underbanked;
 - Whereas almost 54 percent of Black households, 44.5 percent of American Indian/Alaskan households, and 43.3 percent of Hispanic households are either unbanked or underbanked;
 - Whereas personal saving as a percentage of disposable personal income was 3.1 percent in February 2010, compared with 3.4 percent in January 2010, and a reduction from a 12-month average of 4.1 percent in 2009, according to the Bureau of Economic Analysis;
-- Whereas public, community-based, and private sector organizations throughout the United States are working to increase financial literacy rates for Americans of all ages and walks of life through a range of outreach efforts, including media campaigns, Web sites, and one-on-one financial counseling for individuals;
+- Whereas public, community-based, and private-sector organizations throughout the United States are working to increase financial literacy rates for Americans of all ages and walks of life through a range of outreach efforts, including media campaigns, Web sites, and one-on-one financial counseling for individuals;
 - Whereas the National Endowment for Financial Education provides consumers with the tools necessary to manage their money wisely and empower them to turn their financial education into action;
 - Whereas bankers across the United States will teach savings skills to young people on April 27, 2010, during “Teach Children to Save Day”, which was launched by the American Bankers Association Education Foundation in April 1997 and has now helped more than 80,000 bankers teach savings skills to more than 3,200,000 young people;
 - Whereas staff from America’s credit unions will focus on the financial needs of young people, provide financial literacy education, and teach youth under the age of 18 the benefits of saving and goal setting during “National Credit Union Youth Week”, April 18–24, 2010;
