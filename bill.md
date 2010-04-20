@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4178
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Deposit Restricted Qualified Tuition Programs Act of 2009”.
+This Act may be cited as the “Deposit Restricted Qualified Tuition Programs Act of 2010”.
 
 ## § 2. Deposit restricted qualified tuition programs
 
@@ -31,3 +31,7 @@ Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by a
 >       - **(ii)** Any certificate of deposit or other instrument of an insured depository institution evidencing any such deposit.
 >       - **(iii)** The rights and obligations of participants in a deposit restricted qualified tuition program arising from section 529 of the Internal Revenue Code, as amended.
 >     - **(C)** In no event shall a deposit restricted qualified tuition program, the State entity designated by statute to oversee such program, the administrator appointed to operate the program on behalf of the State or a participating depository institution, be deemed to be an issuer of a security or to be an investment company (as defined in section 3(a) of the Investment Company Act of 1940).
+
+## § 3. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
