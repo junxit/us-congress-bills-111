@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 255
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 255
@@ -16,7 +16,7 @@ Commemorating the 40th anniversary of Earth Day and honoring the founder of Eart
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
-## Cosponsors (56)
+## Cosponsors (70)
 
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
@@ -74,6 +74,20 @@ Commemorating the 40th anniversary of Earth Day and honoring the founder of Eart
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Schauer, Mark H. [D-MI-7] (S001178)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
 
 ## Committees (1)
 
@@ -84,3 +98,11 @@ Commemorating the 40th anniversary of Earth Day and honoring the founder of Eart
 - 2010-03-19 — Introduced in House
 - 2010-03-19 — Introduced in House
 - 2010-03-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-04-14 — Committee Consideration and Mark-up Session Held.
+- 2010-04-14 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2010-04-21 — Considered under suspension of the rules. (consideration: CR H2749-2752)
+- 2010-04-21 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 255.
+- 2010-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-21 — Ms. Speier moved to suspend the rules and agree to the resolution, as amended.
+- 2010-04-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2749)
+- 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2749)
