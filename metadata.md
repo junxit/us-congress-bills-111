@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1276
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1276
@@ -16,7 +16,7 @@ Recognizing the continued importance of volunteerism and national service and th
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (28)
+## Cosponsors (30)
 
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
@@ -46,6 +46,8 @@ Recognizing the continued importance of volunteerism and national service and th
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
 ## Committees (1)
 
@@ -56,3 +58,9 @@ Recognizing the continued importance of volunteerism and national service and th
 - 2010-04-20 — Introduced in House
 - 2010-04-20 — Introduced in House
 - 2010-04-20 — Referred to the House Committee on Education and Labor.
+- 2010-04-21 — Considered under suspension of the rules. (consideration: CR H2763-2765)
+- 2010-04-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1276.
+- 2010-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-21 — Mr. Sablan moved to suspend the rules and agree to the resolution.
+- 2010-04-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2763-2764)
+- 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2763-2764)
