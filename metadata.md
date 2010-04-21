@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 483
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 483
@@ -31,3 +31,7 @@ A resolution congratulating the Republic of Serbia's application for European Un
 
 - 2010-04-15 — Introduced in Senate
 - 2010-04-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2389)
+- 2010-04-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2529)
+- 2010-04-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2529)
+- 2010-04-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2529)
+- 2010-04-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2529)
