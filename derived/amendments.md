@@ -1,7 +1,7 @@
 ---
 measure: S. 1963
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -75,10 +75,10 @@ complete account of the bill's effect, which it is not.
 | — | strike | The table of sections at the beginning of chapter 81 is amended by striking the item relating to section 8107. | the bill names no machine-readable US Code section |
 | — | replace | Section 707(c)(1) of the Persian Gulf War Veterans' Health Status Act (title VII of Public Law 102–585; 38 U.S.C. 527 note) is amended by striking “Not later than March 1 of each year” and inserting “Not later than July 1, 2010, and July… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1781 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7332(b)(2) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 7332(b)(2) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 73 is amended by inserting after section 7311 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 73 is amended by inserting after the item relating to section 7311 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7311(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 7311(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1720 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (c); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
@@ -114,7 +114,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7451(c)(2) is amended by striking “level V” and inserting “level IV”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7451(c)(2) is further amended by adding at the end the following new sentence: “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) m… | the bill names no machine-readable US Code section |
 | — | replace | Section 7452(g)(2) is amended by striking “$25,000” and inserting “$100,000”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7451(d)(3) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 7451(d)(3) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (E); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C) the following new subparagraph (D): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7451(e), as amended by paragraph (2) of this subsection, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -145,7 +145,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 2012 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 7361 as amended by subsection (a) of this section, is further amended by inserting after subsection (b) the following new subsection (c): | the bill names no machine-readable US Code section |
 | — | repeal | Section 7365 is repealed. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking the second sentence; and | the bill names no machine-readable US Code section |

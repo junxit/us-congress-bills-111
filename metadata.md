@@ -1,7 +1,7 @@
 ---
 measure: S. 1963
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1963
@@ -16,13 +16,15 @@ Caregivers and Veterans Omnibus Health Services Act of 2010
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Burr, Richard [R-NC] (B001135)
 
@@ -62,3 +64,13 @@ Caregivers and Veterans Omnibus Health Services Act of 2010
 - 2010-04-21 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2010-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 214). (text: CR H2703-2719)
 - 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 214).(text: CR H2703-2719)
+- 2010-04-22 — Cleared for White House.
+- 2010-04-22 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2010-04-22 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S2566-2573; text as Senate agreed to House amendment: CR S2566)
+- 2010-04-22 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S2566-2573; text as Senate agreed to House amendment: CR S2566)
+- 2010-04-27 — Presented to President.
+- 2010-04-27 — Presented to President.
+- 2010-05-05 — Became Public Law No: 111-163.
+- 2010-05-05 — Became Public Law No: 111-163.
+- 2010-05-05 — Signed by President.
+- 2010-05-05 — Signed by President.
