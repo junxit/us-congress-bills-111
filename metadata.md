@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1239
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1239
@@ -36,3 +36,9 @@ Commending the University of Connecticut Huskies for their historic win in the 2
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Introduced in House
 - 2010-04-13 — Referred to the House Committee on Education and Labor.
+- 2010-04-21 — Considered under suspension of the rules. (consideration: CR H2756-2758)
+- 2010-04-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1239.
+- 2010-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-21 — Mr. Sablan moved to suspend the rules and agree to the resolution, as amended.
+- 2010-04-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2756-2757)
+- 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2756-2757)
