@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1262
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1262
@@ -16,7 +16,7 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Cosponsors (64)
+## Cosponsors (68)
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 - Rep. Inslee, Jay [D-WA-1] (I000026)
@@ -82,6 +82,10 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 - Rep. Boozman, John [R-AR-3] (B001236)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
 
 ## Committees (1)
 
@@ -92,3 +96,9 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 - 2010-04-15 — Introduced in House
 - 2010-04-15 — Introduced in House
 - 2010-04-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-04-21 — Considered under suspension of the rules. (consideration: CR H2753-2755)
+- 2010-04-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1262.
+- 2010-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-21 — Ms. Speier moved to suspend the rules and agree to the resolution.
+- 2010-04-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2754)
+- 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2754)
