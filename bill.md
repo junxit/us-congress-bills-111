@@ -2,7 +2,7 @@
 legis-num: H. RES. 1116
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1116
@@ -24,8 +24,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in rare cases multiple sclerosis is so progressive it is fatal;
 - Whereas there is no known cure for multiple sclerosis;
 - Whereas the Multiple Sclerosis Coalition, an affiliation of multiple sclerosis organizations dedicated to the enhancement of the quality of life for all those affected by multiple sclerosis, recognizes, and celebrates Multiple Sclerosis Awareness Week;
-- Whereas the Multiple Sclerosis Coalition's mission is to increase opportunities for cooperation and provide greater opportunity to leverage the effective use of resources for the benefit of the multiple sclerosis community;
-- Whereas the Multiple Sclerosis Coalition recognizes and celebrates Multiple Sclerosis Awareness Week during 1 week in March every calendar year;
+- Whereas the Multiple Sclerosis Coalition’s mission is to increase opportunities for cooperation and provide greater opportunity to leverage the effective use of resources for the benefit of the multiple sclerosis community;
+- Whereas the Multiple Sclerosis Coalition recognizes and celebrates Multiple Sclerosis Awareness Week during one week in March every calendar year;
 - Whereas the goals of Multiple Sclerosis Awareness Week are to invite people to join the movement to end multiple sclerosis, encourage everyone to do something to demonstrate their commitment to moving toward a world free of multiple sclerosis, and to acknowledge those who have dedicated their time and talent to help promote multiple sclerosis research and programs; and
 - Whereas this year Multiple Sclerosis Awareness Week is recognized during the week of March 8, 2010, through March 14, 2010: Now, therefore, be it
 
