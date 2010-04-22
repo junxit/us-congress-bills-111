@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4178
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4178
@@ -31,9 +31,10 @@ Deposit Restricted Qualified Tuition Programs Act of 2010
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Deposit Restricted Qualified Tuition Programs Act of 2010
 - 2010-04-20 — Mr. Cleaver moved to suspend the rules and pass the bill, as amended.
 - 2010-04-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2651)
 - 2010-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2651)
+- 2010-04-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
