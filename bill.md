@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 5110
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5110
+
+> To modify the boundary of the Casa Grande Ruins National Monument, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Casa Grande Ruins National Monument Boundary Modification Act of 2010”.
+
+## § 2. Definitions; Findings
+
+- **(a)** *Definitions* In this Act:
+  - **(1)** *Map* The term map means the map titled “Proposed Casa Grande Ruins Boundary Modification”, numbered 303/100,934, and dated January 2010.
+  - **(2)** *Monument* The term Monument means the Casa Grande Ruins National Monument in the State of Arizona.
+  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(4)** *State* The term State means the State of Arizona.
+- **(b)** *Findings* Congress finds the following:
+  - **(1)** The Native Americans and their ancestors the Hohokam have inhabited Southern Arizona since time immemorial.
+  - **(2)** The Casa Grande Ruins Reservation was set aside on March 2, 1892, proclaimed as the United States’ first archaeological preserve on June 22, 1892, and redesignated as the Casa Grande Ruins National Monument on August 13, 1918.
+  - **(3)** The Casa Grande Ruins National Monument protects and preserves one of the finest architectural examples of 13th and 14th Century Hohokam culture in the Southwest and represents only part of what was a community that may have covered two square miles.
+  - **(4)** Recent surveys and research have determined that the historic and cultural sites that the Casa Grande National Monument was established to protect and preserve extend outside the existing boundary of the Monument.
+  - **(5)** Opportunities to protect the few remaining areas in Arizona where this historic Hohokam culture is present are greatly threatened by rapid growth and development.
+  - **(6)** The National Park Service is studying the possibility of expanding the Monument to include other sensitive archeological sites associated with the Casa Grande community and to preserve the historic integrity of the Monument.
+
+## § 3. Acquisition and transfer of administrative jurisdiction of lands
+
+- **(a)** *Acquisition of State lands* The Secretary is authorized to transfer or acquire by donation, exchange, or purchase with donated or appropriate funds from willing owners only, the private or State lands or interests in lands generally depicted on the map to be administered as part of the Monument.
+- **(b)** *Transfer of administrative jurisdiction to NPS* The following Federal lands generally depicted on the map are hereby withdrawn from all forms of entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and operation of the mineral leasing and geothermal leasing laws and mineral materials laws and administrative jurisdiction of such Federal lands is hereby transferred to the National Park Service to be administered as part of the Monument:
+  - **(1)** The approximately 3.8 acres of Federal land administered by the Bureau of Land Management.
+  - **(2)** The approximately 7.41 acres of Federal land of administered by the Bureau of Indian Affairs.
+- **(c)** *Transfer of administrative jurisdiction to BIA* Administrative jurisdiction of the approximately 3.5 acres of Federal land administered by the National Park Service as generally depicted on the map as “Lands to be Transferred to BIA” are hereby transferred to the Bureau of Indian Affairs for the purposes of the San Carlos Irrigation Project.
+- **(d)** *Administration* Upon acquisition or transfer of lands under this section, the Secretary shall administer those lands as part of the Monument in accordance with the laws generally applicable to units of the National Park System, including—
+  - **(1)** the National Park Service Organic Act (16 U.S.C. 1 et seq.); and
+  - **(2)** the Act of August 21, 1935 (16 U.S.C. 461 et seq.).
+- **(e)** *Boundary and map update* Upon completion of the transfers or acquisitions pursuant to this section, the Secretary shall modify the boundary of the Monument accordingly, and shall update the map to reflect the transfers.
+- **(f)** *Map on file* The map shall be on file and available for inspection in the appropriate offices of the National Park Service, U.S. Department of the Interior.
+
+## § 4. Administration of State trust lands
+
+The Secretary may enter in to an agreement with the State to provide for cooperative management of the approximately 200 acres of State trust lands generally depicted on the map.
+
+## § 5. Boundary Study
+
+- **(a)** *In general* The Secretary shall conduct a study to identify any additional lands that the Secretary considers appropriate to be a part of any further adjustments to the boundary of the Monument.
+- **(b)** *Criteria* The study shall examine the natural, cultural, recreational, and scenic values and characters of lands identified under subsection (a).
+- **(c)** *Report* Not later than 2 years after the date funds are made available for the study under this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the findings, conclusions, and recommendations of the study.
