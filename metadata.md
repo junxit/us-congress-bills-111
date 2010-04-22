@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3553
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3553
@@ -25,9 +25,10 @@ Indian Veterans Housing Opportunity Act of 2010
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Indian Veterans Housing Opportunity Act of 2010
 - 2010-04-20 — Mr. Cleaver moved to suspend the rules and pass the bill.
 - 2010-04-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2654)
 - 2010-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2654)
+- 2010-04-22 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
