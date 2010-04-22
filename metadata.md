@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 255
 congress: 111
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 255
@@ -106,3 +106,12 @@ Commemorating the 40th anniversary of Earth Day and honoring the founder of Eart
 - 2010-04-21 — Ms. Speier moved to suspend the rules and agree to the resolution, as amended.
 - 2010-04-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2749)
 - 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2749)
+- 2010-04-22 — Amendment SA 3729 agreed to in Senate by Unanimous Consent.
+- 2010-04-22 — Amendment SA 3729 proposed by Senator Casey for Senator Coburn. (consideration: CR S2600; text: CR S2600) In the nature of a substitute.
+- 2010-04-22 — Measure laid before Senate by unanimous consent. (consideration: CR S2596-2600)
+- 2010-04-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2010-04-22 — Received in the Senate.
+- 2010-04-22 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2010-04-22 — Senate amendment agreed to: Amendment SA 3729 agreed to in Senate by Unanimous Consent.
+- 2010-04-22 — Senate amendment proposed (on the floor): Amendment SA 3729 proposed by Senator Casey for Senator Coburn.(consideration: CR S2600; text: CR S2600)
+- 2010-04-22 — Senate amendment submitted
