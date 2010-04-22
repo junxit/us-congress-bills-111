@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1585
@@ -132,9 +132,10 @@ FIT Kids Act
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -149,3 +150,4 @@ FIT Kids Act
 - 2010-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2758-2759)
 - 2010-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2758-2759)
 - 2010-04-21 — The title of the measure was amended. Agreed to without objection.
+- 2010-04-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
