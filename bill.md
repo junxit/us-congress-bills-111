@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5133
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5133
+
+> To designate the facility of the United States Postal Service located at 331 1st Street in Carlstadt, New Jersey, as the “Staff Sergeant Frank T. Carvill and Lance Corporal Michael A. Schwarz Post Office Building”.
+
+## § 1. Staff Sergeant Frank T. Carvill and Lance Corporal Michael A. Schwarz Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 331 1st Street in Carlstadt, New Jersey, shall be known and designated as the “Staff Sergeant Frank T. Carvill and Lance Corporal Michael A. Schwarz Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Staff Sergeant Frank T. Carvill and Lance Corporal Michael A. Schwarz Post Office Building”.
