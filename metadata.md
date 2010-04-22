@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 255
 congress: 111
-version: Engrossed Amendment Senate
+version: Received in Senate
 ---
 
 # H.Con.Res. 255
