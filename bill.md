@@ -13,10 +13,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Implementing Management for Performance and Related Reforms to Obtain Value in Every Acquisition Act of 2010”.
 
-## § 2. Table of contents
-
-The table of contents for this Act is as follows:
-
-## § 3. Definition of congressional defense committees
+## § 2. Definition of congressional defense committees
 
 In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+
+## § 3. Table of contents
+
+The table of contents for this Act is as follows:

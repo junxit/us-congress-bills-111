@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5013
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5013
@@ -16,7 +16,7 @@ Implementing Management for Performance and Related Reforms to Obtain Value in E
 
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 
-## Cosponsors (6)
+## Cosponsors (9)
 
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
@@ -24,6 +24,9 @@ Implementing Management for Performance and Related Reforms to Obtain Value in E
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
 
 ## Committees (2)
 
@@ -38,3 +41,10 @@ Implementing Management for Performance and Related Reforms to Obtain Value in E
 - 2010-04-14 — Referred to House Oversight and Government Reform
 - 2010-04-14 — Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-04-14 — Sponsor introductory remarks on measure. (CR E542)
+- 2010-04-21 — Committee Consideration and Mark-up Session Held.
+- 2010-04-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 56 - 0.
+- 2010-04-23 — Committee on Oversight and Government discharged.
+- 2010-04-23 — Committee on Oversight and Government discharged.
+- 2010-04-23 — Placed on the Union Calendar, Calendar No. 266.
+- 2010-04-23 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-465, Part I.
+- 2010-04-23 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-465, Part I.
