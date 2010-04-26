@@ -1,7 +1,7 @@
 ---
 measure: H.R. 509
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 509
@@ -63,3 +63,8 @@ Marine Turtle Conservation Reauthorization Act of 2009
 - 2009-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652).(text: CR 7/27/2009 H8831)
 - 2009-07-28 — The title of the measure was amended. Agreed to without objection.
 - 2009-07-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2009-12-03 — Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.
+- 2009-12-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-04-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-173.
+- 2010-04-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-173.
+- 2010-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
