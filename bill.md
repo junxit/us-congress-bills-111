@@ -2,12 +2,12 @@
 legis-num: H. RES. 1103
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1103
 
-> Celebrating the life of Sam Houston on the 217th anniversary of his birth.
+> Honoring the life and accomplishments of Sam Houston for his historical contributions to the expansion of the United States.
 
 ## Preamble
 
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Sam Houston became District Attorney in 1819, Adjutant General of the State in 1820, and Major General in 1821;
 - Whereas Sam Houston was elected to the United States Congress for the State of Tennessee in 1823 and again in 1825 before serving as Governor from 1827 to 1829;
 - Whereas Sam Houston moved to Oklahoma, served as an advocate for Native American rights and a representative of the Cherokee Nation, and then became a Cherokee citizen on October 21, 1829;
-- Whereas Sam Houston moved to Texas in 1935 and joined the movement to establish separate statehood for Texas;
+- Whereas Sam Houston moved to Texas in 1835 and joined the movement to establish separate statehood for Texas;
 - Whereas Sam Houston was elected as the commander-in-chief of the armies of Texas in 1836;
 - Whereas, on April 21, 1836, Sam Houston’s forces defeated Mexican President and General Santa Anna, securing Texas’ long sought independence;
 - Whereas the city of Houston, Texas, was named after then-President of the Republic of Texas, Sam Houston, on June 5, 1837;
@@ -30,4 +30,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas a memorial museum, U.S. Army base, national forest, historical park, university, and the largest free-standing statue of a United States figure recognize the life of Sam Houston; and
 - Whereas Sam Houston still stands as a symbol for Texas solidarity and is one of the most significant individuals in the history of Texas: Now, therefore, be it
 
-That the House of Representatives recognizes the historical contribution of Sam Houston to the State of Texas and the United States on the 217th anniversary of his birth.
+That the House of Representatives honors the life and accomplishments of Sam Houston for his historical contributions to the expansion of the United States.
