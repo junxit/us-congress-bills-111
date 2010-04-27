@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4861
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4861
@@ -38,9 +38,10 @@ To designate the facility of the United States Postal Service located at 1343 We
 - Rep. Shimkus, John [R-IL-19] (S000364)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 1343 We
 - 2010-04-26 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 223). (text: CR H2851)
 - 2010-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 223).(text: CR H2851)
+- 2010-04-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
