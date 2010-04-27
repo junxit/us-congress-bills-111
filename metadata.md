@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4543
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4543
@@ -68,9 +68,10 @@ To designate the facility of the United States Postal Service located at 4285 Pa
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -91,3 +92,4 @@ To designate the facility of the United States Postal Service located at 4285 Pa
 - 2010-04-26 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2010-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 221). (text: CR H2848)
 - 2010-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 221).(text: CR H2848)
+- 2010-04-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
