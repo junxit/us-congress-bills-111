@@ -2,18 +2,18 @@
 legis-num: H. RES. 1033
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1033
 
-> Expressing support for designation of April 2010 as “National Autism Awareness Month” and supporting efforts to devote new resources to research into the causes and treatment of autism and to improve training and support for individuals with autism and those who care for individuals with autism.
+> Expressing support for designation of April 2010 as “National Autism Awareness Month” and supporting efforts to devote resources to research into the causes and treatment of autism and to improve training and support for individuals with autism and those who care for individuals with autism.
 
 ## Preamble
 
-- Whereas autism is a developmental disorder that is typically diagnosed during the first 3 years of life, robbing individuals of their ability to communicate and interact with others;
+- Whereas autism is a developmental disorder that is typically diagnosed during the first 3 years of life, affecting individuals’ ability to communicate and interact with others;
 - Whereas autism affects an estimated 1 in every 110 children in the United States;
-- Whereas autism is four times more likely to occur in boys than in girls;
+- Whereas autism is four times more likely to be diagnosed in boys than in girls;
 - Whereas autism can affect anyone, regardless of race, ethnicity, or other factors;
 - Whereas it costs approximately $80,000 per year to treat an individual with autism in a medical center specializing in developmental disabilities;
 - Whereas the cost of special education programs for school-age children with autism is often more than $30,000 per individual per year;
@@ -24,8 +24,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the United States House of Representatives—
 
 - **(1)** expresses support for designation of a “National Autism Awareness Month”;
-- **(2)** recognizes and commends the parents and relatives of children with autism for their sacrifice and dedication in providing for the special needs of children with autism and for absorbing significant financial costs for specialized education and support services;
-- **(3)** supports the goal of devoting new resources to researching the root causes of autism, identifying the best methods of early intervention and treatment, expanding programs for individuals with autism across their lifespans, and promoting understanding of the special needs of people with autism;
+- **(2)** recognizes and commends the parents and relatives of children with autism for their sacrifice and dedication in providing for the special needs of children with autism and for absorbing financial costs for specialized education and support services;
+- **(3)** supports the goal of devoting resources to researching the root causes of autism, identifying the best methods of early intervention and treatment, expanding programs for individuals with autism across their lifespans, and promoting understanding of the special needs of people with autism;
 - **(4)** stresses the need to begin early intervention services soon after a child has been diagnosed with autism, noting that early intervention strategies are the primary therapeutic options for young people with autism, and that early intervention significantly improves the outcome for people with autism and can reduce the level of funding and services needed to treat people with autism later in life;
 - **(5)** recognizes the shortage of appropriately trained teachers who have the skills and support necessary to teach, assist, and respond to special needs students, including those with autism, in our school systems; and
-- **(6)** recognizes the importance of worker training programs that are tailored to the needs of developmentally disabled persons, including those with autism, and notes that people with autism can be, and are, productive members of the workforce if they are given appropriate support, training, and early intervention services.
+- **(6)** recognizes the importance of worker training programs that are tailored to the needs of people with developmental disabilities, including those with autism, and notes that people with autism can be, and are, productive members of the workforce if they are given appropriate support, training, and early intervention services.
