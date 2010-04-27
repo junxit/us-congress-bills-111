@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 498
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 498
@@ -29,3 +29,7 @@ A resolution designating April 2010 as "National Child Abuse Prevention Month".
 - 2010-04-22 — Introduced in Senate
 - 2010-04-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2594-2595)
 - 2010-04-22 — Sponsor introductory remarks on measure. (CR S2595)
+- 2010-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2712)
+- 2010-04-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2712)
+- 2010-04-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2712)
+- 2010-04-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2712)
