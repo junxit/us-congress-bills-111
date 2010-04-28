@@ -1,0 +1,86 @@
+---
+legis-num: S. 3272
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3272
+
+> To provide greater controls and restrictions on revolving door lobbying.
+
+## § 1. Short title
+
+This Act may be cited as the “Close the Revolving Door Act of 2010”.
+
+## § 2. Lifetime ban on Members of Congress from lobbying
+
+- **(a)** *In general* Section 207(e)(1) of title 18, United States Code, is amended to read as follows:
+  > - **(1)** *Members of Congress* Any person who is a Senator, a Member of the House of Representatives or an elected officer of the Senate or the House of Representatives and who after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any Member, officer, or employee of either House of Congress or any employee of any other legislative office of the Congress, on behalf of any other person (except the United States) in connection with any matter on which such former Senator, Member, or elected official seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+
+- **(b)** *Conforming amendment* Section 207(e)(2) of title 18, United States Code, is amended—
+  - **(1)** in the caption, by striking “Officers and staff” and inserting “Staff”; and
+  - **(2)** by striking “an elected officer of the Senate, or”.
+
+## § 3. Congressional staff
+
+Paragraphs (2), (3), (4), (5)(A), and (6)(A) of section 207(e) of title 18, United States Code, is amended by striking “1 year” and inserting “6 years”.
+
+## § 4. Improved reporting of lobbyists activities
+
+Section 6 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1605) is amended by inserting at the end the following:
+
+> - **(c)** *Joint web site*
+>   - **(1)** *In general* The Secretary of the Senate and the Clerk of the House of Representatives shall maintain a joint lobbyist disclosure Internet database for information required to be publicly disclosed under this Act which shall be an easily searchable Web site called lobbyists.gov with a stated goal of simplicity of usage.
+>   - **(2)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection $100,000 for fiscal year 2011.
+
+## § 5. Lobbyist revolving door to Congress
+
+- **(a)** *In general* Any person who is a registered lobbyist or an agent of a foreign principal may not within 6 years after that person leaves such position be hired by a Member or committee of either House of Congress with whom the registered lobbyist or an agent of a foreign principal has had substantial lobbying contact.
+- **(b)** *Waiver* This section may be waived in the Senate or the House of Representatives by the Committee on Ethics or the Committee on Standards of Official Conduct based on a compelling national need.
+- **(c)** *Substantial lobbying contact* For purposes of this section, in determining whether a registered lobbyist or agent of a foreign principal has had substantial lobbying contact within the applicable period of time, the Member or committee of either House of Congress shall take into consideration whether the individual's lobbying contacts have pertained to pending legislative business, or related to solicitation of an earmark or other Federal funding, particularly if such contacts included the coordination of meetings with the Member or staff, involved presentations to staff, or participation in fundraising exceeding the mere giving of a personal contribution. Simple social contacts with the Member or committee of either House of Congress and staff, shall not by themselves constitute substantial lobbying contacts.
+
+## § 6. Payment for charter flights by campaign funds and disclosure of certain air travel with a lobbyist by a Senator
+
+- **(a)** *Clarification of rules on use of campaign funds for flights on commercial aircraft*
+  - **(1)** *In general* Paragraph (1) of section 313(c) of the Federal Election Campaign Act of 1971 (2 U.S.C. 439a(c)) is amended—
+    - **(A)** by striking “a candidate for election for Federal office (other than a candidate who is subject to paragraph (2)), or any authorized committee of such a candidate, may not make any expenditure for a flight on an aircraft” in the matter preceding subparagraph (A) and inserting “in the case of a candidate for election to Federal office (other than a candidate who is subject to paragraph (2)), no political committee may make any expenditure for travel by such a candidate, or for travel on behalf of such a candidate, by means of a flight on an aircraft (regardless of whether such travel is in connection with an election for Federal office)”, and
+    - **(B)** by striking “candidate, the authorized committee, or other” in subparagraph (B).
+  - **(2)** *Effective date* The amendment made by this subsection shall apply to flights taken on or after the date of the enactment of this Act.
+- **(b)** *Disclosure* Paragraph 2(e)(1) of rule XXXV of the Standing Rules of the Senate is amended—
+  - **(1)** in subclause (C), by striking “and” after the semicolon;
+  - **(2)** by inserting after subclause (D) the following:
+    > - **(E)** the source will submit a list of the names of any registered lobbyist or an agent of a foreign principal on the trip not later than 30 days after the trip; and
+
+## § 7. Ban on lobbyists making cash campaign contributions
+
+Section 321 of the Federal Election Campaign Act of 1971 (2 U.S.C. 441g) is amended by—
+
+- **(1)** by striking “No person” and inserting the following:
+  > - **(a)** *In general* Except as provided in subsection (b), no person
+
+- **(2)** inserting at the end the following:
+  > - **(b)** *Lobbyist*
+  >   - **(1)** *Total ban* If the person described in subsection (a) is a lobbyist, the amount referred to in subsection (a) shall be zero.
+  >   - **(2)** *Lobbyist* In this subsection, the term “lobbyist” shall have the same meaning given such term in section 3(10) of the Lobbying Disclosure Act of 1995.
+
+## § 8. Reporting by substantial lobbying entities
+
+The Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) is amended by inserting after section 6 the following:
+
+> ## § 6A. Reporting by substantial lobbying entities
+>
+> - **(a)** *In general* A substantial lobbying entity shall file on an annual basis with the Clerk of the House of Representatives and the Secretary of the United States Senate a list of any employee, individual under contract, or individual who provides paid consulting services who is—
+>   - **(1)** a former United States Senator or a former Member of the United States House of Representatives; or
+>   - **(2)** a former congressional staff person who—
+>     - **(A)** made at least $100,000 in any 1 year as a congressional staff person;
+>     - **(B)** worked for a total of 4 years or more as a congressional staff person; or
+>     - **(C)** had a job title at any time while employed as a congressional staff person that contained any of the following terms: “Chief of Staff”, “Legislative Director”, “Staff Director”, “Counsel”, “Professional Staff Member”, “Communications Director”, or “Press Secretary”.
+> - **(b)** *Contents of filing* The filing required by this section shall contain a brief job description of each such employee, individual under contract, or individual who provides paid consulting services, and an explanation of their work experience under subsection (a) that requires this filing.
+> - **(c)** *Improved reporting of substantial lobbying entities* The Joint Web site being maintained by the Secretary of the Senate and the Clerk of the House of Representatives, known as lobbyists.gov, shall include an easily searchable database entitled “Substantial Lobbying Entities” that includes qualifying employees, individuals under contract, or individuals who provide paid consulting services, under subsection (a).
+> - **(d)** *Law enforcement oversight* The Clerk of the House of Representatives and the Secretary of the Senate shall provide a copy of the filings of substantial lobbying entities to the District of Columbia United States Attorney, to allow the District of Columbia United States Attorney to determine whether any such entities are underreporting the Federal lobbying activities of its employees, individuals under contract, or individuals who provide paid consulting services.
+> - **(e)** *Substantial lobbying entity* In this section, the term substantial lobbying entity means an incorporated entity that employs more than 3 federally registered lobbyists during a filing period.
+
+## § 9. Enhanced penalties
+
+Section 7(a) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1606(a)) is amended by striking “$200,000” and inserting “$500,000”.
