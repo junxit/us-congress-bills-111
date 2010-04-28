@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5147
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5147
@@ -36,3 +36,13 @@ Airport and Airway Extension Act of 2010
 - 2010-04-27 — Referred to House Transportation and Infrastructure
 - 2010-04-27 — Referred to House Ways and Means
 - 2010-04-27 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-04-28 — Cleared for White House.
+- 2010-04-28 — Considered under suspension of the rules. (consideration: CR H2950-2952)
+- 2010-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5147.
+- 2010-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-28 — Mr. Costello moved to suspend the rules and pass the bill.
+- 2010-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2950)
+- 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2950)
+- 2010-04-28 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2768)
+- 2010-04-28 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2768)
+- 2010-04-28 — Referred to the Subcommittee on Aviation.
