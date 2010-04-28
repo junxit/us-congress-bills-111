@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3393
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -37,9 +37,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (e); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (f) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 2 of the Improper Payment Information Act of 2002 (31 U.S.C. 3321 note) is amended by striking subsections (f) (as redesignated by this section) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 2 of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) is amended by striking subsections (f) (as redesignated by this section) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 2 of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) is amended by striking subsection (g) (as redesignated by this section) and inserting the following: | the bill names no machine-readable US Code section |
-| — | repeal | Subchapter VI of chapter 35 of title 31, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Except as provided in clause (ii), subchapter VI of chapter 35 of title 31, United States Code, is repealed. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections for chapter 35 of title 31, United States Code, is amended by striking the matter relating to subchapter VI. | the bill names no machine-readable US Code section |
 | — | strike | Section 3501 of title 31, United States Code, is amended by striking “and subchapter VI of this title”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2022(a)(6) of the Homeland Security Act of 2002 (6 U.S.C. 612(a)(6)) is amended by striking “(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31, United States Code)” and… | the bill names no machine-readable US Code section |
