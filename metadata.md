@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3808
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3808
@@ -22,9 +22,10 @@ Interstate Recognition of Notarizations Act of 2010
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Interstate Recognition of Notarizations Act of 2010
 - 2010-04-27 — Ms. Baldwin moved to suspend the rules and pass the bill.
 - 2010-04-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2919)
 - 2010-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2919)
+- 2010-04-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
