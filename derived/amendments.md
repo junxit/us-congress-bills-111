@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5013
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 0 executed, 50 stated and not applied.
+57 amendatory instructions. 0 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of subparagraph (D); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (2) of section 105(c) of the Weapon System Acquisition Reform Act of 2009 (Public Law 111–23; 123 Stat. 1718) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (2) of section 105(c) of the Weapon Systems Acquisition Reform Act of 2009 (Public Law 111–23; 123 Stat. 1718) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 141 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of subparagraph (B); | the bill names no machine-readable US Code section |
@@ -81,3 +81,10 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (6) as paragraph (8) and inserting after paragraph (5) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | Section 2505(b)(4) of such title is amended by inserting after “of this title)” the following “or major automated information systems (as defined in section 2445a of this title)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2506(a) of such title is amended by striking “budget allocation, weapons” and inserting “strategy, management, budget allocation,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 7 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 148 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (A) of section 2305(a)(3) of title 10, United States Code, is amended by striking “proposals; and” at the end of clause (ii) and all that follows through the end of the subparagraph and inserting the following: “proposals an… | the bill names no machine-readable US Code section |
+| — | replace | Section 2305(a)(3) of such title is further amended by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2305(a)(3) of such title is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
