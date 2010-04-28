@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5146
@@ -122,3 +122,7 @@ To provide that Members of Congress shall not receive a cost of living adjustmen
 - 2010-04-27 — Referred to House Administration
 - 2010-04-27 — Referred to House Oversight and Government Reform
 - 2010-04-27 — Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-04-28 — Cleared for White House.
+- 2010-04-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2768)
+- 2010-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2768)
+- 2010-04-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
