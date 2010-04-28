@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5147
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5147
@@ -46,3 +46,10 @@ Airport and Airway Extension Act of 2010
 - 2010-04-28 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2768)
 - 2010-04-28 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2768)
 - 2010-04-28 — Referred to the Subcommittee on Aviation.
+- 2010-04-29 — Message on Senate action sent to the House.
+- 2010-04-29 — Presented to President.
+- 2010-04-29 — Presented to President.
+- 2010-04-30 — Became Public Law No: 111-161.
+- 2010-04-30 — Became Public Law No: 111-161.
+- 2010-04-30 — Signed by President.
+- 2010-04-30 — Signed by President.
