@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5017
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5017
@@ -28,9 +28,10 @@ Rural Housing Preservation and Stabilization Act of 2010
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Rural Housing Preservation and Stabilization Act of 2010
 - 2010-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 62 (Roll no. 225). (text: CR H2907-2908)
 - 2010-04-27 — Ordered to be Reported (Amended) by Voice Vote.
 - 2010-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 62 (Roll no. 225).(text: CR H2907-2908)
+- 2010-04-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

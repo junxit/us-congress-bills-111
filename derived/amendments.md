@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5017
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Paragraph (8) of section 502(h) of the Housing Act of 1949 (42 U.S.C. 1472(h)(8)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 513 of the Housing Act of 1949 (42 U.S.C. 1483) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1472` | amend | Paragraph (8) of section 502(h) of the Housing Act of 1949 (42 U.S.C. 1472(h)(8)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1483` | add-at-end | Section 513 of the Housing Act of 1949 (42 U.S.C. 1483) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
