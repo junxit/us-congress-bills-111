@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 264
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 264
@@ -36,3 +36,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2010-04-21 — Introduced in House
 - 2010-04-21 — Introduced in House
 - 2010-04-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-04-22 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-04-28 — Considered under suspension of the rules. (consideration: CR H2949-2950)
+- 2010-04-28 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 264.
+- 2010-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-28 — Mr. Costello moved to suspend the rules and agree to the resolution.
+- 2010-04-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2949)
+- 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2949)
