@@ -1,7 +1,7 @@
 ---
 measure: S. 3217
 congress: 111
-version: Placed on Calendar Senate
+version: Amendment Ordered to be Printed (Senate)
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-831 amendatory instructions. 0 executed, 831 stated and not applied.
+896 amendatory instructions. 0 executed, 896 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -63,29 +63,29 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 210(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–10(c)) is amended by inserting before the period at the end the following: “or for purposes of assessment of potential systemic risk”. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting before the period at the end of the first sentence the following: “, including rules and regulations defining technical, trade, and other terms used in this title, except that the Commission may not define… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 202(a)(11) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(11)) is amended by striking “or (G)” and inserting the following: “; (G) any family office, as defined by rule, regulation, or order of the Commission, in acco… | the bill names no machine-readable US Code section |
 | — | replace | by striking “$25,000,000” and inserting “$100,000,000”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 312 as section 315; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 313 as section 312; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after section 312 (as so redesignated) the following new sections: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8)(C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for subchapter I of chapter 3 of title 31, United States Code, is amended by striking the item relating to section 312 and inserting the following new items: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 5(c) (12 U.S.C. 1844(c)), by striking paragraphs (3) and (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking section 10A (12 U.S.C. 1848a). | the bill names no machine-readable US Code section |
@@ -94,7 +94,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 4(k)(6)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 18(c)(5) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)(5)) is amended, in the matter immediately following subparagraph (B), by striking “and the convenience and needs of the community to be served” and inserting “the c… | the bill names no machine-readable US Code section |
 | — | replace | by striking “Each savings” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Home Owners' Loan Act (12 U.S.C. 1462) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 10(b) of the Home Owners' Loan Act (12 U.S.C. 1467a(b)) is amended by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 6 of the Bank Holding Company Act of 1956 (12 U.S.C. 1845) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -129,13 +129,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The Board” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding clause (i), by inserting before “regulations” the following: “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this secti… | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking the comma at the end and inserting a period; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 11 of the Home Owners' Loan Act (12 U.S.C. 1468) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (3). | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “shall include” and all that follows through the end of the paragraph and inserting the following: “shall include— | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 5(u)(3) of the Home Owners' Loan Act (12 U.S.C. 1464(u)(3)) is amended by striking “Director” each place that term appears and inserting “Comptroller of the Currency”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Act entitled “An Act to provide for the conversion of national banking associations into and their merger or consolidation with State banks, and for other purposes.” (12 U.S.C. 214 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -155,188 +155,253 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (i); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (j) and (k) as subsections (i) and (j), respectively. | the bill names no machine-readable US Code section |
 | — | add-at-end | The Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (34) as paragraph (35); | the bill names no machine-readable US Code section |
-| — | amend | by adding after paragraph (33) the following: | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “determined by the Commission” and inserting “determined jointly by the Commission and the Securities and Exchange Commission”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “net” after “total”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subclause (II), by striking “the obligations” and all that follows through “$1,000,000; and” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in clause (vii), by striking “except that” and all that follows through “section 2(c)(2)(B)(ii);” and inserting the following: “except that such term does not include a State or an entity, political subdivision, instrumentality, agency, … | the bill names no machine-readable US Code section |
-| — | replace | in clause (xi), by striking “total assets in an amount” and inserting “amounts invested on a discretionary basis”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (xi), by striking “an individual” and all that follows through “of—” and inserting “a natural person who—”; and | the bill names no machine-readable US Code section |
-| — | insert | in subclause (I), by inserting “owns and invests on a discretionary basis in excess of” before “$10,000,000”; and | the bill names no machine-readable US Code section |
-| — | insert | in subclause (II), by inserting “owns and invests on a discretionary basis in excess of” before “$5,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “determines” and inserting “and the Securities and Exchange Commission may further jointly determine”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i) by striking “This” and inserting “(I) Except as provided in subclause (II), this”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of clause (i) the following: | the bill names no machine-readable US Code section |
+| — | amend | The Securities Exchange Act of 1934 is amended by adding the following section after section 3A (15 U.S.C. 78c–1): | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 19(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78s(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Subject to paragraph (2)” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3) and (4), (5) through (17), (18) through (23), (24) through (28), (29), (30), (31) through (33), and (34) as paragraphs (6), (8) and (9), (11) through (23), (26) through (31), (34) through (38), (40), … | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (6) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (9) (as redesignated by paragraph (1)), by striking “except onions” and all that follows through the period at the end and inserting the following: “except onions (as provided in section 13-1) and motion picture box office r… | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (9) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (11) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subclause (I), by striking “made or to be made on or subject to the rules of a contract market or derivatives transaction execution facility” and inserting “, security futures product, or swap”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subclauses (II) and (III) as subclauses (III) and (IV); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subclause (I) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subclause (IV) (as so redesignated), by striking “or” ; | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (17) (as redesignated by paragraph (1)), in subparagraph (A), in the matter preceding clause (i), by striking “paragraph (12)(A)” and inserting “paragraph (18)(A)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 1a (11)(A)” and inserting “paragraph (17)(A)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$25,000,000” and inserting “$50,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (xi), in the matter preceding subclause (I), by striking “total assets in an amount” and inserting “amounts invested on a discretionary basis, the aggregate of which is”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (22) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (23) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (23) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (28) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (30) (as redesignated by paragraph (1)), in subparagraph (B), by striking “state” and inserting “State”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (31) (as redesignated by paragraph (1)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (31) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (38) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (C) (as so redesignated), by striking “and”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (C), (D), and (E) as subparagraphs (B), (C), and (F), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (C) (as so redesignated), by striking “and”; | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after subparagraph (C) (as so redesignated) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by adding after paragraph (35) (as so redesignated) the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)) is amended by adding at the end the following: “The Commission shall not have the authority to grant exemptions from the swap-related provisions of the Over-the-Counter Der… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “the Over-the-Counter Derivatives Markets Act of 2010 and” after “otherwise provided in”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “subsections (c) through (i)” and inserting “subsections (c) and (f)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “involving contracts of sale” and inserting “involving swaps, or contracts of sale”. | the bill names no machine-readable US Code section |
-| — | strike | in clause (i), by striking “or”; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (41) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (46) (as redesignated by paragraph (1)), by striking “subject to section 2(h)(7)” and inserting “subject to section 2(h)(5)”; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after paragraph (46) (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (51) (as redesignated by paragraph (1)), in subparagraph (A)(i), by striking “partipants” and inserting “participants”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(c)(1) of the Commodity Exchange Act (7 U.S.C. 6(c)(1)) is amended by striking “except that” and all that follows through the period at the end and inserting the following: “except that— | the bill names no machine-readable US Code section |
+| — | replace | in subitem (AA), by striking “section 1a(20)” and inserting “section 1a”; and | the bill names no machine-readable US Code section |
+| — | replace | in subitem (BB), by striking “section 1a(20)” and inserting “section 1a”; and | the bill names no machine-readable US Code section |
+| — | replace | in item (dd), by striking “section 1a(12)(A)(ii)” and inserting “section 1a(18)(A)(ii)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4m(3) of the Commodity Exchange Act (7 U.S.C. 6m(3)) is amended by striking “section 1a(6)” and inserting “section 1a”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4q(a)(1) of the Commodity Exchange Act (7 U.S.C. 6o–1(a)(1)) is amended by striking “section 1a(4)” and inserting “section 1a(9)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5(e)(1) of the Commodity Exchange Act (7 U.S.C. 7(e)(1)) is amended by striking “section 1a(4)” and inserting “section 1a(9)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5a(b)(2)(F) of the Commodity Exchange Act (7 U.S.C. 7a(b)(2)(F)) is amended by striking “section 1a(4)” and inserting “section 1a(9)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5b(a) of the Commodity Exchange Act (7 U.S.C. 7a–1(a)) is amended, in the matter preceding paragraph (1), by striking “section 1a(9)” and inserting “section 1a”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5c(c)(2)(B) of the Commodity Exchange Act (7 U.S.C. 7a–2(c)(2)(B)) is amended by striking “section 1a(4)” and inserting “section 1a(9)”. | the bill names no machine-readable US Code section |
+| — | replace | in subclause (I), by striking “section 1a(12)(B)(ii)” and inserting “section 1a(18)(B)(ii)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subclause (II), by striking “section 1a(12)” and inserting “section 1a(18)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(7), by striking “section 1a(20)” and inserting “section 1a”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2), by striking “section 1a(12)” and inserting “section 1a”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “section 1a(4)” and inserting “section 1a”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “section 1a(4)” and inserting “section 1a(9)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “section 1a(12)” and inserting “section 1a”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “section 1a(33)” and inserting “section 1a”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “section 1a(10)” and inserting “section 1a”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “section 1a(12)(B)(ii)” and inserting “section 1a(18)(B)(ii)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “section 1a(12)” and inserting “section 1a(18)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “section 1a(13)” and inserting “section 1a”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 404(1), by striking “section 1a(4)” and inserting “section 1a”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and” after “otherwise provided in”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(c) through (i) of this section” and inserting “(c) and (f)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “contracts of sale” and inserting “swaps or contracts of sale”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “or derivatives transaction execution facility registered pursuant to section 5 or 5a” and inserting “pursuant to section 5”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 12 of the Commodity Exchange Act (7 U.S.C. 16) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in clause (i), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (ii) as clause (iii); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by amending subsection (g) to read as follows: | the bill names no machine-readable US Code section |
-| — | repeal | Subsections (d), (e), and (h) of section 2 of the Commodity Exchange Act (7 U.S.C. 2(d), 2(e), and 2(h)) are repealed. | the bill names no machine-readable US Code section |
-| — | insert | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is further amended by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Subsections (a) and (b) of section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) are amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) (as amended by section 723(a)(3)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (d), (e), (g), and (h); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (g). | the bill names no machine-readable US Code section |
+| — | insert | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) (as amended by paragraph (1)) is amended by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by inserting after subsection (g) (as redesignated by paragraph (1)(B)) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) (as amended by section 732) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking subparagraph (F) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9)(A)(i), by striking “the commodity futures account” and inserting “a commodity contract account”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4s of the Commodity Exchange Act (as added by section 731) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) is amended by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 5b(c)(2) of the Commodity Exchange Act (7 U.S.C. 7a–1(c)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) is further amended by adding after subsection (k), as added by this section, the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5b(c) of the Commodity Exchange Act (7 U.S.C. 7a–1(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, central bank and ministries,” after “department” each place that term appears; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “futures authority.” and inserting “futures authority,”. | the bill names no machine-readable US Code section |
-| — | repeal | Sections 402(d), 404, 407, 408(b), and 408(c)(2) of the Legal Certainty for Bank Products Act of 2000 (7 U.S.C. 27(d), 27b, 27e, 27f(b), and 27f(c)(2)) are repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 5b(c) of the Commodity Exchange Act (7 U.S.C. 7a–1(c)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) (as amended by subsection (b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, central bank and ministries,” after “department” each place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “. is a party.” and inserting “, is a party.”. | the bill names no machine-readable US Code section |
+| — | strike | by striking sections 404 and 407 (7 U.S.C. 27b, 27e); | the bill names no machine-readable US Code section |
+| — | strike | in section 402 (7 U.S.C. 27), by striking subsection (d); and | the bill names no machine-readable US Code section |
+| — | replace | by striking “in the case” and all that follows through “a hybrid” and inserting “in the case of a hybrid”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “; or” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (b). | the bill names no machine-readable US Code section |
 | — | amend | Section 403 of the Legal Certainty for Bank Products Act of 2000 (7 U.S.C. 27a) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 8 of the Commodity Exchange Act (7 U.S.C. 12) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 20 the following: | the bill names no machine-readable US Code section |
-| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4q the following: | the bill names no machine-readable US Code section |
-| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4r (as added by section 716) the following: | the bill names no machine-readable US Code section |
-| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4s (as added by section 717) the following: | the bill names no machine-readable US Code section |
-| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 5g the following: | the bill names no machine-readable US Code section |
-| — | repeal | Sections 5a and 5d of the Commodity Exchange Act (7 U.S.C. 7a and 7a-3) are repealed. | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a)(1)(A), in the first sentence, by striking “or 5a”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “, or register a derivatives transaction execution facility that trades or executes,”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “, and no derivatives transaction execution facility shall trade or execute such contracts of sale (or options on such contracts) for future delivery,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “or the derivatives transaction execution facility,”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (II), by striking “or derivatives transaction execution facility”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (V), by striking “or registered derivatives transaction execution facility,”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “, or register a derivatives transaction execution facility that trades or executes,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “, or registered as a derivatives transaction execution facility for,”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (IV), by striking “registered derivatives transaction execution facility,” each place that term appears; | the bill names no machine-readable US Code section |
-| — | amend | by amending clause (ii)(I) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii)(II), by striking “or registered derivatives transaction execution facility”; and | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii)(III), by striking “or registered derivatives transaction execution facility”; | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a)(9)(B)(ii), by striking “or derivatives transaction execution facility”, each place that term appears; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(1), by striking “section 5a of this Act” and all that follows through “5d of this Act” and inserting “section 5b of this Act”; | the bill names no machine-readable US Code section |
-| — | strike | in subclause (II)(cc), by striking “or a derivatives transaction execution facility”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (IV)(cc), by striking “or a derivatives transaction execution facility”; | the bill names no machine-readable US Code section |
-| — | strike | in subclause (II)(cc), by striking “or a derivatives transaction execution facility”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (IV)(cc), by striking “or a derivatives transaction execution facility”; | the bill names no machine-readable US Code section |
-| — | strike | in subsection (e)(2), by striking “or a derivatives transaction execution facility,”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g), by striking “section 5a of this Act” and all that follows through “5d of this Act” and inserting “section 5b of this Act”; | the bill names no machine-readable US Code section |
-| — | strike | in clause (i), by striking “, or a derivatives transaction execution facility,”; | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii), by striking “, or a derivatives transaction execution facility,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (i)(2), by striking “section 5a of this Act” and all that follows through “5d of this Act” and inserting “section 5b of this Act”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “or derivatives transaction execution facility” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or derivatives transaction execution facility,” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “, derivatives transaction execution facility,” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “derivatives transaction execution facility” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or derivatives transaction execution facilities,” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or derivatives transaction execution facilities” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or registered derivatives transaction execution facility” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or registered derivatives transaction execution facility,” each place that term appears; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “and registered derivatives transaction execution facility” each place that term appears. | the bill names no machine-readable US Code section |
-| — | strike | Section 4j of the Commodity Exchange Act (7 U.S.C. 6j) is amended in the heading by striking “and registered derivatives transaction execution facilities”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 5(e)(2) of the Commodity Exchange Act (7 U.S.C. 5(e)) is repealed. | the bill names no machine-readable US Code section |
-| — | strike | Sections 555, 556, 559, and 560 of title 11, United States Code, are each amended by striking “, a derivatives transaction execution facility registered under the Commodity Exchange Act,” each place that term appears. | the bill names no machine-readable US Code section |
-| — | strike | Section 561 of title 11, United States Code, is amended by striking “or a derivatives transaction execution facility registered under the Commodity Exchange Act”. | the bill names no machine-readable US Code section |
-| — | strike | Section 3(55)(C)(iii)(I) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(55)(C)(iii)(I)) is amended by striking “or registered derivatives transaction execution facility”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The Commodity Exchange Act is amended by inserting after section 20 (7 U.S.C. 24) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Commodity Exchange Act is amended by inserting after section 4q (7 U.S.C. 6o-1) the following: | the bill names no machine-readable US Code section |
+| — | amend | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding after section 4s (as added by section 731) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by inserting after section 4r (as added by section 729) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (e); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Commodity Exchange Act is amended by inserting after section 5g (7 U.S.C. 7b-2) the following: | the bill names no machine-readable US Code section |
+| — | repeal | Sections 5a and 5d of the Commodity Exchange Act (7 U.S.C. 7a, 7a-3) are repealed. | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a)(1)(A), in the first sentence, by striking “or 5a”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) of subsection (g) (as redesignated by section 723(a)(1)(B)), by striking “section 5a of this Act” and all that follows through “5d of this Act” and inserting “section 5b of this Act”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “that—” and all that follows through “(i) has been designated” and inserting “that has been designated”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “; or” and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; or” and inserting “; and” and | the bill names no machine-readable US Code section |
 | — | strike | by striking clause (ii). | the bill names no machine-readable US Code section |
-| — | strike | Section 5(b)(2)(C)(iii) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78eee(b)(2)(C)(iii)) is amended by striking “, a derivatives transaction execution facility registered under the Commodity Exchange Act,”. | the bill names no machine-readable US Code section |
-| — | amend | Section 5(d) of the Commodity Exchange Act (7 U.S.C. 7(d)) is amended by amending paragraph (9) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5(d) of the Commodity Exchange Act (7 U.S.C. 7(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 8a of the Commodity Exchange Act (7 U.S.C. 12a) is amended in paragraph (7)(C) by striking “, excepting the setting of levels of margin”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” after “(a)”; | the bill names no machine-readable US Code section |
-| — | replace | in the first sentence, by striking “on electronic trading facilities with respect to a significant price discovery contract” and inserting “swaps that perform or affect a significant price discovery function with respect to regulated mar… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “or derivatives transaction execution facility or facilities or electronic trading facility” and inserting “or alternative swap execution facility or facilities”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “or derivatives transaction execution facility or facilities or electronic trading facility” and inserting “or alternative swap execution facility”. | the bill names no machine-readable US Code section |
-| — | replace | Section 5(d)(1) of the Commodity Exchange Act (7 U.S.C. 7(d)(1)) is amended by striking “The board of trade shall have” and inserting “Except where the Commission otherwise determines by rule or regulation pursuant to section 8a(5), the … | the bill names no machine-readable US Code section |
-| — | replace | Section 5b(c)(2)(A) of the Commodity Exchange Act (7 U.S.C. 7a–1(c)(2)(A)) is amended by striking “The applicant shall have” and inserting “Except where the Commission otherwise determines by rule or regulation pursuant to section 8a(5),… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “5a(d) and 5b(c)(2)” and inserting “5b(c)(2) and 5h(e)”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “shall not” and inserting “may”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “(1) In general.—Subject to” and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 5 of the Commodity Exchange Act (7 U.S.C. 7) is amended by striking subsection (b). | the bill names no machine-readable US Code section |
+| — | replace | Section 5 of the Commodity Exchange Act (7 U.S.C. 7) is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (C), by striking “, excepting the setting of levels of margin”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “(a)” the following: | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence, by striking “on electronic trading facilities with respect to a significant price discovery contract” and inserting “swaps that perform or affect a significant price discovery function with respect to registered en… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including any group or class of traders,” after “held by any person”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “on an electronic trading facility with respect to a significant price discovery contract,” and inserting “swaps traded on or subject to the rules of an swaps execution facility, or swaps not traded on or subject to the rules… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “or derivatives transaction execution facility or facilities or electronic trading facility” and inserting “or swap execution facility or facilities”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “or derivatives transaction execution facility or facilities or electronic trading facility” and inserting “or swap execution facility”. | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence, by striking “The Commission” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “Such rules and regulations” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “No rule or regulation” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “that (1) requires” and inserting the following: “that— | the bill names no machine-readable US Code section |
+| — | replace | by striking “market, or (2) governs” and inserting the following: “market; or | the bill names no machine-readable US Code section |
+| — | insert | by inserting before paragraph (2) (as designated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | repeal | Section 5c(d) of the Commodity Exchange Act (7 U.S.C. 7a–2(d)) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | Section 4(b) of the Commodity Exchange Act (7 U.S.C. 6(b)) is amended in the third sentence by striking “No rule or regulation” and inserting “Except as provided in paragraphs (1) and (2), no rule or regulation”. | the bill names no machine-readable US Code section |
-| — | insert | Section 4(b) of the Commodity Exchange Act (7 U.S.C. 6(b)) is further amended by inserting before “The Commission” the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 4(a) of the Commodity Exchange Act (7 U.S.C. 6(a)) is amended by inserting “or by subsection (f)” after “Unless exempted by the Commission pursuant to subsection (c)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4 of the Commodity Exchange Act (7 U.S.C. 6) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 22(a) of the Commodity Exchange Act (7 U.S.C. 25(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 22(a)(4) of the Commodity Exchange Act (7 U.S.C. 25(a)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding the following new section after section 4b: | the bill names no machine-readable US Code section |
-| — | replace | Section 4b(a)(2) of the Commodity Exchange Act (7 U.S.C. 6b(a)(2)) is amended by striking “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 5a(g),” and inserting “or swap,”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4b(b) of the Commodity Exchange Act (7 U.S.C. 6b(b)) is amended by striking “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 5a(g),” and inserting “or swap,”. | the bill names no machine-readable US Code section |
-| — | insert | Section 4c(a) of the Commodity Exchange Act (7 U.S.C. 6c(a)) is amended by inserting “or swap” before “if the transaction is used or may be used”. | the bill names no machine-readable US Code section |
-| — | insert | Section 6(c) of the Commodity Exchange Act (7 U.S.C. 9) is amended by inserting “or of any swap,” before “or has willfully made”. | the bill names no machine-readable US Code section |
-| — | insert | Section 6(d) of the Commodity Exchange Act (7 U.S.C. 13b) is amended by inserting “or of any swap,” before “or otherwise is violating”. | the bill names no machine-readable US Code section |
-| — | insert | Section 6c of the Commodity Exchange Act (7 U.S.C. 13a-1) is amended by inserting “or any swap” after “commodity for future delivery”. | the bill names no machine-readable US Code section |
-| — | insert | Section 9(a)(2) of the Commodity Exchange Act (7 U.S.C. 13(a)(2)) is amended by inserting “or of any swap,” before “or to corner”. | the bill names no machine-readable US Code section |
-| — | insert | Section 9(a)(4) of the Commodity Exchange Act (7 U.S.C. 13(a)(4)) is amended by inserting “swap repository,” before “or futures association”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “swap repository,” before “or registered futures association”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 22(a) of the Commodity Exchange Act (7 U.S.C. 25(a)) (as amended by section 739) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 22(a) of the Commodity Exchange Act (7 U.S.C. 25(a)) is amended by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | repeal | Sections 408 and 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4421, 4422) are repealed. | the bill names no machine-readable US Code section |
+| — | insert | The Commodity Exchange Act is amended by inserting after section 4b (7 U.S.C. 6b) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2), by striking “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 5a(g),” and inserting “or swap,”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 5a(g),” and inserting “or swap,”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 4c(a)(1) of the Commodity Exchange Act (7 U.S.C. 6c(a)(1)) is amended by inserting “or swap” before “if the transaction is used or may be used”. | the bill names no machine-readable US Code section |
+| — | insert | Section 6(c) of the Commodity Exchange Act (7 U.S.C. 9) is amended in the first sentence by inserting “or of any swap,” before “or has willfully made”. | the bill names no machine-readable US Code section |
+| — | insert | Section 6(d) of the Commodity Exchange Act (7 U.S.C. 13b) is amended in the first sentence, in the matter preceding the proviso, by inserting “or of any swap,” before “or otherwise is violating”. | the bill names no machine-readable US Code section |
+| — | insert | Section 6c(a) of the Commodity Exchange Act (7 U.S.C. 13a-1(a)) is amended in the matter preceding the proviso by inserting “or any swap” after “commodity for future delivery”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or of any swap,” before “or to corner”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (4), by inserting “swap data repository,” before “or futures association” and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “swap data repository,” before “or registered futures association”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, or swaps,” before “on the basis”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (6), (7), (8), (9), and (10) as paragraphs (7), (8), (9), (10), and (11), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (5), the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “(to the extent provided in section 5a(g), 5b, 5d, or 12(e)(2)(B))” and inserting “5b, or 12(e)(2)(B))”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 9(a) of the Commodity Exchange Act (7 U.S.C. 13(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “(dd),” each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in clause (iii), by inserting “, and accounts or pooled investment vehicles described in clause (vi),” before “shall be subject to”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “(dd),” each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in clause (ii)(I), by inserting “, and accounts or pooled investment vehicles described in clause (vii),” before “shall be subject to”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 1a(19)(A)(iv)(II) of the Commodity Exchange Act (7 U.S.C. 1a(19)(A)(iv)(II)) (as redesignated by section 721(a)(1)) is amended by inserting before the semicolon at the end the following: “provided, however, that for purposes of s… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “(to the extent provided in section 5a(g)), 5b, 5d, or 12(e)(2)(B))” and inserting “, 5b, or 12(e)(2)(B))”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (2), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding after section 4t (as added by section 718) the following: | the bill names no machine-readable US Code section |
-| — | insert | in subparagraphs (A) and (B) of paragraph (5), by inserting “(but not security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants)” after “securities” each place that term appears; | the bill names no machine-readable US Code section |
+| — | replace | Section 206(a) of the Gramm-Leach-Bliley Act (Public Law 106–102; 15 U.S.C. 78c note) is amended, in the matter preceding paragraph (1), by striking “For purposes of” and inserting “Except as provided in subsection (e), for purposes of”. | the bill names no machine-readable US Code section |
+| — | insert | in item (aa), by inserting “United States” before “financial institution”; | the bill names no machine-readable US Code section |
+| — | strike | by striking items (dd) and (ff); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating items (ee) and (gg) as items (dd) and (ff), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | in item (dd) (as so redesignated), by striking the semicolon and inserting “; or”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) (as amended by subsection (a)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 6c(d) of the Commodity Exchange Act (7 U.S.C. 13a–1(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5(d) of the Commodity Exchange Act (7 U.S.C. 7(d)) (as amended by section 735(b)) is amended by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5b(c)(2) of the Commodity Exchange Act (7 U.S.C. 7a–1(c)(2)) (as amended by section 725(c)) is amended by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5c(a) of the Commodity Exchange Act (7 U.S.C. 7a–2(a)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended by striking subsection (d). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4c(a) of the Commodity Exchange Act (7 U.S.C. 6c(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4c(a) of the Commodity Exchange Act (7 U.S.C. 6c(a)) (as amended by section 746) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 2(c)(1) of the Commodity Exchange Act (7 U.S.C. 2(c)(1)) is amended, in the matter preceding subparagraph (A), by striking “5a (to the extent provided in section 5a(g)),”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “engage as” and inserting “be a”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “or introducing broker” and all that follows through “or derivatives transaction execution facility”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “or introducing broker”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “if a futures commission merchant,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(3) Subsection (1) of this section” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “to any investment trust” and all that follows through the period at the end and inserting the following: “to any commodity pool that is engaged primarily in trading commodity interests. | the bill names no machine-readable US Code section |
+| — | strike | by striking “, 5a(d),”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and section (2)(h)(7) with respect to significant price discovery contracts,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(1), by striking “section 4d(c) of this Act” and inserting “section 4d(e)”. | the bill names no machine-readable US Code section |
+| — | strike | Section 5e of the Commodity Exchange Act (7 U.S.C. 7b) is amended by striking “or revocation of the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) with respect to a significant price discove… | the bill names no machine-readable US Code section |
+| — | strike | Section 6(b) of the Commodity Exchange Act (7 U.S.C. 8(b)) is amended in the first sentence by striking “, or to revoke the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) with respect to a s… | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 2(c), 2(d), 2(f), or 2(g) of this Act” and inserting “section 2(c), 2(f), or 2(i) of this Act”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “2(h) or”. | the bill names no machine-readable US Code section |
+| — | replace | Section 17(r)(1) of the Commodity Exchange Act (7 U.S.C. 21(r)(1)) is amended by striking “section 4d(c) of this Act” and inserting “section 4d(e)”. | the bill names no machine-readable US Code section |
+| — | strike | Section 22(b)(1)(A) of the Commodity Exchange Act (7 U.S.C. 25(b)(1)(A)) is amended by striking “section 2(h)(7) or”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 2(c), 2(d), 2(f), or (2)(g) of such Act” and inserting “section 2(c), 2(f), or 2(i) of that Act”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “2(h) or”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a)) (as amended by section 727) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraphs (A) and (B) of paragraph (5), by inserting “(not including security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants)” after “securities” each place that term a… | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (10), by inserting “security-based swap,” after “security future,”; | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (13), by adding at the end the following: “For security-based swaps, such terms include the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or exting… | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (14), by adding at the end the following: “For security-based swaps, such terms include the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or exting… | the bill names no machine-readable US Code section |
-| — | replace | by striking “or government securities dealer” and inserting “government securities dealer, security-based swap dealer, or major security-based swap participant” each place that term appears; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B)(i)(II), by inserting “security-based swap dealer, major security-based swap participant,” after “government securities dealer,”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 206A(a) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note) is amended in the material preceding paragraph (1), by striking “Except as” and all that follows through “that—” and inserting the following: “Except as provided in subse… | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (a) and reserving the subsection; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (1); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (1), (2), and (3), respectively. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “206B of the Gramm-Leach-Bliley Act” and inserting “3(a)(75) of the Securities Exchange Act of 1934”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking “206B of the Gramm-Leach-Bliley Act” and inserting “3(a)(75) of the Securities Exchange Act of 1934”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (a) and reserving the subsection; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (1), (2), and (3), respectively; and | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (2) (as so redesignated), by inserting “or section 9(j) with respect to rulemaking authority to prevent fraudulent, deceptive, or manipulative practices” after “reporting requirements”; | the bill names no machine-readable US Code section |
-| — | replace | in section 9(a) (15 U.S.C. 78i(a)), by striking paragraphs (2) through (5) and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | in section 9(i) (15 U.S.C. 78i(i)), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
-| — | strike | in section 10 (15 U.S.C. 78j), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “, or any security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act),”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraphs (B) and (C), by striking “agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; | the bill names no machine-readable US Code section |
-| — | strike | in section 15(i) (15 U.S.C. 78o(i)), as added by section 303(f) of the Commodity Futures Modernization Act of 2000 (Public Law 106–554; 114 Stat. 2763A–455)), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(2)(C), by striking “(as defined in section 206(b) of the Gramm-Leach-Bliley Act)” and inserting “or a security-based swap”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(3)(B), by inserting “or security-based swaps” after “security-based swap agreements”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; and | the bill names no machine-readable US Code section |
+| — | replace | in subclause (I), by striking “or government securities dealer” and inserting “government securities dealer, security-based swap dealer, or major security-based swap participant”; and | the bill names no machine-readable US Code section |
+| — | insert | in subclause (II), by inserting “security-based swap dealer, major security-based swap participant,” after “government securities dealer,”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “or government securities dealer” and inserting “government securities dealer, security-based swap dealer, or major security-based swap participant”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting “security-based swap dealer, major security-based swap participant,” after “government securities dealer,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | Sections 206B and 206C of the Gramm-Leach-Bliley Act (Public Law 106–102; 15 U.S.C. 78c note) are repealed. | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (a) and reserving that subsection; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that such term appears and inserting “(as defined in section 3(a)(78) of the Securities Exchange Act of 1934)”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(including security-based swaps)” after “securities”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” and inserting “(as defined in section 3(a)(78) of the Securities Exchange Act)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “206B of the Gramm-Leach-Bliley Act” and inserting “3(a)(78) of the Securities Exchange Act of 1934”. | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (a) and reserving that subsection; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that the term appears; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking paragraphs (2) through (5) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (i), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act),” each place that term appears; and | the bill names no machine-readable US Code section |
+| — | strike | in the matter following subsection (b), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (c)(1)(A), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act),”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraphs (B) and (C) of subsection (c)(1), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that term appears; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i), as added by section 303(f) of the Commodity Futures Modernization Act of 2000 (Public Law 106–554; 114 Stat. 2763A–455)), as subsection (j); and | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (j), as redesignated by subparagraph (C), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a)(2)(C), by striking “(as defined in section 206(b) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note))”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(3)(B), by inserting “or security-based swaps” after “security-based swap agreement”; | the bill names no machine-readable US Code section |
+| — | strike | in the first sentence of subsection (b), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
+| — | replace | in the third sentence of subsection (b), by striking “(as defined in section 206B of the Gramm-Leach Bliley Act)” and inserting “or a security-based swap”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (g), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (d), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (f), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (f), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(1), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (g), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”. | the bill names no machine-readable US Code section |
-| — | amend | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding the following section after section 3A: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 17A(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is further amended by adding after section 3B the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 3B (as added by section 717 of this Act): | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 3C (as added by subsection (a) of this section) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 3D (as added by subsection (b)) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15E (15 U.S.C. 78o–7) the following: | the bill names no machine-readable US Code section |
-| — | amend | Paragraphs (1) through (3) of section 9(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78i(b)(1)–(3)) are amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Exchange Act of 1934 is amended by inserting after section 10A (15 U.S.C. 78j–1) the following new section: | the bill names no machine-readable US Code section |
+| — | replace | Section 9(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78i(b)) is amended by striking paragraphs (1) through (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 9 of the Securities Exchange Act of 1934 (15 U.S.C. 78i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 is amended by inserting after section 10A (15 U.S.C. 78j–1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 17(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting “registered security-based swap repository,” after “registered securities information processor,”. | the bill names no machine-readable US Code section |
-| — | amend | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is further amended by adding after section 3C (as added by section 753) the following: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 13 the following section: | the bill names no machine-readable US Code section |
-| — | insert | Section 13(d)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(d)(1)) is amended by inserting “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based s… | the bill names no machine-readable US Code section |
-| — | insert | Section 13(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(g)(1)) is amended by inserting “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purc… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(A)” after “accounts holding”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or (B) security-based derivative instruments or other derivative securities that the Commission may determine by rule, having such values as the Commission, by rule, may determine” after “less than $10,000,000) as the Commi… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “section 13(d)(1) of this title” and inserting “subsection (d)(1) of this section and of security-based swaps or other derivative instrument that the Commission may determine by rule,”. | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15E (15 U.S.C. 78o–7) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 13 the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d)(1), by inserting “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “Alaska Nati… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (g)(1), by inserting “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may defin… | the bill names no machine-readable US Code section |
+| — | insert | Section 13(f)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f)(1)) is amended by inserting “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purc… | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting “security-based swap dealer, major security-based swap participant,” after “government securities dealer,”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (F), by inserting “, or security-based swap dealer, or a major security-based swap participant” after “or dealer”. | the bill names no machine-readable US Code section |
-| — | insert | Section 16(f) of the Securities Exchange Act of 1934 (15 U.S.C. 78p) is amended by inserting “or security-based swaps” after “security futures products”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking “broker or dealer” and inserting “broker, dealer, security-based swap dealer, or a major security-based swap participant”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 28(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “security-based swap,” after “security future,”; | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (3), by adding at the end the following: “Any offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, … | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5 of the Securities Act of 1933 (15 U.S.C. 77e) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(1), by inserting “and (c) and subject to subsection (d)” after “Except as provided in subsection (b)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 30 of the Securities Exchange Act of 1934 (15 U.S.C. 78dd) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 19 of the Securities Act of 1933 (15 U.S.C. 77s) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -394,14 +459,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (p) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 15E(m) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7(m)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “In any” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7), as amended by this subtitle, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7), as amended by this subtitle, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15F, as added by this Act, the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(d) Each” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the third sentence, by inserting after “securities of each class” the following: “, other than any class of asset-backed securities,”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7 of the Securities Act of 1933 (15 U.S.C. 77g) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(6) transactions” and inserting the following: | the bill names no machine-readable US Code section |
@@ -417,19 +482,19 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (A) through (D) as clauses (i) through (iv), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(9)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in the matter immediately following clause (iv), as so redesignated, by striking “As used” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 4C (15 U.S.C. 78d–3) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 14A, as added by this title, the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(a)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 14B of the Securities Exchange Act of 1934, as added by section 971, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(1)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “or municipal advisor” after “municipal securities dealer” each place that term appears; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “or municipal advisor” after “municipal securities dealer” each place that term appears; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “dealer, or municipal securities dealer or class of brokers, dealers, or municipal securities dealers” and inserting “dealer, municipal securities dealer, or municipal advisor, or class of brokers, dealers, … | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “Not later than” and all that follows through “appointed by the Commission” and inserting “The Municipal Securities Rulemaking Board shall be composed of 15 members, or such other number of members as s… | the bill names no machine-readable US Code section |
 | — | replace | by striking the second sentence and inserting the following: “The members of the Board shall serve as members for a term of 3 years or for such other terms as specified by rules of the Board pursuant to paragraph (2)(B), and shall consis… | the bill names no machine-readable US Code section |
 | — | strike | in the third sentence, by striking “initial”; | the bill names no machine-readable US Code section |
@@ -469,9 +534,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (6)(B), by inserting “or municipal entities” after “protection of investors”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B), by inserting “or municipal entities or obligated person” after “protection of investors”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “through a municipal securities broker or municipal securities dealer or otherwise” and inserting “through a municipal securities broker, municipal securities dealer, municipal advisor, or otherwise”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or municipal advisors” before “to furnish”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -587,7 +652,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Paragraph (3) of section 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), in the second sentence, by striking “credited to the appropriated funds of the Commission” and inserting “deposited in the account described in subsection (i)(4)”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), in the second sentence, by striking “considered a reimbursement to the appropriated funds of the Commission” and inserting “deposited in the account described in subsection (i)(4)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e)(2), by striking “September 30” and inserting “September 25”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g), by striking “April 30” and inserting “August 31”; | the bill names no machine-readable US Code section |

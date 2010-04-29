@@ -1,13 +1,15 @@
 ---
 legis-num: S. 3217
-congress: 111th CONGRESS
-session: 2d Session
+congress: 111th Cong.
+session: 2d Sess.
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3217
 
 > To promote the financial stability of the United States by improving accountability and transparency in the financial system, to end “too big to fail”, to protect the American taxpayer by ending bailouts, to protect consumers from abusive financial services practices, and for other purposes.
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; table of contents
 
