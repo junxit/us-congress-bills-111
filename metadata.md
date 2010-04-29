@@ -1,0 +1,27 @@
+---
+measure: H.R. 5176
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 5176
+
+Family and Independent Business Protection Act of 2010
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+
+## Committees (1)
+
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2010-04-29 — Introduced in House
+- 2010-04-29 — Introduced in House
+- 2010-04-29 — Referred to the House Committee on Education and Labor.
