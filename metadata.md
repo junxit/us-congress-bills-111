@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3393
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3393
@@ -71,9 +71,10 @@ Improper Payments Elimination and Recovery Act of 2010
 - Rep. Childers, Travis [D-MS-1] (C001074)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ Improper Payments Elimination and Recovery Act of 2010
 - 2010-04-28 — Mr. Towns moved to suspend the rules and pass the bill, as amended.
 - 2010-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2942-2945)
 - 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2942-2945)
+- 2010-04-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
