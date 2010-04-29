@@ -1,0 +1,64 @@
+---
+legis-num: S. 3292
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3292
+
+> To amend the Richard B. Russell National School Lunch to establish a weekend and holiday feeding program to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.
+
+## § 1. Short title
+
+This Act may be cited as the “Weekends Without Hunger Act”.
+
+## § 2. Weekends and holidays without hunger
+
+Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by adding at the end the following:
+
+> - **(j)** *Weekends and holidays without hunger*
+>   - **(1)** *Definitions* In this subsection:
+>     - **(A)** *At-risk school child* The term at-risk school child has the meaning given the term in section 17(r)(1).
+>     - **(B)** *Eligible institution*
+>       - **(i)** *In general* The term eligible institution means a public or private nonprofit institution that is determined by the Secretary to be able to meet safe food storage, handling, and delivery standards established by the Secretary.
+>       - **(ii)** *Inclusions* The term eligible institution includes—
+>         - **(I)** an elementary or secondary school or school food service authority;
+>         - **(II)** a food bank or food pantry;
+>         - **(III)** a homeless shelter; and
+>         - **(IV)** such other type of emergency feeding agency as is approved by the Secretary.
+>   - **(2)** *Establishment* The Secretary shall carry out a pilot program under which the Secretary shall provide commodities to eligible institutions to carry out projects to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.
+>   - **(3)** *Eligibility*
+>     - **(A)** *In general* To be eligible to receive commodities under this subsection, an eligible institution shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may determine.
+>     - **(B)** *Plan* An application under subparagraph (A) shall include the plan of the eligible institution for the distribution of nutritious foods to at-risk school children, including—
+>       - **(i)** methods of food service delivery to at-risk school children;
+>       - **(ii)** assurances that children receiving foods under the project will not be publicly separated or overtly identified;
+>       - **(iii)** lists of the types of food to be provided under the project and provisions to ensure food quality and safety;
+>       - **(iv)** information on the number of at-risk school children to be served and the per-child cost of providing the children with food; and
+>       - **(v)** such other information as the Secretary determines to be necessary to assist the Secretary in evaluating projects that receive commodities under this subsection.
+>   - **(4)** *Priority* In selecting applications under this subsection, the Secretary shall give priority to eligible institutions that—
+>     - **(A)** have on-going programs and experience serving populations with significant proportions of at-risk school children;
+>     - **(B)** have a good record of experience in food delivery and food safety systems;
+>     - **(C)** maintain high quality control, accountability, and recordkeeping standards;
+>     - **(D)** provide children with readily consumable food of high nutrient content and quality;
+>     - **(E)** demonstrate cost efficiencies and the potential for obtaining supplemental funding from non-Federal sources to carry out projects; and
+>     - **(F)** demonstrate the ability to continue projects for the full approved term of the pilot project period.
+>   - **(5)** *Guidelines*
+>     - **(A)** *In general* The Secretary shall issue guidelines containing the criteria for projects to receive commodities under this section.
+>     - **(B)** *Inclusions* The guidelines shall, to the maximum extent practicable within the funds available and applications submitted, take into account—
+>       - **(i)** geographical variations in project locations to include qualifying projects in rural, urban, and suburban areas with high proportions of families with at-risk school children;
+>       - **(ii)** different types of projects that offer nutritious foods on weekends and during school holidays to at-risk school children; and
+>       - **(iii)** institutional capacity to collect, maintain, and provide statistically valid information necessary for the Secretary—
+>         - **(I)** to analyze and evaluate the results of the pilot project; and
+>         - **(II)** to make recommendations to Congress.
+>   - **(6)** *Evaluation*
+>     - **(A)** *Interim evaluation* Not later than November 30, 2013, the Secretary shall complete an interim evaluation of the pilot program carried out under this subsection.
+>     - **(B)** *Final report* Not later than December 31, 2015, the Secretary shall submit to Congress a final report that contains—
+>       - **(i)** an evaluation of the pilot program carried out under this subsection; and
+>       - **(ii)** any recommendations of the Secretary for legislative action.
+>   - **(7)** *Funding*
+>     - **(A)** *In general* For each of fiscal years 2011 through 2015, the Secretary shall use such sums as are necessary, but not less than $10,000,000 of funds appropriated under section 3, to purchase commodities to carry out this subsection.
+>     - **(B)** *Availability of funds* Funds made available under subparagraph (A) shall remain available—
+>       - **(i)** until expended; or
+>       - **(ii)** if the Secretary determines that unspent funds cannot be fully used for approved pilot projects, until September 30, 2015.
+>     - **(C)** *Funding* Not more than 3 percent of the funds made available under subparagraph (A) may be used by the Secretary for expenses associated with review of the operations and evaluation of the projects carried out under this subsection.
