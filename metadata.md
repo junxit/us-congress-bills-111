@@ -1,7 +1,7 @@
 ---
 measure: S. 657
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 657
@@ -16,7 +16,7 @@ Sunshine in the Courtroom Act of 2009
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -25,6 +25,8 @@ Sunshine in the Courtroom Act of 2009
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
 
 ## Committees (1)
 
@@ -34,3 +36,7 @@ Sunshine in the Courtroom Act of 2009
 
 - 2009-03-19 — Introduced in Senate
 - 2009-03-19 — Read twice and referred to the Committee on the Judiciary.
+- 2010-04-29 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2010-04-29 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-04-29 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
