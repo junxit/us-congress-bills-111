@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5148
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5148
@@ -39,3 +39,15 @@ To amend title 39, United States Code, to clarify the instances in which the ter
 - 2010-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2947)
 - 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2947)
 - 2010-04-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-05-05 — Cleared for White House.
+- 2010-05-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3291; text as passed Senate: CR S3291)
+- 2010-05-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3291; text as passed Senate: CR S3291)
+- 2010-05-05 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-05-05 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-05-06 — Message on Senate action sent to the House.
+- 2010-05-13 — Presented to President.
+- 2010-05-13 — Presented to President.
+- 2010-05-24 — Became Public Law No: 111-170.
+- 2010-05-24 — Became Public Law No: 111-170.
+- 2010-05-24 — Signed by President.
+- 2010-05-24 — Signed by President.
