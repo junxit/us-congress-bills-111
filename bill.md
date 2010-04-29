@@ -20,10 +20,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the NRCS is the world leader in soil science and soil surveying;
 - Whereas the NRCS is the national leader in the inventory of natural resources on private lands, providing national leaders and the public with the status and trends related to these resources and helping forecast the availability of critical water supplies;
 - Whereas the NRCS has helped communities develop and implement thousands of locally led projects that continue to provide flood control, soil conservation, water supply, and recreational benefits to all Americans, while providing business and job creation opportunities as well;
-- Whereas, since its establishment, the NRCS has developed, tested, and demonstrated conservation practices, helped develop the science and art of conservation, and continues to strive toward innovation;
+- Whereas since its establishment, the NRCS has developed, tested, and demonstrated conservation practices, helped develop the science and art of conservation, and continues to strive toward innovation;
 - Whereas the NRCS encourages and works with landowners and land users to adopt conservation practices and technologies in a voluntary manner to address natural resource concerns;
 - Whereas NRCS employees serve in offices in every State and territory, while other employees assist other countries and governments;
-- Whereas, while some NRCS employees work directly with landowners, other employees serve in support of NRCS field operations, but all work toward a common goal of improving the condition of all natural resources found on private lands, knowing when they succeed, all Americans benefit; and
+- Whereas while some NRCS employees work directly with landowners, other employees serve in support of NRCS field operations, but all work toward a common goal of improving the condition of all natural resources found on private lands, knowing when they succeed, all Americans benefit; and
 - Whereas the NRCS has been “helping people, help the land” for 75 years: Now, therefore, be it
 
 That Congress—
