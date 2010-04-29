@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 481
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 481
@@ -36,3 +36,7 @@ A resolution expressing the sense of the Senate that public servants should be c
 - 2010-04-14 — Introduced in Senate
 - 2010-04-14 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2299)
 - 2010-04-14 — Sponsor introductory remarks on measure. (CR S2299-2300)
+- 2010-04-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2983)
+- 2010-04-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2983)
+- 2010-04-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2983)
+- 2010-04-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2983)
