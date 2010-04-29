@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5013
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5013
@@ -28,10 +28,11 @@ Implementing Management for Performance and Related Reforms to Obtain Value in E
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (4)
 
@@ -194,3 +195,4 @@ Implementing Management for Performance and Related Reforms to Obtain Value in E
 - 2010-04-28 — The Speaker designated the Honorable Ron Kind to act as Chairman of the Committee.
 - 2010-04-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2985)
 - 2010-04-28 — The previous question was ordered pursuant to the rule. (consideration: CR H2983)
+- 2010-04-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
