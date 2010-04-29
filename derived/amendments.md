@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5148
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in paragraph (1), by inserting “; or on which the term census is visible through the envelope or outside cover or wrapper” after “or which bears the term census on the envelope or outside cover or wrapper”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “or matter on which the term census is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term census on the envelope or outside cover or wrapper”. | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “; or on which the term census is visible through the envelope or outside cover or wrapper” after “or which bears the term census on the envelope or outside cover or wrapper”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “or matter on which the term census is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term census on the envelope or outside cover or wrapper”. | the bill names no machine-readable US Code section |
+| `39 U.S.C. § 3001` | insert | in paragraph (1), by inserting “; or on which the term census is visible through the envelope or outside cover or wrapper” after “or which bears the term census on the envelope or outside cover or wrapper”; and | the bill quotes the text inserted but describes where it goes |
+| `39 U.S.C. § 3001` | insert | in paragraph (2), by inserting “or matter on which the term census is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term census on the envelope or outside cover or wrapper”. | the bill quotes the text inserted but describes where it goes |
+| `39 U.S.C. § 3001` | insert | in paragraph (1), by inserting “; or on which the term census is visible through the envelope or outside cover or wrapper” after “or which bears the term census on the envelope or outside cover or wrapper”; and | the bill quotes the text inserted but describes where it goes |
+| `39 U.S.C. § 3001` | insert | in paragraph (2), by inserting “or matter on which the term census is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term census on the envelope or outside cover or wrapper”. | the bill quotes the text inserted but describes where it goes |

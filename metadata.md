@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5148
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5148
@@ -22,9 +22,10 @@ To amend title 39, United States Code, to clarify the instances in which the ter
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend title 39, United States Code, to clarify the instances in which the ter
 - 2010-04-28 — Mr. Towns moved to suspend the rules and pass the bill.
 - 2010-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2947)
 - 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2947)
+- 2010-04-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
