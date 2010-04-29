@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 264
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 264
@@ -45,3 +45,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2010-04-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2949)
 - 2010-04-29 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2981)
 - 2010-04-29 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2981)
+- 2010-04-30 — Message on Senate action sent to the House.
