@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2499
@@ -204,6 +204,18 @@ Puerto Rico Democracy Act of 2010
 
 - House — Natural Resources Committee
 
+## Recorded votes (9)
+
+- 2010-04-29 — [House 111-2-234](votes/house-111-2-0234.md) — On Agreeing to the Amendment — **Agreed to** (223–179)
+- 2010-04-29 — [House 111-2-235](votes/house-111-2-0235.md) — On Agreeing to the Amendment — **Failed** (164–236)
+- 2010-04-29 — [House 111-2-236](votes/house-111-2-0236.md) — On Agreeing to the Amendment — **Failed** (13–386)
+- 2010-04-29 — [House 111-2-237](votes/house-111-2-0237.md) — On Agreeing to the Amendment — **Agreed to** (301–100)
+- 2010-04-29 — [House 111-2-238](votes/house-111-2-0238.md) — On Agreeing to the Amendment — **Failed** (11–387)
+- 2010-04-29 — [House 111-2-239](votes/house-111-2-0239.md) — On Agreeing to the Amendment — **Failed** (112–285)
+- 2010-04-29 — [House 111-2-240](votes/house-111-2-0240.md) — On Agreeing to the Amendment — **Failed** (171–223)
+- 2010-04-29 — [House 111-2-241](votes/house-111-2-0241.md) — On Motion to Recommit with Instructions — **Failed** (194–198)
+- 2010-04-29 — [House 111-2-242](votes/house-111-2-0242.md) — On Passage — **Passed** (223–169)
+
 ## Actions
 
 - 2009-05-19 — Introduced in House
@@ -215,3 +227,88 @@ Puerto Rico Democracy Act of 2010
 - 2009-10-08 — Placed on the Union Calendar, Calendar No. 164.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-294.
 - 2009-10-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-294.
+- 2010-04-28 — Rules Committee Resolution H. Res. 1305 Reported to House. Rule provides for consideration of H.R. 2499 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as an original bill for the purpose of amendment. All points of order against consideration of the bill are waived except those arising under clauses 9 and 10 of rule XXI.
+- 2010-04-29 — Amendment (A001) offered by Ms. Foxx. (consideration: CR H3041-3043, H3052-3053; text: CR H3041)
+- 2010-04-29 — Amendment (A002) offered by Mr. Gutierrez. (consideration: CR H3043-3044, H3053; text: CR H3043)
+- 2010-04-29 — Amendment (A003) offered by Mr. Gutierrez. (consideration: CR H3044-3045, H3053-3054; text: CR H3044)
+- 2010-04-29 — Amendment (A004) offered by Mr. Burton (IN). (consideration: CR H3045-3047, H3054-3055; text: CR H3045-3046)
+- 2010-04-29 — Amendment (A005) offered by Ms. Velazquez. (consideration: CR H3047-3048, H3055; text: CR H3047)
+- 2010-04-29 — Amendment (A006) offered by Ms. Velazquez. (consideration: CR H3048-3050, H3055-3056; text: CR H3048)
+- 2010-04-29 — Amendment (A007) in the nature of a substitute offered by Ms. Velazquez. (consideration: CR H3050-3051, H3056-3057; text: CR H3050)
+- 2010-04-29 — Amendment (A008) in the nature of a substitute offered by Mr. Hastings (WA). (consideration: CR H3051-3052; text: CR H3051)
+- 2010-04-29 — Amendment agreed to Committee of the Whole
+- 2010-04-29 — Amendment agreed to Committee of the Whole
+- 2010-04-29 — Amendment failed in Committee of the Whole
+- 2010-04-29 — Amendment failed in Committee of the Whole
+- 2010-04-29 — Amendment failed in Committee of the Whole
+- 2010-04-29 — Amendment failed in Committee of the Whole
+- 2010-04-29 — Amendment failed in Committee of the Whole
+- 2010-04-29 — By unanimous consent, the Hastings (WA) amendment was withdrawn. (consideration: CR H3052)
+- 2010-04-29 — Considered under the provisions of rule H. Res. 1305. (consideration: CR H3029-3059)
+- 2010-04-29 — DEBATE - At the conclusion of debate on the Velazquez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Burton (IN) amendment.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Gutierrez amendment number 2.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Gutierrez amendment number 3.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (WA) amendment in the nature of a substitute.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez amendment in the nature of a substitute number 7.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez amendment number 5.
+- 2010-04-29 — DEBATE - Pursuant to the provisions of H.Res. 1305, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez amendment number 6.
+- 2010-04-29 — DEBATE - The House proceeded with 10 minutes of debate on the Hastings (WA) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to allow Puerto Rico to be admitted as a State of the Union and ensure that english shall be the official language of the State; and to allow the residents of Puerto Rico to have the right to own, possess, carry, or use firearms for lawful defense.
+- 2010-04-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour and thirty minutes of general debate on H.R. 2499.
+- 2010-04-29 — House amendment agreed to: On agreeing to the Burton (IN) amendment (A004) Agreed to by recorded vote: 301 - 100 (Roll no. 237).
+- 2010-04-29 — House amendment agreed to: On agreeing to the Foxx amendment (A001) Agreed to by recorded vote: 223 - 179 (Roll no. 234).
+- 2010-04-29 — House amendment not agreed to: On agreeing to the Gutierrez amendment (A002) Failed by recorded vote: 164 - 236 (Roll no. 235).
+- 2010-04-29 — House amendment not agreed to: On agreeing to the Gutierrez amendment (A003) Failed by recorded vote: 13 - 386 (Roll no. 236).
+- 2010-04-29 — House amendment not agreed to: On agreeing to the Velazquez amendment (A005) Failed by recorded vote: 11 - 387 (Roll no. 238).
+- 2010-04-29 — House amendment not agreed to: On agreeing to the Velazquez amendment (A006) Failed by recorded vote: 112 - 285 (Roll no. 239).
+- 2010-04-29 — House amendment not agreed to: On agreeing to the Velazquez amendment (A007) Failed by recorded vote: 171 - 223 (Roll no. 240).
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered
+- 2010-04-29 — House amendment offered/reported by : Amendment (A001) offered by Ms. Foxx.(consideration: CR H3041-3043, H3052-3053; text: CR H3041)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A002) offered by Mr. Gutierrez.(consideration: CR H3043-3044, H3053; text: CR H3043)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A003) offered by Mr. Gutierrez.(consideration: CR H3044-3045, H3053-3054; text: CR H3044)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A004) offered by Mr. Burton (IN).(consideration: CR H3045-3047, H3054-3055; text: CR H3045-3046)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A005) offered by Ms. Velazquez.(consideration: CR H3047-3048, H3055; text: CR H3047)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A006) offered by Ms. Velazquez.(consideration: CR H3048-3050, H3055-3056; text: CR H3048)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A007) in the nature of a substitute offered by Ms. Velazquez.(consideration: CR H3050-3051, H3056-3057; text: CR H3050)
+- 2010-04-29 — House amendment offered/reported by : Amendment (A008) in the nature of a substitute offered by Mr. Hastings (WA).(consideration: CR H3051-3052; text: CR H3051)
+- 2010-04-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1305 and Rule XVIII.
+- 2010-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-29 — Mr. Hastings (WA) moved to recommit with instructions to Natural Resources. (consideration: CR H3057-3058; text: CR H3057)
+- 2010-04-29 — On agreeing to the Burton (IN) amendment (A004) Agreed to by recorded vote: 301 - 100 (Roll no. 237).
+- 2010-04-29 — On agreeing to the Foxx amendment (A001) Agreed to by recorded vote: 223 - 179 (Roll no. 234).
+- 2010-04-29 — On agreeing to the Gutierrez amendment (A002) Failed by recorded vote: 164 - 236 (Roll no. 235).
+- 2010-04-29 — On agreeing to the Gutierrez amendment (A003) Failed by recorded vote: 13 - 386 (Roll no. 236).
+- 2010-04-29 — On agreeing to the Velazquez amendment (A005) Failed by recorded vote: 11 - 387 (Roll no. 238).
+- 2010-04-29 — On agreeing to the Velazquez amendment (A006) Failed by recorded vote: 112 - 285 (Roll no. 239).
+- 2010-04-29 — On agreeing to the Velazquez amendment (A007) Failed by recorded vote: 171 - 223 (Roll no. 240).
+- 2010-04-29 — On motion to recommit with instructions Failed by recorded vote: 194 - 198 (Roll no. 241).
+- 2010-04-29 — On passage Passed by the Yeas and Nays: 223 - 169, 1 Present (Roll no. 242).
+- 2010-04-29 — POSTOPNED PROCEEDINGS - At the conclusion of debate on the Gutierrez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gutierrez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burton (IN) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Burton (IN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gutierrez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Velazquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Velazquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-04-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 223 - 169, 1 Present (Roll no. 242).
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Roll call votes on amendments in House
+- 2010-04-29 — Rule H. Res. 1305 passed House.
+- 2010-04-29 — Rule provides for consideration of H.R. 2499 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as an original bill for the purpose of amendment. All points of order against consideration of the bill are waived except those arising under clauses 9 and 10 of rule XXI.
+- 2010-04-29 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H3041)
+- 2010-04-29 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2499.
+- 2010-04-29 — The Speaker designated the Honorable Adam B. Schiff to act as Chairman of the Committee.
+- 2010-04-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3058)
+- 2010-04-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been previously debated and on which further proceedings had been postponed.
