@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 61
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 61
@@ -16,7 +16,7 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Johanns, Mike [R-NE] (J000291)
 - Sen. Brownback, Sam [R-KS] (B000953)
@@ -28,6 +28,8 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Committees (1)
 
@@ -37,3 +39,7 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 
 - 2010-04-27 — Introduced in Senate
 - 2010-04-27 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2711)
+- 2010-04-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2982)
+- 2010-04-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2982)
+- 2010-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2982)
+- 2010-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2982)

@@ -11,8 +11,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on January 12, 2010, the country of Haiti suffered a devastating earthquake;
-- Whereas, after the earthquake, general aviation pilots rallied to provide transportation for medical staff and relief personnel;
+- Whereas on January 12, 2010, the country of Haiti suffered a devastating earthquake;
+- Whereas after the earthquake, general aviation pilots rallied to provide transportation for medical staff and relief personnel;
 - Whereas more than 4,500 relief flights were made by general aviators in the first 30 days after the earthquake;
 - Whereas business aircraft alone conducted more than 700 flights, transporting 3,500 passengers, and over 1,000,000 pounds of cargo and supplies;
 - Whereas relief flights were fully paid for by individual pilots and aircraft owners;
