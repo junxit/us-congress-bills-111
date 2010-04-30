@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2499
@@ -200,9 +200,10 @@ Puerto Rico Democracy Act of 2010
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
 - Rep. Shadegg, John B. [R-AZ-3] (S000275)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (9)
 
@@ -312,3 +313,4 @@ Puerto Rico Democracy Act of 2010
 - 2010-04-29 — The Speaker designated the Honorable Adam B. Schiff to act as Chairman of the Committee.
 - 2010-04-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3058)
 - 2010-04-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been previously debated and on which further proceedings had been postponed.
+- 2010-04-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
