@@ -1,7 +1,7 @@
 ---
 legis-num: S. 707
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Telework Enhancement Act of 2009”.
+This Act may be cited as the “Telework Enhancement Act of 20092010”.
 
 ## § 2. Definitions
 
@@ -45,7 +45,7 @@ In this Act:
     - **(A)** employees eligible to participate in the telework program of the agency; and
     - **(B)** all managers of teleworkers;
   - **(2)** except as provided under subsection (b), an employee has successfully completed the interactive telework training program before that employee enters into a written agreement to telework described under section 3(b)(2);
-  - **(3)** no distinction is made between teleworkers and nonteleworkers for purposes of—
+  - **(3)** no distinction is made between teleworkers and nonteleworkers are treated the same for purposes of—
     - **(A)** periodic appraisals of job performance of employees;
     - **(B)** training, rewarding, reassigning, promoting, reducing in grade, retaining, and removing employees;
     - **(C)** work requirements; or
@@ -78,8 +78,10 @@ In this Act:
 - **(a)** *In general*
   - **(1)** *Designation* The head of each executive agency shall designate an employee of the agency as the Telework Managing Officer. The Telework Managing Officer shall be established within the Office of the Chief Human Capital Officer or a comparable office with similar functions.
   - **(2)** *Telework Coordinators*
-    - **(A)** *Appropriations Act, 2004* Section 627 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Public Law 108–199; 118 Stat. 99) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
-    - **(B)** *Appropriations Act, 2005* Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2919) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(A)** *Appropriations Act, 2003* Section 623 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2003 (Public Law 108–7; 117 Stat. 103) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(A)(B)** *Appropriations Act, 2004* Section 627 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Public Law 108–199; 118 Stat. 99) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(B)(C)** *Appropriations Act, 2005* Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2919) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(D)** *Appropriations Act, 2006* Section 617 of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006 (Public Law 109–108; 119 Stat. 2340) is amended by striking “maintain a “Telework Coordinator” to be” and inserting “maintain a Telework Managing Officer to be”.
 - **(b)** *Duties* The Telework Managing Officer shall—
   - **(1)** be devoted to policy development and implementation related to agency telework programs;
   - **(2)** serve as—
@@ -151,6 +153,47 @@ In this Act:
   >     - **(C)** the travel expenses paid by the employee; or
   >     - **(D)** any other information the agency determines useful to aid the Administrator, Telework Managing Officer, and Congress in understanding the test program and the impact of the program.
   > - **(d)** No more than 10 test programs under this section may be conducted simultaneously.
-  > - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2009.
+  > - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 20092010.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5710 the following:
+
+## § 9. Patent and Trademark Office travel expenses test program
+
+- **(a)** *In general* Section 5710 of title 5, United States Code, is amended—
+  - **(1)** in subsection (a)(1), by striking “for a period not to exceed 24 months”; and
+  - **(2)** by striking subsection (e) and inserting the following:
+    > - **(e)**
+    >   - **(1)** The Patent and Trademark Office shall conduct a test program under this section.
+    >   - **(2)** In conducting the program under this subsection, the Patent and Trademark Office may pay any travel expenses of an employee for travel to and from a Patent and Trademark Office worksite, if—
+    >     - **(A)** the employee is employed at a Patent and Trademark Office worksite and enters into an approved telework arrangement;
+    >     - **(B)** the employee requests to telework from a location beyond the local commuting area of the Patent and Trademark Office worksite; and
+    >     - **(C)** the Patent and Trademark Office approves the requested arrangement for reasons of employee convenience instead of an agency need for the employee to relocate in order to perform duties specific to the new location.
+    >   - **(3)**
+    >     - **(A)** The Patent and Trademark Office shall establish an oversight committee comprising an equal number of members representing management and labor, including representatives from each collective bargaining unit.
+    >     - **(B)** The oversight committee shall develop the operating procedures for the program under this subsection to—
+    >       - **(i)** provide for the effective and appropriate functioning of the program; and
+    >       - **(ii)** ensure that—
+    >         - **(I)** reasonable technological or other alternatives to employee travel are used before requiring employee travel, including teleconferencing, videoconferencing or internet-based technologies;
+    >         - **(II)** the program is applied consistently and equitably throughout the Patent and Trademark Office; and
+    >         - **(III)** an optimal operating standard is developed and implemented for maximizing the use of the telework arrangement described under paragraph (2) while minimizing agency travel expenses and employee travel requirements.
+    >   - **(4)**
+    >     - **(A)** The test program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
+    >     - **(B)** The Director of the Patent and Trademark Office shall—
+    >       - **(i)** prepare an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program; and
+    >       - **(ii)** before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.
+    >     - **(C)** With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
+    >     - **(D)**
+    >       - **(i)** Not later than 3 months after completion of the test program under this subsection, the Director of the Patent and Trademark Office shall provide a report on the results of the program to the Administrator of General Services and to the appropriate committees of Congress.
+    >       - **(ii)** The results in the report described under paragraph (1) may include—
+    >         - **(I)** the number of visits an employee makes to the pre-existing duty station of that employee;
+    >         - **(II)** the travel expenses paid by the Office;
+    >         - **(III)** the travel expenses paid by the employee; or
+    >         - **(IV)** any other information that the Director determines may be useful to aid the Administrator and Congress in understanding the test program and the impact of the program.
+    >     - **(E)** In this paragraph, the term appropriate committees of Congress means—
+    >       - **(i)** the Committees on Homeland Security and Governmental Affairs and on the Judiciary of the Senate; and
+    >       - **(ii)** the Committees on Government Oversight and Reform and on the Judiciary of the House of Representatives.
+    > - **(f)**
+    >   - **(1)** Except as provided under paragraph (2), the authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
+    >   - **(2)** The authority to conduct a test program by the Patent and Trademark Office under this section shall expire 20 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
+
+- **(b)** *Effective date* The amendments made by this section shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 112 Stat. 2350).
