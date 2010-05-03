@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 61
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 61
@@ -47,3 +47,10 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 - 2010-04-30 — Message on Senate action sent to the House.
 - 2010-05-03 — Received in the House.
 - 2010-05-03 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-05-04 — Referred to the Subcommittee on Aviation.
+- 2010-05-12 — Considered under suspension of the rules. (consideration: CR H3338-3339)
+- 2010-05-12 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 61.
+- 2010-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-12 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2010-05-12 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3338)
+- 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3338)
