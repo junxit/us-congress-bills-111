@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 62
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 62
@@ -46,3 +46,9 @@ A concurrent resolution congratulating the outstanding professional public serva
 - 2010-04-30 — Message on Senate action sent to the House.
 - 2010-05-03 — Received in the House.
 - 2010-05-03 — Referred to the House Committee on Agriculture.
+- 2010-05-11 — Considered under suspension of the rules. (consideration: CR H3292-3293)
+- 2010-05-11 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 62.
+- 2010-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-11 — Mr. Holden moved to suspend the rules and agree to the resolution.
+- 2010-05-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3292-3293)
+- 2010-05-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3292-3293)
