@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 61
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 61
@@ -31,9 +31,10 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ A concurrent resolution expressing the sense of the Congress that general aviati
 - 2010-04-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2982)
 - 2010-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2982)
 - 2010-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2982)
+- 2010-04-30 — Message on Senate action sent to the House.
+- 2010-05-03 — Received in the House.
+- 2010-05-03 — Referred to the House Committee on Transportation and Infrastructure.
