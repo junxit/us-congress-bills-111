@@ -2,7 +2,7 @@
 legis-num: H. RES. 1269
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1269
@@ -30,6 +30,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas as part of NASA's tribute to Galileo, a replica of Galileo's telescope, provided by the Istituto e Museo di Storia della Scienza, Florence, Italy, was carried into space by Italian American astronaut, Michael Massimino, on the May 2009 Atlantis mission to repair and update the orbiting Hubble telescope;
 - Whereas 2009 also marks the 40th anniversary of the moon landing by the Apollo 11 astronauts, which gave mankind first hand knowledge of the moon's surface, first observed in detail when Galileo turned his telescope to the sky in 1609;
 - Whereas the United Nations “The International Year of Astronomy 2009” is a global effort with over 140 countries participating, initiated by the International Astronomical Union (IAU) and UNESCO, at the request of Italy, Galileo's native country; and
-- Whereas organizations, educational institutions, government entities, most notably in Italy, Istituto e Museo di Storia della Scienza and in the United States, NASA, Smithsonian Institution, Franklin Institute in Philiadelphia, Italian Embassy and Italian Consulates, National Italian American Foundation and Italian Heritage and Culture Committee of New York, Inc., are celebrating the genius of Galileo Galilei and “The International Year of Astronomy 2009” with numerous public programs, publications, symposia, proclamation ceremonies, and tributes to Galileo and his legacy: Now, therefore, be it
+- Whereas organizations, educational institutions, government entities, most notably in Italy, Istituto e Museo di Storia della Scienza and in the United States, NASA, Smithsonian Institution, Franklin Institute in Philadelphia, Italian Embassy and Italian Consulates, National Italian American Foundation and Italian Heritage and Culture Committee of New York, Inc., are celebrating the genius of Galileo Galilei and “The International Year of Astronomy 2009” with numerous public programs, publications, symposia, proclamation ceremonies, and tributes to Galileo and his legacy: Now, therefore, be it
 
 That the Congress of the United States of America commemorates the 400th anniversary of the first use of the telescope by Galileo Galilei for astronomical observation and marks this discovery as one of the major events impacting mankind, and expresses its gratitude for Galileo's expansion of the universe and mankind's understanding of his place in the cosmos, and that the Congress of the United States of America joins the world in celebration of “The International Year of Astronomy”.
