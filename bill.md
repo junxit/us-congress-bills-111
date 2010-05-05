@@ -21,7 +21,7 @@ Congress finds the following:
 - **(2)** The earthquake has devastated Haiti’s infrastructure, including homes, offices, factories, roads, ports, communications, and other facilities. The loss of life attributable to the earthquake was massive.
 - **(3)** Even before the earthquake, Haiti was the poorest country in the Western Hemisphere, ranking 149 out of 182 countries according to the United Nation’s Human Development Index.
 - **(4)** In recent years, however, the Government and people of Haiti had taken important steps forward to promote economic growth and development, including making strides towards establishing a competitive apparel sector.
-- **(5)** United States trade preference programs, including the Caribbean Basin Economic Recovery Act (as amended by the United States-Caribbean Basin Trade Partnership Act, the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 (“HOPE Act”), and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 (“HOPE II Act”)), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti’s economic development efforts.
+- **(5)** United States trade preference programs, including the Caribbean Basin Economic Recovery Act (as amended by the United States-Caribbean Basin Trade Partnership Act, the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006, and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti’s economic development efforts.
 - **(6)** However, the Haitian apparel sector has been hard hit by the January 12, 2010, earthquake. A number of apparel factories based in and around Port-au-Prince have been heavily damaged, including the collapse of one major apparel factory that had employed nearly 4,000 workers.
 - **(7)** The Port-au-Prince seaport that had served the apparel trade has been badly damaged. And extensive damage to roads has made it difficult to transport apparel to the Dominican Republic for shipment from ports in that country.
 - **(8)** According to estimates by the Department of Commerce, imports of apparel articles from Haiti to the United States in 2010 have decreased by 43 percent as compared to the same period in 2009.
@@ -52,10 +52,7 @@ The Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 et seq.) is amended—
   > - **(G)** *Made-up textile articles*
   >   - **(i)** *In general* Any of the made-up textile articles described in clauses (ii) and (iii) that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
   >   - **(ii)** *Articles described* Made-up textile articles described in this clause are articles in the following category numbers that fall within the following statistical reporting numbers of the HTS (as in effect on the day before the date of the enactment of this subparagraph):
-  >   - **(iii)** *Other articles described* Made-up textile articles described in this clause are articles that fall within the following statistical reporting numbers of the HTS (as in effect on the day before the date of the enactment of this subparagraph):
-  >     - **(I)** 5703.20.2000.
-  >     - **(II)** 6406.10.9090.
-  >     - **(III)** 9404.90.8523.
+  >   - **(iii)** *Other articles described* Made-up textile articles described in this clause are articles that fall within statistical reporting number 6406.10.9090 of the HTS (as in effect on the day before the date of the enactment of this subparagraph).
   >   - **(iv)** *Category defined* In this subparagraph, the term category has the meaning given that term in paragraph (2A)(E) of this subsection.
 
 ## § 5. Modification of tariff preference levels; verification with respect to transshipment for certain apparel articles
@@ -83,7 +80,7 @@ Section 213A(b) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703a(b)
   >     - **(i)** *In general* In the case of apparel articles described in clause (ii), subparagraph (A) shall be applied by substituting “85,000,000” for “200,000,000”.
   >     - **(ii)** *Apparel articles described* Apparel articles described in this clause are apparel articles described in paragraph (2)(B)(i) that fall within the following statistical reporting numbers of the HTS (as in effect on the day before the date of the enactment of this paragraph), other than shirts with plackets and pointed collars:
   >   - **(D)** *Verification with respect to transshipment for certain apparel articles*
-  >     - **(i)** *In general* Not later than April 1, July 1, October 1, and January 1 of each year, the Commissioner responsible for U.S. Customs and Border Protection shall verify that apparel articles imported into the United States under this paragraph are not being unlawfully transshipped (within the meaning of subsection (f)) into the United States.
+  >     - **(i)** *In general* Not later than April 1, July 1, October 1, and January 1 of each year, the Commissioner responsible for United States Customs and Border Protection shall verify that apparel articles imported into the United States under this paragraph are not being unlawfully transshipped (within the meaning of subsection (f)) into the United States.
   >     - **(ii)** *Report to President* If the Commissioner determines pursuant to clause (i) that apparel articles imported into the United States under this paragraph are being unlawfully transshipped into the United States, the Commissioner shall report that determination to the President.
   >     - **(iii)** *Authority to reduce quantitative limitation* If, in any 1-year period with respect to which the President extends preferential treatment as described in this paragraph, the Commissioner reports to the President pursuant to clause (ii) regarding unlawful transshipments, the President—
   >       - **(I)** may modify the quantitative limitation under this paragraph as the President considers appropriate to account for such transshipments; and
@@ -134,7 +131,7 @@ Section 213A(c) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703A(c)
 ## § 9. Customs support services
 
 - **(a)** *In general*
-  - **(1)** *Rapid response team* The Commissioner responsible for U.S. Customs and Border Protection (in this section referred to as the “Commissioner”) shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
+  - **(1)** *Rapid response team* The Commissioner responsible for United States Customs and Border Protection (in this section referred to as the “Commissioner”) shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
     - **(A)** to assess the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services; and
     - **(B)** to provide immediate assistance, as warranted, particularly with respect to—
       - **(i)** reestablishing full capacity for commercial port operations at the seaport at Port-au-Prince;
@@ -149,7 +146,7 @@ Section 213A(c) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703A(c)
   - **(1)** *In general* The Commissioner shall, in consultation with other Federal agencies, as appropriate, seek to establish a support team in Haiti for the purpose of helping to meet the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services, as described in this section.
   - **(2)** *Termination* The support team authorized by paragraph (1) shall terminate on September 30, 2020.
 - **(c)** *Authorization of appropriations*
-  - **(1)** *In general* There are authorized to be appropriated to the U.S. Customs and Border Protection Agency, to remain available until expended—
+  - **(1)** *In general* There are authorized to be appropriated to the United States Customs and Border Protection Agency, to remain available until expended—
     - **(A)** $100,000 to help meet the immediate infrastructure needs of the authorities of the Government of Haiti responsible for customs services for the purpose of facilitating trade between the United States and Haiti under the Caribbean Basin Economic Recovery Act, as amended by this Act; and
     - **(B)** $750,000 for each of the fiscal years 2011 through 2020 for the purpose of maintaining the support team authorized by subsection (b).
   - **(2)** *Supplement and not supplant* The amounts authorized to be appropriated by paragraph (1) shall supplement and not supplant any other funds authorized to be appropriated to the Department of Homeland Security.
@@ -157,4 +154,20 @@ Section 213A(c) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703A(c)
 ## § 10. Sense of Congress
 
 - **(a)** *Regional cooperation* It is the sense of Congress that the United States Trade Representative should seek to enter into consultations with representatives of countries with which the United States has a trading relationship for the purpose of encouraging those countries to establish bilateral trade preference programs with respect to textile and apparel articles produced in Haiti.
-- **(b)** *Transshipment* It is the sense of Congress that the Commissioner responsible for U.S. Customs and Border Protection should, in consultation with the United States Trade Representative and the Secretary of Commerce, seek to enter into consultations with representatives of countries with which the United States has a trading relationship for the purpose of preventing the unlawful transshipment of textile and apparel articles from those countries through Haiti.
+- **(b)** *Transshipment* It is the sense of Congress that the Commissioner responsible for United States Customs and Border Protection should, in consultation with the United States Trade Representative and the Secretary of Commerce, seek to enter into consultations with representatives of countries with which the United States has a trading relationship for the purpose of preventing the unlawful transshipment of textile and apparel articles from those countries through Haiti.
+
+## § 11. Customs user fees
+
+Section 13031(j)(3) of the Consolidated Omnibus Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
+
+- **(1)** in subparagraph (A), by striking “May 14, 2018” and inserting “November 10, 2018”; and
+- **(2)** in subparagraph (B)(i), by striking “June 7, 2018” and inserting “August 17, 2018”.
+
+## § 12. Time for payment of corporate estimated taxes
+
+- **(a)** *Shift from 2015 to 2014* The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 in effect on the date of the enactment of this Act is increased by 0.75 percentage points.
+- **(b)** *Shift from 2016 to 2015* The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act in effect on the date of the enactment of this Act is increased by 0.75 percentage points.
+
+## § 13. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
