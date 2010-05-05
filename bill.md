@@ -23,16 +23,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(F)** 1 shall be appointed by the Director of the Office of Management and Budget;
     - **(G)** 1 shall be appointed by the Archivist of the United States; and
     - **(H)** 1 shall be appointed by the Comptroller General of the United States.
-  - **(2)** *Qualifications of congressional appointees* Of the 3 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1)—
-    - **(A)** at least 1 shall have experience in submitting requests under section 552 of title 5, United States Code, to Federal agencies, such as on behalf of nonprofit research or educational organizations or news media organizations; and
-    - **(B)** at least 1 shall have experience in academic research in the fields of library science, information management, or public access to Government information.
   - **(2)** *Qualifications of congressional appointees* Of the 3 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1) at least 2 shall have experience in academic research in the fields of library science, information management, or public access to Government information.
   - **(3)** *Timeliness of appointments* Appointments to the Commission shall be made as expeditiously as possible, but not later than 60 days after the date of enactment of this Act.
 - **(d)** *Study* The Commission shall conduct a study to—
   - **(1)** identify methods that—
     - **(A)** will help reduce delays in the processing of requests submitted to Federal agencies under section 552 of title 5, United States Code; and
-    - **(B)** ensure the efficient and equitable administration of that section throughout the Federal Government; and
-  - **(2)** examine whether the system for charging fees and granting waivers of fees under section 552 of title 5, United States Code, needs to be reformed in order to reduce delays in processing requests.; and
+    - **(B)** ensure the efficient and equitable administration of that section throughout the Federal Government;
+  - **(2)** examine whether the system for charging fees and granting waivers of fees under section 552 of title 5, United States Code, needs to be reformed in order to reduce delays in processing requests; and
   - **(3)** examine and determine—
     - **(A)** why the Federal Government’s use of the exemptions under section 552(b) of title 5, United States Code, increased during fiscal year 2009;
     - **(B)** the reasons for any increase, including whether the increase was warranted and whether the increase contributed to FOIA processing delays;
@@ -44,9 +41,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** each method identified; and
     - **(B)** the charging of fees and granting of waivers of fees; and
   - **(3)** recommendations for legislative or administrative actions to implement the conclusions of the Commission.
-- **(f)** *Staff and administrative support services* The Comptroller General of the United States shall provide to the Commission such staff and administrative support services, including research assistance at the request of the Commission, as necessary for the Commission to perform its functions efficiently and in accordance with this section.
+- **(f)** *Staff and administrative support services* The Archivist of the United States shall provide to the Commission such staff and administrative support services, including research assistance at the request of the Commission, as necessary for the Commission to perform its functions efficiently and in accordance with this section.
 - **(g)** *Information* To the extent permitted by law, the heads of executive agencies, the Government Accountability Office, and the Congressional Research Service shall provide to the Commission such information as the Commission may require to carry out its functions.
 - **(h)** *Compensation of members* Members of the Commission shall serve without compensation for services performed for the Commission.
 - **(i)** *Travel expenses* The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-- **(j)** *Applicability of Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
+- **(j)** *Transparency* All meetings of the Commission shall be open to the public, except that a meeting, or any portion of it, may be closed to the public if it concerns matters or information described in chapter 552b(c) of title 5, United States Code. Interested persons shall be permitted to appear at open meetings and present oral or written statements on the subject matter of the meeting. The Commission may administer oaths or affirmations to any person appearing before the Commission.
 - **(k)** *Termination* The Commission shall terminate 30 days after the submission of the report under subsection (e).
