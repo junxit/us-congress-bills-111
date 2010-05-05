@@ -1,7 +1,7 @@
 ---
 measure: S. 1519
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1519
@@ -31,3 +31,8 @@ Nutria Eradication and Control Act of 2009
 
 - 2009-07-27 — Introduced in Senate
 - 2009-07-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2009-12-03 — Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.
+- 2009-12-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-182.
+- 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-182.
+- 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.
