@@ -1,7 +1,7 @@
 ---
 measure: S. 1421
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1421
@@ -16,7 +16,7 @@ Asian Carp Prevention and Control Act
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Cosponsors (6)
+## Cosponsors (9)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -24,6 +24,9 @@ Asian Carp Prevention and Control Act
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -34,3 +37,8 @@ Asian Carp Prevention and Control Act
 - 2009-07-09 — Introduced in Senate
 - 2009-07-09 — Read twice and referred to the Committee on Environment and Public Works.
 - 2009-07-09 — Sponsor introductory remarks on measure. (CR S7319)
+- 2009-12-03 — Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.
+- 2009-12-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-181.
+- 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-181.
+- 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.
