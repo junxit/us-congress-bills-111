@@ -1,7 +1,7 @@
 ---
 measure: H.R. 24
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 24
@@ -444,9 +444,10 @@ To redesignate the Department of the Navy as the Department of the Navy and Mari
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -459,3 +460,4 @@ To redesignate the Department of the Navy as the Department of the Navy and Mari
 - 2010-05-04 — Mr. Heinrich moved to suspend the rules and pass the bill.
 - 2010-05-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3094)
 - 2010-05-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3094)
+- 2010-05-05 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
