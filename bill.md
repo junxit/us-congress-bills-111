@@ -2,7 +2,7 @@
 legis-num: H. RES. 1320
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1320
@@ -22,5 +22,5 @@ That the House of Representatives—
 - **(1)** commends the actions of Mr. Lance Orton and Mr. Duane Jackson for promptly alerting appropriate authorities about the suspicious vehicle in Times Square on May 1, 2010;
 - **(2)** urges all Americans to remain vigilant about potential terrorist or suspicious activity within their own communities and report such activity to the appropriate authorities;
 - **(3)** recognizes the New York City Police Department, in particular Police Officer Wayne Rhatigan of Mounted Unit Troop B, the Fire Department of New York, the New York Police Department Bomb Squad, led by Lieutenant Mark Torre and other first responders, the Federal Bureau of Investigation, United States Customs and Border Protection, the United States Attorney’s Office for the Southern District of New York, the Department of Homeland Security, the Department of Justice, the New York Joint Terrorism Task Force, the Bridgeport Police Department, Detective Bureau, Patrol Division, and other law enforcement agencies in Connecticut for their consistent commitment to preparedness for and collective response to terrorism;
-- **(4)** recognizes the exceptional professionalism and investigative work by the New York Police Department, the New York Police Department Bomb Squad, the Fire Department of New York, the Federal Bureau of Investigation, United States Customs and Border Protection, the United States Attorney’s Office for the Southern District of New York, the Department of Homeland Security, the Department of Justice, the New York Joint Terrorism Task Force, the Bridgeport Police Department, Detective Bureau, Patrol Division, and other law enforcement agencies in Connecticut in apprehending a suspect only 48 hours following the attempted bombing; and
+- **(4)** recognizes the exceptional professionalism and investigative work by the New York Police Department, the New York Police Department Bomb Squad, the Fire Department of New York, the Federal Bureau of Investigation, United States Customs and Border Protection, the United States Attorney’s Office for the Southern District of New York, the Department of Homeland Security, the Department of Justice, the New York Joint Terrorism Task Force, the Bridgeport Police Department, Detective Bureau, Patrol Division, and other law enforcement agencies in Connecticut in apprehending a suspect only 53 hours following the attempted bombing; and
 - **(5)** urges all Federal agencies to continue to work with State, local, and tribal partners to bolster preparedness for and prevention of terrorism.

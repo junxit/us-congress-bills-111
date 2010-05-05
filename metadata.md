@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1320
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1320
@@ -55,8 +55,20 @@ Expressing support for the vigilance and prompt response of the citizens of New 
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2010-05-05 — [House 111-2-246](votes/house-111-2-0246.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (418–0)
+
 ## Actions
 
 - 2010-05-04 — Introduced in House
 - 2010-05-04 — Introduced in House
 - 2010-05-04 — Referred to the House Committee on Homeland Security.
+- 2010-05-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-05 — Considered as unfinished business. (consideration: CR H3166-3167)
+- 2010-05-05 — Considered under suspension of the rules. (consideration: CR H3140-3144)
+- 2010-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1320.
+- 2010-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-05 — Mr. Pascrell moved to suspend the rules and agree to the resolution, as amended.
+- 2010-05-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 246). (text: CR H3140)
+- 2010-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 246).(text: CR H3140)
