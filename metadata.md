@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 247
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 247
@@ -41,3 +41,9 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2010-05-04 — Placed on the House Calendar, Calendar No. 189.
 - 2010-05-04 — Reported by the Committee on Transportation. H. Rept. 111-471.
 - 2010-05-04 — Reported by the Committee on Transportation. H. Rept. 111-471.
+- 2010-05-05 — Considered under suspension of the rules. (consideration: CR H3170-3171)
+- 2010-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 247.
+- 2010-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-05 — Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.
+- 2010-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3170)
+- 2010-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3170)
