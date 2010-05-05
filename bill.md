@@ -2,7 +2,7 @@
 legis-num: H. RES. 1272
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1272
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas four unarmed students (Allison Krause, Jeffrey Miller, Sandra Scheuer, and William Schroeder) were killed and nine others (Alan Canfora, John Cleary, Thomas Grace, Dean Kahler, Joseph Lewis, Donald MacKenzie, James Russell, Robert Stamps, and Douglas Wrentmore) were injured;
 - Whereas the site of the May 4 shootings was entered in the National Register of Historic Places, the official list of the Nation’s historic places worthy of preservation, in February 2010;
 - Whereas, to preserve the memory of the May 4 shootings and encourage inquiry, learning, and reflection, Kent State has established a number of resources, including the May 4 Memorial, individual student memorial markers and scholarships in memory of the four students mentioned above who were killed, an experimental college course entitled “May 4, 1970 and its Aftermath”, and an annual commemoration sponsored by the May 4 Task Force; and
-- Whereas Kent State has engaged the internationally renowned design services firm, Gallagher & Associates, to assist in the development of the May 4 visitors center as a central place where individuals can explore and better understand the May 4 shootings: Now therefore be it
+- Whereas Kent State has engaged the internationally renowned design services firm, Gallagher & Associates, to assist in the development of the May 4 visitors center as a central place where individuals can explore and better understand the May 4 shootings: Now, therefore, be it
 
 That the House of Representatives, in commemoration of the 40th year anniversary of the Kent State University shootings that occurred on May 4, 1970—
 
