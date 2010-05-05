@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5160
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5160
@@ -87,3 +87,13 @@ Haiti Economic Lift Program Act of 2010
 - 2010-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3132-3136)
 - 2010-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3132-3136)
 - 2010-05-05 — Received in the Senate, read twice.
+- 2010-05-06 — Cleared for White House.
+- 2010-05-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S3384)
+- 2010-05-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3384)
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-13 — Presented to President.
+- 2010-05-13 — Presented to President.
+- 2010-05-24 — Became Public Law No: 111-171.
+- 2010-05-24 — Became Public Law No: 111-171.
+- 2010-05-24 — Signed by President.
+- 2010-05-24 — Signed by President.
