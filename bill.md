@@ -60,9 +60,9 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 
 ## § 7. Use of outside credit risk analysis sources
 
-Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at the end the following new subsection:
+Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
 
-> - **(i)** *Use of outside credit risk analysis sources* The Secretary may obtain the services of, and enter into contracts with, private and other entities outside of the Department in—
+> - **(j)** *Use of outside credit risk analysis sources* The Secretary may obtain the services of, and enter into contracts with, private and other entities outside of the Department in—
 >   - **(1)** analyzing credit risk models and practices employed by the Department in connection with such mortgages;
 >   - **(2)** evaluating underwriting standards applicable to such mortgages insured by the Department; and
 >   - **(3)** analyzing the performance of lenders in complying with, and the Department in enforcing, such underwriting standards.
@@ -72,7 +72,7 @@ Section 202 of the National Housing Act (12 U.S.C. 1708) is amended by adding at
 Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 
 - **(1)** in subsection (a), by inserting after the period at the end the following: “For purposes of this subsection, the term early default means a default that occurs within 24 months after a mortgage is originated or such alternative appropriate period as the Secretary shall establish.”;
-- **(2)** in subsection (b), by inserting after the period at the end of the first sentence the following: “The Secretary shall also identify which mortgagees have had a significant or rapid increase, as determined by the Secretary, in the number or percentage of early defaults and claims on such mortgages, with respect to all mortgages originated by the mortgagee or mortgages on housing located in any particular geographic area or areas”; and
+- **(2)** in subsection (b), by inserting after the period at the end of the first sentence the following: “The Secretary shall also identify which mortgagees have had a significant or rapid increase, as determined by the Secretary, in the number or percentage of early defaults and claims on such mortgages, with respect to all mortgages originated by the mortgagee or mortgages on housing located in any particular geographic area or areas.”; and
 - **(3)** by adding at the end the following new subsections:
   > - **(d)** *Sufficient resources* There is authorized to be appropriated to the Secretary for each of fiscal years 2010 through 2014 the amount necessary to provide additional full-time equivalent positions for the Department, or for entering into such contracts as are necessary, to conduct reviews in accordance with the requirements of this section and to carry out other responsibilities relating to ensuring the safety and soundness of the Mutual Mortgage Insurance Fund.
   > - **(e)** *Reporting to Congress* Not later than 90 days after the date of enactment of the FHA Reform Act of 2010 and not less often than annually thereafter, the Secretary shall make available to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate any information and conclusions pursuant to the reviews required under subsection (a). Such report shall not include detailed information on the performance of individual mortgages.
@@ -81,7 +81,7 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 
 - **(a)** *Use by mortgagees, officers, and owners; use for insured mortgages*
   - **(1)** *Mortgagees, officers, and owners* Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsections:
-    > - **(j)** *Use of nationwide mortgage licensing system and registry for mortgagees, officers, and owners* The Secretary may require, as a condition for approval of a mortgagee by the Secretary to originate or underwrite mortgages on single family that are insured by the Secretary, that the mortgagee—
+    > - **(k)** *Use of nationwide mortgage licensing system and registry for mortgagees, officers, and owners* The Secretary may require, as a condition for approval of a mortgagee by the Secretary to originate or underwrite mortgages on single family that are insured by the Secretary, that the mortgagee—
     >   - **(1)** obtain and maintain a unique company identifier assigned by the Nationwide Mortgage Licensing System and Registry, as established by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators; and
     >   - **(2)** obtain and maintain, as relates to any and all officers or owners of the mortgagee who are subject to the requirements of the S.A.F.E. Mortgage Licensing Act of 2008, or are otherwise required to register with the Nationwide Mortgage Licensing System and Registry, the unique identifier assigned by the Nationwide Mortgage Licensing System and Registry, as established by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators.
 
@@ -89,7 +89,7 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
     > - **(y)** *Use of nationwide mortgage licensing system and registry for insured loans* The Secretary may require each mortgage insured under this section to include the unique identifier (as such term is defined in section 1503 of the S.A.F.E. Mortgage Licensing act of 2008 (12 U.S.C. 5102)) and any unique company identifier assigned by the Nationwide Mortgage Licensing System and Registry, as established by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators.
 
 - **(b)** *Coordination with State regulatory agencies* Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
-  > - **(k)** *Information sharing with State regulatory agencies*
+  > - **(l)** *Information sharing with State regulatory agencies*
   >   - **(1)** *Joint protocol on information sharing* The Secretary shall, through consultation with State regulatory agencies, pursue protocols for information sharing, including the appropriate treatment of confidential or otherwise restricted information, regarding either actions described in subsection (c)(3) of this section or disciplinary or enforcement actions by a State regulatory agency or agencies against a mortgagee (as such term is defined in subsection (c)(7)).
   >   - **(2)** *Coordination* To the greatest extent possible, the Secretary and appropriate State regulatory agencies shall coordinate disciplinary and enforcement actions involving mortgagees (as such term is defined in subsection (c)(7)).
 
@@ -97,7 +97,7 @@ Section 533 of the National Housing Act (12 U.S.C. 1735f–11) is amended—
 
 Section 202 of the National Housing Act (12 U.S.C. 1708(e)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
 
-> - **(k)** *Notification of mortgagee actions* The Secretary shall require each mortgagee, as a condition for approval by the Secretary to originate or underwrite mortgages on single family or multifamily housing that are insured by the Secretary, if such mortgagee engages in the purchase of mortgages insured by the Secretary and originated by other mortgagees or in the purchase of the servicing rights to such mortgages, and such mortgagee at any time takes action to terminate or discontinue such purchases from another mortgagee based on any determination, evidence, or report of fraud or material misrepresentation in connection with the origination of such mortgages, the mortgagee shall, not later than 15 days after taking such action, shall notify the Secretary of the action taken and the reasons for such action.
+> - **(m)** *Notification of mortgagee actions* The Secretary shall require each mortgagee, as a condition for approval by the Secretary to originate or underwrite mortgages on single family or multifamily housing that are insured by the Secretary, if such mortgagee engages in the purchase of mortgages insured by the Secretary and originated by other mortgagees or in the purchase of the servicing rights to such mortgages, and such mortgagee at any time takes action to terminate or discontinue such purchases from another mortgagee based on any determination, evidence, or report of fraud or material misrepresentation in connection with the origination of such mortgages, the mortgagee shall, not later than 15 days after taking such action, shall notify the Secretary of the action taken and the reasons for such action.
 
 ## § 11. Annual actuarial study and quarterly reports on Mutual Mortgage Insurance Fund
 
@@ -123,7 +123,27 @@ Section 205 of the National Housing Act (12 U.S.C. 1711) is amended by adding at
 
 - **(b)** *Applicability* Information described in subparagraph (C) of section 540(b)(2) of the National Housing Act, as added by subsection (a) of this section, shall first be made available under such section 540 for the applicable collection period (as such term is defined in such section) relating to the first calendar quarter ending after the expiration of the 12-month period that begins on the date of the enactment of this Act.
 
-## § 14. GAO reports on FHA and Ginnie Mae
+## § 14. Third party servicer outreach
+
+- **(a)** *Authority* The Secretary of Housing and Urban Development may, to the extent any amounts for fiscal year 2010 or 2011 are made available in advance in appropriation Acts for reimbursements under this section, provide reimbursement to servicers of covered mortgages (as such term is defined in subsection (e)) for costs of obtaining the services of independent third parties meeting the requirements under subsection (b) of this section to make in-person contact with mortgagors under covered mortgages whose payments under such mortgages are 60 or more days past due, solely for the purposes of providing information to such mortgagors regarding—
+  - **(1)** available counseling by housing counseling agencies approved by the Secretary ; and
+  - **(2)** available mortgage loan modification, refinance, and assistance programs.
+- **(b)** *Qualified independent third parties* An independent third party meets the requirements of this subsection if the third party—
+  - **(1)** is an entity, including a housing counseling agency approved by the Secretary, that meets standards, qualifications, and requirements (including regarding foreclosure prevention training, quality monitoring, safeguarding of non-public information) established by the Secretary for purposes of this section for in-person contact about available mortgage loan modification, refinance, and assistance programs; and
+  - **(2)** does not charge any fees or require other payments, directly or indirectly, from any mortgagor for making in-person contact and providing information and documents under this section.
+- **(c)** *Treatment of personal, non-public, and confidential information* An independent third party whose services are obtained using amounts made available for use under this section and the mortgage servicer obtaining such services shall not use, disclose, or distribute any personal, non-public, or confidential information about a mortgagor obtained during an in-person contact with the mortgagor, except for purposes of engaging in the process of modification or refinance of the covered mortgage.
+- **(d)** *Date of contact and disclosures* Each independent third party whose services are obtained by a mortgage servicer using amounts made available for use under this section shall—
+  - **(1)** initiate in-person contact with a mortgagor not later than 10 days after the date upon which payments under the covered mortgage of the mortgagor become 60 days past due; and
+  - **(2)** upon making in-person contact with a mortgagor, provide the mortgagor with a written document that discloses—
+    - **(A)** the name of, and contact information for, the independent third party and the mortgage servicer;
+    - **(B)** that the independent third party has contracted with the mortgage servicer to provide the in-person contact at no charge to the mortgagor;
+    - **(C)** that the independent third party is an agent of the mortgage servicer;
+    - **(D)** that the in-person contact with the mortgagor consists of providing information about available counseling by a housing counseling agency approved by the Secretary and available mortgage loan modification, refinance, and assistance programs;
+    - **(E)** that the independent third party and the mortgage servicer are prohibited from the use, disclosure, or distribution of personal, non-public, and confidential information about the mortgagor, obtained during the in-person contact, except for purposes of engaging in the process of modification or refinance of the covered mortgage;
+    - **(F)** any other information that the Secretary determines should be disclosed.
+- **(e)** *Definition of covered mortgage* For purposes of this section, the term “covered mortgage” means a mortgage on a 1- to 4-family residence insured under the provisions of subsection (b) or (k) of section 203, section 234(c), or 251 of the National Housing Act (12 U.S.C. 1709, 1715y, 1715z–16).
+
+## § 15. GAO reports on FHA and Ginnie Mae
 
 Not later than the expiration of the 12-month period beginning on the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Congress the following reports:
 
@@ -140,4 +160,4 @@ Not later than the expiration of the 12-month period beginning on the date of th
   - **(A)** the volume and share of the residential mortgage market that consists of mortgages that back securities for which the payment for principal and interest is guaranteed by such Association and how the Association has been affected by the economic recession, credit crisis, and downturn in the housing markets occurring during 2008, 2009, and 2010;
   - **(B)** the capacity of the Association to manage the volume of business it conducts and securities it guarantees, particularly with regard to the recent dramatic increase in such volume, including the ability of the Association to conduct appropriate oversight of contractors and issuers of securities for which the payment of principal and interest is guaranteed by the Association and to determine whether the characteristics of various mortgage products constitute appropriate collateral for the federally guaranteed securities for which payment of principal and interest is guaranteed by such Association;
   - **(C)** the impacts, if any, resulting from such increased volume of business conducted by the Association and securities it guarantees and the challenges such increased volume poses to the internal controls of the Association; and
-  - **(D)** the existing capital net worth of the various aggregators of mortgages that issue securities that are based on or backed by such mortgages and payment of principal and interest on which is guaranteed by such Association and recommends an appropriate required level of net worth for such aggregators and issuers to protect the financial interests of the Federal Government and the taxpayers.
+  - **(D)** the existing capital net worth requirements for aggregators of mortgages that issue securities that are based on or backed by such mortgages and payment of principal and interest on which is guaranteed by such Association and recommends an appropriate required level of net worth for such aggregators and issuers to protect the financial interests of the Federal Government and the taxpayers.
