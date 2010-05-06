@@ -1,7 +1,7 @@
 ---
 measure: S. 3111
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3111
@@ -24,9 +24,10 @@ Faster FOIA Act of 2010
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ Faster FOIA Act of 2010
 - 2010-05-05 — Senate amendment proposed (on the floor): Amendment SA 3847 proposed by Senator Dodd for Senator Leahy.(consideration: CR S3290-3291; text: CR S3291)
 - 2010-05-05 — Senate amendment submitted
 - 2010-05-05 — The committee reported amendments were agreed to by Unanimous Consent.
+- 2010-05-06 — Message on Senate action sent to the House.
+- 2010-05-06 — Received in the House.
+- 2010-05-06 — Referred to the House Committee on Oversight and Government Reform.
