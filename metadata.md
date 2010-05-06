@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2421
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2421
@@ -310,9 +310,10 @@ Mother's Day Centennial Commemorative Coin Act
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -325,3 +326,4 @@ Mother's Day Centennial Commemorative Coin Act
 - 2010-05-05 — Mr. Meeks (NY) moved to suspend the rules and pass the bill, as amended.
 - 2010-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3152)
 - 2010-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3152)
+- 2010-05-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
