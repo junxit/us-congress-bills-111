@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 247
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 247
@@ -48,3 +48,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2010-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3170)
 - 2010-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3170)
 - 2010-05-06 — Received in the Senate.
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3433)
+- 2010-05-07 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3433)
