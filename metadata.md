@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5019
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5019
@@ -63,11 +63,12 @@ Home Star Energy Retrofit Act of 2010
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 - House — Oversight and Accountability Committee
+- Senate — Finance Committee
 
 ## Recorded votes (4)
 
@@ -179,3 +180,4 @@ Home Star Energy Retrofit Act of 2010
 - 2010-05-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3246-3247)
 - 2010-05-06 — The previous question was ordered pursuant to the rule. (consideration: CR H3244)
 - 2010-05-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been previously debated and on which further proceedings had been postponed.
+- 2010-05-07 — Received in the Senate and Read twice and referred to the Committee on Finance.
