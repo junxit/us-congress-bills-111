@@ -1,7 +1,7 @@
 ---
 measure: H.R. 689
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 689
@@ -47,3 +47,6 @@ Shasta-Trinity National Forest Administrative Jurisdiction Transfer Act
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-145.
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-145.
 - 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3429-3431; text as passed Senate: CR S5431)
+- 2010-05-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S5431)
