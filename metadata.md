@@ -1,7 +1,7 @@
 ---
 measure: S. 1053
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1053
@@ -30,3 +30,6 @@ A bill to amend the National Law Enforcement Museum Act to extend the terminatio
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-137.
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-137.
 - 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3429-3431; text as passed Senate: CR S3430)
+- 2010-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S3430)
