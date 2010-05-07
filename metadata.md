@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4899
@@ -16,10 +16,11 @@ Supplemental Appropriations Act, 2010
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (2)
 
@@ -46,3 +47,5 @@ Supplemental Appropriations Act, 2010
 - 2010-03-24 — Rule H. Res. 1204 passed House.
 - 2010-03-24 — Rule provides for consideration of H.R. 4899 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All point of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2010-03-24 — The previous question was ordered pursuant to the rule. (consideration: CR H2309)
+- 2010-03-25 — Received in the Senate.
+- 2010-05-07 — Read twice and referred to the Committee on Appropriations.
