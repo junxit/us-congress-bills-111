@@ -1,7 +1,7 @@
 ---
 measure: H.R. 689
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 689
@@ -50,3 +50,15 @@ Shasta-Trinity National Forest Administrative Jurisdiction Transfer Act
 - 2010-05-07 — Message on Senate action sent to the House.
 - 2010-05-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3429-3431; text as passed Senate: CR S5431)
 - 2010-05-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S5431)
+- 2010-07-13 — Cleared for White House.
+- 2010-07-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 689.
+- 2010-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-13 — Ms. Bordallo moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5514-5515)
+- 2010-07-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H5514-5515)
+- 2010-07-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H5514-5515)
+- 2010-07-19 — Presented to President.
+- 2010-07-19 — Presented to President.
+- 2010-07-27 — Became Public Law No: 111-206.
+- 2010-07-27 — Became Public Law No: 111-206.
+- 2010-07-27 — Signed by President.
+- 2010-07-27 — Signed by President.
