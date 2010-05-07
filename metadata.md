@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1284
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1284
@@ -16,9 +16,10 @@ Supporting the goals and ideals of International Learn to Fly Day, and for other
 
 - Rep. Boyd, Allen [D-FL-2] (B000716)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Graves, Sam [R-MO-6] (G000546)
 
 ## Committees (1)
 
@@ -29,3 +30,10 @@ Supporting the goals and ideals of International Learn to Fly Day, and for other
 - 2010-04-21 — Introduced in House
 - 2010-04-21 — Introduced in House
 - 2010-04-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-04-22 — Referred to the Subcommittee on Aviation.
+- 2010-04-29 — Committee Consideration and Mark-up Session Held.
+- 2010-04-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-04-29 — Subcommittee on Aviation Discharged.
+- 2010-05-07 — Placed on the House Calendar, Calendar No. 193.
+- 2010-05-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-477.
+- 2010-05-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-477.
