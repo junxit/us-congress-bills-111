@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 275
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 275
@@ -34,3 +34,5 @@ A resolution honoring the Minute Man National Historical Park on the occasion of
 - 2010-01-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. Without written report.
 - 2010-01-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. Without written report.
 - 2010-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
+- 2010-05-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S3430)
+- 2010-05-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3429-3431; text as passed Senate: CR S3430)
