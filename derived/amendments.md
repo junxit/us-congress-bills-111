@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5116
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-171 amendatory instructions. 0 executed, 171 stated and not applied.
+168 amendatory instructions. 0 executed, 168 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,10 +41,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “as a distinct entity” after “Advisory Panel”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end “The Advisory Panel shall form a subpanel with membership having specific qualifications tailored to enable it to carry out the requirements of subsection (c)(7).”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “or designated” and “or designating”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: “At least one member of the Advisory Panel shall be an individual employed by and representing a minority-serving institution.”; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “At least one member of the Advisory Panel shall be an individual employed by and representing a minority-serving institution.”; | the bill names no machine-readable US Code section |
 | — | amend | by amending section 5 to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 2(b)(5) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501(b)(5)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 101 of the High-Performance Computing Act of 1991 (15 U.S.C. 5511) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 101 of such Act (15 U.S.C. 5511) is amended further by adding after subsection (d), as added by subsection (a) of this section, the following new subsection: | the bill names no machine-readable US Code section |
@@ -67,7 +67,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Title I of such Act (15 U.S.C. 5511) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | amend | Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 104, as added by section 113 of this Act, the following new section: | the bill names no machine-readable US Code section |
 | — | amend | Section 102 of such Act (15 U.S.C. 5512) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
@@ -108,46 +108,40 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the audit required under paragraph (3) along with” and inserting “any”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), as so redesignated by paragraph (1) of this subsection, by striking “To facilitate the audit required under paragraph (3) of this subsection, the” and inserting “The”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(a)” before “The Foundation is authorized”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (c)(4), by striking “Service required under this paragraph shall be performed in a high-need local educational agency.”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (c), by adding at the end a new paragraph as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 10A of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1a) is amended in subsection (h)(1) by striking “50” and inserting “30”. | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 17 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–6) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Section 7034 of the America COMPETES Act (42 U.S.C. 1862o–13) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | Section 7026 of the America COMPETES Act (Public Law 110–69) is amended by striking subsections (d) and (e). | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking chapters 1, 2, 3, 4, and 6; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 3170 the following new chapter: | the bill names no machine-readable US Code section |
-| — | strike | by striking “web-based”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “web-based” and inserting “, through a publicly available website,” ; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and project-based learning opportunities” after “laboratory experiments”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1), by striking “the science of energy” and inserting “energy systems science and engineering”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), by inserting “, including energy systems science and engineering” after “the science of energy”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d). | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for the America COMPETES Act is amended by striking the items relating to sections 5004 and 5005 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Director of the Office” and all that follows through “shall carry” and inserting “Secretary shall carry”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “per year” after “$80,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “$125,000” and inserting “$500,000 per year”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “$125,000” and inserting “$175,000 per year”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c)(1), by striking “, as determined by the Director”; | the bill names no machine-readable US Code section |
 | — | replace | in subsections (c)(2), (e), (f), and (g), by striking “Director” each place it appears and inserting “Secretary”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “merit-reviewed” and inserting “merit-based, peer reviewed”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, acting through the Director,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “$25,000,000 for each fiscal years 2008 through 2010” and inserting “such sums as are necessary”. | the bill names no machine-readable US Code section |
-| — | insert | in subsections (a) and (b), by inserting “master’s or” before “doctoral”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$25,000,000 for each of fiscal years 2008 through 2010” and inserting “such sums as are necessary”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “involving written and oral interviews, that will result in a wide distribution of awards throughout the United States,”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(B)(iv), by striking “verbal and”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (d)(1)(B)(i), by inserting “partial or full” before “graduate tuition”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (f). | the bill names no machine-readable US Code section |
 | — | repeal | Section 3164 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381a) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “Experimental program to stimulate competitive” and inserting “Standards and”; | the bill names no machine-readable US Code section |
-| — | replace | in the heading in subsection (a), by striking “Program Establishment” and inserting “Establishment of Experimental Program To Stimulate Competitive Technology”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (a) through (c) as subsections (b) through (d), respectively; and | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting before subsection (b), as so redesignated, the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Subsection (c) of section 5 of such Act (15 U.S.C. 3704), as redesignated in subsection (a)(3), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 4 of the National Institute of Standards and Technology Act is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 5314 of title 5, United States Code, is amended by inserting before the item “Associate Attorney General” the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 5315 of title 5, United States Code, is amended by striking “Director, National Institute of Standards and Technology, Department of Commerce.”. | the bill names no machine-readable US Code section |
-| — | strike | Section 5 of the National Institute of Standards and Technology Act (15 U.S.C. 274) is amended by striking the following: “The Director shall be compensated at the rate in effect for level IV of the Executive Schedule under section 5315 … | the bill names no machine-readable US Code section |
+| — | strike | Section 5 of the National Institute of Standards and Technology Act (15 U.S.C. 274) is amended by striking the first, fifth, and sixth sentences. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (12), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (13), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after paragraph (13) the following: | the bill names no machine-readable US Code section |
@@ -155,20 +149,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after paragraph (5) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 25 of such Act (15 U.S.C. 278k) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 33 of such Act (15 U.S.C. 278r) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 25 of such Act (15 U.S.C. 278k) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 25 of such Act (15 U.S.C. 278k) is further amended by adding after subsection (g), as added by subsection (b), the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 25(c) of such Act (15 U.S.C. 278k(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 25(e)(4) of such Act (15 U.S.C. 278k(e)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 25 of such Act (15 U.S.C. 278k) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 25 of such Act (15 U.S.C. 278k) is further amended by adding after subsection (h), as added by subsection (c), the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 34 as section 35; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 33 the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “15 members” and inserting “at least 15, but not more than 20, members”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “at least 10” and inserting “at least 13”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (h)(1), by striking “Program established under section 28” and inserting “programs established under sections 28 and 34”. | the bill names no machine-readable US Code section |
 | — | amend | Section 28(k)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 278n(k)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 19 of such Act (15 U.S.C. 278g–2) is amended by adding at the end the following: “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of … | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 19A(c) of such Act (15 U.S.C. 278g–2a(c)) is amended by adding at the end the following: “The Director shall give priority to an application from a teacher from a high-need school, as defined in section 200 of the Higher Educatio… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 19 of such Act (15 U.S.C. 278g-2) is amended by adding at the end the following: “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 19A(c) of such Act (15 U.S.C. 278g-2a(c)) is amended by adding at the end the following: “The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 200 of the Hi… | the bill names no machine-readable US Code section |
 | — | add-at-end | The Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) is further amended by adding after section 24, as added by section 501 of this title, the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) is further amended by adding after section 25, as added by section 502 of this title, the following new section: | the bill names no machine-readable US Code section |
@@ -176,29 +169,33 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (A), by inserting “and applied” after “advances in fundamental”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (B); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (C) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | amend | in subsection (e)(3), by amending subparagraph (C) to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (3)(D); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f) through (m) as subsections (g), (h), (i), (j), (l), (m), (n), and (o), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before paragraph (2), as so redesignated by subparagraph (A) of this paragraph, the following new paragraph: | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (2)(A), as so redesignated by subparagraph (A) of this paragraph, by striking “each of”; | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “Program managers” and inserting “Program directors”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “program managers” and inserting “program directors”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “each of”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “program manager” and inserting “program director”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (iv), by striking “, with advice under subsection (j) as appropriate,”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (v) and (vi) as clauses (vi) and (viii), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (iv) the following new clause: | the bill names no machine-readable US Code section |
-| — | redesignate | in clause (vi), as so redesignated by clause (ii) of this subparagraph, by striking “; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting after clause (vi), as so redesignated by clause (ii) of this subparagraph, the following new clause: | the bill names no machine-readable US Code section |
+| — | redesignate | in clause (vi), as so redesignated by clause (iii) of this subparagraph, by striking “; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after clause (vi), as so redesignated by clause (iii) of this subparagraph, the following new clause: | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (2)(C), as so redesignated by subparagraph (A) of this paragraph, by inserting “up to” after “shall be”; | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (3), as so redesignated by subparagraph (A) of this paragraph, by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; | the bill names no machine-readable US Code section |
-| — | replace | by striking “program managers” each place it appears and inserting “program directors”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “program manager” each place it appears and inserting “program director”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (3), as so redesignated by subparagraph (A) of this paragraph, by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “2008” and inserting “2010”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2011” and inserting “2013”; | the bill names no machine-readable US Code section |
-| — | redesignate | by amending subsection (j), as so redesignated by paragraph (3) of this section, to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (j), as so redesignated by paragraph (4) of this section, to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after such subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (m)(1), as so redesignated by paragraph (3) of this section, by striking “4 years” and inserting “6 years”; | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (m)(2)(B), as so redesignated by paragraph (3) of this section, by inserting “, and how those lessons may apply to the operation of other programs within the Department of Energy” after “ARPA–E”; | the bill names no machine-readable US Code section |
-| — | redesignate | by amending subsection (o)(2), as so redesignated by paragraph (3) of this section, to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (m)(1), as so redesignated by paragraph (4) of this section, by striking “4 years” and inserting “6 years”; | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (m)(2)(B), as so redesignated by paragraph (4) of this section, by inserting “, and how those lessons may apply to the operation of other programs within the Department of Energy” after “ARPA-E”; | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (o)(2), as so redesignated by paragraph (4) of this section, to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “2.5 percent” and inserting “5 percent”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors as specified in subsection (g)(2)(B)(vii)” after “outreach activities”. | the bill names no machine-readable US Code section |
