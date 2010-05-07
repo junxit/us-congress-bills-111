@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 480
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 480
@@ -33,3 +33,13 @@ A resolution condemning the continued detention of Burmese democracy leader Daw 
 
 - 2010-04-14 — Introduced in Senate
 - 2010-04-14 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2299)
+- 2010-05-07 — Amendment SA 3913 agreed to in Senate by Unanimous Consent.
+- 2010-05-07 — Amendment SA 3913 proposed by Senator Whitehouse for Senator Gregg. (consideration: CR S3433; text: CR S3433) To amend the resolving clause.
+- 2010-05-07 — Measure laid before Senate by unanimous consent. (consideration: CR S3432-3433)
+- 2010-05-07 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments and with a preamble by Unanimous Consent.(text: CR S3432-3433)
+- 2010-05-07 — Resolution agreed to in Senate with amendments and with a preamble by Unanimous Consent. (text: CR S3432-3433)
+- 2010-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2010-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2010-05-07 — Senate amendment agreed to: Amendment SA 3913 agreed to in Senate by Unanimous Consent.
+- 2010-05-07 — Senate amendment proposed (on the floor): Amendment SA 3913 proposed by Senator Whitehouse for Senator Gregg.(consideration: CR S3433; text: CR S3433)
+- 2010-05-07 — Senate amendment submitted
