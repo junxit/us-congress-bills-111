@@ -1,7 +1,7 @@
 ---
 measure: S. 3333
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -183,7 +183,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (9), by striking the period and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new sentence: “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the… | the bill names no machine-readable US Code section |
-| — | repeal | Section 1003(a)(2)(A) of Public Law 111-118 (17 U.S.C. 119 note) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 1003(a)(2)(A) of Public Law 111–118 (17 U.S.C. 119 note) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(C), by striking “May 31, 2010” and inserting “December 31, 2014”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(C), by striking “June 1, 2010” each place it appears in clauses (ii) and (iii) and inserting “January 1, 2015”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraphs (1) and (2) of section 340(b) are amended to read as follows: | the bill names no machine-readable US Code section |
