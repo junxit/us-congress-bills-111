@@ -1,7 +1,7 @@
 ---
 measure: S. 1405
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1405
@@ -26,6 +26,10 @@ Longfellow House-Washington's Headquarters National Historic Site Designation Ac
 - Senate — Energy and Natural Resources Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-12-14 — [House 111-2-628](votes/house-111-2-0628.md) — On Motion to Suspend the Rules and Pass — **Passed** (364–0)
+
 ## Actions
 
 - 2009-07-07 — Introduced in Senate
@@ -40,3 +44,19 @@ Longfellow House-Washington's Headquarters National Historic Site Designation Ac
 - 2010-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S3430)
 - 2010-05-11 — Received in the House.
 - 2010-05-11 — Referred to the House Committee on Natural Resources.
+- 2010-05-12 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-12-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-12-14 — Cleared for White House.
+- 2010-12-14 — Considered as unfinished business. (consideration: CR H8329-8330)
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8304-8305)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 1405.
+- 2010-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-14 — Mr. Rahall moved to suspend the rules and pass the bill.
+- 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 0 (Roll no. 628). (text: CR H8304)
+- 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 0 (Roll no. 628).(text: CR H8304)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-333.
+- 2010-12-22 — Became Public Law No: 111-333.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
