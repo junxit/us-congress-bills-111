@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5051
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5051
@@ -54,3 +54,11 @@ To designate the facility of the United States Postal Service located at 23 Gene
 - 2010-04-15 — Introduced in House
 - 2010-04-15 — Introduced in House
 - 2010-04-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-05-06 — Committee Consideration and Mark-up Session Held.
+- 2010-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2010-05-11 — Considered under suspension of the rules. (consideration: CR H3282-3283)
+- 2010-05-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5051.
+- 2010-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-11 — Mr. Towns moved to suspend the rules and pass the bill.
+- 2010-05-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3282)
+- 2010-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3282)
