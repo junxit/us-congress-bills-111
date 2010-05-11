@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1328
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1328
@@ -93,8 +93,22 @@ Honoring the life and legacy of William Earnest "Ernie" Harwell.
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-05-11 — [House 111-2-257](votes/house-111-2-0257.md) — On Motion to Suspend the Rules and Agree — **Passed** (394–0)
+
 ## Actions
 
 - 2010-05-05 — Introduced in House
 - 2010-05-05 — Introduced in House
 - 2010-05-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-05-06 — Committee Consideration and Mark-up Session Held.
+- 2010-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2010-05-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-11 — Considered as unfinished business. (consideration: CR H3294-3295)
+- 2010-05-11 — Considered under suspension of the rules. (consideration: CR H3286-3287)
+- 2010-05-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1328.
+- 2010-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-11 — Mr. Towns moved to suspend the rules and agree to the resolution.
+- 2010-05-11 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 257). (text: CR H3286)
+- 2010-05-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 257).(text: CR H3286)
