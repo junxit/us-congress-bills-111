@@ -1,7 +1,7 @@
 ---
 measure: S. 1053
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1053
@@ -36,3 +36,17 @@ A bill to amend the National Law Enforcement Museum Act to extend the terminatio
 - 2010-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S3430)
 - 2010-05-11 — Received in the House.
 - 2010-05-11 — Referred to the House Committee on Natural Resources.
+- 2010-05-12 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-07-21 — Cleared for White House.
+- 2010-07-21 — Considered under suspension of the rules. (consideration: CR H5868-5869)
+- 2010-07-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1053.
+- 2010-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-21 — Mr. Rahall moved to suspend the rules and pass the bill.
+- 2010-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5868)
+- 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5868)
+- 2010-07-27 — Presented to President.
+- 2010-07-27 — Presented to President.
+- 2010-08-06 — Became Public Law No: 111-222.
+- 2010-08-06 — Became Public Law No: 111-222.
+- 2010-08-06 — Signed by President.
+- 2010-08-06 — Signed by President.
