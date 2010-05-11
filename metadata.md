@@ -1,7 +1,7 @@
 ---
 measure: S. 1405
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1405
@@ -21,9 +21,10 @@ Longfellow House-Washington's Headquarters National Historic Site Designation Ac
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Kirk, Paul Grattan, Jr. [D-MA] (K000374)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ Longfellow House-Washington's Headquarters National Historic Site Designation Ac
 - 2010-05-07 — Message on Senate action sent to the House.
 - 2010-05-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3429-3431; text as passed Senate: CR S3430)
 - 2010-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3429-3431; text as passed Senate: CR S3430)
+- 2010-05-11 — Received in the House.
+- 2010-05-11 — Referred to the House Committee on Natural Resources.
