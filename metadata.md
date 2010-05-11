@@ -1,0 +1,42 @@
+---
+measure: H.J.Res. 83
+congress: 111
+version: Introduced in House
+---
+
+# H.J.Res. 83
+
+Approving the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+
+## Cosponsors (11)
+
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2010-05-11 — Introduced in House
+- 2010-05-11 — Introduced in House
+- 2010-05-11 — Referred to the House Committee on Ways and Means.
+- 2010-05-11 — Sponsor introductory remarks on measure. (CR E811)
