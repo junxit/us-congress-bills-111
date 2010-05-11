@@ -1,0 +1,36 @@
+---
+measure: S. 3346
+congress: 111
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 3346 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+3 amendatory instructions. 0 executed, 3 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | in the first sentence of paragraph (1), by striking “$20,000” and inserting “$75,000”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “may be assessed” and inserting “of not more than $150,000 for each day of the continuance of the failure shall be assessed”; and | the bill names no machine-readable US Code section |
+| — | replace | The first sentence of section 24(c) of the Outer Continental Shelf Lands Act (43 U.S.C. 1350(c)) is amended by striking “$100,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
