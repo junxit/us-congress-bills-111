@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 959
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,38 +11,57 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2009”.
+This Act may be cited as the “Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2010”.
 
-## § 2. Calculation of Federal Pell Grant eligibility
+## § 2. Calculation of eligibility
 
-Section 401(f) of the Higher Education Act of 1965 (20 U.S.C. 1070a(f)) is amended by adding at the end the following new paragraph:
+Section 473(b) of the Higher Education Act of 1965 (20 U.S.C. 1087mm(b)) is amended—
 
-> - **(5)**
->   - **(A)** Notwithstanding paragraph (1) or any other provision of this section, the expected family contribution of each student described in subparagraph (C) shall be deemed to be zero for the period during which each such student is eligible to receive a Federal Pell Grant under subsection (c).
->   - **(B)** The amount by which a Federal Pell Grant is increased to any student under subparagraph (A) shall not be considered in determining that student's need for any other grant or work assistance under this title, except that in no case shall the total amount of student financial assistance awarded to a student under this title exceed that student's cost of attendance, as defined in section 472.
->   - **(C)** Subparagraph (A) shall apply to any student at an institution of higher education—
->     - **(i)** whose parent or legal guardian—
->       - **(I)** was actively serving as a public safety officer; and
->       - **(II)** died in the line of duty while performing as a public safety officer; and
->     - **(ii)** who was 18 years of age or less, or was enrolled as a full-time or part-time student at an institution of higher education, as of the time of such parent or legal guardian’s death.
->   - **(D)** For purposes of this paragraph—
->     - **(i)** the term public safety officer means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a member of a rescue squad or ambulance crew;
->     - **(ii)** the term law enforcement officer means an individual who—
->       - **(I)** is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; and
->       - **(II)** has statutory powers of arrest or apprehension;
->     - **(iii)** the term firefighter means an individual who is trained in the suppression of fire or hazardous-materials response and has the legal authority to engage in these duties;
->     - **(iv)** the term member of a rescue squad or ambulance crew means an individual who is an officially recognized or designated public employee member of a rescue squad or ambulance crew; and
->     - **(v)** the term public agency means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and the Amtrak Police and Federal Reserve Police departments.
+- **(1)** in paragraph (2)—
+  - **(A)** in the matter preceding subparagraph (A), by inserting “(in the case of a student who meets the requirement of subparagraph (B)(i)), or academic year 2011–2012 (in the case of a student who meets the requirement of subparagraph (B)(ii)),” after “academic year 2009–2010”; and
+  - **(B)** by amending subparagraph (B) to read as follows:
+    > - **(B)** whose parent or guardian was—
+    >   - **(i)** a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; or
+    >   - **(ii)** was actively serving as a public safety officer and died in the line of duty while performing as a public safety officer; and
 
-## § 3. Calculation of educational assistance to dependents of public safety officers
+- **(2)** in paragraph (3)—
+  - **(A)** by striking “Notwithstanding” and inserting the following:
+    > - **(A)** *Armed forces* Notwithstanding
 
-Section 1212(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1(a)) is amended—
+  - **(B)** by striking “paragraph (2)” and inserting “subparagraphs (A), (B)(i), and (C) of paragraph (2)”; and
+  - **(C)** by adding at the end the following:
+    > - **(B)** *Public safety officers* Notwithstanding any other provision of law, unless the Secretary establishes an alternate method to adjust the expected family contribution, for each student who meets the requirements of subparagraphs (A), (B)(ii), and (C) of paragraph (2), a financial aid administrator shall—
+    >   - **(i)** verify with the student that the student is eligible for the adjustment;
+    >   - **(ii)** adjust the expected family contribution in accordance with this subsection; and
+    >   - **(iii)** notify the Secretary of the adjustment and the student’s eligibility for the adjustment.
 
-- **(1)** in paragraph (2), striking “paragraph (3)” and inserting “paragraphs (3) and (4)”;
-- **(2)** in paragraph (3)(A), by striking “sources to which the eligible dependent would otherwise be entitled to receive” and inserting “sources the eligible dependent receives, except as provided in paragraph (4)”; and
-- **(3)** by adding at the end the following new paragraph:
-  > - **(4)** The amount described in subparagraph (A) of paragraph (3) shall not include the amount by which a Federal Pell Grant to a student is increased under section 401(f)(5)(A) of the Higher Education Act of 1965.
+- **(3)** by adding at the end the following:
+  > - **(4)** *Treatment of Pell amount* Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968, in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officer’s Benefits program.
+  > - **(5)** *Definitions* For purposes of this subsection—
+  >   - **(A)** the term “public safety officer” means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a member of a rescue squad or ambulance crew;
+  >   - **(B)** the term “law enforcement officer” means an individual who—
+  >     - **(i)** is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; and
+  >     - **(ii)** has statutory powers of arrest or apprehension;
+  >   - **(C)** the term “firefighter” means an individual who is trained in the suppression of fire or hazardous-materials response and has the legal authority to engage in these duties;
+  >   - **(D)** the term “member of a rescue squad or ambulance crew” means an individual who is an officially recognized or designated public employee member of a rescue squad or ambulance crew; and
+  >   - **(E)** the term “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and the Amtrak Police and Federal Reserve Police departments.
 
-## § 4. Effective date
+## § 3. Calculation of Pell Grant amount
 
-The amendments made by this Act shall apply with respect to Federal Pell Grants awarded for academic year 2010–2011, and each succeeding academic year.
+Section 401(b)(2) of the Higher Education Act of 1965, as amended by the SAFRA Act (Public Law 111-152), is amended—
+
+- **(1)** in subparagraph (A), in the matter preceding clause (i), by striking “The Amount” and inserting “Subject to subparagraph (C), the amount”; and
+- **(2)** by adding at the end the following new subparagraph:
+  > - **(C)** In the case of a student who meet the requirements of subparagraphs (A), (B)(ii), and (C) of section 473(b)(2)—
+  >   - **(i)** clause (ii) of subparagraph (A) of this paragraph shall be applied by substituting “from the amounts appropriated in the last enacted appropriation Act applicable to that award year, an amount equal to the amount of the increase calculated under paragraph (8)(B) for that year” for “the amount of the increase calculated under paragraph (8)(B) for that year”; and
+  >   - **(ii)** such student—
+  >     - **(I)** shall be provided an amount under clause (i) of this subparagraph only to the extent that funds are specifically provided in advance in an appropriation Act to such students for that award year; and
+  >     - **(II)** shall not be eligible for the amounts made available pursuant to clauses (i) through (iii) of paragraph (8)(A).
+
+## § 4. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 5. Effective date
+
+This Act, and the amendments made by this Act, shall take effect on July 1, 2011.
