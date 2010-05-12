@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5051
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5051
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 23 Gene
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 23 Gene
 - 2010-05-11 — Mr. Towns moved to suspend the rules and pass the bill.
 - 2010-05-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3282)
 - 2010-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3282)
+- 2010-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
