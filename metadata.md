@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1284
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1284
@@ -37,3 +37,10 @@ Supporting the goals and ideals of International Learn to Fly Day, and for other
 - 2010-05-07 — Placed on the House Calendar, Calendar No. 193.
 - 2010-05-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-477.
 - 2010-05-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-477.
+- 2010-05-12 — Considered under suspension of the rules. (consideration: CR H3336-3338)
+- 2010-05-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1284.
+- 2010-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-12 — Mr. Cohen moved to suspend the rules and agree to the resolution, as amended.
+- 2010-05-12 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3336)
+- 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H3336)
+- 2010-05-12 — The title of the measure was amended. Agreed to without objection.
