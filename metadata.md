@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 268
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 268
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Cosponsors (44)
+## Cosponsors (56)
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
@@ -62,13 +62,39 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Baca, Joe [D-CA-43] (B001234)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-05-12 — [House 111-2-261](votes/house-111-2-0261.md) — On Motion to Suspend the Rules and Agree — **Passed** (418–0)
 
 ## Actions
 
 - 2010-04-27 — Introduced in House
 - 2010-04-27 — Introduced in House
 - 2010-04-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-05-06 — Committee Consideration and Mark-up Session Held.
+- 2010-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2010-05-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-11 — Considered under suspension of the rules. (consideration: CR H3284-3286)
+- 2010-05-11 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 268.
+- 2010-05-11 — Mr. Towns moved to suspend the rules and agree to the resolution.
+- 2010-05-12 — Considered as unfinished business. (consideration: CR H3356)
+- 2010-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 261). (text: CR 5/11/2010 H3284)
+- 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 261).(text: CR 5/11/2010 H3284)

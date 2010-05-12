@@ -22,5 +22,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** supports the goals and ideals of National Women's Health Week; and
-- **(2)** requests that the President of the United States issue a proclamation calling upon the people of the United States and interested groups to observe National Women's Health Week with appropriate ceremonies and activities.
+- **(1)** supports the goals and ideals of National Women’s Health Week; and
+- **(2)** requests that the President of the United States issue a proclamation calling upon the people of the United States and interested groups to observe National Women’s Health Week with appropriate ceremonies and activities.
