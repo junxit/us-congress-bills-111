@@ -1,7 +1,7 @@
 ---
 measure: S. 736
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 736
@@ -16,9 +16,10 @@ Federal Hiring Process Improvement Act of 2010
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -29,3 +30,10 @@ Federal Hiring Process Improvement Act of 2010
 - 2009-03-30 — Introduced in Senate
 - 2009-03-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S3991-3993)
 - 2009-03-30 — Sponsor introductory remarks on measure. (CR S3991)
+- 2009-05-07 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2009-06-09 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2009-08-05 — Committee on Homeland Security and Governmental Affairs Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia. Hearings held.
+- 2010-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-184.
+- 2010-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-184.
+- 2010-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.
