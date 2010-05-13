@@ -1,7 +1,7 @@
 ---
 measure: S. 1132
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1132
@@ -35,3 +35,5 @@ Law Enforcement Officers Safety Act Improvements Act of 2010
 - 2010-03-11 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-03-11 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
+- 2010-05-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3762-3763; text as passed Senate: CR S3762-3763)
+- 2010-05-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3762-3763; text as passed Senate: CR S3762-3763)

@@ -11,12 +11,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Law Enforcement Officers Safety Act Improvements Act of 2009”.
+This Act may be cited as the “Law Enforcement Officers Safety Act Improvements Act of 2010”.
 
 ## § 2. Amendments to law enforcement officer safety provisions of title 18
 
-- **(a)** *In general* Section 926B of title 18, United States Code, is amended by adding at the end the following:
-  > - **(f)** For the purposes of this section, a law enforcement officer of the Amtrak Police Department or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest.
+- **(a)** *In general* Section 926B of title 18, United States Code, is amended—
+  - **(1)** in subsection (c)(3), by inserting “which could result in suspension or loss of police powers” after “agency”; and
+  - **(2)** by adding at the end the following:
+    > - **(f)** For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest.
 
 - **(b)** *Active law enforcement officers* Section 926B of title 18, United States Code is amended by striking subsection (e) and inserting the following:
   > - **(e)** As used in this section, the term firearm—
@@ -37,7 +39,7 @@ This Act may be cited as the “Law Enforcement Officers Safety Act Improvements
       - **(i)** in subparagraph (A), by striking “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more” and inserting “separation, served as a law enforcement officer for an aggregate of 10 years or more”; and
       - **(ii)** in subparagraph (B), by striking “retired” and inserting “separated”;
     - **(D)** by striking paragraph (4) and inserting the following:
-      > - **(4)** during the most recent 12-month period, has met, at the expense of the individual, the standards for qualification in firearms training for active law enforcement officers, as determined by the former agency of the individual, the State in which the individual resides or, if the State has not established such standards, a law enforcement agency within the State in which the individual resides;
+      > - **(4)** during the most recent 12-month period, has met, at the expense of the individual, the standards for qualification in firearms training for active law enforcement officers, as determined by the former agency of the individual, the State in which the individual resides or, if the State has not established such standards, either a law enforcement agency within the State in which the individual resides or the standards used by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State;
 
     - **(E)** by striking paragraph (5) and replacing it with the following:
       > - **(5)**
@@ -63,4 +65,4 @@ This Act may be cited as the “Law Enforcement Officers Safety Act Improvements
     >       - **(i)** any machinegun (as defined in section 5845 of the National Firearms Act);
     >       - **(ii)** any firearm silencer (as defined in section 921 of this title); and
     >       - **(iii)** any destructive device (as defined in section 921 of this title); and
-    >   - **(2)** the term service with a public agency as a law enforcement officer includes service as a law enforcement officer of the Amtrak Police Department, or as a law enforcement or police officer of the executive branch of the Federal Government.
+    >   - **(2)** the term service with a public agency as a law enforcement officer includes service as a law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
