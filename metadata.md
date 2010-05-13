@@ -1,7 +1,7 @@
 ---
 measure: H.R. 714
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 714
@@ -39,3 +39,5 @@ To authorize the Secretary of the Interior to lease certain lands in Virgin Isla
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-146.
 - 2010-03-02 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-146.
 - 2010-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
+- 2010-05-13 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S3761-3762; text as passed Senate: CR S3762)
+- 2010-05-13 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S3761-3762; text as passed Senate: CR S3762)
