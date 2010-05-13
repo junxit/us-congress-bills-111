@@ -1,25 +1,47 @@
 ---
 legis-num: H.R. 714
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 714
 
-That the bill from the House of Representatives (H.R. 714) entitled “An Act to authorize the Secretary of the Interior to lease certain lands in Virgin Islands National Park, and for other purposes.”, do pass with the following
+> To authorize the Secretary of the Interior to lease certain lands in Virgin Islands National Park, and for other purposes.
 
-*(1)On page 2, line 12 before the period insert: (as amended, assigned, and assumed)*
+## § 1. Caneel Bay lease authorization
 
-*(2)On page 2, line 21 after “lease” insert: with the owner of the retained use estate*
-
-*(3)On page 3, line 19, strike “with” and insert: without*
-
-*(4)On page 4, line 5, strike “and” and insert:*
-
-- **(E)** include provisions to ensure the protection of the natural, cultural, and historic features of the resort and associated property, consistent with the laws and policies applicable to property managed by the National Park Service; and
-*(5)On page 4, line 6, strike “(E)” and insert:(F)*
-
-*(6)On page 5, line 3 strike “effective date” insert:award*
-
-*(7)On page 5, line 24 strike “that” and insert: who*
+- **(a)** *Definitions* In this section:
+  - **(1)** *Park* The term “Park” means the Virgin Islands National Park.
+  - **(2)** *Resort* The term “resort” means the Caneel Bay resort on the island of St. John in the Park.
+  - **(3)** *Retained use estate* The term “retained use estate” means the retained use estate for the Caneel Bay property on the island of St. John entered into between the Jackson Hole Preserve and the United States on September 30, 1983 (as amended, assigned, and assumed).
+  - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(b)** *Lease authorization*
+  - **(1)** *In general* If the Secretary determines that the long-term benefit to the Park would be greater by entering into a lease with the owner of the retained use estate than by authorizing a concession contract upon the termination of the retained use estate, the Secretary may enter into a lease with the owner of the retained use estate for the operation and management of the resort.
+  - **(2)** *Acquisitions* The Secretary may—
+    - **(A)** acquire associated property from the owner of the retained use estate; and
+    - **(B)** on the acquisition of property under subparagraph (A), administer the property as part of the Park.
+  - **(3)** *Authority* Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 (16 U.S.C. 1a–2(k)), notwithstanding paragraph (2) of that subsection.
+  - **(4)** *Terms and conditions* A lease authorized under this section shall—
+    - **(A)** be for the minimum number of years practicable, taking into consideration the need for the lessee to secure financing for necessary capital improvements to the resort, but in no event shall the term of the lease exceed 40 years;
+    - **(B)** prohibit any transfer, assignment, or sale of the lease or otherwise convey or pledge any interest in the lease without prior written notification to, and approval by the Secretary;
+    - **(C)** ensure that the general character of the resort property remains unchanged, including a prohibition against—
+      - **(i)** any increase in the overall size of the resort; or
+      - **(ii)** any increase in the number of guest accommodations available at the resort;
+    - **(D)** prohibit the sale of partial ownership shares or timeshares in the resort;
+    - **(E)** include provisions to ensure the protection of the natural, cultural, and historic features of the resort and associated property, consistent with the laws and policies applicable to property managed by the National Park Service; and
+    - **(F)** include any other provisions determined by the Secretary to be necessary to protect the Park and the public interest.
+  - **(5)** *Rental amounts* In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 (16 U.S.C. 1a–2(k)(4)), the Secretary shall take into consideration—
+    - **(A)** the value of any associated property conveyed to the United States; and
+    - **(B)** the value, if any, of the relinquished term of the retained use estate.
+  - **(6)** *Use of proceeds* Rental amounts paid to the United States under a lease shall be available to the Secretary, without further appropriation, for visitor services and resource protection within the Park.
+  - **(7)** *Congressional notification* The Secretary shall submit a proposed lease under this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at least 60 days before the award of the lease.
+  - **(8)** *Renewal* A lease entered into under this section may not be extended or renewed.
+  - **(9)** *Termination* Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5951 et seq.).
+- **(c)** *Retained use estate*
+  - **(1)** *In general* As a condition of the lease, the owner of the retained use estate shall terminate, extinguish, and relinquish to the Secretary all rights under the retained use estate and shall transfer, without consideration, ownership of improvements on the retained use estate to the National Park Service.
+  - **(2)** *Appraisal*
+    - **(A)** *In general* The Secretary shall require an appraisal by an independent, qualified appraiser who is agreed to by the Secretary and the owner of the retained use estate to determine the value, if any, of the relinquished term of the retained use estate.
+    - **(B)** *Requirements* An appraisal under paragraph (1) shall be conducted in accordance with—
+      - **(i)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
+      - **(ii)** the Uniform Standards of Professional Appraisal Practice.
