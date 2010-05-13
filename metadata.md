@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1337
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1337
@@ -31,8 +31,21 @@ Expressing the sympathy and condolences of the House of Representatives to those
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2010-05-13 — [House 111-2-272](votes/house-111-2-0272.md) — On Motion to Suspend the Rules and Agree — **Passed** (402–0)
+
 ## Actions
 
 - 2010-05-06 — Introduced in House
 - 2010-05-06 — Introduced in House
 - 2010-05-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-05-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-12 — Considered under suspension of the rules. (consideration: CR H3333-3336)
+- 2010-05-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1337.
+- 2010-05-12 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2010-05-12 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-05-13 — Considered as unfinished business. (consideration: CR H3458-3459)
+- 2010-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-13 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 272). (text: CR 5/12/2010 H3333)
+- 2010-05-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 272).(text: CR 5/12/2010 H3333)
