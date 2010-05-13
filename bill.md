@@ -2,7 +2,7 @@
 legis-num: H. RES. 1338
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1338
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas those same individuals improve the lives of the Nation’s most vulnerable citizens, protect the environment, contribute to public safety, respond to disasters, and strengthen the educational system;
 - Whereas AmeriCorps members serve thousands of nonprofit organizations, schools, and faith-based and community organizations each year;
 - Whereas AmeriCorps members, after their terms of service end, are more likely to remain engaged in their communities as volunteers, teachers, and nonprofit professionals;
-- Whereas, on April 21, 2009, President Barack Obama signed the Edward M. Kennedy Serve America Act, passed by bi-partisan majorities in both the House of Representatives and the Senate, which reauthorized and will expand AmeriCorps programs;
+- Whereas, on April 21, 2009, President Barack Obama signed the Edward M. Kennedy Serve America Act, passed by bipartisan majorities in both the House of Representatives and the Senate, which reauthorized and will expand AmeriCorps programs;
 - Whereas national service programs have engaged millions of Americans in results-driven service in the Nation’s most vulnerable communities, providing hope and help to people facing economic and social needs;
 - Whereas, this year, as the economic downturn puts millions of Americans at risk, national service and volunteering are more important than ever; and
 - Whereas 2010’s AmeriCorps Week, observed May 8 through May 15, provides the perfect opportunity for AmeriCorps members, alumni, grantees, program partners, and friends to shine a spotlight on the work done by members and to motivate more Americans to serve their communities: Now, therefore, be it
