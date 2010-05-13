@@ -1,7 +1,7 @@
 ---
 measure: S. 2839
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2839
@@ -29,3 +29,7 @@ Torture Victims Relief Reauthorization Act of 2010
 
 - 2009-12-04 — Introduced in Senate
 - 2009-12-04 — Read twice and referred to the Committee on Foreign Relations.
+- 2010-04-13 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-186.
+- 2010-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-186.
+- 2010-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
