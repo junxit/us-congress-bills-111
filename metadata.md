@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4899
@@ -49,3 +49,7 @@ Supplemental Appropriations Act, 2010
 - 2010-03-24 — The previous question was ordered pursuant to the rule. (consideration: CR H2309)
 - 2010-03-25 — Received in the Senate.
 - 2010-05-07 — Read twice and referred to the Committee on Appropriations.
+- 2010-05-13 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-05-14 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-188.
+- 2010-05-14 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-188.
+- 2010-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
