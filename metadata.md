@@ -1,7 +1,7 @@
 ---
 measure: S. 1132
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1132
@@ -41,3 +41,19 @@ Law Enforcement Officers Safety Act Improvements Act of 2010
 - 2010-05-14 — Message on Senate action sent to the House.
 - 2010-05-14 — Received in the House.
 - 2010-05-14 — Referred to the House Committee on the Judiciary.
+- 2010-07-26 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2010-07-27 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-233.
+- 2010-07-27 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-233.
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — Considered under suspension of the rules. (consideration: CR H7319-7321)
+- 2010-09-29 — DEBATE - The House proceeded with forty minutes of debate on S. 1132.
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Boucher moved to suspend the rules and pass the bill.
+- 2010-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7319-7320)
+- 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7319-7320)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-272.
+- 2010-10-12 — Became Public Law No: 111-272.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.
