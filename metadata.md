@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 521
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 521
@@ -28,3 +28,7 @@ A resolution commemorating and celebrating the lives of Deputy Sheriff Stephen M
 
 - 2010-05-12 — Introduced in Senate
 - 2010-05-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3646-3647)
+- 2010-05-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S3790)
+- 2010-05-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3790)
+- 2010-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3789-3790)
+- 2010-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3789-3790)
