@@ -1,0 +1,27 @@
+---
+legis-num: S. RES. 526
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 526
+
+> Designating May 16 through May 22, 2010, as “National Search and Rescue Week”.
+
+## Preamble
+
+- Whereas the National Association for Search and Rescue and local search and rescue units across the United States have designated May 16 through May 22, 2010, as “National Search and Rescue Week”;
+- Whereas the Senate recognizes the importance of search and rescue services that are provided by both salaried and volunteer citizens through county sheriff offices and military entities;
+- Whereas throughout the history of the United States, search and rescue personnel have served the people of this Nation by helping to save the lives of fellow citizens who are lost or injured;
+- Whereas search and rescue personnel continually offer educational services that provide individuals with the survival knowledge necessary to live safely in diverse environments, from mountains to deserts and across both the urban and remote areas of this Nation;
+- Whereas search and rescue personnel train continually in order to maintain mission readiness and to be able to address complex search and rescue situations with both knowledge and skill;
+- Whereas search and rescue personnel are instrumental during national emergencies or natural disasters, as they are willing and able to respond and remain on missions for many weeks;
+- Whereas search and rescue personnel are required to be focused and dedicated in order to carry out missions that involve personal sacrifice of time, finance, and property, and place their own lives in danger;
+- Whereas in the United States, more than 500 individuals have sacrificed their lives during search and rescue missions or training; and
+- Whereas search and rescue personnel shall always be recognized as essential to protecting the lives of the citizens of this Nation: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** designates May 16 through May 22, 2010, as “National Search and Rescue Week”; and
+- **(2)** encourages the people of the United States to observe this week with appropriate ceremonies and activities that promote awareness and appreciation of the role that search and rescue personnel perform in their communities so “that others may live”.
