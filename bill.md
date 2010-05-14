@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2711
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2711
 
-That the bill from the House of Representatives (H.R. 2711) entitled “An Act to amend title 5, United States Code, to provide for the transportation of the dependents, remains, and effects of certain Federal employees who die while performing official duties or as a result of the performance of official duties.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 5, United States Code, to provide for the transportation and moving expenses for the immediate family of certain Federal employees who die in the performance of their duties.
 
 ## § 1. Short title
 

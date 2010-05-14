@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2711
@@ -33,6 +33,10 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-05-25 — [House 111-2-299](votes/house-111-2-0299.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (416–0)
 
 ## Actions
 
@@ -71,3 +75,17 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 - 2010-05-14 — Senate amendment proposed (on the floor): Amendment SA 4044 proposed by Senator Dodd for Senator Lieberman.(consideration: CR S3789; text: CR S3789)
 - 2010-05-14 — Senate amendment submitted
 - 2010-05-14 — Senate amendment submitted
+- 2010-05-17 — Message on Senate action sent to the House.
+- 2010-05-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-05-25 — Cleared for White House.
+- 2010-05-25 — DEBATE - The House proceeded with forty minutes of debate on the motion to agree to the Senate amendments to H.R. 2711.
+- 2010-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-25 — Mr. Lynch moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H3770-3772, H3789-3790)
+- 2010-05-25 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 299). (text as House agreed to Senate amendments: CR H3771)
+- 2010-05-25 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 299).(text as House agreed to Senate amendments: CR H3771)
+- 2010-06-01 — Presented to President.
+- 2010-06-01 — Presented to President.
+- 2010-06-09 — Became Public Law No: 111-178.
+- 2010-06-09 — Became Public Law No: 111-178.
+- 2010-06-09 — Signed by President.
+- 2010-06-09 — Signed by President.
