@@ -1,7 +1,7 @@
 ---
 measure: S. 1132
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1132
@@ -22,9 +22,10 @@ Law Enforcement Officers Safety Act Improvements Act of 2010
 - Sen. Sessions, Jeff [R-AL] (S001141)
 - Sen. Conrad, Kent [D-ND] (C000705)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ Law Enforcement Officers Safety Act Improvements Act of 2010
 - 2010-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
 - 2010-05-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3762-3763; text as passed Senate: CR S3762-3763)
 - 2010-05-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3762-3763; text as passed Senate: CR S3762-3763)
+- 2010-05-14 — Message on Senate action sent to the House.
+- 2010-05-14 — Received in the House.
+- 2010-05-14 — Referred to the House Committee on the Judiciary.
