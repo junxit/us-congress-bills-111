@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2711
@@ -57,3 +57,17 @@ Special Agent Samuel Hicks Families of Fallen Heroes Act
 - 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
 - 2009-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
 - 2009-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
+- 2010-05-14 — Amendment SA 4043 agreed to in Senate by Unanimous Consent.
+- 2010-05-14 — Amendment SA 4043 proposed by Senator Dodd for Senator Lieberman. (consideration: CR S3789; text: CR S3789) In the nature of a substitute.
+- 2010-05-14 — Amendment SA 4044 agreed to in Senate by Unanimous Consent.
+- 2010-05-14 — Amendment SA 4044 proposed by Senator Dodd for Senator Lieberman. (consideration: CR S3789; text: CR S3789) To amend the title.
+- 2010-05-14 — Committtee amendments withdrawn by Unanimous Consent. (consideration: CR S3789)
+- 2010-05-14 — Measure laid before Senate by unanimous consent. (consideration: CR S3788-3789; text of measure as reported in Senate: CR S3788-3789)
+- 2010-05-14 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-05-14 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-05-14 — Senate amendment agreed to: Amendment SA 4043 agreed to in Senate by Unanimous Consent.
+- 2010-05-14 — Senate amendment agreed to: Amendment SA 4044 agreed to in Senate by Unanimous Consent.
+- 2010-05-14 — Senate amendment proposed (on the floor): Amendment SA 4043 proposed by Senator Dodd for Senator Lieberman.(consideration: CR S3789; text: CR S3789)
+- 2010-05-14 — Senate amendment proposed (on the floor): Amendment SA 4044 proposed by Senator Dodd for Senator Lieberman.(consideration: CR S3789; text: CR S3789)
+- 2010-05-14 — Senate amendment submitted
+- 2010-05-14 — Senate amendment submitted

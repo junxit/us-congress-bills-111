@@ -1,37 +1,39 @@
 ---
 legis-num: H.R. 2711
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2711
 
-> To amend title 5, United States Code, to provide for the transportation of the dependents, remains, and effects of certain Federal employees who die while performing official duties or as a result of the performance of official duties.
+That the bill from the House of Representatives (H.R. 2711) entitled “An Act to amend title 5, United States Code, to provide for the transportation of the dependents, remains, and effects of certain Federal employees who die while performing official duties or as a result of the performance of official duties.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Special Agent Samuel Hicks Families of Fallen Heroes Act”.
 
-## § 2. Transportation of dependents, remains, and effects of certain Federal employees
+## § 2. Transportation and moving expenses for immediate family of certain deceased Federal employees
 
 - **(a)** *In general* Subchapter II of chapter 57 of title 5, United States Code, is amended by inserting after section 5724c the following:
-  > ## § 5724d. Transportation of dependents, remains, and effects of certain Federal employees
+  > ## § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
   >
-  > - **(a)** *In general* Under regulations prescribed under section 5738 and when the head of the agency concerned (or a designee thereof) authorizes or approves, if a covered employee dies while performing official duties or as a result of the performance of official duties, the agency may pay from Government funds—
-  >   - **(1)** the qualified expenses of the immediate family of the employee, if the place where the family will reside following the death of the employee is—
-  >     - **(A)** different from the place where the family resided at the time of the employee’s death; and
+  > - **(a)** *In general* Under regulations prescribed by the President, the head of the agency concerned (or a designee) may determine that a covered employee died as a result of personal injury sustained while in the performance of the employee's duty and authorize or approve the payment by the agency, from Government funds, of—
+  >   - **(1)** any qualified expense of the immediate family of the covered employee attributable to a change in their place of residence, if the place where the immediate family will reside following the death of the employee is—
+  >     - **(A)** different from the place where the immediate family resided at the time of the employee’s death; and
   >     - **(B)** within the United States; and
-  >   - **(2)** the expenses of preparing and transporting the remains of the deceased to—
+  >   - **(2)** any expense of preparing and transporting the remains of the deceased to—
   >     - **(A)** the place where the immediate family will reside following the death of the employee; or
-  >     - **(B)** such other place, appropriate for interment, as is determined by the agency head (or designee).
-  > - **(b)** *Qualified expenses* For purposes of this section, the term qualified expenses, as used with respect to a family changing its place of residence, means the moving expenses, transportation expenses, and relocation expenses of the family which are attributable to the change in place of residence.
+  >     - **(B)** such other place appropriate for interment as is determined by the agency head (or designee).
+  > - **(b)** *No duplicate payment of expenses* No expenses may be paid under this section if those expenses are paid from Government funds under section 5742 or any other authority.
   > - **(c)** *Definitions* For purposes of this section—
   >   - **(1)** the term “covered employee” means—
-  >     - **(A)** a law enforcement officer, as defined by in section 5541; and
+  >     - **(A)** a law enforcement officer, as defined in section 5541;
   >     - **(B)** any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A); and
-  >     - **(C)** a customs and border protection officer, as defined in section 8331(31);
-  >   - **(2)** the term moving expenses, as used with respect to a family, includes the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking the household goods and personal effects of such family, not in excess of 18,000 pounds net weight; and
-  >   - **(3)** the term relocation expenses has the meaning given such term under regulations prescribed under section 5738, including relocation expenses and relocation services described in sections 5724a and 5724c, respectively.
+  >     - **(C)** a customs and border protection officer, as defined in section 8331(31); and
+  >   - **(2)** the term qualified expense, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
 
-- **(b)** *Clerical amendment* The analysis for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5724c the following:
+- **(b)** *No relevance as to compensation claims* No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.
+- **(c)** *Clerical amendment* The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5724c the following:

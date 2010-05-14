@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2711
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Subchapter II of chapter 57 of title 5, United States Code, is amended by inserting after section 5724c the following: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5724c the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5724c the following: | the bill names no machine-readable US Code section |
