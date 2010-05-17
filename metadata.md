@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5014
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5014
@@ -43,3 +43,13 @@ To clarify the health care provided by the Secretary of Veterans Affairs that co
 - 2010-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 260). (text: CR H3330)
 - 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 260).(text: CR H3330)
 - 2010-05-17 — Received in the Senate, read twice.
+- 2010-05-18 — Cleared for White House.
+- 2010-05-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3946-3947)
+- 2010-05-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3946-3947)
+- 2010-05-19 — Message on Senate action sent to the House.
+- 2010-05-21 — Presented to President.
+- 2010-05-21 — Presented to President.
+- 2010-05-27 — Became Public Law No: 111-173.
+- 2010-05-27 — Became Public Law No: 111-173.
+- 2010-05-27 — Signed by President.
+- 2010-05-27 — Signed by President.
