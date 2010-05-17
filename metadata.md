@@ -1,7 +1,7 @@
 ---
 measure: H.R. 959
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 959
@@ -62,10 +62,11 @@ Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2010
 - Rep. Grayson, Alan [D-FL-8] (G000556)
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -82,3 +83,4 @@ Officer Daniel Faulkner Children of Fallen Heroes Scholarship Act of 2010
 - 2010-05-12 — Ms. Woolsey moved to suspend the rules and pass the bill, as amended.
 - 2010-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3344)
 - 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3344)
+- 2010-05-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

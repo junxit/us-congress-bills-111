@@ -2,7 +2,7 @@
 legis-num: H.R. 959
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 959
@@ -48,7 +48,7 @@ Section 473(b) of the Higher Education Act of 1965 (20 U.S.C. 1087mm(b)) is amen
 
 ## § 3. Calculation of Pell Grant amount
 
-Section 401(b)(2) of the Higher Education Act of 1965, as amended by the SAFRA Act (Public Law 111-152), is amended—
+Section 401(b)(2) of the Higher Education Act of 1965, as amended by the SAFRA Act (Public Law 111–152), is amended—
 
 - **(1)** in subparagraph (A), in the matter preceding clause (i), by striking “The Amount” and inserting “Subject to subparagraph (C), the amount”; and
 - **(2)** by adding at the end the following new subparagraph:
