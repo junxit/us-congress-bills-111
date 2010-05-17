@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 268
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 268
@@ -75,9 +75,10 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -98,3 +99,4 @@ Supporting the goals and ideals of National Women's Health Week, and for other p
 - 2010-05-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 261). (text: CR 5/11/2010 H3284)
 - 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 261).(text: CR 5/11/2010 H3284)
+- 2010-05-17 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
