@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2868
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,11 +21,11 @@ Section 502 of title 40, United States Code, is amended by adding at the end the
 >   - **(1)** *In general* The Administrator may provide for the use by the American National Red Cross of Federal supply schedules. Purchases under this authority shall be used in furtherance of the purposes of the American National Red Cross set forth in section 300102 of title 36, United States Code.
 >   - **(2)** *Limitation* The authority under this subsection may not be used to purchase supplies for resale.
 
-## § 3. Duty of non-Federal users regarding use of Federal supply schedules
+## § 3. Duty of users regarding use of Federal supply schedules
 
 Section 502 of title 40, United States Code, as amended by section 2, is further amended by adding at the end the following new subsection:
 
-> - **(f)** *Duty of non-Federal users regarding use of supply schedules* All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
+> - **(f)** *Duty of users regarding use of supply schedules* All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 
 ## § 4. Authority of State and local governments to use supply schedules for certain goods and services
 

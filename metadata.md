@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2868
@@ -16,6 +16,10 @@ Federal Supply Schedules Usage Act of 2010
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
+## Cosponsors (1)
+
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ Federal Supply Schedules Usage Act of 2010
 
 - 2009-12-10 — Introduced in Senate
 - 2009-12-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-192.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-192.
+- 2010-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
