@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5014
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5014
@@ -42,3 +42,4 @@ To clarify the health care provided by the Secretary of Veterans Affairs that co
 - 2010-05-12 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
 - 2010-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 260). (text: CR H3330)
 - 2010-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 260).(text: CR H3330)
+- 2010-05-17 — Received in the Senate, read twice.

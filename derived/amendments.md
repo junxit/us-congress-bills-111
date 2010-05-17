@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5014
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Clause (v) of section 5000A(f)(1)(A) of the Internal Revenue Code of 1986, as added by section 1501(b) of the Patient Protection and Affordable Care Act, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 5000A` | amend | Clause (v) of section 5000A(f)(1)(A) of the Internal Revenue Code of 1986, as added by section 1501(b) of the Patient Protection and Affordable Care Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
