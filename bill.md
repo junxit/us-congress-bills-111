@@ -1,13 +1,13 @@
 ---
 legis-num: H. RES. 792
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 792
 
-> Honoring Robert Kelly Slater for his outstanding and unprecedented achievements in the world of surfing and for being an ambassador of the sport and excellent role model.
+> Resolution recognizing and honoring Robert Kelly Slater for winning the 2010 Rip Curl Pro Bell Championship and for his other outstanding achievements in the world of surfing.
 
 ## Preamble
 
@@ -23,9 +23,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Kelly Slater was the 1st surfer ever to be awarded 2 perfect scores in the final heat of the Billabong Tahiti Pro Contest under the Association of Surfing Professionals 2-wave scoring system;
 - Whereas Kelly Slater won an Association of Surfing Professionals World Title in 2005, 7 years after his previous win in 1998;
 - Whereas, in 2007, Kelly Slater started the Kelly Slater Foundation to raise awareness and financial support for socially and environmentally conscious charities;
+- Whereas, in 2008, at the age of 36, Kelly Slater was the oldest surfer to win an Association of Surfing Professionals World Championship;
+- Whereas, in 2010, Kelly Slater won the Rip Curl Pro Bell Championship, making him a 4-time winner of this 49-year-old international surfing championship held in Australia;
 - Whereas Kelly Slater has 39 World Championship Tour victories;
-- Whereas Kelly Slater holds 9 Association of Surfing Professionals World Championships, a record number;
-- Whereas, in 2008, at the age of 36, Kelly Slater was the oldest surfer to win an Association of Surfing Professionals World Championship; and
+- Whereas Kelly Slater holds 9 Association of Surfing Professionals World Championships, a record number; and
 - Whereas Kelly Slater is surfing’s all-time leader in career event wins: Now, therefore, be it
 
-That the House of Representatives honors Robert Kelly Slater for his outstanding and unprecedented achievements in the world of surfing and for being an ambassador of the sport and role model for aspiring young surfers in the United States and throughout the world.
+That the House of Representatives recognizes and honors Robert Kelly Slater for winning the 2010 Rip Curl Pro Bell Championship and for his other outstanding achievements in the world of surfing.
