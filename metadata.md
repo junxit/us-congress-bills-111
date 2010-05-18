@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4491
@@ -16,7 +16,7 @@ Buffalo Soldiers in the National Parks Study Act
 
 - Rep. Speier, Jackie [D-CA-12] (S001175)
 
-## Cosponsors (52)
+## Cosponsors (54)
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
@@ -70,6 +70,8 @@ Buffalo Soldiers in the National Parks Study Act
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Capps, Lois [D-CA-23] (C001036)
 
 ## Committees (1)
 
@@ -80,3 +82,17 @@ Buffalo Soldiers in the National Parks Study Act
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Introduced in House
 - 2010-01-21 — Referred to the House Committee on Natural Resources.
+- 2010-01-25 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-02-25 — Subcommittee Hearings Held.
+- 2010-05-05 — Committee Consideration and Mark-up Session Held.
+- 2010-05-05 — Ordered to be Reported by Voice Vote.
+- 2010-05-05 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2010-05-18 — Considered under suspension of the rules. (consideration: CR H3491-3492)
+- 2010-05-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4491.
+- 2010-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-18 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2010-05-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3491)
+- 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3491)
+- 2010-05-18 — Placed on the Union Calendar, Calendar No. 273.
+- 2010-05-18 — Reported by the Committee on Natural Resources. H. Rept. 111-482.
+- 2010-05-18 — Reported by the Committee on Natural Resources. H. Rept. 111-482.
