@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4840
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4840
@@ -60,3 +60,8 @@ An act to designate the facility of the United States Postal Service located at 
 - 2010-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 155). (text: CR 3/19/2010 CR H1701)
 - 2010-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 155).(text: CR 3/19/2010 CR H1701)
 - 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-04-16 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
+- 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
+- 2010-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
