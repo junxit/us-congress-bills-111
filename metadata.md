@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 211
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 211
@@ -32,3 +32,10 @@ Recognizing the 75th anniversary of the establishment of the East Bay Regional P
 - 2009-11-06 — Introduced in House
 - 2009-11-06 — Introduced in House
 - 2009-11-06 — Referred to the House Committee on Natural Resources.
+- 2009-11-09 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-05-18 — Considered under suspension of the rules. (consideration: CR H3492-3493)
+- 2010-05-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 211.
+- 2010-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-18 — Mr. Miller, George moved to suspend the rules and agree to the resolution.
+- 2010-05-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3492)
+- 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3492)
