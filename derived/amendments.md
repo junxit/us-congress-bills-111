@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 3 of Public Law 106–392 (114 Stat. 1602) is amended in subsection (d)(2) in the fourth sentence, by striking “2011” and inserting “2023”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3(d)(2) of Public Law 106–392 (114 Stat. 1604 and 1605) is amended by inserting at the end the following: “For fiscal years 2012 through 2023, there are hereby authorized to be appropriated such sums as may be necessary to provid… | the bill names no machine-readable US Code section |

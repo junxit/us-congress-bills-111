@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2288
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Endangered Fish Recovery Programs Improvement Act of 2009”.
+This Act may be cited as the “Endangered Fish Recovery Programs Improvement Act of 2010”.
 
-## § 2. Reauthorization of fish Recovery programs
+## § 2. Reauthorization of fish recovery programs
 
-Section 3 of Public Law 106–392 (114 Stat. 1602) is amended in subsection (d)(2) in the fourth sentence, by striking “2011” and inserting “2023”.
+Section 3(d)(2) of Public Law 106–392 (114 Stat. 1604 and 1605) is amended by inserting at the end the following: “For fiscal years 2012 through 2023, there are hereby authorized to be appropriated such sums as may be necessary to provide for the annual base funding for the Recovery Implementation Programs above and beyond the continued use of power revenues to fund the operation and maintenance of capital projects and monitoring.”.
