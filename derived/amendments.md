@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4614
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 505 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3755) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 505 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3755) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
