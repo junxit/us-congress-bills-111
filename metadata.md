@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 111
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 4491
