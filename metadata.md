@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4628
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4628
@@ -61,3 +61,13 @@ To designate the facility of the United States Postal Service located at 216 Wes
 - 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
+- 2010-05-25 — Cleared for White House.
+- 2010-05-25 — Message on Senate action sent to the House.
+- 2010-05-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4171-4172)
+- 2010-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4171-4172)
+- 2010-06-01 — Presented to President.
+- 2010-06-01 — Presented to President.
+- 2010-06-09 — Became Public Law No: 111-189.
+- 2010-06-09 — Became Public Law No: 111-189.
+- 2010-06-09 — Signed by President.
+- 2010-06-09 — Signed by President.
