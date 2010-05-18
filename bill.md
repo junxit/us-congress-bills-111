@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3511
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Marianas Trench Marine National Monument Visitor Facility Authorization Act of 2009”.
+This Act may be cited as the “Marianas Trench Marine National Monument Visitor Facility Authorization Act of 2010”.
 
 ## § 2. Definitions
 
@@ -33,10 +33,6 @@ In this Act:
     - **(E)** sufficient visitor amenities including restrooms, public telephones, drinking water, and other basic facilities; and
     - **(F)** administrative office space sufficient to fulfill the management obligations and responsibilities of the Secretary and other Federal agencies as specified in the monument’s enabling proclamation.
 
-## § 4. Authorization of appropriations
-
-There are authorized to be appropriated such sums as are necessary to fulfill the purposes of this Act.
-
-## § 5. Donations
+## § 4. Donations
 
 For the purposes of the planning, construction, and operation of the visitor facility authorized under section 3 of this Act, the Secretary may accept, retain, and expend donations of funds, and use property or services donated from private persons and entities or from public entities.
