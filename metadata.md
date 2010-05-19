@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 403
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 403
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that there should be establ
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (69)
+## Cosponsors (75)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Polis, Jared [D-CO-2] (P000598)
@@ -87,13 +87,34 @@ Expressing the sense of the House of Representatives that there should be establ
 - Rep. Nye, Glenn C. [D-VA-2] (N000183)
 - Rep. Posey, Bill [R-FL-15] (P000599)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-05-19 — [House 111-2-281](votes/house-111-2-0281.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (405–2)
 
 ## Actions
 
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Introduced in House
 - 2009-05-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2009-05-07 — Sponsor introductory remarks on measure. (CR H5374)
+- 2010-05-06 — Committee Consideration and Mark-up Session Held.
+- 2010-05-06 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2010-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-18 — Considered under suspension of the rules. (consideration: CR H3507-3509)
+- 2010-05-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 403.
+- 2010-05-18 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.
+- 2010-05-19 — Considered as unfinished business. (consideration: CR H3621-3622)
+- 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2, 1 Present (Roll no. 281). (text: CR 5/18/2010 H3507)
+- 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2, 1 Present (Roll no. 281).(text: CR 5/18/2010 H3507)
