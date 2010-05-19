@@ -2,7 +2,7 @@
 legis-num: H. RES. 1325
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1325
@@ -15,7 +15,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas National Missing Children’s Day honors the obligation of the United States to locate and recover missing children by prompting parents, guardians, and other trusted adult role models to make child safety an utmost priority;
 - Whereas in the United States nearly 800,000 children are reported missing a year, more than 58,000 children are abducted by nonfamily members, and more than 2,000 children are reported missing every day;
 - Whereas efforts of Congress to provide resources, training, and technical assistance have increased the capabilities of State and local law enforcement to find children and to return them home safely;
-- Whereas in 2006 the Adam Walsh Act was signed into law to register, monitor, and track sex offenders and protect children from predators;
 - Whereas the 1979 disappearance of 6-year-old Etan Patz served as the impetus for the creation of National Missing Children’s Day, first proclaimed in 1983; and
 - Whereas Etan’s photograph was distributed throughout the United States and appeared in media globally, and the powerful image came to represent the anguish of thousands of searching families: Now, therefore, be it
 
