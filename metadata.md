@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4614
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4614
@@ -30,9 +30,10 @@ Katie Sepich Enhanced DNA Collection Act of 2010
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Katie Sepich Enhanced DNA Collection Act of 2010
 - 2010-05-18 — Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.
 - 2010-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 32 (Roll no. 274). (text: CR H3502-3503)
 - 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 32 (Roll no. 274).(text: CR H3502-3503)
+- 2010-05-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
