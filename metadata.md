@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5139
@@ -25,3 +25,9 @@ Extending Immunities to the Office of the High Representative and the Internatio
 - 2010-04-26 — Introduced in House
 - 2010-04-26 — Introduced in House
 - 2010-04-26 — Referred to the House Committee on Foreign Affairs.
+- 2010-05-19 — Considered under suspension of the rules. (consideration: CR H3612-3613)
+- 2010-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5139.
+- 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-19 — Mr. McMahon moved to suspend the rules and pass the bill, as amended.
+- 2010-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3612)
+- 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3612)
