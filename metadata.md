@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1364
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1364
@@ -40,6 +40,10 @@ Honoring the historic and community significance of the Chatham County Courthous
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2010-05-19 — [House 111-2-283](votes/house-111-2-0283.md) — On Motion to Suspend the Rules and Agree — **Passed** (406–1)
+
 ## Actions
 
 - 2010-05-18 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
@@ -50,3 +54,7 @@ Honoring the historic and community significance of the Chatham County Courthous
 - 2010-05-18 — Mr. Johnson (GA) moved to suspend the rules and agree to the resolution.
 - 2010-05-18 — Referred to the House Committee on the Judiciary.
 - 2010-05-18 — Sponsor introductory remarks on measure. (CR H3515)
+- 2010-05-19 — Considered as unfinished business. (consideration: CR H3623)
+- 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-19 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 406 - 1 (Roll no. 283). (text: CR 5/18/2010 H3501)
+- 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 406 - 1 (Roll no. 283).(text: CR 5/18/2010 H3501)

@@ -2,7 +2,7 @@
 legis-num: H. RES. 1364
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1364
@@ -16,10 +16,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas on September 1, 1881, members of Columbus Lodge 102 laid the cornerstone of the new courthouse in Pittsboro, and on July 4, 1882, the new courthouse was completed;
 - Whereas the Chatham County Courthouse is a three-story brick structure with a two-story classical portico topped by a distinguishing three-stage cupola;
 - Whereas county courthouses are focal points of justice and the rule of law in communities across the country, and the Chatham County Courthouse serves as the central landmark of Pittsboro and Chatham County;
-- Whereas the historic Chatham County Courthouse was partially destroyed by a tragic fire that broke out on March 25, 2010, at approximately 4:15 p.m;
+- Whereas the historic Chatham County Courthouse was partially destroyed by a tragic fire that broke out on March 25, 2010, at approximately 4:15 p.m.;
 - Whereas firefighters, led by Chatham Country Fire Marshal Thomas Bender, courageously fought the blaze and protected surrounding buildings from damage;
 - Whereas government officials of the North Carolina Administrative Office of the Courts, Chatham County, and the town of Pittsboro have worked tirelessly to ensure the continuity of judicial operations in Chatham County and to develop a plan to restore the courthouse; and
-- Whereas the North Carolina court system, Chatham County, and the town of Pittsboro experienced a significant and tragic loss as a result of the March 25, 2010, fire: Now, therefore, be it
+- Whereas the North Carolina court system, Chatham County, and the town of Pittsboro experienced a significant and tragic loss as a result of the March 25, 2010 fire: Now, therefore, be it
 
 That the House of Representatives—
 
