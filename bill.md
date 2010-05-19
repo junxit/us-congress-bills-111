@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5341
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5341
+
+> To designate the facility of the United States Postal Service located at 100 Orndorf Drive in Brighton, Michigan, as the “Joyce Rogers Post Office Building”.
+
+## § 1. Joyce Rogers Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 100 Orndorf Drive in Brighton, Michigan, shall be known and designated as the “Joyce Rogers Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Joyce Rogers Post Office Building”.
