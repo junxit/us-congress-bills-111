@@ -1,7 +1,7 @@
 ---
 measure: S. 736
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 736
@@ -21,9 +21,10 @@ Federal Hiring Process Improvement Act of 2010
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Federal Hiring Process Improvement Act of 2010
 - 2010-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.
 - 2010-05-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3947-3948; text as passed Senate: CR S3947-3948)
 - 2010-05-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3947-3948; text as passed Senate: CR S3947-3948)
+- 2010-05-19 — Message on Senate action sent to the House.
+- 2010-05-19 — Received in the House.
+- 2010-05-19 — Referred to the House Committee on Oversight and Government Reform.
