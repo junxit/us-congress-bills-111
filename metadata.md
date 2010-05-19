@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 211
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 211
@@ -23,9 +23,10 @@ Recognizing the 75th anniversary of the establishment of the East Bay Regional P
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Garamendi, John [D-CA-10] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Recognizing the 75th anniversary of the establishment of the East Bay Regional P
 - 2010-05-18 — Mr. Miller, George moved to suspend the rules and agree to the resolution.
 - 2010-05-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3492)
 - 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3492)
+- 2010-05-19 — Received in the Senate and referred to the Committee on the Judiciary.
