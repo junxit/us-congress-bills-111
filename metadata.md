@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1514
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1514
@@ -26,8 +26,21 @@ Juvenile Accountability Block Grants Program Reauthorization Act of 2010
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2010-05-19 — [House 111-2-276](votes/house-111-2-0276.md) — On Motion to Suspend the Rules and Pass — **Passed** (364–45)
+
 ## Actions
 
 - 2009-03-16 — Introduced in House
 - 2009-03-16 — Introduced in House
 - 2009-03-16 — Referred to the House Committee on the Judiciary.
+- 2009-08-19 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2010-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-18 — Considered under suspension of the rules. (consideration: CR H3495-3496)
+- 2010-05-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1514.
+- 2010-05-18 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
+- 2010-05-19 — Considered as unfinished business. (consideration: CR H3593-3594)
+- 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 45 (Roll no. 276). (text: CR 5/18/2010 H3495)
+- 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 45 (Roll no. 276).(text: CR 5/18/2010 H3495)
