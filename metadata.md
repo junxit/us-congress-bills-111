@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4491
@@ -73,9 +73,10 @@ Buffalo Soldiers in the National Parks Study Act
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 - Rep. Capps, Lois [D-CA-23] (C001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -96,3 +97,4 @@ Buffalo Soldiers in the National Parks Study Act
 - 2010-05-18 — Placed on the Union Calendar, Calendar No. 273.
 - 2010-05-18 — Reported by the Committee on Natural Resources. H. Rept. 111-482.
 - 2010-05-18 — Reported by the Committee on Natural Resources. H. Rept. 111-482.
+- 2010-05-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
