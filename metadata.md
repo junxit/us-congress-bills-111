@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1362
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1362
@@ -52,6 +52,10 @@ Celebrating the life and achievements of Lena Mary Calhoun Horne and honoring he
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-05-19 — [House 111-2-279](votes/house-111-2-0279.md) — On Motion to Suspend the Rules and Agree — **Passed** (405–1)
+
 ## Actions
 
 - 2010-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
@@ -61,3 +65,7 @@ Celebrating the life and achievements of Lena Mary Calhoun Horne and honoring he
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Mr. Conyers moved to suspend the rules and agree to the resolution.
 - 2010-05-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-05-19 — Considered as unfinished business. (consideration: CR H3595-3596)
+- 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-19 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 279). (text: CR 5/18/2010 H3498)
+- 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 279).(text: CR 5/18/2010 H3498)
