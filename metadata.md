@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2288
@@ -61,3 +61,4 @@ Endangered Fish Recovery Programs Improvement Act of 2010
 - 2010-05-18 — Placed on the Union Calendar, Calendar No. 272.
 - 2010-05-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-481.
 - 2010-05-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-481.
+- 2010-05-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.

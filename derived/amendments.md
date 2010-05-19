@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2288
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
