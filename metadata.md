@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1363
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1363
@@ -25,3 +25,9 @@ Granting the authority provided under clause 4(c)(3) of rule X of the Rules of t
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Referred to the House Committee on Rules.
+- 2010-05-19 — Committee Consideration and Mark-up Session Held.
+- 2010-05-19 — Committee Hearings Held.
+- 2010-05-19 — Ordered to be Reported by Voice Vote.
+- 2010-05-19 — Placed on the House Calendar, Calendar No. 197.
+- 2010-05-19 — Reported by the Committee on Rules. H. Rept. 111-487.
+- 2010-05-19 — Reported by the Committee on Rules. H. Rept. 111-487.
