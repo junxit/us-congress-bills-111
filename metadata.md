@@ -1,7 +1,7 @@
 ---
 measure: S. 920
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 920
@@ -16,8 +16,11 @@ Information Technology Investment Oversight Enhancement and Waste Prevention Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Voinovich, George V. [R-OH] (V000126)
@@ -35,3 +38,11 @@ Information Technology Investment Oversight Enhancement and Waste Prevention Act
 - 2010-05-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-179.
 - 2010-05-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-179.
 - 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
+- 2010-05-19 — Amendment SA 4147 agreed to in Senate by Unanimous Consent.
+- 2010-05-19 — Amendment SA 4147 proposed by Senator Dodd for Senator Carper. (consideration: CR S4024) In the nature of a substitute.
+- 2010-05-19 — Measure laid before Senate by unanimous consent. (consideration: CR S4019-4024; text of measure as reported in Senate: CR S4019-4024)
+- 2010-05-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-05-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-05-19 — Senate amendment agreed to: Amendment SA 4147 agreed to in Senate by Unanimous Consent.
+- 2010-05-19 — Senate amendment proposed (on the floor): Amendment SA 4147 proposed by Senator Dodd for Senator Carper.(consideration: CR S4024)
+- 2010-05-19 — Senate amendment submitted
