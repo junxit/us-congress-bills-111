@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 211
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 211
@@ -41,3 +41,8 @@ Recognizing the 75th anniversary of the establishment of the East Bay Regional P
 - 2010-05-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3492)
 - 2010-05-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3492)
 - 2010-05-19 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2010-05-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-05-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-05-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4394)
+- 2010-05-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4394)
+- 2010-05-26 — Message on Senate action sent to the House.
