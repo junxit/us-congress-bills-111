@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1324
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1324
@@ -36,3 +36,11 @@ Expressing condolences and sympathies for the people of China following the trag
 - 2010-05-04 — Introduced in House
 - 2010-05-04 — Introduced in House
 - 2010-05-04 — Referred to the House Committee on Foreign Affairs.
+- 2010-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McMahon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-05-19 — Considered under suspension of the rules. (consideration: CR H3613-3615)
+- 2010-05-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1324.
+- 2010-05-19 — Mr. McMahon moved to suspend the rules and agree to the resolution.
+- 2010-05-20 — Considered as unfinished business. (consideration: CR H3682)
+- 2010-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-20 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2010 H3613-3614)
+- 2010-05-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 5/19/2010 H3613-3614)
