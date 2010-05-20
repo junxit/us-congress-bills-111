@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5220
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Sections 2 through 5 of the Special Olympics Sport and Empowerment Act of 2004 (42 U.S.C. 15001 note) are amended to read as follows: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 15001` | amend | Sections 2 through 5 of the Special Olympics Sport and Empowerment Act of 2004 (42 U.S.C. 15001 note) are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

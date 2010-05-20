@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5220
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5220
@@ -78,11 +78,12 @@ Eunice Kennedy Shriver Act
 - Rep. Edwards, Donna F. [D-MD-4] (E000290)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -98,3 +99,4 @@ Eunice Kennedy Shriver Act
 - 2010-05-19 — Ms. Fudge moved to suspend the rules and pass the bill, as amended.
 - 2010-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3583-3585)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3583-3585)
+- 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
