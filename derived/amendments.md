@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 288` | add-at-end | The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

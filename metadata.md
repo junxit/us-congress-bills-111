@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5139
@@ -31,3 +31,6 @@ Extending Immunities to the Office of the High Representative and the Internatio
 - 2010-05-19 — Mr. McMahon moved to suspend the rules and pass the bill, as amended.
 - 2010-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3612)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3612)
+- 2010-05-20 — Cleared for White House.
+- 2010-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4104)
+- 2010-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4104)
