@@ -2,7 +2,7 @@
 legis-num: H. RES. 1361
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1361
@@ -31,9 +31,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas more than 50 student-athletes from NCCU have won individual NCAA and NAIA national championships;
 - Whereas student-athletes representing NCCU competed in every Olympic Games from 1956 to 1976 in track and field, capturing eight Olympic medals during that time period, including five gold medals;
 - Whereas NCCU was the first State university in North Carolina to establish community service as a requirement for graduation and has been recognized by the Carnegie Foundation as a “community-engaged university”;
-- Whereas NCCU has graduated approximately 40,000 students in the century since its founding and now has the largest freshman class in its history, with an overall record enrollment of more than 8,500 students;
-- Whereas NCCU and its home city of Durham, North Carolina, have long enjoyed a close and mutually beneficial relationship, with the University’s total economic impact on Durham and the surrounding region estimated at more than $300,000,000 per year, and thousands of NCCU graduates have served Durham and its citizens as leaders, educators, professionals, entrepreneurs, and volunteers; and
-- Whereas NCCU’s undergraduate and graduate programs have produced many distinguished alumni, including, to name just a few, civil rights lawyer and educator Julius L. Chambers, basketball Hall of Fame member Sam Jones, two-time Olympic track gold medalist Lee Calhoun, North Carolina philanthropy executive Valeria L. Lee, Vogue magazine editor André Leon Talley, attorney Willie E. Gary, banking executive Evelyn F. Smalls, insurance executive James Speed, educator and state Senator Jeanne Hopkins Lucas, former North Carolina House of Representatives Speaker Dan Blue, longtime state legislator Henry M. “Mickey” Michaux, former Atlanta Mayor Maynard Jackson, biochemist Ida Stephens Owens, actor and director Ivan Dixon, Metropolitan Opera soprano Hilda Harris, psychologist Norman B. Anderson, former Raleigh Mayor Clarence Lightner, former North Carolina Governor Michael F. Easley, Member of United States Congress Eva Clayton, and Member of United States Congress G.K. Butterfield: Now, therefore, be it
+- Whereas NCCU has graduated approximately 40,000 students in the century since its founding and now has the largest freshman class in its history, with an overall record enrollment of more than 8,500 students; and
+- Whereas NCCU and its home city of Durham, North Carolina, have long enjoyed a close and mutually beneficial relationship, with the University’s total economic impact on Durham and the surrounding region estimated at more than $300,000,000 per year, and thousands of NCCU graduates have served Durham and its citizens as leaders, educators, professionals, entrepreneurs, and volunteers: Now, therefore, be it
 
 that the House of Representatives—
 
