@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2136
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2136
@@ -88,9 +88,10 @@ Honorable Stephanie Tubbs Jones College Fire Prevention Act
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Honorable Stephanie Tubbs Jones College Fire Prevention Act
 - 2010-05-19 — Ms. Fudge moved to suspend the rules and pass the bill.
 - 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3589)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3589)
+- 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
