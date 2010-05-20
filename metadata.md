@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4173
@@ -28,7 +28,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - House — Agriculture Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (16)
+## Recorded votes (17)
 
 - 2009-12-10 — [House 111-1-953](votes/house-111-1-0953.md) — On Agreeing to the Amendment — **Agreed to** (240–182)
 - 2009-12-10 — [House 111-1-954](votes/house-111-1-0954.md) — On Agreeing to the Amendment — **Failed** (172–257)
@@ -46,6 +46,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2009-12-11 — [House 111-1-966](votes/house-111-1-0966.md) — On Agreeing to the Amendment — **Failed** (175–251)
 - 2009-12-11 — [House 111-1-967](votes/house-111-1-0967.md) — On Motion to Recommit with Instructions — **Failed** (190–232)
 - 2009-12-11 — [House 111-1-968](votes/house-111-1-0968.md) — On Passage — **Passed** (223–202)
+- 2010-05-20 — [Senate 111-2-162](votes/senate-111-2-0162.md) — On Passage of the Bill — **Bill Passed** (59–39)
 
 ## Actions
 
@@ -292,3 +293,16 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
 - 2009-12-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
 - 2010-01-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-05-20 — Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2010-05-20 — Amendment SA 4172 proposed by Senator Dodd. (consideration: CR S4078; text: CR S4078) To amend the title.
+- 2010-05-20 — Measure laid before Senate by unanimous consent. (consideration: CR S4077-4078)
+- 2010-05-20 — Passed Senate in lieu of S. 3217 with an amendment and an amendment to the Title by Yea-Nay Vote. 59 - 39. Record Vote Number: 162. (text: CR 5/25/2010 S4239-4394)
+- 2010-05-20 — Passed/agreed to in Senate: Passed Senate in lieu of S. 3217 with an amendment and an amendment to the Title by Yea-Nay Vote. 59 - 39. Record Vote Number: 162.(text: CR 5/25/2010 S4239-4394)
+- 2010-05-20 — See also S. 3217.
+- 2010-05-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2010-05-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2010-05-20 — Senate amendment agreed to: Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2010-05-20 — Senate amendment proposed (on the floor): Amendment SA 4172 proposed by Senator Dodd.(consideration: CR S4078; text: CR S4078)
+- 2010-05-20 — Senate amendment submitted
+- 2010-05-20 — Senate insisted on its amendments, requested a conference. (consideration: CR S4078)
+- 2010-05-20 — Senate struck all after the Enacting Clause and substituted the language of S.3217 amended. (consideration: CR S4077)
