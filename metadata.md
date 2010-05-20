@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2546
@@ -75,9 +75,10 @@ Blue Star/Gold Star Flag Act of 2010
 - Rep. Owens, William L. [D-NY-23] (O000169)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ Blue Star/Gold Star Flag Act of 2010
 - 2010-05-19 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
 - 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3603)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3603)
+- 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
