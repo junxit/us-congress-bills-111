@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1363
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1363
@@ -20,6 +20,11 @@ Granting the authority provided under clause 4(c)(3) of rule X of the Rules of t
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2010-05-20 — [House 111-2-288](votes/house-111-2-0288.md) — On Ordering the Previous Question — **Passed** (240–177)
+- 2010-05-20 — [House 111-2-289](votes/house-111-2-0289.md) — On Agreeing to the Resolution — **Passed** (413–1)
+
 ## Actions
 
 - 2010-05-18 — Introduced in House
@@ -31,3 +36,9 @@ Granting the authority provided under clause 4(c)(3) of rule X of the Rules of t
 - 2010-05-19 — Placed on the House Calendar, Calendar No. 197.
 - 2010-05-19 — Reported by the Committee on Rules. H. Rept. 111-487.
 - 2010-05-19 — Reported by the Committee on Rules. H. Rept. 111-487.
+- 2010-05-20 — Considered as privileged matter. (consideration: CR H3671-3681)
+- 2010-05-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 1363.
+- 2010-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-20 — On agreeing to the resolution Agreed to by the Yeas and Nays: 413 - 1 (Roll no. 289). (text: CR H3671)
+- 2010-05-20 — On ordering the previous question Agreed to by the Yeas and Nays: 240 - 177 (Roll no. 288). (consideration: CR H3680)
+- 2010-05-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 413 - 1 (Roll no. 289).(text: CR H3671)
