@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1177
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,7 +29,7 @@ The Congress finds the following:
 - **(10)** The Foundation is actively engaged in the initial stages of its first capital campaign to support the Command and General Staff College.
 - **(11)** The five 5-Star Generals who attended or taught at the Command and General Staff College; include Douglas MacArthur, George C. Marshall, Henry “Hap” Arnold, Dwight D. Eisenhower, and Omar N. Bradley.
 - **(12)** *Douglas MacArthur, General of the Army*
-  - **(A)** General MacArthur was a distinguished soldier, scholar, and strategist who gave sixty-one years of service to his country.
+  - **(A)** General MacArthur was a distinguished soldier, scholar, and strategist who gave 61 years of service to his country.
   - **(B)** He commanded the 42d Division in World War I, and later served as the Chief of the Army General Staff. Prior to retirement, he was the Military Advisor to the Commonwealth of the Philippines.
   - **(C)** In 1941, he was recalled to active duty as Commanding General, United States Army Far East.
   - **(D)** He was awarded the Medal of Honor for his heroic defense of the Philippines.
@@ -39,7 +39,7 @@ The Congress finds the following:
   - **(H)** General MacArthur, son of General Arthur MacArthur, spent time as a child at Ft. Leavenworth and later in his career, he taught as a Captain in the Field Engineering School, and served as the adjutant, quartermaster, and commanding officer of the 3d Engineer Battalion (later reflagged as the 2d Engineer Battalion).
 - **(13)** *George C. Marshall, General of the Army*
   - **(A)** General George C. Marshall entered the Army from the Virginia Military Institute in 1902.
-  - **(B)** During a long career of public service, he distinguished himself as a leader, tactician, strategist, statesman, and, truly, as the “Organizer of Victory.”
+  - **(B)** During a long career of public service, he distinguished himself as a leader, tactician, strategist, statesman, and, truly, as the “Organizer of Victory”.
   - **(C)** In World War I, he was regarded as one of the most talented staff officers in the United States Army.
   - **(D)** After that war, and throughout the many long and challenging duties of the interwar years, he was appointed United States Army Chief of the General Staff in 1939.
   - **(E)** During World War II, he achieved recognition as one of America’s greatest military leaders.
@@ -53,12 +53,12 @@ The Congress finds the following:
   - **(C)** He became one of our Nation’s strongest advocates for air power, and personally held numerous records and trophies for flying achievements, to include the first delivery of United States mail by air.
   - **(D)** Accomplishments in and from the air in the World Wars, particularly in World War II, were heavily influenced by his genius.
   - **(E)** As a result of General Arnold’s contributions, massed air power gave a third dimension to battles of World War II, swept the skies of the enemy, and denied him mobility on the ground.
-  - **(F)** One of General Arnold’s citations reads in part: “From conception to execution, General Arnold’s leadership guided the mightiest air force in history.”
+  - **(F)** One of General Arnold’s citations reads in part: “From conception to execution, General Arnold’s leadership guided the mightiest air force in history”.
   - **(G)** General Arnold’s service at Ft. Leavenworth was as a student at the Command and General Staff College, 1928–1929.
 - **(15)** *Dwight D. Eisenhower, General of the Army*
   - **(A)** General Dwight D. Eisenhower, in 1915, began a career of distinguished public service reaching the highest positions of military and civil leadership in the United States.
   - **(B)** During World War II, as Commander in Chief, Allied Expeditionary Force, he led the invasion of North Africa and defeated the German force on that continent.
-  - **(C)** In 1944, as Supreme Allied Commander, Allied Expeditionary Force, he was instructed: “You will enter the continent of Europe, and, in conjunction with other United Nations, undertake operations aimed at the heart of Germany and the destruction of her armed forces.”
+  - **(C)** In 1944, as Supreme Allied Commander, Allied Expeditionary Force, he was instructed: “You will enter the continent of Europe, and, in conjunction with other United Nations, undertake operations aimed at the heart of Germany and the destruction of her armed forces”.
   - **(D)** In accomplishing this mission, he commanded the largest combination of land, sea and air forces in history.
   - **(E)** Following World War II, he was instrumental in the development of the North Atlantic Treaty Organization.
   - **(F)** After his brilliant military career he was elected 34th President of the United States.
@@ -94,7 +94,7 @@ The Congress finds the following:
 - **(a)** *Design requirements*
   - **(1)** *In general* The design of the coins minted under this Act shall include the portraits of Generals George C. Marshall, Douglas MacArthur, Dwight D. Eisenhower, Henry “Hap” Arnold and Omar N. Bradley.
   - **(2)** *Designations and inscriptions* On each coin minted under this Act there shall be—
-    - **(A)** a designation of the value of the coin;
+    - **(A)** a designation of the face value of the coin;
     - **(B)** an inscription of the year “2013”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall—
@@ -124,6 +124,10 @@ The Congress finds the following:
   - **(1)** A surcharge of $35 per coin for the $5 coin.
   - **(2)** A surcharge of $10 per coin for the $1 coin.
   - **(3)** A surcharge of $5 per coin for the half dollar coin.
-- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Command and General Staff College Foundation to help finance their support of the Command and General Staff College.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Command and General Staff College Foundation to help finance its support of the Command and General Staff College.
 - **(c)** *Audits* The Command and General Staff College Foundation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received by the Foundation under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection(a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
