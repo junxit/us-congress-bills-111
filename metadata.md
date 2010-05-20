@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5139
@@ -34,3 +34,10 @@ Extending Immunities to the Office of the High Representative and the Internatio
 - 2010-05-20 — Cleared for White House.
 - 2010-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4104)
 - 2010-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4104)
+- 2010-05-24 — Message on Senate action sent to the House.
+- 2010-05-27 — Presented to President.
+- 2010-05-27 — Presented to President.
+- 2010-06-08 — Became Public Law No: 111-177.
+- 2010-06-08 — Became Public Law No: 111-177.
+- 2010-06-08 — Signed by President.
+- 2010-06-08 — Signed by President.
