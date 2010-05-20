@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5145
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,6 +35,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “board-certified physician or dentist appointed under section 7401(1) of this title” and inserting “health professional appointed under paragraph (1) or (3) of section 7401 of this title”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$1,000” and inserting “$1,600”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “required to maintain licensure” after “professional education”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “No such health professional may receive reimbursement under this section and reimbursement for the same expenses incurred for continuing professional education provided by a Department me… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new sentence: “No such health professional may receive reimbursement under this section and reimbursement for the same expenses incurred for continuing professional education provided by a Department me… | the bill names no machine-readable US Code section |
 | — | amend | The heading for such section is amended to read as follows: “Full-time health professionals: reimbursement of continuing professional education expenses”. | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 74 of such title is amended by striking the item relating to section 7411 and inserting the following new item: | the bill names no machine-readable US Code section |
