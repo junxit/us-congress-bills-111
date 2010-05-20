@@ -1,7 +1,7 @@
 ---
 measure: S. 920
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 920
@@ -25,9 +25,11 @@ Information Technology Investment Oversight Enhancement and Waste Prevention Act
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Armed Services Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -46,3 +48,8 @@ Information Technology Investment Oversight Enhancement and Waste Prevention Act
 - 2010-05-19 — Senate amendment agreed to: Amendment SA 4147 agreed to in Senate by Unanimous Consent.
 - 2010-05-19 — Senate amendment proposed (on the floor): Amendment SA 4147 proposed by Senator Dodd for Senator Carper.(consideration: CR S4024)
 - 2010-05-19 — Senate amendment submitted
+- 2010-05-20 — Message on Senate action sent to the House.
+- 2010-05-20 — Received in the House.
+- 2010-05-20 — Referred to House Armed Services
+- 2010-05-20 — Referred to House Oversight and Government Reform
+- 2010-05-20 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
