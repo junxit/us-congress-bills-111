@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3885
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Dog Training Therapy Act ”.
+This Act may be cited as the “Veterans Dog Training Therapy Act”.
 
 ## § 2. Department of Veterans Affairs pilot program on dog training therapy
 
