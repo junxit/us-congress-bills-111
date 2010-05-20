@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5099
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5099
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 15 Sout
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 15 Sout
 - 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 280). (text: CR 5/18/2010 H3505)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 280).(text: CR 5/18/2010 H3505)
+- 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
