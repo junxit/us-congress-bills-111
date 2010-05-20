@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1514
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 3796ee
+
+> in section 1801A(a), by striking “section 1810(b)” and inserting “section 1810(c)”;
+
+| | |
+|---|---|
+| Removed | `section 1810(b)` |
+| Inserted | `section 1810(c)` |
+
+### 42 U.S.C. § 3796ee
+
+> in section 1810(a), by striking “2009” and inserting “2014”; and
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2014` |
 
 ## Stated, not applied
 
@@ -31,6 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in section 1801A(a), by striking “section 1810(b)” and inserting “section 1810(c)”; | the bill names no machine-readable US Code section |
-| — | replace | in section 1810(a), by striking “2009” and inserting “2014”; and | the bill names no machine-readable US Code section |
-| — | insert | in section 1810(b), by inserting “and each of the fiscal years 2009 through 2014” after “2004”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3796ee` | insert | in section 1810(b), by inserting “and each of the fiscal years 2009 through 2014” after “2004”. | the bill quotes the text inserted but describes where it goes |

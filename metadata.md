@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1514
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1514
@@ -22,9 +22,10 @@ Juvenile Accountability Block Grants Program Reauthorization Act of 2010
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Juvenile Accountability Block Grants Program Reauthorization Act of 2010
 - 2010-05-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 45 (Roll no. 276). (text: CR 5/18/2010 H3495)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 45 (Roll no. 276).(text: CR 5/18/2010 H3495)
+- 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
