@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5136
@@ -29,3 +29,24 @@ National Defense Authorization Act for Fiscal Year 2011
 - 2010-04-26 — Introduced in House
 - 2010-04-26 — Introduced in House
 - 2010-04-26 — Referred to the House Committee on Armed Services.
+- 2010-05-11 — Referred to the Subcommittee on Air and Land Forces.
+- 2010-05-11 — Referred to the Subcommittee on Military Personnel.
+- 2010-05-11 — Referred to the Subcommittee on Readiness.
+- 2010-05-11 — Referred to the Subcommittee on Seapower and Expeditionary Forces.
+- 2010-05-11 — Referred to the Subcommittee on Strategic Forces.
+- 2010-05-11 — Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities.
+- 2010-05-12 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-05-12 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-05-12 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-12 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-13 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2010-05-13 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-05-13 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-05-13 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-05-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-21 — Placed on the Union Calendar, Calendar No. 279.
+- 2010-05-21 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-491, Part I.
+- 2010-05-21 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-491, Part I.

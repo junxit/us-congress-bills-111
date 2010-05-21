@@ -13,6 +13,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2011”.
 
-## § 2. Table of contents
+## § 2. Organization of Act into divisions; table of contents
 
-The table of contents for this Act is as follows:
+- **(a)** *Divisions* This Act is organized into four divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 3. Congressional defense committees
+
+For purposes of this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+
+## § 4. Treatment of successor contingency operation to Operation Iraqi Freedom
+
+Any law or regulation applicable to Operation Iraqi Freedom shall apply in the same manner and to the same extent to the successor contingency operation known as Operation New Dawn, except as specifically provided in this Act, any amendment made by this Act, or any other law enacted after the date of the enactment of this Act.
