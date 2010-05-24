@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5128
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5128
@@ -90,3 +90,13 @@ To designate the United States Department of the Interior Building in Washington
 - 2010-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 409 - 1 (Roll no. 290).(text: CR 5/19/2010 H3609)
 - 2010-05-20 — The title of the measure was amended. Agreed to without objection.
 - 2010-05-24 — Received in the Senate, read twice.
+- 2010-05-25 — Cleared for White House.
+- 2010-05-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4394)
+- 2010-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4394)
+- 2010-05-26 — Message on Senate action sent to the House.
+- 2010-05-28 — Presented to President.
+- 2010-05-28 — Presented to President.
+- 2010-06-08 — Became Public Law No: 111-176.
+- 2010-06-08 — Became Public Law No: 111-176.
+- 2010-06-08 — Signed by President.
+- 2010-06-08 — Signed by President.
