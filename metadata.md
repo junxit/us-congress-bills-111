@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1177
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1177
@@ -338,3 +338,15 @@ version: Referred in Senate
 - 2010-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2010 H3599-3600)
 - 2010-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/19/2010 H3599-3600)
 - 2010-05-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-09-28 — Cleared for White House.
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Passed Senate without amendment by Unanimous Consent.
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-09-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S7656)
+- 2010-09-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S7656)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-08 — Became Public Law No: 111-262.
+- 2010-10-08 — Became Public Law No: 111-262.
+- 2010-10-08 — Signed by President.
+- 2010-10-08 — Signed by President.

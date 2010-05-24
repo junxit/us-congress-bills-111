@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1177
-congress: 111th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1177
@@ -126,7 +126,7 @@ The Congress finds the following:
   - **(3)** A surcharge of $5 per coin for the half dollar coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Command and General Staff College Foundation to help finance its support of the Command and General Staff College.
 - **(c)** *Audits* The Command and General Staff College Foundation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received by the Foundation under subsection (b).
-- **(d)** *Limitation* Notwithstanding subsection(a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
 ## § 8. Budget compliance
 
