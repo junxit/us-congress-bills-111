@@ -1,7 +1,7 @@
 ---
 measure: S. 3066
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3066
@@ -24,3 +24,8 @@ A bill to correct the application of the Non-Foreign Area Retirement Equity Assu
 
 - 2010-03-03 — Introduced in Senate
 - 2010-03-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-04-06 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.

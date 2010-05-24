@@ -1,7 +1,7 @@
 ---
 measure: S. 3066
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
