@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1177
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1177
@@ -319,9 +319,10 @@ version: Engrossed in House
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -336,3 +337,4 @@ version: Engrossed in House
 - 2010-05-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2010 H3599-3600)
 - 2010-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/19/2010 H3599-3600)
+- 2010-05-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
