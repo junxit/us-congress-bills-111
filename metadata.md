@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3689
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3689
@@ -49,3 +49,13 @@ To provide for an extension of the legislative authority of the Vietnam Veterans
 - 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-198.
 - 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-198.
 - 2010-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2010-09-28 — Cleared for White House.
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7653)
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7653)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-270.
+- 2010-10-12 — Became Public Law No: 111-270.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.

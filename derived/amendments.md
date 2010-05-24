@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3689
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
