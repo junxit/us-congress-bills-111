@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5327
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5327
@@ -73,9 +73,10 @@ United States-Israel Rocket and Missile Defense Cooperation and Support Act
 - Rep. Lee, Christopher J. [R-NY-26] (L000568)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -94,3 +95,4 @@ United States-Israel Rocket and Missile Defense Cooperation and Support Act
 - 2010-05-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 284). (text: CR 5/19/2010 H3617)
 - 2010-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 284).(text: CR 5/19/2010 H3617)
+- 2010-05-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
