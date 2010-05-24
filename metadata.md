@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3689
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3689
@@ -44,3 +44,8 @@ To provide for an extension of the legislative authority of the Vietnam Veterans
 - 2009-10-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 772). (text: CR H11176)
 - 2009-10-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 772).(text: CR H11176)
 - 2009-10-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-12-03 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-05-06 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-198.
+- 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-198.
+- 2010-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
