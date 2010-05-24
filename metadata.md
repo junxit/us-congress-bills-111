@@ -1,7 +1,7 @@
 ---
 measure: H.R. 934
 congress: 111
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 934
@@ -46,9 +46,10 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,9 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2009-07-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 541). (text: CR 7/14/2009 H8048)
 - 2009-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 541).(text: CR 7/14/2009 H8048)
+- 2009-07-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-12-17 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2010-05-06 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-197.
+- 2010-05-24 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-197.
+- 2010-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.

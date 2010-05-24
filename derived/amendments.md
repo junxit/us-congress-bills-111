@@ -1,7 +1,7 @@
 ---
 measure: H.R. 934
 congress: 111
-version: Engrossed in House
+version: Reported to Senate
 derived: true
 ---
 
