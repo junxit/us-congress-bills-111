@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5330
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,15 +31,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “of this subtitle” after “214”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “6 years” and inserting “11 years”, and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “of this subtitle” after “214”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “6 years” and inserting “16 years”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (6) as paragraph (7), and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 213(c) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 213 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended by adding at the end the following— | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (e), and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1) by inserting “of this subtitle” after “213(b)”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “of this subtitle” after “213(a)” the 1st place it appears, and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1) by inserting “of this subtitle” after “213(b)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “of this subtitle” after “213(a)” the 1st place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “title” and inserting “subtitle”. | the bill names no machine-readable US Code section |

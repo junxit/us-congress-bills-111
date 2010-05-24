@@ -7,25 +7,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5330
 
-> To amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the operation of such Act for a 5-year period ending June 22, 2015, and for other purposes.
+> To amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the operation of such Act, and for other purposes.
 
 ## § 1. Delay of sunset
 
 Section 211(a) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by inserting “of this subtitle” after “214”, and
-  - **(B)** by striking “6 years” and inserting “11 years”, and
+  - **(A)** by inserting “of this subtitle” after “214”; and
+  - **(B)** by striking “6 years” and inserting “16 years”; and
 - **(2)** by amending subsection (b) to read as follows:
   > - **(b)** *Exceptions* With respect to—
-  >   - **(1)** a person who receives a marker on or before the date on which the provisions of section 211 through 214 of this subtitle shall cease to have effect that later results in the execution of an antitrust leniency agreement, or
+  >   - **(1)** a person who receives a marker on or before the date on which the provisions of section 211 through 214 of this subtitle shall cease to have effect that later results in the execution of an antitrust leniency agreement; or
   >   - **(2)** an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle shall cease to have effect,
 
 ## § 2. Definitions
 
 Section 212 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended—
 
-- **(1)** by redesignating paragraph (6) as paragraph (7), and
+- **(1)** by redesignating paragraph (6) as paragraph (7); and
 - **(2)** by inserting after paragraph (5) the following:
   > - **(6)** *Marker* The term marker means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application.
 
@@ -35,7 +35,7 @@ Section 212 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004
   > - **(c)** *Timeliness* The court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's or cooperating individual’s cooperation with the claimant.
 
 - **(b)** *Cooperation after termination of stay or protective order* Section 213 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended by adding at the end the following—
-  - **(1)** by redesignating subsection (d) as subsection (e), and
+  - **(1)** by redesignating subsection (d) as subsection (e); and
   - **(2)** by inserting after subsection (c) the following:
     > - **(d)** *Cooperation after expiration of stay or protective order* If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
 
@@ -43,9 +43,9 @@ Section 212 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004
 
 Section 214 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended—
 
-- **(1)** in paragraph (1) by inserting “of this subtitle” after “213(b)”, and
+- **(1)** in paragraph (1) by inserting “of this subtitle” after “213(b)”; and
 - **(2)** in paragraph (3)—
-  - **(A)** by inserting “of this subtitle” after “213(a)” the 1st place it appears, and
+  - **(A)** by inserting “of this subtitle” after “213(a)” the 1st place it appears; and
   - **(B)** by striking “title” and inserting “subtitle”.
 
 ## § 5. GAO report
@@ -55,6 +55,10 @@ Not later than 1 year after the date of enactment of this Act, the Comptroller G
 - **(1)** the appropriateness of the addition of qui tam proceedings to the antitrust leniency program; and
 - **(2)** the appropriateness of creating anti-retaliatory protection for employees who report illegal anticompetitive conduct.
 
-## § 6. Effective date of amendment
+## § 6. Effective date of amendments
 
-The amendment made by section 2 shall take effect immediately before June 22, 2010.
+The amendments made by section 1 shall take effect immediately before June 22, 2010.
+
+## § 7. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
