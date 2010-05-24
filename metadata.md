@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 137
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 137
@@ -16,7 +16,7 @@ Expressing the sense of the Congress that the lack of adequate housing must be a
 
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 
-## Cosponsors (17)
+## Cosponsors (40)
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
@@ -35,6 +35,29 @@ Expressing the sense of the Congress that the lack of adequate housing must be a
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
 ## Committees (1)
 
@@ -45,3 +68,9 @@ Expressing the sense of the Congress that the lack of adequate housing must be a
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Introduced in House
 - 2009-06-02 — Referred to the House Committee on Financial Services.
+- 2010-05-24 — Considered under suspension of the rules. (consideration: CR H3715-3716)
+- 2010-05-24 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 137.
+- 2010-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-24 — Mr. Donnelly (IN) moved to suspend the rules and agree to the resolution.
+- 2010-05-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3715)
+- 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3715)
