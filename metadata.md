@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1017
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1017
@@ -60,6 +60,10 @@ Chiropractic Care Available to All Veterans Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-05-24 — [House 111-2-292](votes/house-111-2-0292.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (365–6)
+
 ## Actions
 
 - 2009-02-12 — Introduced in House
@@ -74,3 +78,11 @@ Chiropractic Care Available to All Veterans Act
 - 2010-05-20 — Placed on the Union Calendar, Calendar No. 276.
 - 2010-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-488.
 - 2010-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-488.
+- 2010-05-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-24 — Considered as unfinished business. (consideration: CR H3724-3725)
+- 2010-05-24 — Considered under suspension of the rules. (consideration: CR H3718-3719)
+- 2010-05-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1017.
+- 2010-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-24 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2010-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 6 (Roll no. 292). (text: CR H3718)
+- 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 6 (Roll no. 292).(text: CR H3718)

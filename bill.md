@@ -19,12 +19,12 @@ Section 204(c) of the Department of Veterans Affairs Health Care Programs Enhanc
 
 - **(1)** by inserting “(1)” before “The program”; and
 - **(2)** by adding at the end the following new paragraph:
-  > - **(2)** The program shall be carried out at not fewer than 75 medical centers by not later than December 31, 2010, and at all medical centers by not later than December 31, 2012.
+  > - **(2)** The program shall be carried out at not fewer than 75 medical centers by not later than December 31, 2011, and at all medical centers by not later than December 31, 2013.
 
 ## § 3. Expanded chiropractor services available to veterans
 
 - **(a)** *Medical services* Paragraph (6) of section 1701 of title 38, United States Code, is amended by adding at the end the following new subparagraph:
-  > - **(G)** Chiropractic services.
+  > - **(H)** Chiropractic services.
 
 - **(b)** *Rehabilitative services* Paragraph (8) of such section is amended by inserting “chiropractic,” after “counseling,”.
 - **(c)** *Preventive health services* Paragraph (9) of such section is amended—

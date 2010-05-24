@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1017
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,12 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “(1)” before “The program”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (6) of section 1701 of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (8) of such section is amended by inserting “chiropractic,” after “counseling,”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (F) through (K) as subparagraphs (G) through (L), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (E) the following new subparagraph (F): | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “The program”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (6) of section 1701 of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
