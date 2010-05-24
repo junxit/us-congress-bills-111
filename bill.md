@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Telework Enhancement Act of 20092010”.
+This Act may be cited as the “Telework Enhancement Act of 2010”.
 
 ## § 2. Definitions
 
@@ -45,12 +45,12 @@ In this Act:
     - **(A)** employees eligible to participate in the telework program of the agency; and
     - **(B)** all managers of teleworkers;
   - **(2)** except as provided under subsection (b), an employee has successfully completed the interactive telework training program before that employee enters into a written agreement to telework described under section 3(b)(2);
-  - **(3)** no distinction is made between teleworkers and nonteleworkers are treated the same for purposes of—
+  - **(3)** teleworkers and nonteleworkers are treated the same for purposes of—
     - **(A)** periodic appraisals of job performance of employees;
     - **(B)** training, rewarding, reassigning, promoting, reducing in grade, retaining, and removing employees;
     - **(C)** work requirements; or
     - **(D)** other acts involving managerial discretion; and
-  - **(4)** when determining what constitutes diminished employee performance, the agency shall consult the established performance management guidelines of the Office of Personnel Management.
+  - **(4)** when determining what constitutes diminished employee performance, the agency shall consult the performance management guidelines of the Office of Personnel Management.
 - **(b)** *Training requirement exemptions* The head of an executive agency may provide for an exemption from the training requirements under subsection (a), if the head of that agency determines that the training would be unnecessary because the employee is already teleworking under a work arrangement in effect before the date of enactment of this Act.
 
 ## § 5. Policy and support
@@ -79,8 +79,8 @@ In this Act:
   - **(1)** *Designation* The head of each executive agency shall designate an employee of the agency as the Telework Managing Officer. The Telework Managing Officer shall be established within the Office of the Chief Human Capital Officer or a comparable office with similar functions.
   - **(2)** *Telework Coordinators*
     - **(A)** *Appropriations Act, 2003* Section 623 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2003 (Public Law 108–7; 117 Stat. 103) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
-    - **(A)(B)** *Appropriations Act, 2004* Section 627 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Public Law 108–199; 118 Stat. 99) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
-    - **(B)(C)** *Appropriations Act, 2005* Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2919) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(B)** *Appropriations Act, 2004* Section 627 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004 (Public Law 108–199; 118 Stat. 99) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
+    - **(C)** *Appropriations Act, 2005* Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2919) is amended by striking “designate a “Telework Coordinator” to be” and inserting “designate a Telework Managing Officer to be”.
     - **(D)** *Appropriations Act, 2006* Section 617 of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006 (Public Law 109–108; 119 Stat. 2340) is amended by striking “maintain a “Telework Coordinator” to be” and inserting “maintain a Telework Managing Officer to be”.
 - **(b)** *Duties* The Telework Managing Officer shall—
   - **(1)** be devoted to policy development and implementation related to agency telework programs;
@@ -153,7 +153,7 @@ In this Act:
   >     - **(C)** the travel expenses paid by the employee; or
   >     - **(D)** any other information the agency determines useful to aid the Administrator, Telework Managing Officer, and Congress in understanding the test program and the impact of the program.
   > - **(d)** No more than 10 test programs under this section may be conducted simultaneously.
-  > - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 20092010.
+  > - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2010.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 57 of title 5, United States Code, is amended by inserting after the item relating to section 5710 the following:
 

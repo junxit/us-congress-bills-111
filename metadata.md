@@ -1,7 +1,7 @@
 ---
 measure: S. 707
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 707
@@ -35,3 +35,5 @@ Telework Enhancement Act of 2010
 - 2010-05-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-177.
 - 2010-05-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-177.
 - 2010-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
+- 2010-05-24 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4157-4161; text of measure as reported in Senate: CR S4157-4159; text as passed Senate: CR S4159-4161)
+- 2010-05-24 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S4157-4161; text of measure as reported in Senate: CR S4157-4159; text as passed Senate: CR S4159-4161)
