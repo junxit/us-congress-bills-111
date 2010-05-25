@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4840
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4840
@@ -68,3 +68,15 @@ An act to designate the facility of the United States Postal Service located at 
 - 2010-05-25 — Message on Senate action sent to the House.
 - 2010-05-25 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4172; text as passed Senate: CR S4172)
 - 2010-05-25 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S4172; text as passed Senate: CR S4172)
+- 2010-07-14 — Cleared for White House.
+- 2010-07-14 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 4840.
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — Mr. Davis (IL) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H5560-5561)
+- 2010-07-14 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H5560-5561)
+- 2010-07-14 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H5560-5561)
+- 2010-07-19 — Presented to President.
+- 2010-07-19 — Presented to President.
+- 2010-07-27 — Became Public Law No: 111-208.
+- 2010-07-27 — Became Public Law No: 111-208.
+- 2010-07-27 — Signed by President.
+- 2010-07-27 — Signed by President.
