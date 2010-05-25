@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4840
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4840
@@ -65,3 +65,6 @@ An act to designate the facility of the United States Postal Service located at 
 - 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
 - 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
 - 2010-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
+- 2010-05-25 — Message on Senate action sent to the House.
+- 2010-05-25 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4172; text as passed Senate: CR S4172)
+- 2010-05-25 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S4172; text as passed Senate: CR S4172)

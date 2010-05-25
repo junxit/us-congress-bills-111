@@ -2,14 +2,11 @@
 legis-num: H.R. 4840
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4840
 
-> To designate the facility of the United States Postal Service located at 1979 Cleveland Avenue in Columbus, Ohio, as the “Clarence D. Lumpkin Post Office”.
+That the bill from the House of Representatives (H.R. 4840) entitled “An Act to designate the facility of the United States Postal Service located at 1979 Cleveland Avenue in Columbus, Ohio, as the “Clarence D. Lumpkin Post Office”.”, do pass with the following
 
-## § 1. Clarence D. Lumpkin Post Office
-
-- **(a)** *Designation* The facility of the United States Postal Service located at 19791981 Cleveland Avenue in Columbus, Ohio, shall be known and designated as the “Clarence D. Lumpkin Post Office”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Clarence D. Lumpkin Post Office”.
+*(1)On page 2, line 3, strike 1979 and insert 1981.*
