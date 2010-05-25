@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3885
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3885
@@ -35,6 +35,10 @@ Veterans Dog Training Therapy Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-05-25 — [House 111-2-298](votes/house-111-2-0298.md) — On Motion to Suspend the Rules and Pass — **Passed** (403–4)
+
 ## Actions
 
 - 2009-10-21 — Introduced in House
@@ -48,3 +52,11 @@ Veterans Dog Training Therapy Act
 - 2010-05-20 — Placed on the Union Calendar, Calendar No. 278.
 - 2010-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-490.
 - 2010-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-490.
+- 2010-05-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-05-24 — Considered under suspension of the rules. (consideration: CR H3720-3721)
+- 2010-05-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3885.
+- 2010-05-24 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2010-05-25 — Considered as unfinished business. (consideration: CR H3788-3789)
+- 2010-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 4 (Roll no. 298). (text: CR 5/24/2010 H3720-3721)
+- 2010-05-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 4 (Roll no. 298).(text: CR 5/24/2010 H3720-3721)
