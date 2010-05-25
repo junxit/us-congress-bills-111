@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 137
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 137
@@ -59,9 +59,10 @@ Expressing the sense of the Congress that the lack of adequate housing must be a
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Expressing the sense of the Congress that the lack of adequate housing must be a
 - 2010-05-24 — Mr. Donnelly (IN) moved to suspend the rules and agree to the resolution.
 - 2010-05-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3715)
 - 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3715)
+- 2010-05-25 — Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs.
