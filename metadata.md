@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 278
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 278
@@ -20,9 +20,10 @@ Expressing the sense of Congress that a grateful Nation supports and salutes Son
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Expressing the sense of Congress that a grateful Nation supports and salutes Son
 - 2010-05-24 — Mr. Filner moved to suspend the rules and agree to the resolution.
 - 2010-05-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 291). (text: CR H3719)
 - 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 291).(text: CR H3719)
+- 2010-05-25 — Received in the Senate and referred to the Committee on the Judiciary.
