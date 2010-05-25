@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2868
@@ -20,9 +20,10 @@ Federal Supply Schedules Usage Act of 2010
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Federal Supply Schedules Usage Act of 2010
 - 2010-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
 - 2010-05-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4161; text as passed Senate: CR S4161)
 - 2010-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4161; text as passed Senate: CR S4161)
+- 2010-05-25 — Message on Senate action sent to the House.
+- 2010-05-25 — Received in the House.
+- 2010-05-25 — Referred to the House Committee on Oversight and Government Reform.
