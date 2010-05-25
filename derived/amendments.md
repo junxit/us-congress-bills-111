@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5330
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 1
+
+> by striking “6 years” and inserting “16 years”; and
+
+| | |
+|---|---|
+| Removed | `6 years` |
+| Inserted | `16 years` |
+
+### 15 U.S.C. § 1
+
+> by striking “title” and inserting “subtitle”.
+
+| | |
+|---|---|
+| Removed | `title` |
+| Inserted | `subtitle` |
 
 ## Stated, not applied
 
@@ -31,15 +51,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “of this subtitle” after “214”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “6 years” and inserting “16 years”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 213(c) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 213 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended by adding at the end the following— | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1) by inserting “of this subtitle” after “213(b)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “of this subtitle” after “213(a)” the 1st place it appears; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “title” and inserting “subtitle”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1` | insert | by inserting “of this subtitle” after “214”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | amend | Section 213(c) of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | add-at-end | Section 213 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 (Public Law 108–237; 15 U.S.C. 1 note) is amended by adding at the end the following— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | insert | in paragraph (1) by inserting “of this subtitle” after “213(b)”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1` | insert | by inserting “of this subtitle” after “213(a)” the 1st place it appears; and | the bill quotes the text inserted but describes where it goes |

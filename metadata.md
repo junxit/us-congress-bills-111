@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5330
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5330
@@ -43,3 +43,4 @@ To amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to ex
 - 2010-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 366 - 4 (Roll no. 293). (text: CR H3716-3717)
 - 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 366 - 4 (Roll no. 293).(text: CR H3716-3717)
 - 2010-05-24 — The title of the measure was amended. Agreed to without objection.
+- 2010-05-25 — Received in the Senate, read twice.
