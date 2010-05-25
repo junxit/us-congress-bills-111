@@ -22,5 +22,7 @@ This Act may be cited as the “Assuring Quality Care for Veterans Act”.
   - **(4)** by inserting “required to maintain licensure” after “professional education”; and
   - **(5)** by adding at the end the following new sentence: “No such health professional may receive reimbursement under this section and reimbursement for the same expenses incurred for continuing professional education provided by a Department medical center.”.
 - **(b)** *Clerical amendments*
-  - **(1)** *Section heading* The heading for such section is amended to read as follows: “Full-time health professionals: reimbursement of continuing professional education expenses”.
+  - **(1)** *Section heading* The heading for such section is amended to read as follows:
+    > ## § 7411. Full-time health professionals: reimbursement of continuing professional education expenses
+
   - **(2)** *Table of sections* The table of sections at the beginning of chapter 74 of such title is amended by striking the item relating to section 7411 and inserting the following new item:
