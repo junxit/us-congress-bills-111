@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1017
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1017
@@ -56,9 +56,10 @@ Chiropractic Care Available to All Veterans Act
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -86,3 +87,4 @@ Chiropractic Care Available to All Veterans Act
 - 2010-05-24 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2010-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 6 (Roll no. 292). (text: CR H3718)
 - 2010-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 6 (Roll no. 292).(text: CR H3718)
+- 2010-05-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

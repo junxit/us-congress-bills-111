@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1017
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “(1)” before “The program”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (6) of section 1701 of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (8) of such section is amended by inserting “chiropractic,” after “counseling,”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (F) through (K) as subparagraphs (G) through (L), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (E) the following new subparagraph (F): | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1710` | insert | by inserting “(1)” before “The program”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1710` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | amend | Paragraph (6) of section 1701 of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | insert | Paragraph (8) of such section is amended by inserting “chiropractic,” after “counseling,”. | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1701` | redesignate | by redesignating subparagraphs (F) through (K) as subparagraphs (G) through (L), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | insert | by inserting after subparagraph (E) the following new subparagraph (F): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
