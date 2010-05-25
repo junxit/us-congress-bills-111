@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5026
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5026
@@ -30,3 +30,8 @@ Grid Reliability and Infrastructure Defense Act
 - 2010-04-14 — Introduced in House
 - 2010-04-14 — Introduced in House
 - 2010-04-14 — Referred to the House Committee on Energy and Commerce.
+- 2010-04-15 — Committee Consideration and Mark-up Session Held.
+- 2010-04-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 0.
+- 2010-05-25 — Placed on the Union Calendar, Calendar No. 281.
+- 2010-05-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-493.
+- 2010-05-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-493.
