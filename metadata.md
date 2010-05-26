@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3885
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3885
@@ -31,9 +31,10 @@ Veterans Dog Training Therapy Act
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Veterans Dog Training Therapy Act
 - 2010-05-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 4 (Roll no. 298). (text: CR 5/24/2010 H3720-3721)
 - 2010-05-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 4 (Roll no. 298).(text: CR 5/24/2010 H3720-3721)
+- 2010-05-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
