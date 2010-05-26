@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5145
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5145
@@ -21,9 +21,10 @@ Assuring Quality Care for Veterans Act
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Assuring Quality Care for Veterans Act
 - 2010-05-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-05-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 294). (text: CR 5/24/2010 H3721-3722)
 - 2010-05-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 294).(text: CR 5/24/2010 H3721-3722)
+- 2010-05-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
