@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** since the enactment of National Flood Insurance Act of 1968, the national flood insurance program has been the primary source of reliable, reasonably priced, flood insurance coverage for millions of American homes and businesses;
   - **(2)** today over 5,500,000 homes and businesses in the United States rely on the national flood insurance program to provide a degree of financial security;
   - **(3)** although participation in the national flood insurance program has, in the past, largely been limited to properties required to participate in the program because of the program’s mandatory purchase requirement for properties in special flood hazard areas with loans from federally regulated lenders, recent annual and extraordinary flooding has resulted in the program enjoying its highest voluntary participation since the establishment of the mandatory flood insurance purchase requirement;
-  - **(4)** several years of below-average flood claim losses and increased voluntary participation in the national flood insurance program have allowed the program to fully service the debt incurred following Hurricanes Katrina and Rita and allowed the program to pay $500,000,000 of the principal of that outstanding debt;
+  - **(4)** several years of below-average flood claims losses and increased voluntary participation in the national flood insurance program have allowed the program to fully service the debt incurred following Hurricanes Katrina and Rita and allowed the program to pay $598,000,000 of the principal of that outstanding debt;
   - **(5)** though significant reforms are needed to further improve the financial outlook of the national flood insurance program, long-term and reliable authorization of the program is an essential element to stabilizing the already fragile United States housing market;
   - **(6)** increased flooding in areas outside designated special flood hazard areas prompted the Executive and the Congress in 2002 to begin calling for the national flood insurance program to develop and disseminate revised, updated flood insurance rate maps that reflect the real risk of flooding for properties not previously identified as being located within a special flood hazard area;
   - **(7)** dissemination of accurate, up-to-date, flood-risk information remains a primary goal of the national flood insurance program and such information should be disseminated as soon as such information is collected and available;
@@ -50,38 +50,42 @@ Subsection (b) of section 1306 of the National Flood Insurance Act of 1968 (42 U
   - **(A)** by striking “$500,000” each place such term appears and inserting “$670,000”; and
   - **(B)** by inserting before “; and” the following: “; except that, in the case of any nonresidential property that is a structure containing more than one dwelling unit that is made available for occupancy by rental (notwithstanding the provisions applicable to the determination of the risk premium rate for such property), additional flood insurance in excess of such limits shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount that is equal to the product of the total number of such rental dwelling units in such property and the maximum coverage limit per dwelling unit specified in paragraph (2); except that in the case of any such multi-unit, nonresidential rental property that is a pre-FIRM structure (as such term is defined in section 578(b) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4014 note)), the risk premium rate for the first $500,000 of coverage shall be determined in accordance with section 1307(a)(2) and the risk premium rate for any coverage in excess of such amount shall be determined in accordance with section 1307(a)(1)”.
 
-## § 5. Phase-in of actuarial rates for nonresidential properties and non-primary residences
+## § 5. Phase-in of actuarial rates for nonresidential properties, certain pre-FIRM properties, and non-primary residences
 
 - **(a)** *In General* Section 1308(c) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(c)) is amended—
-  - **(1)** by redesignating paragraph (2) as paragraph (4); and
+  - **(1)** by redesignating paragraph (2) as paragraph (5); and
   - **(2)** by inserting after paragraph (1) the following new paragraphs:
     > - **(2)** *Nonresidential properties* Any nonresidential property, which term shall not include any multifamily rental property that consists of four or more dwelling units.
     > - **(3)** *Non-primary residences* Any residential property that is not the primary residence of any individual, including the owner of the property or any other individual who resides in the property as a tenant.
+    > - **(4)** *Recently purchased pre-FIRM single-family properties used as principal residencies* Any single family property that—
+    >   - **(A)** has been constructed or substantially improved and for which such construction or improvement was started, as determined by the Director, before December 31, 1974, or before the effective date of the initial rate map published by the Director under paragraph (2) of section 1360 for the area in which such property is located, whichever is later; and
+    >   - **(B)** is purchased after the date of enactment of the Flood Insurance Reform Priorities Act of 2010.
 
 - **(b)** *Technical Amendments* Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015) is amended—
   - **(1)** in subsection (c)—
     - **(A)** in the matter preceding paragraph (1), by striking “the limitations provided under paragraphs (1) and (2)” and inserting “subsection (e)”; and
     - **(B)** in paragraph (1), by striking “, except” and all that follows through “subsection (e)”; and
-  - **(2)** in subsection (e), by striking “paragraph (2) or (3)” and inserting “paragraph (4)”.
+  - **(2)** in subsection (e), by striking “paragraph (2) or (3)” and inserting “paragraph (5)”.
 - **(c)** *Effective Date and Transition*
-  - **(1)** *Effective date* The amendments made by subsections (a) and (b) shall apply beginning upon the expiration of the 9-month period that begins on the date of the enactment of this Act, except as provided in paragraph (2) of this subsection.
+  - **(1)** *Effective date* The amendments made by subsections (a) and (b) shall apply beginning upon the expiration of the 3-year period that begins on the date of the enactment of this Act, except as provided in paragraph (2) of this subsection.
   - **(2)** *Transition for properties covered by flood insurance upon effective date*
-    - **(A)** *Increase of rates over time* In the case of any property described in paragraph (2) or (3) of section 1308(c) of the National Flood Insurance Act of 1968, as amended by subsection (a) of this section, that, as of the effective date under paragraph (1) of this subsection, is covered under a policy for flood insurance made available under the national flood insurance program for which the chargeable premium rates are less than the applicable estimated risk premium rate under section 1307(a)(1) for the area in which the property is located, the Director of the Federal Emergency Management Agency shall increase the chargeable premium rates for such property over time to such applicable estimated risk premium rate under section 1307(a)(1).
+    - **(A)** *Increase of rates over time* In the case of any property described in paragraph (2), (3), or (4) of section 1308(c) of the National Flood Insurance Act of 1968, as amended by subsection (a) of this section, that, as of the effective date under paragraph (1) of this subsection, is covered under a policy for flood insurance made available under the national flood insurance program for which the chargeable premium rates are less than the applicable estimated risk premium rate under section 1307(a)(1) for the area in which the property is located, the Director of the Federal Emergency Management Agency shall increase the chargeable premium rates for such property over time to such applicable estimated risk premium rate under section 1307(a)(1).
     - **(B)** *Annual increase* Such increase shall be made by increasing the chargeable premium rates for the property (after application of any increase in the premium rates otherwise applicable to such property), once during the 12-month period that begins upon the effective date under paragraph (1) of this subsection and once every 12 months thereafter until such increase is accomplished, by 20 percent (or such lesser amount as may be necessary so that the chargeable rate does not exceed such applicable estimated risk premium rate or to comply with subparagraph (C)).
     - **(C)** *Properties subject to phase-in and annual increases* In the case of any pre-FIRM property (as such term is defined in section 578(b) of the National Flood Insurance Reform Act of 1974), the aggregate increase, during any 12-month period, in the chargeable premium rate for the property that is attributable to this paragraph or to an increase described in section 1308(e) of the National Flood Insurance Act of 1968 may not exceed 20 percent.
-    - **(D)** *Full actuarial rates* The provisions of paragraphs (2) and (3) of such section 1308(c) shall apply to such a property upon the accomplishment of the increase under this paragraph and thereafter.
+    - **(D)** *Full actuarial rates* The provisions of paragraphs (2), (3), and (4) of such section 1308(c) shall apply to such a property upon the accomplishment of the increase under this paragraph and thereafter.
 
 ## § 6. 5-year delay in effective date of mandatory purchase requirement for new flood hazard areas
 
 - **(a)** *In general* Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by adding at the end the following new subsection:
   > - **(i)** *Delayed effective date of mandatory purchase requirement for new flood hazard areas*
-  >   - **(1)** *In general* In the case of any area that was not previously designated as an area having special flood hazards and that, pursuant to any issuance, revision, updating, or other change in flood insurance maps, becomes designated as an area having special flood hazards, if each State and local government having jurisdiction over any portion of the geographic area has complied with paragraph (2), such designation shall not take effect for purposes of subsection (a), (b), or (e) of this section, or section 202(a) of this Act, until the expiration of the 5-year period beginning upon the date that such maps, as issued, revised, update, or otherwise changed, become effective.
-  >   - **(2)** *Notice requirements* A State or local government having shall be considered to have complied with this paragraph with respect to any geographic area described in paragraph (1) only if the State or local government has, before the effective date of the issued, revised, updated, or changed maps, and in accordance with such standards as shall be established by the Director—
+  >   - **(1)** *In general* In the case of any area that was not previously designated as an area having special flood hazards and that, pursuant to any issuance, revision, updating, or other change in flood insurance maps that takes effect on or after September 1, 2008, becomes designated as an area having special flood hazards, if each State and local government having jurisdiction over any portion of the geographic area has complied with paragraph (2), such designation shall not take effect for purposes of subsection (a), (b), or (e) of this section, or section 202(a) of this Act, until the expiration of the 5-year period beginning upon the date that such maps, as issued, revised, update, or otherwise changed, become effective.
+  >   - **(2)** *Notice requirements* A State or local government shall be considered to have complied with this paragraph with respect to any geographic area described in paragraph (1) only if the State or local government has, before the effective date of the issued, revised, updated, or changed maps, and in accordance with such standards as shall be established by the Director—
   >     - **(A)** developed an evacuation plan to be implemented in the event of flooding in such portion of the geographic area; and
   >     - **(B)** developed and implemented an outreach and communication plan to advise occupants in such portion of the geographic area of potential flood risks, the opportunity to purchase flood insurance, and the consequences of failure to purchase flood insurance.
   >   - **(3)** *Rule of construction* Nothing in paragraph (1) may be construed to affect the applicability of a designation of any area as an area having special flood hazards for purposes of the availability of flood insurance coverage, criteria for land management and use, notification of flood hazards, eligibility for mitigation assistance, or any other purpose or provision not specifically referred to in paragraph (1).
 
 - **(b)** *Conforming amendment* The second sentence of subsection (h) of section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(h)) is amended by striking “Such” and inserting “Except for notice regarding a change described in section 102(i)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(i)(1)), such”.
+- **(c)** *No refunds* Nothing in this section or the amendments made by this section may be construed to authorize or require any payment or refund for flood insurance coverage purchased for any property that covered any period during which such coverage is not required for the property pursuant to the applicability of the amendment made by subsection (a).
 
 ## § 7. 5-year phase-in of flood insurance rates for newly mapped areas
 
@@ -137,20 +141,72 @@ Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as am
 >     - **(B)** that was designed to provide protection for at least the 100-year frequency flood; and
 >     - **(C)** that has been determined, pursuant to waterflow data or other scientific information of a Federal agency obtained after, or that has changed since, commencement of construction, reconstruction, or improvement, will not provide protection from floods at the level referred to in subparagraph (B).
 
-## § 11. Exception to waiting period for effective date of policies
+## § 11. Notification to homeowners regarding mandatory purchase requirement applicability and rate phase-ins
+
+Section 201 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4105) is amended by adding at the end the following new subsection:
+
+> - **(f)** *Annual notification* The Director, in consultation with affected communities, shall establish and carry out a plan to notify residents of areas having special flood hazards, on an annual basis—
+>   - **(1)** that they reside in such an area;
+>   - **(2)** of the geographical boundaries of such area;
+>   - **(3)** of whether section 1308(h) of the National Flood Insurance Act of 1968 applies to properties within such area; and
+>   - **(4)** of the provisions of section 102 requiring purchase of flood insurance coverage for properties located in such an area, including the date on which such provisions apply with respect to such area, taking into consideration section 102(i); and
+>   - **(5)** of a general estimate of what similar homeowners in similar areas typically pay for flood insurance coverage, taking into consideration section 1308(g) of the National Flood Insurance Act of 1968;
+
+## § 12. Coverage for additional living expenses and business interruption
+
+Subsection (b) of section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended—
+
+- **(1)** in paragraph (4), by striking “and” at the end;
+- **(2)** in paragraph (5)—
+  - **(A)** by inserting “pursuant to paragraph (2), (3), or (4)” after “any flood insurance coverage”; and
+  - **(B)** by striking the period at the end and inserting a semicolon; and
+- **(3)** by adding at the end the following new paragraphs:
+  > - **(6)** in the case of any residential property, each renewal or new contract for flood insurance coverage shall provide not less than $1,000 aggregate liability per dwelling unit for any necessary increases in living expenses incurred by the insured when losses from a flood make the residence unfit to live in, which coverage shall be available only at chargeable rates that are not less than the estimated premium rates for such coverage determined in accordance with section 1307(a)(1);
+  > - **(7)** in the case of any residential property, optional coverage for additional living expenses described in paragraph (6) shall be made available to every insured upon renewal and every applicant in excess of the limits provided in paragraph (6) in such amounts and at such rates as the Director shall establish, except that such chargeable rates shall not be less than the estimated premium rates for such coverage determined in accordance with section 1307(a)(1); and
+  > - **(8)** in the case of any commercial property or other residential property, including multifamily rental property, optional coverage for losses resulting from any partial or total interruption of the insured’s business caused by damage to, or loss of, such property from a flood shall be made available to every insured upon renewal and every applicant, except that—
+  >   - **(A)** the Director may provide such coverage under such terms, conditions, and requirements as the Director considers appropriate to meet the needs of small businesses while complying with the requirement under subparagraph (C); and
+  >   - **(B)** any such coverage shall be made available only at chargeable rates that are not less than the estimated premium rates for such coverage determined in accordance with section 1307(a)(1).
+
+## § 13. Exception to waiting period for effective date of policies
 
 Section 1306(c)(2)(A) of the National Flood Insurance Act of 1968 (42 U.S.C. 4013(c)(2)(A)) is amended by inserting before the semicolon the following: “or is in connection with the purchase or other transfer of the property for which the coverage is provided (regardless of whether a loan is involved in the purchase or transfer transaction), but only when such initial purchase of coverage is made not later 30 days after such making, increasing, extension, or renewal of the loan or not later than 30 days after such purchase or other transfer of the property, as applicable”.
 
-## § 12. Enforcement
+## § 14. Minimum deductibles for claims
+
+Section 1312 of the National Flood Insurance Act of 1968 (42 U.S.C. 4019) is amended—
+
+- **(1)** by striking “The Director is” and inserting the following: “(a) In general.—The Director is”; and
+- **(2)** by adding at the end the following:
+  > - **(b)** *Minimum annual deductibles*
+  >   - **(1)** *Pre-FIRM properties* For any structure that is covered by flood insurance under this title, and on which construction or substantial improvement occurred on or before December 31, 1974, or before the effective date of an initial flood insurance rate map published by the Director under section 1360 for the area in which such structure is located, the minimum annual deductible for damage to or loss of such structure shall be—
+  >     - **(A)** $1,500, if the flood insurance coverage for such structure covers loss of, or physical damage to, such structure in an amount equal to or less than $100,000; and
+  >     - **(B)** $2,000, if the flood insurance coverage for such structure covers loss of, or physical damage to, such structure in an amount greater than $100,000.
+  >   - **(2)** *Post-FIRM properties* For any structure that is covered by flood insurance under this title, and on which construction or substantial improvement occurred after December 31, 1974, or after the effective date of an initial flood insurance rate map published by the Director under section 1360 for the area in which such structure is located, the minimum annual deductible for damage to or loss of such structure shall be—
+  >     - **(A)** $750, if the flood insurance coverage for such structure covers loss of, or physical damage to, such structure in an amount equal to or less than $100,000; and
+  >     - **(B)** $1,000, if the flood insurance coverage for such structure covers loss of, or physical damage to, such structure in an amount greater than $100,000.
+
+## § 15. Payment of premiums in installments for low-income policyholders
+
+Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following new subsection:
+
+> - **(d)** *Payment of premiums in installments for low-income policyholders* In addition to any other terms and conditions under subsection (a), such regulations shall provide that, in the case of any residential property that is owned by a family whose income level is at or below 200 percent of the poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673 of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902)) applicable to the size of such family, or a family that has no adult member who is employed, premiums for flood insurance coverage for such property may be paid in monthly installments.
+
+## § 16. Enforcement
 
 Section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f)) is amended—
 
-- **(1)** in paragraph (5)—
+- **(1)** in paragraph (2)—
+  - **(A)** in subparagraph (A)(iii), by striking “or” at the end;
+  - **(B)** in subparagraph (B), by striking the period at the end and inserting “; or”; and
+  - **(C)** by adding at the end the following new subparagraph:
+    > - **(C)** in connection with the making, increasing, extending, servicing, or renewing of any loan, requiring the purchase of flood insurance coverage under the National Flood Insurance Act of 1968, or purchasing such coverage pursuant to subsection (e)(2), in an amount in excess of the minimum amount required under subsections (a) and (b) of this section.
+
+- **(2)** in paragraph (5)—
   - **(A)** in the first sentence, by striking “$350” and inserting “$2,000”; and
   - **(B)** in the last sentence, by striking “$100,000” and inserting “$1,000,000; except that such limitation shall not apply to a regulated lending institution or enterprise for a calendar year if, in any three (or more) of the five calendar years immediately preceding such calendar year, the total amount of penalties assessed under this subsection against such lending institution or enterprise was $1,000,000”; and
-- **(2)** in paragraph (6), by adding after the period at the end the following: “No penalty may be imposed under this subsection on a regulated lending institution or enterprise that has made a good faith effort to comply with the requirements of the provisions referred to in paragraph (2) or for any non-material violation of such requirements.”.
+- **(3)** in paragraph (6), by adding after the period at the end the following: “No penalty may be imposed under this subsection on a regulated lending institution or enterprise that has made a good faith effort to comply with the requirements of the provisions referred to in paragraph (2) or for any non-material violation of such requirements.”.
 
-## § 13. Notification to tenants of availability of contents insurance
+## § 17. Notification to tenants of availability of contents insurance
 
 The National Flood Insurance Act of 1968 is amended by inserting after section 1308 (42 U.S.C. 4015) the following new section:
 
@@ -165,7 +221,7 @@ The National Flood Insurance Act of 1968 is amended by inserting after section 1
 >   - **(3)** of the maximum amount of such coverage for contents available under this title at that time; and
 >   - **(4)** of where to obtain information regarding how to obtain such coverage, including a telephone number, mailing address, and Internet site of the Director where such information is available.
 
-## § 14. Flood insurance outreach
+## § 18. Flood insurance outreach
 
 Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new section:
 
@@ -194,19 +250,19 @@ Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.), 
 > - **(g)** *Reporting* Each local government agency that receives a grant under this section, and each entity that receives amounts pursuant to subsection (f), shall submit a report to the Director, not later than 12 months after such amounts are first received, which shall include such information as the Director considers appropriate to describe the activities conducted using such amounts and the effect of such activities on the retention or acquisition of flood insurance coverage.
 > - **(h)** *Authorization of Appropriations* There is authorized to be appropriated for grants under this section $50,000,000 for each of fiscal years 2011 through 2015.
 
-## § 15. Notice of availability of flood insurance and escrow in RESPA good faith estimate
+## § 19. Notice of availability of flood insurance and escrow in RESPA good faith estimate
 
 Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) is amended by adding at the end the following new sentence: “Each such good faith estimate shall include the following conspicuous statements and information: (1) that flood insurance coverage for residential real estate is generally available under the national flood insurance program whether or not the real estate is located in an area having special flood hazards and that, to obtain such coverage, a home owner or purchaser should contact the national flood insurance program; (2) a telephone number and a location on the Internet by which a home owner or purchaser can contact the national flood insurance program; and (3) that the escrowing of flood insurance payments is required for many loans under section 102(d) of the Flood Disaster Protection Act of 1973, and may be a convenient and available option with respect to other loans.”.
 
-## § 16. Authorization of additional FEMA staff
+## § 20. Authorization of additional FEMA staff
 
 Notwithstanding any other provision of law, the Director of the Federal Emergency Management Agency may employ such additional staff as may be necessary to carry out all of the responsibilities of the Director pursuant to this Act and the amendments made by this Act. There are authorized to be appropriated to Director such sums as may be necessary for costs of employing such additional staff.
 
-## § 17. Plan to verify maintenance of flood insurance on Mississippi and Louisiana properties receiving emergency supplemental funds
+## § 21. Plan to verify maintenance of flood insurance on Mississippi and Louisiana properties receiving emergency supplemental funds
 
 The Secretary of Housing and Urban Development and the Director of the Federal Emergency Management Agency shall jointly develop and implement a plan to verify that persons receiving funds under the Homeowner Grant Assistance Program of the State of Mississippi or the Road Home Program of the State of Louisiana from amounts allocated to the State of Mississippi or the State of Louisiana, respectively, from the Community development fund under the Emergency Supplemental Appropriations Act to Address Hurricanes in the Gulf of Mexico and Pandemic Influenza, 2006 (Public Law 109–148) are maintaining flood insurance on the property for which such persons receive such funds as required by each such Program.
 
-## § 18. Flood insurance advocate
+## § 22. Flood insurance advocate
 
 Chapter II of the National Flood Insurance Act of 1968 is amended by inserting after section 1330 (42 U.S.C. 4041) the following new section:
 
@@ -220,8 +276,9 @@ Chapter II of the National Flood Insurance Act of 1968 is amended by inserting a
 > - **(b)** *Functions of Office*
 >   - **(1)** *In general* It shall be the function of the Office of the Flood Insurance Advocate to—
 >     - **(A)** assist insureds under the national flood insurance program in resolving problems with the Federal Emergency Management Agency relating to such program;
->     - **(B)** identify areas in which such insureds have problems in dealings with the Agency relating to such program; and
->     - **(C)** identify potential legislative, administrative, or regulatory changes which may be appropriate to mitigate such problems.
+>     - **(B)** identify areas in which such insureds have problems in dealings with the Agency relating to such program;
+>     - **(C)** identify potential legislative, administrative, or regulatory changes which may be appropriate to mitigate such problems; and
+>     - **(D)** assist communities and homeowners with interpreting, implementing, and appealing floodplain maps and floodplain map determinations.
 >   - **(2)** *Annual reports*
 >     - **(A)** *Activities* Not later than December 31 of each calendar year, the National Flood Insurance Advocate shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the activities of the Office of the Flood Insurance Advocate during the fiscal year ending during such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information, and shall—
 >       - **(i)** identify the initiatives the Office of the Flood Insurance Advocate has taken on improving services for insureds under the national flood insurance program and responsiveness of the Federal Emergency Management Agency with respect to such program;
@@ -230,19 +287,23 @@ Chapter II of the National Flood Insurance Act of 1968 is amended by inserting a
 >     - **(B)** *Direct submission of report* Each report required under this paragraph shall be provided directly to the committees identified in subparagraph (A) without any prior review or comment from the Director, the Secretary of Homeland Security, or any other officer or employee of the Federal Emergency Management Agency or the Department of Homeland Security, or the Office of Management and Budget.
 > - **(c)** *Funding* Pursuant to section 1310(a)(4), the Director may use amounts from the National Flood Insurance Fund to fund the activities of the Office of the Flood Advocate in each of fiscal years 2011 through 2016, except that the amount so used in each such fiscal year may not exceed $5,000,000 and shall remain available until expended. Notwithstanding any other provision of this title, amounts made available pursuant to this subsection shall not be subject to offsetting collections through premium rates for flood insurance coverage under this title.
 
-## § 19. Study regarding mandatory purchase requirement for natural 100-year floodplain and non-federally related loans
+## § 23. Eligibility of property demolition and rebuilding under flood mitigation assistance program
+
+Section 1366(e)(5)(B) of the National Flood Insurance Act of 1968 (42 U.S.C. 4104c(e)(5)(B)) is amended by striking “or floodproofing” and inserting “floodproofing, or demolition and rebuilding”.
+
+## § 24. Study regarding mandatory purchase requirement for non-federally related loans
 
 - **(a)** *In General* The Comptroller General shall conduct a study to assess the impact, effectiveness, and feasibility of, and basis under the Constitution of the United States for, amending the provisions of the Flood Disaster Protection Act of 1973 regarding the properties that are subject to the mandatory flood insurance coverage purchase requirements under such Act to extend such requirements to any property that is located in any area having special flood hazards and which secures the repayment of a loan that is not described in paragraph (1), (2), or (3) of section 102(b) of such Act, and shall determine how best to administer and enforce such a requirement, taking into consideration other insurance purchase requirements under Federal and State law.
 - **(b)** *Report* The Comptroller General shall submit a report to the Congress regarding the results and conclusions of the study under subsection (a) not later than the expiration of the 6-month period beginning on the date of the enactment of this Act.
 
-## § 20. Study of methods to increase flood insurance program participation by low-income families
+## § 25. Study of methods to increase flood insurance program participation by low-income families
 
 - **(a)** *In General* The Comptroller General of the United States shall conduct a study to identify and analyze potential methods, practices, and incentives that would increase the extent to which low-income families (as such term is defined in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b))) that own residential properties located within areas having special flood hazards purchase flood insurance coverage for such properties under the national flood insurance program. In conducting the study, the Comptroller General shall analyze the effectiveness and costs of the various methods, practices, and incentives identified, including their effects on the national flood insurance program.
 - **(b)** *Report* The Comptroller General shall submit to the Congress a report setting forth the conclusions of the study under this section not later than 12 months after the date of the enactment of this Act.
 
-## § 21. Report on inclusion of building codes in floodplain management criteria
+## § 26. Report on inclusion of building codes in floodplain management criteria
 
-Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Director of the Federal Emergency Management Agency shall conduct a study and submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the impact, effectiveness, and feasibility of amending section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) to include widely used and nationally recognized building codes as part of the floodplain management criteria developed under such section, and shall determine—
+Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Administrator of the Federal Emergency Management Agency shall conduct a study and submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the impact, effectiveness, and feasibility of amending section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) to include widely used and nationally recognized building codes as part of the floodplain management criteria developed under such section, and shall determine—
 
 - **(1)** the regulatory, financial, and economic impacts of such a building code requirement on homeowners, States and local communities, local land use policies, and the Federal Emergency Management Agency;
 - **(2)** the resources required of State and local communities to administer and enforce such a building code requirement;
@@ -250,3 +311,22 @@ Not later than the expiration of the 6-month period beginning on the date of the
 - **(4)** the impact of such a building code requirement on the actuarial soundness of the National Flood Insurance Program;
 - **(5)** the effectiveness of nationally recognized codes in allowing innovative materials and systems for flood-resistant construction; and
 - **(6)** the feasibility and effectiveness of providing an incentive in lower premium rates for flood insurance coverage under such Act for structures meeting whichever of such widely used and nationally recognized building code or any applicable local building code provides greater protection from flood damage.
+
+## § 27. Study on repaying flood insurance debt
+
+Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Administrator of the Federal Emergency Management Agency shall submit a report to the Congress setting forth a plan for repaying within 10 years all amounts, including any amounts previously borrowed but not yet repaid, owed pursuant to clause (2) of subsection (a) of section 1309 of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)(2)).
+
+## § 28. Study regarding impact of rate increases on pre-FIRM properties
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study to assess the impacts of implementing provisions regarding pre-FIRM properties (as such term is defined in section 578(b) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4014)), including the impact on the program participation rate among owners, renters, and tenants of non-primary residences or commercial nonresidential properties. In conducting the study, the Comptroller General shall analyze the cost effectiveness and effect on local government tax base of various options, including an option of implementing such provisions on the severe repetitive loss properties only.
+- **(b)** *Report* The Comptroller General shall submit a report to Congress regarding the results and conclusions of the study under subsection (a) not later than the expiration of the 9-month period beginning on the date of enactment of this Act.
+
+## § 29. Study of effects of Act
+
+- **(a)** *Study* The Administrator of the Federal Emergency Management Agency shall conduct a study to identify and assess the impacts, including short-term and long-term impacts, of this Act and the amendments made by this Act on the financial soundness of the national flood insurance program.
+- **(b)** *Report* Not later than 12 months after the date of the enactment of this Act, the Administrator shall submit a report to the Congress setting forth the results and conclusions of study under subsection (a), which shall include specific recommendations for actions to mitigate against any negative financial impacts resulting from this Act and the amendments made by this Act that could increase the debt of the national flood insurance program.
+
+## § 30. Rulemaking
+
+- **(a)** *Interim final rule* The Administrator of the Federal Emergency Management Agency shall issue an interim final rule as a temporary regulation implementing this Act and the amendments made by this Act as soon as practicable after the date of the enactment of this Act, without regard to the provisions of chapter 5 of title 5, United States Code. All regulations prescribed under the authority of this subsection that are not earlier superseded by final regulations shall expire not later than one year after the date of the enactment of this Act.
+- **(b)** *Initiation of rulemaking* The Administrator of the Federal Emergency Management Agency may initiate a rulemaking to implement this Act and the amendments made by this Act as soon as practicable after the date of the enactment of this Act. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under subsection (a).

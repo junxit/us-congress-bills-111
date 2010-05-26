@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5114
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5114
@@ -16,7 +16,7 @@ Flood Insurance Reform Priorities Act of 2010
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
@@ -29,6 +29,8 @@ Flood Insurance Reform Priorities Act of 2010
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
 
 ## Committees (1)
 
@@ -39,3 +41,8 @@ Flood Insurance Reform Priorities Act of 2010
 - 2010-04-22 — Introduced in House
 - 2010-04-22 — Introduced in House
 - 2010-04-22 — Referred to the House Committee on Financial Services.
+- 2010-04-27 — Committee Consideration and Mark-up Session Held.
+- 2010-04-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-05-26 — Placed on the Union Calendar, Calendar No. 282.
+- 2010-05-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-495.
+- 2010-05-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-495.
