@@ -2,7 +2,7 @@
 legis-num: H. RES. 1169
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1169
@@ -25,6 +25,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the nondenominational Knowles Memorial Chapel, an architectural treasure at Rollins College, also is listed on the National Register of Historic Places, and is the site of regular religious services, as well as musical and choral performances;
 - Whereas the Cornell Fine Arts Museum at Rollins features six galleries, Florida’s only print-study room, and a dynamic combination of permanent collection installations and traveling exhibitions that promote interdisciplinary learning;
 - Whereas Rollins has established the Winter Park Institute to create opportunities for nationally known scholars and artists to engage with the Winter Park and campus communities; and
-- Whereas Rollins College is committed to excellence not only in the classroom but also on the playing field, having won more than 20 NCAA national championships, and being a founder of intercollegiate rowing in the South, as well as intercollegiate soccer across Central Florida: Now, therefore, be it
+- Whereas Rollins College is committed to excellence not only in the classroom but also on the playing field, having won more than 20 national championships, and being a founder of intercollegiate rowing in the South, as well as intercollegiate soccer across Central Florida: Now, therefore, be it
 
 That the House of Representatives honors Rollins College on the joyous occasion of its 125th anniversary, recognizes its unwavering commitment to liberal arts education, and expresses its best wishes for continued success.
