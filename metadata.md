@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1316
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1316
@@ -78,8 +78,22 @@ Celebrating Asian/Pacific American Heritage Month.
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-05-26 — [House 111-2-304](votes/house-111-2-0304.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (408–0)
+
 ## Actions
 
 - 2010-04-29 — Introduced in House
 - 2010-04-29 — Introduced in House
 - 2010-04-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-05-06 — Committee Consideration and Mark-up Session Held.
+- 2010-05-06 — Ordered to be Reported by Unanimous Consent.
+- 2010-05-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-05-25 — Considered under suspension of the rules. (consideration: CR H3776-3778)
+- 2010-05-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1316.
+- 2010-05-25 — Mr. Lynch moved to suspend the rules and agree to the resolution, as amended.
+- 2010-05-26 — Considered as unfinished business. (consideration: CR H3838-3839)
+- 2010-05-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 408 - 0 (Roll no. 304). (text: CR 5/25/2010 H3776)
+- 2010-05-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 408 - 0 (Roll no. 304).(text: CR 5/25/2010 H3776)
