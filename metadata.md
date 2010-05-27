@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4506
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4506
@@ -49,3 +49,7 @@ Bankruptcy Judgeship Act of 2010
 - 2010-03-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 5 (Roll no. 111). (text: CR 3/10/2010 H1235-1236)
 - 2010-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 5 (Roll no. 111).(text: CR 3/10/2010 H1235-1236)
 - 2010-03-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-05-27 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2010-05-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-05-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
