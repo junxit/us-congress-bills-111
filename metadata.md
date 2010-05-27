@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Reported to Senate
+version: Public Print
 ---
 
 # H.R. 4899
@@ -16,16 +16,218 @@ Supplemental Appropriations Act, 2010
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
+## Cosponsors (187)
+
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+
 ## Committees (3)
 
 - House — Budget Committee
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (14)
 
 - 2010-03-24 — [House 111-2-185](votes/house-111-2-0185.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (239–176)
 - 2010-03-24 — [House 111-2-186](votes/house-111-2-0186.md) — On Passage — **Passed** (239–175)
+- 2010-05-27 — [Senate 111-2-165](votes/senate-111-2-0165.md) — On the Motion — **Motion Rejected** (51–46)
+- 2010-05-27 — [Senate 111-2-166](votes/senate-111-2-0166.md) — On the Motion — **Motion Rejected** (54–44)
+- 2010-05-27 — [Senate 111-2-167](votes/senate-111-2-0167.md) — On the Motion — **Motion Rejected** (54–43)
+- 2010-05-27 — [Senate 111-2-168](votes/senate-111-2-0168.md) — On the Amendment — **Amendment Rejected** (18–80)
+- 2010-05-27 — [Senate 111-2-169](votes/senate-111-2-0169.md) — On the Motion to Table — **Motion to Table Agreed to** (53–45)
+- 2010-05-27 — [Senate 111-2-170](votes/senate-111-2-0170.md) — On the Motion to Table — **Motion to Table Agreed to** (50–47)
+- 2010-05-27 — [Senate 111-2-171](votes/senate-111-2-0171.md) — On the Cloture Motion — **Cloture Motion Agreed to** (69–29)
+- 2010-05-27 — [Senate 111-2-172](votes/senate-111-2-0172.md) — On the Motion — **Motion Rejected** (45–52)
+- 2010-05-27 — [Senate 111-2-173](votes/senate-111-2-0173.md) — On the Amendment — **Amendment Agreed to** (60–37)
+- 2010-05-27 — [Senate 111-2-174](votes/senate-111-2-0174.md) — On the Amendment — **Amendment Agreed to** (60–35)
+- 2010-05-27 — [Senate 111-2-175](votes/senate-111-2-0175.md) — On the Amendment — **Amendment Rejected** (37–58)
+- 2010-05-27 — [Senate 111-2-176](votes/senate-111-2-0176.md) — On Passage of the Bill — **Bill Passed** (67–28)
 
 ## Actions
 
@@ -53,3 +255,340 @@ Supplemental Appropriations Act, 2010
 - 2010-05-14 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-188.
 - 2010-05-14 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-188.
 - 2010-05-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
+- 2010-05-24 — Amendment SA 4173 proposed by Senator Sessions. (consideration: CR S4122-4123) To establish 3 year discretionary spending caps.
+- 2010-05-24 — Amendment SA 4174 proposed by Senator Reid. (consideration: CR S4121) To provide collective bargaining rights for public safety officers employed by states or their political subdivisions.
+- 2010-05-24 — Measure laid before Senate by unanimous consent. (consideration: CR S4112-4130; text of measure as reported in Senate: CR S4112-4121)
+- 2010-05-24 — Senate amendment proposed (on the floor): Amendment SA 4173 proposed by Senator Sessions.(consideration: CR S4122-4123)
+- 2010-05-24 — Senate amendment proposed (on the floor): Amendment SA 4174 proposed by Senator Reid.(consideration: CR S4121)
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-24 — Senate amendment submitted
+- 2010-05-25 — Amendment SA 4175 proposed by Senator Lautenberg. (consideration: CR S4185-4186, S4190-4191; text: CR S4185; text as modified: CR S4190) To provide that parties responsible for the Deepwater Horizon oil spill in the Gulf of Mexico shall reimburse the general fund of the Treasury for costs incurred in responding to that oil spill.
+- 2010-05-25 — Amendment SA 4179 proposed by Senator Landrieu. (consideration: CR S4200-4201; text: CR S4200) To allow the Administrator of the Small Business Administration to create or save jobs by providing interest relief on certain outstanding disaster loans relating to damage caused by the 2005 Gulf Coast hurricanes or the 2008 Gulf Coast hurricanes.
+- 2010-05-25 — Amendment SA 4180 proposed by Senator Landrieu. (consideration: CR S4201; text: CR S4201) To defer payments of principal and interest on disaster loans relating to the Deepwater Horizon oil spill.
+- 2010-05-25 — Amendment SA 4182 proposed by Senator Landrieu. (consideration: CR S4202; text: CR S4202) To require the Secretary of the Army to use certain funds for the construction of authorized restoration projects in the Louisiana coastal area ecosystem restoration program.
+- 2010-05-25 — Amendment SA 4183 proposed by Senator Wyden. (consideration: CR S4172-4176; text: CR S4172-4173) To establish as a standing order of the Senate that a Senator publicly disclose a notice of intent to objecting to any measure or matter.
+- 2010-05-25 — Amendment SA 4184 proposed by Senator Landrieu. (consideration: CR S4201; text as modified: CR S4201) To require the Secretary of the Army to maximize the placement of dredged material available from maintenance dredging of existing navigation channels to mitigate the impacts of the Deepwater Horizon Oil spill in the Gulf of Mexico at full Federal expense.
+- 2010-05-25 — Amendment SA 4191 proposed by Senator Cardin. (consideration: CR S4193-4194; text: CR S4193) To prohibit the use of funds for leasing activities in certain areas of the outer Continental Shelf.
+- 2010-05-25 — Amendment SA 4202 proposed by Senator Cornyn. (consideration: CR S4185, S4194; text as modified: CR S4185) To make appropriations to improve border security, with an offset from unobligated appropriations under division A of Public Law 111-5.
+- 2010-05-25 — Amendment SA 4204 proposed by Senator Feingold. (consideration: CR S4181-4182; text: CR S4181) To require a plan for the safe, orderly, and expeditious redeployment of the United States Armed Forces from Afghanistan.
+- 2010-05-25 — Amendment SA 4213 proposed by Senator Landrieu. (consideration: CR S4201-4202; text: CR S4201-4202) To provide authority to the Secretary of the Interior to immediately fund projects under the Coastal Impact Assistance Program on an emergency basis.
+- 2010-05-25 — Amendment SA 4214 proposed by Senator McCain. (consideration: CR S4182-4183, S4183-4185; text: CR S4182) To provide for National Guard support to secure the southern land border of the United States.
+- 2010-05-25 — Amendment SA 4228 proposed by Senator Kyl to Amendment SA 4202. (consideration: CR S4194; text: CR S4194) To appropriate $200,000,000 to increase resources for the Department of Justice and the Judiciary to address illegal crossings of the Southwest border, with an offset.
+- 2010-05-25 — Amendment SA 4231 proposed by Senator Coburn. (consideration: CR S4196-4197) To pay for the costs of supplemental spending by reducing waste, inefficiency, and unnecessary spending within the Federal Government.
+- 2010-05-25 — Amendment SA 4232 proposed by Senator Coburn. (consideration: CR S4195-4196; text: CR S4195-4196) To pay for the costs of supplemental spending by reducing Congress' own budget and disposing of unneeded Federal property and uncommitted Federal funds.
+- 2010-05-25 — Amendment SA 4234 proposed by Senator Landrieu. (consideration: CR S4202-4203; text: CR S4202-4203) To establish a program, and to make available funds, to provide technical assistance grants for use by organizations in assisting individuals and businesses affected by the Deepwater Horizon oil spill in the Gulf of Mexico.
+- 2010-05-25 — Cloture motion on the committee reported substitute amendment presented in Senate. (consideration: CR S4197; text: CR S4197)
+- 2010-05-25 — Cloture motion on the measure presented in Senate. (consideration: CR S4197; text: CR S4197)
+- 2010-05-25 — Considered by Senate. (consideration: CR S4167)
+- 2010-05-25 — Considered by Senate. (consideration: CR S4167, S4169-4170, S4186-4187)
+- 2010-05-25 — Considered by Senate. (consideration: CR S4167-4171, S4172-4176, S4176-4206)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4175 proposed by Senator Lautenberg.(consideration: CR S4185-4186, S4190-4191; text: CR S4185; text as modified: CR S4190)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4179 proposed by Senator Landrieu.(consideration: CR S4200-4201; text: CR S4200)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4180 proposed by Senator Landrieu.(consideration: CR S4201; text: CR S4201)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4182 proposed by Senator Landrieu.(consideration: CR S4202; text: CR S4202)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4183 proposed by Senator Wyden.(consideration: CR S4172-4176; text: CR S4172-4173)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4184 proposed by Senator Landrieu.(consideration: CR S4201; text as modified: CR S4201)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4191 proposed by Senator Cardin.(consideration: CR S4193-4194; text: CR S4193)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4202 proposed by Senator Cornyn.(consideration: CR S4185, S4194; text as modified: CR S4185)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4204 proposed by Senator Feingold.(consideration: CR S4181-4182; text: CR S4181)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4213 proposed by Senator Landrieu.(consideration: CR S4201-4202; text: CR S4201-4202)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4214 proposed by Senator McCain.(consideration: CR S4182-4183, S4183-4185; text: CR S4182)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4228 proposed by Senator Kyl to Amendment SA 4202.(consideration: CR S4194; text: CR S4194)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4231 proposed by Senator Coburn.(consideration: CR S4196-4197)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4232 proposed by Senator Coburn.(consideration: CR S4195-4196; text: CR S4195-4196)
+- 2010-05-25 — Senate amendment proposed (on the floor): Amendment SA 4234 proposed by Senator Landrieu.(consideration: CR S4202-4203; text: CR S4202-4203)
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-25 — Senate amendment submitted
+- 2010-05-26 — Amendment SA 4221 proposed by Senator Isakson. (consideration: CR S4406; text: CR S4406) To include the 2009 flooding in the Atlanta area as a disaster for which certain disaster relief is available.
+- 2010-05-26 — Amendment SA 4229 proposed by Senator Ensign. (consideration: CR S4405; text: CR S4405) To prohibit the transfer of C-130 aircraft from the National Guard to a unit of the Air Force in another State.
+- 2010-05-26 — Amendment SA 4230 proposed by Senator Ensign. (consideration: CR S4405, S4421-4422; text: CR S4405-4406; text as modified: CR S4421) To establish limitations on the transfer of C-130H aircraft from the National Guard to a unit of the Air Force in another State.
+- 2010-05-26 — Amendment SA 4253 proposed by Senator Collins. (consideration: CR S4410-4413; text: CR S4410) To prohibit the imposition of fines and liability under certain final rules of the Environmental Protection Agency.
+- 2010-05-26 — Amendment SA 4289 proposed by Senator Menendez to Amendment SA 4174. (consideration: CR S4416-4417; text: CR S4416) To require oil polluters to pay the full cost of oil spills.
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4406-4409, S4424-4425)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4406-4409, S4424-4425, S4426-4428; text as modified: CR S4426-4427)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4409-4410)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4419-4420; text as modified: CR S4419)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4422-4423)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398, S4422-4423)
+- 2010-05-26 — Considered by Senate. (consideration: CR S4398-4437)
+- 2010-05-26 — Senate amendment proposed (on the floor): Amendment SA 4221 proposed by Senator Isakson.(consideration: CR S4406; text: CR S4406)
+- 2010-05-26 — Senate amendment proposed (on the floor): Amendment SA 4229 proposed by Senator Ensign.(consideration: CR S4405; text: CR S4405)
+- 2010-05-26 — Senate amendment proposed (on the floor): Amendment SA 4230 proposed by Senator Ensign.(consideration: CR S4405, S4421-4422; text: CR S4405-4406; text as modified: CR S4421)
+- 2010-05-26 — Senate amendment proposed (on the floor): Amendment SA 4253 proposed by Senator Collins.(consideration: CR S4410-4413; text: CR S4410)
+- 2010-05-26 — Senate amendment proposed (on the floor): Amendment SA 4289 proposed by Senator Menendez to Amendment SA 4174.(consideration: CR S4416-4417; text: CR S4416)
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-27 — Amendment SA 4178 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4178 proposed by Senator Inouye for Senator Reid. (consideration: CR S4503-4505; text: CR S4503) To facilitate a transmission line project.
+- 2010-05-27 — Amendment SA 4184 as modified agreed to in Senate by Unanimous Consent. (text as further modified: CR S4504)
+- 2010-05-27 — Amendment SA 4200 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4200 proposed by Senator Inouye for Senator Byrd. (consideration: CR S4503-4505; text: CR S4505) To make technical corrections.
+- 2010-05-27 — Amendment SA 4204 not agreed to in Senate by Yea-Nay Vote. 18 - 80. Record Vote Number: 168.
+- 2010-05-27 — Amendment SA 4205 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4205 proposed by Senator Inouye for Senator Levin. (consideration: CR S4503-4505; text: CR S4503-4504) To make a technical correction.
+- 2010-05-27 — Amendment SA 4213 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4505)
+- 2010-05-27 — Amendment SA 4217 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4217 proposed by Senator Inouye for Senator McCain. (consideration: CR S4503-4505; text: CR S4504) To provide for the submittal of the charter and reports on the High-Value Detainee Interrogation Group to additional committees of Congress.
+- 2010-05-27 — Amendment SA 4222 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4222 proposed by Senator Inouye for Senator Webb. (consideration: CR S4503-4505; text: CR S4504) To limit the use of funds for the Department of Veterans Affairs for presumption of service-connection between exposure of veterans to Agent Orange during service in Vietnam and certain additional diseases until the period for disapproval by Congress of the regulation establishing such presumption has expired.
+- 2010-05-27 — Amendment SA 4224 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4224 proposed by Senator Inouye for Senator Wicker. (consideration: CR S4503-4505; text: CR S4504) To make a technical correction related to Amtrak security in the Consolidated Appropriations Act, 2010.
+- 2010-05-27 — Amendment SA 4245 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4245 proposed by Senator Inouye for Senator Leahy. (consideration: CR S4503-4505; text: CR S4504) To add a provision relating to commitments of resources by foreign governments.
+- 2010-05-27 — Amendment SA 4246 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4246 proposed by Senator Inouye for Senator Leahy. (consideration: CR S4503-4505; text: CR S4504) To strike a technical clarification.
+- 2010-05-27 — Amendment SA 4248 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4248 proposed by Senator Inouye for Senator Leahy. (consideration: CR S4503-4505; text: CR S4505) To authorize the Secretary of State to award task orders for police training in Afghanistan under current Department of State contracts for police training.
+- 2010-05-27 — Amendment SA 4249 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4249 proposed by Senator Inouye for Senator Leahy. (consideration: CR S4503-4505; text: CR S4504) To modify a condition on the availability for funds to support the work of the Independent Electoral Commission and the Electoral Complaints Commission in Afghanistan.
+- 2010-05-27 — Amendment SA 4251 as modified agreed to in Senate by Unanimous Consent. (text as further modified: CR S4505)
+- 2010-05-27 — Amendment SA 4251 proposed by Senator Inouye for Senator Merkley. (consideration: CR S4503-4505, S4506) To provide funds for drought relief, with an offset.
+- 2010-05-27 — Amendment SA 4253 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 173.
+- 2010-05-27 — Amendment SA 4255 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4255 proposed by Senator Inouye for Senator Isakson. (consideration: CR S4503-4505; text: CR S4504-4505) To make a technical correction.
+- 2010-05-27 — Amendment SA 4259 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4259 proposed by Senator Inouye for Senator Bond. (consideration: CR S4503-4505; text: CR S4504) To require assessments on the detainees at United States Naval Station, Guantanamo Bay, Cuba.
+- 2010-05-27 — Amendment SA 4260 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4260 proposed by Senator Inouye for Senator Lugar. (consideration: CR S4503-4505; text: CR S4504) To clarify that non-military projects in the former Soviet Union for which funding is authorized by this Act for the purpose of engaging scientists and engineers shall be executed through existing science and technology centers.
+- 2010-05-27 — Amendment SA 4273 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 175.
+- 2010-05-27 — Amendment SA 4273 proposed by Senator Burr. (consideration: CR S4502-4503; text: CR S4502) To strike section 901, relating to the transfer of amounts to the Filipino Veterans Equity Compensation Fund.
+- 2010-05-27 — Amendment SA 4280 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Amendment SA 4280 proposed by Senator Inouye for Senator Sanders. (consideration: CR S4503-4505; text: CR S4504) To require the Administrator of the General Services to make publicly available the contractor integrity performance database established under the Clean Contracting Act of 2008.
+- 2010-05-27 — Amendment SA 4287 as modified agreed to in Senate by Unanimous Consent. (consideration: CR S4505)
+- 2010-05-27 — Amendment SA 4287 proposed by Senator Inouye for Senator Shelby. (consideration: CR S4503-4505) To provide fisheries disaster relief, conduct a study on ecosystem services, and conduct an enhanced stock assessment for the Gulf of Mexico fisheries impacted by the Deepwater Horizon oil discharge.
+- 2010-05-27 — Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 60 - 35. Record Vote Number: 174.
+- 2010-05-27 — Amendment SA 4299 proposed by Senator Inouye. (consideration: CR S4502-4503; text: CR S4502) To allow unobligated balances in the Construction, Major Projects account to be utilized for major medical facility projects of the Department of Veterans Affairs otherwise authorized by law.
+- 2010-05-27 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2010-05-27 — Cloture on the committee reported substitute amendment invoked in Senate by Yea-Nay Vote. 69 - 29. Record Vote Number: 171. (consideration: CR S4483; text: CR S4483)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4475-4479)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4479-4481; text as further modified: CR S4479-4480)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4481-4482)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4496-4497)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4496-4497)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474, S4503-4505)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4474-4484, S4484-4507)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4479)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4482-4483)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4483)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4491-4494, S4494-4496, S4501-4502)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4494)
+- 2010-05-27 — Considered by Senate. (consideration: CR S4475, S4503-4505)
+- 2010-05-27 — DeMint motion to suspend Rule XXII to permit the consideration of amendment SA 4177 not agreed to by Yea-Nay Vote. 45 - 52. Record Vote Number: 172. (consideration: CR S4500-4501)
+- 2010-05-27 — Motion to table amendment SA 4231 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 169.
+- 2010-05-27 — Motion to table amendment SA 4232 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 170.
+- 2010-05-27 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4214 rejected in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 165.
+- 2010-05-27 — Motion to waive sect. 403, S. Con. Res. 13, 111th Congress with respect to amendment SA 4228 rejected in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 166.
+- 2010-05-27 — Motion to waive sect. 403, S. Con. Res. 13, 111th Congress, with respect to amendment SA 4202 rejected in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 167.
+- 2010-05-27 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 67 - 28. Record Vote Number: 176. (text: CR 5/28/2010 S4573-4583)
+- 2010-05-27 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 67 - 28. Record Vote Number: 176.(text: CR 5/28/2010 S4573-4583)
+- 2010-05-27 — Point of order raised in Senate with respect to amendment SA 4202.
+- 2010-05-27 — Point of order raised in Senate with respect to amendment SA 4214.
+- 2010-05-27 — Point of order raised in Senate with respect to amendment SA 4228.
+- 2010-05-27 — Proposed amendment SA 4173 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4174 withdrawn in Senate.
+- 2010-05-27 — Proposed amendment SA 4175 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4179 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4180 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4182 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4183 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4191 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4202, under the order of 5/26/2010, having rejected the motion to waive sect. 403, S. Con. Res. 13, 111th Congress, withdrawn in Senate. (consideration: CR S4481)
+- 2010-05-27 — Proposed amendment SA 4214, under the order of 5/26/2010, having rejected the motion to waive all applicable budgetary discipline, withdrawn in Senate. (consideration: CR S4479)
+- 2010-05-27 — Proposed amendment SA 4221 withdrawn in Senate. (consideration: CR S4494)
+- 2010-05-27 — Proposed amendment SA 4228, under the order of 5/26/2010, having rejected the motion to waive sect. 403, S. Con. Res. 13, 111th Congress, withdrawn in Senate. (consideration: CR S4479)
+- 2010-05-27 — Proposed amendment SA 4229 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4230 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4234 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Proposed amendment SA 4289 withdrawn in Senate. (consideration: CR S4503)
+- 2010-05-27 — Roll call votes on amendments in Senate: Amendment SA 4204 not agreed to in Senate by Yea-Nay Vote. 18 - 80. Record Vote Number: 168.
+- 2010-05-27 — Roll call votes on amendments in Senate: Amendment SA 4253 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 173.
+- 2010-05-27 — Roll call votes on amendments in Senate: Amendment SA 4273 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 175.
+- 2010-05-27 — Roll call votes on amendments in Senate: Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 60 - 35. Record Vote Number: 174.
+- 2010-05-27 — Roll call votes on amendments in Senate: Motion to table amendment SA 4231 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 169.
+- 2010-05-27 — Roll call votes on amendments in Senate: Motion to table amendment SA 4232 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 170.
+- 2010-05-27 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4214 rejected in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 165.
+- 2010-05-27 — Roll call votes on amendments in Senate: Motion to waive sect. 403, S. Con. Res. 13, 111th Congress with respect to amendment SA 4228 rejected in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 166.
+- 2010-05-27 — Roll call votes on amendments in Senate: Motion to waive sect. 403, S. Con. Res. 13, 111th Congress, with respect to amendment SA 4202 rejected in Senate by Yea-Nay Vote. 54 - 43. Record Vote Number: 167.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4178 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4184 as modified agreed to in Senate by Unanimous Consent.(text as further modified: CR S4504)
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4200 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4205 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4213 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4505)
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4217 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4222 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4224 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4245 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4246 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4248 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4249 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4251 as modified agreed to in Senate by Unanimous Consent.(text as further modified: CR S4505)
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4253 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 173.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4255 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4259 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4260 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4280 agreed to in Senate by Unanimous Consent.
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4287 as modified agreed to in Senate by Unanimous Consent.(consideration: CR S4505)
+- 2010-05-27 — Senate amendment agreed to: Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 60 - 35. Record Vote Number: 174.
+- 2010-05-27 — Senate amendment not agreed to: Amendment SA 4204 not agreed to in Senate by Yea-Nay Vote. 18 - 80. Record Vote Number: 168.
+- 2010-05-27 — Senate amendment not agreed to: Amendment SA 4273 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 175.
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4178 proposed by Senator Inouye for Senator Reid.(consideration: CR S4503-4505; text: CR S4503)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4200 proposed by Senator Inouye for Senator Byrd.(consideration: CR S4503-4505; text: CR S4505)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4205 proposed by Senator Inouye for Senator Levin.(consideration: CR S4503-4505; text: CR S4503-4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4217 proposed by Senator Inouye for Senator McCain.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4222 proposed by Senator Inouye for Senator Webb.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4224 proposed by Senator Inouye for Senator Wicker.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4245 proposed by Senator Inouye for Senator Leahy.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4246 proposed by Senator Inouye for Senator Leahy.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4248 proposed by Senator Inouye for Senator Leahy.(consideration: CR S4503-4505; text: CR S4505)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4249 proposed by Senator Inouye for Senator Leahy.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4251 proposed by Senator Inouye for Senator Merkley.(consideration: CR S4503-4505, S4506)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4255 proposed by Senator Inouye for Senator Isakson.(consideration: CR S4503-4505; text: CR S4504-4505)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4259 proposed by Senator Inouye for Senator Bond.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4260 proposed by Senator Inouye for Senator Lugar.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4273 proposed by Senator Burr.(consideration: CR S4502-4503; text: CR S4502)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4280 proposed by Senator Inouye for Senator Sanders.(consideration: CR S4503-4505; text: CR S4504)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4287 proposed by Senator Inouye for Senator Shelby.(consideration: CR S4503-4505)
+- 2010-05-27 — Senate amendment proposed (on the floor): Amendment SA 4299 proposed by Senator Inouye.(consideration: CR S4502-4503; text: CR S4502)
+- 2010-05-27 — Senate amendment submitted
+- 2010-05-27 — Senate amendment submitted
+- 2010-05-27 — Senate amendment submitted
+- 2010-05-27 — Senate amendment submitted
+- 2010-05-27 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Mikulski; Kohl; Murray; Dorgan; Feinstein; Durbin; Johnson; Landrieu; Reed; Lautenberg; Nelson NE; Pryor; Tester; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Murkowski. (consideration: CR S4507)
+- 2010-05-27 — The committee substitute as amended agreed to by Unanimous Consent.

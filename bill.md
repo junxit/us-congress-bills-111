@@ -2,14 +2,12 @@
 legis-num: H.R. 4899
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4899
 
 > Making emergency supplemental appropriations for disaster relief and summer jobs for the fiscal year ending September 30, 2010, and for other purposes.
-
-That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2010, and for other purposes, namely:
 
 ## § 101. Rescissions
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Reported to Senate
+version: Public Print
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,8 +44,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 301 of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2241) is amended by striking “through 2010” and inserting “through 2012” in lieu thereof. | the bill names no machine-readable US Code section |
 | — | repeal | The third clause of the proviso directing the expenditure of funds under the heading “Alteration of Bridges” in the Department of Homeland Security Appropriations Act, 2009, is repealed, and from available balances made available for Coa… | the bill names no machine-readable US Code section |
 | — | add-at-end | The Inter-American Development Bank Act, Public Law 86–147, as amended (22 U.S.C. 283 et seq.), is further amended by adding at the end thereof the following new section: | the bill names no machine-readable US Code section |
-| — | replace | The second proviso of section 7081(d) of division F, Public Law 111–117, shall be amended before “this Act” by inserting “title III of”, and by striking “, directly or indirectly,”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “: (1)” before “may obtain an advance” and after “the Coast Guard”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “advance. Amounts” and inserting the following: “advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, w… | the bill names no machine-readable US Code section |
 | — | replace | Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amended by striking “2008” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 205(d) of the Federal Land Transaction Facilitation Act (43 U.S.C. 2304(d)) is amended by striking “10 years” and inserting “11 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 159(b)(2)(C) of title I of division A of the Consolidated Appropriations Act, 2010 (49 U.S.C. 24305 note) is amended by striking clauses (i) and (ii) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 872(e)(1) of the Clean Contracting Act of 2008 (subtitle G of title VIII of Public Law 110–417; 41 U.S.C. 417b(e)(1)) is amended by adding at the end the following: “In addition, the Administrator shall post all such information,… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 31 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
