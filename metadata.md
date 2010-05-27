@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5297
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5297
@@ -16,7 +16,7 @@ Small Business Jobs Act of 2010
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -36,6 +36,8 @@ Small Business Jobs Act of 2010
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 - Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
 ## Committees (1)
 
@@ -46,3 +48,8 @@ Small Business Jobs Act of 2010
 - 2010-05-13 — Introduced in House
 - 2010-05-13 — Introduced in House
 - 2010-05-13 — Referred to the House Committee on Financial Services.
+- 2010-05-19 — Committee Consideration and Mark-up Session Held.
+- 2010-05-19 — Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 23.
+- 2010-05-27 — Placed on the Union Calendar, Calendar No. 283.
+- 2010-05-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-499.
+- 2010-05-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-499.
