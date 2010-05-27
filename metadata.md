@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 553
@@ -34,3 +34,7 @@ Reducing Over-Classification Act
 - 2009-02-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H893-894)
 - 2009-02-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H893-894)
 - 2009-02-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-11-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-200.
+- 2010-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-200.
+- 2010-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
