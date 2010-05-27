@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 4173
@@ -28,7 +28,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - House — Agriculture Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (17)
+## Recorded votes (19)
 
 - 2009-12-10 — [House 111-1-953](votes/house-111-1-0953.md) — On Agreeing to the Amendment — **Agreed to** (240–182)
 - 2009-12-10 — [House 111-1-954](votes/house-111-1-0954.md) — On Agreeing to the Amendment — **Failed** (172–257)
@@ -47,6 +47,8 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2009-12-11 — [House 111-1-967](votes/house-111-1-0967.md) — On Motion to Recommit with Instructions — **Failed** (190–232)
 - 2009-12-11 — [House 111-1-968](votes/house-111-1-0968.md) — On Passage — **Passed** (223–202)
 - 2010-05-20 — [Senate 111-2-162](votes/senate-111-2-0162.md) — On Passage of the Bill — **Bill Passed** (59–39)
+- 2010-05-24 — [Senate 111-2-163](votes/senate-111-2-0163.md) — On the Motion — **Motion Agreed to** (60–30)
+- 2010-05-24 — [Senate 111-2-164](votes/senate-111-2-0164.md) — On the Motion — **Motion Agreed to** (87–4)
 
 ## Actions
 
@@ -306,3 +308,11 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2010-05-20 — Senate amendment submitted
 - 2010-05-20 — Senate insisted on its amendments, requested a conference. (consideration: CR S4078)
 - 2010-05-20 — Senate struck all after the Enacting Clause and substituted the language of S.3217 amended. (consideration: CR S4077)
+- 2010-05-24 — Considered by Senate. (consideration: CR S4130-4140)
+- 2010-05-24 — Motion by Senator Brownback to instruct Senate conferees made in Senate. (consideration: CR S4130-4136, S4138; text: CR S4130)
+- 2010-05-24 — Motion by Senator Brownback to instruct Senate conferees to insist that the final conference report include the House position relating to the exclusion for motor vehicle dealers from the rulemaking, supervisory, enforcement, or other authority granted to the Director of the Consumer Financial Protection Agency, as such exclusion is contained in section 4205 of H.R. 4173, as passed by the House, and that the final conference report preserves the additional provisions, definitions, and protections provided to such motor vehicle dealers and servicemembers and their families in Senate amendment 3789, as further modified, to S. 3217 agreed to in Senate by Yea-Nay Vote. 60 - 30. Record Vote Number: 163.
+- 2010-05-24 — Motion by Senator Hutchison to instruct Senate conferees made in Senate. (consideration: CR S4136-4138, S4138; text: CR S4136)
+- 2010-05-24 — Motion by Senator Hutchison to instruct Senate conferees to insist that the final conference report ensure that proprietary trading restrictions do not prevent insurance company affiliates of depository institutions from engaging in such trading as part of the ordinary business of insurance, especially insurance company affiliates serving military service members and their families, as such restrictions would result in higher costs and significant inconveniences to those sacrificing in service to our country agreed to in Senate by Yea-Nay. 87 - 4. Record Vote Number: 164.
+- 2010-05-25 — Message on Senate action sent to the House.
+- 2010-05-25 — Senate appointed conferee(s) Dodd; Johnson; Reed; Schumer; Shelby; Crapo; Corker; Gregg; Lincoln; Leahy; Harkin; Chambliss. (consideration: CR S4170)
+- 2010-05-27 — Senate ordered measure printed as passed.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Engrossed Amendment Senate
+version: Public Print
 derived: true
 ---
 
