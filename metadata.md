@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 282
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 282
@@ -30,3 +30,4 @@ Providing for an adjournment or recess of the two Houses.
 - 2010-05-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 187 (Roll no. 306).(text: CR H3885)
 - 2010-05-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4562; text as passed Senate: CR S5462)
 - 2010-05-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4562; text as passed Senate: CR S5462)
+- 2010-05-28 — Message on Senate action sent to the House.
