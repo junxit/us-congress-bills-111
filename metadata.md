@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 4213
@@ -235,7 +235,7 @@ Unemployment Compensation Extension Act of 2010
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (17)
+## Recorded votes (19)
 
 - 2009-12-09 — [House 111-1-942](votes/house-111-1-0942.md) — Table Appeal of the Ruling of the Chair — **Passed** (251–172)
 - 2009-12-09 — [House 111-1-943](votes/house-111-1-0943.md) — On Passage — **Passed** (241–181)
@@ -254,6 +254,8 @@ Unemployment Compensation Extension Act of 2010
 - 2010-03-09 — [Senate 111-2-46](votes/senate-111-2-0046.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–34)
 - 2010-03-10 — [Senate 111-2-47](votes/senate-111-2-0047.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–33)
 - 2010-03-10 — [Senate 111-2-48](votes/senate-111-2-0048.md) — On Passage of the Bill — **Bill Passed** (62–36)
+- 2010-05-28 — [House 111-2-324](votes/house-111-2-0324.md) — On concurring in Senate amdt with amdt (except portion comprising section 523) — **Passed** (215–204)
+- 2010-05-28 — [House 111-2-325](votes/house-111-2-0325.md) — On concurring in Senate amdt with portion of amdt comprising section 523 — **Agreed to** (245–171)
 
 ## Actions
 
@@ -625,3 +627,12 @@ Unemployment Compensation Extension Act of 2010
 - 2010-03-10 — Point of order raised in Senate with respect to amendment SA 3368.
 - 2010-03-10 — Point of order raised in Senate with respect to amendment SA 3427.
 - 2010-03-10 — Senate amendment agreed to: Amendment SA 3336 agreed to in Senate by Unanimous Consent.
+- 2010-03-18 — Message on Senate action sent to the House.
+- 2010-05-26 — Senate amendment submitted
+- 2010-05-28 — DEBATE - Pursuant to the provisions of H.Res. 1403, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 4213 with an amendment. Pursuant to the provisions of H.Res. 1403 and at the conclusion of debate on the motion, the Chair will put the question in divided portions.
+- 2010-05-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-28 — Mr. Levin moved that the House agree with an amendment to the Senate amendment. (consideration: CR H4101-4187)
+- 2010-05-28 — On concurring in Senate amendment with amendment (except portion comprising section 523) Agreed to by the Yeas and Nays: 215 - 204 (Roll no. 324). (consideration: CR H4186)
+- 2010-05-28 — On concurring in Senate amendment with portion of amendment comprising section 523 Agreed to by recorded vote: 245 - 171 (Roll no. 325). (consideration: CR H4187)
+- 2010-05-28 — The Chair put the question on consideration of the motion to concur in Senate amendment with an amendment. Agreed to by voice vote.
+- 2010-05-28 — The previous question was ordered pursuant to the rule. (consideration: CR H4186-4187)
