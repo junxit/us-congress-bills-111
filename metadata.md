@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4349
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4349
@@ -71,3 +71,11 @@ Hoover Power Allocation Act of 2010
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Introduced in House
 - 2009-12-16 — Referred to the House Committee on Natural Resources.
+- 2010-01-04 — Referred to the Subcommittee on Water and Power.
+- 2010-03-18 — Subcommittee Hearings Held.
+- 2010-05-05 — Committee Consideration and Mark-up Session Held.
+- 2010-05-05 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-05-05 — Subcommittee on Water and Power Discharged.
+- 2010-05-28 — Placed on the Union Calendar, Calendar No. 287.
+- 2010-05-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-502.
+- 2010-05-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-502.

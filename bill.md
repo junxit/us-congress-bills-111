@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4349
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hoover Power Allocation Act of 2009”.
+This Act may be cited as the “Hoover Power Allocation Act of 2010”.
 
 ## § 2. Allocation of contracts for power
 
@@ -29,29 +29,28 @@ This Act may be cited as the “Hoover Power Allocation Act of 2009”.
   - **(1)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
   - **(2)** by inserting after paragraph (1) the following:
     > - **(2)**
-    >   - **(A)** The Secretary of Energy is authorized to and shall create from the apportioned allocation of contingent capacity and firm energy adjusted from the amounts authorized in this Act in 1984 to the amounts shown in Schedule A and Schedule B, as modified by the Hoover Power Allocation Act of 2009, a resource pool equal to 5 percent of the full rated capacity of 2,074,000 kilowatts, and associated firm energy, as shown in Schedule D (referred to in this section as “Schedule D contingent capacity and firm energy”):
+    >   - **(A)** The Secretary of Energy is authorized to and shall create from the apportioned allocation of contingent capacity and firm energy adjusted from the amounts authorized in this Act in 1984 to the amounts shown in Schedule A and Schedule B, as modified by the Hoover Power Allocation Act of 2010, a resource pool equal to 5 percent of the full rated capacity of 2,074,000 kilowatts, and associated firm energy, as shown in Schedule D (referred to in this section as “Schedule D contingent capacity and firm energy”):
     >   - **(B)** The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as “new allottees”) for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term the marketing area for the Boulder City Area Projects shall have the same meaning as in appendix A of the General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the “Criteria”).
     >   - **(C)**
-    >     - **(i)** Within 18 months of the date of enactment of the Hoover Power Allocation Act of 2009, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as “Western”), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
+    >     - **(i)** Within 36 months of the date of enactment of the Hoover Power Allocation Act of 2010, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as “Western”), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
     >       - **(I)** eligible to enter into contracts under section 5 of the Boulder Canyon Project Act (43 U.S.C. 617d); or
     >       - **(II)** federally recognized Indian tribes.
-    >     - **(ii)** In the case of Arizona and Nevada, Schedule D contingent capacity and firm energy for new allottees shall be offered through the Arizona Power Authority and the Colorado River Commission of Nevada, respectively.
-    >     - **(iii)** In performing its allocation of Schedule D power provided for in this subparagraph, Western shall apply criteria developed in consultation with the States of Arizona, Nevada, and California.
-    >   - **(D)** Within 1 year of the date of enactment of the Hoover Power Allocation Act of 2009, the Secretary of Energy also shall allocate, for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 11.1 percent of the Schedule D contingent capacity and firm energy to each of—
+    >     - **(ii)** In the case of Arizona and Nevada, Schedule D contingent capacity and firm energy for new allottees other than federally recognized Indian tribes shall be offered through the Arizona Power Authority and the Colorado River Commission of Nevada, respectively. Schedule D contingent capacity and firm energy allocated to federally recognized Indian tribes shall be contracted for directly with Western.
+    >   - **(D)** Within 1 year of the date of enactment of the Hoover Power Allocation Act of 2010, the Secretary of Energy also shall allocate, for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 11.1 percent of the Schedule D contingent capacity and firm energy to each of—
     >     - **(i)** the Arizona Power Authority for allocation to new allottees in the State of Arizona;
     >     - **(ii)** the Colorado River Commission of Nevada for allocation to new allottees in the State of Nevada; and
-    >     - **(iii)** Western for allocation to new allottees within the State of California.
+    >     - **(iii)** Western for allocation to new allottees within the State of California, provided that Western shall have 36 months to complete such allocation.
     >   - **(E)** Each contract offered pursuant to this subsection shall include a provision requiring the new allottee to pay a proportionate share of its State’s respective contribution (determined in accordance with each State’s applicable funding agreement) to the cost of the Lower Colorado River Multi-Species Conservation Program (as defined in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327)), and to execute the Boulder Canyon Project Implementation Agreement Contract No. 95–PAO–10616 (referred to in this section as the “Implementation Agreement”).
     >   - **(F)** Any of the 66.7 percent of Schedule D contingent capacity and firm energy that is to be allocated by Western that is not allocated and placed under contract by October 1, 2017, shall be returned to those contractors shown in Schedule A and Schedule B in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy. Any of the 33.3 percent of Schedule D contingent capacity and firm energy that is to be distributed within the States of Arizona, Nevada, and California that is not allocated and placed under contract by October 1, 2017, shall be returned to the Schedule A and Schedule B contractors within the State in which the Schedule D contingent capacity and firm energy were to be distributed, in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy.
 
 - **(e)** *Total obligations* Paragraph (3) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
-  - **(1)** in the first sentence, by striking “schedule A of subsection (a)(1)(A) of this section and schedule B of subsection (a)(1)(B) of this section” and inserting “pursuant to paragraphs (1)(A), (1)(B), and (2)”; and
+  - **(1)** in the first sentence, by striking “schedule A of section 105(a)(1)(A) and schedule B of section 105(a)(1)(B)” and inserting “paragraphs (1)(A), (1)(B), and (2)”; and
   - **(2)** in the second sentence—
     - **(A)** by striking “any” and inserting “each”;
     - **(B)** by striking “schedule C” and inserting “Schedule C”; and
     - **(C)** by striking “schedules A and B” and inserting “Schedules A, B, and D”.
 - **(f)** *Power marketing criteria* Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended to read as follows:
-  > - **(4)** Subdivision E of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2009. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
+  > - **(4)** Subdivision E of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2010. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
 
 - **(g)** *Contract terms* Paragraph (5) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
   - **(1)** by striking subparagraph (A) and inserting the following:
@@ -64,7 +63,7 @@ This Act may be cited as the “Hoover Power Allocation Act of 2009”.
   - **(4)** by adding at the end the following:
     > - **(D)** authorize and require Western to collect from new allottees a pro rata share of Hoover Dam repayable advances paid for by contractors prior to October 1, 2017, and remit such amounts to the contractors that paid such advances in proportion to the amounts paid by such contractors as specified in section 6.4 of the Implementation Agreement;
     > - **(E)** permit transactions with an independent system operator; and
-    > - **(F)** contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover Power Plant that were made in accordance with this Act and are in existence on the date of enactment of the Hoover Power Allocation Act of 2009.
+    > - **(F)** contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover Power Plant that were made in accordance with this Act and are in existence on the date of enactment of the Hoover Power Allocation Act of 2010.
 
 - **(h)** *Existing rights* Section 105(b) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(b)) is amended by striking “2017” and inserting “2067”.
 - **(i)** *Offers* Section 105(c) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(c)) is amended to read as follows:
@@ -79,7 +78,7 @@ This Act may be cited as the “Hoover Power Allocation Act of 2009”.
 - **(l)** *Continued congressional oversight* Subsection (e) of section 105 of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a)) (as redesignated by subsection (k)(2)) is amended—
   - **(1)** in the first sentence, by striking “the renewal of”; and
   - **(2)** in the second sentence, by striking “June 1, 1987, and ending September 30, 2017” and inserting “October 1, 2017, and ending September 30, 2067”.
-- **(m)** *Court challenges* Subsection (f)(1) of section 105 of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a) (as redesignated by subsection (k)(2)) is amended in the first sentence by striking “this Act” and inserting “the Hoover Power Allocation Act of 2009”.
+- **(m)** *Court challenges* Subsection (f)(1) of section 105 of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a) (as redesignated by subsection (k)(2)) is amended in the first sentence by striking “this Act” and inserting “the Hoover Power Allocation Act of 2010”.
 - **(n)** *Reaffirmation of congressional declaration of purpose* Subsection (g) of section 105 of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a) (as redesignated by subsection (k)(2)) is amended—
   - **(1)** by striking “subsections (c), (g), and (h) of this section” and inserting “this Act”; and
   - **(2)** by striking “June 1, 1987, and ending September 30, 2017” and inserting “October 1, 2017, and ending September 30, 2067”.
