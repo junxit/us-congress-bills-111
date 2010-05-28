@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5136
@@ -23,6 +23,22 @@ National Defense Authorization Act for Fiscal Year 2011
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (13)
+
+- 2010-05-27 — [House 111-2-310](votes/house-111-2-0310.md) — On Agreeing to the Amendment — **Agreed to** (421–0)
+- 2010-05-27 — [House 111-2-311](votes/house-111-2-0311.md) — On Agreeing to the Amendment — **Agreed to** (423–0)
+- 2010-05-27 — [House 111-2-312](votes/house-111-2-0312.md) — On Agreeing to the Amendment — **Agreed to** (341–85)
+- 2010-05-27 — [House 111-2-313](votes/house-111-2-0313.md) — On Agreeing to the Amendment — **Agreed to** (410–8)
+- 2010-05-27 — [House 111-2-314](votes/house-111-2-0314.md) — On Agreeing to the Amendment — **Agreed to** (372–52)
+- 2010-05-27 — [House 111-2-315](votes/house-111-2-0315.md) — On Agreeing to the Amendment — **Agreed to** (218–210)
+- 2010-05-27 — [House 111-2-316](votes/house-111-2-0316.md) — On Agreeing to the Amendment — **Failed** (193–231)
+- 2010-05-27 — [House 111-2-317](votes/house-111-2-0317.md) — On Agreeing to the Amendment — **Agreed to** (234–194)
+- 2010-05-27 — [House 111-2-318](votes/house-111-2-0318.md) — On Agreeing to the Amendment — **Agreed to** (253–172)
+- 2010-05-28 — [House 111-2-333](votes/house-111-2-0333.md) — On Agreeing to the En Bloc Amendments, as Modified — **Agreed to** (416–1)
+- 2010-05-28 — [House 111-2-334](votes/house-111-2-0334.md) — Table Appeal of the Ruling of the Chair — **Passed** (227–183)
+- 2010-05-28 — [House 111-2-335](votes/house-111-2-0335.md) — On Motion to Recommit with Instructions — **Passed** (282–131)
+- 2010-05-28 — [House 111-2-336](votes/house-111-2-0336.md) — On Passage — **Passed** (229–186)
 
 ## Actions
 
@@ -50,3 +66,238 @@ National Defense Authorization Act for Fiscal Year 2011
 - 2010-05-21 — Placed on the Union Calendar, Calendar No. 279.
 - 2010-05-21 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-491, Part I.
 - 2010-05-21 — Reported (Amended) by the Committee on Armed Services. H. Rept. 111-491, Part I.
+- 2010-05-26 — PERMISSION TO FILE SUPPLEMENTAL REPORT - Mr. Marshall asked unanimous consent that the Committee on Armed Services may have permission to file a supplemental report on H.R. 5136. Agreed to without objection.
+- 2010-05-26 — Rules Committee Resolution H. Res. 1404 Reported to House. Rule provides for consideration of H.R. 5136 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI.
+- 2010-05-26 — Supplemental report filed by the Committee on Armed Services, H. Rept. 111-491, Part II.
+- 2010-05-26 — Supplemental report filed by the Committee on Armed Services, H. Rept. 111-491, Part II.
+- 2010-05-27 — Amendment (A001) offered by Mr. Skelton. (consideration: CR H3984-3986, H4013; text: CR H3984)
+- 2010-05-27 — Amendment (A002) offered by Mr. Bartlett. (consideration: CR H3986; text: CR H3986)
+- 2010-05-27 — Amendment (A003) offered by Mr. Smith (WA). (consideration: CR H3986-3988; text: CR H3986-3987)
+- 2010-05-27 — Amendment (A004) offered by Mr. Marshall. (consideration: CR H3988-3990, H4013-4014; text: CR H3988)
+- 2010-05-27 — Amendment (A006) offered by Mr. McGovern. (consideration: CR H4001-4003, H4014-4015; text: CR H44001)
+- 2010-05-27 — Amendment (A008) offered by Ms. Pingree (ME). (consideration: CR H4008-4011, CR 5/28/2010 H4062; text: CR H4008)
+- 2010-05-27 — Amendment (A009) offered by Mr. Inslee. (consideration: CR H4011-4013, CR 5/28/2010 H4060; text: CR H4011)
+- 2010-05-27 — Amendment (A012) offered by Mr. Gutierrez. (consideration: CR 5/28/2010 H4031-4032, H4060-4061; text: CR 5/28/2010 H4031)
+- 2010-05-27 — Amendment (A013) offered by Ms. Eshoo. (consideration: CR 5/28/2010 H4032-4035, H4061-4062; text: CR 5/28/2010 H4032-4033)
+- 2010-05-27 — Amendment (A014) offered by Mr. Sarbanes. (consideration: CR 5/28/2010 H4035-4038, H4063-4064; text: CR 5/28/2010 H4035-4037)
+- 2010-05-27 — Amendment (A017) offered by Mr. McMahon. (consideration: CR 5/28/2010 H4048-4050; text: CR  5/28/2010 H4048-4049)
+- 2010-05-27 — Amendment (A019) offered by Mr. Murphy, Patrick. (consideration: CR 5/28/2010 H4055-4056, H4062-4063; text: CR 5/28/2010 H4055-4056)
+- 2010-05-27 — Amendment (A021) offered by Mr. Teague. (consideration: CR 5/28/2010 H4067-4068; text: CR 5/28/2010 H4067)
+- 2010-05-27 — Amendment (A022) offered by Ms. Shea-Porter. (consideration: CR 5/28/2010 H4068; text: CR 5/28/2010 H4068)
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment agreed to Committee of the Whole
+- 2010-05-27 — Amendment failed in Committee of the Whole
+- 2010-05-27 — Amendments en bloc (A005) offered by Mr. Skelton. (consideration: CR H3990-4001; text as en bloc: CR H3990-3997)
+- 2010-05-27 — Amendments en bloc (A007) offered by Mr. Skelton. (consideration: CR H4003-4008; text as en bloc: CR H4003-4004)
+- 2010-05-27 — Amendments en bloc (A010) offered by Mr. Andrews. (consideration: CR H4015-4019; text as en bloc: CR H4015-4016)
+- 2010-05-27 — Amendments en bloc (A011) offered by Mr. Andrews. (consideration: CR 5/28/2010 H4026-4031; text as en block: CR 5/28/2010 H4026-4027)
+- 2010-05-27 — Amendments en bloc (A015) offered by Mr. Andrews. (consideration: CR 5/28/2010 H4038-4043; text as en bloc: CR 5/28/2010 H4038-4040)
+- 2010-05-27 — Amendments en bloc (A016) offered by Mr. Andrews. (consideration: CR 5/28/2010 H4043-4048; text as en bloc: CR 5/28/2010 H4043-4045)
+- 2010-05-27 — Amendments en bloc (A018) offered by Mr. Skelton. (consideration: CR 5/28/2010 H4050-4055; text as en bloc: CR 5/28/2010 H4050-4051)
+- 2010-05-27 — Amendments en bloc (A020) offered by Mr. Skelton. (consideration: CR 5/28/2010 H4064-4067; text as en bloc: CR 5/28/2010 H4064-4066)
+- 2010-05-27 — Amendments en bloc (A023) offered by Mr. Skelton. (consideration: CR 5/28/2010 H4068-4076; text as en bloc: CR 5/28/2010 H4068-4073)
+- 2010-05-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 5136 as unfinished business.
+- 2010-05-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 5136 as unfinished business.
+- 2010-05-27 — Considered as unfinished business. (consideration: CR 5/28/2010 H4064-4076)
+- 2010-05-27 — Considered under the provisions of rule H. Res. 1404. (consideration: CR H3887-4019, CR 5/28/2010 H4025-4064)
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Bartlett amendment number 2.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Eshoo amendment No. 42.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Inslee amendment No. 82.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Marshall amendment number 4.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment number 13.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Pingree amendment No. 80.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Skelton amendment number 1.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment number 3.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 20 minutes of debate on the Andrews en bloc amendments No. 3
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 20 minutes of debate on the Andrews en bloc amendments No. 4.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 20 minutes of debate on the Skelton amendments en bloc number 1.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404 the Committee of the Whole proceeded with 20 minutes of debate on the Skelton amendments en bloc number 2.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the Gutierrez amendment No. 21.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the McMahon amendment No. 62.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the Patrick Murphy (PA) amendment No. 79.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the Sarbanes amendment No. 47.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter amendment No. 81.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 10 minutes of debate on the Teague amendment No. 68.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 20 minutes of debate on the Andrews en bloc amendments No. 5.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 20 minutes of debate on the Andrews en bloc amendments No. 6.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton en bloc amendments No. 7.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton en bloc amendments No. 8.
+- 2010-05-27 — DEBATE - Pursuant to the provisions of H.Res. 1404, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton en bloc amendments No. 9.
+- 2010-05-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5136.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Andrews amendments (A010) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Andrews amendments (A011) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Andrews amendments (A015) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Andrews amendments (A016) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Bartlett amendment (A002) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Eshoo amendment (A013) Agreed to by recorded vote: 218 - 210 (Roll no. 315).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Gutierrez amendment (A012) Agreed to by recorded vote: 372 - 52 (Roll no. 314).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Inslee amendment (A009) Agreed to by recorded vote: 410 - 8 (Roll no. 313).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Marshall amendment (A004) Agreed to by recorded vote: 423 - 0 (Roll no. 311).
+- 2010-05-27 — House amendment agreed to: On agreeing to the McGovern amendment (A006) Agreed to by recorded vote: 341 - 85 (Roll no. 312).
+- 2010-05-27 — House amendment agreed to: On agreeing to the McMahon amendment (A017) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Murphy, Patrick amendment (A019) Agreed to by recorded vote: 234 - 194 (Roll no. 317).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Sarbanes amendment (A014) Agreed to by recorded vote: 253 - 172 (Roll no. 318).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Skelton amendment (A001) Agreed to by recorded vote: 421 - 0 (Roll no. 310).
+- 2010-05-27 — House amendment agreed to: On agreeing to the Skelton amendments (A005) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Skelton amendments (A007) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Skelton amendments (A018) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Skelton amendments (A020) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A003) Agreed to by voice vote.
+- 2010-05-27 — House amendment agreed to: On agreeing to the Teague amendment (A021) Agreed to by voice vote.
+- 2010-05-27 — House amendment not agreed to: On agreeing to the Pingree (ME) amendment (A008) Failed by recorded vote: 193 - 231, 3 Present (Roll no. 316).
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered
+- 2010-05-27 — House amendment offered/reported by : Amendment (A001) offered by Mr. Skelton.(consideration: CR H3984-3986, H4013; text: CR H3984)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A002) offered by Mr. Bartlett.(consideration: CR H3986; text: CR H3986)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A003) offered by Mr. Smith (WA).(consideration: CR H3986-3988; text: CR H3986-3987)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A004) offered by Mr. Marshall.(consideration: CR H3988-3990, H4013-4014; text: CR H3988)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A006) offered by Mr. McGovern.(consideration: CR H4001-4003, H4014-4015; text: CR H44001)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A008) offered by Ms. Pingree (ME).(consideration: CR H4008-4011, CR 5/28/2010 H4062; text: CR H4008)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A009) offered by Mr. Inslee.(consideration: CR H4011-4013, CR 5/28/2010 H4060; text: CR H4011)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A012) offered by Mr. Gutierrez.(consideration: CR 5/28/2010 H4031-4032, H4060-4061; text: CR 5/28/2010 H4031)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A013) offered by Ms. Eshoo.(consideration: CR 5/28/2010 H4032-4035, H4061-4062; text: CR 5/28/2010 H4032-4033)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A014) offered by Mr. Sarbanes.(consideration: CR 5/28/2010 H4035-4038, H4063-4064; text: CR 5/28/2010 H4035-4037)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A017) offered by Mr. McMahon.(consideration: CR 5/28/2010 H4048-4050; text: CR  5/28/2010 H4048-4049)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A019) offered by Mr. Murphy, Patrick.(consideration: CR 5/28/2010 H4055-4056, H4062-4063; text: CR 5/28/2010 H4055-4056)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A021) offered by Mr. Teague.(consideration: CR 5/28/2010 H4067-4068; text: CR 5/28/2010 H4067)
+- 2010-05-27 — House amendment offered/reported by : Amendment (A022) offered by Ms. Shea-Porter.(consideration: CR 5/28/2010 H4068; text: CR 5/28/2010 H4068)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A005) offered by Mr. Skelton.(consideration: CR H3990-4001; text as en bloc: CR H3990-3997)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A007) offered by Mr. Skelton.(consideration: CR H4003-4008; text as en bloc: CR H4003-4004)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A010) offered by Mr. Andrews.(consideration: CR H4015-4019; text as en bloc: CR H4015-4016)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A011) offered by Mr. Andrews.(consideration: CR 5/28/2010 H4026-4031; text as en block: CR 5/28/2010 H4026-4027)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A015) offered by Mr. Andrews.(consideration: CR 5/28/2010 H4038-4043; text as en bloc: CR 5/28/2010 H4038-4040)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A016) offered by Mr. Andrews.(consideration: CR 5/28/2010 H4043-4048; text as en bloc: CR 5/28/2010 H4043-4045)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A018) offered by Mr. Skelton.(consideration: CR 5/28/2010 H4050-4055; text as en bloc: CR 5/28/2010 H4050-4051)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A020) offered by Mr. Skelton.(consideration: CR 5/28/2010 H4064-4067; text as en bloc: CR 5/28/2010 H4064-4066)
+- 2010-05-27 — House amendment offered/reported by : Amendments en bloc (A023) offered by Mr. Skelton.(consideration: CR 5/28/2010 H4068-4076; text as en bloc: CR 5/28/2010 H4068-4073)
+- 2010-05-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1404 and Rule XVIII.
+- 2010-05-27 — Mr. Skelton moved that the Committee now rise.
+- 2010-05-27 — Mr. Skelton moved that the Committee now rise.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Andrews gave notice that amendment numbered 79 may be offered out of order.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Skelton asked unanimous consent that during further consideration of H.R. 5136 in the Committee of the Whole, and following consideration of Amendment No. 4 printed in House Report 111-498, the following amendments be considered: Amendments en bloc No. 1, Amendment numbered 13 printed in House Report 111-498, Amendments en bloc No. 2, and Amendments en bloc No. 3. Agreed to without objection.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Skelton gave notice that amendments numbered 15 and 62 may be offered out of order.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Skelton gave notice that amendments numbered 21, 42, and 47 may be offered out of order.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Skelton gave notice that amendments numbered 68 and 81 may be offered out of order.
+- 2010-05-27 — ORDER OF PROCEDURE - Pursuant to section 4 of H. Res. 1404, Mr. Skelton gave notice that amendments numbered 80 and 82 may be offered out of order.
+- 2010-05-27 — On agreeing to the Andrews amendments (A010) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Andrews amendments (A011) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Andrews amendments (A015) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Andrews amendments (A016) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Bartlett amendment (A002) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Eshoo amendment (A013) Agreed to by recorded vote: 218 - 210 (Roll no. 315).
+- 2010-05-27 — On agreeing to the Gutierrez amendment (A012) Agreed to by recorded vote: 372 - 52 (Roll no. 314).
+- 2010-05-27 — On agreeing to the Inslee amendment (A009) Agreed to by recorded vote: 410 - 8 (Roll no. 313).
+- 2010-05-27 — On agreeing to the Marshall amendment (A004) Agreed to by recorded vote: 423 - 0 (Roll no. 311).
+- 2010-05-27 — On agreeing to the McGovern amendment (A006) Agreed to by recorded vote: 341 - 85 (Roll no. 312).
+- 2010-05-27 — On agreeing to the McMahon amendment (A017) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Murphy, Patrick amendment (A019) Agreed to by recorded vote: 234 - 194 (Roll no. 317).
+- 2010-05-27 — On agreeing to the Pingree (ME) amendment (A008) Failed by recorded vote: 193 - 231, 3 Present (Roll no. 316).
+- 2010-05-27 — On agreeing to the Sarbanes amendment (A014) Agreed to by recorded vote: 253 - 172 (Roll no. 318).
+- 2010-05-27 — On agreeing to the Skelton amendment (A001) Agreed to by recorded vote: 421 - 0 (Roll no. 310).
+- 2010-05-27 — On agreeing to the Skelton amendments (A005) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Skelton amendments (A007) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Skelton amendments (A018) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Skelton amendments (A020) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Smith (WA) amendment (A003) Agreed to by voice vote.
+- 2010-05-27 — On agreeing to the Teague amendment (A021) Agreed to by voice vote.
+- 2010-05-27 — On motion that the Committee now rise Agreed to by voice vote.
+- 2010-05-27 — On motion that the Committee now rise Agreed to by voice vote.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Eshoo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thorberry demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gutierrez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gutierrez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Inslee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Inslee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Marshall amendment number 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Marshall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment number 13, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Patrick Murphy (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pingree amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sarbanes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Issa demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shea-Porter amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Shea-Porter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Skelton amendment number 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Skelton en bloc amendments, the Chair put the question on adoption of the amendments and by voice vote, announced that the ayes had prevailed. Mr. Skelton demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Roll call votes on amendments in House
+- 2010-05-27 — Rule H. Res. 1404 passed House.
+- 2010-05-27 — Rule provides for consideration of H.R. 5136 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI.
+- 2010-05-27 — The Committee of the Whole resumed debate on the Andrews en bloc amendments No. 4.
+- 2010-05-27 — The Committee of the Whole resumed debate on the Andrews en bloc amendments No. 4.
+- 2010-05-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-05-27 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
+- 2010-05-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-05-28 — Amendment (A024) offered by Mr. Skelton. (consideration: CR H4198; text: CR H4198)
+- 2010-05-28 — Amendment agreed to Committee of the Whole
+- 2010-05-28 — Amendment agreed to Committee of the Whole
+- 2010-05-28 — Amendment agreed to by House: On agreeing to the Skelton amendment (A024) Agreed to by voice vote.
+- 2010-05-28 — Considered as unfinished business. (consideration: CR H4194-4199)
+- 2010-05-28 — DEBATE - The House proceeded with 10 minutes of debate on the Forbes motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to prohibit the use of funds for the transfer or release of individuals detained at United States Station, Guantanamo Bay, Cuba.
+- 2010-05-28 — House amendment agreed to: On agreeing to the Shea-Porter amendment (A022) Agreed to by voice vote.
+- 2010-05-28 — House amendment agreed to: On agreeing to the Skelton amendment (A024) Agreed to by voice vote.
+- 2010-05-28 — House amendment agreed to: On agreeing to the Skelton amendments (A023) Agreed to by recorded vote: 416 - 1 (Roll no. 333).(consideration: CR H4194-4195)
+- 2010-05-28 — House amendment offered
+- 2010-05-28 — House amendment offered/reported by : Amendment (A024) offered by Mr. Skelton.(consideration: CR H4198; text: CR H4198)
+- 2010-05-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-28 — Mr. Forbes moved to recommit with instructions to Armed Services. (consideration: CR H4197-4198; text: CR H4197)
+- 2010-05-28 — Mr. Skelton asked unanimous consent that the demand for a recorded vote on the Shea-Porter amendment numbered 81 be withdrawn. Agreed to without objection.
+- 2010-05-28 — Mr. Skelton moved to table the motion to appeal the ruling of the chair
+- 2010-05-28 — Mr. Skelton raised a point of order against the motion to recommit with instructions. Mr.Skelton stated that the motion was not germane to the bill Sustained by the Chair.
+- 2010-05-28 — Mrs. Bachmann appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2010-05-28 — Mrs. Bachmann moved to recommit with instructions to Armed Services. (consideration: CR H4195-4197; text: CR H4195)
+- 2010-05-28 — On agreeing to the Shea-Porter amendment (A022) Agreed to by voice vote.
+- 2010-05-28 — On agreeing to the Skelton amendment (A024) Agreed to by voice vote.
+- 2010-05-28 — On agreeing to the Skelton amendments (A023) Agreed to by recorded vote: 416 - 1 (Roll no. 333). (consideration: CR H4194-4195)
+- 2010-05-28 — On motion to recommit with instructions Agreed to by recorded vote: 282 - 131 (Roll no. 335).
+- 2010-05-28 — On motion to table the motion to appeal the ruling of the chair Agreed to by recorded vote: 227 - 183 (Roll no. 334).
+- 2010-05-28 — On passage Passed by recorded vote: 229 - 186 (Roll no. 336).
+- 2010-05-28 — Passed/agreed to in House: On passage Passed by recorded vote: 229 - 186 (Roll no. 336).
+- 2010-05-28 — Point of order sustained against the motion to recommit with instructions.
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5136. (consideration: CR H4200)
+- 2010-05-28 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 5/27/2010 H3900-3984)
+- 2010-05-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-05-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5136.
+- 2010-05-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4198)
+- 2010-05-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Skelton en bloc amendment numbered 9 which had been debated earlier and on which further proceedings had been postponed.
