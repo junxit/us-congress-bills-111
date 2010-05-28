@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5116
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5116
@@ -125,6 +125,25 @@ America COMPETES Reauthorization Act of 2010
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (16)
+
+- 2010-05-12 — [House 111-2-262](votes/house-111-2-0262.md) — On Agreeing to the Amendment — **Agreed to** (417–6)
+- 2010-05-12 — [House 111-2-263](votes/house-111-2-0263.md) — On Agreeing to the Amendment — **Failed** (163–258)
+- 2010-05-12 — [House 111-2-264](votes/house-111-2-0264.md) — On Agreeing to the Amendment — **Agreed to** (254–173)
+- 2010-05-12 — [House 111-2-265](votes/house-111-2-0265.md) — On Agreeing to the Amendment — **Agreed to** (250–174)
+- 2010-05-12 — [House 111-2-266](votes/house-111-2-0266.md) — On Agreeing to the Amendment — **Agreed to** (413–10)
+- 2010-05-13 — [House 111-2-267](votes/house-111-2-0267.md) — On Agreeing to the Amendment — **Agreed to** (248–171)
+- 2010-05-13 — [House 111-2-268](votes/house-111-2-0268.md) — On Agreeing to the Amendment — **Agreed to** (419–0)
+- 2010-05-13 — [House 111-2-269](votes/house-111-2-0269.md) — On Agreeing to the Amendment — **Agreed to** (419–0)
+- 2010-05-13 — [House 111-2-270](votes/house-111-2-0270.md) — On Motion to Recommit with Instructions — **Passed** (292–126)
+- 2010-05-28 — [House 111-2-326](votes/house-111-2-0326.md) — First Portion of the Divided Question, Proposing to Strike Section 228 — **Failed** (175–243)
+- 2010-05-28 — [House 111-2-327](votes/house-111-2-0327.md) — Second Portion of the Divided Question, Proposing to Strike Sections 406(b) and (c) — **Failed** (163–244)
+- 2010-05-28 — [House 111-2-328](votes/house-111-2-0328.md) — Sixth Portion of the Divided Question, Proposing to Amend Section 702 — **Failed** (197–215)
+- 2010-05-28 — [House 111-2-329](votes/house-111-2-0329.md) — Seventh Portion of the Divided Question, Proposing to Add a Section 704 — **Passed** (409–0)
+- 2010-05-28 — [House 111-2-330](votes/house-111-2-0330.md) — Eighth Portion of the Divided Question, Proposing to Add a Section 705 — **Passed** (348–68)
+- 2010-05-28 — [House 111-2-331](votes/house-111-2-0331.md) — Ninth Portion of the Divided Question, Proposing to Add a Section 706 — **Failed** (181–234)
+- 2010-05-28 — [House 111-2-332](votes/house-111-2-0332.md) — On Passage — **Passed** (262–150)
+
 ## Actions
 
 - 2010-04-22 — Introduced in House
@@ -138,3 +157,207 @@ America COMPETES Reauthorization Act of 2010
 - 2010-05-07 — Placed on the Union Calendar, Calendar No. 271.
 - 2010-05-07 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-478, Part I.
 - 2010-05-07 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-478, Part I.
+- 2010-05-11 — Rules Committee Resolution H. Res. 1344 Reported to House. Rule provides for consideration of H.R. 5116 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution.
+- 2010-05-12 — Amendment (A001) offered by Mr. Gordon (TN). (consideration: CR H3388-3391; text: CR H3388-3389)
+- 2010-05-12 — Amendment (A003) offered by Mr. Hall (TX). (consideration: CR H3393, H3405-3406; text: CR H3393)
+- 2010-05-12 — Amendment (A004) offered by Mr. Gordon (TN). (consideration: CR H3393-3394; text: CR H3394)
+- 2010-05-12 — Amendment (A005) offered by Mr. Gordon (TN). (consideration: CR H3394-3396; text: CR H3394-3395)
+- 2010-05-12 — Amendment (A006) offered by Mr. Markey (MA). (consideration: CR H3396-3398, H3407; text: CR H3396-3397)
+- 2010-05-12 — Amendment (A007) offered by Mr. Miller, George. (consideration: CR H3398-3400, H3407-3408; text: CR H3398-3399)
+- 2010-05-12 — Amendment (A008) offered by Mr. Reyes. (consideration: CR H3400-3401, H3408-3409; text: CR H3400)
+- 2010-05-12 — Amendment (A010) offered by Mr. Gingrey (GA). (consideration: CR H3403-3404; text: CR H3403)
+- 2010-05-12 — Amendment (A011) offered by Mr. Boccieri. (consideration: CR H3404-3405; text: CR H3404)
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment agreed to Committee of the Whole
+- 2010-05-12 — Amendment failed in Committee of the Whole
+- 2010-05-12 — Amendments en bloc (A002) offered by Mr. Gordon (TN). (consideration: CR H3391-3393; text of amendments en bloc: CR H3391-3392)
+- 2010-05-12 — Amendments en bloc (A009) offered by Mr. Gordon (TN). (consideration: CR H3401-3403; text of amendments en bloc: CR H3401-3402)
+- 2010-05-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 5116 as unfinished business.
+- 2010-05-12 — Considered under the provisions of rule H. Res. 1344. (consideration: CR H3356-3409)
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H. Res. 1344, the Committee of the Whole House proceeded with 40 minutes of debate on the Gordon amendment number 1.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Boccieri amendment number 34.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the George Miller amendment number 12.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Gingrey (GA) amendment number 21.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Gordon (TN) amendment number 7.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Gordon (TN) amendment number 8.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Gordon (TN) amendments en bloc.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Gordon amendments en bloc number 1.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Hall (TX) amendment number 6.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Markey (MA) amendment number 10.
+- 2010-05-12 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Reyes amendment number 13.
+- 2010-05-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5116.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gingrey (GA) amendment (A010) Agreed to by voice vote.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gordon (TN) amendment (A001) Agreed to by recorded vote: 417 - 6 (Roll no. 262).
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gordon (TN) amendment (A004) Agreed to by voice vote.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gordon (TN) amendment (A005) Agreed to by voice vote.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gordon (TN) amendments (A002) Agreed to by voice vote.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Gordon (TN) amendments (A009) Agreed to by voice vote.
+- 2010-05-12 — House amendment agreed to: On agreeing to the Markey (MA) amendment (A006) Agreed to by recorded vote: 254 - 173 (Roll no. 264).
+- 2010-05-12 — House amendment agreed to: On agreeing to the Miller, George amendment (A007) Agreed to by recorded vote: 250 - 174 (Roll no. 265).
+- 2010-05-12 — House amendment agreed to: On agreeing to the Reyes amendment (A008) Agreed to by recorded vote: 413 - 10 (Roll no. 266).
+- 2010-05-12 — House amendment not agreed to: On agreeing to the Hall (TX) amendment (A003) Failed by recorded vote: 163 - 258 (Roll no. 263).
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered
+- 2010-05-12 — House amendment offered/reported by : Amendment (A001) offered by Mr. Gordon (TN).(consideration: CR H3388-3391; text: CR H3388-3389)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A003) offered by Mr. Hall (TX).(consideration: CR H3393, H3405-3406; text: CR H3393)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A004) offered by Mr. Gordon (TN).(consideration: CR H3393-3394; text: CR H3394)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A005) offered by Mr. Gordon (TN).(consideration: CR H3394-3396; text: CR H3394-3395)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A006) offered by Mr. Markey (MA).(consideration: CR H3396-3398, H3407; text: CR H3396-3397)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A007) offered by Mr. Miller, George.(consideration: CR H3398-3400, H3407-3408; text: CR H3398-3399)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A008) offered by Mr. Reyes.(consideration: CR H3400-3401, H3408-3409; text: CR H3400)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A010) offered by Mr. Gingrey (GA).(consideration: CR H3403-3404; text: CR H3403)
+- 2010-05-12 — House amendment offered/reported by : Amendment (A011) offered by Mr. Boccieri.(consideration: CR H3404-3405; text: CR H3404)
+- 2010-05-12 — House amendment offered/reported by : Amendments en bloc (A002) offered by Mr. Gordon (TN).(consideration: CR H3391-3393; text of amendments en bloc: CR H3391-3392)
+- 2010-05-12 — House amendment offered/reported by : Amendments en bloc (A009) offered by Mr. Gordon (TN).(consideration: CR H3401-3403; text of amendments en bloc: CR H3401-3402)
+- 2010-05-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1344 and Rule XVIII.
+- 2010-05-12 — Mr. Gordon (TN) moved that the committee rise.
+- 2010-05-12 — On agreeing to the Gingrey (GA) amendment (A010) Agreed to by voice vote.
+- 2010-05-12 — On agreeing to the Gordon (TN) amendment (A001) Agreed to by recorded vote: 417 - 6 (Roll no. 262).
+- 2010-05-12 — On agreeing to the Gordon (TN) amendment (A004) Agreed to by voice vote.
+- 2010-05-12 — On agreeing to the Gordon (TN) amendment (A005) Agreed to by voice vote.
+- 2010-05-12 — On agreeing to the Gordon (TN) amendments (A002) Agreed to by voice vote.
+- 2010-05-12 — On agreeing to the Gordon (TN) amendments (A009) Agreed to by voice vote.
+- 2010-05-12 — On agreeing to the Hall (TX) amendment (A003) Failed by recorded vote: 163 - 258 (Roll no. 263).
+- 2010-05-12 — On agreeing to the Markey (MA) amendment (A006) Agreed to by recorded vote: 254 - 173 (Roll no. 264).
+- 2010-05-12 — On agreeing to the Miller, George amendment (A007) Agreed to by recorded vote: 250 - 174 (Roll no. 265).
+- 2010-05-12 — On agreeing to the Reyes amendment (A008) Agreed to by recorded vote: 413 - 10 (Roll no. 266).
+- 2010-05-12 — On motion that the committee rise Agreed to by voice vote.
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boccieri amendment number 34, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hall (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the George Miller amendment number 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hall (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gordon (TN) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gordon (TN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hall (TX) amendment number 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hall (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey (MA) amendment number 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hall (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day
+- 2010-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Reyes amendment number 13, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Reyes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-12 — Roll call votes on amendments in House
+- 2010-05-12 — Roll call votes on amendments in House
+- 2010-05-12 — Roll call votes on amendments in House
+- 2010-05-12 — Roll call votes on amendments in House
+- 2010-05-12 — Roll call votes on amendments in House
+- 2010-05-12 — Rule H. Res. 1344 passed House.
+- 2010-05-12 — Rule provides for consideration of H.R. 5116 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Science and Technology now printed in the bill modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution.
+- 2010-05-12 — The Speaker designated the Honorable Eleanor Holmes Norton to act as Chairwoman of the Committee.
+- 2010-05-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendmentments which had been debated earlier and on which further proceedings were postponed.
+- 2010-05-13 — Amendment (A012) offered by Ms. Chu. (consideration: CR H3445; text: CR H3445)
+- 2010-05-13 — Amendment (A013) offered by Mrs. Halvorson. (consideration: CR H3445-3446, H3453-3454; text: CR H3445)
+- 2010-05-13 — Amendment (A014) offered by Mr. Kratovil. (consideration: CR H3446-3447; text: CR H3446)
+- 2010-05-13 — Amendment (A015) offered by Mr. Flake. (consideration: CR H3447, H3454; text: CR H3447)
+- 2010-05-13 — Amendment (A016) offered by Mr. Salazar. (consideration: CR H3447-3448; text: CR H3448)
+- 2010-05-13 — Amendment (A017) offered by Mr. Schock. (consideration: CR H3448-3449; text: CR H3448)
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendment agreed to Committee of the Whole
+- 2010-05-13 — Amendments en bloc (A018) offered by Mr. Gordon (TN). (consideration: CR H3449-3452; text of amendments en bloc: CR H3449)
+- 2010-05-13 — Considered as unfinished business. (consideration: CR H3444-3457)
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on Salazar amendment number 51.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on Schock amendment number 52.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Chu amendment number 36.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment number 50.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Halvorson amendment number 38.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 10 minutes of debate on the Kratovil amendment number 44.
+- 2010-05-13 — DEBATE - Pursuant to the provisions of H.Res. 1344, the Committee of the Whole proceeded with 40 minutes of debate on the Gordon (TN) amendments en bloc.
+- 2010-05-13 — DEBATE - The House proceeded with 10 minutes of debate on the Hall (TX) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back the House forthwith with amendments to strike various provisions in the bill and insert additional sections.
+- 2010-05-13 — House amendment agreed to: On agreeing to the Boccieri amendment (A011) Agreed to by recorded vote: 248 - 171 (Roll no. 267).(consideration: CR H3453)
+- 2010-05-13 — House amendment agreed to: On agreeing to the Chu amendment (A012) Agreed to by voice vote.
+- 2010-05-13 — House amendment agreed to: On agreeing to the Flake amendment (A015) Agreed to by recorded vote: 419 - 0 (Roll no. 269).
+- 2010-05-13 — House amendment agreed to: On agreeing to the Gordon (TN) amendments (A018) Agreed to by voice vote.
+- 2010-05-13 — House amendment agreed to: On agreeing to the Halvorson amendment (A013) Agreed to by recorded vote: 419 - 0 (Roll no. 268).
+- 2010-05-13 — House amendment agreed to: On agreeing to the Kratovil amendment (A014) Agreed to by voice vote.
+- 2010-05-13 — House amendment agreed to: On agreeing to the Salazar amendment (A016) Agreed to by voice vote.
+- 2010-05-13 — House amendment agreed to: On agreeing to the Schock amendment (A017) Agreed to by voice vote.
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered
+- 2010-05-13 — House amendment offered/reported by : Amendment (A012) offered by Ms. Chu.(consideration: CR H3445; text: CR H3445)
+- 2010-05-13 — House amendment offered/reported by : Amendment (A013) offered by Mrs. Halvorson.(consideration: CR H3445-3446, H3453-3454; text: CR H3445)
+- 2010-05-13 — House amendment offered/reported by : Amendment (A014) offered by Mr. Kratovil.(consideration: CR H3446-3447; text: CR H3446)
+- 2010-05-13 — House amendment offered/reported by : Amendment (A015) offered by Mr. Flake.(consideration: CR H3447, H3454; text: CR H3447)
+- 2010-05-13 — House amendment offered/reported by : Amendment (A016) offered by Mr. Salazar.(consideration: CR H3447-3448; text: CR H3448)
+- 2010-05-13 — House amendment offered/reported by : Amendment (A017) offered by Mr. Schock.(consideration: CR H3448-3449; text: CR H3448)
+- 2010-05-13 — House amendment offered/reported by : Amendments en bloc (A018) offered by Mr. Gordon (TN).(consideration: CR H3449-3452; text of amendments en bloc: CR H3449)
+- 2010-05-13 — Mr. Hall (TX) moved to recommit with instructions to Science and Technology. (consideration: CR H3455-3457; text: CR H3455)
+- 2010-05-13 — On agreeing to the Boccieri amendment (A011) Agreed to by recorded vote: 248 - 171 (Roll no. 267). (consideration: CR H3453)
+- 2010-05-13 — On agreeing to the Chu amendment (A012) Agreed to by voice vote.
+- 2010-05-13 — On agreeing to the Flake amendment (A015) Agreed to by recorded vote: 419 - 0 (Roll no. 269).
+- 2010-05-13 — On agreeing to the Gordon (TN) amendments (A018) Agreed to by voice vote.
+- 2010-05-13 — On agreeing to the Halvorson amendment (A013) Agreed to by recorded vote: 419 - 0 (Roll no. 268).
+- 2010-05-13 — On agreeing to the Kratovil amendment (A014) Agreed to by voice vote.
+- 2010-05-13 — On agreeing to the Salazar amendment (A016) Agreed to by voice vote.
+- 2010-05-13 — On agreeing to the Schock amendment (A017) Agreed to by voice vote.
+- 2010-05-13 — On motion to recommit with instructions Agreed to by recorded vote: 292 - 126 (Roll no. 270). (consideration: CR H3457)
+- 2010-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment number 50, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Halvorson amendment number 38, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Halvorson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-05-13 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule 19, further proceedings on H.R. 5116 are postponed.
+- 2010-05-13 — Roll call votes on amendments in House
+- 2010-05-13 — Roll call votes on amendments in House
+- 2010-05-13 — Roll call votes on amendments in House
+- 2010-05-13 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 5/12/2010 H3364-3389)
+- 2010-05-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-05-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5116.
+- 2010-05-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3456)
+- 2010-05-13 — The previous question was ordered pursuant to the rule. (consideration: CR H3455)
+- 2010-05-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of amendments which were debated earlier and on which further proceedings were postponed.
+- 2010-05-28 — Amendment (A019) offered by Mr. Gordon (TN). (consideration: CR H4189-4193; text: CR H4189)
+- 2010-05-28 — Amendment agreed to Committee of the Whole
+- 2010-05-28 — Amendment agreed to Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Amendment failed in Committee of the Whole
+- 2010-05-28 — Considered as unfinished business. (consideration: CR H4187-4194)
+- 2010-05-28 — House amendment not agreed to: On agreeing to fifth portion of the divided question, proposing to strike subtitle C of title VI (A019) Failed by voice vote.
+- 2010-05-28 — House amendment not agreed to: On agreeing to fourth portion of the divided question, proposing to strike section 503 (A019) Failed by voice vote.
+- 2010-05-28 — House amendment not agreed to: On agreeing to ninth portion of the divided question, proposing to add a section 706 Failed by recorded vote: 181 - 234 (Roll no. 331).
+- 2010-05-28 — House amendment not agreed to: On agreeing to second portion of the divided question, proposing to strike sections 406(b) and (c) Failed by recorded vote: 163 - 244 (Roll no. 327).
+- 2010-05-28 — House amendment not agreed to: On agreeing to sixth portion of the divided question, proposing to amend section 702 Failed by recorded vote: 197 - 215 (Roll no. 328).
+- 2010-05-28 — House amendment not agreed to: On agreeing to the first portion of the divided question, proposing to strike section 228 (A019) Failed by recorded vote: 175 - 243 (Roll no. 326).
+- 2010-05-28 — House amendment not agreed to: On agreeing to third portion of the divided question, proposing to strike section 502 (A019) Failed by voice vote.
+- 2010-05-28 — House amendment offered
+- 2010-05-28 — House amendment offered/reported by : Amendment (A019) offered by Mr. Gordon (TN).(consideration: CR H4189-4193; text: CR H4189)
+- 2010-05-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-05-28 — Mr. Gordon of Tennessee demanded the question of adoption on the amendment be divided into each 9 of its components. The Chair announced that the question would be divided and began putting the question of adoption on each portion.
+- 2010-05-28 — On agreeing to eighth portion of the divided question, proposing to add a section 705 Agreed to by recorded vote: 348 - 68 (Roll no. 330).
+- 2010-05-28 — On agreeing to fifth portion of the divided question, proposing to strike subtitle C of title VI (A019) Failed by voice vote.
+- 2010-05-28 — On agreeing to fourth portion of the divided question, proposing to strike section 503 (A019) Failed by voice vote.
+- 2010-05-28 — On agreeing to ninth portion of the divided question, proposing to add a section 706 Failed by recorded vote: 181 - 234 (Roll no. 331).
+- 2010-05-28 — On agreeing to second portion of the divided question, proposing to strike sections 406(b) and (c) Failed by recorded vote: 163 - 244 (Roll no. 327).
+- 2010-05-28 — On agreeing to seventh portion of the divided question, proposing to add a section 704 Agreed to by recorded vote: 409 - 0 (Roll no. 329).
+- 2010-05-28 — On agreeing to sixth portion of the divided question, proposing to amend section 702 Failed by recorded vote: 197 - 215 (Roll no. 328).
+- 2010-05-28 — On agreeing to the first portion of the divided question, proposing to strike section 228 (A019) Failed by recorded vote: 175 - 243 (Roll no. 326).
+- 2010-05-28 — On agreeing to third portion of the divided question, proposing to strike section 502 (A019) Failed by voice vote.
+- 2010-05-28 — On passage Passed by recorded vote: 262 - 150 (Roll no. 332).
+- 2010-05-28 — Passed/agreed to in House: On passage Passed by recorded vote: 262 - 150 (Roll no. 332).
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — Roll call votes on amendments in House
+- 2010-05-28 — The Chair announced the unfinished business was the resumption of proceedings on H.R. 5116. At the time when proceedings had been postponed on May 13, 2010, the motion to recommit with instructions had been adopted and pursuant to the instructions contained in the motion, the amendment required to be reported back to the House had not yet been submitted. Pursuant to the instructions contained in the motion, the Chair recognized Mr. Gordon for the purpose of offering the amendment.
