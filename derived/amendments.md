@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (b), (c), (d), (e), and (f) as subsections (c), (e), (f), (g), and (h) respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after subsection (c) (as so redesignated) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | By striking “In order” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | By striking “In order” and inserting the following: “(1) In order”. | the bill names no machine-readable US Code section |
 | — | replace | By striking “The park shall also” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | By striking “After advising the” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after paragraph (2) (as so designated by paragraph (2) above) the following: | the bill names no machine-readable US Code section |
