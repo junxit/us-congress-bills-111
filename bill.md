@@ -2,7 +2,7 @@
 legis-num: H. RES. 1391
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1391
@@ -30,7 +30,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the United States has supported Israel’s candidacy for accession to OECD membership;
 - Whereas, on May 10, 2010, the 31 OECD member states unanimously agreed to invite Israel to become a member of that organization, with the OECD noting in a statement that “Israel’s scientific and technological policies have produced outstanding outcomes on a world scale.”;
 - Whereas, on May 10, 2010, Israeli Prime Minister Benjamin Netanyahu noted regarding Israel’s accession to OECD membership that “Israel’s accession to the OECD has strategic importance for the process of positioning Israel’s economy as a developed and advanced economy, as well as in attracting international investments … There is still work to be done. We have done a great deal. We are doing a great deal; and we will do a great deal … so that we can be on the list of leading countries, among the 15 most advanced countries in the world. This goal is possible and it won’t take us too many years to accomplish.”;
-- Whereas Israel will accede into membership in the OECD during the annual meeting of that organization’s ministerial council on May 27, 2010;
 - Whereas Israel will be welcomed into the OECD during the annual meeting of that organization’s ministerial council on May 27, 2010, and will fully accede to membership once it passes the requisite enacting legislation, a process that is likely to be completed within months; and
 - Whereas Israel continues to pursue further opportunities to accede to membership or enhance its participation, as the case may be, in international forums: Now, therefore, be it
 
