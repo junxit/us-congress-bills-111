@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 26
 congress: 111
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 26
@@ -16,7 +16,7 @@ A joint resolution disapproving a rule submitted by the Environmental Protection
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (39)
+## Cosponsors (40)
 
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -57,6 +57,7 @@ A joint resolution disapproving a rule submitted by the Environmental Protection
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. LeMieux, George S. [R-FL] (L000572)
 - Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Ensign, John [R-NV] (E000194)
 
 ## Committees (1)
 
@@ -66,3 +67,6 @@ A joint resolution disapproving a rule submitted by the Environmental Protection
 
 - 2010-01-21 — Introduced in Senate
 - 2010-01-21 — Read twice and referred to the Committee on Environment and Public Works.
+- 2010-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
+- 2010-06-07 — Senate Committee on Environment and Public Works discharged pursuant to chapter 8, title 5, U.S.C.
+- 2010-06-07 — Senate Committee on Environment and Public Works discharged pursuant to chapter 8, title 5, U.S.C.
