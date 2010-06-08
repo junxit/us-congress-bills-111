@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1061
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1061
@@ -24,6 +24,10 @@ Hoh Indian Tribe Safe Homelands Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-06-08 — [House 111-2-337](votes/house-111-2-0337.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (347–0)
+
 ## Actions
 
 - 2009-02-13 — Introduced in House
@@ -35,3 +39,11 @@ Hoh Indian Tribe Safe Homelands Act
 - 2009-10-21 — Placed on the Union Calendar, Calendar No. 172.
 - 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-306.
 - 2009-10-21 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-306.
+- 2010-06-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-08 — Considered as unfinished business. (consideration: CR H4227)
+- 2010-06-08 — Considered under suspension of the rules. (consideration: CR H4223-4225)
+- 2010-06-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1061.
+- 2010-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-08 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2010-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 337). (text: CR H4223)
+- 2010-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 337).(text: CR H4223)

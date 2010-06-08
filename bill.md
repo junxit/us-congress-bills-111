@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1061
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,61 +13,81 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Hoh Indian Tribe Safe Homelands Act”.
 
-## § 2. Findings
+## § 2. Definitions
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The Hoh Indian Reservation, located along the Hoh River and the Pacific Ocean in a remote section of Jefferson County, Washington, is the homeland of the Hoh Indian Tribe, a federally recognized Indian tribe.
-  - **(2)** Established by Executive Order in 1893, the Reservation is approximately one square mile, but its habitable acreage has been reduced over time due to storm surges, repeated flooding and erosion, and lack of river dredging.
-  - **(3)** Due to its location along the river and ocean and frequent torrential rains, 90 percent of the Reservation is located within a flood zone and, in fact, has flooded repeatedly over the last five years. In addition, 100 percent of the Reservation is within a tsunami zone, leaving most of the Reservation unfit for safe occupation.
-  - **(4)** The Tribe has repeatedly suffered from serious flood and wind damage to homes, tribal buildings, and utility infrastructure that have caused significant damage and resulted in critical safety and environmental hazards.
-  - **(5)** Federal agencies such as the Bureau of Indian Affairs, the Department of Housing and Urban Development, and the Federal Emergency Management Agency have limited authority to assist the Tribe with housing and other improvements and services due to the dangerous and unsustainable location of the Reservation.
-  - **(6)** The Tribe has purchased from private owners near the Reservation approximately 260 acres of land in order to move key infrastructure out of the flood zone.
-  - **(7)** In addition, the State of Washington’s Department of Natural Resources has transferred ownership of 160 acres of land to the Tribe.
-  - **(8)** An approximately 37 acre parcel of logged land, administered by the National Park Service, lies between the current Reservation land and those lands acquired by the Tribe, and the only road accessing the Reservation crosses this parcel.
-  - **(9)** Together, the lands described in paragraphs 6, 7, and 8 would constitute a contiguous parcel for the Reservation and would create a safe area for members of the Tribe to live and rebuild their community.
+In this Act:
 
-## § 3. Definitions
+- **(1)** *Federal land* The term “Federal land” means the approximately 37-acre parcel of land—
+  - **(A)** administered by the National Park Service;
+  - **(B)** located in sec. 20, T. 26N, R. 13W, W.M., south of the Hoh River; and
+  - **(C)** depicted on the Map.
+- **(2)** *Map* The term “Map” means the map entitled “Hoh Indian Tribe Safe Homelands Act Land Acquisition Map” and dated May 14, 2009.
+- **(3)** *Non-federal land* The term “non-Federal land” means the approximately 434 acres of land—
+  - **(A)** owned by the Tribe; and
+  - **(B)** depicted on the Map.
+- **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(5)** *Tribe* The term “Tribe” means the Hoh Indian Tribe.
 
-For the purposes of this Act—
+## § 3. Land taken into trust for benefit of Tribe
 
-- **(1)** the term Federal land mean the Federal lands described in section 4(c)(2);
-- **(2)** the term Reservation means the reservation of the Hoh Indian Tribe;
-- **(3)** the term Secretary means the Secretary of the Interior; and
-- **(4)** the term Tribe means the Hoh Indian Tribe, a federally recognized Indian tribe.
+- **(a)** *Federal Land*
+  - **(1)** *In general* Effective beginning on the date of enactment of this Act—
+    - **(A)** all right, title, and interest of the United States in and to the Federal land are considered to be held in trust by the United States for the benefit of the Tribe, without any action required to be taken by the Secretary; and
+    - **(B)** the Federal land shall be excluded from the boundaries of Olympic National Park.
+  - **(2)** *Survey by tribe*
+    - **(A)** *In general* The Tribe shall—
+      - **(i)** conduct a survey of the boundaries of the Federal land; and
+      - **(ii)** submit the survey to the Director of the National Park Service for review and concurrence.
+    - **(B)** *Action by director* Not later than 90 days after the date on which the survey is submitted under subparagraph (A)(ii), the Director of the National Park Service shall—
+      - **(i)** complete the review of the survey; and
+      - **(ii)** provide to the Tribe a notice of concurrence with the survey.
+    - **(C)** *Availability of survey* Not later than 120 days after the date on which the notice of concurrence is provided to the Tribe under subparagraph (B)(ii), the Secretary shall—
+      - **(i)** submit a copy of the survey to the appropriate committees of Congress; and
+      - **(ii)** make the survey available for public inspection at the appropriate office of the Secretary.
+- **(b)** *Non-Federal land*
+  - **(1)** *In general* On fulfillment of each condition described in paragraph (2), and upon compliance with the National Environmental Policy Act of 1969, the Secretary shall take the non-Federal land into trust for the benefit of the Tribe.
+  - **(2)** *Conditions* The conditions referred to in paragraph (1) are that the Tribe shall—
+    - **(A)** convey to the Secretary all right, title, and interest in and to the non-Federal land; and
+    - **(B)** submit to the Secretary a request to take the non-Federal land into trust for the Tribe.
+- **(c)** *Congressional intent* It is the intent of Congress that—
+  - **(1)** the condition of the Federal land as in existence on the date of enactment of this Act should be preserved and protected;
+  - **(2)** the natural environment existing on the Federal land on the date of enactment of this Act should not be altered, except as otherwise provided by this Act; and
+  - **(3)** the Tribe and the National Park Service shall work cooperatively regarding issues of mutual concern relating to this Act.
+- **(d)** *Availability of map* Not later than 120 days after the survey required by subsection (a)(2)(A) has been reviewed and concurred in by the National Park Service, the Secretary shall make the Map available to the appropriate congressional committees. The Map also shall be available for public inspection at the appropriate offices of the Secretary.
 
-## § 4. Transfer of lands to be held in trust as part of the tribe’s reservation; placement of other land into trust
+## § 4. Use of Federal land by Tribe; cooperative efforts
 
-- **(a)** *In general* All right, title, and interest of the United States in and to the land described in subsection (c)(2), are declared to be held in trust by the United States for the benefit of the Tribe without any further action by the Secretary. Such land shall be excluded from the boundaries of the Olympic National Park. Upon conveyance to the Secretary by the Tribe, and subject to the completion of an assessment of the nature and extent of any potential liability resulting from hazardous substances or other environmental problems associated with such property and the remediation of any such potential liabilities, the Secretary shall take into trust for the benefit of the Tribe certain non-Federal land owned by the Tribe described in subsection (c)(1), without any further action by the Secretary.
-- **(b)** *Reservation* Land taken into trust for the Tribe pursuant to subsection (a) shall be part of the Reservation
-- **(c)** *Description of lands* The land to be transferred and held in trust under subsection (a) is the land generally depicted on the map titled “Hoh Indian Tribe Safe Homelands Act Land Acquisition Map”, dated July, 21, 2008, and further described as—
-  - **(1)** the non-Federal land owned by the Hoh Tribe described in section 2(a)(6) and (7); and
-  - **(2)** the Federal land administered by the National Park Service, located in Section 20, Township 26N, Range 13W, W.M. South of the Hoh River.
-- **(d)** *Availability of map* Not later than 120 days after the survey required by section 5(a)(6) has been reviewed and concurred in by the National Park Service, the Secretary shall make the map available to the appropriate congressional committees. The map also shall be available for public inspection in the appropriate offices of the Secretary.
-- **(e)** *Congressional intent* It is the intent of Congress that—
-  - **(1)** the condition of the Federal land at the time of the transfer under this section should be preserved and protected;
-  - **(2)** that the natural environment existing on the Federal land at the time of the transfer under this section should not be altered, except as described in this Act; and
-  - **(3)** the Tribe and the National Park Service shall work cooperatively on issues of mutual concern related to this Act.
-
-## § 5. Preservation of existing condition of Federal land; terms of conservation and use in connection with land transfer
-
-- **(a)** *Restrictions on use* The use of the Federal land transferred pursuant to section 4 shall be subject to the following conditions:
-  - **(1)** No commercial, residential, industrial, or other buildings or structures shall be placed on the Federal land being transferred and placed into trust.
-  - **(2)** The condition of the Federal land at the time of the transfer under this section shall be preserved and protected and no actions that would adversely affect the natural environment on the Federal land shall be taken, except as described in this Act.
-  - **(3)** In order to maintain its use as a natural wildlife corridor and to provide for protection of existing resources, no logging or hunting shall be allowed on the land.
-  - **(4)** Routine maintenance may be conducted on the two-lane county road that traverses the Federal land as of the date of the enactment of this Act. The road may not be widened or otherwise expanded. No other roads or access routes shall be allowed on the Federal land, except as provided by this paragraph and subsection (b)(2). In the event the use of the road or portions of the road is compromised by floods or other natural or unexpected occurrences, a similar, two-lane road or portion of the road may be reconstructed to assure access to the area.
-  - **(5)** The Tribe may authorize tribal members to engage in ceremonial and other treaty uses of the Federal lands and existing tribal treaty rights shall not be diminished by this Act.
-  - **(6)** The Tribe shall survey the boundaries of the Federal land and submit the survey to the National Park Service for its review and concurrence.
+- **(a)** *Use of Federal land by tribe*
+  - **(1)** *Restrictions on use* The use of the Federal land by the Tribe shall be subject to the following conditions:
+    - **(A)** *Buildings and structures* No commercial, residential, industrial, or other building or structure shall be constructed on the Federal land.
+    - **(B)** *Natural condition and environment* The Tribe—
+      - **(i)** shall preserve and protect the condition of the Federal land as in existence on the date of enactment of this Act; and
+      - **(ii)** shall not carry out any activity that would adversely affect the natural environment of the Federal land, except as otherwise provided by this Act.
+    - **(C)** *Logging and hunting* To maintain use of the Federal land as a natural wildlife corridor and provide for protection of existing resources of the Federal land, no logging or hunting shall be allowed on the Federal land.
+    - **(D)** *Roads*
+      - **(i)** *Routine maintenance* Routine maintenance may be conducted on the 2-lane county road that crosses the Federal land as in existence on the date of enactment of this Act.
+      - **(ii)** *Expansion* The county road described in clause (i) may not be widened or otherwise expanded.
+      - **(iii)** *Reconstruction* If the county road described in clause (i) is compromised due to a flood or other natural or unexpected occurrence, the county road may be reconstructed to ensure access to relevant areas.
+      - **(iv)** *Other access routes* Except as provided in clause (iii) and subsection (b)(2), no other road or access route shall be permitted on the Federal land.
+  - **(2)** *Uses approved by treaty*
+    - **(A)** *In general* The Tribe may authorize any member of the Tribe to use the Federal land for—
+      - **(i)** ceremonial purposes; or
+      - **(ii)** any other activity approved by a treaty between the United States and the Tribe.
+    - **(B)** *No effect on treaty rights of tribe* Nothing in this Act affects any treaty right of the Tribe in existence on the date of enactment of this Act.
 - **(b)** *Cooperative efforts* The Secretary and the Tribe—
   - **(1)** shall enter into cooperative agreements—
-    - **(A)** for mutual emergency fire aid, upon completion of the Tribe’s proposed emergency fire response building; and
-    - **(B)** to provide opportunities for the public to learn more about the culture and traditions of the Tribe;
-  - **(2)** may develop and establish a multipurpose, nonmotorized trail from Highway 101 to the Pacific Ocean; and
-  - **(3)** shall work cooperatively on any other issues of mutual concern related to the transfer of land authorized by this Act.
+    - **(A)** for joint provision of emergency fire aid, on completion of the proposed emergency fire response building of the Tribe; and
+    - **(B)** to provide opportunities for the public to learn more regarding the culture and traditions of the Tribe;
+  - **(2)** may develop and establish on land taken into trust for the benefit of the Tribe pursuant to this Act a multipurpose, nonmotorized trail from Highway 101 to the Pacific Ocean; and
+  - **(3)** shall work cooperatively on any other issues of mutual concern relating to land taken into trust for the benefit of the Tribe pursuant to this Act.
 
-## § 6. Hoh Indian reservation
+## § 5. Treatment of trust land as part of reservation
 
-All lands taken into trust by the United States under this Act shall be a part of the Hoh Indian Reservation.
+All land taken into trust for the benefit of the Tribe pursuant to this Act shall be a part of the reservation of the Tribe.
 
-## § 7. Gaming prohibition
+## § 6. Gaming prohibition
 
-No land taken into trust for the benefit of the Hoh Indian Tribe under this Act shall be considered Indian lands for the purpose of the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
+The Tribe may not conduct on any land taken into trust pursuant to this Act any gaming activities—
+
+- **(1)** as a matter of claimed inherent authority; or
+- **(2)** under any Federal law (including the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) (including any regulations promulgated by the Secretary or the National Indian Gaming Commission pursuant to that Act)).
