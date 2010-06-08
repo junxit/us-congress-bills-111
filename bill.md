@@ -82,3 +82,7 @@ This Act may be cited as the “Hoover Power Allocation Act of 2010”.
 - **(n)** *Reaffirmation of congressional declaration of purpose* Subsection (g) of section 105 of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a) (as redesignated by subsection (k)(2)) is amended—
   - **(1)** by striking “subsections (c), (g), and (h) of this section” and inserting “this Act”; and
   - **(2)** by striking “June 1, 1987, and ending September 30, 2017” and inserting “October 1, 2017, and ending September 30, 2067”.
+
+## § 3. PayGo
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
