@@ -1,0 +1,49 @@
+---
+measure: H.R. 5481
+congress: 111
+version: Introduced in House
+---
+
+# H.R. 5481
+
+To give subpoena power to the National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Capps, Lois [D-CA-23] (C001036)
+
+## Cosponsors (14)
+
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+
+## Committees (3)
+
+- House — Transportation and Infrastructure Committee
+- House — Judiciary Committee
+- House — Natural Resources Committee
+
+## Actions
+
+- 2010-06-08 — Introduced in House
+- 2010-06-08 — Introduced in House
+- 2010-06-08 — Referred to House Judiciary
+- 2010-06-08 — Referred to House Natural Resources
+- 2010-06-08 — Referred to House Transportation and Infrastructure
+- 2010-06-08 — Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
