@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2008
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -35,3 +35,11 @@ No facility for the generation or transmission of hydroelectric power on the Dia
 ## § 6. Reporting requirement
 
 If, 24 months after the date of the enactment of this Act, hydropower production on the Diamond Fork System has not commenced, the Secretary of the Interior shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate stating this fact, the reasons such production has not yet commenced, and a detailed timeline for future hydropower production.
+
+## § 7. PayGo
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 8. Limitation on the use of funds
+
+The authority under the provisions of section 301 of the Hoover Power Plant Act of 1984 (Public Law 98–381; 42 U.S.C. 16421a) shall not be used to fund any study or construction of transmission facilities developed as a result of this Act.
