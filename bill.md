@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 518
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 518
@@ -18,8 +18,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas from 1952 to 1953, Jacques-Yves Cousteau took the Calypso to the Red Sea and shot the first color footage ever taken at a depth of 150 feet, for a documentary titled “The Silent World”;
 - Whereas “The Silent World” was filmed using ground-breaking skin-diving gear that Cousteau invented with engineer Emile Gagnan in 1943, freeing divers from heavy helmets and allowing them to be free and weightless as if in space;
 - Whereas in 1956, “The Silent World” won the top award at the Cannes Film Festival and the Academy Award for Best Documentary Feature in the United States;
-- Whereas in 1973, Jacques-Yves Cousteau, with his two sons Jean-Michel and Philippe, and Frederick Hyman, created the Cousteau Society for the Protection of Ocean Life, today boasting a membership of over 360,000 people;
-- Whereas in 1977, Jacques-Yves Cousteau and Peter Scott were awarded the United Nations International Environment prize for outstanding contributions in environmental advocacy;
+- Whereas in 1973, Jacques-Yves Cousteau created the Cousteau Society for the Protection of Ocean Life;
+- Whereas in 1977, Jacques-Yves Cousteau was awarded the United Nations International Environment prize for outstanding contributions in environmental advocacy;
 - Whereas in 1977, the “Cousteau Odyssey” series premiered on PBS, and seven years later, the “Cousteau Amazon” series made its television premiere;
 - Whereas in 1985, in honor of his achievements, Jacques-Yves Cousteau received the Grand Croix dans l’Ordre National du Mérite from the French government and the United States Presidential Medal of Freedom from President Ronald Reagan;
 - Whereas throughout all of his voyages, Jacques-Yves Cousteau produced over 120 films and authored or contributed to roughly 50 books; and
