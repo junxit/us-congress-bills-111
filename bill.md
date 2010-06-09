@@ -2,7 +2,7 @@
 legis-num: H.R. 2008
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2008
@@ -15,7 +15,7 @@ This Act may be cited as the “Bonneville Unit Clean Hydropower Facilitation Ac
 
 ## § 2. Diamond Fork System defined
 
-For the purposes of this Act, the term “Diamond Fork System” means the facilities described in chapter 4 of the October 2004 Supplement to the 1988 Definite Plan Report for the Bonneville Unit.
+For the purposes of this Act, the term Diamond Fork System means the facilities described in chapter 4 of the October 2004 Supplement to the 1988 Definite Plan Report for the Bonneville Unit.
 
 ## § 3. Cost allocations
 
