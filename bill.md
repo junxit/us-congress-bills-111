@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5026
 
-> To amend the Federal Power Act to protect the bulk-power system and electric infrastructure critical to the defense of the United States from cybersecurity and other threats and vulnerabilities.
+> To amend the Federal Power Act to protect the bulk-power system and electric infrastructure critical to the defense of the United States against cybersecurity and other threats and vulnerabilities.
 
 ## § 1. Short title
 
@@ -85,7 +85,12 @@ This Act may be cited as the “Grid Reliability and Infrastructure Defense Act�
   >   - **(1)** *Expertise and resources* The Secretary shall establish a program, in consultation with other appropriate Federal agencies, to develop technical expertise in the protection of systems for the generation, transmission, and distribution of electric energy against geomagnetic storms or malicious acts using electronic communications or electromagnetic pulse that would pose a substantial risk of disruption to the operation of those electronic devices or communications networks, including hardware, software, and data, that are essential to the reliability of such systems. Such program shall include the identification and development of appropriate technical and electronic resources, including hardware, software, and system equipment.
   >   - **(2)** *Sharing expertise* As appropriate, the Secretary shall offer to share technical expertise developed under the program under paragraph (1), through consultation and assistance, with owners, operators, or users of systems for the generation, transmission, or distribution of electric energy located in the United States and with State commissions. In offering such support, the Secretary shall assign higher priority to systems serving facilities designated by the President pursuant to subsection (d)(1) and other critical-infrastructure facilities, which the Secretary shall identify in consultation with the Commission and other appropriate Federal agencies.
   >   - **(3)** *Security clearances and communication* The Secretary shall facilitate and, to the extent practicable, expedite the acquisition of adequate security clearances by key personnel of any entity subject to the requirements of this section to enable optimum communication with Federal agencies regarding grid security threats, grid security vulnerabilities, and defense critical electric infrastructure vulnerabilities. The Secretary, the Commission, and other appropriate Federal agencies shall, to the extent practicable and consistent with their obligations to protect classified and protected information, share timely actionable information regarding grid security threats, grid security vulnerabilities, and defense critical electric infrastructure vulnerabilities with appropriate key personnel of owners, operators, and users of the bulk-power system and of defense critical electric infrastructure.
+  > - **(h)** *Certain Federal entities* For the 11-year period commencing on the date of enactment of this section, the Tennessee Valley Authority and the Bonneville Power Administration shall be exempt from any requirement under subsection (b) or (c) (except for any requirement addressing a malicious act using electronic communication).
 
 - **(b)** *Conforming amendments*
   - **(1)** *Jurisdiction* Section 201(b)(2) of the Federal Power Act (16 U.S.C. 824(b)(2)) is amended by inserting “215A,” after “215,” each place it appears.
   - **(2)** *Public utility* Section 201(e) of the Federal Power Act (16 U.S.C. 824(e)) is amended by inserting “215A,” after “215,”.
+
+## § 3. Budgetary compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
