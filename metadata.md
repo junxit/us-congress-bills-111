@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5278
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5278
@@ -64,8 +64,20 @@ To designate the facility of the United States Postal Service located at 405 Wes
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-06-09 — [House 111-2-345](votes/house-111-2-0345.md) — On Motion to Suspend the Rules and Pass — **Passed** (416–0)
+
 ## Actions
 
 - 2010-05-12 — Introduced in House
 - 2010-05-12 — Introduced in House
 - 2010-05-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Chu objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-09 — Considered as unfinished business. (consideration: CR H4298-4299)
+- 2010-06-09 — Considered under suspension of the rules. (consideration: CR H4266-4267)
+- 2010-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5278.
+- 2010-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-09 — Ms. Chu moved to suspend the rules and pass the bill.
+- 2010-06-09 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 345). (text: CR H4266)
+- 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 345).(text: CR H4266)
