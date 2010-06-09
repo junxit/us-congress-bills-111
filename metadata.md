@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1061
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1061
@@ -47,3 +47,4 @@ Hoh Indian Tribe Safe Homelands Act
 - 2010-06-08 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2010-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 337). (text: CR H4223)
 - 2010-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 337).(text: CR H4223)
+- 2010-06-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
