@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1507
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -56,8 +56,34 @@ Section 8909a of title 5, United States Code, is amended—
 - **(b)** *Maximum amount limitation and repayment* Any amount borrowed under the increase in borrowing authority provided under subsection (a) of this section—
   - **(1)** shall not apply to the maximum amount allowable under section 2005(a)(2) of title 39, United States Code; and
   - **(2)** shall be repaid by the Postal Service to the United States Treasury by not later than the end of fiscal year 2019.
+- **(b)** *Repayment and limitation on outstanding debt* Any amount borrowed under the increase in borrowing authority provided under subsection (a) of this section shall be repaid by the Postal Service to the United States Treasury by not later than the end of fiscal year 2019. The Postal Service's total outstanding debt may not exceed the maximum amount allowable under section 2005(a)(2) of title 39, United States Code.
+
+## § 5. Consideration of Postal Service financial condition
+
+Section 1207(c)(2) of title 39, United states Code, is amended by inserting “The arbitration board shall consider the financial condition of the Postal Service in making any decision.” after the first sentence.
+
+## § 6. Assessment of future business model of the postal service
+
+Section 710(a) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3247) is amended by striking the first and second sentences and inserting “The Comptroller General of the United States shall prepare and submit to the President and Congress a report that evaluates the options and strategies for the long-term structural and operational reforms of the United States Postal Service necessary to achieve financial stability and long-term fiscal viability. The final report required by this section shall be submitted by March 31, 2010.”.
+
+## § 7. Prohibition on bonuses
+
+Section 3686 of title 39, United states Code, is amended—
+
+- **(1)** by redesignating subsection (e) as subsection (f); and
+- **(2)** by inserting after subsection (d) the following:
+  > - **(e)** *Prohibition on bonuses* Notwithstanding any provision of this section, including subsection (c), any bonus under this section—
+  >   - **(1)** subject to paragraph (2), shall be paid on October 1 following the date such bonus would have otherwise been paid if not for this subsection; and
+  >   - **(2)** shall not be paid if the Postal Service had a year-end net loss for the fiscal year preceding that October 1.
 
 ## § 5. Effective date and application
 
 - **(a)** *In general* This Act, including the amendments made by this Act, shall be effective as of October 1, 2008.
 - **(b)** *Application to fiscal year 2009 payments* Any payments made by the Postal Service under section 8906(g)(2)(A) of title 5, United States Code, for which the Postal Service is not obligated to pay by reason of the amendment made by section 2 of this Act shall be credited against the payments due by September 30, 2009, under section 8909a(d)(3) of title 5, United States Code, as amended by this Act.
+
+## § 8. Effective dates and application
+
+- **(a)** *In general*
+  - **(1)** *Effective date* Sections 2, 3, and 4, including the amendments made by those sections, shall be effective as of October 1, 2008.
+  - **(2)** *Application to fiscal year 2009 payments* Any payments made by the Postal Service under section 8906(g)(2)(A) of title 5, United States Code, for which the Postal Service is not obligated to pay by reason of the amendment made by section 2 of this Act shall be credited against the payments due by September 30, 2009, under section 8909a(d)(3) of title 5, United States Code, as amended by this Act.
+- **(b)** *Other provisions* The amendments made by sections 5, 6, and 7 shall take effect on the date of enactment of this Act.
