@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1381
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1381
@@ -16,7 +16,7 @@ Recognizing the National Museum of American Jewish History, an affiliate of the 
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Cosponsors (24)
+## Cosponsors (27)
 
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
@@ -42,6 +42,9 @@ Recognizing the National Museum of American Jewish History, an affiliate of the 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
 
 ## Committees (1)
 
@@ -52,3 +55,9 @@ Recognizing the National Museum of American Jewish History, an affiliate of the 
 - 2010-05-20 — Introduced in House
 - 2010-05-20 — Introduced in House
 - 2010-05-20 — Referred to the House Committee on House Administration.
+- 2010-06-09 — Considered under suspension of the rules. (consideration: CR H4270-4271)
+- 2010-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1381.
+- 2010-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-09 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution.
+- 2010-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4270)
+- 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4270)
