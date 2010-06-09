@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1427
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1427
@@ -16,7 +16,7 @@ Honoring the life of John Robert Wooden.
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Cosponsors (26)
+## Cosponsors (29)
 
 - Rep. Harman, Jane [D-CA-36] (H000213)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
@@ -44,6 +44,9 @@ Honoring the life of John Robert Wooden.
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
 - Rep. Chu, Judy [D-CA-32] (C001080)
 - Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Costa, Jim [D-CA-20] (C001059)
 
 ## Committees (1)
 
@@ -54,3 +57,9 @@ Honoring the life of John Robert Wooden.
 - 2010-06-08 — Introduced in House
 - 2010-06-08 — Introduced in House
 - 2010-06-08 — Referred to the House Committee on Education and Labor.
+- 2010-06-09 — Considered under suspension of the rules. (consideration: CR H4274-4277)
+- 2010-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1427.
+- 2010-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-09 — Ms. Shea-Porter moved to suspend the rules and agree to the resolution.
+- 2010-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4274)
+- 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4274)
