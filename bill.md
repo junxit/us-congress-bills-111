@@ -2,7 +2,7 @@
 legis-num: H. RES. 1330
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1330
@@ -19,6 +19,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the world depends on the health of our ocean for a full range of ecological, economic, educational, scientific, social, cultural, nutritional, and recreational benefits;
 - Whereas the ocean is linked to adaptation to climate and other environmental change, foreign policy, and national and homeland security;
 - Whereas we must ensure accountability for our actions, and serve as a model country promoting balanced, productive, efficient, sustainable, and informed ocean, coastal, and Great Lakes use, management, and conservation within the global community; and
-- Whereas our ocean is in need of strong policies that support ecosystem-based management, coastal and marine spatial planning, informed science-based decision making and improved understanding, government coordination, resiliency and adaptation to climate change and ocean acidification, regional ecosystem protection and restoration, enhanced water quality and sustainable practices on land, changing conditions in the Arctic as well as ocean, coastal, and Great Lakes observations and infrastructure: Now, therefore, be it
+- Whereas our ocean is in need of strong policies that support ecosystem-based management, coastal and marine spatial planning, informed science-based decision making and improved understanding, government coordination, regional ecosystem protection and restoration, enhanced water quality and sustainable practices on land, changing conditions in the Arctic as well as ocean, coastal, and Great Lakes observations and infrastructure: Now, therefore, be it
 
 That the House of Representatives recognizes World Ocean Day.
