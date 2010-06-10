@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5072
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -41,11 +41,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | in the first sentence of subsection (b), by inserting “or areas or on a nationwide basis” after “area” each place such term appears; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “(c)” and all that follows through “The Secretary ” in the first sentence of paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(b)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting after the period at the end the following: “For purposes of this subsection, the term early default means a default that occurs within 24 months after a mortgage is originated or such alternative appropria… | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting after the period at the end of the first sentence the following: “The Secretary shall also identify which mortgagees have had a significant or rapid increase, as determined by the Secretary, in the number … | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -53,7 +53,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in the second sentence of paragraph (4), by inserting before the period at the end the following: “, any changes to the current or projected safety and soundness of the Fund since the most recent report under this paragraph or paragraph … | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 205 of the National Housing Act (12 U.S.C. 1711) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 203(b) of the National Housing Act (12 U.S.C. 1709(b)) is amended by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 255(d) of the National Housing Act (12 U.S.C. 1715z–20(d)) is amended by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
