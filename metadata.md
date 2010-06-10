@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5133
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5133
@@ -56,3 +56,16 @@ To designate the facility of the United States Postal Service located at 331 1st
 - 2010-06-09 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 0 (Roll no. 346). (text: CR H4267)
 - 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 0 (Roll no. 346).(text: CR H4267)
 - 2010-06-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-06-30 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-359.
+- 2011-01-04 — Became Public Law No: 111-359.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
