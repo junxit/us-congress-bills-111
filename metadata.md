@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5133
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5133
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 331 1st
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 331 1st
 - 2010-06-09 — Ms. Chu moved to suspend the rules and pass the bill.
 - 2010-06-09 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 0 (Roll no. 346). (text: CR H4267)
 - 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 409 - 0 (Roll no. 346).(text: CR H4267)
+- 2010-06-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
