@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5026
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5026
@@ -20,9 +20,10 @@ Grid Reliability and Infrastructure Defense Act
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Grid Reliability and Infrastructure Defense Act
 - 2010-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4256-4258)
 - 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4256-4258)
 - 2010-06-09 — The title of the measure was amended. Agreed to without objection.
+- 2010-06-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
