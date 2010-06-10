@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5278
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5278
@@ -60,9 +60,10 @@ To designate the facility of the United States Postal Service located at 405 Wes
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ To designate the facility of the United States Postal Service located at 405 Wes
 - 2010-06-09 — Ms. Chu moved to suspend the rules and pass the bill.
 - 2010-06-09 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 345). (text: CR H4266)
 - 2010-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 345).(text: CR H4266)
+- 2010-06-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
