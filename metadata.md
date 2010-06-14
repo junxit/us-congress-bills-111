@@ -1,7 +1,7 @@
 ---
 measure: S. 1660
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1660
@@ -50,3 +50,12 @@ Formaldehyde Standards for Composite Wood Products Act
 - 2010-04-19 — Committee on Environment and Public Works. Reported by Senator Reid for Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-169.
 - 2010-04-19 — Committee on Environment and Public Works. Reported by Senator Reid for Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-169.
 - 2010-04-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 352.
+- 2010-06-14 — Amendment SA 4347 agreed to in Senate by Unanimous Consent.
+- 2010-06-14 — Amendment SA 4347 proposed by Senator Reid for Senator Klobuchar. (consideration: CR S4892) In the nature of a substitute.
+- 2010-06-14 — Measure laid before Senate by unanimous consent. (consideration: CR S4891-4892; text of measure as reported in Senate: CR S4891-4892)
+- 2010-06-14 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-14 — Senate amendment agreed to: Amendment SA 4347 agreed to in Senate by Unanimous Consent.
+- 2010-06-14 — Senate amendment proposed (on the floor): Amendment SA 4347 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S4892)
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — The committee reported substitute amendment agreed to by Unanimous Consent.
