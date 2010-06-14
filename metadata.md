@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1368
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1368
@@ -16,7 +16,7 @@ Supporting the goals of National Dairy Month.
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 
-## Cosponsors (63)
+## Cosponsors (79)
 
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
@@ -81,13 +81,41 @@ Supporting the goals of National Dairy Month.
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Blunt, Roy [R-MO-7] (B000575)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
 
 ## Committees (1)
 
 - House — Agriculture Committee
+
+## Recorded votes (1)
+
+- 2010-06-14 — [House 111-2-355](votes/house-111-2-0355.md) — On Motion to Suspend the Rules and Agree — **Passed** (359–0)
 
 ## Actions
 
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Referred to the House Committee on Agriculture.
+- 2010-06-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-14 — Considered as unfinished business. (consideration: CR H4395)
+- 2010-06-14 — Considered under suspension of the rules. (consideration: CR H4390-4391)
+- 2010-06-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1368.
+- 2010-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-14 — Mr. Bright moved to suspend the rules and agree to the resolution.
+- 2010-06-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 359 - 0 (Roll no. 355). (text: CR H4390)
+- 2010-06-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 359 - 0 (Roll no. 355).(text: CR H4390)
