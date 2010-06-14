@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3951
 congress: 111
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # H.R. 3951
@@ -55,3 +55,6 @@ To designate the facility of the United States Postal Service located at 2000 Lo
 - 2010-05-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.
 - 2010-05-20 — Senate vitiated previous reporting.
+- 2010-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
