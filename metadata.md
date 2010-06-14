@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5502
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5502
@@ -16,17 +16,33 @@ To amend the effective date of the gift card provisions of the Credit Card Accou
 
 - Rep. Maffei, Daniel B. [D-NY-25] (M001171)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2010-06-14 — [House 111-2-357](votes/house-111-2-0357.md) — On Motion to Suspend the Rules and Pass — **Passed** (357–0)
 
 ## Actions
 
 - 2010-06-10 — Introduced in House
 - 2010-06-10 — Introduced in House
 - 2010-06-10 — Referred to the House Committee on Financial Services.
+- 2010-06-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-14 — Considered as unfinished business. (consideration: CR H4397-4398)
+- 2010-06-14 — Considered under suspension of the rules. (consideration: CR H4393-4395)
+- 2010-06-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5502.
+- 2010-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-14 — Mr. Hinojosa moved to suspend the rules and pass the bill.
+- 2010-06-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 357). (text: CR H4394)
+- 2010-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 357).(text: CR H4394)
