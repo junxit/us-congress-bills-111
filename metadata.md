@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3951
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3951
@@ -58,3 +58,13 @@ To designate the facility of the United States Postal Service located at 2000 Lo
 - 2010-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
+- 2010-06-15 — Cleared for White House.
+- 2010-06-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4949)
+- 2010-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4949)
+- 2010-06-16 — Message on Senate action sent to the House.
+- 2010-06-17 — Presented to President.
+- 2010-06-17 — Presented to President.
+- 2010-06-28 — Became Public Law No: 111-193.
+- 2010-06-28 — Became Public Law No: 111-193.
+- 2010-06-28 — Signed by President.
+- 2010-06-28 — Signed by President.
