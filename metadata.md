@@ -1,7 +1,7 @@
 ---
 measure: S. 1660
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1660
@@ -59,3 +59,19 @@ Formaldehyde Standards for Composite Wood Products Act
 - 2010-06-14 — Senate amendment proposed (on the floor): Amendment SA 4347 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S4892)
 - 2010-06-14 — Senate amendment submitted
 - 2010-06-14 — The committee reported substitute amendment agreed to by Unanimous Consent.
+- 2010-06-15 — Held at the desk.
+- 2010-06-15 — Message on Senate action sent to the House.
+- 2010-06-15 — Received in the House.
+- 2010-06-23 — Cleared for White House.
+- 2010-06-23 — Considered under suspension of the rules. (consideration: CR H4701-4705)
+- 2010-06-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1660.
+- 2010-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-23 — Ms. Matsui moved to suspend the rules and pass the bill.
+- 2010-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4701-4703)
+- 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4701-4703)
+- 2010-06-25 — Presented to President.
+- 2010-06-25 — Presented to President.
+- 2010-07-07 — Became Public Law No: 111-199.
+- 2010-07-07 — Became Public Law No: 111-199.
+- 2010-07-07 — Signed by President.
+- 2010-07-07 — Signed by President.
