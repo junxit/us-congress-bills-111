@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4451
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4451
@@ -25,3 +25,11 @@ Collinsville Renewable Energy Promotion Act
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Referred to the House Committee on Energy and Commerce.
+- 2010-01-15 — Referred to the Subcommittee on Energy and Environment.
+- 2010-03-24 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-03-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-05-26 — Committee Consideration and Mark-up Session Held.
+- 2010-05-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-06-14 — Placed on the Union Calendar, Calendar No. 289.
+- 2010-06-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-505.
+- 2010-06-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-505.

@@ -13,21 +13,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Collinsville Renewable Energy Promotion Act”.
 
-## § 2. Reinstatement of expired licenses and extension of time to commence construction of Projects
+## § 2. Reinstatement of expired licenses and extension of time to commence construction of projects
 
-Subject to section 4 of this Act and notwithstanding the time period under section 13 of the Federal Power Act (16 U.S.C. 806) that would otherwise apply to Federal Energy Regulatory Commission projects numbered 10822 and 10823, the Commission may—
+Subject to section 4 of this Act and notwithstanding the time period under section 13 of the Federal Power Act (16 U.S.C. 806) that would otherwise apply to Federal Energy Regulatory Commission projects numbered 10822 and 10823, the Federal Energy Regulatory Commission (referred to in this Act as the “Commission”) may—
 
 - **(1)** reinstate the license for either or each of those projects; and
 - **(2)** extend for 2 years after the date on which either or each project is reinstated under paragraph (1) the time period during which the licensee is required to commence the construction of such projects.
 
 ## § 3. Transfer of licenses to the town of Canton, Connecticut
 
-Notwithstanding section 8 of the Federal Power Act (16 U.S.C. 801) or any other provision thereof, if the Commission reinstates the license for, and extends the time period during which the licensee is required to commence the construction of, a Federal Regulatory Commission project under section 2, the Commission shall transfer such license to the town of Canton, Connecticut.
+Notwithstanding section 8 of the Federal Power Act (16 U.S.C. 801) or any other provision thereof, if the Commission reinstates the license for, and extends the time period during which the licensee is required to commence the construction of, a Federal Energy Regulatory Commission project under section 2, the Commission shall transfer such license to the town of Canton, Connecticut.
 
 ## § 4. Environmental assessment
 
 - **(a)** *Definition* For purposes of this section, the term environmental assessment shall have the same meaning as is given such term in regulations prescribed by the Council on Environmental Quality that implement the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
-- **(b)** *Environmental assessment* Not later than 180 days after the date of enactment of this Act, the Federal Energy Regulatory Commission (referred to in this Act as the “Commission”) shall complete an environmental assessment for Federal Energy Regulatory Commission projects numbered 10822 and 10823, updating, to the extent necessary, the environmental analysis performed during the process of licensing such projects.
+- **(b)** *Environmental assessment* Not later than 180 days after the date of enactment of this Act, the Commission shall complete an environmental assessment for Federal Energy Regulatory Commission projects numbered 10822 and 10823, updating, to the extent necessary, the environmental analysis performed during the process of licensing such projects.
 - **(c)** *Comment period* Upon issuance of the environmental assessment required under subsection (b), the Commission shall—
   - **(1)** initiate a 30-day public comment period; and
   - **(2)** before taking any action under section 2 or 3—
@@ -40,3 +40,7 @@ Not later than 270 days after the date of enactment of this Act, the Commission 
 
 - **(1)** make a final decision pursuant to paragraph (1) of section 2; and
 - **(2)** if the Commission decides to reinstate 1 or both of the licenses under such paragraph and extend the corresponding deadline for commencement of construction under paragraph (2) of such section, complete the action required under section 3.
+
+## § 6. Protection of existing rights
+
+Nothing in this Act shall affect any valid license issued by the Commission under section 4 of the Federal Power Act (16 U.S.C. 797) on or before the date of enactment of this Act or diminish or extinguish any existing rights under any such license.
