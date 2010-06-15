@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5502
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5502
@@ -25,9 +25,10 @@ To amend the effective date of the gift card provisions of the Credit Card Accou
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,5 @@ To amend the effective date of the gift card provisions of the Credit Card Accou
 - 2010-06-14 — Mr. Hinojosa moved to suspend the rules and pass the bill.
 - 2010-06-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 357). (text: CR H4394)
 - 2010-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 357).(text: CR H4394)
+- 2010-06-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-06-15 — Sponsor introductory remarks on measure. (CR E1100-1101)
