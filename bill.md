@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1508
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -120,7 +120,7 @@ This Act may be cited as the “Improper Payments Elimination and Recovery Act o
       - **(ii)** may be credited, if applicable, for that purpose by the head of an agency to any agency appropriations and funds that are available for obligation at the time of collection; and
       - **(iii)** shall be used to supplement and not supplant any other amounts available for that purpose and shall remain available until expended.
     - **(C)** *Use for original purpose* Not more than 25 percent of the amounts collected by an agency—
-      - **(i)** shall be credited to the appropriation or fund, if any, available for obligation at the time of collection for the same general purposes as the appropriation or fund from which the overpayment was made; and
+      - **(i)** shall be credited to the appropriation or fund, if any, available for obligation at the time of collection shall be deposited and available subject to appropriation for the same general purposes as the appropriation or fund from which the overpayment was made; and
       - **(ii)** shall remain available for the same period and purposes as the appropriation or fund to which credited.
     - **(D)** *Use for inspector general activities* Not more than 5 percent of the amounts collected by an agency shall be available, subject to appropriation, to the Inspector General of that agency for—
       - **(i)** the Inspector General to carry out this Act; or

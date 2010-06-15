@@ -1,7 +1,7 @@
 ---
 measure: S. 1508
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1508
@@ -16,12 +16,13 @@ Improper Payments Elimination and Recovery Act of 2010
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. McCain, John [R-AZ] (M000303)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ Improper Payments Elimination and Recovery Act of 2010
 
 - 2009-07-23 — Introduced in Senate
 - 2009-07-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-07-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2010-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2010-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
