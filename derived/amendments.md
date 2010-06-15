@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5502
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 

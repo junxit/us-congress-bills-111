@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5502
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5502
@@ -49,3 +49,15 @@ To amend the effective date of the gift card provisions of the Credit Card Accou
 - 2010-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 357).(text: CR H4394)
 - 2010-06-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
 - 2010-06-15 — Sponsor introductory remarks on measure. (CR E1100-1101)
+- 2010-07-13 — Cleared for White House.
+- 2010-07-13 — Passed Senate without amendment by Unanimous Consent.
+- 2010-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-07-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5795)
+- 2010-07-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5795)
+- 2010-07-14 — Message on Senate action sent to the House.
+- 2010-07-15 — Presented to President.
+- 2010-07-15 — Presented to President.
+- 2010-07-27 — Became Public Law No: 111-209.
+- 2010-07-27 — Became Public Law No: 111-209.
+- 2010-07-27 — Signed by President.
+- 2010-07-27 — Signed by President.
