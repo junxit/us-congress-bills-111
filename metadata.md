@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1389
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1389
@@ -16,7 +16,7 @@ Recognizing the immeasurable contributions of fathers in the healthy development
 
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Cosponsors (29)
+## Cosponsors (33)
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Cole, Tom [R-OK-4] (C001053)
@@ -47,13 +47,29 @@ Recognizing the immeasurable contributions of fathers in the healthy development
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2010-06-15 — [House 111-2-361](votes/house-111-2-0361.md) — On Motion to Suspend the Rules and Agree — **Passed** (416–0)
 
 ## Actions
 
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Referred to the House Committee on Education and Labor.
+- 2010-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-15 — Considered as unfinished business. (consideration: CR H4476-4477)
+- 2010-06-15 — Considered under suspension of the rules. (consideration: CR H4454-4456)
+- 2010-06-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1389.
+- 2010-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-15 — Ms. Woolsey moved to suspend the rules and agree to the resolution.
+- 2010-06-15 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 361). (text: CR H4454)
+- 2010-06-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 361).(text: CR H4454)
