@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4275
@@ -60,3 +60,13 @@ To designate the annex building under construction for the Elbert P. Tuttle Unit
 - 2010-06-15 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-06-15 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 429.
+- 2010-08-05 — Cleared for White House.
+- 2010-08-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6975)
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6975)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Presented to President.
+- 2010-08-16 — Became Public Law No: 111-234.
+- 2010-08-16 — Became Public Law No: 111-234.
+- 2010-08-16 — Signed by President.
+- 2010-08-16 — Signed by President.
