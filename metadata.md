@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1414
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1414
@@ -16,7 +16,7 @@ Congratulating Urban Prep Charter Academy for Young Men-Englewood Campus, the Na
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Cosponsors (26)
+## Cosponsors (35)
 
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
@@ -44,13 +44,34 @@ Congratulating Urban Prep Charter Academy for Young Men-Englewood Campus, the Na
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2010-06-16 — [House 111-2-367](votes/house-111-2-0367.md) — On Motion to Suspend and Agree, as Amended — **Passed** (420–0)
 
 ## Actions
 
 - 2010-05-28 — Introduced in House
 - 2010-05-28 — Introduced in House
 - 2010-05-28 — Referred to the House Committee on Education and Labor.
+- 2010-06-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Woolsey objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-15 — Considered under suspension of the rules. (consideration: CR H4456-4462)
+- 2010-06-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1414.
+- 2010-06-15 — Ms. Woolsey moved to suspend the rules and agree to the resolution, as amended.
+- 2010-06-16 — Considered as unfinished business. (consideration: CR H4569-4570)
+- 2010-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-16 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 367). (text: CR 6/15/2010 H4456-4457)
+- 2010-06-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 367).(text: CR 6/15/2010 H4456-4457)
