@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2142
 
-> To require the review of Government programs at least once every 5 years for purposes of assessing their performance and improving their operations, and to establish the Performance Improvement Council.
+> To require quarterly performance assessments of Government programs for purposes of assessing agency performance and improvement, and to establish agency performance improvement officers and the Performance Improvement Council.
 
 ## § 1. Short title; table of contents
 
@@ -114,6 +114,7 @@ It is the sense of Congress that the head of each Federal agency should make eve
   > - **(j)** *Definitions* In this section:
   >   - **(1)** *Agency performance improvement officer* The term “agency performance improvement officer” means a senior executive of an agency who is designated by the head of the agency, and reports to the head of the agency, the agency Deputy Secretary, or such other agency official designated by the head of the agency, to carry out the requirements of this section.
   >   - **(2)** *Performance information* The term “performance information” means the results of assessments conducted under this section.
+  > - **(k)** *Construction* Nothing in this section shall be construed as requiring the head of an agency to perform impact evaluations that estimate quantitatively, for one or more variables, the effect a program or policy had compared to what may have otherwise happened.
 
 - **(b)** *Performance assessments To be considered in evaluating senior executives* Section 4313 of title 5, United States Code, is amended (in the matter before paragraph (1)) by striking “organizational performance,” and inserting the following: “organizational performance (including such reviews of agency performance, conducted under section 1120 of title 31, as are relevant),”.
 - **(c)** *Clerical amendment* The table of sections at the beginning of chapter 11 of title 31, United States Code, is amended by adding at the end the following:
@@ -189,7 +190,7 @@ It is the sense of Congress that the head of each Federal agency should make eve
 ## § 8. Assessments and reports
 
 - **(a)** *Assessments*
-  - **(1)** *In general* No less frequently than the first, third, and fifth year after the date of the enactment of this Act, and thereafter every three years and at such other times as may be requested by Congress, the Comptroller General of the United States shall assess the implementation of this Act by the Director of the Office of Management and Budget and the agencies decribed in section 901(b) of title 31, United States Code, with emphasis on the matters specified in paragraph (2).
+  - **(1)** *In general* No less frequently than the first, third, and fifth year after the date of the enactment of this Act, and thereafter every three years and at such other times as may be requested by Congress, the Comptroller General of the United States shall assess the implementation of this Act by the Director of the Office of Management and Budget and the agencies described in section 901(b) of title 31, United States Code, with emphasis on the matters specified in paragraph (2).
   - **(2)** *Matters to be assessed* The matters to be assessed under paragraph (1) shall include, with respect to the fiscal year covered by the assessment:
     - **(A)** Whether the selection of goals, identified pursuant to section 1120(a) of title 31, United States Code, as added by section 5, and established pursuant to section 1115 of such title, is tied to performance outcomes that can be objectively assessed and measured and have a high direct value to the public.
     - **(B)** The use of agency performance goals and measures and program assessments to improve performance and ensure taxpayer dollars are spent in an efficient and effective manner, including the need to streamline or enhance Federal programs or initiatives to maximize the likelihood of accomplishing such performance goals.
@@ -202,10 +203,10 @@ It is the sense of Congress that the head of each Federal agency should make eve
     - **(I)** Whether the annual performance plan established pursuant to section 1115 of title 31, United States Code, conforms with the requirements for such plans described in paragraphs (1) through (11) of section 1115(a) of such title.
     - **(J)** The progress each agency has made in achieving the goals identified pursuant to section 1120(a) of title 31, United States Code, as added by section 5, and established pursuant to section 1115 of such title.
 - **(b)** *Reports* The Comptroller General shall consult with the Inspectors General when evaluating program and agency performance and shall submit to Congress a report on the results of each assessment conducted under subsection (a). The report shall include a list of recommendations on ways to improve the performance assessment and communication process and the operations of agency performance improvement officers and the Performance Improvement Council.
-- **(c)** *Effectiveness assessment* With respect to the evaluation conducted under subsection (a) in the third year after the date of the enactment of this Act, the Comptroller General shall include in the report relating to such evaluation submitted to Congress under this section the following:
-  - **(1)** an assessment of the effectiveness of this Act, and the amendments made by this Act;
-  - **(2)** the impact of this Act on sections 1115, 1116, 1117, and the first 9703 of title 31, United States Code, and section 306 of title 5, United States Code; and
-  - **(3)** any recommendations for improving the effectiveness of sections 1115, 1116, 1117, and the first 9703 of title 31, United States Code, and section 306 of title 5, United States Code and reducing duplication.
+- **(c)** *Effectiveness assessment* With respect to the assessment conducted under subsection (a) in the third year after the date of the enactment of this Act, the Comptroller General shall include in the report relating to such assessment submitted to Congress under this section the following:
+  - **(1)** An assessment of the effectiveness of this Act, and the amendments made by this Act.
+  - **(2)** The impact of this Act on sections 1115, 1116, 1117, and the first 9703 of title 31, United States Code, and section 306 of title 5, United States Code.
+  - **(3)** Any recommendations for improving the effectiveness of sections 1115, 1116, 1117, and the first 9703 of title 31, United States Code, and section 306 of title 5, United States Code and reducing duplication.
 
 ## § 9. Additions to performance plan
 
@@ -219,3 +220,11 @@ Section 1115(a) of title 31, United States Code, is amended—
   > - **(9)** if the program is not new, describe the amount of funds expended in the previous year and state the progress made in the previous year toward solving the problem described under paragraph (7), including evidence of whether the problem is increasing, decreasing, or staying the same;
   > - **(10)** describe the specific level of improvement expected to be made toward addressing the problem described under paragraph (7); and
   > - **(11)** state the long-term goal for the program and when that goal is expected to be achieved or the problem described under paragraph (7) reduced to an acceptable level.
+
+## § 10. Savings
+
+Any savings or reductions in expenditures generated by this Act shall be used to offset the costs of implementation of this Act and any additional savings shall be used to offset the deficit.
+
+## § 11. Funding
+
+Agencies shall fund the reporting requirements of this Act out of existing budgets and are authorized to make necessary reprogramming of funds.
