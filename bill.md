@@ -11,10 +11,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on June 25, 1950, communist North Korea invaded the Republic of Korea with approximately 135,000 troops, thereby initiating the Korean War;
-- Whereas, on June 27, 1950, President Harry Truman ordered the United States Armed Forces to help the Republic of Korea defend itself against the North Korean invasion;
+- Whereas on June 25, 1950, communist North Korea invaded the Republic of Korea with approximately 135,000 troops, thereby initiating the Korean War;
+- Whereas on June 27, 1950, President Harry Truman ordered the United States Armed Forces to help the Republic of Korea defend itself against the North Korean invasion;
 - Whereas the hostilities ended in a cease-fire marked by the signing of the armistice at Panmunjom on July 27, 1953, and the peninsula still technically remains in a state of war;
-- Whereas, during the Korean War, approximately 1,789,000 members of the United States Armed Forces served in theater along with the forces of the Republic of Korea and 20 other members of the United Nations to defend freedom and democracy;
+- Whereas during the Korean War, approximately 1,789,000 members of the United States Armed Forces served in theater along with the forces of the Republic of Korea and 20 other members of the United Nations to defend freedom and democracy;
 - Whereas casualties of the United States during the Korean War included 54,246 dead (of whom 33,739 were battle deaths), more than 103,284 wounded, and approximately 8,055 listed as missing in action or prisoners of war;
 - Whereas the Korean War Veterans Recognition Act (Public Law 111–41) was enacted on July 27, 2009, so that the honorable service and noble sacrifice by members of the United States Armed Forces in the Korean War will never be forgotten;
 - Whereas President Barack Obama issued a proclamation to designate July 27, 2009, as the National Korean War Veterans Armistice Day and called upon Americans to display flags at half-staff in memory of the Korean War veterans;
