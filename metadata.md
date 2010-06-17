@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2142
@@ -74,9 +74,10 @@ GPRA Modernization Act of 2010
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -97,3 +98,4 @@ GPRA Modernization Act of 2010
 - 2010-06-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4553-4556)
 - 2010-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4553-4556)
 - 2010-06-16 — The title of the measure was amended. Agreed to without objection.
+- 2010-06-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
