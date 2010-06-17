@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 242
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 242
@@ -105,3 +105,4 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2010-06-16 — Mr. Cohen moved to suspend the rules and agree to the resolution.
 - 2010-06-16 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 365). (text: CR H4543-4544)
 - 2010-06-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 365).(text: CR H4543-4544)
+- 2010-06-17 — Received in the Senate.
