@@ -32,6 +32,5 @@ That Congress—
 
 - **(1)** recognizes the historical importance of the 60th anniversary of the outbreak of the Korean War, which began on June 25, 1950;
 - **(2)** honors the noble service and sacrifice of the United States Armed Forces and the armed forces of allied countries that served in Korea since 1950 to the present;
-- **(3)** encourages all Americans to participate in commemorative activities to pay solemn tribute to, and to never forget, the veterans of the Korean War;
-- **(4)** calls upon the President to issue a proclamation recognizing the 60th anniversary of the Korean War and commemorating National Korean War Veterans Armistice Day; and
-- **(5)** reaffirms the commitment of the United States to its alliance with the Republic of Korea for the betterment of peace and prosperity on the Korean Peninsula.
+- **(3)** encourages all Americans to participate in commemorative activities to pay solemn tribute to, and to never forget, the veterans of the Korean War; and
+- **(4)** reaffirms the commitment of the United States to its alliance with the Republic of Korea for the betterment of peace and prosperity on the Korean Peninsula.
