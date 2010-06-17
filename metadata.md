@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1357
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1357
@@ -16,7 +16,7 @@ Commending and congratulating the Hollywood Walk of Fame on the occasion of its 
 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 
-## Cosponsors (39)
+## Cosponsors (52)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
@@ -57,6 +57,19 @@ Commending and congratulating the Hollywood Walk of Fame on the occasion of its 
 - Rep. Buchanan, Vern [R-FL-13] (B001260)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 
 ## Committees (1)
 
@@ -67,3 +80,11 @@ Commending and congratulating the Hollywood Walk of Fame on the occasion of its 
 - 2010-05-12 — Introduced in House
 - 2010-05-12 — Introduced in House
 - 2010-05-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-16 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Watson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-16 — Considered under suspension of the rules. (consideration: CR H4549-4552)
+- 2010-06-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1357.
+- 2010-06-16 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2010-06-17 — Considered as unfinished business. (consideration: CR H4632)
+- 2010-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/16/2010 H4550)
+- 2010-06-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/16/2010 H4550)
