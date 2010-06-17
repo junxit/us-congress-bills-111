@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 286
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 286
@@ -16,7 +16,7 @@ Recognizing the 235th birthday of the United States Army.
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
-## Cosponsors (97)
+## Cosponsors (109)
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
@@ -115,6 +115,18 @@ Recognizing the 235th birthday of the United States Army.
 - Rep. Bonner, Jo [R-AL-1] (B001244)
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Djou, Charles K. [R-HI-1] (D000611)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Harman, Jane [D-CA-36] (H000213)
 
 ## Committees (1)
 
@@ -125,3 +137,11 @@ Recognizing the 235th birthday of the United States Army.
 - 2010-06-14 — Introduced in House
 - 2010-06-14 — Introduced in House
 - 2010-06-14 — Referred to the House Committee on Armed Services.
+- 2010-06-16 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Ortiz objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-16 — Considered under suspension of the rules. (consideration: CR H4564-4568)
+- 2010-06-16 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 286.
+- 2010-06-16 — Mr. Ortiz moved to suspend the rules and agree to the resolution.
+- 2010-06-17 — Considered as unfinished business. (consideration: CR H4632)
+- 2010-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/16/2010 H4564)
+- 2010-06-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/16/2010 H4564)
