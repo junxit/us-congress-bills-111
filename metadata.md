@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 242
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 242
@@ -106,3 +106,6 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2010-06-16 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 365). (text: CR H4543-4544)
 - 2010-06-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 365).(text: CR H4543-4544)
 - 2010-06-17 — Received in the Senate.
+- 2010-06-18 — Message on Senate action sent to the House.
+- 2010-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5161)
+- 2010-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5161)
