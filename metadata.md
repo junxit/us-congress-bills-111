@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 33
 congress: 111
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S.J.Res. 33
