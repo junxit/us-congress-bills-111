@@ -1,15 +1,16 @@
 ---
 legis-num: H.R. 3962
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3962
 
-> To provide affordable, quality health care for all Americans and reduce the growth in health care spending, and for other purposes.
+That the bill from the House of Representatives (H.R. 3962) entitled “An Act to provide affordable, quality health care for all Americans and reduce the growth in health care spending, and for other purposes.”, do pass with the following
 
-## § 1. Short title; table of divisions, titles, and subtitles
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “Affordable Health Care for America Act”.
-- **(b)** *Table of divisions, titles, and subtitles* This Act is divided into divisions, titles, and subtitles as follows:
+## § 1. Short title
+
+This Act may be cited as the “Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010”.

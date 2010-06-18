@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3962
@@ -16,7 +16,7 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
@@ -24,6 +24,8 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (8)
 
@@ -90,3 +92,17 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 - 2009-11-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-11-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-11-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
+- 2010-06-18 — Amendment SA 4383 agreed to in Senate by Unanimous Consent.
+- 2010-06-18 — Amendment SA 4383 proposed by Senator Reid for Senator Baucus. (consideration: CR S5150) In the nature of a substitute.
+- 2010-06-18 — Amendment SA 4384 agreed to in Senate by Unanimous Consent.
+- 2010-06-18 — Amendment SA 4384 proposed by Senator Reid for Senator Baucus. (consideration: CR S5150) To amend the title.
+- 2010-06-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5150-5151)
+- 2010-06-18 — Message on Senate action sent to the House.
+- 2010-06-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-06-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-06-18 — Senate amendment agreed to: Amendment SA 4383 agreed to in Senate by Unanimous Consent.
+- 2010-06-18 — Senate amendment agreed to: Amendment SA 4384 agreed to in Senate by Unanimous Consent.
+- 2010-06-18 — Senate amendment proposed (on the floor): Amendment SA 4383 proposed by Senator Reid for Senator Baucus.(consideration: CR S5150)
+- 2010-06-18 — Senate amendment proposed (on the floor): Amendment SA 4384 proposed by Senator Reid for Senator Baucus.(consideration: CR S5150)
+- 2010-06-18 — Senate amendment submitted
+- 2010-06-18 — Senate amendment submitted
