@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 86
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 86
@@ -93,11 +93,12 @@ Recognizing the 60th anniversary of the outbreak of the Korean War and reaffirmi
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Committees (3)
+## Committees (4)
 
 - House — Veterans' Affairs Committee
 - House — Armed Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -115,3 +116,4 @@ Recognizing the 60th anniversary of the outbreak of the Korean War and reaffirmi
 - 2010-06-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-17 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR 6/16/2010 H4559-4560)
 - 2010-06-17 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR 6/16/2010 H4559-4560)
+- 2010-06-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
