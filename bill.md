@@ -47,4 +47,9 @@ Section 105 of the Clean Air Act (42 U.S.C. 7405) is amended by adding at the en
 >       - **(ii)** the number of grants funded, including the amount of each grant funded;
 >       - **(iii)** the types of technologies funded; and
 >       - **(iv)** the environmental, educational, and financial benefits to eligible schools receiving the grants.
->     - **(D)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2011 through 2015.
+>     - **(D)** *Allocations*
+>       - **(i)** *States* Notwithstanding the other provision of this section, the Administrator shall ensure, in awarding grants under this subsection, that at least 1 grant shall be awarded to an eligible school in each State if at least 1 eligible school in the State has submitted an application that meets the criteria described in subparagraph (B)(ii).
+>       - **(ii)** *Indian tribes* Notwithstanding any other provision of this subsection, before providing grants under this subsection, the Administrator shall allocate at least 2.0 percent of the total annual amount made available to carry out this subsection among Indian tribes, based on criteria described in subparagraph (B)(ii).
+>     - **(E)** *Geographical and size differences* In addition to applying the criteria described in subparagraph (B)(ii), the Administrator shall ensure geographical diversity among grant awardees and ensure that grant awardees reflect a variety of schools sizes.
+>     - **(F)**
+>       - **(D)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2011 through 2015.
