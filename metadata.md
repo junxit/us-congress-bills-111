@@ -1,7 +1,7 @@
 ---
 measure: S. 3372
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3372
@@ -16,7 +16,7 @@ A bill to modify the date on which the Administrator of the Environmental Protec
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -29,6 +29,10 @@ A bill to modify the date on which the Administrator of the Environmental Protec
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -38,3 +42,7 @@ A bill to modify the date on which the Administrator of the Environmental Protec
 
 - 2010-05-13 — Introduced in Senate
 - 2010-05-13 — Read twice and referred to the Committee on Environment and Public Works.
+- 2010-05-20 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-06-18 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-209.
+- 2010-06-18 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-209.
+- 2010-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
