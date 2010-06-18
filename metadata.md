@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 286
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 286
@@ -128,9 +128,10 @@ Recognizing the 235th birthday of the United States Army.
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 - Rep. Harman, Jane [D-CA-36] (H000213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -145,3 +146,4 @@ Recognizing the 235th birthday of the United States Army.
 - 2010-06-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/16/2010 H4564)
 - 2010-06-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/16/2010 H4564)
+- 2010-06-18 — Received in the Senate and referred to the Committee on the Judiciary.
