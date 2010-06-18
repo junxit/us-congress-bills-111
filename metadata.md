@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3962
@@ -38,12 +38,13 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2009-11-07 — [House 111-1-884](votes/house-111-1-0884.md) — On Agreeing to the Amendment — **Agreed to** (240–194)
 - 2009-11-07 — [House 111-1-885](votes/house-111-1-0885.md) — On Agreeing to the Amendment — **Failed** (176–258)
 - 2009-11-07 — [House 111-1-886](votes/house-111-1-0886.md) — On Motion to Recommit with Instructions — **Failed** (187–247)
 - 2009-11-07 — [House 111-1-887](votes/house-111-1-0887.md) — On Passage — **Passed** (220–215)
+- 2010-06-24 — [House 111-2-393](votes/house-111-2-0393.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (417–1)
 
 ## Actions
 
@@ -106,3 +107,17 @@ Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act
 - 2010-06-18 — Senate amendment proposed (on the floor): Amendment SA 4384 proposed by Senator Reid for Senator Baucus.(consideration: CR S5150)
 - 2010-06-18 — Senate amendment submitted
 - 2010-06-18 — Senate amendment submitted
+- 2010-06-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-06-24 — Cleared for White House.
+- 2010-06-24 — Considered as unfinished business. (consideration: CR H4856)
+- 2010-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3962.
+- 2010-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-24 — Mr. Levin moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H4829-4841)
+- 2010-06-24 — On motion that the House suspend the rules and concur in the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 393). (text as House agreed to Senate amendments: CR H4829-4835)
+- 2010-06-24 — Presented to President.
+- 2010-06-24 — Presented to President.
+- 2010-06-24 — Resolving differences -- House actions: On motion that the House suspend the rules and concur in the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 393).(text as House agreed to Senate amendments: CR H4829-4835)
+- 2010-06-25 — Became Public Law No: 111-192.
+- 2010-06-25 — Became Public Law No: 111-192.
+- 2010-06-25 — Signed by President.
+- 2010-06-25 — Signed by President.

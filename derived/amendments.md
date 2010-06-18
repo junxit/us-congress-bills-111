@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -44,11 +44,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the paragraph heading, by striking “past-due” and inserting “medicare”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “past-due obligations described in subparagraph (B)(ii) of an” and inserting “amount described in subparagraph (B)(ii) due from such”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(ii), by striking “a past-due obligation” and inserting “an amount that is more than the amount required to be paid”. | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (2) of section 303(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end the following subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 303(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (2) of section 303(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end the following subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 303(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1), by striking “the shortfall amortization bases for such plan year and each of the 6 preceding plan years” and inserting “any shortfall amortization base which has not been fully amortized under this subsection”, and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (j)(3), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (2) of section 430(c) is amended by adding at the end the following subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (2) of section 430(c) is amended by adding at the end the following subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 430(c) is amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1), by striking “the shortfall amortization bases for such plan year and each of the 6 preceding plan years” and inserting “any shortfall amortization base which has not been fully amortized under this subsection”, and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (j)(3), by adding at the end the following: | the bill names no machine-readable US Code section |

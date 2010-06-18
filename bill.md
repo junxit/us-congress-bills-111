@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3962
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3962
 
-That the bill from the House of Representatives (H.R. 3962) entitled “An Act to provide affordable, quality health care for all Americans and reduce the growth in health care spending, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide a physician payment update, to provide pension funding relief, and for other purposes.
 
 ## § 1. Short title
 
