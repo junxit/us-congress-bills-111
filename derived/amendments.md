@@ -1,7 +1,7 @@
 ---
 measure: S. 2724
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,4 +44,18 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 18 (as redesignated by section 7(2)) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(b) Lands” and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 108(g) of title I of division C of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2942) is amended by striking “$25,000,000” and inserting “$75,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 2 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 3 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(3), by striking “basin” and inserting “Basin”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 5 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 6 and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking sections 8 and 9; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating sections 10, 11, and 12 as sections 16, 17, and 18, respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 7 the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 17 of The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2358) (as redesignated by section 7(2)) is amended by inserting “, Director, or Administrator” after “Secretary”. | the bill names no machine-readable US Code section |
+| — | redesignate | The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended by striking section 18 (as redesignated by section 7(2)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(b) Lands” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 108(g) of title I of division C of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2942) is amended by striking “$25,000,000” and inserting “$75,000,000”. | the bill names no machine-readable US Code section |
