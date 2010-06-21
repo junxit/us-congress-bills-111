@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 560
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 560
@@ -34,3 +34,7 @@ A resolution recognizing the immeasurable contributions of fathers in the health
 
 - 2010-06-17 — Introduced in Senate
 - 2010-06-17 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5114)
+- 2010-06-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5212)
+- 2010-06-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5212)
+- 2010-06-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5212)
+- 2010-06-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5212)
