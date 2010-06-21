@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2872
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,13 +17,16 @@ Section 2504(g)(1) of title 44, United States Code, is amended—
 - **(2)** in subparagraph (S), by striking the period and inserting “; and”; and
 - **(3)** by adding at the end of the following:
   > - **(T)** $13,000,000 for fiscal year 2010, $13,500,000 for fiscal year 2011, $14,000,000 for fiscal year 2012, $14,500,000 for fiscal year 2013, and $15,000,000 for fiscal year 2014.
+  > - **(T)** $10,000,000 for each of fiscal years 2010, 2011, 2012, 2013, and 2014.
 
 ## § 2. Increased flexibility for archivist in the records center revolving fund
 
-Subsection (d) under the heading “records center revolving fund ” in title IV of the Independent Agencies Appropriations Act, 2000 (Public Law 106–58; 113 Stat. 460; 44 U.S.C. 2901 note), is amended—
+Subsection (d) under the heading “records center revolving fund ” in title IV of the Independent Agencies Appropriations Act, 2000 (Public Law 106-58; 113 Stat. 460; 44 U.S.C. 2901 note), is amended—
 
 - **(1)** in paragraph (1), by striking “not to exceed 4 percent” and inserting “determined by the Archivist of the United States”; and
 - **(2)** in paragraph (2), by striking “Funds in excess of the 4 percent at the close of each fiscal year” and inserting “Any unobligated and unexpended balances in the Fund that the Archivist of the United States determines to be in excess of those needed for capital equipment or a reasonable operating reserve”.
+- **(1)** in paragraph (1), by striking “not to exceed 4 percent” and inserting “not to exceed 10 percent”; and
+- **(2)** in paragraph (2), by striking “Funds in excess of the 4 percent at the close of each fiscal year” and inserting “Funds in excess of the 10 percent at the close of each fiscal year”.
 
 ## § 3. Grants for establishment of state and local databases for records of servitude, emancipation, and post-civil war reconstruction
 

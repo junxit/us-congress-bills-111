@@ -1,7 +1,7 @@
 ---
 measure: S. 2872
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2872
@@ -34,3 +34,7 @@ A bill to authorize appropriations for the National Historical Publications and 
 - 2009-12-11 — Introduced in Senate
 - 2009-12-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S13035)
 - 2009-12-11 — Sponsor introductory remarks on measure. (CR S13034-13035)
+- 2009-12-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2010-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-213.
+- 2010-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-213.
+- 2010-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 438.
