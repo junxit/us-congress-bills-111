@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5297
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5297
@@ -203,3 +203,5 @@ Small Business Jobs Act of 2010
 - 2010-06-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5297.
 - 2010-06-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4617)
 - 2010-06-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-06-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-06-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
