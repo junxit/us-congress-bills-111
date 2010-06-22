@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 288
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 288
@@ -16,7 +16,7 @@ Supporting National Men's Health Week.
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Cosponsors (58)
+## Cosponsors (60)
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
@@ -76,13 +76,29 @@ Supporting National Men's Health Week.
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 - Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-06-22 — [House 111-2-376](votes/house-111-2-0376.md) — On Motion to Suspend the Rules and Agree — **Passed** (388–0)
 
 ## Actions
 
 - 2010-06-14 — Introduced in House
 - 2010-06-14 — Introduced in House
 - 2010-06-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-17 — Committee Consideration and Mark-up Session Held.
+- 2010-06-17 — Ordered to be Reported by Unanimous Consent.
+- 2010-06-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-22 — Considered as unfinished business. (consideration: CR H4651-4652)
+- 2010-06-22 — Considered under suspension of the rules. (consideration: CR H4640-4643)
+- 2010-06-22 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 288.
+- 2010-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-22 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2010-06-22 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 376). (text: CR H4640-4641)
+- 2010-06-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 376).(text: CR H4640-4641)
