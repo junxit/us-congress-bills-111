@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4805
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents of the Toxic Substances Control Act (15 U.S.C. prec. 2601) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

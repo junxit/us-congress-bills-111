@@ -20,7 +20,7 @@ This Act may be cited as the “Formaldehyde Standards for Composite Wood Produc
 
 ## § 3. Reports to Congress
 
-Not later than December 31, 2010, and annually thereafter through December 31, 2014, the Administrator of the Environmental Protection Agency shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing, with respect to the preceding calendar year—
+Not later than one year after the date of enactment of this Act, and annually thereafter through December 31, 2014, the Administrator of the Environmental Protection Agency shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing, with respect to the preceding year—
 
 - **(1)** the status of the measures carried out or planned to be carried out pursuant to title VI of the Toxic Substances Control Act; and
 - **(2)** the extent to which relevant industries have achieved compliance with the requirements under that title.
