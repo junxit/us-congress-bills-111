@@ -1,7 +1,7 @@
 ---
 measure: S. 1508
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1508
@@ -36,3 +36,12 @@ Improper Payments Elimination and Recovery Act of 2010
 - 2010-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
 - 2010-06-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
 - 2010-06-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
+- 2010-06-23 — Amendment SA 4392 agreed to in Senate by Unanimous Consent.
+- 2010-06-23 — Amendment SA 4392 proposed by Senator Durbin for Senator Carper. (consideration: CR S5309) In the nature of a substitute.
+- 2010-06-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5306-5309; text as reported in Senate: CR S5306-5309)
+- 2010-06-23 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-23 — Senate amendment agreed to: Amendment SA 4392 agreed to in Senate by Unanimous Consent.
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4392 proposed by Senator Durbin for Senator Carper.(consideration: CR S5309)
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-23 — The committee reported amendment was withdrawn by Unanimous Consent. (consideration: CR S5309)
