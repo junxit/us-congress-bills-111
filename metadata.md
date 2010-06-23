@@ -1,7 +1,7 @@
 ---
 measure: S. 1508
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1508
@@ -28,6 +28,10 @@ Improper Payments Elimination and Recovery Act of 2010
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-07-14 — [House 111-2-442](votes/house-111-2-0442.md) — On Motion to Suspend the Rules and Pass — **Passed** (414–0)
+
 ## Actions
 
 - 2009-07-23 — Introduced in Senate
@@ -45,3 +49,21 @@ Improper Payments Elimination and Recovery Act of 2010
 - 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4392 proposed by Senator Durbin for Senator Carper.(consideration: CR S5309)
 - 2010-06-23 — Senate amendment submitted
 - 2010-06-23 — The committee reported amendment was withdrawn by Unanimous Consent. (consideration: CR S5309)
+- 2010-06-24 — Held at the desk.
+- 2010-06-24 — Message on Senate action sent to the House.
+- 2010-06-24 — Received in the House.
+- 2010-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-07-14 — Cleared for White House.
+- 2010-07-14 — Considered as unfinished business. (consideration: CR H5590)
+- 2010-07-14 — Considered under suspension of the rules. (consideration: CR H5553-5558)
+- 2010-07-14 — DEBATE - The House proceeded with forty minutes of debate on S. 1508.
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 442). (text: CR H5553-5556)
+- 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 442).(text: CR H5553-5556)
+- 2010-07-20 — Presented to President.
+- 2010-07-20 — Presented to President.
+- 2010-07-22 — Became Public Law No: 111-204.
+- 2010-07-22 — Became Public Law No: 111-204.
+- 2010-07-22 — Signed by President.
+- 2010-07-22 — Signed by President.
