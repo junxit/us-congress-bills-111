@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-185 amendatory instructions. 0 executed, 185 stated and not applied.
+196 amendatory instructions. 0 executed, 196 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | amend | Section 5 of the Act entitled “An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes” (25 U.S.C. 305d) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (a) through (c) as subsections (b) through (d), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before subsection (b) (as redesignated by paragraph (2)) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b) (as redesignated by paragraph (2)), by striking “subsection (c)” and inserting “subsection (d)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (a)” and inserting “subsection (b)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “suit” and inserting “the civil action”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subsection (d) (as redesignated by paragraph (2)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “(e) In the event that” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Indian Law Enforcement Reform Act (25 U.S.C. 2801) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (8); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) through (7) as paragraphs (2) through (8), respectively; | the bill names no machine-readable US Code section |
@@ -40,36 +51,36 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding paragraph (1), by striking “Division of Law Enforcement Services” and inserting “Office of Justice Services”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (8), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “Division of Law Enforcement Services” and inserting “Office of Justice Services”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4)(i), in the first sentence, by striking “Division” and inserting “Office of Justice Services”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “Division of Law Enforcement Services” each place it appears and inserting “Office of Justice Services”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(A), by striking “), or” and inserting “or offenses processed by the Central Violations Bureau); or”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “, or” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraphs (B) and (C), by striking “reasonable grounds” each place it appears and inserting “probable cause”; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (C), by adding “or” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 10 of the Indian Law Enforcement Reform Act (25 U.S.C. 2809) is amended by striking subsections (a) through (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting before the period at the end the following: “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country”… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (7) as paragraphs (3) through (8), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 106 (25 U.S.C. 3666) as section 107; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 105 (25 U.S.C. 3665) the following: | the bill names no machine-readable US Code section |
-| — | amend | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 103(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 213(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the section designation and heading and all that follows through “The consent of the United States” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1162 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(e)(1) The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “Agencies” and inserting “agencies”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a) The Secretary may enter into an agreement” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating title V (25 U.S.C. 458bbb et seq.) as title VIII and moving the title so as to appear at the end of the Act; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating sections 501, 502, and 503 (25 U.S.C. 458bbb, 458bbb–1, 458bbb–2) as sections 801, 802, and 803, respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(2) of section 802 and paragraph (2) of section 803 (as redesignated by paragraph (2)), by striking “section 501” and inserting “section 801”. | the bill names no machine-readable US Code section |
@@ -90,7 +101,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1007(b) of the Economic Opportunity Act of 1964 (42 U.S.C. 2996f(b)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 104(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 214(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period at the end and inserting “and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -116,7 +127,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “within the Bureau of Indian Affairs”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “of Alcohol and Substance Abuse” each place it appears; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), in the second sentence, by striking “The Assistant Secretary of the Interior for Indian Affairs” and inserting “The Administrator of the Substance Abuse and Mental Health Services Administration”; and | the bill names no machine-readable US Code section |
@@ -144,7 +155,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b), by striking “as may be necessary” and all that follows through the end of the subsection and inserting “as are necessary for each of fiscal years 2011 through 2015.”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary” the first place it appears and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “The Secretary shall” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” each place it appears and inserting “for each of fiscal years 2011 through 2015”; and | the bill names no machine-readable US Code section |
 | — | replace | Section 103(b) of the Indian Tribal Justice Act (25 U.S.C. 3613(b)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “the provisions of sections 101 and 102 of this Act” and inserting “sections 101 and 102”; and | the bill names no machine-readable US Code section |
@@ -155,7 +166,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d), by striking “the fiscal years 2000 through 2007” and inserting “fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | insert | Section 102 of the Indian Tribal Justice Technical and Legal Assistance Act of 2000 (25 U.S.C. 3662) is amended by inserting “(including guardians ad litem and court-appointed special advocates for children and juveniles)” after “civil l… | the bill names no machine-readable US Code section |
 | — | replace | Section 103 of the Indian Tribal Justice Technical and Legal Assistance Act of 2000 (25 U.S.C. 3663) is amended by striking “criminal legal assistance to members of Indian tribes and tribal justice systems” and inserting “defense counsel… | the bill names no machine-readable US Code section |
-| — | replace | in section 107 (as redesignated by section 104(a)(2)(A)), by striking “2000 through 2004” and inserting “2011 through 2015”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 107 (as redesignated by section 214(a)(2)(A)), by striking “2000 through 2004” and inserting “2011 through 2015”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 201(d) (25 U.S.C. 3681(d)), by striking “2000 through 2004” and inserting “2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | insert | in each of paragraphs (1) through (4) and (6) through (17), by inserting “to” after the paragraph designation; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “State and” and inserting “State, tribal, or”; | the bill names no machine-readable US Code section |
@@ -166,16 +177,16 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (16), by striking “and” at the end | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (17), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (6) through (17) as paragraphs (5) through (16), respectively; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (i), by striking “The authority” and inserting “Except as provided in subsection (j), the authority”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 20109 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13709) is amended by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 20109 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13709) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 20109(c) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13709(c)) is amended by inserting “or consortium of Indian tribes, as applicable,” after “Indian tribe”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 20109 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13709) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title II of the Indian Tribal Justice Technical and Legal Assistance Act of 2000 (25 U.S.C. 3681 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “Nine” and inserting “Ten”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (B), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
@@ -199,11 +210,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (22), by inserting “, tribal,” after “Federal”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively, and indenting the subparagraphs appropriately; | the bill names no machine-readable US Code section |
 | — | replace | by striking “To insure” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “subsection (d)(3)” and inserting “subsection (d)(1)(C)”; | the bill names no machine-readable US Code section |
 | — | insert | in the subsection heading, by inserting “, Tribal,” after “State”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, tribal,” after “State”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 1301(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796h(a)) is amended by inserting “, tribal,” after “State”. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(4), by inserting “, tribal,” after “State”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1), in the first sentence, by striking “officer of the State and of the local jurisdiction” and inserting “officers of each State, tribal, and local jurisdiction”; and | the bill names no machine-readable US Code section |
@@ -213,6 +224,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and tribal communities,” after “States”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, tribal,” after “State”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (12) by inserting “, tribal,” after “State”. | the bill names no machine-readable US Code section |
-| — | insert | Section 3(c)(9) of the Indian Law Enforcement Reform Act (25 U.S.C. 2802(c)(9)) (as amended by section 101(a)(2)) is amended by inserting before the semicolon at the end the following: “, including training to properly interview victims … | the bill names no machine-readable US Code section |
-| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 305) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 603) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 3(c)(9) of the Indian Law Enforcement Reform Act (25 U.S.C. 2802(c)(9)) (as amended by section 211(a)(2)) is amended by inserting before the semicolon at the end the following: “, including training to properly interview victims … | the bill names no machine-readable US Code section |
+| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 235) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Indian Law Enforcement Reform Act (25 U.S.C. 2801 et seq.) (as amended by section 236) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

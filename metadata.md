@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 725
@@ -40,6 +40,10 @@ Indian Arts and Crafts Amendments Act of 2010
 - House — Judiciary Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-07-21 — [House 111-2-455](votes/house-111-2-0455.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (326–92)
+
 ## Actions
 
 - 2009-01-27 — Introduced in House
@@ -71,3 +75,19 @@ Indian Arts and Crafts Amendments Act of 2010
 - 2010-06-23 — Senate amendment agreed to: Amendment SA 4391 agreed to in Senate by Unanimous Consent.
 - 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4391 proposed by Senator Durbin for Senator Dorgan.(consideration: CR S5306)
 - 2010-06-23 — Senate amendment submitted
+- 2010-06-24 — Message on Senate action sent to the House.
+- 2010-07-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-07-21 — Cleared for White House.
+- 2010-07-21 — Considered as unfinished business (consideration: CR H5883)
+- 2010-07-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 725.
+- 2010-07-21 — DEBATE - The House resumed debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 725.
+- 2010-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-21 — Mr. Rahall moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5852-5868)
+- 2010-07-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 326 - 92 (Roll no. 455). (text as House agreed to Senate amendment: CR H5852-5862)
+- 2010-07-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 326 - 92 (Roll no. 455).(text as House agreed to Senate amendment: CR H5852-5862)
+- 2010-07-27 — Presented to President.
+- 2010-07-27 — Presented to President.
+- 2010-07-29 — Became Public Law No: 111-211.
+- 2010-07-29 — Became Public Law No: 111-211.
+- 2010-07-29 — Signed by President.
+- 2010-07-29 — Signed by President.
