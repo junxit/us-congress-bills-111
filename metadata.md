@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 288
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 288
@@ -79,9 +79,10 @@ Supporting National Men's Health Week.
 - Rep. Berry, Marion [D-AR-1] (B000420)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -102,3 +103,4 @@ Supporting National Men's Health Week.
 - 2010-06-22 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2010-06-22 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 376). (text: CR H4640-4641)
 - 2010-06-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 376).(text: CR H4640-4641)
+- 2010-06-23 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
