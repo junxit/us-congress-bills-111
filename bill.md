@@ -41,3 +41,11 @@ This Act may be cited as the “Predisaster Hazard Mitigation Act of 2010”.
       - **(i)** in the second and fourth places it appears in subsection (c); and
       - **(ii)** in subsection (d); and
     - **(B)** in section 626(b) (42 U.S.C. 5197e(b)).
+
+## § 3. Prohibition on earmarks
+
+Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following:
+
+> - **(n)** *Prohibition on earmarks*
+>   - **(1)** *In general* None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending, as defined under rule XLIV of the Standing Rules of the Senate.
+>   - **(2)** *Report to Congress* If grants are awarded under this section using procedures other than competitive procedures, the Administrator of the Federal Emergency Management Agency shall submit to Congress a report explaining why competitive procedures were not used.

@@ -1,7 +1,7 @@
 ---
 measure: S. 3249
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 203(m) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(m)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 602(a) (42 U.S.C. 5195a(a)), by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Director” each place it appears and inserting “Administrator”, except— | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
