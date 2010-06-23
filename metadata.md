@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 725
@@ -16,7 +16,7 @@ Indian Arts and Crafts Amendments Act of 2010
 
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 
-## Cosponsors (6)
+## Cosponsors (16)
 
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
@@ -24,6 +24,16 @@ Indian Arts and Crafts Amendments Act of 2010
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Mark [D-CO] (U000038)
 
 ## Committees (2)
 
@@ -53,3 +63,11 @@ Indian Arts and Crafts Amendments Act of 2010
 - 2010-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H152-153)
 - 2010-01-20 — Received in the Senate.
 - 2010-03-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2010-06-23 — Amendment SA 4391 agreed to in Senate by Unanimous Consent.
+- 2010-06-23 — Amendment SA 4391 proposed by Senator Durbin for Senator Dorgan. (consideration: CR S5306) To improve the prosecution of, and response to, crimes in Indian country.
+- 2010-06-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5306)
+- 2010-06-23 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-06-23 — Senate amendment agreed to: Amendment SA 4391 agreed to in Senate by Unanimous Consent.
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4391 proposed by Senator Durbin for Senator Dorgan.(consideration: CR S5306)
+- 2010-06-23 — Senate amendment submitted
