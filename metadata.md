@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1465
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1465
@@ -16,7 +16,7 @@ Reaffirming the longstanding friendship and alliance between the United States a
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (20)
+## Cosponsors (32)
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Mack, Connie [R-FL-14] (M001155)
@@ -38,6 +38,18 @@ Reaffirming the longstanding friendship and alliance between the United States a
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
 
 ## Committees (1)
 
@@ -48,3 +60,9 @@ Reaffirming the longstanding friendship and alliance between the United States a
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Referred to the House Committee on Foreign Affairs.
+- 2010-06-23 — Considered under suspension of the rules. (consideration: CR H4711-4713)
+- 2010-06-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1465.
+- 2010-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-23 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2010-06-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4711)
+- 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4711)
