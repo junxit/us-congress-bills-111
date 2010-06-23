@@ -18,18 +18,18 @@ This Act may be cited as the “Calling Card Consumer Protection Act”.
 For purposes of this Act, the following definitions apply:
 
 - **(1)** The term Commission means the Federal Trade Commission.
-- **(2)** The term prepaid calling card has the meaning given the term prepaid calling card by section 64.5000(a) of the Federal Communications Commission’s regulations (47 C.F.R. 64.5000(a)). Such term shall also include calling cards that use VoIP service or a successor protocol. Such term shall also include an electronic or other mechanism that allows users to pay in advance for a specified amount of calling. Such term shall not include—
+- **(2)** The term prepaid calling card has the meaning given the term prepaid calling card by section 64.5000(a) of the Federal Communications Commission’s regulations (47 CFR 64.5000(a)). Such term shall also include calling cards that use VoIP service or a successor protocol. Such term shall also include an electronic or other mechanism that allows users to pay in advance for a specified amount of calling. Such term shall not include—
   - **(A)** calling cards or other rights of use that are provided for free or at no additional cost as a promotional item accompanying a product or service purchased by a consumer;
   - **(B)** any card, device, or other right of use, the purchase of which establishes a customer-carrier relationship with a provider of wireless telecommunications service or wireless hybrid service, or that provides access to a wireless telecommunications service or wireless hybrid service account wherein the purchaser has a pre-existing relationship with the wireless service provider; or
   - **(C)** payphone service, as that term is defined in section 276(d) of the Communications Act of 1934 (47 U.S.C. 276(d)).
-- **(3)** The term prepaid calling card provider has the meaning given the term prepaid calling card provider by section 64.5000(b) of the Federal Communications Commission’s regulations (47 C.F.R. 64.5000(b)). Such term shall also include—
+- **(3)** The term prepaid calling card provider has the meaning given the term prepaid calling card provider by section 64.5000(b) of the Federal Communications Commission’s regulations (47 CFR 64.5000(b)). Such term shall also include—
   - **(A)** a provider of a prepaid calling card that uses VoIP service or a successor protocol; and
   - **(B)** a provider of a prepaid calling card that allows users to pay in advance for a specified amount of minutes through an electronic or other mechanism.
 - **(4)** The term prepaid calling card distributor means any entity or person that purchases prepaid calling cards from a prepaid calling card provider or another prepaid calling card distributor and sells, re-sells, issues, or distributes such cards to one or more distributors of such cards or to one or more retail sellers of such cards. Such term shall not include—
   - **(A)** any retail seller whose only activity with respect to the sale of prepaid calling cards is point-of-sale transactions with end-user customers; or
   - **(B)** any person whose only activity with respect to the sale of prepaid calling cards is the transport or delivery of such cards.
-- **(5)** The term wireless hybrid service is defined as a service that integrates both commercial mobile radio service (as defined by section 20.3 of the Federal Communications Commission’s regulations (47 C.F.R. 20.3)) and VoIP service.
-- **(6)** The term VoIP service has the meaning given the term interconnected Voice over Internet protocol service by section 9.3 of the Federal Communications Commission’s regulations (47 C.F.R. 9.3). Such term shall include any voice calling service that utilizes a voice over Internet protocol or any successor protocol in the transmission of the call.
+- **(5)** The term wireless hybrid service is defined as a service that integrates both commercial mobile radio service (as defined by section 20.3 of the Federal Communications Commission’s regulations (47 CFR 20.3)) and VoIP service.
+- **(6)** The term VoIP service has the meaning given the term interconnected Voice over Internet protocol service by section 9.3 of the Federal Communications Commission’s regulations (47 CFR 9.3). Such term shall include any voice calling service that utilizes a voice over Internet protocol or any successor protocol in the transmission of the call.
 - **(7)** The term fees includes all charges, fees, taxes, or surcharges applicable to a prepaid calling card that are—
   - **(A)** required by Federal law or regulation or order of the Federal Communications Commission or by the laws and regulations of any State or political subdivision of a State; or
   - **(B)** expressly permitted to be assessed under Federal law or regulation or order of the Federal Communications Commission or under the laws and regulations of any State or political subdivision of a State.
@@ -70,7 +70,7 @@ For purposes of this Act, the following definitions apply:
 ## § 4. Federal Trade Commission Authority
 
 - **(a)** *Unfair and deceptive act or practice* A violation of section 3 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
-- **(b)** *Authority of the commission* The Commission shall enforce this Act in the same manner and by the same means as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act. Notwithstanding any provision of the Federal Trade Commission Act or any other provision of law and solely for purposes of this Act, common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and any amendment thereto shall be subject to the jurisdiction of the Commission.
+- **(b)** *Authority of the commission* The Commission shall enforce this Act in the same manner and by the same means as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act. Notwithstanding any provision of the Federal Trade Commission Act or any other provision of law, common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and any amendment thereto shall be subject to the jurisdiction of the Commission for purposes of this Act.
 - **(c)** *Rulemaking authority* Not later than 1 year after the date of enactment of this Act, the Commission shall, in consultation with the Federal Communications Commission and in accordance with section 553 of title 5, United States Code, issue regulations to carry out this Act. In promulgating such regulations, the Commission shall—
   - **(1)** take into consideration the need for clear disclosures that provide for easy comprehension and comparison by consumers, taking into account the size of prepaid calling cards; and
   - **(2)** give due consideration to the views of the Federal Communications Commission with regard to matters for which that Commission has particular expertise and authority and shall take into consideration the views of States.
@@ -80,10 +80,10 @@ For purposes of this Act, the following definitions apply:
 ## § 5. State enforcement
 
 - **(a)** *In general*
-  - **(1)** *Civil actions* In any case in which the attorney general of a State, a State utility commission, or other consumer protection agency has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that is prohibited under this Act, the State utility commission or other consumer protection agency, if authorized by State law, or the State, as parens patriae, may bring a civil action on behalf of the residents of that State in a district court of the United States of appropriate jurisdiction, or any other court of competent jurisdiction to—
+  - **(1)** *Civil actions* In any case in which the attorney general of a State, a State utility commission, or other consumer protection agency has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that is prohibited under this Act, the State utility commission or other consumer protection agency, if authorized by State law, or the State, as parens patriae, may bring a civil action on behalf of the residents of that State in an appropriate district court of the United States or any other court of competent jurisdiction to—
     - **(A)** enjoin that practice;
     - **(B)** enforce compliance with this Act;
-    - **(C)** obtain damage, restitution, or other compensation on behalf of residents of the State; or
+    - **(C)** obtain damages, restitution, or other compensation on behalf of residents of the State; or
     - **(D)** obtain such other relief as the court may consider to be appropriate.
   - **(2)** *Notice to the Commission*
     - **(A)** *In general* Before filing an action under paragraph (1), the State shall provide to the Commission—
@@ -104,11 +104,6 @@ For purposes of this Act, the following definitions apply:
   - **(3)** compel the attendance of witnesses or the production of documentary and other evidence; or
   - **(4)** enforce any State law.
 - **(d)** *Action by the Commission may preclude State action* In any case in which an action is instituted by or on behalf of the Commission for violation of this Act, or any regulation issued under this Act, no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of this Act or regulation.
-- **(e)** *Venue; service of process*
-  - **(1)** *Venue* Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code.
-  - **(2)** *Service of process* In an action brought under subsection (a), process may be served in any district in which the defendant—
-    - **(A)** is an inhabitant; or
-    - **(B)** may be found.
 
 ## § 6. Application
 
