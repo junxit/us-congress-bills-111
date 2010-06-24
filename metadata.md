@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5569
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5569
@@ -44,3 +44,4 @@ National Flood Insurance Program Extension Act of 2010
 - 2010-06-23 — Ms. Kosmas moved to suspend the rules and pass the bill.
 - 2010-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4687)
 - 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4687)
+- 2010-06-24 — Received in the Senate, read twice.
