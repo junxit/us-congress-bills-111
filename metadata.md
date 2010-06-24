@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3993
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3993
@@ -21,9 +21,10 @@ Calling Card Consumer Protection Act
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Calling Card Consumer Protection Act
 - 2010-06-23 — Ms. Matsui moved to suspend the rules and pass the bill, as amended.
 - 2010-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 41 (Roll no. 383). (text: CR H4698-4700)
 - 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 41 (Roll no. 383).(text: CR H4698-4700)
+- 2010-06-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
