@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5175
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5175
@@ -138,6 +138,13 @@ DISCLOSE Act
 - House — Judiciary Committee
 - House — Committee on House Administration
 
+## Recorded votes (4)
+
+- 2010-06-24 — [House 111-2-388](votes/house-111-2-0388.md) — On Agreeing to the Amendment — **Failed** (57–369)
+- 2010-06-24 — [House 111-2-389](votes/house-111-2-0389.md) — On Agreeing to the Amendment — **Agreed to** (274–152)
+- 2010-06-24 — [House 111-2-390](votes/house-111-2-0390.md) — On Motion to Recommit with Instructions — **Failed** (208–217)
+- 2010-06-24 — [House 111-2-391](votes/house-111-2-0391.md) — On Passage — **Passed** (219–206)
+
 ## Actions
 
 - 2010-04-29 — Introduced in House
@@ -154,3 +161,60 @@ DISCLOSE Act
 - 2010-05-25 — Placed on the Union Calendar, Calendar No. 280.
 - 2010-05-25 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-492, Part I.
 - 2010-05-25 — Reported (Amended) by the Committee on House Administration. H. Rept. 111-492, Part I.
+- 2010-06-23 — Rules Committee Resolution H. Res. 1468 Reported to House. Rule provides for consideration of H.R. 5175 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules, shall be considered as adopted in the House and in the Committee of the Whole. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-06-24 — Amendment (A001) offered by Mr. Ackerman. (consideration: CR H4816-4817; text: CR H4816)
+- 2010-06-24 — Amendment (A002) offered by Mr. King (IA). (consideration: CR H4817-4818, H4824; text: CR H4817)
+- 2010-06-24 — Amendment (A003) offered by Mr. Kucinich. (consideration: CR H4818-4820; text: CR H4818)
+- 2010-06-24 — Amendment (A004) offered by Mr. Pascrell. (consideration: CR H4820-4822; text: CR H4820)
+- 2010-06-24 — Amendment (A005) offered by Mr. Murphy, Patrick. (consideration: CR H4822-4824, H4824-4825; text: CR H4822-4823)
+- 2010-06-24 — Amendment agreed to Committee of the Whole
+- 2010-06-24 — Amendment agreed to Committee of the Whole
+- 2010-06-24 — Amendment agreed to Committee of the Whole
+- 2010-06-24 — Amendment agreed to Committee of the Whole
+- 2010-06-24 — Amendment failed in Committee of the Whole
+- 2010-06-24 — Considered under the provisions of rule H. Res. 1468. (consideration: CR H4795-4828)
+- 2010-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1468, the Committee of the Whole proceeded with 10 minutes of debate on the Ackerman amendment.
+- 2010-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1468, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment.
+- 2010-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1468, the Committee of the Whole proceeded with 10 minutes of debate on the Kucinich amendment.
+- 2010-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1468, the Committee of the Whole proceeded with 10 minutes of debate on the Pascrell amendment.
+- 2010-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1468, the Committee of the Whole proceeded with 10 minutes of debate on the Patrick Murphy amendment.
+- 2010-06-24 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to strike section 401 of the Bill and replace it with entirely new text.
+- 2010-06-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5175.
+- 2010-06-24 — House amendment agreed to: On agreeing to the Ackerman amendment (A001) Agreed to by voice vote.
+- 2010-06-24 — House amendment agreed to: On agreeing to the Kucinich amendment (A003) Agreed to by voice vote.
+- 2010-06-24 — House amendment agreed to: On agreeing to the Murphy, Patrick amendment (A005) Agreed to by recorded vote: 274 - 152 (Roll no. 389).
+- 2010-06-24 — House amendment agreed to: On agreeing to the Pascrell amendment (A004) Agreed to by voice vote.
+- 2010-06-24 — House amendment not agreed to: On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 57 - 369 (Roll no. 388).
+- 2010-06-24 — House amendment offered
+- 2010-06-24 — House amendment offered
+- 2010-06-24 — House amendment offered
+- 2010-06-24 — House amendment offered
+- 2010-06-24 — House amendment offered
+- 2010-06-24 — House amendment offered/reported by : Amendment (A001) offered by Mr. Ackerman.(consideration: CR H4816-4817; text: CR H4816)
+- 2010-06-24 — House amendment offered/reported by : Amendment (A002) offered by Mr. King (IA).(consideration: CR H4817-4818, H4824; text: CR H4817)
+- 2010-06-24 — House amendment offered/reported by : Amendment (A003) offered by Mr. Kucinich.(consideration: CR H4818-4820; text: CR H4818)
+- 2010-06-24 — House amendment offered/reported by : Amendment (A004) offered by Mr. Pascrell.(consideration: CR H4820-4822; text: CR H4820)
+- 2010-06-24 — House amendment offered/reported by : Amendment (A005) offered by Mr. Murphy, Patrick.(consideration: CR H4822-4824, H4824-4825; text: CR H4822-4823)
+- 2010-06-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1468 and Rule XVIII.
+- 2010-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-24 — Mr. Lungren, Daniel E. moved to recommit with instructions to House Administration. (consideration: CR H4825-4828; text: CR H4825-4826)
+- 2010-06-24 — On agreeing to the Ackerman amendment (A001) Agreed to by voice vote.
+- 2010-06-24 — On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 57 - 369 (Roll no. 388).
+- 2010-06-24 — On agreeing to the Kucinich amendment (A003) Agreed to by voice vote.
+- 2010-06-24 — On agreeing to the Murphy, Patrick amendment (A005) Agreed to by recorded vote: 274 - 152 (Roll no. 389).
+- 2010-06-24 — On agreeing to the Pascrell amendment (A004) Agreed to by voice vote.
+- 2010-06-24 — On motion to recommit with instructions Failed by recorded vote: 208 - 217 (Roll no. 390).
+- 2010-06-24 — On passage Passed by recorded vote: 219 - 206 (Roll no. 391).
+- 2010-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Patrick Murphy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Patrick Murphy demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-06-24 — Passed/agreed to in House: On passage Passed by recorded vote: 219 - 206 (Roll no. 391).
+- 2010-06-24 — Roll call votes on amendments in House
+- 2010-06-24 — Roll call votes on amendments in House
+- 2010-06-24 — Rule H. Res. 1468 passed House.
+- 2010-06-24 — Rule provides for consideration of H.R. 5175 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The amendment in the nature of a substitute recommended by the Committee on House Administration now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules, shall be considered as adopted in the House and in the Committee of the Whole. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2010-06-24 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H4806-4816)
+- 2010-06-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5175.
+- 2010-06-24 — The Speaker designated the Honorable John T. Salazar to act as Chairman of the Committee.
+- 2010-06-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4827)
+- 2010-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4825)
+- 2010-06-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
