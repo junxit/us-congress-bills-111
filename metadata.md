@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5569
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5569
@@ -45,3 +45,13 @@ National Flood Insurance Program Extension Act of 2010
 - 2010-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4687)
 - 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4687)
 - 2010-06-24 — Received in the Senate, read twice.
+- 2010-06-30 — Cleared for White House.
+- 2010-06-30 — Message on Senate action sent to the House.
+- 2010-06-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5679)
+- 2010-06-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5679)
+- 2010-07-01 — Presented to President.
+- 2010-07-01 — Presented to President.
+- 2010-07-02 — Became Public Law No: 111-196.
+- 2010-07-02 — Became Public Law No: 111-196.
+- 2010-07-02 — Signed by President.
+- 2010-07-02 — Signed by President.
