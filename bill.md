@@ -30,4 +30,4 @@ This Act may be cited as the “Environmental Crimes Enforcement Act of 2010”.
   - **(1)** in clause (ii), by striking “or” at the end;
   - **(2)** in clause (iii), by striking “and” at the end and inserting “or”; and
   - **(3)** by adding at the end the following:
-    > - **(iv)** an offense under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
+    > - **(iv)** an offense under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.)section 309(c) of the Federal Water Pollution Control Act (33 U.S.C. 1319(c)); and
