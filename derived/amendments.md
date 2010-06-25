@@ -1,7 +1,7 @@
 ---
 measure: S. 3104
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 

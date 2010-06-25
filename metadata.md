@@ -1,7 +1,7 @@
 ---
 measure: S. 3104
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3104
@@ -38,3 +38,19 @@ A bill to permanently authorize Radio Free Asia, and for other purposes.
 - 2010-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
 - 2010-06-25 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5462-5463; text as passed in Senate: CR S5463)
 - 2010-06-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5462-5463; text as passed in Senate: CR S5463)
+- 2010-06-28 — Held at the desk.
+- 2010-06-28 — Message on Senate action sent to the House.
+- 2010-06-28 — Received in the House.
+- 2010-06-30 — Cleared for White House.
+- 2010-06-30 — Considered under suspension of the rules. (consideration: CR H5275-5277)
+- 2010-06-30 — DEBATE - The House proceeded with forty minutes of debate on S. 3104.
+- 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-30 — Ms. Watson moved to suspend the rules and pass the bill.
+- 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5275)
+- 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5275)
+- 2010-07-01 — Presented to President.
+- 2010-07-01 — Presented to President.
+- 2010-07-13 — Became Public Law No: 111-202.
+- 2010-07-13 — Became Public Law No: 111-202.
+- 2010-07-13 — Signed by President.
+- 2010-07-13 — Signed by President.
