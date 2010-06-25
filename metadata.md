@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5551
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5551
@@ -41,3 +41,5 @@ To require the Secretary of the Treasury to make a certification when making pur
 - 2010-06-23 — Ms. Kosmas moved to suspend the rules and pass the bill, as amended.
 - 2010-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 379). (text: CR H4682-4683)
 - 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 379).(text: CR H4682-4683)
+- 2010-06-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-06-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
