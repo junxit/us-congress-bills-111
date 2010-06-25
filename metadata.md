@@ -1,7 +1,7 @@
 ---
 measure: H.R. 908
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 908
@@ -59,3 +59,7 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization of 2009
 - 2009-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1118)
 - 2009-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1118)
 - 2009-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-06-24 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2010-06-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-06-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
