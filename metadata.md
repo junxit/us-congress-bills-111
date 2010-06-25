@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5481
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5481
@@ -72,3 +72,5 @@ To give subpoena power to the National Commission on the BP Deepwater Horizon Oi
 - 2010-06-23 — Mr. Rahall moved to suspend the rules and pass the bill, as amended.
 - 2010-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1, 2 Present (Roll no. 382). (text: CR H4721)
 - 2010-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1, 2 Present (Roll no. 382).(text: CR H4721)
+- 2010-06-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-06-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.
