@@ -1,7 +1,7 @@
 ---
 measure: S. 3104
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3104
@@ -36,3 +36,5 @@ A bill to permanently authorize Radio Free Asia, and for other purposes.
 - 2010-06-22 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-214.
 - 2010-06-22 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-214.
 - 2010-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
+- 2010-06-25 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5462-5463; text as passed in Senate: CR S5463)
+- 2010-06-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5462-5463; text as passed in Senate: CR S5463)
