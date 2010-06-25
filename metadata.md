@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 285
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 285
@@ -44,3 +44,4 @@ Recognizing the important role that fathers play in the lives of their children 
 - 2010-06-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 387). (text: CR 6/23/2010 H4692)
 - 2010-06-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 387).(text: CR 6/23/2010 H4692)
+- 2010-06-25 — Received in the Senate.
