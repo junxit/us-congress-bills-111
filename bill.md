@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2340
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,44 +13,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Salmon Lake Land Selection Resolution Act”.
 
-## § 2. Findings; purpose
+## § 2. Purpose
 
-- **(a)** *Findings* Congress finds that—
-  - **(1)** Salmon Lake and the water upstream and downstream from Salmon Lake contain important fisheries resources of significance to Alaska Natives in the Bering Straits Region and other residents of the State of Alaska;
-  - **(2)** certain land adjacent to Salmon Lake on the Seward Peninsula within the Bering Straits Region contains archaeological and cultural resources of significance to Alaska Natives in the Bering Straits Region, other residents of the State, and the citizens of the United States;
-  - **(3)** land adjacent to Salmon Lake on the Seward Peninsula within the Bering Straits Region offers, and is suitable for, a variety of recreational activities;
-  - **(4)** the State of Alaska, acting under the Act of July 7, 1958 (commonly known as the “Alaska Statehood Act”) (48 U.S.C. note prec. 21; Public Law 85–508), has selected land in the Salmon Lake area under section 6(b) of that Act (72 Stat. 340);
-  - **(5)** the Bering Straits Native Corporation, an Alaska Native Regional Corporation formed under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), has selected land in the Salmon Lake area under section 14(h)(8) of that Act (43 U.S.C. 1613(h)(8));
-  - **(6)** the Bering Straits Native Corporation and the State of Alaska have conflicting selections to certain land in the Salmon Lake area;
-  - **(7)** the Secretary of the Interior, the State, and the Bering Straits Native Corporation have concluded that it is in the interest of those parties—
-    - **(A)** to protect and preserve the historical, cultural, and natural resources of the Salmon Lake area;
-    - **(B)** to equitably resolve, without further administrative appeals or litigation, the conflicting land selections made—
-      - **(i)** by the State under the Act of July 7, 1958 (commonly known as the “Alaska Statehood Act”) (48 U.S.C. note prec. 21; Public Law 85–508); and
-      - **(ii)** by the Bering Straits Native Corporation in the Salmon Lake area under section 14(h)(8) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(8)); and
-    - **(C)** to provide simultaneously for—
-      - **(i)** continued public ownership, management, use, and access to certain land in the Salmon Lake area;
-      - **(ii)** conveyance to the State of certain land in the Salmon Lake area in partial satisfaction of the entitlement of the State under section 6(a) of the Act of July 7, 1958 (48 U.S.C. note prec. 21; Public Law 85–508); and
-      - **(iii)** conveyance to the Bering Straits Native Corporation of certain land in the Salmon Lake area and other areas of the Bering Straits Region in partial satisfaction of the land allocation of the Corporation under section 14(h)(8) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(8)); and
-  - **(8)** legislation is required to ratify the agreement among the Secretary of the Interior, the State, and the Bering Straits Native Corporation to resolve the conflicting land selections made by the State and the Bering Straits Native Corporation.
-- **(b)** *Purpose* The purpose of this Act is to ratify the Salmon Lake Area Land Ownership and Consolidation Agreement entered into by the Secretary, the State of Alaska, and the Bering Straits Native Corporation.
+The purpose of this Act is to ratify the Salmon Lake Area Land Ownership Consolidation Agreement entered into by the United States, the State of Alaska, and the Bering Straits Native Corporation.
 
 ## § 3. Definitions
 
 In this Act:
 
 - **(1)** *Agreement* The term Agreement means the document—
-  - **(A)** entitled “Salmon Lake Area Land Ownership and Consolidation Agreement”;
-  - **(B)** executed by the Secretary, the State, and the Bering Straits Native Corporation on July 18, 2007; and
+  - **(A)** titled “Salmon Lake Area Land Ownership Consolidation Agreement”;
+  - **(B)** between the United States, the State, and the Bering Straits Native Corporation on July 18, 2007, which was extended until January 1, 2011, by agreement of the parties to the Agreement effective January 1, 2009; and
   - **(C)** on file with—
     - **(i)** the Department of the Interior;
     - **(ii)** the Committee on Energy and Natural Resources of the Senate; and
     - **(iii)** the Committee on Natural Resources of the House of Representatives.
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(3)** *State* The term State means the State of Alaska.
+- **(2)** *Bering Straits Native Corporation* The term “Bering Straits Native Corporation” means an Alaska Native Regional Corporation formed under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for the Bering Straits region of the State.
+- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(4)** *State* The term State means the State of Alaska.
 
 ## § 4. Ratification of Agreement
 
-- **(a)** *Ratification*
-  - **(1)** *In general* Congress approves, ratifies, and incorporates by reference the Agreement.
-  - **(2)** *Conflict* Subject to valid existing rights, if any term of the Agreement conflicts with any other provision of law, the terms of the Agreement shall control.
-- **(b)** *Authorization* The Secretary may carry out all actions permitted or required under the Agreement.
+- **(a)** *In general* Subject to the provisions of this Act, Congress ratifies the Agreement.
+- **(b)** *Easements* The conveyance of land to the Bering Straits Native Corporation, as specified in the Agreement, shall include the reservation of the easements that—
+  - **(1)** are identified in Appendix E to the Agreement; and
+  - **(2)** were developed by the parties to the Agreement in accordance with section 17(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1616(b)).
+- **(c)** *Corrections* Beginning on the date of the enactment of this Act, the Secretary, with the consent of the other parties to the Agreement, may only make typographical or clerical corrections to the Agreement and any exhibits to the Agreement.
+- **(d)** *General authority of Secretary* The Secretary may carry out all actions allowed or required under the Agreement.
+
+## § 5. Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
