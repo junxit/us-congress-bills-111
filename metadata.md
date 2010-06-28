@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5136
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5136
@@ -301,3 +301,9 @@ National Defense Authorization Act for Fiscal Year 2011
 - 2010-05-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5136.
 - 2010-05-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4198)
 - 2010-05-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Skelton en bloc amendment numbered 9 which had been debated earlier and on which further proceedings had been postponed.
+- 2010-06-08 — The title of the measure was amended. Agreed to without objection.
+- 2010-06-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
+- 2010-06-24 — Senate returned papers to House by Unanimous Consent. (consideration: CR S5456)
+- 2010-06-25 — Message on Senate action sent to the House.
+- 2010-06-25 — Papers returned to House pursuant to H. Res. 1467
+- 2010-06-28 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
