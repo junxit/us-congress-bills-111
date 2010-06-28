@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Public Law 95–232 is amended in the first section in subsection (b) by striking “However, such property shall not be Indian country as defined in section 1151 of title 18, United States Code.”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Public Law 95–232 is amended in the first section by adding at the end the following: | the bill names no machine-readable US Code section |

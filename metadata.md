@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4445
@@ -30,3 +30,9 @@ Indian Pueblo Cultural Center Clarification Act
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Introduced in House
 - 2010-01-13 — Referred to the House Committee on Natural Resources.
+- 2010-04-21 — Committee Hearings Held.
+- 2010-06-16 — Committee Consideration and Mark-up Session Held.
+- 2010-06-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2010-06-28 — Placed on the Union Calendar, Calendar No. 295.
+- 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-515.
+- 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-515.
