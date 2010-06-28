@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 286
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 286
@@ -16,7 +16,7 @@ Recognizing the 235th birthday of the United States Army.
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
-## Cosponsors (109)
+## Cosponsors (111)
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
@@ -127,6 +127,8 @@ Recognizing the 235th birthday of the United States Army.
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 - Rep. Harman, Jane [D-CA-36] (H000213)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (2)
 
@@ -147,3 +149,18 @@ Recognizing the 235th birthday of the United States Army.
 - 2010-06-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/16/2010 H4564)
 - 2010-06-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/16/2010 H4564)
 - 2010-06-18 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2010-06-28 — Amendment SA 4399 agreed to in Senate by Unanimous Consent.
+- 2010-06-28 — Amendment SA 4399 proposed by Senator Casey for Senator Leahy. (consideration: CR S5496; text: CR S5496) To amend the resolution.
+- 2010-06-28 — Amendment SA 4400 agreed to in Senate by Unanimous Consent.
+- 2010-06-28 — Amendment SA 4400 proposed by Senator Casey for Senator Leahy. (consideration: CR S5496-5497; text: CR S5496-5497) To amend the preamble.
+- 2010-06-28 — Measure laid before Senate by unanimous consent. (consideration: CR S5496-5497)
+- 2010-06-28 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.
+- 2010-06-28 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.
+- 2010-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-06-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-06-28 — Senate amendment agreed to: Amendment SA 4399 agreed to in Senate by Unanimous Consent.
+- 2010-06-28 — Senate amendment agreed to: Amendment SA 4400 agreed to in Senate by Unanimous Consent.
+- 2010-06-28 — Senate amendment proposed (on the floor): Amendment SA 4399 proposed by Senator Casey for Senator Leahy.(consideration: CR S5496; text: CR S5496)
+- 2010-06-28 — Senate amendment proposed (on the floor): Amendment SA 4400 proposed by Senator Casey for Senator Leahy.(consideration: CR S5496-5497; text: CR S5496-5497)
+- 2010-06-28 — Senate amendment submitted
+- 2010-06-28 — Senate amendment submitted
