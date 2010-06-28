@@ -1,7 +1,7 @@
 ---
 measure: S. 1510
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1510
@@ -34,3 +34,12 @@ United States Secret Service Uniformed Division Modernization Act of 2010
 - 2009-10-14 — Message on Senate action sent to the House.
 - 2009-10-14 — Received in the House.
 - 2009-10-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-04-14 — Committee Consideration and Mark-up Session Held.
+- 2010-04-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-06-28 — Considered under suspension of the rules. (consideration: CR H4883-4893)
+- 2010-06-28 — DEBATE - The House proceeded with forty minutes of debate on S. 1510.
+- 2010-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-28 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2010-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4886-4891)
+- 2010-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4886-4891)
+- 2010-06-28 — The title of the measure was amended. Agreed to without objection.
