@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1700
@@ -94,3 +94,7 @@ National Women's History Museum Act of 2009
 - 2009-10-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11348-11349)
 - 2009-10-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11348-11349)
 - 2009-10-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-04-21 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2010-06-28 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 111-217.
+- 2010-06-28 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 111-217.
+- 2010-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 446.

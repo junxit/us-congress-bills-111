@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1700
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -48,9 +48,10 @@ In this Act, the following definitions apply:
 
 ## § 4. Environmental matters
 
-- **(a)** *Authorization To contract for environmental response actions* The Administrator is authorized to contract, in an amount not to exceed the purchase price for the property, with the Museum or an affiliate thereof for the performance (on behalf of the Administrator) of response actions (if any) required on the property pursuant to CERCLA.
+- **(a)** *Authorization To contract for environmental response actions* The Administrator is authorized to contract, in an amount not to exceed the purchase price for the property, with the Museum or an affiliate thereof for the performance (on behalf of the Administrator) of response actions (if any) required on the property pursuant to CERCLAon the Property.
 - **(b)** *Crediting of response costs* Any costs incurred by the Museum or an affiliate thereof pursuant to subsection (a) shall be credited to the purchase price for the property.
 - **(c)** *Relationship to CERCLA* Nothing in this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(b) of CERCLA (42 U.S.C. 9620(b)).
+- **(c)** *No effect on compliance with environmental laws* Nothing in this Act, or any amendment made by this Act, affects or limits the application of or obligation to comply with any environmental law, including section 120(h) of CERCLA (42 U.S.C. 9620(h)).
 
 ## § 5. Incidental costs
 
