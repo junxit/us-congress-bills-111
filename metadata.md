@@ -1,7 +1,7 @@
 ---
 measure: S. 3249
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3249
@@ -32,3 +32,5 @@ Predisaster Hazard Mitigation Act of 2010
 - 2010-06-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 111-215.
 - 2010-06-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 111-215.
 - 2010-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
+- 2010-06-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5496; text as passed Senate: CR 6/29/2010 S5629)
+- 2010-06-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5496; text as passed Senate: CR 6/29/2010 S5629)
