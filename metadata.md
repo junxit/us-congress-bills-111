@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3913
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3913
@@ -26,3 +26,14 @@ To direct the Mayor of the District of Columbia to establish a District of Colum
 - 2009-10-22 — Introduced in House
 - 2009-10-22 — Referred to the House Committee on Oversight and Government Reform.
 - 2009-10-22 — Sponsor introductory remarks on measure. (CR E2612-2613)
+- 2010-02-12 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2010-03-24 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2010-03-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-04-14 — Committee Consideration and Mark-up Session Held.
+- 2010-04-14 — Ordered to be Reported by Voice Vote.
+- 2010-06-28 — Considered under suspension of the rules. (consideration: CR H4883-4885)
+- 2010-06-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3913.
+- 2010-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-28 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2010-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4883-4884)
+- 2010-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4883-4884)

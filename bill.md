@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3913
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. District of Columbia National Guard Educational Assistance Program
 
-The Act entitled “An Act to provide for the organization of the militia of the District of Columbia”, approved March 1, 1889 (sec. 49–101 et seq., D.C. Official Code), is amended by adding at the end the following new title:
+The Act entitled “An Act to provide for the organization of the militia of the District of Columbia”, approved March 1, 1889 (sec. 49–101 et seq., D.C. Official Code) is amended by adding at the end the following new title:
+
+## § 2. PAYGO Compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
