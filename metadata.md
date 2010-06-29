@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5116
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5116
@@ -120,10 +120,11 @@ America COMPETES Reauthorization Act of 2010
 - Rep. Boccieri, John A. [D-OH-16] (B001263)
 - Rep. Markey, Betsy [D-CO-4] (M001172)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (16)
 
@@ -361,3 +362,5 @@ America COMPETES Reauthorization Act of 2010
 - 2010-05-28 — Roll call votes on amendments in House
 - 2010-05-28 — Roll call votes on amendments in House
 - 2010-05-28 — The Chair announced the unfinished business was the resumption of proceedings on H.R. 5116. At the time when proceedings had been postponed on May 13, 2010, the motion to recommit with instructions had been adopted and pursuant to the instructions contained in the motion, the amendment required to be reported back to the House had not yet been submitted. Pursuant to the instructions contained in the motion, the Chair recognized Mr. Gordon for the purpose of offering the amendment.
+- 2010-06-09 — Received in the Senate.
+- 2010-06-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
