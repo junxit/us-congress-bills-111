@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5552
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5552
@@ -16,7 +16,7 @@ Firearms Excise Tax Improvement Act of 2010
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Cosponsors (54)
+## Cosponsors (87)
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 - Rep. Neal, Richard E. [D-MA-2] (N000015)
@@ -72,13 +72,58 @@ Firearms Excise Tax Improvement Act of 2010
 - Rep. Griffith, Parker [R-AL-5] (G000557)
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Mollohan, Alan B. [D-WV-1] (M000844)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2010-06-29 — [House 111-2-400](votes/house-111-2-0400.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–6)
 
 ## Actions
 
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Referred to the House Committee on Ways and Means.
+- 2010-06-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-29 — Considered as unfinished business. (consideration: CR H4943-4944)
+- 2010-06-29 — Considered under suspension of the rules. (consideration: CR H4934-4936)
+- 2010-06-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5552.
+- 2010-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-29 — Mr. Kind moved to suspend the rules and pass the bill, as amended.
+- 2010-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 400). (text: CR H4934)
+- 2010-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 400).(text: CR H4934)

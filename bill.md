@@ -38,3 +38,8 @@ This Act may be cited as the “Firearms Excise Tax Improvement Act of 2010”.
     > - **(11)** *Certain orders of criminal restitution* In the case of any amount described in section 6201(a)(4), such amount may be assessed, or a proceeding in court for the collection of such amount may be begun without assessment, at any time.
 
 - **(c)** *Effective date* The amendments made by this section shall apply to restitution ordered after the date of the enactment of this Act.
+
+## § 4. Budgetary provisions
+
+- **(a)** *Time for payment of corporate estimated taxes* The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act in effect on the date of the enactment of this Act is increased by 0.25 percentage points.
+- **(b)** *Paygo compliance* The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
