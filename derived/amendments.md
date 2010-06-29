@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5623
 congress: 111
-version: Engrossed in House
+version: Introduced in House
 derived: true
 ---
 
