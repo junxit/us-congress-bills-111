@@ -1,7 +1,7 @@
 ---
 measure: S. 1382
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | The Peace Corps Act (22 U.S.C. 2501 et seq.) is amended by inserting after section 19 the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3(b) of the Peace Corps Act (22 U.S.C. 2502(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 3(b)(1) of the Peace Corps Act (22 U.S.C. 2502(b)(1)) is amended by striking “are authorized” and all that follows through the period at the end and inserting the following: “is authorized to be appropriated to carry out the purp… | the bill names no machine-readable US Code section |
