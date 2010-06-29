@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5611
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5611
@@ -45,3 +45,13 @@ Airport and Airway Extension Act of 2010, Part II
 - 2010-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4931-4932)
 - 2010-06-29 — Received in the Senate, read twice.
 - 2010-06-29 — Referred to the Subcommittee on Aviation.
+- 2010-06-30 — Cleared for White House.
+- 2010-06-30 — Message on Senate action sent to the House.
+- 2010-06-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5716)
+- 2010-06-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5716)
+- 2010-07-01 — Presented to President.
+- 2010-07-01 — Presented to President.
+- 2010-07-02 — Became Public Law No: 111-197.
+- 2010-07-02 — Became Public Law No: 111-197.
+- 2010-07-02 — Signed by President.
+- 2010-07-02 — Signed by President.
