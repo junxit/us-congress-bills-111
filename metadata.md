@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5175
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5175
@@ -218,3 +218,5 @@ DISCLOSE Act
 - 2010-06-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4827)
 - 2010-06-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4825)
 - 2010-06-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-06-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-06-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.
