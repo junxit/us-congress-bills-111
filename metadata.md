@@ -1,7 +1,7 @@
 ---
 measure: S. 3465
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3465
@@ -29,3 +29,8 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2010-06-09 — Introduced in Senate
 - 2010-06-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2010-06-09 — Sponsor introductory remarks on measure. (CR S4746)
+- 2010-06-15 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-06-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
