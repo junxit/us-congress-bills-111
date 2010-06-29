@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5099
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5099
@@ -53,3 +53,8 @@ To designate the facility of the United States Postal Service located at 15 Sout
 - 2010-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 280). (text: CR 5/18/2010 H3505)
 - 2010-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 280).(text: CR 5/18/2010 H3505)
 - 2010-05-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-06-08 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-06-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
