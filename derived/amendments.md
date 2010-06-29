@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3913
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The Act entitled “An Act to provide for the organization of the militia of the District of Columbia”, approved March 1, 1889 (sec. 49–101 et seq., D.C. Official Code) is amended by adding at the end the following new title: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1091` | add-at-end | The Act entitled “An Act to provide for the organization of the militia of the District of Columbia”, approved March 1, 1889 (sec. 49–101 et seq., D.C. Official Code) is amended by adding at the end the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
