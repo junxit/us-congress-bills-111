@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5051
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5051
@@ -69,3 +69,13 @@ To designate the facility of the United States Postal Service located at 23 Gene
 - 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
+- 2010-07-14 — Cleared for White House.
+- 2010-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5867)
+- 2010-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5867)
+- 2010-07-15 — Message on Senate action sent to the House.
+- 2010-07-22 — Presented to President.
+- 2010-07-22 — Presented to President.
+- 2010-08-03 — Became Public Law No: 111-218.
+- 2010-08-03 — Became Public Law No: 111-218.
+- 2010-08-03 — Signed by President.
+- 2010-08-03 — Signed by President.
