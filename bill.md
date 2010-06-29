@@ -2,7 +2,7 @@
 legis-num: H. RES. 1153
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1153
@@ -24,6 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** honors the heroic efforts of the West Virginia National Guard and local first responders; and
+- **(1)** honors the heroic efforts of the West Virginia National Guard and local first responders;
 - **(2)** recognizes the countless volunteers, families, and neighbors who assisted in rescuing the 17 individuals; and
 - **(3)** recognizes the courage, ability, incredible determination, and willingness of West Virginians to lend a neighborly hand.
