@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 554
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 554
@@ -16,7 +16,7 @@ A resolution designating July 24, 2010, as "National Day of the American Cowboy"
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Baucus, Max [D-MT] (B000243)
@@ -27,6 +27,8 @@ A resolution designating July 24, 2010, as "National Day of the American Cowboy"
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -36,3 +38,7 @@ A resolution designating July 24, 2010, as "National Day of the American Cowboy"
 
 - 2010-06-16 — Introduced in Senate
 - 2010-06-16 — Referred to the Committee on the Judiciary. (consideration: CR S5629-5630; text as passed Senate: CR S5629-5630; text of measure as introduced: CR S4994)
+- 2010-06-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-06-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-06-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-06-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
