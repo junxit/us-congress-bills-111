@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 65
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 65
@@ -28,3 +28,8 @@ A concurrent resolution providing for the use of the catafalque situated in the 
 - 2010-06-29 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5630; text as passed Senate: CR S5630; text of measure as introduced: CR S5545)
 - 2010-06-29 — Received in the House.
 - 2010-06-29 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5630; text as passed Senate: CR S5630; text of measure as introduced: CR S5545)
+- 2010-06-30 — Considered by unanimous consent. (consideration: CR H5209)
+- 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-30 — Mr. Boccieri asked unanimous consent to take from the Speaker's table and consider.
+- 2010-06-30 — On agreeing to the resolution Agreed to without objection. (text: CR H5209)
+- 2010-06-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5209)
