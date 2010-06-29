@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4861
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4861
@@ -63,3 +63,8 @@ To designate the facility of the United States Postal Service located at 1343 We
 - 2010-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 223). (text: CR H2851)
 - 2010-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 223).(text: CR H2851)
 - 2010-04-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-06-08 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-06-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
