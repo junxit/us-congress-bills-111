@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 67
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 67
@@ -20,6 +20,10 @@ A concurrent resolution celebrating 130 years of United States-Romanian diplomat
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2010-06-30 — Introduced in Senate
@@ -28,3 +32,10 @@ A concurrent resolution celebrating 130 years of United States-Romanian diplomat
 - 2010-06-30 — Received in the House.
 - 2010-06-30 — Referred to the House Committee on Foreign Affairs.
 - 2010-06-30 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5716; text as passed Senate: CR S5716; text of measure as introduced: CR S5704)
+- 2010-12-22 — Committee on Foreign Affairs discharged.
+- 2010-12-22 — Committee on Foreign Affairs discharged.
+- 2010-12-22 — Considered by unanimous consent. (consideration: CR H8976)
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Klein (FL) asked unanimous consent to discharge from committee and consider.
+- 2010-12-22 — On agreeing to the resolution Agreed to without objection. (text: CR H8976)
+- 2010-12-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8976)
