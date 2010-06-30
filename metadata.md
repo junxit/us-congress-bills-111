@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5623
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5623
@@ -60,3 +60,9 @@ Homebuyer Assistance and Improvement Act of 2010
 - 2010-06-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5679)
 - 2010-06-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5679)
 - 2010-06-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.
+- 2010-07-01 — Presented to President.
+- 2010-07-01 — Presented to President.
+- 2010-07-02 — Became Public Law No: 111-198.
+- 2010-07-02 — Became Public Law No: 111-198.
+- 2010-07-02 — Signed by President.
+- 2010-07-02 — Signed by President.
