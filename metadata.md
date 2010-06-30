@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1554
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1554
@@ -24,6 +24,10 @@ Fountainhead Property Land Transfer Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-06-30 — [House 111-2-411](votes/house-111-2-0411.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (421–1)
+
 ## Actions
 
 - 2009-03-17 — Introduced in House
@@ -35,3 +39,11 @@ Fountainhead Property Land Transfer Act
 - 2010-06-28 — Placed on the Union Calendar, Calendar No. 293.
 - 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-513.
 - 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-513.
+- 2010-06-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-29 — Considered under suspension of the rules. (consideration: CR H4927-4928)
+- 2010-06-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1554.
+- 2010-06-29 — Mr. Boren moved to suspend the rules and pass the bill, as amended.
+- 2010-06-30 — Considered as unfinished business. (consideration: CR H5232-5233)
+- 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 411). (text: CR 6/29/2010 H4927)
+- 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 411).(text: CR 6/29/2010 H4927)
