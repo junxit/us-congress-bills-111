@@ -19,57 +19,61 @@ The Death on the High Seas Act (chapter 303 of title 46, United States Code), is
 
 - **(1)** in section 30302—
   - **(A)** by inserting “or law” after “admiralty”;
-  - **(B)** by striking “3 nautical miles” and inserting “12 nautical miles”;
-  - **(C)** by striking “personal representative of the decedent” and inserting “decedent’s spouse, parent, child, or dependent relative”; and
-  - **(D)** by striking the last sentence;
+  - **(B)** by striking “3 nautical miles” and inserting “12 nautical miles”; and
+  - **(C)** by striking the last sentence;
 - **(2)** in section 30303—
   - **(A)** by inserting “and nonpecuniary loss” after “pecuniary loss”;
   - **(B)** by striking “by” and all that follows through the end, and inserting “, plus a fair compensation for the decedent’s pain and suffering.”; and
   - **(C)** by adding at the end the following: “In this section, the term nonpecuniary loss means loss of care, comfort, and companionship.”;
-- **(3)** in section 30305—
-  - **(A)** by inserting “or law” after “admiralty”; and
-  - **(B)** by striking “personal representative of the decedent may be substituted as the plaintiff” and inserting “the decedent’s spouse, parent, child, or dependent relative may be substituted as a plaintiff”;
+- **(3)** in section 30305 by inserting “or law” after “admiralty”;
 - **(4)** in section 30306, by inserting “or law” after “admiralty”;
 - **(5)** by striking section 30307, and redesignating section 30308 as section 30307;
 - **(6)** in section 30307, as so redesignated, by amending subsection (b) to read as follows:
-  > - **(b)** *Internal and territorial waters* This chapter does not apply to the Great Lakes or waters within the territorial limits of a State that do not exceed 12 nautical miles from the shore of the United States.
+  > - **(b)** *Internal and territorial waters* This chapter does not apply to the waters of the Great Lakes or waters within the territorial limits of a State that do not exceed 12 nautical miles from the shore of the United States. In such waters, the rules applicable under Federal, State, maritime, and other appropriate law shall apply.
 
 - **(7)** in the table of sections at the beginning of such chapter, by striking the items relating to sections 30307 and 30308 and inserting the following:
 
-## § 3. Amendment to Jones Act
+## § 3. Amendments to Jones Act
 
-Section 30104 of title 46, United States Code, is amended by adding at the end the following: “In addition to other amounts authorized under such laws, the recovery for a seaman who so dies shall include recovery for loss of care, comfort, and companionship.”.
+Title 46, United States Code, is amended—
+
+- **(1)** in section 30104, by adding at the end the following: “In addition to other amounts authorized under such laws, the recovery for a seaman who so dies shall include recovery for loss of care, comfort, and companionship.”; and
+- **(2)** by striking section 30105 and the item relating to that section in the table of sections at the beginning of chapter 301.
 
 ## § 4. Repeal of Limitation of Liability Act
 
-Chapter 305 of title 46, United States Code, is amended by repealing sections 30505, 30506, 30507, 30511, and 30512.
+Chapter 305 of title 46, United States Code, is amended by repealing sections 30505, 30506, 30507, 30511, and 30512 and the items relating to those sections in the table of sections at the beginning of chapter 305.
 
 ## § 5. Amendment to Class Action Fairness Act
 
 Title 28, United States Code, is amended—
 
-- **(1)** in section 1711(2), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the period; and
-- **(2)** in section 1332(d)(1)(B), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the semicolon.
+- **(1)** in section 1711(2), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the period;
+- **(2)** in section 1332(d)(1)(B), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the semicolon; and
+- **(3)** in section 1332(d)(11)(B)(ii)—
+  - **(A)** by striking “or” at the end of subclause (III);
+  - **(B)** by striking the period at the end of subclause (IV) and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(V)** the claims are made by a State or subdivision of a State on behalf of its citizens.
 
 ## § 6. Unenforceability of certain secrecy agreements
 
-- **(a)** *In general* Subject to subsection (b), an agreement, promise, or directive to restrict the dissemination of information regarding the cause of a discharge into waters off the shore of the United States of a substance that contaminates a marine or coastal environment or endangers public health, regarding the nature or extent of such a discharge, regarding the damage caused or threatened by such a discharge, or regarding the efforts to remediate the effects of such a discharge, shall be void as against public policy and unenforceable in any legal proceeding.
-- **(b)** *Exception* Subsection (a) shall not apply with respect to a directive contained in a court order, or issued by a Government agency with authority to enforce such a directive in a court, restricting dissemination of information as necessary to protect public health or safety.
+- **(a)** *In general* Part VI of title 28, United States Code, is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The table of chapters for part VI of title 28, United States Code, is amended by adding at the end the following new item:
 
 ## § 7. Amendments to title 11 of the United States Code
 
-- **(a)** *Limitation on sale or lease of certain property in bankruptcy*
-  - **(1)** *Limitation* Section 363 of title 11, the United States Code, is amended by adding at the end the following:
-    > - **(q)** Notwithstanding any other provision of this section, the trustee may not sell or lease, other than in the ordinary course of business, property of the estate of a debtor that is liable for a claim arising under any law from an incident (as defined in section 1001 of the Oil Pollution Act of 1990) to which such Act applies, to a purchaser (together with any affiliate of such purchaser) in an aggregate dollar amount exceeding the dollar amount then in effect under section 7A(a) of the Clayton Act unless—
-    >   - **(1)** such purchaser and any such affiliate agree as a condition of such sale to pay the amount of allowed unsecured claims arising from such incident that is not paid by the debtor; or
-    >   - **(2)** all classes of such unsecured claims approve the sale of such assets.
+- **(a)** *Treatment of certain property in bankruptcy*
+  - **(1)** *Limitation on sale or lease of certain property in bankruptcy* Section 363 of title 11, United States Code, is amended by adding at the end the following:
+    > - **(q)** Notwithstanding any other provision of this section, if the debtor is liable under any law for a claim arising from an incident (as defined in section 1001 of the Oil Pollution Act of 1990, and that gives rise to liability under such Act), the trustee may not sell or lease all or substantially all property of the estate of the debtor (or, to the extent that the court has or can obtain jurisdiction over any affiliate of the debtor, property of such affiliate) unless the entity that acquires such property (including any affiliate of such entity) assumes the obligation to pay the amount of allowed unsecured claims arising from such incident that is not paid by the debtor, or unless creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.
 
-  - **(2)** *Conforming amendment* Section 303(f) of title 11, the United States Code, is amended by striking “(other than subsection (q) of such section)” after “section 363”.
-- **(b)** *Inapplicability of chapter 15* Section 1501(c) of title 11, the United States Code, is amended—
-  - **(1)** in paragraph (2) by striking “or” at the end,
-  - **(2)** in paragraph (3) by striking the period at the end and inserting “; or”, and
-  - **(3)** by adding at the end the following:
-    > - **(4)** an entity that is liable for a claim arising under any law from an incident (as defined in section 1001 of the Oil Pollution Act of 1990) to which such Act applies.
+  - **(2)** *Limitation on treatment of certain property under a plan of reorganization* Section 1129(b)(2)(B) of title 11, United States Code, is amended—
+    - **(A)** in clause (i) by striking “or” at the end;
+    - **(B)** in clause (ii) by striking the period at the end and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(iii)** that includes claims of the kind described in section 363(q), if the plan provides for a sale or lease of all or substantially all of property of the estate, the plan requires the entity that acquires such property (including any affiliate of such entity) to assume the obligation to pay the amount of allowed unsecured claims arising from an incident described in section 363(q) that is not paid by the debtor, or creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.
+
+- **(b)** *Conforming amendment* Section 303(f) of title 11, United States Code, is amended by adding at the end the following: “If the debtor is liable under any law for a claim arising from an incident (as defined in section 1001 of the Oil Pollution Act of 1990, and that gives rise to liability under such Act), the debtor may not sell or lease all or substantially all property of the debtor (or, to the extent that the court has or can obtain jurisdiction over any affiliate of the debtor, property of such affiliate) unless the entity that acquires such property (including any affiliate of such entity) assumes the obligation to pay the amount of allowed unsecured claims arising from such incident that is not paid by the debtor, or creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.”.
 
 ## § 8. Effective date
 

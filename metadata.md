@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5503
@@ -16,7 +16,7 @@ Securing Protections for the Injured from Limitations on Liability Act
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (11)
+## Cosponsors (26)
 
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
@@ -29,6 +29,21 @@ Securing Protections for the Injured from Limitations on Liability Act
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
 ## Committees (2)
 
@@ -42,3 +57,12 @@ Securing Protections for the Injured from Limitations on Liability Act
 - 2010-06-10 — Referred to House Judiciary
 - 2010-06-10 — Referred to House Transportation and Infrastructure
 - 2010-06-10 — Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-06-11 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2010-06-11 — Referred to the Subcommittee on Water Resources and Environment.
+- 2010-06-23 — Committee Consideration and Mark-up Session Held.
+- 2010-06-23 — Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 11.
+- 2010-06-30 — Committee on Transportation discharged.
+- 2010-06-30 — Committee on Transportation discharged.
+- 2010-06-30 — Placed on the Union Calendar, Calendar No. 296.
+- 2010-06-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-521, Part I.
+- 2010-06-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-521, Part I.
