@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 293
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 293
