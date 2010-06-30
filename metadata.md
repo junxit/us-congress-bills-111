@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5623
 congress: 111
-version: Introduced in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5623
@@ -55,3 +55,8 @@ Homebuyer Assistance and Improvement Act of 2010
 - 2010-06-29 — Referred to House Homeland Security
 - 2010-06-29 — Referred to House Ways and Means
 - 2010-06-29 — Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, Homeland Security, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-06-30 — Cleared for White House.
+- 2010-06-30 — Message on Senate action sent to the House.
+- 2010-06-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5679)
+- 2010-06-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5679)
+- 2010-06-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.
