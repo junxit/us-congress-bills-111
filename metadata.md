@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5395
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 151 Nor
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Cosponsors (23)
+## Cosponsors (24)
 
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 - Rep. Boyd, Allen [D-FL-2] (B000716)
@@ -41,13 +41,28 @@ To designate the facility of the United States Postal Service located at 151 Nor
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-06-30 — [House 111-2-403](votes/house-111-2-0403.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–0)
 
 ## Actions
 
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-17 — Committee Consideration and Mark-up Session Held.
+- 2010-06-17 — Ordered to be Reported by Unanimous Consent.
+- 2010-06-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-06-28 — Considered under suspension of the rules. (consideration: CR H4893-4894)
+- 2010-06-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5395.
+- 2010-06-28 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2010-06-30 — Considered as unfinished business. (consideration: CR H5210-5211)
+- 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403). (text: CR 6/28/2010 H4893)
+- 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403).(text: CR 6/28/2010 H4893)
