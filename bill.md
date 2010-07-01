@@ -18,7 +18,7 @@ This Act may be cited as the “Restoration of Emergency Unemployment Compensati
 - **(a)** *In general*
   - **(1)** Section 4007 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended—
     - **(A)** by striking “June 2, 2010” each place it appears and inserting “November 30, 2010”;
-    - **(B)** in the heading for subsection (b)(2), by striking “june 2, 2010” and inserting “november 30, 2010”; and
+    - **(B)** in the heading for subsection (b)(2), by striking “June 2, 2010” and inserting “November 30, 2010”; and
     - **(C)** in subsection (b)(3), by striking “November 6, 2010” and inserting “April 30, 2011”.
   - **(2)** Section 2005 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111–5 (26 U.S.C. 3304 note; 123 Stat. 444), is amended—
     - **(A)** by striking “June 2, 2010” each place it appears and inserting “December 1, 2010”; and
@@ -59,7 +59,16 @@ Section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252;
 >   - **(1)** the average weekly benefit amount of regular compensation which will be payable during the period of the agreement occurring on or after June 2, 2010 (determined disregarding any additional amounts attributable to the modification described in section 2002(b)(1) of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111–5 (26 U.S.C. 3304 note; 123 Stat. 438)), will be less than
 >   - **(2)** the average weekly benefit amount of regular compensation which would otherwise have been payable during such period under the State law, as in effect on June 2, 2010.
 
-## § 5. Budgetary provisions
+## § 5. Procedures
+
+Section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note), as amended by section 4, is amended by adding at the end the following new subsection:
+
+> - **(h)** *Procedures* Any State with an agreement under this Act shall implement reasonable procedures to—
+>   - **(1)** ensure that benefits under this Act are not provided to any person who appears on any current list of known or suspected terrorists provided to the State by any government agency;
+>   - **(2)** ensure that benefits under this Act are not provided to any individual convicted of a sex offense against a minor (as such terms are defined in section 111 of the Sex Offender Registration and Notification Act (42 U.S.C. 16911)); and
+>   - **(3)** ensure that the State is enforcing requirements under subsection (f) of this section to bar unauthorized aliens from receiving emergency unemployment compensation under this Act.
+
+## § 6. Budgetary provisions
 
 - **(a)** *Statutory PAYGO* The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
 - **(b)** *Emergency designations* Sections 2 and 3—
