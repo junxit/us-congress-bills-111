@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 5682
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5682
+
+> To improve the operation of certain facilities and programs of the House of Representatives, and for other purposes.
+
+## § 1. Membership in House of Representatives Exercise Facility for Active Duty Armed Forces Members Assigned to Congressional Liaison Office
+
+Any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives may obtain membership in the exercise facility established for employees of the House of Representatives (as described in section 103(a) of the Legislative Branch Appropriations Act, 2005) in the same manner as an employee of the House of Representatives, in accordance with such regulations as the Committee on House Administration may promulgate.
+
+## § 2. Revolving Fund for House Child Care Center
+
+- **(a)** *Conversion of House Child Care Center Account Into Revolving Fund*
+  - **(1)** *In general* Section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (2 U.S.C. 2062(d)(1)) is amended to read as follows:
+    > - **(1)** There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Child Care Center Revolving Fund” (hereafter in this section referred to as the “Fund”), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
+
+  - **(2)** *Transfer of existing account* Any amounts in the account established by section 312(d)(1) of such Act as of the day before the effective date of this section, together with any amounts in the House Services Revolving Fund as of the effective date of this section which, at the time of deposit into the House Services Revolving Fund, were designated for purposes of the House Child Care Center, shall be transferred to the House Child Care Center Revolving Fund established by such section, as amended by paragraph (1).
+- **(b)** *Transfer Authority* Section 312 of such Act (2 U.S.C. 2062) is amended—
+  - **(1)** by redesignating subsection (e) as subsection (f); and
+  - **(2)** by inserting after subsection (d) the following new subsection:
+    > - **(e)** The Fund shall be treated as a category of allowances and expenses for purposes of section 101(a) of the Legislative Branch Appropriations Act, 1993 (2 U.S.C. 95b(a)).
+
+- **(c)** *Effective Date* This section and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.
+
+## § 3. Miscellaneous Technical Corrections
+
+- **(a)** The second undesignated paragraph under the heading “Under Superintendent of the Capitol Buildings and Grounds” in the Act of April 28, 1902 (chapter 594; 32 Stat. 125; 2 U.S.C. 2012), is amended to read as follows:
+  > -  The Chief Administrative Officer of the House of Representatives shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the Chief Administrative Officer.
+
+- **(b)** Effective as if included in the enactment of Public Law 111–145, section 3 of House Resolution 661, Ninety-fifth Congress, agreed to July 29, 1977 (2 U.S.C. 84–2), is restored into permanent law.
