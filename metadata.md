@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5503
@@ -66,3 +66,9 @@ Securing Protections for the Injured from Limitations on Liability Act
 - 2010-06-30 — Placed on the Union Calendar, Calendar No. 296.
 - 2010-06-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-521, Part I.
 - 2010-06-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-521, Part I.
+- 2010-07-01 — Considered under suspension of the rules. (consideration: CR H5330-5336)
+- 2010-07-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5503.
+- 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-01 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2010-07-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5330)
+- 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5330)

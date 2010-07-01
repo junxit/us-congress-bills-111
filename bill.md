@@ -13,27 +13,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Securing Protections for the Injured from Limitations on Liability Act”.
 
-## § 2. Amendments to Death on the High Seas Act
+## § 2. Improvements to recovery under Death on the High Seas Act
 
 The Death on the High Seas Act (chapter 303 of title 46, United States Code), is amended—
 
 - **(1)** in section 30302—
-  - **(A)** by inserting “or law” after “admiralty”;
-  - **(B)** by striking “3 nautical miles” and inserting “12 nautical miles”; and
-  - **(C)** by striking the last sentence;
+  - **(A)** by inserting “or law” after “admiralty”; and
+  - **(B)** by inserting before “spouse” the following: “survivors, including”;
 - **(2)** in section 30303—
   - **(A)** by inserting “and nonpecuniary loss” after “pecuniary loss”;
   - **(B)** by striking “by” and all that follows through the end, and inserting “, plus a fair compensation for the decedent’s pain and suffering.”; and
   - **(C)** by adding at the end the following: “In this section, the term nonpecuniary loss means loss of care, comfort, and companionship.”;
 - **(3)** in section 30305 by inserting “or law” after “admiralty”;
 - **(4)** in section 30306, by inserting “or law” after “admiralty”;
-- **(5)** by striking section 30307, and redesignating section 30308 as section 30307;
-- **(6)** in section 30307, as so redesignated, by amending subsection (b) to read as follows:
-  > - **(b)** *Internal and territorial waters* This chapter does not apply to the waters of the Great Lakes or waters within the territorial limits of a State that do not exceed 12 nautical miles from the shore of the United States. In such waters, the rules applicable under Federal, State, maritime, and other appropriate law shall apply.
+- **(5)** by striking section 30307; and
+- **(6)** in the table of sections at the beginning of such chapter, by striking the item relating to sections 30307.
 
-- **(7)** in the table of sections at the beginning of such chapter, by striking the items relating to sections 30307 and 30308 and inserting the following:
-
-## § 3. Amendments to Jones Act
+## § 3. Improvements to recovery under Jones Act
 
 Title 46, United States Code, is amended—
 
@@ -42,39 +38,36 @@ Title 46, United States Code, is amended—
 
 ## § 4. Repeal of Limitation of Liability Act
 
-Chapter 305 of title 46, United States Code, is amended by repealing sections 30505, 30506, 30507, 30511, and 30512 and the items relating to those sections in the table of sections at the beginning of chapter 305.
+- **(a)** *Repeal* Chapter 305 of title 46, United States Code, is amended by repealing sections 30505, 30506, 30507, 30511, and 30512 and the items relating to those sections in the table of sections at the beginning of chapter 305.
+- **(b)** *Conforming amendments*
+  - **(1)** *Oil Pollution Act of 1990* Section 1018 of the Oil Pollution Act of 1990 (33 U.S.C. 2718) is amended—
+    - **(A)** in subsection (a), by striking “or the Act of March 3, 1851”; and
+    - **(B)** in subsection (c), by striking “, the Act of March 3, 1851 (46 U.S.C. 183 et seq.),”.
+  - **(2)** *Title 46* Section 14305(a) of title 46, United States Code, is amended by striking paragraph (5) and redesignating the subsequent paragraphs as paragraphs (5) through (14), respectively.
 
-## § 5. Amendment to Class Action Fairness Act
+## § 5. Bankruptcy protection for tort claims arising from oil incidents
 
-Title 28, United States Code, is amended—
+- **(a)** *Conditions on sale or lease of significant property of the estate*
+  - **(1)** *In general* Section 363 of title 11, United States Code, is amended by adding at the end the following:
+    > - **(q)** Notwithstanding any other provision of this section, if the debtor is liable under any law for a claim for wrongful death, personal injury, or property damage arising from an incident (as defined in section 1001 of the Oil Pollution Act of 1990, and that gives rise to liability under such Act), the trustee may not sell or lease, other than in the ordinary course of business, significant property of the estate (or, to the extent that the court has jurisdiction over any affiliate of the debtor, significant property of such affiliate) unless—
+    >   - **(1)** creditors holding at least two-thirds in amount, and more than one-half in number, of all such claims not paid by the debtor consent to such sale or lease; or
+    >   - **(2)** the court finds, after notice and a hearing, that—
+    >     - **(A)** sufficient property will remain in the estate; or
+    >     - **(B)** the debtor’s anticipated future income will be sufficient;
 
-- **(1)** in section 1711(2), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the period;
-- **(2)** in section 1332(d)(1)(B), by inserting “, but does not include an action brought by a State or subdivision of a State on behalf of its citizens” before the semicolon; and
-- **(3)** in section 1332(d)(11)(B)(ii)—
-  - **(A)** by striking “or” at the end of subclause (III);
-  - **(B)** by striking the period at the end of subclause (IV) and inserting “; or”; and
-  - **(C)** by adding at the end the following:
-    > - **(V)** the claims are made by a State or subdivision of a State on behalf of its citizens.
+  - **(2)** *Under plan of reorganization* Section 1129(b)(2)(B)(ii) of title 11, United States Code, is amended—
+    - **(A)** by inserting “(other than the holder of a claim described in subclause (II))” after “claim” the 1st place it appears;
+    - **(B)** by inserting “(I)” after “(ii)”;
+    - **(C)** by striking the period at the end and inserting “; and”; and
+    - **(D)** by adding at the end the following:
+      > - **(II)** if the plan provides for claims of the kind described in section 363(q) and provides for a sale or lease of significant property of the estate, creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to such sale or lease.
 
-## § 6. Unenforceability of certain secrecy agreements
+- **(b)** *Conforming amendment* Section 303(f) of title 11, United States Code, is amended by adding at the end the following:
+  > - **(1)** creditors holding at least two-thirds in amount, and more than one-half in number, of all such claims not paid by the debtor consent to such sale or lease; or
+  > - **(2)** the court finds, after notice and a hearing, that—
+  >   - **(A)** sufficient property will remain in the estate; or
+  >   - **(B)** the debtor’s anticipated future income will be sufficient;
 
-- **(a)** *In general* Part VI of title 28, United States Code, is amended by adding at the end the following:
-- **(b)** *Clerical amendment* The table of chapters for part VI of title 28, United States Code, is amended by adding at the end the following new item:
+## § 6. Effective date
 
-## § 7. Amendments to title 11 of the United States Code
-
-- **(a)** *Treatment of certain property in bankruptcy*
-  - **(1)** *Limitation on sale or lease of certain property in bankruptcy* Section 363 of title 11, United States Code, is amended by adding at the end the following:
-    > - **(q)** Notwithstanding any other provision of this section, if the debtor is liable under any law for a claim arising from an incident (as defined in section 1001 of the Oil Pollution Act of 1990, and that gives rise to liability under such Act), the trustee may not sell or lease all or substantially all property of the estate of the debtor (or, to the extent that the court has or can obtain jurisdiction over any affiliate of the debtor, property of such affiliate) unless the entity that acquires such property (including any affiliate of such entity) assumes the obligation to pay the amount of allowed unsecured claims arising from such incident that is not paid by the debtor, or unless creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.
-
-  - **(2)** *Limitation on treatment of certain property under a plan of reorganization* Section 1129(b)(2)(B) of title 11, United States Code, is amended—
-    - **(A)** in clause (i) by striking “or” at the end;
-    - **(B)** in clause (ii) by striking the period at the end and inserting “; or”; and
-    - **(C)** by adding at the end the following:
-      > - **(iii)** that includes claims of the kind described in section 363(q), if the plan provides for a sale or lease of all or substantially all of property of the estate, the plan requires the entity that acquires such property (including any affiliate of such entity) to assume the obligation to pay the amount of allowed unsecured claims arising from an incident described in section 363(q) that is not paid by the debtor, or creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.
-
-- **(b)** *Conforming amendment* Section 303(f) of title 11, United States Code, is amended by adding at the end the following: “If the debtor is liable under any law for a claim arising from an incident (as defined in section 1001 of the Oil Pollution Act of 1990, and that gives rise to liability under such Act), the debtor may not sell or lease all or substantially all property of the debtor (or, to the extent that the court has or can obtain jurisdiction over any affiliate of the debtor, property of such affiliate) unless the entity that acquires such property (including any affiliate of such entity) assumes the obligation to pay the amount of allowed unsecured claims arising from such incident that is not paid by the debtor, or creditors holding at least two-thirds in amount, and more than one-half in number, of such claims consent to different treatment.”.
-
-## § 8. Effective date
-
-This Act and the amendments made by this Act shall take effect on the date of enactment of this Act and shall apply to cases pending on or after such date.
+This Act and the amendments made by this Act shall take effect on the date of enactment of this Act and shall apply with respect to claims arising on or after April 20, 2010, that are pending on or after such date of enactment.
