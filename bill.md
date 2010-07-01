@@ -2,26 +2,13 @@
 legis-num: H.R. 4899
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 4899
 
-> Making emergency supplemental appropriations for disaster relief and summer jobs for the fiscal year ending September 30, 2010, and for other purposes.
+That the House agree to the amendment of the Senate to the title of the bill (H.R. 4899) entitled “An Act making supplemental appropriations for the fiscal year ending September 30, 2010, and for other purposes.” and be it further
 
-## § 101. Rescissions
+That the House agree to the amendment of the Senate to the text of the aforesaid bill, with the following
 
-There are hereby rescinded the following amounts from the specified accounts:
-
-- **(1)** “Department of Commerce—National Telecommunications and Information Administration—Digital-to-Analog Converter Box Program”, $111,500,000, to be derived from unobligated balances made available under this heading in title II of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 128).
-- **(2)** “Department of Transportation—National Highway Traffic Safety Administration—Consumer Assistance to Recycle and Save Program”, $44,000,000, to be derived from unobligated balances made available in title XIII of Public Law 111–32 and in Public Law 111–47.
-- **(3)** “Department of Agriculture—Food and Nutrition Service—Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)”, $361,825,000, to be derived from unobligated balances available from amounts placed in reserve in title I of division A of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 115).
-- **(4)** Accounts under the heading “Department of Agriculture—Rural Development Programs”, $102,675,000, to be derived from the unobligated balances of funds that were provided for such accounts in prior appropriation Acts (other than Public Law 111–5) and that were designated by the Congress in such Acts as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985.
-
-## § 102. Emergency Designation
-
-Each amount in this Act is designated as an emergency requirement and necessary to meet emergency needs pursuant to sections 403 and 423(b) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
-
-## § 103. Short title
-
-This Act may be cited as the “Disaster Relief and Summer Jobs Act of 2010”.
+*In the matter proposed to be inserted by the amendment of the Senate to the text of the bill, on page 90, after line 18, insert the following:*

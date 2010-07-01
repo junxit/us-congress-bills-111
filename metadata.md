@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Public Print
+version: Engrossed Amendment House
 ---
 
 # H.R. 4899
@@ -212,7 +212,7 @@ Supplemental Appropriations Act, 2010
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (14)
+## Recorded votes (18)
 
 - 2010-03-24 — [House 111-2-185](votes/house-111-2-0185.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (239–176)
 - 2010-03-24 — [House 111-2-186](votes/house-111-2-0186.md) — On Passage — **Passed** (239–175)
@@ -228,6 +228,10 @@ Supplemental Appropriations Act, 2010
 - 2010-05-27 — [Senate 111-2-174](votes/senate-111-2-0174.md) — On the Amendment — **Amendment Agreed to** (60–35)
 - 2010-05-27 — [Senate 111-2-175](votes/senate-111-2-0175.md) — On the Amendment — **Amendment Rejected** (37–58)
 - 2010-05-27 — [Senate 111-2-176](votes/senate-111-2-0176.md) — On Passage of the Bill — **Bill Passed** (67–28)
+- 2010-07-01 — [House 111-2-430](votes/house-111-2-0430.md) — Second Portion of the Divided Question [Amendment 2] — **Passed** (239–182)
+- 2010-07-01 — [House 111-2-431](votes/house-111-2-0431.md) — Third Portion of the Divided Question [Amendment 3] — **Failed** (25–376)
+- 2010-07-01 — [House 111-2-432](votes/house-111-2-0432.md) — Fourth Portion of the Divided Question [Amendment 4] — **Failed** (100–321)
+- 2010-07-01 — [House 111-2-433](votes/house-111-2-0433.md) — Fifth Portion of the Divided Question [Amendment 5] — **Failed** (162–260)
 
 ## Actions
 
@@ -592,3 +596,17 @@ Supplemental Appropriations Act, 2010
 - 2010-05-27 — Senate amendment submitted
 - 2010-05-27 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Byrd; Leahy; Harkin; Mikulski; Kohl; Murray; Dorgan; Feinstein; Durbin; Johnson; Landrieu; Reed; Lautenberg; Nelson NE; Pryor; Tester; Specter; Cochran; Bond; McConnell; Shelby; Gregg; Bennett; Hutchison; Brownback; Alexander; Collins; Voinovich; Murkowski. (consideration: CR S4507)
 - 2010-05-27 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2010-05-28 — Message on Senate action sent to the House.
+- 2010-07-01 — DEBATE - Pursuant to the provisions of H.Res. 1500, the House proceeded with 90 minutes of debate on the motion to concur in the Senate amendment to the text with amendments.
+- 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-01 — Mr. Obey moved that the House agree to the Senate amendment to the text with amendments. (consideration: CR H5358-5407; text of Senate amendment as received in House: CR H5358-5368; text of portion 1 as adopted pursuant to H. Res. 1500: CR H5369-5371)
+- 2010-07-01 — ORDER OF PROCEDURE - Mr. Obey moved to concur in the Senate amendment to the text to H.R. 4899 with amendments. Pursuant to the provisions of H.Res. 1500, the motion to concur in the Senate amendment with amendments shall be divided into each of its 5 portions. The first portion is considered as adopted pursuant to H.Res. 1500. The Chair shall put the question on adoption of each of portions 2 through 5 separately in their turn.
+- 2010-07-01 — On motion that the House concur in the Senate amendment to the text with the fifth portion of the divided question (amendment 5) Failed by recorded vote: 162 - 260 (Roll no. 433). (text: CR H5383-5384)
+- 2010-07-01 — On motion that the House concur in the Senate amendment to the text with the fourth portion of the divided question (amendment 4) Failed by recorded vote: 100 - 321 (Roll no. 432). (text: CR H5383)
+- 2010-07-01 — On motion that the House concur in the Senate amendment to the text with the second portion of the divided question [amendment 2]. Agreed to by the Yeas and Nays: 239 - 182, 1 Present (Roll no. 430). (text: CR H5371-5383)
+- 2010-07-01 — On motion that the House concur in the Senate amendment to the text with the third portion of divided question [amendment 3] Failed by recorded vote: 25 - 376, 22 Present (Roll no. 431). (text: CR H5383)
+- 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the fifth portion of the divided question (amendment 5) Failed by recorded vote: 162 - 260 (Roll no. 433).(text: CR H5383-5384)
+- 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the fourth portion of the divided question (amendment 4) Failed by recorded vote: 100 - 321 (Roll no. 432).(text: CR H5383)
+- 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the second portion of the divided question [amendment 2]. Agreed to by the Yeas and Nays: 239 - 182, 1 Present (Roll no. 430).(text: CR H5371-5383)
+- 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the third portion of divided question [amendment 3] Failed by recorded vote: 25 - 376, 22 Present (Roll no. 431).(text: CR H5383)
+- 2010-07-01 — The previous question was ordered pursuant to the rule.
