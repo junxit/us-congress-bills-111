@@ -2,7 +2,7 @@
 legis-num: H. RES. 1493
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1493
@@ -35,5 +35,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** not later than September 15, 2010, the chairs of committees should submit for printing in the Congressional Record findings that identify changes in law that help achieve deficit reduction by reducing waste, fraud, abuse, and mismanagement, promoting efficiency and reform of government, and controlling spending within Government programs those committees may authorize;
     - **(D)** prior to the adjournment of the 111th Congress, any recommendations made by the National Commission on Fiscal Responsibility and Reform and approved by the Senate should be brought to a vote in the House of Representatives; and
     - **(E)** any deficit reduction achieved by the enactment of such legislation should be used for deficit reduction only and should not be available to offset the costs of future legislation.
-- **(d)** *Reserve fund for deficit reduction* Upon enactment of legislation containing recommendations in the final report of the National Commission on Fiscal Responsibility and Reform, established by Executive Order 13531 on February 18, 2010, that decreases the deficit for either time period provided in clause 10 of rule XXI of the Rules of the House of Representatives, the chairman of the Committee on the Budget shall, for the purposes of the Statutory Pay-As-You-Go Act of 2010, exclude any net deficit reduction from his determination of the budgetary effects of such legislation, to ensure that the deficit reduction achieved by that legislation is used only for deficit reduction and is not available as an offset for any subsequent legislation.
+- **(d)** *Reserve fund for deficit reduction* Upon enactment of legislation containing recommendations in the final report of the National Commission on Fiscal Responsibility and Reform, established by Executive Order No. 13531 on February 18, 2010, that decreases the deficit for either time period provided in clause 10 of rule XXI of the Rules of the House of Representatives, the chairman of the Committee on the Budget shall, for the purposes of the Statutory Pay-As-You-Go Act of 2010, exclude any net deficit reduction from his determination of the budgetary effects of such legislation, to ensure that the deficit reduction achieved by that legislation is used only for deficit reduction and is not available as an offset for any subsequent legislation.
 - **(e)** *House rule XXVIII* Nothing in this resolution shall be construed to engage rule XXVIII of the Rules of the House of Representatives.
