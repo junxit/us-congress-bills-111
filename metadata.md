@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 290
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 290
@@ -16,7 +16,7 @@ Expressing support for designation of June 30 as "National ESIGN Day".
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Cosponsors (95)
+## Cosponsors (101)
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
@@ -113,13 +113,32 @@ Expressing support for designation of June 30 as "National ESIGN Day".
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2010-07-01 — [House 111-2-426](votes/house-111-2-0426.md) — On Motion to Suspend the Rules and Agree — **Passed** (397–15)
 
 ## Actions
 
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Referred to the House Committee on Energy and Commerce.
+- 2010-06-28 — Sponsor introductory remarks on measure. (CR E1221)
+- 2010-06-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McDermott objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-30 — Considered under suspension of the rules. (consideration: CR H5279-5280)
+- 2010-06-30 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 290.
+- 2010-06-30 — Mr. McDermott moved to suspend the rules and agree to the resolution.
+- 2010-07-01 — Considered as unfinished business. (consideration: CR H5342)
+- 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-01 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 397 - 15 (Roll no. 426). (text: CR 6/30/2010 H5279)
+- 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 397 - 15 (Roll no. 426).(text: CR 6/30/2010 H5279)
