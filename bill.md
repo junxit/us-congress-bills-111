@@ -2,7 +2,7 @@
 legis-num: H. RES. 1462
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1462
@@ -12,9 +12,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas, on May 29, 2010, Guatemala, Honduras, and El Salvador experienced devastating floods and mudslides brought on by Tropical Storm Agatha;
-- Whereas Tropical Storm Agatha has left 175 dead and 84,843 in shelters in Guatemala;
-- Whereas Tropical Storm Agatha has left 18 dead and 7,998 in shelters in Honduras;
-- Whereas Tropical Storm Agatha has left 10 dead and 2,800 in shelters in El Salvador;
+- Whereas Tropical Storm Agatha has left 174 dead and 62,827 families were directly affected in Guatemala;
+- Whereas Tropical Storm Agatha has left 22dead and 7,998 in shelters in Honduras;
+- Whereas Tropical Storm Agatha has left 11 dead and 12,000 in shelters in El Salvador;
 - Whereas over 2,000 Guatemalans were displaced with little forewarning following the eruption of the Pacaya volcano;
 - Whereas the combination of Tropical Storm Agatha and the eruption of the Pacaya volcano have devastated Guatemala’s landscape leaving behind sinkholes and mudslides across the country;
 - Whereas, due to recent droughts, erratic rainfall, high food prices, and a sharp drop in remittances, Guatemala has suffered severe food insecurity that will increase in the wake of Tropical Storm Agatha;
