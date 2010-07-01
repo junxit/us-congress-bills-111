@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1495
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1495
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 5618) to continue Federal unemploy
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2010-07-01 — [House 111-2-418](votes/house-111-2-0418.md) — On Agreeing to the Resolution — **Passed** (231–189)
+
 ## Actions
 
 - 2010-06-30 — Introduced in House
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 5618) to continue Federal unemploy
 - 2010-06-30 — The House Committee on Rules reported an original measure, H. Rept. 111-519, by Mr. Cardoza.
 - 2010-06-30 — The House Committee on Rules reported an original measure, H. Rept. 111-519, by Mr. Cardoza.
 - 2010-06-30 — The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The amendment printed in this report shall be considered as adopted. The resolution waives all points of order against the bill, as amended.
+- 2010-07-01 — Considered as privileged matter. (consideration: CR H5311-5319)
+- 2010-07-01 — DEBATE - The House proceeded with one hour of debate on H. Res. 1495.
+- 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-01 — On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 418). (text: CR H5311)
+- 2010-07-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 418).(text: CR H5311)
+- 2010-07-01 — The previous question was ordered without objection. (consideration: CR H5318)
