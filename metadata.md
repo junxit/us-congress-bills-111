@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2340
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2340
@@ -20,6 +20,10 @@ Salmon Lake Land Selection Resolution Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-07-01 — [House 111-2-416](votes/house-111-2-0416.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–0)
+
 ## Actions
 
 - 2009-05-07 — Introduced in House
@@ -31,3 +35,11 @@ Salmon Lake Land Selection Resolution Act
 - 2010-06-28 — Placed on the Union Calendar, Calendar No. 294.
 - 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-514.
 - 2010-06-28 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-514.
+- 2010-06-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Heinrich objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-06-29 — Considered under suspension of the rules. (consideration: CR H4929-4930)
+- 2010-06-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2340.
+- 2010-06-29 — Mr. Heinrich moved to suspend the rules and pass the bill, as amended.
+- 2010-07-01 — Considered as unfinished business. (consideration: CR H5309-5310)
+- 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 410 - 0 (Roll No. 416). (text: CR 6/29/2010 H4929)
+- 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 410 - 0 (Roll No. 416).(text: CR 6/29/2010 H4929)
