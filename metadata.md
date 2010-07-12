@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 289
 congress: 111
-version: Agreed to Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 289
