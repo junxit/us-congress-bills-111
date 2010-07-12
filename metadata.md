@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 284
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 284
@@ -65,9 +65,10 @@ Recognizing the work and importance of special education teachers.
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -86,3 +87,4 @@ Recognizing the work and importance of special education teachers.
 - 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 402). (text: CR 6/28/2010 H4882)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 402).(text: CR 6/28/2010 H4882)
+- 2010-07-12 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
