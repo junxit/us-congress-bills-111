@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1554
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1554
@@ -20,9 +20,10 @@ Fountainhead Property Land Transfer Act
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Fountainhead Property Land Transfer Act
 - 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 411). (text: CR 6/29/2010 H4927)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 411).(text: CR 6/29/2010 H4927)
+- 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
