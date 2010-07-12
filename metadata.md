@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5395
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 151 Nor
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ To designate the facility of the United States Postal Service located at 151 Nor
 - 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403). (text: CR 6/28/2010 H4893)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403).(text: CR 6/28/2010 H4893)
+- 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
