@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4505
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4505
@@ -49,9 +49,10 @@ To enable State homes to furnish nursing home care to parents any of whose child
 - Rep. Djou, Charles K. [R-HI-1] (D000611)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -72,3 +73,4 @@ To enable State homes to furnish nursing home care to parents any of whose child
 - 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 408). (text: CR 6/29/2010 H4916)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 408).(text: CR 6/29/2010 H4916)
+- 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
