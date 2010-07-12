@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4445
@@ -21,9 +21,10 @@ Indian Pueblo Cultural Center Clarification Act
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Teague, Harry [D-NM-2] (T000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Indian Pueblo Cultural Center Clarification Act
 - 2010-06-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 414). (text: CR 6/29/2010 H4928-4929)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 414).(text: CR 6/29/2010 H4928-4929)
+- 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.

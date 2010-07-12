@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Public Law 95–232 is amended in the first section in subsection (b) by striking “However, such property shall not be Indian country as defined in section 1151 of title 18, United States Code.”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Public Law 95–232 is amended in the first section by adding at the end the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1151` | strike | Public Law 95–232 is amended in the first section in subsection (b) by striking “However, such property shall not be Indian country as defined in section 1151 of title 18, United States Code.”. | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 2701` | add-at-end | Public Law 95–232 is amended in the first section by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
