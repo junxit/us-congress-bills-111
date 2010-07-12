@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2340
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2340
@@ -43,3 +43,4 @@ Salmon Lake Land Selection Resolution Act
 - 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 410 - 0 (Roll No. 416). (text: CR 6/29/2010 H4929)
 - 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 410 - 0 (Roll No. 416).(text: CR 6/29/2010 H4929)
+- 2010-07-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
