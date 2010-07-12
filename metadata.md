@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5610
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5610
@@ -23,9 +23,10 @@ Independent Living Centers Technical Adjustment Act
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Independent Living Centers Technical Adjustment Act
 - 2010-06-30 — Ms. Chu moved to suspend the rules and pass the bill, as amended.
 - 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5280)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5280)
+- 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
