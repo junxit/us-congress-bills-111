@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4505
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4505
@@ -74,3 +74,15 @@ To enable State homes to furnish nursing home care to parents any of whose child
 - 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 408). (text: CR 6/29/2010 H4916)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 408).(text: CR 6/29/2010 H4916)
 - 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2010-09-20 — Cleared for White House.
+- 2010-09-20 — Passed Senate without amendment by Unanimous Consent.
+- 2010-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-09-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration:CR S7224-7225)
+- 2010-09-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration:CR S7224-7225)
+- 2010-09-21 — Message on Senate action sent to the House.
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-246.
+- 2010-09-30 — Became Public Law No: 111-246.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
