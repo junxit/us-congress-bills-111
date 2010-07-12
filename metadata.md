@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5552
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5552
@@ -127,3 +127,5 @@ Firearms Excise Tax Improvement Act of 2010
 - 2010-06-29 — Mr. Kind moved to suspend the rules and pass the bill, as amended.
 - 2010-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 400). (text: CR H4934)
 - 2010-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 6 (Roll no. 400).(text: CR H4934)
+- 2010-06-30 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-07-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 456.
