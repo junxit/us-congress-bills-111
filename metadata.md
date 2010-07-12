@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 289
 congress: 111
-version: Engrossed in House
+version: Agreed to Senate
 ---
 
 # H.Con.Res. 289
@@ -35,3 +35,5 @@ Directing the Clerk of the House of Representatives to make a technical correcti
 - 2010-06-30 — Mr. Cummings moved to suspend the rules and agree to the resolution.
 - 2010-06-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5267)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5267)
+- 2010-07-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5750-5751)
+- 2010-07-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5750-5751)
