@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5609
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5609
@@ -20,9 +20,10 @@ To amend the Lobbying Disclosure Act of 1995 to prohibit any person from perform
 
 - Rep. McMahon, Michael E. [D-NY-13] (M001174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To amend the Lobbying Disclosure Act of 1995 to prohibit any person from perform
 - 2010-07-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4 (Roll no. 425). (text: CR H5336-5337)
 - 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4 (Roll no. 425).(text: CR H5336-5337)
 - 2010-07-01 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
