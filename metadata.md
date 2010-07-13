@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1933
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1933
@@ -71,3 +71,7 @@ A Child Is Missing Alert and Recovery Center Act
 - 2009-07-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 5 (Roll No. 603).
 - 2009-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 417 - 5 (Roll No. 603).
 - 2009-07-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-07-13 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2010-07-13 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-07-13 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2010-07-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
