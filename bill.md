@@ -7,13 +7,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4438
 
-> To authorize the Secretary of the Interior to enter into an agreement to lease space from a nonprofit group or other government entity for a park headquarters at San Antonio Missions National Historical Park, to expand the boundary of the Park, to conduct a study of potential land acquisitions, and for other purposes.
+> To authorize the Secretary of the Interior to expand the boundary of the Park, to conduct a study of potential land acquisitions, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “San Antonio Missions National Historical Park Boundary Expansion Act of 2010”.
 
-## § 2. Park headquarters lease and boundary study
+## § 2. Park boundary study
 
 Section 201 of Public Law 95–629 (16 U.S.C. 410ee) is amended—
 
@@ -24,12 +24,7 @@ Section 201 of Public Law 95–629 (16 U.S.C. 410ee) is amended—
   >   - **(2)** Not later than 3 years after the date funds are made available for the study under paragraph (1), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the findings, conclusions, and recommendations of the study.
 
 - **(3)** by inserting after subsection (c) (as so redesignated) the following new subsection:
-  > - **(d)**
-  >   - **(1)** The Secretary may enter into a cooperative agreement with the City of San Antonio or its designee, for operation of a facility outside the boundary of the park that would provide—
-  >     - **(A)** office space for a headquarters and operational support for the park; and
-  >     - **(B)** a center for research and education.
-  >   - **(2)** The Secretary may plan, design, construct, and install in the facilities described in the cooperative agreement exhibits related to the resources at the park.
-  >   - **(3)** Notwithstanding the location of the facility described in the cooperative agreement, the Secretary may assign park staff from the park to provide interpretive services, including visitor information and education.
+  > - **(d)** The Secretary may assign park employees to provide interpretive services, including visitor information and education, at facilities outside the boundary of the park.
 
 ## § 3. Boundary expansion
 
