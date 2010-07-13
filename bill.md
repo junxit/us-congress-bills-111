@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2864
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Authorization of appropriations
 
-Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d) is amended by adding at the end the following new paragraphs:
+Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d) is amended—
 
-> - **(7)** To acquire hydrographic data, provide hydrographic services, and conduct coastal change analyses necessary to ensure safe navigation, and to improve the management of coastal change in the Arctic, $10,000,000 for each of fiscal years 2011 and 2012.
-> - **(8)** To acquire hydrographic data and provide hydrographic services in the Arctic necessary to delineate the United States extended continental shelf, $5,000,000 for each of fiscal years 2011 and 2012.
+- **(1)** by inserting before the text the following: “(a) In general.—”; and
+- **(2)** by adding at the end the following new subsection:
+  > - **(b)** *Arctic programs* Of the amount authorized for each of fiscal years 2011 and 2012—
+  >   - **(1)** $5,000,000 is authorized for use to acquire hydrographic data, provide hydrographic services, conduct coastal change analyses necessary to ensure safe navigation, and improve the management of coastal change in the Arctic; and
+  >   - **(2)** $2,000,000 is authorized for use to acquire hydrographic data and provide hydrographic services in the Arctic necessary to delineate the United States extended Continental Shelf.
