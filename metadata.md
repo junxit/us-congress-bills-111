@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5503
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5503
@@ -45,10 +45,11 @@ Securing Protections for the Injured from Limitations on Liability Act
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Judiciary Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Securing Protections for the Injured from Limitations on Liability Act
 - 2010-07-01 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2010-07-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5330)
 - 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5330)
+- 2010-07-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
