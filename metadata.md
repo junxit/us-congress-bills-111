@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 290
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 290
@@ -120,9 +120,10 @@ Expressing support for designation of June 30 as "National ESIGN Day".
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -142,3 +143,4 @@ Expressing support for designation of June 30 as "National ESIGN Day".
 - 2010-07-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-01 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 397 - 15 (Roll no. 426). (text: CR 6/30/2010 H5279)
 - 2010-07-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 397 - 15 (Roll no. 426).(text: CR 6/30/2010 H5279)
+- 2010-07-13 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
