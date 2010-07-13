@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Heart Mountain Relocation Center Study Act of 2010”.
+This Act may be cited as the “Heart Mountain Relocation Center Study Act of 2009”.
 
 ## § 2. Special resource study
 
