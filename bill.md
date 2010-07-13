@@ -13,30 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Colonel Charles Young Home Study Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** Colonel Charles Young was—
-  - **(A)** a distinguished African-American officer in the United States Army;
-  - **(B)** the third African-American to graduate from West Point;
-  - **(C)** a commander of troops in combat in—
-    - **(i)** the Spanish-American War; and
-    - **(ii)** the Mexican expedition against Pancho Via;
-  - **(D)** 1 of the first military attachés in the United States; and
-  - **(E)** a pioneer of techniques in military intelligence;
-- **(2)** the experience of Colonel Young in the Army between 1884 and 1922 illustrates the changing nature of race relations in the United States during a period spanning from the end of the Civil War to the beginning of the Civil Rights movement;
-- **(3)** Colonel Young was a friend and associate of other distinguished African-Americans of the period, including poet Paul Laurence Dunbar from nearby Dayton, Ohio;
-- **(4)** as the commander of an Army unit assigned to protect and develop Sequoia National Park and General Grant National Park in the State of California, Colonel Young is recognized as the first African-American to be the Superintendent of a National Park; and
-- **(5)** the home of Colonel Young located near Xenia, Ohio is—
-  - **(A)** a National Historic Landmark; and
-  - **(B)** closely associated with—
-    - **(i)** Wilberforce University, a historically Black university at which Colonel Young served as Professor of Military Science; and
-    - **(ii)** Central State University, which is—
-      - **(I)** a historically Black university; and
-      - **(II)** the location of the National Afro-American Museum and Cultural Center.
-
-## § 3. Special resource study
+## § 2. Special resource study
 
 - **(a)** *Study* The Secretary of the Interior (referred to in this Act as the “Secretary”), in consultation with the Secretary of the Army, shall conduct a special resource study of the Colonel Charles Young Home, a National Historic Landmark in Xenia, Ohio (referred to in this Act as the “Home”).
 - **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
