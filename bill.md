@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3923
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,101 +11,47 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sugar Loaf Fire Protection District Land Exchange Act of 2009”.
+This Act may be cited as the “Sugar Loaf Fire Protection District Land Exchange Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** since 1967, the Sugar Loaf Fire Protection District, located west of Boulder, Colorado, has owned and operated 2 fire stations on National Forest System land pursuant to special use permits issued by the Forest Service;
-- **(2)** the District seeks ownership of the land on which the fire stations are located to enable the District—
-  - **(A)** to establish an area for firefighter training;
-  - **(B)** to install bathroom facilities in each fire station; and
-  - **(C)** to expand each fire station in the future;
-- **(3)** the National Forest System land on which each fire station is located—
-  - **(A)** consists of approximately 5.08 acres; and
-  - **(B)** is of limited utility for public administration, recreation, or any other use because the land has been occupied by the fire stations for 30 years;
-- **(4)** the District owns a parcel of non-Federal land consisting of approximately 5.17 acres that the District is willing to convey to the United States in exchange for the parcel of National Forest System land on which the fire stations are located;
-- **(5)** the non-Federal land offered by the District—
-  - **(A)** is suitable for addition to the Arapaho-Roosevelt National Forests; and
-  - **(B)** if conveyed to the United States, will—
-    - **(i)** eliminate an isolated inholding in the National Forest System land;
-    - **(ii)** result in administrative cost savings to the United States by reducing costs relating to forest boundary administration; and
-    - **(iii)** provide to the United States environmental and public recreational use benefits that will greatly exceed the benefits provided by the National Forest System land on which the fire stations are located; and
-- **(6)** it is in the public interest to direct, expedite, and facilitate completion of a land exchange involving the Federal and non-Federal land to enable the District to better provide fire protection services to—
-  - **(A)** residents of the District;
-  - **(B)** residents of neighboring districts; and
-  - **(C)** individuals who travel through—
-    - **(i)** the District on Colorado Highway 119; and
-    - **(ii)** National Forest System land that is located within, or adjacent to, the District.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
 - **(1)** *District* The term District means the Sugar Loaf Fire Protection District of Boulder, Colorado.
-- **(2)** *Federal land* The term Federal land means the parcel of approximately 5.08 acres of Federal land that is—
-  - **(A)** located in the National Forest; and
-  - **(B)** depicted on the maps entitled “Sugar Loaf Federal Lands—Station 1” and “Sugar Loaf Federal Lands—Station 2” dated November, 2006.
-- **(3)** *National Forest* The term National Forest means the Arapaho-Roosevelt National Forests located in the State of Colorado.
-- **(4)** *Non-Federal land* The term non-Federal land means the parcel of approximately 5.17 acres of non-Federal land that is—
-  - **(A)** located—
-    - **(i)** in unincorporated Boulder County, Colorado; and
-    - **(ii)** between the communities of Boulder and Nederland, Colorado; and
-  - **(B)** depicted on the map entitled “Non-Federal Lands—Hibernian Load” and dated November, 2006.
+- **(2)** *Federal land* The term Federal land means—
+  - **(A)** the parcel of approximately 1.52 acres of land in the National Forest that is generally depicted on the map numbered 1, entitled “Sugarloaf Fire Protection District Proposed Land Exchange”, and dated November 12, 2009; and
+  - **(B)** the parcel of approximately 3.56 acres of land in the National Forest that is generally depicted on the map numbered 2, entitled “Sugarloaf Fire Protection District Proposed Land Exchange”, and dated November 12, 2009.
+- **(3)** *National forest* The term National Forest means the Arapaho-Roosevelt National Forests located in the State of Colorado.
+- **(4)** *Non-Federal land* The term non-Federal land means the parcel of approximately 5.17 acres of non-Federal land in unincorporated Boulder County, Colorado, that is generally depicted on the map numbered 3, entitled “Sugarloaf Fire Protection District Proposed Land Exchange”, and dated November 12, 2009.
 - **(5)** *Secretary* The term Secretary means the Secretary of Agriculture.
 
-## § 4. Land exchange
+## § 3. Land exchange
 
-- **(a)** *In general* If, not later than 30 days after the date of enactment of this Act, the District offers to convey to the Secretary all right, title, and interest of the District in and to the non-Federal land, and the offer is acceptable to the Secretary—
+- **(a)** *In general* Subject to the provisions of this Act, if the District offers to convey to the Secretary all right, title, and interest of the District in and to the non-Federal land, and the offer is acceptable to the Secretary—
   - **(1)** the Secretary shall accept the offer; and
-  - **(2)** on receipt of acceptable title in and to the non-Federal land, the Secretary shall convey to the District all right, title, and interest of the United States in and to the Federal land.
-- **(b)** *Appraisals; equalization*
-  - **(1)** *Appraisals*
-    - **(A)** *In general* The Federal land and non-Federal land shall be appraised by an independent appraiser selected by the Secretary.
-    - **(B)** *Requirements*
-      - **(i)** *Standards* An appraisal conducted under subparagraph (A) shall be conducted in accordance with—
-        - **(I)** the Uniform Appraisal Standards for Federal Land Acquisitions developed by the Interagency Land Acquisition Conference; and
-        - **(II)** the Uniform Standards of Professional Appraisal Practice.
-      - **(ii)** *Encumbrance* The independent appraiser selected by the Secretary under subparagraph (A) shall not consider the encumbrance described in subsection (e) during the conduct of an appraisal under subparagraph (A).
-  - **(2)** *Equalization* If the values of the Federal land and the non-Federal land to be conveyed in the land exchange under subsection (a) are not equal, the values may be equalized by—
-    - **(A)** the Secretary making a cash equalization payment to the District (including a cash equalization payment the amount of which is greater than the amount authorized by section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b));
-    - **(B)** the District making a cash equalization payment to the Secretary;
-    - **(C)** reducing the acreage of the Federal land or the non-Federal land to be exchanged, as appropriate; or
-    - **(D)** any combination of—
-      - **(i)** a cash equalization payment described in subparagraph (A) or (B), as appropriate; and
-      - **(ii)** a reduction of acreage of the Federal land or the non-Federal land described in subparagraph (C), as appropriate.
-- **(c)** *Condition of exchange* As a condition of the land exchange under subsection (a), to expedite the land exchange and reduce the administrative costs of the land exchange to the United States, the District shall pay each cost relating to—
-  - **(1)** each necessary land survey of the Federal and non-Federal land; and
-  - **(2)** each appraisal conducted by the independent appraiser under subsection (b)(1).
-- **(d)** *Deadline for completion of land exchange* It is the intent of Congress that the land exchange under subsection (a) shall be completed not later than 120 days after the date of enactment of this Act.
-- **(e)** *Interim use of Federal land*
-  - **(1)** *In general* Subject to paragraph (2), during the period beginning on the date of enactment of this Act and ending on the date of completion of the land exchange under subsection (a), the District may carry out modifications to each fire station located on the Federal land without further action or authorization by the Secretary.
-  - **(2)** *Indemnification requirement* Before the conduct of any modification described in paragraph (1), the District shall enter into a written agreement with the Secretary, with respect to the period described in that paragraph—
-    - **(A)** to hold the United States harmless for any liability arising from the conduct of any modification; and
-    - **(B)** to indemnify the United States against any cost arising from—
-      - **(i)** the ownership by the United States of the Federal land; and
-      - **(ii)** any action of the District (including any employee, licensee, or agent of the District) in carrying out any modification or other action on the Federal land.
-- **(f)** *Authority of Secretary To conduct sale of Federal land*
-  - **(1)** *In general* In accordance with paragraph (2), if the land exchange under subsection (a) is not completed by the date described in that subsection for any reason, the Secretary may offer to sell to the District the Federal land.
-  - **(2)** *Value of Federal land* The Secretary may offer to sell to the District the Federal land for an amount equal to the value for which the Federal land is appraised under subsection (b)(1).
-- **(g)** *Disposition of proceeds*
+  - **(2)** on receipt of acceptable title to the non-Federal land, the Secretary shall convey to the District all right, title, and interest of the United States in and to the Federal land.
+- **(b)** *Applicable law* Section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716) shall apply to the land exchange authorized under subsection (a), except that—
+  - **(1)** the Secretary may accept a cash equalization payment in excess of 25 percent of the value of the Federal land; and
+  - **(2)** as a condition of the land exchange under subsection (a), the District shall—
+    - **(A)** pay each cost relating to any land surveys and appraisals of the Federal land and non-Federal land; and
+    - **(B)** enter into an agreement with the Secretary that allocates any other administrative costs between the Secretary and the District.
+- **(c)** *Additional terms and conditions* The land exchange under subsection (a) shall be subject to—
+  - **(1)** valid existing rights; and
+  - **(2)** any terms and conditions that the Secretary may require.
+- **(d)** *Time for completion of land exchange* It is the intent of Congress that the land exchange under subsection (a) shall be completed not later than 1 year after the date of enactment of this Act.
+- **(e)** *Authority of Secretary To conduct sale of Federal land*
+  - **(1)** *In general* In accordance with paragraph (2), if the land exchange under subsection (a) is not completed by the date that is 1 year after the date of enactment of this Act, the Secretary may offer to sell to the District the Federal land.
+  - **(2)** *Value of Federal land* The Secretary may offer to sell to the District the Federal land for the fair market value of the Federal land.
+- **(f)** *Disposition of proceeds*
   - **(1)** *In general* The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) any amount received by the Secretary as the result of—
-    - **(A)** a sale carried out under subsection (f)(1); and
-    - **(B)** any cash equalization payment under subsection (b)(2)(B).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of real property or interests in real property for inclusion in the portion of the National Forest System located in the State of Colorado.
-- **(h)** *Incorporation, management, and status of acquired land*
-  - **(1)** *Incorporation; management* The non-Federal land acquired by the Secretary under this section shall—
-    - **(A)** become part of the National Forest; and
-    - **(B)** be managed in accordance with each law applicable to the National Forest System (including regulations).
-  - **(2)** *Boundary of National Forest*
-    - **(A)** *In general* The boundary of the National Forest is modified in accordance with the acquisition of the non-Federal land under this section.
-    - **(B)** *Land and Water Conservation Fund* For the purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9), the boundary of the National Forest, as adjusted by subparagraph (A), shall be considered to be the boundary of the National Forest as of January 1, 1965.
-- **(i)** *Technical corrections with respect to maps*
-  - **(1)** *In general* Subject to the agreement of the District, the Secretary may—
-    - **(A)** make minor corrections to correct technical and clerical errors in the maps described in section 3; and
-    - **(B)** adjust the boundary of the National Forest to ensure the establishment of a boundary that the Secretary determines could be effectively managed.
-  - **(2)** *Discrepancies* Subject to the agreement of the Secretary and the District, if there is a discrepancy between a map, acreage estimate, and legal or other description of the land to be exchanged under subsection (a), the map shall prevail.
-- **(j)** *Revocation of orders; withdrawal*
+    - **(A)** any cash equalization payment made under subsection (b); and
+    - **(B)** any sale carried out under subsection (e).
+  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the National Forest.
+- **(g)** *Management and status of acquired land* The non-Federal land acquired by the Secretary under this section shall be—
+  - **(1)** added to, and administered as part of, the National Forest; and
+  - **(2)** managed by the Secretary in accordance with—
+    - **(A)** the Act of March 1, 1911 (commonly known as the “Weeks Law”) (16 U.S.C. 480 et seq.); and
+    - **(B)** any laws (including regulations) applicable to the National Forest.
+- **(h)** *Revocation of orders; withdrawal*
   - **(1)** *Revocation of orders* Any public order withdrawing the Federal land from entry, appropriation, or disposal under the public land laws is revoked to the extent necessary to permit the conveyance of the Federal land to the District.
   - **(2)** *Withdrawal* On the date of enactment of this Act, if not already withdrawn or segregated from entry and appropriation under the public land laws (including the mining and mineral leasing laws) and the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.), the Federal land is withdrawn until the date of the conveyance of the Federal land to the District.
