@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4973
 congress: 111
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f) is amended in subsections (b)(2)(B)(ii) and (d)(2)(C)(i) by striking “National Wildlife Refuge Administration Act of 1966” each place it appears and inserting “National Wild… | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “Projects” and inserting “National volunteer coordination program”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2) to read as follows | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “for for each fiscal year through fiscal year 2009” and inserting “for each fiscal year through fiscal year 2014”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) (as amended by this Act) as subsection (g); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
