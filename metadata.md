@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2555
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2555
@@ -16,7 +16,7 @@ Homeowners' Defense Act of 2010
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (43)
+## Cosponsors (80)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Grayson, Alan [D-FL-8] (G000556)
@@ -61,6 +61,43 @@ Homeowners' Defense Act of 2010
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Childers, Travis [D-MS-1] (C001074)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 
 ## Committees (1)
 
@@ -71,3 +108,8 @@ Homeowners' Defense Act of 2010
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Introduced in House
 - 2009-05-21 — Referred to the House Committee on Financial Services.
+- 2010-04-27 — Committee Consideration and Mark-up Session Held.
+- 2010-04-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 26.
+- 2010-07-13 — Placed on the Union Calendar, Calendar No. 306.
+- 2010-07-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-534.
+- 2010-07-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-534.

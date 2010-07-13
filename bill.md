@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2555
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Homeowners’ Defense Act of 2009”.
+- **(a)** *Short title* This Act may be cited as the “Homeowners’ Defense Act of 2010”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings and purposes
