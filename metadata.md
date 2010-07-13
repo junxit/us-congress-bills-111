@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4686
@@ -25,3 +25,18 @@ Rota Cultural and Natural Resources Study Act
 - 2010-02-24 — Introduced in House
 - 2010-02-24 — Introduced in House
 - 2010-02-24 — Referred to the House Committee on Natural Resources.
+- 2010-02-26 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-04-27 — Subcommittee Hearings Held.
+- 2010-06-16 — Committee Consideration and Mark-up Session Held.
+- 2010-06-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-06-16 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2010-07-13 — Considered under suspension of the rules. (consideration: CR H5509-5511)
+- 2010-07-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4686.
+- 2010-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-13 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2010-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5509)
+- 2010-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5509)
+- 2010-07-13 — Placed on the Union Calendar, Calendar No. 301.
+- 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-528.
+- 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-528.
+- 2010-07-13 — The title of the measure was amended. Agreed to without objection.

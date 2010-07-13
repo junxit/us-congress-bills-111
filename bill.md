@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4686
 
-> To authorize the Secretary of Interior to study the suitability and feasibility of designating prehistoric, historic, and limestone forest sites on Rota, Commonwealth of the Northern Mariana Islands, as a unit of the National Park System.
+> To authorize the Secretary of the Interior to study the suitability and feasibility of designating prehistoric, historic, and limestone forest sites on Rota, Commonwealth of the Northern Mariana Islands, as a unit of the National Park System.
 
 ## § 1. Short title; findings
 
@@ -27,4 +27,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** carry out a study regarding the suitability and feasibility of designating prehistoric, historic, and limestone forest sites on the island of Rota, Commonwealth of the Northern Mariana Islands, as a unit of the National Park System; and
   - **(2)** consider management alternatives for the island of Rota, Commonwealth of the Northern Mariana Islands.
 - **(b)** *Study Process and Completion* Except as provided by subsection (c) of this section, section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c)) shall apply to the conduct and completion of the study required by this section.
-- **(c)** *Submission of Study Results* Not later than 18 months after the date that funds are made available for this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the study.
+- **(c)** *Submission of Study Results* Not later than 3 years after the date that funds are made available for this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the study.
