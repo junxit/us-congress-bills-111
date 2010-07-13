@@ -16,7 +16,7 @@ This Act may be cited as the “National Wildlife Refuge Volunteer Improvement A
 ## § 2. Reauthorization of appropriations to implement volunteer, community partnership and education programs under Fish and Wildlife Act of 1956
 
 - **(a)** *Reauthorization* Section 7(f) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f(f)) is amended to read as follows:
-  > - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $3,000,000 for each of fiscal years 2011 through 2014.
+  > - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2011 through 2014.
 
 - **(b)** *Technical corrections* Section 7 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f) is amended in subsections (b)(2)(B)(ii) and (d)(2)(C)(i) by striking “National Wildlife Refuge Administration Act of 1966” each place it appears and inserting “National Wildlife Refuge System Administration Act of 1966”.
 
@@ -31,13 +31,13 @@ Section 4(a) of the National Wildlife Refuge System Volunteer and Community Part
   >   - **(B)** provide meaningful opportunities for volunteers to support the resource management, conservation, and public education programs and activities of national wildlife refuges or complexes of geographically related national wildlife refuges in each United States Fish and Wildlife Service region; and
   >   - **(C)** fulfill the purpose and mission of the National Wildlife Refuge System under the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.).
 
-- **(3)** by amending paragraph (2) to read as follows
+- **(3)** by amending paragraph (2) to read as follows:
   > - **(2)** *Volunteer coordination strategy*
   >   - **(A)** *In general* No later than one year after date of enactment of this paragraph, the Director shall publish in the Federal Register a national strategy for the coordination and utilization of volunteers within the National Wildlife Refuge System.
   >   - **(B)** *Consultation required* The strategy shall be developed in consultation with State fish and wildlife agencies, Indian tribes, refuge friends groups or similar volunteer organizations, and other relevant stakeholders.
   >   - **(C)** *Volunteer coordinators* The Director shall provide, subject to the availability of appropriations, no less than one regional volunteer coordinator for each United States Fish and Wildlife Service region to implement the strategy published under this paragraph. Such coordinators may be responsible for assisting partner organizations in developing and implementing volunteer projects and activities under cooperative agreements under section 7(d) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f(d)).
 
-- **(4)** in paragraph (4), by striking “for for each of fiscal years 1999 through 2002” and inserting “for each fiscal year through fiscal year 2014”.
+- **(4)** in paragraph (4), by striking “for for each fiscal year through fiscal year 2009” and inserting “for each fiscal year through fiscal year 2014”.
 
 ## § 4. Volunteer, community partnerships, and education programs report
 
