@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4773
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4773
@@ -16,9 +16,10 @@ Fort Pulaski National Monument Lease Authorization Act
 
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Fort Pulaski National Monument Lease Authorization Act
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 303.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-530.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-530.
+- 2010-07-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
