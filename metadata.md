@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5712
@@ -38,3 +38,9 @@ Physician Payment and Therapy Relief Act of 2010
 - 2010-07-13 — Referred to House Ways and Means
 - 2010-07-13 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-07-13 — Sponsor introductory remarks on measure. (CR E1308)
+- 2010-07-14 — Considered under suspension of the rules. (consideration: CR H5563-5565)
+- 2010-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5712.
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — Mr. Stark moved to suspend the rules and pass the bill.
+- 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5563-5564)
+- 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5563-5564)
