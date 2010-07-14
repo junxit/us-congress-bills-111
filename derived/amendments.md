@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3967
 congress: 111
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

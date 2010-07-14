@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3967
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3967
@@ -22,10 +22,11 @@ To amend the National Great Black Americans Commemoration Act of 2004 to authori
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To amend the National Great Black Americans Commemoration Act of 2004 to authori
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 299.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-526, Part I.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-526, Part I.
+- 2010-07-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
