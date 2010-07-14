@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5381
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5381
@@ -32,3 +32,8 @@ Motor Vehicle Safety Act of 2010
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Introduced in House
 - 2010-05-25 — Referred to the House Committee on Energy and Commerce.
+- 2010-05-26 — Committee Consideration and Mark-up Session Held.
+- 2010-05-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 21.
+- 2010-07-14 — Placed on the Union Calendar, Calendar No. 307.
+- 2010-07-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-536.
+- 2010-07-14 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-536.
