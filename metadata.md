@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2864
@@ -20,6 +20,10 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2010-07-14 — [House 111-2-439](votes/house-111-2-0439.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–0)
+
 ## Actions
 
 - 2009-06-12 — Introduced in House
@@ -37,3 +41,7 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 305.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-532.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-532.
+- 2010-07-14 — Considered as unfinished business. (consideration: CR H5576-5577)
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 439). (text: CR 7/13/2010 H5516-5517)
+- 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 439).(text: CR 7/13/2010 H5516-5517)
