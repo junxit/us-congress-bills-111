@@ -1,7 +1,7 @@
 ---
 measure: S. 3372
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3372
@@ -48,3 +48,19 @@ A bill to modify the date on which the Administrator of the Environmental Protec
 - 2010-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
 - 2010-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5867; text as passed Senate: CR S5867)
 - 2010-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5867; text as passed Senate: CR S5867)
+- 2010-07-15 — Held at the desk.
+- 2010-07-15 — Message on Senate action sent to the House.
+- 2010-07-15 — Received in the House.
+- 2010-07-29 — Cleared for White House.
+- 2010-07-29 — Considered under suspension of the rules. (consideration: CR 7/30/2010 6428-6429)
+- 2010-07-29 — DEBATE - The House proceeded with forty minutes of debate on S. 3372.
+- 2010-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-29 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill.
+- 2010-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/30/2010 H6428)
+- 2010-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/30/2010 H6428)
+- 2010-07-30 — Became Public Law No: 111-215.
+- 2010-07-30 — Became Public Law No: 111-215.
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Signed by President.
+- 2010-07-30 — Signed by President.
