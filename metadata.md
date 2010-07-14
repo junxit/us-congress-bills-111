@@ -1,7 +1,7 @@
 ---
 measure: S. 1288
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1288
@@ -34,3 +34,5 @@ Emergency Management Assistance Compact Grant Reauthorization Act of 2009
 - 2009-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-103.
 - 2009-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-103.
 - 2009-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.
+- 2010-07-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5867; text as passed Senate: CR S5867)
+- 2010-07-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5867; text as passed Senate: CR S5867)
