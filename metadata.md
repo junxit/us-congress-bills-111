@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3923
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3923
@@ -36,3 +36,4 @@ Sugar Loaf Fire Protection District Land Exchange Act
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 298.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-525.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-525.
+- 2010-07-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.
