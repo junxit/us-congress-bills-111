@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5618
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5618
@@ -68,3 +68,5 @@ Restoration of Emergency Unemployment Compensation Act of 2010
 - 2010-07-01 — Rule provides for consideration of H.R. 5618 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI. The amendment printed in this report shall be considered as adopted. The resolution waives all points of order against the bill, as amended.
 - 2010-07-01 — The previous question was ordered pursuant to the rule. (consideration: CR H5327)
 - 2010-07-01 — Under clause 10(c)(3) of rule XXI, the Chair announced that the presiding officer was supposed to have put the question of consideration on H.R. 5618 but omitted to do so. That omission has been overtaken by the subsequent actions on the bill.
+- 2010-07-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
