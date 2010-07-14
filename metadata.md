@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5450
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5450
@@ -79,3 +79,11 @@ To designate the facility of the United States Postal Service located at 3894 Cr
 - 2010-05-27 — Introduced in House
 - 2010-05-27 — Introduced in House
 - 2010-05-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-17 — Committee Consideration and Mark-up Session Held.
+- 2010-06-17 — Ordered to be Reported by Unanimous Consent.
+- 2010-07-14 — Considered under suspension of the rules. (consideration: CR H5561-5563)
+- 2010-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5450.
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5561)
+- 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5561)
