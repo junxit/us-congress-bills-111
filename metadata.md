@@ -1,7 +1,7 @@
 ---
 measure: S. 3372
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3372
@@ -46,3 +46,5 @@ A bill to modify the date on which the Administrator of the Environmental Protec
 - 2010-06-18 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-209.
 - 2010-06-18 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-209.
 - 2010-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2010-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5867; text as passed Senate: CR S5867)
+- 2010-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5867; text as passed Senate: CR S5867)
