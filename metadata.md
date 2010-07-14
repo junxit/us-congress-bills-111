@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4973
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4973
@@ -22,9 +22,10 @@ National Wildlife Refuge Volunteer Improvement Act of 2010
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ National Wildlife Refuge Volunteer Improvement Act of 2010
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 304.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-531.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-531.
+- 2010-07-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

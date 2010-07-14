@@ -2,7 +2,7 @@
 legis-num: H.R. 4973
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4973
@@ -31,7 +31,7 @@ Section 4(a) of the National Wildlife Refuge System Volunteer and Community Part
   >   - **(B)** provide meaningful opportunities for volunteers to support the resource management, conservation, and public education programs and activities of national wildlife refuges or complexes of geographically related national wildlife refuges in each United States Fish and Wildlife Service region; and
   >   - **(C)** fulfill the purpose and mission of the National Wildlife Refuge System under the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.).
 
-- **(3)** by amending paragraph (2) to read as follows
+- **(3)** by amending paragraph (2) to read as follows:
   > - **(2)** *Volunteer coordination strategy*
   >   - **(A)** *In general* No later than one year after date of enactment of this paragraph, the Director shall publish in the Federal Register a national strategy for the coordination and utilization of volunteers within the National Wildlife Refuge System.
   >   - **(B)** *Consultation required* The strategy shall be developed in consultation with State fish and wildlife agencies, Indian tribes, refuge friends groups or similar volunteer organizations, and other relevant stakeholders.
