@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1509
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1509
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1722) to improve teleworking in ex
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2010-07-14 — [House 111-2-437](votes/house-111-2-0437.md) — On Ordering the Previous Question — **Passed** (232–184)
+- 2010-07-14 — [House 111-2-438](votes/house-111-2-0438.md) — On Agreeing to the Resolution — **Passed** (238–180)
+
 ## Actions
 
 - 2010-07-13 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1722) to improve teleworking in ex
 - 2010-07-13 — The House Committee on Rules reported an original measure, H. Rept. 111-535, by Mr. McGovern.
 - 2010-07-13 — The House Committee on Rules reported an original measure, H. Rept. 111-535, by Mr. McGovern.
 - 2010-07-13 — The amendment in the nature of a substitute recommended by the Committee on Oversight and Government Reform now printed in the bill, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. House Resolution 1496 is laid on the table.
+- 2010-07-14 — Considered as privileged matter. (consideration: CR H5567-5576)
+- 2010-07-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 1509.
+- 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-14 — On agreeing to the resolution Agreed to by recorded vote: 238 - 180 (Roll no. 438). (text: CR H5567)
+- 2010-07-14 — On ordering the previous question Agreed to by the Yeas and Nays: 232 - 184 (Roll no. 437). (consideration: CR H5575-5576)
+- 2010-07-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 238 - 180 (Roll no. 438).(text: CR H5567)
