@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2765
@@ -52,3 +52,8 @@ Securing the Protection of our Enduring and Established Constitutional Heritage 
 - 2009-06-15 — Reported by the Committee on Judiciary. H. Rept. 111-154.
 - 2009-06-15 — Reported by the Committee on Judiciary. H. Rept. 111-154.
 - 2009-06-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-02-23 — Committee on the Judiciary. Hearings held.
+- 2010-07-13 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-07-14 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-07-14 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
