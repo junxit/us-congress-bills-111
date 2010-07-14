@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4686
@@ -16,9 +16,10 @@ Rota Cultural and Natural Resources Study Act
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Rota Cultural and Natural Resources Study Act
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-528.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-528.
 - 2010-07-13 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
