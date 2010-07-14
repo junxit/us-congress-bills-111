@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1722
 
-> To improve teleworking in executive agencies by developing a telework program that allows employees to telework at least 20 percent of the hours worked in every 2 administrative workweeks, and for other purposes.
+> To require the head of each executive agency to establish and implement a policy under which employees shall be authorized to telework, and for other purposes.
 
 ## § 1. Short title
 
@@ -24,25 +24,29 @@ This Act may be cited as the “Telework Improvements Act of 2010”.
 
 Not later than the expiration of the 120-day period which begins on the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue policy guidance requiring each Executive agency (as such term is defined in section 105 of title 5, United States Code), when purchasing computer systems, to purchase computer systems that enable and support telework, unless the head of the agency determines that there is a mission-specific reason not to do so.
 
-## § 4. Travel expense test programs
+## § 4. Authority for telework Travel expense test programs
 
-Section 5710 of title 5, United States Code, is amended to read as follows:
+- **(a)** *In General* Subchapter I of chapter 57 of title 5, United States Code, is amended by adding at the end the following:
+  > ## § 5711. Authority for telework travel expense test programs
+  >
+  > - **(a)**
+  >   - **(1)** Notwithstanding any other provision of this subchapter, under a test program which the Administrator of General Services determines to be in the interest of the Government and approves, an employing agency may pay through the proper disbursing official any necessary travel expenses in lieu of any payment otherwise authorized or required under this subchapter for employees participating in a telework program. Under an approved test program, an agency may provide an employee with the option to waive any payment authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program.
+  >   - **(2)** Any test program operated under this section shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
+  >   - **(3)** Under any test program operated under this section, if an agency employee voluntarily relocates from the pre-existing duty station of that employee, the Administrator may authorize the employing agency to establish a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by that agency.
+  >   - **(4)** Nothing in this section is intended to limit the authority of any agency to conduct test programs.
+  > - **(b)** The Administrator shall transmit a description of any test program approved by the Administrator under this section, and the rationale for approval, to the appropriate committees of the Congress at least 30 days before the effective date of the program.
+  > - **(c)**
+  >   - **(1)** An agency authorized to conduct a test program under this section shall provide to the Administrator, the Telework Managing Officer of that agency, and the appropriate committees of Congress a report on the results of the program not later than 3 months after completion of the program.
+  >   - **(2)** The results in a report described under paragraph (1) may include—
+  >     - **(A)** the number of visits an employee makes to the pre-existing duty station of that employee;
+  >     - **(B)** the travel expenses paid by the agency;
+  >     - **(C)** the travel expenses paid by the employee; or
+  >     - **(D)** any other information the agency determines useful to aid the Administrator, Telework Managing Officer, and Congress in understanding the test program and the impact of the program.
+  > - **(d)** No more than 10 test programs under this section may be conducted simultaneously.
+  > - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Improvements Act of 2010.
+  > - **(f)** In this section, the term “appropriate committees of Congress” means the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
-> ## § 5710. Authority for travel expense test programs
->
-> - **(a)**
->   - **(1)** Notwithstanding any other provision of this subchapter, if the Administrator of General Services determines it to be in the interest of Government, the Administrator may approve the request of an agency to operate a test program under which the agency may pay through the proper disbursing official any necessary travel expenses of the employee in lieu of any payment otherwise authorized or required under this subchapter. Under an approved test program, an agency may provide an employee with the option to waive any payment authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the test program.
->   - **(2)** Any test program operated under this section shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
-> - **(b)** The Administrator shall transmit a description of any test program approved or extended by the Administrator under this section to the appropriate committees of the Congress not later than 30 days before the program or extension takes effect.
-> - **(c)**
->   - **(1)** An agency operating a test program approved under this section shall annually submit a report on the results of the program to date to the Administrator.
->   - **(2)** Not later than 3 months after the conclusion of a test program approved under this section, the agency operating the program shall submit a final report on the results of the program to the Administrator and the appropriate committees of Congress.
-> - **(d)** The Administrator may approve such number of test programs under this section as the Administrator considers appropriate, including test programs which are carried out on a government-wide basis, except that the number of test programs in operation at any time may not exceed 12.
-> - **(e)**
->   - **(1)** The Administrator may not approve any test program under this section for an initial period of more than 2 years.
->   - **(2)** Upon a showing of enhanced cost savings, the Administrator may extend an approved test program for an additional period not to exceed 2 years.
-> - **(f)** In this section, the term “appropriate committees of Congress” means the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
-> - **(g)** The authority to conduct test programs under this section shall expire upon the expiration of the 6-year period which begins on the date of the enactment of the Telework Improvements Act of 2010.
+- **(b)** *Clerical amendment* The table of sections for subchapter I of chapter 57 of title 5, United States Code, is amended by adding at the end the following:
 
 ## § 5. Telework research
 
