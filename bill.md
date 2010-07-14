@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 5730
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5730
+
+> To rescind earmarks for certain surface transportation projects.
+
+## § 1. Short title
+
+This Act may be cited as the “Surface Transportation Earmark Rescission, Savings, and Accountability Act”.
+
+## § 2. Rescission of allocated project funds
+
+- **(a)** *ISTEA and STURAA* The unobligated balances available on December 31, 2010, under sections 1103(b), 1104(b), 1105(f), 1106(a), 1106(b), 1107(b), and 1108(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) and subsections (c) and (d) of section 149 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Public Law 100–17) are rescinded.
+- **(b)** *TEA 21* The unobligated balance available on September 30, 2011, under section 1602 of the Transportation Equity Act for the 21st Century (Public Law 105–178) for each project for which less than 10 percent of the amount authorized for such project under such section has been obligated is rescinded.
+
+## § 3. Repeal of Appalachian Development Highway System Corridor Designation
+
+Section 1117(d) of the Transportation Equity Act for the 21st Century (112 Stat. 161) is repealed and the designation made by that section shall no longer be effective.
+
+## § 4. Rescission of undesignated high priority project funds
+
+Of the amounts authorized for fiscal years 2005 through 2009 in section 1101(a)(16) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59) to carry out the high priority projects program under section 117 of title 23, United States Code, that are not allocated for projects described in section 1702 of such Act, $8,190,355 are rescinded.
+
+## § 5. Report
+
+Not later than October 31, 2011, and not later than October 31 of each year thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report identifying each project authorized under section 1602 of the Transportation Equity Act for the 21st Century (Public Law 105–178), sections 1301, 1302, 1702, and 1934 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (Public Law 109–59), and section 144(f) of title 23, United States Code, that has inactive funds or that has been completed in the previous fiscal year. Such report shall include, for each such project—
+
+- **(1)** the amount of funds authorized under such section;
+- **(2)** the unobligated balance of such funds; and
+- **(3)** a reference to the public law, section number, and project number under which such project was authorized.
