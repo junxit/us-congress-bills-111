@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4173
 congress: 111
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 4173
@@ -28,7 +28,7 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - House — Agriculture Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (19)
+## Recorded votes (25)
 
 - 2009-12-10 — [House 111-1-953](votes/house-111-1-0953.md) — On Agreeing to the Amendment — **Agreed to** (240–182)
 - 2009-12-10 — [House 111-1-954](votes/house-111-1-0954.md) — On Agreeing to the Amendment — **Failed** (172–257)
@@ -49,6 +49,12 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2010-05-20 — [Senate 111-2-162](votes/senate-111-2-0162.md) — On Passage of the Bill — **Bill Passed** (59–39)
 - 2010-05-24 — [Senate 111-2-163](votes/senate-111-2-0163.md) — On the Motion — **Motion Agreed to** (60–30)
 - 2010-05-24 — [Senate 111-2-164](votes/senate-111-2-0164.md) — On the Motion — **Motion Agreed to** (87–4)
+- 2010-06-09 — [House 111-2-343](votes/house-111-2-0343.md) — On Motion to Instruct Conferees — **Failed** (198–217)
+- 2010-06-30 — [House 111-2-412](votes/house-111-2-0412.md) — On Motion to Recommit the Conference Report with Instructions — **Failed** (198–229)
+- 2010-06-30 — [House 111-2-413](votes/house-111-2-0413.md) — On Agreeing to the Conference Report — **Passed** (237–192)
+- 2010-07-15 — [Senate 111-2-206](votes/senate-111-2-0206.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–38)
+- 2010-07-15 — [Senate 111-2-207](votes/senate-111-2-0207.md) — On the Motion — **Motion Agreed to** (60–39)
+- 2010-07-15 — [Senate 111-2-208](votes/senate-111-2-0208.md) — On the Conference Report — **Conference Report Agreed to** (60–39)
 
 ## Actions
 
@@ -316,3 +322,60 @@ Dodd-Frank Wall Street Reform and Consumer Protection Act
 - 2010-05-25 — Message on Senate action sent to the House.
 - 2010-05-25 — Senate appointed conferee(s) Dodd; Johnson; Reed; Schumer; Shelby; Crapo; Corker; Gregg; Lincoln; Leahy; Harkin; Chambliss. (consideration: CR S4170)
 - 2010-05-27 — Senate ordered measure printed as passed.
+- 2010-06-09 — DEBATE - The House proceeded with one hour of debate on the Bachus motion to instruct conferees on H.R. 4173. The instructions contained in the motion seek to require the managers on the part of the House to disagree to the provisions contained in subtitle G of title I of the House bill and to disagree to section 202 and section 210 of title II of the Senate amendment. The instructions in the motion also seek to require the managers on the part of the House to not record their approval of the final conference agreement unless the text of such agreement has been available to the managers in an electronic, searchable, and downloadable form for at least 72 hours.
+- 2010-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-06-09 — Mr. Bachus moved that the House instruct conferees. (consideration: CR H4289-4297; text: CR H4289)
+- 2010-06-09 — Mr. Frank (MA) moved that the House disagree to the Senate amendments, and agree to a conference. (consideration: CR H4289-4297, H4300)
+- 2010-06-09 — On motion that the House disagree to the Senate amendments, and agree to a conference Agreed to without objection.
+- 2010-06-09 — On motion that the House instruct conferees Failed by the Yeas and Nays: 198 - 217 (Roll no. 343).
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on Agriculture for consideration of subtitles A and B of title I, secs. 1303, 1609, 1702, 1703, title III (except secs. 3301 and 3302), secs. 4205(c), 4804(b)(8)(B), 5008, and 7509 of the House bill, and sec. 102, subtitle A of title I, secs. 406, 604(h), title VII, title VIII, secs. 983, 989E, 1027(j), 1088(a)(8), 1098, and 1099 of the Senate amendment, and modifications committed to conference: Peterson, Boswell, and Lucas. (consideration: CR H4300)
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 3009, 3102(a)(2), 4001, 4002, 4101-4114, 4201, 4202, 4204-4210, 4301-4311, 4314, 4401-4403, 4410, 4501-4509, 4601-4606, 4815, 4901, and that portion of sec. 8002(a)(3) which adds a new sec. 313(d) to title 31, United States Code, of the House bill, and that portion of sec. 502(a)(3) which adds a new sec. 313(d) to title 31, United States Code, secs. 722(e), 1001, 1002, 1011-1018, 1021-1024, 1027-1029, 1031-1034, 1036, 1037, 1041, 1042, 1048, 1051-1058, 1061-1067, 1101, and 1105 of the Senate amendment, and modifications committed to conference: Waxman, Rush, and Barton (TX).
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Frank (MA), Kanjorski, Waters, Maloney, Gutierrez, Watt, Meeks (NY), Moore (KS), Kilroy, Peters, Bachus, Royce, Biggert, Capito, Hensarling, and Garrett (NJ).
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 1000A, 1007, 1101(e)(3), 1203(d), 1212, 1217, 1254(c), 1609(h)(8)(B), 1611(d), 3301, 3302, 3304, 4106(b)(2) and (g)(4)(D), 4604, 4801, 4802, 5004, 7203(a), 7409, and 8002(a)(3) of the House bill, and secs. 111(g), (i) and (j), 152(d)(2), (g) and (k), 210(h)(8), 319, 322, 404, 502(a)(3), 723(a)(3), 748, 763(a), 809(g), 922(a), 988, 989B, 989C, 989D, 989E, 1013(a), 1022(c)(6), 1064, 1152, and 1159(a) and (b) of the Senate amendment, and modifications committed to conference: Towns, Cummings, and Issa. (consideration: CR H4300)
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 1071 and 1104 of the Senate amendment, and modifications committed to conference: Velazquez, Shuler, and Graves. (consideration: CR H4300)
+- 2010-06-09 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 1101(e)(2), 1103(e)(2), 1104(i)(5) and (i)(6), 1105(h) and (i), 1110(c) and (d), 1601, 1605, 1607, 1609, 1610, 1612(a), 3002(c)(3) and (c)(4), 3006, 3119, 3206, 4205(n), 4306(b), 4501-4509, 4603, 4804(b)(8)(A), 4901(c)(8)(D) and (e), 6003, 7203(a), 7205, 7207, 7209, 7210, 7213-7216, 7220, 7302, 7507, 7508, 9004, 9104, 9105, 9106(a), 9110(b), 9111, 9118, 9203(c), and 9403(b) of the House bill, and secs.112(b)(5)(B), 113(h), 153(f), 201, 202, 205, 208-210, 211(a) and (b), 316, 502(a)(3), 712(c), 718(b), 723(a)(3), 724(b), 725(c), 728, 731, 733, 735(b), 744, 748, 753, 763(a), (c) and (i), 764, 767, 809(f), 922, 924, 929B, 932, 991(b)(5), (c)(2)(G) and (c)(3)(H), 1023(c)(7) and (c)(8), 1024(c)(3)(B), 1027(e), 1042, 1044(a), 1046(a), 1047, 1051-1058, 1063, 1088(a)(7)(A), 1090, 1095, 1096, 1098, 1104, 1151(b), and 1156(c) of the Senate amendment, and modifications committed to conference: Conyers, Berman, and Smith (TX). (consideration: CR H4300)
+- 2010-06-09 — The previous question was ordered without objection. (consideration: CR H4296)
+- 2010-06-10 — Conference committee actions: Conference held.
+- 2010-06-10 — Conference held.
+- 2010-06-15 — Conference committee actions: Conference held.
+- 2010-06-15 — Conference held.
+- 2010-06-16 — Conference committee actions: Conference held.
+- 2010-06-16 — Conference held.
+- 2010-06-17 — Conference committee actions: Conference held.
+- 2010-06-17 — Conference held.
+- 2010-06-22 — Conference committee actions: Conference held.
+- 2010-06-22 — Conference held.
+- 2010-06-23 — Conference committee actions: Conference held.
+- 2010-06-23 — Conference held.
+- 2010-06-24 — Conference committee actions: Conference held.
+- 2010-06-24 — Conference held.
+- 2010-06-29 — Conferees agreed to file conference report.
+- 2010-06-29 — Conference committee actions: Conferees agreed to file conference report.
+- 2010-06-29 — Conference report H. Rept. 111-517 filed. (text of conference report: CR H4977-5202)
+- 2010-06-29 — Conference report filed: Conference report H. Rept. 111-517 filed.(text of conference report: CR H4977-5202)
+- 2010-06-30 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2010-06-30 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 237 - 192 (Roll no. 413).
+- 2010-06-30 — DEBATE - Pursuant to the provisions of H.Res. 1490, the House proceeded with 2 hours of debate on the conference report to accompany H.R. 4173.
+- 2010-06-30 — Motions to reconsider laid on the table Agreed to without objection.
+- 2010-06-30 — Mr. Bachus moved to recommit with instructions to the conference committee. (consideration: CR H5260-5261)
+- 2010-06-30 — Mr. Frank (MA) brought up conference report H. Rept. 111-517 for consideration under the provisions of H. Res. 1490. (consideration: CR H5233-5261)
+- 2010-06-30 — On agreeing to the conference report Agreed to by the Yeas and Nays: 237 - 192 (Roll no. 413).
+- 2010-06-30 — On motion to recommit the conference report with instructions Failed by the Yeas and Nays: 198 - 229 (Roll no. 412).
+- 2010-06-30 — Rule H. Res. 1490 passed House.
+- 2010-06-30 — Rules Committee Resolution H. Res. 1490 Reported to House. Rule provides for consideration of the conference report to H.R. 4173 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. All points of order against the conference report and against its consideration are waived.
+- 2010-06-30 — The previous question on the motion was ordered without objection. (consideration: CR H5260)
+- 2010-06-30 — The previous question was ordered pursuant to the rule. (consideration: CR H5260)
+- 2010-07-13 — Cloture motion on the conference report to accompany H.R. 4173 presented in Senate. (consideration: CR S5774; text: CR S5774)
+- 2010-07-13 — Conference report considered in Senate. (consideration: CR S5774-5777)
+- 2010-07-13 — Motion to proceed to consideration of the conference report to accompany H.R. 4173 agreed to in Senate by Voice Vote. (consideration: CR S5774)
+- 2010-07-15 — Cleared for White House.
+- 2010-07-15 — Cloture on the conference report to accompany H.R. 4173 invoked in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 206. (consideration: CR S5880; text: CR S5880)
+- 2010-07-15 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 60 - 39. Record Vote Number: 208.(consideration: CR S5933)
+- 2010-07-15 — Conference report considered in Senate. (consideration: CR S5870-5933)
+- 2010-07-15 — Message on Senate action sent to the House.
+- 2010-07-15 — Motion to waive all applicable budgetary discipline on the conference report with respect to the measure made in Senate.
+- 2010-07-15 — Motion to waive all applicable budgetary discipline with respect to the conference report agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 207.
+- 2010-07-15 — Point of order on the conference report to accompany H.R. 4173 raised in Senate.
+- 2010-07-15 — Presented to President.
+- 2010-07-15 — Presented to President.
+- 2010-07-15 — Senate agreed to conference report by Yea-Nay Vote. 60 - 39. Record Vote Number: 208. (consideration: CR S5933)
