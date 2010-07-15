@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 258
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 258
@@ -16,7 +16,7 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 
-## Cosponsors (22)
+## Cosponsors (24)
 
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
@@ -40,6 +40,8 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
 ## Committees (1)
 
@@ -50,3 +52,10 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 - 2010-03-25 — Introduced in House
 - 2010-03-25 — Introduced in House
 - 2010-03-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-03-26 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2010-07-01 — Committee Consideration and Mark-up Session Held.
+- 2010-07-01 — Ordered to be Reported by Voice Vote.
+- 2010-07-01 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2010-07-15 — Placed on the House Calendar, Calendar No. 216.
+- 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-541.
+- 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-541.
