@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1722
@@ -33,9 +33,10 @@ Telework Enhancement Act of 2010
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -84,3 +85,4 @@ Telework Enhancement Act of 2010
 - 2010-07-14 — Rule provides for consideration of H.R. 1722 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Oversight and Government Reform now printed in the bill, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2010-07-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5588)
 - 2010-07-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5586)
+- 2010-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
