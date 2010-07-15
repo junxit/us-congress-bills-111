@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2864
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2864
@@ -16,9 +16,10 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 - 2010-07-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 439). (text: CR 7/13/2010 H5516-5517)
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 439).(text: CR 7/13/2010 H5516-5517)
+- 2010-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
