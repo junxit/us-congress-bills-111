@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5390
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5390
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 13301 S
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 13301 S
 - 2010-07-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5558)
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5558)
+- 2010-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
