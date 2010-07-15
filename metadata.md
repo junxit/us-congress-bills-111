@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1455
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1455
@@ -29,3 +29,8 @@ Directing the Attorney General to transmit to the House of Representatives copie
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Referred to the House Committee on the Judiciary.
+- 2010-06-23 — Committee Consideration and Mark-up Session Held.
+- 2010-06-23 — Ordered to be Reported Adversely by the Yeas and Nays: 15 - 12.
+- 2010-07-15 — Placed on the House Calendar, Calendar No. 215.
+- 2010-07-15 — Reported adversely by the Committee on Judiciary. H. Rept. 111-538.
+- 2010-07-15 — Reported adversely by the Committee on Judiciary. H. Rept. 111-538.
