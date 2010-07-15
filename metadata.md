@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5450
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5450
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 3894 Cr
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ To designate the facility of the United States Postal Service located at 3894 Cr
 - 2010-07-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5561)
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5561)
+- 2010-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
