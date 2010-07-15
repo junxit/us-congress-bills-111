@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1366
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1366
@@ -16,7 +16,7 @@ Recognizing and honoring the freight railroad industry and its employees.
 
 - Rep. Hare, Phil [D-IL-17] (H001040)
 
-## Cosponsors (20)
+## Cosponsors (28)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
@@ -38,6 +38,14 @@ Recognizing and honoring the freight railroad industry and its employees.
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Teague, Harry [D-NM-2] (T000466)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
 
 ## Committees (1)
 
@@ -48,3 +56,10 @@ Recognizing and honoring the freight railroad industry and its employees.
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Introduced in House
 - 2010-05-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-05-19 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2010-07-01 — Committee Consideration and Mark-up Session Held.
+- 2010-07-01 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-01 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.
+- 2010-07-15 — Placed on the House Calendar, Calendar No. 217.
+- 2010-07-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-542.
+- 2010-07-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-542.
