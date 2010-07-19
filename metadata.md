@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5114
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5114
@@ -32,9 +32,10 @@ Flood Insurance Reform Priorities Act of 2010
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -152,3 +153,4 @@ Flood Insurance Reform Priorities Act of 2010
 - 2010-07-15 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2010-07-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5654)
 - 2010-07-15 — The previous question was ordered pursuant to the rule. (consideration: CR H5653)
+- 2010-07-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
