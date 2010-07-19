@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1855
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subtitle D of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2911 et seq.) is amended by inserting after section 174 the following: | the bill names no machine-readable US Code section |
+| — | insert | Subtitle D of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2911 et seq.) is amended by inserting after section 171 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents in section 1(b) of the Workforce Investment Act of 1998 (20 U.S.C. 9201 note) is amended by inserting after the item relating to section 171 the following: | the bill names no machine-readable US Code section |
