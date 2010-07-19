@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2765
@@ -57,3 +57,8 @@ Securing the Protection of our Enduring and Established Constitutional Heritage 
 - 2010-07-14 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-07-14 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
+- 2010-07-19 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-224. Additional views filed.
+- 2010-07-19 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-224. Additional views filed.
+- 2010-07-19 — Message on Senate action sent to the House.
+- 2010-07-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5978-5980; text as passed Senate: CR S5978-5979)
+- 2010-07-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5978-5980; text as passed Senate: CR S5978-5979)
