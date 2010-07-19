@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5712
@@ -44,3 +44,5 @@ Physician Payment and Therapy Relief Act of 2010
 - 2010-07-14 — Mr. Stark moved to suspend the rules and pass the bill.
 - 2010-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5563-5564)
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5563-5564)
+- 2010-07-15 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-07-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
