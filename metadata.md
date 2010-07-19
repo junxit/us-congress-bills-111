@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1466
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1466
@@ -25,3 +25,8 @@ Of inquiry requesting the President and directing the Secretary of Energy to pro
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Referred to the House Committee on Energy and Commerce.
+- 2010-07-15 — Committee Consideration and Mark-up Session Held.
+- 2010-07-15 — Ordered to be Reported Without Recommendation by Voice Vote.
+- 2010-07-19 — Placed on the House Calendar, Calendar No. 220.
+- 2010-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 111-550.
+- 2010-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 111-550.
