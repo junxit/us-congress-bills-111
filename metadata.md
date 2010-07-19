@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2765
@@ -62,3 +62,15 @@ Securing the Protection of our Enduring and Established Constitutional Heritage 
 - 2010-07-19 — Message on Senate action sent to the House.
 - 2010-07-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5978-5980; text as passed Senate: CR S5978-5979)
 - 2010-07-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5978-5980; text as passed Senate: CR S5978-5979)
+- 2010-07-27 — Cleared for White House.
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to supend the rules and agree to the Senate amendment to H.R. 2765.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Cohen moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6126-6129)
+- 2010-07-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6126-6127)
+- 2010-07-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6126-6127)
+- 2010-07-29 — Presented to President.
+- 2010-07-29 — Presented to President.
+- 2010-08-10 — Became Public Law No: 111-223.
+- 2010-08-10 — Became Public Law No: 111-223.
+- 2010-08-10 — Signed by President.
+- 2010-08-10 — Signed by President.
