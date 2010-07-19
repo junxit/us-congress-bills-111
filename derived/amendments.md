@@ -1,7 +1,7 @@
 ---
 measure: S. 3317
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Chapter 1 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2351 et seq.) is amended by redesignating section 620 J (as added by section 651 of the the Department of State, Foreign Operations, and Related Programs Appropriatio… | the bill names no machine-readable US Code section |
+| — | redesignate | Chapter 1 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2351 et seq.) is amended by redesignating section 620 J (as added by section 651 of the Department of State, Foreign Operations, and Related Programs Appropriations A… | the bill names no machine-readable US Code section |

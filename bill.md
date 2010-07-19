@@ -47,7 +47,7 @@ Congress makes the following findings:
   - **(B)** when the government of the affected country plays a leading role in the planning and execution of the rebuilding efforts, there is a higher probability of reforms being long-lasting and coordinated with the long-term planning and development efforts of the affected country;
   - **(C)** every effort should be made to incorporate, at the earliest time possible, market-based employment and economic development opportunities to allow people to take ownership of their long-term self sufficiency;
   - **(D)** stability and security are essential preconditions to longer-term development;
-  - **(E)** education is critical to securing a better future for the people in the affected country;
+  - **(E)** high quality, public funded education is critical to securing a better future for the people in the affected country;
   - **(F)** removing gender disparities spurs macroeconomic growth; and
   - **(G)** projects that integrate gender are more likely to achieve their overall goals.
 - **(9)** Employment is essential to breaking the vicious cycle of poverty, insecurity, and lack of faith in democracy.
@@ -120,10 +120,11 @@ It is the policy of the United States, in partnership with the Government of Hai
     - **(iii)** health care delivery and capacity building to strengthen the overall health care system;
     - **(iv)** supporting programs, activities, and initiatives that provide or promote equal opportunity, full participation, independent living, and economic self-sufficiency for individuals with disabilities; and
     - **(v)** strengthening the child welfare system—
-      - **(I)** to ensure the protection of children from violence, abuse, exploitation, and neglect;
+      - **(I)** to ensure the protection of children from violence, abuse, exploitation, trafficking, and neglect;
       - **(II)** to support family preservation and reunification and prevent child abandonment, to the extent possible;
-      - **(III)** to ensure that children without family care receive safe, developmentally appropriate care; and
-      - **(IV)** to end the practice and exploitation of child domestic servants (referred to in Haiti as “restaveks”), by offering families education, support, and alternatives;
+      - **(III)** to ensure that children without permanent family care receive safe, developmentally appropriate care, including children in foster, residential, or institutional care;; and,
+      - **(IV)** to ensure that children who cannot be reunified with family have access to family-based care through kinship, guardianship, domestic adoption, or, in appropriate cases, international adoption; and
+      - **(V)** to end the practice and exploitation of child domestic servants (referred to in Haiti as “restaveks”), by offering families education, support, and alternatives;
 - **(3)** support, pursuant to the strategic objectives in paragraph (2) and in coordination with other donors—
   - **(A)** the institutional development and capacity building of the Government of Haiti at the national, local, and community levels so that the Government of Haiti—
     - **(i)** can better ensure basic services to its population, including health care, education, and other basic social services; and
@@ -135,7 +136,7 @@ It is the policy of the United States, in partnership with the Government of Hai
 - **(4)** promote development and rebuilding efforts in Haiti that are led by, and in support of, all levels of government in Haiti, including national and local governments, so that—
   - **(A)** the Government and people of Haiti lead the vision for reconstruction and rebuilding of Haiti;
   - **(B)** resources are channeled in concrete and specific ways toward key sectoral objectives identified by the Government of Haiti and its people;
-  - **(C)** feasible steps are taken to recognize and rectify the social injustice of poverty and gender inequality and to decrease the vulnerability of the poor, through job creation, access to education, the provision of health care, the provision of safe shelter and settlements, and food security;
+  - **(C)** feasible steps are taken to recognize and rectify the social injustice of poverty and gender inequality and to decrease the vulnerability of the poor, including poor families, through job creation, access to education, the provision of health care, the provision of safe shelter and settlements, and food security;
   - **(D)** communities are placed at the center of the rebuilding process, by employing local labor and consulting local leaders and communities for their experience and vision;
   - **(E)** rebuilding and development programs are environmentally sustainable and respectful and restorative of Haiti’s natural resources; and
   - **(F)** the Haiti Rebuilding and Development Strategy builds from and supports—
@@ -171,7 +172,7 @@ It is the policy of the United States, in partnership with the Government of Hai
     - **(A)** leverage private sector resources through different agencies, including assistance that allows Haiti to make greater use of the trade preferences provided under section 213A of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703a) (as added by the Haitian Hemispheric Opportunity Through Partnership Act of 2006 (title V of division D of Public Law 109–432; 120 Stat. 3181) (commonly known as the “HOPE Act”) and amended by the Haitian Hemispheric Opportunity Through Partnership Act of 2008 (part I of subtitle D of title XV of Public Law 110–246; 122 Stat. 2289) (commonly known as the “HOPE II Act”));
     - **(B)** consult with the academic and research communities, nonprofit organizations, foundations, other implementing partners, the Government of Haiti, Haitian civil society, and the Haitian diaspora;
     - **(C)** coordinate United States assistance efforts with similar efforts of international organizations, international financial institutions, the governments of developing and developed countries, and United States and international nongovernmental organizations;
-    - **(D)** promote access to education for all children;
+    - **(D)** promote access to high quality, public funded education for all children;
     - **(E)** incorporate approaches directed at reaching women living in poverty;
     - **(F)** incorporate best practices for improving child welfare and protection for orphans and other vulnerable children; and
     - **(G)** maximize local and regional procurement.
@@ -192,6 +193,10 @@ It is the policy of the United States, in partnership with the Government of Hai
   - **(2)** *Government accountability office report* Not later than 270 days after the submission of each report under paragraph (1), the Comptroller General of the United States shall submit a report to the appropriate congressional committees that contains—
     - **(A)** a review of, and comments addressing, the report submitted under paragraph (1); and
     - **(B)** recommendations relating to any additional actions the Comptroller General determines to be important to improve the provision of assistance for Haiti to support rebuilding and development.
+  - **(2)** *Government accountability office report* Not later than 270 days after the submission of the first report under paragraph (1), and on a periodic basis thereafter, the Comptroller General of the United States shall submit, to the appropriate congressional committees—
+    - **(A)** a review of, and comments addressing, the report submitted under paragraph (1);
+    - **(B)** an examination of obligations, expenditures, and activities relating to any additional actions the Comptroller General determines to be important, with recommendations to improve the provision of assistance for Haiti to support rebuilding and development; and
+    - **(C)** additional reviews, as appropriate, that focus on long-term, sustainable economic development activities.
   - **(3)** *Program review*
     - **(A)** *In general* Concurrent with the submission of the second annual report under paragraph (1), the Secretary of State shall submit a report to the appropriate congressional committees that contains—
       - **(i)** an assessment of the progress made during the preceding 2 years toward meeting the policy objectives set forth in section 4 and the specific goals, benchmarks, and time frames specified in the Haiti Rebuilding and Development Strategy;
@@ -205,19 +210,22 @@ It is the policy of the United States, in partnership with the Government of Hai
 
 ## § 7. Authorization of appropriations
 
-- **(a)** *Amounts authorized* There are authorized to be appropriated to provide assistance for Haiti and to carry out the other purposes of this Act, in addition to amounts otherwise available for such purposes—
-  - **(1)** $1,500,000,000 for fiscal year 2010;
-  - **(2)** $500,000,000 for fiscal year 2011;
+- **(a)** *Amounts authorized* There are authorized to be appropriated to carry out the policy objectives set forth in section 4 and the other purposes of this Actprovide assistance for Haiti and to carry out the other purposes of this Act, in addition to amounts otherwise available for such purposes—
+  - **(1)** $1,500,000,000 for fiscal year 2010; and
+  - **(2)** $500,000,000 for fiscal year 2011;.
   - **(3)** $500,000,000 for fiscal year 2012;
   - **(4)** $500,000,000 for fiscal year 2013; and
   - **(5)** $500,000,000 for fiscal year 2014.
 - **(b)** *Applicability of the Foreign Assistance Act of 1961 and other laws*
   - **(1)** *In general* Amounts made available to carry out the purposes of this Act, including amounts authorized to be appropriated by this Act—
+    - **(A)** for economic assistance shall be provided in accordance with the provisions of, and the general authorities contained in, sections 116, 491, and 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n, 2292, and 2378d), respectively; and
+    - **(B)** for assistance to security forces shall be subject to the applicable requirements under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) and the Arms Export Control Act (22 U.S.C. (2751 et seq.).
     - **(A)** shall be considered to be economic assistance under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for purposes of making available the administrative authorities contained in that Act for the use of economic assistance; and
     - **(B)** shall be provided in accordance with the provisions of, the general authorities contained in, and the limitations of, sections 116, 491, and 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n, 2292, and 2378d), respectively.
-  - **(2)** *Technical amendment* Chapter 1 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2351 et seq.) is amended by redesignating section 620 J (as added by section 651 of the the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 (division J of Public Law 110–161; 22 U.S.C. 2378d)) as section 620M.
+  - **(2)** *Administrative authorities* The administrative authorities under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be utilized in providing assistance furnished with amounts made available to carry out the purposes of this Act, including amounts authorized to be appropriated by this Act.
+  - **(3)** *Technical amendment* Chapter 1 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2351 et seq.) is amended by redesignating section 620 J (as added by section 651 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 (division J of Public Law 110–161; 22 U.S.C. 2378d)) as section 620M.
 - **(c)** *Transfers* Of the amounts appropriated for each fiscal year pursuant to subsection (a)—
-  - **(1)** the Department of the Treasury may contribute to a multi-donor trust fund for reconstruction and recovery expenses related to Haiti following the earthquake of January 12, 2010; and
+  - **(1)** the Department of the Treasury may contribute to a multi-donor trust fund for reconstruction and recovery expenses related to Haiti following the earthquake of January 12, 2010, subject to the regular notification procedures of the appropriate congressional committees; and
   - **(2)** remaining amounts may be transferred to the “Development Credit Authority” account of the United States Agency for International Development for the cost of direct loans and loan guarantees, notwithstanding the dollar limitations in such account on transfers to the account.
 - **(d)** *Availability of funds*
   - **(1)** *In general* Amounts appropriated for each fiscal year pursuant to subsection (a) shall remain available until expended.
