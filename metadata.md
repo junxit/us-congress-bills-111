@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5566
@@ -16,7 +16,7 @@ Animal Crush Video Prohibition Act of 2010
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
-## Cosponsors (220)
+## Cosponsors (262)
 
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 - Rep. Moran, James P. [D-VA-8] (M000933)
@@ -238,6 +238,48 @@ Animal Crush Video Prohibition Act of 2010
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Boehner, John A. [R-OH-8] (B000589)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Murphy, Scott [D-NY-20] (M001178)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Walden, Greg [R-OR-2] (W000791)
 
 ## Committees (1)
 
@@ -248,3 +290,8 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Introduced in House
 - 2010-06-22 — Referred to the House Committee on the Judiciary.
+- 2010-06-23 — Committee Consideration and Mark-up Session Held.
+- 2010-06-23 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2010-07-19 — Placed on the Union Calendar, Calendar No. 314.
+- 2010-07-19 — Reported by the Committee on Judiciary. H. Rept. 111-549.
+- 2010-07-19 — Reported by the Committee on Judiciary. H. Rept. 111-549.
