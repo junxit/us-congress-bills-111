@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1264
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,8 +35,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | The National Flood Insurance Act of 1968 is amended by inserting after section 1313 (42 U.S.C. 4020) the following new section: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(a) Flood protection measures.—” before “No new”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (14), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (15) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

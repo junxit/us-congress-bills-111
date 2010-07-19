@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1264
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1264
@@ -16,7 +16,7 @@ Multiple Peril Insurance Act of 2009
 
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 
-## Cosponsors (14)
+## Cosponsors (22)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
@@ -32,6 +32,14 @@ Multiple Peril Insurance Act of 2009
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 
 ## Committees (1)
 
@@ -42,3 +50,8 @@ Multiple Peril Insurance Act of 2009
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Introduced in House
 - 2009-03-03 — Referred to the House Committee on Financial Services.
+- 2010-04-27 — Committee Consideration and Mark-up Session Held.
+- 2010-04-27 — Ordered to be Reported by the Yeas and Nays: 40 - 25.
+- 2010-07-19 — Placed on the Union Calendar, Calendar No. 315.
+- 2010-07-19 — Reported by the Committee on Financial Services. H. Rept. 111-551.
+- 2010-07-19 — Reported by the Committee on Financial Services. H. Rept. 111-551.
