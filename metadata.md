@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5545
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5545
@@ -32,3 +32,9 @@ To deauthorize a portion of the project for navigation, Potomac River, Washingto
 - 2010-07-15 — Placed on the Union Calendar, Calendar No. 309.
 - 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-540.
 - 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-540.
+- 2010-07-20 — Considered under suspension of the rules. (consideration: CR H5742-5743)
+- 2010-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5545.
+- 2010-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-20 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2010-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5742-5743)
+- 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5742-5743)
