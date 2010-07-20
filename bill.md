@@ -2,7 +2,7 @@
 legis-num: H. RES. 1463
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1463
@@ -29,7 +29,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 2010, nearly 600,000 beneficiaries will receive retirement and survivor benefits and about 42,000 persons will receive unemployment and sickness benefits;
 - Whereas today more than 200,000 people work in railroad employment and pay railroad retirement taxes;
 - Whereas the rail industry and its workers continue to be an integral part of our Nation’s transportation system and vital to our economy; and
-- Whereas the Railroad Retirement Board has designated August 29, 2010, as “Railroad Retirement Day” to celebrate the success and importance of the railroad retirement system to America’s working families: Now, therefore be it
+- Whereas the Railroad Retirement Board has designated August 29, 2010, as “Railroad Retirement Day” to celebrate the success and importance of the railroad retirement system to America’s working families: Now, therefore, be it
 
 That the House of Representatives—
 
