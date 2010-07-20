@@ -21,7 +21,7 @@ The table of contents for this Act is as follows:
 
 In this Act:
 
-- **(1)** *Appropriate congressional committee* The term appropriate congressional committee means the Committee on Homeland Security of the House of Representatives and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
+- **(1)** *Appropriate congressional committee* The term appropriate congressional committee means the Committee on Homeland Security and the Committee on Science and Technology of the House of Representatives and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
 - **(2)** *Department* The term Department means the Department of Homeland Security.
 - **(3)** *Directorate* The term Directorate means the Directorate of Science and Technology of the Department.
 - **(4)** *Secretary* The term Secretary means the Secretary of Homeland Security.
