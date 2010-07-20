@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National September 11 Memorial & Museum Commemorative Medal Act of 2009”.
+This Act may be cited as the “National September 11 Memorial & Museum Commemorative Medal Act of 2010”.
 
 ## § 2. Striking and design of medals
 
@@ -30,7 +30,7 @@ This Act may be cited as the “National September 11 Memorial & Museum Commemor
 - **(a)** *Quality of medals* The medals struck under this Act shall be made available for sale in the quality comparable to proof coins.
 - **(b)** *Mint facility*
   - **(1)** *In general* Only 2 facilities of the United States Mint may be used to strike medals under this Act.
-  - **(2)** *Use of the United States Mints at West Point, New York, and Philadelphia, Pennsylvania* It is the sense of Congress that, to the extent possible, approximately one-half of the coins to be struck under this Act should be struck at the United States Mint at West Point, New York, and approximately one-half struck at the United States Mint at Philadelphia, Pennsylvania.
+  - **(2)** *Use of the United States Mints at West Point, New York, and Philadelphia, Pennsylvania* It is the sense of Congress that, to the extent possible, approximately one-half of the medals to be struck under this Act should be struck at the United States Mint at West Point, New York, and approximately one-half struck at the United States Mint at Philadelphia, Pennsylvania.
 - **(c)** *Date of issuance* The Secretary may make the medals available for sale under this Act beginning on January 1, 2011.
 - **(d)** *Termination of authority* No medals shall be struck under this Act after December 31, 2012.
 
@@ -57,3 +57,7 @@ The medals struck under this Act are national medals for purposes of chapter 51 
 - **(a)** *In general* All sales of medals made available for sale under this Act shall include a surcharge of $10 per medal.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of medals under this Act shall be paid to the National September 11 Memorial & Museum at the World Trade Center to support the operations and maintenance of the National September 11 Memorial & Museum at the World Trade Center following its completion.
 - **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the National September 11 Memorial & Museum at the World Trade Center as may be related to the expenditures of amounts paid under subsection (b).
+
+## § 8. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
