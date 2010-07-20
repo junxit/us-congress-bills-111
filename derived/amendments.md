@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1855
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subtitle D of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2911 et seq.) is amended by inserting after section 171 the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents in section 1(b) of the Workforce Investment Act of 1998 (20 U.S.C. 9201 note) is amended by inserting after the item relating to section 171 the following: | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 2911` | insert | Subtitle D of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2911 et seq.) is amended by inserting after section 171 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9201` | insert | The table of contents in section 1(b) of the Workforce Investment Act of 1998 (20 U.S.C. 9201 note) is amended by inserting after the item relating to section 171 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

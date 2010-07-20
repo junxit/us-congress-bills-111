@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1855
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1855
@@ -40,11 +40,12 @@ SECTORS Act of 2010
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ SECTORS Act of 2010
 - 2010-07-19 — Mr. Loebsack moved to suspend the rules and pass the bill, as amended.
 - 2010-07-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5686-5688)
 - 2010-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5686-5688)
+- 2010-07-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
