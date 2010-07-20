@@ -1,7 +1,7 @@
 ---
 measure: S. 1749
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1749
@@ -57,3 +57,14 @@ Cell Phone Contraband Act of 2010
 - 2010-07-20 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5791)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5791)
+- 2010-07-21 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2010-07-28 — Cleared for White House.
+- 2010-07-28 — Resolving differences -- Senate actions: Senate agreed to House amendment by Unanimous Consent.(consideration: CR S6456; text as Senate agreed to House amendment: CR S6456)
+- 2010-07-28 — Senate agreed to House amendment by Unanimous Consent. (consideration: CR S6456; text as Senate agreed to House amendment: CR S6456)
+- 2010-07-29 — Message on Senate action sent to the House.
+- 2010-07-29 — Presented to President.
+- 2010-07-29 — Presented to President.
+- 2010-08-10 — Became Public Law No: 111-225.
+- 2010-08-10 — Became Public Law No: 111-225.
+- 2010-08-10 — Signed by President.
+- 2010-08-10 — Signed by President.
