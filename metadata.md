@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 126
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 126
@@ -62,10 +62,11 @@ Recognizing the 50th anniversary of Title VI international education programs wi
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Foreign Affairs Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -87,3 +88,4 @@ Recognizing the 50th anniversary of Title VI international education programs wi
 - 2010-07-19 — Mr. Loebsack moved to suspend the rules and agree to the resolution, as amended.
 - 2010-07-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 16 (Roll no. 449). (text: CR H5681-5682)
 - 2010-07-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 16 (Roll no. 449).(text: CR H5681-5682)
+- 2010-07-20 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
