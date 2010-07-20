@@ -1,7 +1,7 @@
 ---
 measure: S. 1749
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 

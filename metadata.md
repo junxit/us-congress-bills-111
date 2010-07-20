@@ -1,7 +1,7 @@
 ---
 measure: S. 1749
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1749
@@ -50,3 +50,10 @@ Cell Phone Contraband Act of 2010
 - 2010-04-14 — Message on Senate action sent to the House.
 - 2010-04-14 — Received in the House.
 - 2010-04-14 — Referred to the House Committee on the Judiciary.
+- 2010-06-15 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2010-07-20 — Considered under suspension of the rules. (consideration: CR H5791-5792)
+- 2010-07-20 — DEBATE - The House proceeded with forty minutes of debate on S. 1749.
+- 2010-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-20 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5791)
+- 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5791)
