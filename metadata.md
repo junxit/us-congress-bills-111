@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 83
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 83
@@ -58,3 +58,4 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H5565)
 - 2010-07-14 — Received in the Senate.
 - 2010-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-20 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.
