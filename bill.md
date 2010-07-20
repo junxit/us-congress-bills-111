@@ -35,6 +35,6 @@ Section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1)) i
 
 Section 212(a)(1)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(1)(C)(ii)) is amended by striking “section 101(b)(1)(F),” and inserting “subparagraph (F) or (G) of section 101(b)(1),”.
 
-## § 4. Effective date
+## § 4. Compliance with PAYGO
 
-The amendments made by this Act shall take effect on the date of the enactment of this Act except that, in the case of an alien who attained the age of 16, 17, or 18 years between April 1, 2008, and the date of the enactment of this Act, the alien shall be deemed to meet the age requirement specified in subparagraph (E), (F), or (G) of section 101(b)(1) of the Immigration and Nationality Act, as amended by section 2 of this Act, if a petition for classification of the alien as an immediate relative under section 201(b) of the Immigration and Nationality Act is filed not later than 2 years after the date of the enactment of this Act.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
