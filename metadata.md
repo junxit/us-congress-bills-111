@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3250
@@ -34,3 +34,5 @@ Federal Buildings Personnel Training Act of 2010
 - 2010-06-21 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-212.
 - 2010-06-21 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-212.
 - 2010-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
+- 2010-07-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6036; text as passed Senate: CR S6036)
+- 2010-07-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6036; text as passed Senate: CR S6036)
