@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 83
 congress: 111
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 83
@@ -44,6 +44,10 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2010-07-22 — [Senate 111-2-216](votes/senate-111-2-0216.md) — On the Joint Resolution — **Joint Resolution Passed** (99–1)
+
 ## Actions
 
 - 2010-05-11 — Introduced in House
@@ -59,3 +63,14 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2010-07-14 — Received in the Senate.
 - 2010-07-14 — The title of the measure was amended. Agreed to without objection.
 - 2010-07-20 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.
+- 2010-07-22 — Cleared for White House.
+- 2010-07-22 — Measure laid before Senate by unanimous consent. (consideration: CR S6144-6146)
+- 2010-07-22 — Message on Senate action sent to the House.
+- 2010-07-22 — Passed Senate without amendment by Yea-Nay Vote. 99 - 1. Record Vote Number: 216.
+- 2010-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 99 - 1. Record Vote Number: 216.
+- 2010-07-27 — Became Public Law No: 111-210.
+- 2010-07-27 — Became Public Law No: 111-210.
+- 2010-07-27 — Presented to President.
+- 2010-07-27 — Presented to President.
+- 2010-07-27 — Signed by President.
+- 2010-07-27 — Signed by President.
