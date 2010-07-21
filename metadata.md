@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5532
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5532
@@ -22,9 +22,10 @@ International Adoption Harmonization Act of 2010
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ International Adoption Harmonization Act of 2010
 - 2010-07-20 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5784)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5784)
+- 2010-07-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
