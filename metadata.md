@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3250
@@ -40,3 +40,16 @@ Federal Buildings Personnel Training Act of 2010
 - 2010-07-21 — Message on Senate action sent to the House.
 - 2010-07-21 — Received in the House.
 - 2010-07-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-12-01 — Cleared for White House.
+- 2010-12-01 — Considered under suspension of the rules. (consideration: CR H7826-7829)
+- 2010-12-01 — DEBATE - The House proceeded with forty minutes of debate on S. 3250.
+- 2010-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-01 — Mr. Carnahan moved to suspend the rules and pass the bill.
+- 2010-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7826)
+- 2010-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7826)
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-14 — Became Public Law No: 111-308.
+- 2010-12-14 — Became Public Law No: 111-308.
+- 2010-12-14 — Signed by President.
+- 2010-12-14 — Signed by President.
