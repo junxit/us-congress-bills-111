@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5545
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5545
@@ -16,9 +16,10 @@ To deauthorize a portion of the project for navigation, Potomac River, Washingto
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To deauthorize a portion of the project for navigation, Potomac River, Washingto
 - 2010-07-20 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2010-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5742-5743)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5742-5743)
+- 2010-07-21 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
