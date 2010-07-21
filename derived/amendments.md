@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+41 amendatory instructions. 0 executed, 41 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,44 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating section 7002 as section 7007; and | the bill names no machine-readable US Code section |
-| — | amend | by amending section 7001 to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Title VII of such Act (33 U.S.C. 2761) is further amended by inserting after section 7001 (as amended by section 2 of this Act) the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Title VII of such Act (33 U.S.C. 2761) is further amended by inserting after section 7002 (as added by section 3 of this Act) the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Title VII of such Act (33 U.S.C. 2761) is further amended by inserting after section 7003 (as added by section 4 of this Act) the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Title VII of such Act (33 U.S.C. 2761) is further amended by inserting after section 7004 (as added by section 5 of this Act) the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Title VII of such Act (33 U.S.C. 2761) is further amended by inserting after section 7005 (as added by section 6 of this Act) the following new section: | the bill names no machine-readable US Code section |
-| — | amend | in subparagraph (A), by adding “and” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
-| — | strike | Section 5001(c) of such Act (33 U.S.C. 2731(c)) is amended by striking paragraph (4). | the bill names no machine-readable US Code section |
-| — | replace | Section 2 of such Act is amended by striking the items in the table of contents related to sections 7001 and 7002 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 7001(a)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2761(a)(2)) is amended by striking “State” and inserting “State and tribal”. | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(a)(3) of such Act (33 U.S.C. 2761(a)(3)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(a)(4) of such Act (33. U.S.C. 2761(a)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7001(a) of such Act (33 U.S.C. 2761(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “180 days after the date of enactment of this Act” and inserting “180 days after the date of enactment of the Oil Pollution Research and Development Program Reauthorization Act of 2010 and periodically thereafter, as appropri… | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B) by inserting “containment,” after “response,”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D) by inserting “containment,” after “response,”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of subparagraph (E); | the bill names no machine-readable US Code section |
+| — | replace | by striking “the States” through “research needs” and inserting “State and tribal governments, regional oil pollution research needs, including natural seeps and pollution resulting from importing oil from overseas,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(b)(2) of such Act (33 U.S.C. 2761(b)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7001(b) of such Act (33 U.S.C. 2761(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 7001(c)(1) of such Act (33 U.S.C. 2761(c)(1)) is amended by striking “research and development, as provided in this subsection” and inserting “research, development, and demonstration, as provided in this subsection and subsectio… | the bill names no machine-readable US Code section |
+| — | replace | in the matter before subparagraph (A), by striking “preventing or mitigating” and inserting “preventing, detecting, containing, recovering, or mitigating”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (I); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (J) as subparagraph (I); | the bill names no machine-readable US Code section |
+| — | redesignate | by striking the period at the end of subparagraph (I) (as so redesignated) and by inserting at the end a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(c)(3) of such Act (33 U.S.C. 2761(c)(3)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(B) The Department of Commerce” and all that follows through “future oil discharges.” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “ATHOS I, and” and inserting “ATHOS I;”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; Prince William Sound, where oil was discharged by the EXXON VALDEZ; and the Gulf of Mexico, where oil was discharged by the DEEPWATER HORIZON.”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C) by striking “Research” and inserting “Coordination.—Research”. | the bill names no machine-readable US Code section |
+| — | replace | by striking the first sentence and inserting the following: “The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct a total of 2 port oil pollution minimization demonstration projec… | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence by striking “oil spill” and inserting “oil discharge”. | the bill names no machine-readable US Code section |
+| — | insert | Section 7001(c)(7) of such Act (33 U.S.C. 2761(c)(7)) is amended by inserting “Oil pollution technology testing and evaluations shall be given priority over all other activities performed at such Research Center.” after “evaluations.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “program of competitive grants” and inserting “program of peer-reviewed, competitive grants”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(1989)” and inserting “(2009)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C) by striking “the entity or entities which” and inserting “at least one entity that”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 7001(c)(9) of such Act (33 U.S.C. 2761(c)(9)) is amended by striking “1991” and all that follows through “shall be available” and inserting “2011, 2012, 2013, 2014, and 2015, there are authorized to be appropriated from amounts i… | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(d) of such Act (33 U.S.C. 2761(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 7001(e) of such Act (33 U.S.C. 2761(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 7001(g) of such Act, as redesignated by section 7 of this Act, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1012(a)(5)(C) of such Act (33 U.S.C. 2712(a)(5)(C)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7001 of such Act (33 U.S.C. 2761) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
