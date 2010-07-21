@@ -33,9 +33,12 @@ Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.
 
   - **(3)** in subsection (d)—
     - **(A)** in the subsection heading, by striking “National Energy Technology Laboratory” and inserting “Department of Energy”; and
-    - **(B)** by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”; and
-  - **(4)** by adding at the end the following:
-    > - **(f)** *Partnerships* In carrying out the program under this subtitle, the Secretary shall seek to establish partnerships with research performers in institutions of higher education and the private sector to undertake research and development not likely otherwise to be undertaken in the absence of support from the program.
+    - **(B)** by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”;
+  - **(4)** in subsection (e)—
+    - **(A)** in the subsection heading, by striking “Secretary of the Interior” and inserting “Other Federal Agencies”; and
+    - **(B)** by inserting “and other agencies as appropriate, including those serving on, and collaborating with, the Interagency Coordinating Committee on Oil Pollution Research as established under section 7001 of the Oil Pollution Act of 1990 (33 U.S.C. 2761(a))” after “Secretary of the Interior”; and
+  - **(5)** by adding at the end the following:
+    > - **(f)** *Partnerships* In carrying out the program under this subtitle, the Secretary shall seek to establish partnerships with eligible research performers, as described by section 999E, to undertake research and development not likely otherwise to be undertaken in the absence of support from the program.
 
 - **(b)** *Program elements* Section 999B of the Energy Policy Act of 2005 (42 U.S.C. 16372) is amended—
   - **(1)** in the section heading, by striking “Ultra-deepwater and unconventional onshore natural gas and other petroleum” and inserting “Safer oil and natural gas drilling technology”;
@@ -47,7 +50,8 @@ Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.
     - **(B)** by inserting after subparagraph (C) the following:
       > - **(D)** select projects on a competitive basis;
 
-  - **(4)** in subsection (d)—
+  - **(4)** in subsection (c)(3)(A)(ii), by striking “under subsection (f)(4)”;
+  - **(5)** in subsection (d)—
     - **(A)** in paragraph (6), by striking “ultra-deepwater” and inserting “deepwater”; and
     - **(B)** by striking paragraph (7) and inserting the following:
       > - **(7)** *Focus areas for awards*
@@ -57,19 +61,21 @@ Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.
       >       - **(II)** capture and containment of oil at or near the wellhead; and
       >       - **(III)** expanding operational capabilities and efficiency of remotely operated devices and mechanics;
       >     - **(ii)** safe and environmentally responsible deepwater exploration and production technologies, integrated systems, and architectures for enhancing oil and natural gas drilling and recovery, including under extreme conditions;
-      >     - **(iii)** methods and technologies for severe weather and ocean surface condition preparedness; and
-      >     - **(iv)** other areas as determined appropriate by the Secretary.
+      >     - **(iii)** methods and technologies for severe weather and ocean surface condition preparedness;
+      >     - **(iv)** utilization of exploration and production methods and materials that reduce the potential impact of such activities on the environment; and
+      >     - **(v)** other areas as determined appropriate by the Secretary.
       >   - **(B)** *Unconventional onshore resources* Awards from allocations under section 999H(d)(2) shall focus on research, development, demonstration, and commercial application activities in areas that include—
       >     - **(i)** advanced coalbed methane, deep drilling, natural gas production from tight sands, natural gas production from gas shales, stranded gas, innovative exploration and production techniques, and enhanced recovery techniques;
       >     - **(ii)** increased efficiency of energy use in exploration and production activities;
-      >     - **(iii)** recovery, utilization, reduction, and improved management of produced water from exploration and production activities; and
-      >     - **(iv)** accident prevention and environmental mitigation of unconventional natural gas and other petroleum resources exploration and production.
+      >     - **(iii)** utilization of exploration and production methods and materials that reduce the potential impact of such activities on the environment;
+      >     - **(iv)** recovery, utilization, reduction, and improved management of produced water from exploration and production activities; and
+      >     - **(v)** accident prevention and mitigation of unconventional natural gas and other petroleum resources exploration and production.
       >   - **(C)** *Small producers* Awards from allocations under section 999H(d)(3) shall be made to consortia consisting of small producers or organized primarily for the benefit of small producers, and shall focus on areas that include—
       >     - **(i)** safety and accident prevention, environmental mitigation, waste reduction, reduction of energy use, and well control and systems integrity;
       >     - **(ii)** complex geology involving rapid changes in the type and quality of the oil and gas reserves across the reservoir;
       >     - **(iii)** low reservoir pressure and unconventional natural gas reservoirs in coalbeds, deep reservoirs, tight sands, or shales; and
       >     - **(iv)** advancing energy efficient, safe, and environmentally responsible production of unconventional oil reservoirs in tar sands and oil shales.
-      >   - **(D)** *Safety, accident prevention, and mitigation technology research and development by the department* Awards from allocations under section 999H(d)(4) shall focus on safety, accident prevention, and mitigation research, development, demonstration, and commercial application activities in areas that may include—
+      >   - **(D)** *Safety, and accident prevention and mitigation, technology research and development by the department* Awards from allocations under section 999H(d)(4) shall focus on safety, and accident prevention and mitigation, research, development, demonstration, and commercial application activities in areas that may include—
       >     - **(i)** improved technologies and best management practices for enhanced well integrity including—
       >       - **(I)** cementing;
       >       - **(II)** casing;
@@ -78,7 +84,7 @@ Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.
       >       - **(V)** improvement and standardization of blowout prevention devices;
       >       - **(VI)** actuation and pressure testing; and
       >       - **(VII)** other well control activities;
-      >     - **(ii)** research to aid in the development of industry best practices and standards for workforce training;
+      >     - **(ii)** research to aid in the development of industry best practices and standards for workforce training, design of safe workplace environments, and safety related decisionmaking processes, including by drawing on existing research into human factors and safety related practices in fields such as the nuclear energy, aviation, and automotive industries;
       >     - **(iii)** secondary control systems to activate blowout prevention devices and terminate well-flow, including—
       >       - **(I)** deadman switches;
       >       - **(II)** automatic shears; and
@@ -88,20 +94,28 @@ Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.
       >       - **(II)** estimating flow rate;
       >       - **(III)** diagnostic sensors to determine equipment malfunction; and
       >       - **(IV)** procedures to terminate flow;
-      >     - **(v)** continuing ongoing efforts, including in resource assessment and characterization, and in simulation of safe and effective drilling under extreme conditions, including high temperatures and pressures; and
-      >     - **(vi)** other activities as described in this paragraph or as determined appropriate by the Secretary.
+      >     - **(v)** continuing ongoing efforts, including in resource assessment and characterization, and in simulation of safe and effective drilling under extreme conditions, including high temperatures and pressures;
+      >     - **(vi)** development of methodologies for risk management decisionmaking, including comparative risk analysis and quantitative risk assessment of potential for failure in the technologies, management practices, and systems studies under this subsection; and
+      >     - **(vii)** other activities as described in this paragraph or as determined appropriate by the Secretary.
 
-  - **(5)** in subsection (e)—
+  - **(6)** in subsection (e)—
     - **(A)** in paragraph (2)—
       - **(i)** in the second sentence of subparagraph (A), by inserting “to the Secretary for review” after “submit”; and
-      - **(ii)** in the first sentence of subparagraph (B), by striking “Ultra-Deepwater” and all that follows through “and such Advisory Committees” and inserting “Program Advisory Committee established under section 999D(a), and the Advisory Committee”; and
-    - **(B)** by adding at the end the following:
+      - **(ii)** in the first sentence of subparagraph (B), by striking “Ultra-Deepwater” and all that follows through “and such Advisory Committees” and inserting “Program Advisory Committee established under section 999D(a), and the Advisory Committee”;
+    - **(B)** in paragraph (4)—
+      - **(i)** by striking “and” at the end of subparagraph (A);
+      - **(ii)** by striking the period at the end of subparagraph (B) and inserting “; and”; and
+      - **(iii)** by adding at the end the following new subparagraph:
+        > - **(C)** a summary of ongoing and planned activities aimed at improving operational safety and reducing potential environmental impacts of exploration and production.
+
+    - **(C)** by adding at the end the following:
       > - **(6)** *Research findings and recommendations for implementation* The Secretary shall publish in the Federal Register an annual report on the research findings of the program carried out under this section and any recommendations for implementation that the Secretary determines to be necessary.
 
-  - **(6)** in subsection (i)—
+  - **(7)** in subsection (f)(2), by inserting “In carrying out this subsection, the Secretary shall ensure that safety and accident prevention and mitigation be regularly included as specific focus areas for solicitations.” after “consortium.”;
+  - **(8)** in subsection (i)—
     - **(A)** in the subsection heading, by striking “United States Geological Survey” and inserting “Department of the Interior”; and
     - **(B)** by striking “, through the United States Geological Survey,”; and
-  - **(7)** in subsection (j), by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”.
+  - **(9)** in subsection (j), by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”.
 
 ## § 4. Program advisory committee
 
@@ -111,7 +125,7 @@ Section 999D of the Energy Policy Act of 2005 (42 U.S.C. 16374) is amended to re
 >
 > - **(a)** *Establishment* Not later than 90 days after the date of enactment of the Safer Oil and Natural Gas Drilling Technology Research and Development Act, the Secretary shall establish an advisory committee to be known as the “Program Advisory Committee” (referred to in this section as the “Advisory Committee”).
 > - **(b)** *Membership*
->   - **(1)** *In general* The Advisory Committee shall be composed of members appointed by the Secretary, including—
+>   - **(1)** *In general* The Advisory Committee shall be composed of members appointed by the Secretary, each of whom shall be qualified by education, training, and experience to evaluate scientific and technical information relevant to the research, development, and demonstration under this subtitle. Members shall include—
 >     - **(A)** individuals with extensive research experience or operational knowledge of oil and natural gas exploration and production;
 >     - **(B)** individuals broadly representative of the affected interests in oil and natural gas production, including interests in environmental protection and operational safety;
 >     - **(C)** State regulatory agency representatives; and
@@ -147,8 +161,10 @@ Section 999H of the Energy Policy Act of 2005 (42 U.S.C. 16378) is amended—
   - **(B)** in paragraph (2), by striking “32.5 percent” and inserting “25 percent”; and
   - **(C)** in paragraph (4)—
     - **(i)** by striking “25 percent” and inserting “35 percent”; and
-    - **(ii)** by striking “contract management,” and all that follows through the period at the end and inserting “and contract management.”; and
-- **(3)** in subsection (f), by striking “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund” and inserting “Safer Oil and Natural Gas Drilling Technology Research and Development Fund”.
+    - **(ii)** by striking “contract management,” and all that follows through the period at the end and inserting “and contract management.”;
+- **(3)** in subsection (f), by striking “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund” and inserting “Safer Oil and Natural Gas Drilling Technology Research and Development Fund”; and
+- **(4)** at the end of the section, by inserting the following new subsection:
+  > - **(g)** *Coordination and nonduplication* The Secretary shall ensure, to the maximum extent practicable, that the research activities carried out by the consortium funded under paragraphs (1), (2), and (3) of subsection (d), and the research activities carried out by the Department of Energy as funded by subsection (d)(4), shall be coordinated and not duplicative of one another.
 
 ## § 7. Conforming amendments
 
