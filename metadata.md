@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5266
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5266
@@ -20,9 +20,10 @@ National Commission on Children and Disasters Reauthorization Act of 2010
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ National Commission on Children and Disasters Reauthorization Act of 2010
 - 2010-07-20 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2010-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5740-5641)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5740-5641)
+- 2010-07-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
