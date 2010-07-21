@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5301
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5301
@@ -53,3 +53,4 @@ To extend the period during which the Administrator of the Environmental Protect
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5743-5745)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5743-5745)
 - 2010-07-20 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
