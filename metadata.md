@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3250
@@ -21,9 +21,10 @@ Federal Buildings Personnel Training Act of 2010
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Federal Buildings Personnel Training Act of 2010
 - 2010-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
 - 2010-07-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6036; text as passed Senate: CR S6036)
 - 2010-07-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6036; text as passed Senate: CR S6036)
+- 2010-07-21 — Message on Senate action sent to the House.
+- 2010-07-21 — Received in the House.
+- 2010-07-21 — Referred to the House Committee on Transportation and Infrastructure.
