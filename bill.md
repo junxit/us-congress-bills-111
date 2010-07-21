@@ -2,7 +2,7 @@
 legis-num: H. RES. 1546
 congress: 111th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1546
@@ -21,7 +21,7 @@ chamber: In the House of Representatives, U. S.,
 - Whereas Chris Hall, Head Coach of Washington Stealth, has been named the National Lacrosse League’s Coach of the Year;
 - Whereas Forwards Lewis Ratcliff and Rhys Duch have earned the honor of Second Team All-Pro;
 - Whereas Defenseman Matt Beers earned the honor of All-Rookie Team;
-- Whereas Lacrosse is one of America’s fastest-growing sports;
+- Whereas Lacrosse is the Nation's fastest growing sport;
 - Whereas the National Lacrosse League has 11 teams throughout North America;
 - Whereas the National Lacrosse League’s West Division includes the Washington Stealth, Colorado Mammoth, Minnesota Swarm, Edmonton Rush, and Calgary Roughnecks;
 - Whereas the National Lacrosse League’s East Division includes the Toronto Rock, Boston Blazers, Rochester Knighthawks, Buffalo Bandits, Orlando Titans, and Philadelphia Wings;
