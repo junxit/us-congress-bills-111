@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5283
@@ -53,3 +53,4 @@ Help HAITI Act of 2010
 - 2010-07-20 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5785)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5785)
+- 2010-07-21 — Received in the Senate.
