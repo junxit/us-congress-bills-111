@@ -34,6 +34,10 @@ The Congress finds the following:
   > - **(b)** *Rule of construction* Subsection (a) does not prohibit the sale, distribution, or offer for sale or distribution, of any visual depiction of—
   >   - **(1)** customary and normal veterinary or agricultural husbandry practices; or
   >   - **(2)** hunting, trapping, or fishing.
-  > - **(c)** *Definitions* In this section the term animal crush video means any obscene photograph, motion-picture film, video recording, or electronic image that depicts actual conduct in which one or more living animals is intentionally crushed, burned, drowned, suffocated, or impaled in a manner that would violate a criminal prohibition on cruelty to animals under Federal law or the law of the State in which the depiction is created, sold, distributed, or offered for sale or distribution.
+  > - **(c)** *Definition* In this section the term animal crush video means any obscene photograph, motion-picture film, video recording, or electronic image that depicts actual conduct in which one or more living animals is intentionally crushed, burned, drowned, suffocated, or impaled in a manner that would violate a criminal prohibition on cruelty to animals under Federal law or the law of the State in which the depiction is created, sold, distributed, or offered for sale or distribution.
 
 - **(b)** *Clerical amendment* The item relating to section 48 in the table of sections at the beginning of chapter 3 of title 18, United States Code, is amended to read as follows:
+
+## § 4. Budgetary effects provision
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.

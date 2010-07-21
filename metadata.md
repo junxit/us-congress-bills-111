@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5566
@@ -285,6 +285,10 @@ Animal Crush Video Prohibition Act of 2010
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2010-07-21 — [House 111-2-459](votes/house-111-2-0459.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–3)
+
 ## Actions
 
 - 2010-06-22 — Introduced in House
@@ -295,3 +299,11 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-07-19 — Placed on the Union Calendar, Calendar No. 314.
 - 2010-07-19 — Reported by the Committee on Judiciary. H. Rept. 111-549.
 - 2010-07-19 — Reported by the Committee on Judiciary. H. Rept. 111-549.
+- 2010-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-07-20 — Considered under suspension of the rules. (consideration: CR H5788-5791)
+- 2010-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5566.
+- 2010-07-20 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-21 — Considered as unfinished business. (consideration: CR H5892-5893)
+- 2010-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 459). (text: 7/20/2010 CR H5788-5789)
+- 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 459).(text: 7/20/2010 CR H5788-5789)
