@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4684
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4684
@@ -348,3 +348,4 @@ National September 11 Memorial & Museum Commemorative Medal Act of 2010
 - 2010-07-20 — Mrs. Maloney moved to suspend the rules and pass the bill, as amended.
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5775)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5775)
+- 2010-07-21 — Received in the Senate, read twice.
