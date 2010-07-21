@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4213
@@ -16,8 +16,232 @@ Unemployment Compensation Extension Act of 2010
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (211)
+## Cosponsors (435)
 
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. LeMieux, George S. [R-FL] (L000572)
@@ -235,7 +459,7 @@ Unemployment Compensation Extension Act of 2010
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (19)
+## Recorded votes (43)
 
 - 2009-12-09 — [House 111-1-942](votes/house-111-1-0942.md) — Table Appeal of the Ruling of the Chair — **Passed** (251–172)
 - 2009-12-09 — [House 111-1-943](votes/house-111-1-0943.md) — On Passage — **Passed** (241–181)
@@ -256,6 +480,30 @@ Unemployment Compensation Extension Act of 2010
 - 2010-03-10 — [Senate 111-2-48](votes/senate-111-2-0048.md) — On Passage of the Bill — **Bill Passed** (62–36)
 - 2010-05-28 — [House 111-2-324](votes/house-111-2-0324.md) — On concurring in Senate amdt with amdt (except portion comprising section 523) — **Passed** (215–204)
 - 2010-05-28 — [House 111-2-325](votes/house-111-2-0325.md) — On concurring in Senate amdt with portion of amdt comprising section 523 — **Agreed to** (245–171)
+- 2010-06-09 — [Senate 111-2-179](votes/senate-111-2-0179.md) — On the Motion — **Motion Rejected** (57–42)
+- 2010-06-09 — [Senate 111-2-180](votes/senate-111-2-0180.md) — On the Motion to Table — **Motion to Table Agreed to** (55–44)
+- 2010-06-09 — [Senate 111-2-181](votes/senate-111-2-0181.md) — On the Motion — **Motion Rejected** (57–41)
+- 2010-06-09 — [Senate 111-2-182](votes/senate-111-2-0182.md) — On the Amendment — **Amendment Agreed to** (58–41)
+- 2010-06-09 — [Senate 111-2-183](votes/senate-111-2-0183.md) — On the Motion to Table — **Motion to Table Failed** (38–61)
+- 2010-06-15 — [Senate 111-2-187](votes/senate-111-2-0187.md) — On the Amendment — **Amendment Rejected** (35–61)
+- 2010-06-15 — [Senate 111-2-188](votes/senate-111-2-0188.md) — On the Amendment — **Amendment Rejected** (48–49)
+- 2010-06-15 — [Senate 111-2-189](votes/senate-111-2-0189.md) — On the Amendment — **Amendment Agreed to** (63–33)
+- 2010-06-16 — [Senate 111-2-190](votes/senate-111-2-0190.md) — On the Motion — **Motion Rejected** (45–52)
+- 2010-06-16 — [Senate 111-2-191](votes/senate-111-2-0191.md) — On the Amendment — **Amendment Agreed to** (60–37)
+- 2010-06-16 — [Senate 111-2-192](votes/senate-111-2-0192.md) — On the Amendment — **Amendment Rejected** (45–52)
+- 2010-06-17 — [Senate 111-2-193](votes/senate-111-2-0193.md) — On the Motion — **Motion Rejected** (41–57)
+- 2010-06-17 — [Senate 111-2-194](votes/senate-111-2-0194.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–40)
+- 2010-06-23 — [Senate 111-2-197](votes/senate-111-2-0197.md) — On the Motion to Table — **Motion to Table Agreed to** (57–40)
+- 2010-06-23 — [Senate 111-2-198](votes/senate-111-2-0198.md) — On the Motion to Table — **Motion to Table Agreed to** (56–40)
+- 2010-06-24 — [Senate 111-2-200](votes/senate-111-2-0200.md) — On the Cloture Motion — **Cloture Motion Rejected** (57–41)
+- 2010-06-30 — [Senate 111-2-204](votes/senate-111-2-0204.md) — On the Cloture Motion — **Cloture Motion Rejected** (58–38)
+- 2010-07-20 — [Senate 111-2-209](votes/senate-111-2-0209.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–40)
+- 2010-07-21 — [Senate 111-2-210](votes/senate-111-2-0210.md) — On the Motion — **Motion Rejected** (42–56)
+- 2010-07-21 — [Senate 111-2-211](votes/senate-111-2-0211.md) — On the Motion — **Motion Rejected** (49–49)
+- 2010-07-21 — [Senate 111-2-212](votes/senate-111-2-0212.md) — On the Motion — **Motion Rejected** (54–44)
+- 2010-07-21 — [Senate 111-2-213](votes/senate-111-2-0213.md) — On the Motion — **Motion Rejected** (39–59)
+- 2010-07-21 — [Senate 111-2-214](votes/senate-111-2-0214.md) — On the Motion — **Motion Rejected** (43–55)
+- 2010-07-21 — [Senate 111-2-215](votes/senate-111-2-0215.md) — On the Motion — **Motion Agreed to** (59–39)
 
 ## Actions
 
@@ -636,3 +884,337 @@ Unemployment Compensation Extension Act of 2010
 - 2010-05-28 — On concurring in Senate amendment with portion of amendment comprising section 523 Agreed to by recorded vote: 245 - 171 (Roll no. 325). (consideration: CR H4187)
 - 2010-05-28 — The Chair put the question on consideration of the motion to concur in Senate amendment with an amendment. Agreed to by voice vote.
 - 2010-05-28 — The previous question was ordered pursuant to the rule. (consideration: CR H4186-4187)
+- 2010-06-07 — Senate amendment submitted
+- 2010-06-08 — Amendment SA 4301 proposed by Senator Baucus. (consideration: CR S4630) In the nature of a substitute.
+- 2010-06-08 — Amendment SA 4302 proposed by Senator Cornyn to Amendment SA 4301. (consideration: CR S4648-4650; text: CR S4648-4649) To increase transparency regarding debt instruments of the United States held by foreign governments, to assess the risks to the United States of such holdings, and for other purposes.
+- 2010-06-08 — Amendment SA 4303 proposed by Senator Sessions to Amendment SA 4301. (consideration: CR S4637-4642) To establish 3 year discretionary spending caps.
+- 2010-06-08 — Amendment SA 4304 proposed by Senator Cardin to Amendment SA 4301. (consideration: CR S4642-4643; text: CR S4642) To provide for the extension of dependent coverage under the Federal Employees Health Benefits Program.
+- 2010-06-08 — Amendment SA 4311 proposed by Senator Franken to Amendment SA 4301. (consideration: CR S4643-4648; text: CR S4644) To establish the Office of the Homeowner Advocate for purposes of addressing problems with the Home Affordable Modification Program.
+- 2010-06-08 — Measure laid before Senate by unanimous consent. (consideration: CR S4630-4642, S4642-4650)
+- 2010-06-08 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-06-08 — Motion by Senator Baucus to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4301) made in the Senate.
+- 2010-06-08 — Senate amendment proposed (on the floor): Amendment SA 4301 proposed by Senator Baucus.(consideration: CR S4630)
+- 2010-06-08 — Senate amendment proposed (on the floor): Amendment SA 4302 proposed by Senator Cornyn to Amendment SA 4301.(consideration: CR S4648-4650; text: CR S4648-4649)
+- 2010-06-08 — Senate amendment proposed (on the floor): Amendment SA 4303 proposed by Senator Sessions to Amendment SA 4301.(consideration: CR S4637-4642)
+- 2010-06-08 — Senate amendment proposed (on the floor): Amendment SA 4304 proposed by Senator Cardin to Amendment SA 4301.(consideration: CR S4642-4643; text: CR S4642)
+- 2010-06-08 — Senate amendment proposed (on the floor): Amendment SA 4311 proposed by Senator Franken to Amendment SA 4301.(consideration: CR S4643-4648; text: CR S4644)
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-08 — Senate amendment submitted
+- 2010-06-09 — Amendment SA 4302 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4735-4736)
+- 2010-06-09 — Amendment SA 4312 proposed by Senator Vitter to Amendment SA 4301. (consideration: CR S4739; text: CR S4739) To ensure that any new revenues to the Oil Spill Liability Trust Fund will be used for the purposes of the fund and not used as a budget gimmick to offset deficit spending.
+- 2010-06-09 — Amendment SA 4318 proposed by Senator Sanders to Amendment SA 4301. (consideration: CR S4738-4739, S4739-4741; text: CR S4738-4739) To amend the Internal Revenue Code of 1986 to eliminate big oil and gas company tax loopholes, and to use the resulting increase in revenues to reduce the deficit and to invest in energy efficiency and conservation.
+- 2010-06-09 — Amendment SA 4325 proposed by Senator Roberts to Amendment SA 4301. (consideration: CR S4728-4729, S4733; text: CR S4728) To exempt pediatric medical devices from the medical device tax, and for other purposes.
+- 2010-06-09 — Amendment SA 4326 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 182.
+- 2010-06-09 — Amendment SA 4326 proposed by Senator Baucus to Amendment SA 4301. (consideration: CR S4736-4738; text: CR S4736-4737) To increase transparency regarding debt instruments of the United States held by foreign governments, to assess the risks to the United States of such holdings, and for other purposes.
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711)
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711)
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711, S4719-4720, S4729-4732, S4734-4735; text as modified: CR S4729-4731)
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711, S4732-4733)
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711, S4735-4736, S4738)
+- 2010-06-09 — Considered by Senate. (consideration: CR S4711-4741)
+- 2010-06-09 — Motion to table amendment SA 4302 rejected in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 183.
+- 2010-06-09 — Motion to table amendment SA 4325 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 180.
+- 2010-06-09 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4304 rejected in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 179.
+- 2010-06-09 — Motion to waive applicable budgetary discipline with respect to amendment SA 4303 rejected in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 181.
+- 2010-06-09 — Point of order raised in Senate with respect to amendment SA 4303.
+- 2010-06-09 — Point of order raised in Senate with respect to amendment SA 4304.
+- 2010-06-09 — Roll call votes on amendments in Senate: Amendment SA 4326 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 182.
+- 2010-06-09 — Roll call votes on amendments in Senate: Motion to table amendment SA 4302 rejected in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 183.
+- 2010-06-09 — Roll call votes on amendments in Senate: Motion to table amendment SA 4325 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 180.
+- 2010-06-09 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4304 rejected in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 179.
+- 2010-06-09 — Roll call votes on amendments in Senate: Motion to waive applicable budgetary discipline with respect to amendment SA 4303 rejected in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 181.
+- 2010-06-09 — SA 4303 fell when point of order was sustained.
+- 2010-06-09 — SA 4304 fell when point of order sustained.
+- 2010-06-09 — Senate amendment agreed to: Amendment SA 4302 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4735-4736)
+- 2010-06-09 — Senate amendment agreed to: Amendment SA 4326 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 182.
+- 2010-06-09 — Senate amendment proposed (on the floor): Amendment SA 4312 proposed by Senator Vitter to Amendment SA 4301.(consideration: CR S4739; text: CR S4739)
+- 2010-06-09 — Senate amendment proposed (on the floor): Amendment SA 4318 proposed by Senator Sanders to Amendment SA 4301.(consideration: CR S4738-4739, S4739-4741; text: CR S4738-4739)
+- 2010-06-09 — Senate amendment proposed (on the floor): Amendment SA 4325 proposed by Senator Roberts to Amendment SA 4301.(consideration: CR S4728-4729, S4733; text: CR S4728)
+- 2010-06-09 — Senate amendment proposed (on the floor): Amendment SA 4326 proposed by Senator Baucus to Amendment SA 4301.(consideration: CR S4736-4738; text: CR S4736-4737)
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-09 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-10 — Senate amendment submitted
+- 2010-06-14 — Amendment SA 4333 proposed by Senator Thune to Amendment SA 4301. (consideration: CR S4878-4880) Of a perfecting nature.
+- 2010-06-14 — Amendment SA 4344 proposed by Senator Reid to Amendment SA 4301. (consideration: CR S4877-4878; text: CR S4877) To amend the Internal Revenue Code of 1986 to extend the time for closing on a principal residence eligible for the first-time homebuyer credit.
+- 2010-06-14 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment SA 4301 presented in Senate. (consideration: CR S4878; text: CR S4878)
+- 2010-06-14 — Considered by Senate. (consideration: CR S4876-4880)
+- 2010-06-14 — Considered by Senate. (consideration: CR S4877)
+- 2010-06-14 — Considered by Senate. (consideration: CR S4877)
+- 2010-06-14 — Considered by Senate. (consideration: CR S4877)
+- 2010-06-14 — Considered by Senate. (consideration: CR S4877)
+- 2010-06-14 — Senate amendment proposed (on the floor): Amendment SA 4333 proposed by Senator Thune to Amendment SA 4301.(consideration: CR S4878-4880)
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-14 — Senate amendment submitted
+- 2010-06-15 — Amendment SA 4311 as modified under the order of 6/15/10, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 63 - 33. Record Vote Number: 189. (text as modified: CR S4920-4922)
+- 2010-06-15 — Amendment SA 4312 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 188.
+- 2010-06-15 — Amendment SA 4318 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 187.
+- 2010-06-15 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment SA 4301 withdrawn by unanimous consent in Senate.
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914, S4920-4922, S4924-4925, S4928)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914, S4924, S4925-4926, S4927-4928)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914, S4926-4927)
+- 2010-06-15 — Considered by Senate. (consideration: CR S4914-4928)
+- 2010-06-15 — Proposed amendment SA 4312 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was withdrawn in Senate. (consideration: CR S4928)
+- 2010-06-15 — Proposed amendment SA 4318 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was withdrawn in Senate. (consideration: CR S4926)
+- 2010-06-15 — Roll call votes on amendments in Senate: Amendment SA 4311 as modified under the order of 6/15/10, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 63 - 33. Record Vote Number: 189.(text as modified: CR S4920-4922)
+- 2010-06-15 — Roll call votes on amendments in Senate: Amendment SA 4312 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 188.
+- 2010-06-15 — Roll call votes on amendments in Senate: Amendment SA 4318 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 187.
+- 2010-06-15 — Senate amendment agreed to: Amendment SA 4311 as modified under the order of 6/15/10, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 63 - 33. Record Vote Number: 189.(text as modified: CR S4920-4922)
+- 2010-06-15 — Senate amendment not agreed to: Amendment SA 4312 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 188.
+- 2010-06-15 — Senate amendment not agreed to: Amendment SA 4318 under the order of 6/15/10, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 187.
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-15 — Senate amendment submitted
+- 2010-06-16 — Amendment SA 4344 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 191.
+- 2010-06-16 — Amendment SA 4344 proposed by Senator Reid, previously proposed to SA 4301 and subsequently withdrawn, notwithstanding the impendency of a motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment (SA 4369), by Unanimous Consent. (consideration: CR S4969-4971; text: CR S4970)
+- 2010-06-16 — Amendment SA 4344, previously proposed notwithstanding the impendency of the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213), and subsequently agreed to, is considered to have been proposed to and incorporated into amendment SA 4369, pursuant to the order of 6/15/2010.
+- 2010-06-16 — Amendment SA 4351 proposed by Senator Isakson, previously submitted to SA 4301, notwithstanding the impendency of a motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment (SA 4369), by Unanimous Consent . (consideration: CR S4969-4971; text: S4970) To amend the Internal Revenue Code of 1986 to extend the time for closing on a principal residence eligible for the first-time homebuyer credit.
+- 2010-06-16 — Amendment SA 4351 under the order of 6/16/10, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 192.
+- 2010-06-16 — Amendment SA 4351, previously proposed notwithstanding the impendency of the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213), is considered to have been proposed to and incorporated into amendment SA 4369, pursuant to the order of 6/15/2010.
+- 2010-06-16 — Amendment SA 4369 proposed by Senator Baucus. (consideration: CR S4972-4975) In the nature of a substitute.
+- 2010-06-16 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment SA 4369 presented in Senate. (consideration: CR S4975; text: S4975)
+- 2010-06-16 — Considered by Senate. (consideration: CR S4958)
+- 2010-06-16 — Considered by Senate. (consideration: CR S4958, S4958-4959)
+- 2010-06-16 — Considered by Senate. (consideration: CR S4958, S4971-4972)
+- 2010-06-16 — Considered by Senate. (consideration: CR S4958-4967, S4967-4975)
+- 2010-06-16 — Motion by Senator Baucus to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4301) withdrawn in the Senate. (consideration: CR S4959)
+- 2010-06-16 — Motion by Senator Baucus to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4369) made in Senate pursuant to the order of June 15, 2010.
+- 2010-06-16 — Motion to waive all budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment [SA 4301]) rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 190.
+- 2010-06-16 — Point of order on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4301) raised in Senate.
+- 2010-06-16 — Proposed amendment SA 4301 withdrawn in Senate. (consideration: CR S4959)
+- 2010-06-16 — Proposed amendment SA 4351 under the order of 6/16/10, not having achieved 60 votes in the affirmative, was withdrawn in Senate. (consideration: CR S4971)
+- 2010-06-16 — Roll call votes on amendments in Senate: Amendment SA 4344 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 191.
+- 2010-06-16 — Roll call votes on amendments in Senate: Amendment SA 4351 under the order of 6/16/10, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 192.
+- 2010-06-16 — Roll call votes on amendments in Senate: Motion to waive all budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment [SA 4301]) rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 190.
+- 2010-06-16 — SA 4333 fell when SA 4301 withdrawn. (consideration: CR S4959)
+- 2010-06-16 — SA 4344 fell when SA 4301 withdrawn. (consideration: CR S4959)
+- 2010-06-16 — Senate amendment agreed to: Amendment SA 4344 agreed to in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 191.
+- 2010-06-16 — Senate amendment not agreed to: Amendment SA 4351 under the order of 6/16/10, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 192.
+- 2010-06-16 — Senate amendment proposed (on the floor): Amendment SA 4344 proposed by Senator Reid, previously proposed to SA 4301 and subsequently withdrawn, notwithstanding the impendency of a motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment (SA 4369), by Unanimous Consent.(consideration: CR S4969-4971; text: CR S4970)
+- 2010-06-16 — Senate amendment proposed (on the floor): Amendment SA 4351 proposed by Senator Isakson, previously submitted to SA 4301, notwithstanding the impendency of a motion to concur in the House amendment to the Senate amendment to H.R. 4213 with an amendment (SA 4369), by Unanimous Consent .(consideration: CR S4969-4971; text: S4970)
+- 2010-06-16 — Senate amendment proposed (on the floor): Amendment SA 4369 proposed by Senator Baucus.(consideration: CR S4972-4975)
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-16 — Senate amendment submitted
+- 2010-06-17 — Amendment SA 4300 proposed by Senator LeMieux to Amendment SA 4369. (consideration: CR S5082-5084) To establish an expedited procedure for consideration of a bill returning spending levels to 2007 levels.
+- 2010-06-17 — Amendment SA 4331 proposed by Senator Coburn to Amendment SA 4369. (consideration: CR S5076-5077) To pay for the cost of this act by reducing wasteful, inefficient, excessive and duplicative government spending.
+- 2010-06-17 — Amendment SA 4331 was divided into Divisions I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, and XX by Unanimous Consent.
+- 2010-06-17 — Amendment SA 4371 proposed by Senator Casey to Amendment SA 4369. (consideration: CR S5077-5080; text: CR S5077) To provide for the extension of premium assistance for COBRA benefits.
+- 2010-06-17 — Amendment SA 4376 proposed by Senator Thune to Amendment SA 4369. (consideration: CR S5055-5065; text as modified: CR S5063) Of a perfecting nature.
+- 2010-06-17 — Cloture on the motion to concur in the House amendment to the Senate amendment with an amendment (SA 4369) not invoked in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 194. (consideration: CR S5096; text: CR S5096)
+- 2010-06-17 — Considered by Senate. (consideration: CR S5054)
+- 2010-06-17 — Considered by Senate. (consideration: CR S5054-5065, S5071-5098)
+- 2010-06-17 — Motion by Senator DeMint to refer to Senate Committee on Finance the House Message to accompany H.R. 4213 with instructions made in Senate. (consideration: CR S5084-5085; text: CR S5084)
+- 2010-06-17 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4376 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 193.
+- 2010-06-17 — Point of order raised in Senate with respect to Section 701 of amendment SA 4376, pursuant to Section 403 of S.Con.Res. 13.
+- 2010-06-17 — Proposed amendment SA 4376 under the order of 6/16/10, not having achieved 60 votes in the affirmative, was withdrawn in Senate. (consideration: CR S5065)
+- 2010-06-17 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4376 rejected in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 193.
+- 2010-06-17 — Senate amendment proposed (on the floor): Amendment SA 4300 proposed by Senator LeMieux to Amendment SA 4369.(consideration: CR S5082-5084)
+- 2010-06-17 — Senate amendment proposed (on the floor): Amendment SA 4331 proposed by Senator Coburn to Amendment SA 4369.(consideration: CR S5076-5077)
+- 2010-06-17 — Senate amendment proposed (on the floor): Amendment SA 4371 proposed by Senator Casey to Amendment SA 4369.(consideration: CR S5077-5080; text: CR S5077)
+- 2010-06-17 — Senate amendment proposed (on the floor): Amendment SA 4376 proposed by Senator Thune to Amendment SA 4369.(consideration: CR S5055-5065; text as modified: CR S5063)
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-17 — Senate amendment submitted
+- 2010-06-21 — Senate amendment submitted
+- 2010-06-23 — Amendment SA 4386 proposed by Senator Reid for Senator Baucus. (consideration: CR S5310) In the nature of a substitute.
+- 2010-06-23 — Amendment SA 4387 proposed by Senator Reid for Senator Baucus to Amendment SA 4386. (consideration: CR S5310; text: CR S5310) Of a perfecting nature.
+- 2010-06-23 — Amendment SA 4388 proposed by Senator Reid. (consideration: CR S5310-5311; text: CR S5310-5311) Instructions on the motion to refer the House message on H.R. 4213.
+- 2010-06-23 — Amendment SA 4389 proposed by Senator Reid to Amendment SA 4388. (consideration: CR S5311; text: CR S5311) Of a perfecting nature.
+- 2010-06-23 — Amendment SA 4390 proposed by Senator Reid to Amendment SA 4389. (consideration: CR S5311; text: CR S5311) Of a perfecting nature.
+- 2010-06-23 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4386) presented in Senate. (consideration: CR S5310; text: CR S5310)
+- 2010-06-23 — Considered by Senate. (consideration: CR S5305)
+- 2010-06-23 — Considered by Senate. (consideration: CR S5305)
+- 2010-06-23 — Considered by Senate. (consideration: CR S5305)
+- 2010-06-23 — Considered by Senate. (consideration: CR S5305, S5306)
+- 2010-06-23 — Considered by Senate. (consideration: CR S5305-5306, S5310-5311)
+- 2010-06-23 — Motion by Senator DeMint to refer to Senate Committee on Finance the House message to accompany H.R. 4213 with instructions tabled in Senate by Yea-Nay Vote. 57 - 40. Record Vote Number: 197. (consideration: CR S5305, S5305-5306)
+- 2010-06-23 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4386) made in the Senate. (consideration: CR S5306)
+- 2010-06-23 — Motion by Senator Reid to refer to Senate Committee on Finance the House message to accompany the bill (HR 4213) with instructions (SA 4388) made in Senate. (consideration: CR S5310-5311, S5419-5420; text: CR S5419)
+- 2010-06-23 — Motion to table the Baucus motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 198.
+- 2010-06-23 — Roll call votes on amendments in Senate: Motion to table the Baucus motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 198.
+- 2010-06-23 — SA 4300 fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division I) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division II) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division III) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) SA 4369 tabled.
+- 2010-06-23 — SA 4331 (Division IV) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division IX) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division V) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division VI) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division VII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division VIII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division X) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XI) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XIII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XIV) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XIX) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XV) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XVI) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XVII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XVIII) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4331 (Division XX) fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — SA 4371 fell when the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4369) tabled.
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4386 proposed by Senator Reid for Senator Baucus.(consideration: CR S5310)
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4387 proposed by Senator Reid for Senator Baucus to Amendment SA 4386.(consideration: CR S5310; text: CR S5310)
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4388 proposed by Senator Reid.(consideration: CR S5310-5311; text: CR S5310-5311)
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4389 proposed by Senator Reid to Amendment SA 4388.(consideration: CR S5311; text: CR S5311)
+- 2010-06-23 — Senate amendment proposed (on the floor): Amendment SA 4390 proposed by Senator Reid to Amendment SA 4389.(consideration: CR S5311; text: CR S5311)
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-23 — Senate amendment submitted
+- 2010-06-24 — Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (HR 4213) with an amendment (SA 4386) not invoked in Senate by Yea-Nay Vote. 57 - 41. Record Vote Number: 200. (consideration: CR S5419-5410; text: CR S5419)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391)
+- 2010-06-24 — Considered by Senate. (consideration: CR S5391-5394, S5412-5430)
+- 2010-06-24 — Senate amendment submitted
+- 2010-06-24 — Senate amendment submitted
+- 2010-06-29 — Amendment SA 4425 proposed by Senator Reid. (consideration: CR S5525; text: CR S5525) In the nature of a substitute.
+- 2010-06-29 — Amendment SA 4426 proposed by Senator Reid to Amendment SA 4425. (consideration: CR S5525; text: CR S5525) To change the enactment date
+- 2010-06-29 — Amendment SA 4427 proposed by Senator Reid. (consideration: CR S5525; text: CR S5525) To provide for a study.
+- 2010-06-29 — Amendment SA 4428 proposed by Senator Reid to Amendment SA 4427. (consideration: CR S5525; text: CR S5525) Of a perfecting nature
+- 2010-06-29 — Amendment SA 4429 proposed by Senator Reid to Amendment SA 4428. (consideration: CR S5525; text: CR S5525) Of a perfecting nature
+- 2010-06-29 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) presented in Senate. (consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5524)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5524)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5524)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5524-5525)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5525)
+- 2010-06-29 — Considered by Senate. (consideration: CR S5525)
+- 2010-06-29 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) made in the Senate.
+- 2010-06-29 — Motion by Senator Reid to refer to Senate Committee on Finance the House Message to accompany the bill (H.R. 4213) with instructions (SA 4388) withdrawn in Senate by Unanimous Consent. (consideration: CR S5525)
+- 2010-06-29 — Motion by Senator Reid to refer to Senate Committee on Finance the House Message to accompany the bill (H.R. 4213) with instructions to report back forthwith with amendment SA 4427 made in Senate. (consideration: CR S5525)
+- 2010-06-29 — Motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4386) was withdrawn by Unanimous Consent.
+- 2010-06-29 — Proposed amendment SA 4386 withdrawn in Senate. (consideration: CR S5525)
+- 2010-06-29 — Proposed amendment SA 4388 withdrawn in Senate. (consideration: CR S5525)
+- 2010-06-29 — SA 4387 fell when SA 4386 was withdrawn.
+- 2010-06-29 — SA 4389 fell when SA 4388 was withdrawn. (consideration: CR S5525)
+- 2010-06-29 — SA 4390 fell when SA 4389 fell. (consideration: CR S5525)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4425 proposed by Senator Reid.(consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4426 proposed by Senator Reid to Amendment SA 4425.(consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4427 proposed by Senator Reid.(consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4428 proposed by Senator Reid to Amendment SA 4427.(consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4429 proposed by Senator Reid to Amendment SA 4428.(consideration: CR S5525; text: CR S5525)
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-30 — Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) not invoked in Senate by Yea-Nay Vote. 58 - 38. Record Vote Number: 204. (consideration: CR S5679; text: CR S5679)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651)
+- 2010-06-30 — Considered by Senate. (consideration: CR S5651-5679)
+- 2010-06-30 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) [Record Vote No. 204] entered in Senate. (consideration: CR S5679)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6010-6011)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6010-6021)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6011)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6011)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6011)
+- 2010-07-20 — Considered by Senate. (consideration: CR S6011)
+- 2010-07-20 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) [Record Vote No. 204] agreed to in Senate by Unanimous Consent. (consideration: CR S6010-6011)
+- 2010-07-20 — Motion by Senator Reid to refer to Senate Committee on Finance the House message to accompany the bill (H.R. 4213) with instructions (SA 4427) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) in Senate. (consideration: CR S6011)
+- 2010-07-20 — SA 4427 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4427). (consideration: CR S6011)
+- 2010-07-20 — SA 4428 fell when SA 4427 fell. (consideration: CR S6011)
+- 2010-07-20 — SA 4429 fell when SA 4428 fell. (consideration: CR S6011)
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-20 — Upon reconsideration, cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 209. (consideration: CR S6011; text: CR S6011)
+- 2010-07-21 — Amendment SA 4425 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
+- 2010-07-21 — Amendment SA 4497 agreed to in Senate by Unanimous Consent.
+- 2010-07-21 — Amendment SA 4497 proposed by Senator Reid to Amendment SA 4425. (consideration: CR S6067; text: CR S6067) Of a perfecting nature.
+- 2010-07-21 — Brown (MA) motion to suspend Rule XXII, paragraph 2, to permit the consideration of amendment SA 4492 made in Senate. (consideration: CR S6062, S6065)
+- 2010-07-21 — Brown (MA) motion to suspend Rule XXII, paragraph 2, to permit the consideration of amendment SA 4492 not agreed to by Yea-Nay Vote. 42 - 56. Record Vote Number: 210.
+- 2010-07-21 — Coburn motion to suspend Rule XXII to permit the consideration of a motion to refer the House message to accompany H.R. 4213 to the Committee on Finance with instructions made in Senate. (consideration: CR S6062, S6065)
+- 2010-07-21 — Coburn motion to suspend Rule XXII to permit the consideration of a motion to refer the House message to accompany H.R. 4213 to the Committee on Finance with instructions not agreed to by Yea-Nay Vote. 49 - 49. Record Vote Number: 211.
+- 2010-07-21 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4493 made in Senate. (consideration: CR S6062, S6065-6066)
+- 2010-07-21 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4493 not agreed to by Yea-Nay Vote. 54 - 44. Record Vote Number: 212.
+- 2010-07-21 — Considered by Senate. (consideration: CR S6044-6067)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6045, S6065)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6045, S6067)
+- 2010-07-21 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to refer the House message to accompany H.R. 4213 to the Committee on Finance with instructions made in Senate. (consideration: CR S6063, S6066)
+- 2010-07-21 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to refer the House message to accompany H.R. 4213 to the Committee on Finance with instructions not agreed to by Yea-Nay Vote. 39 - 59. Record Vote Number: 213.
+- 2010-07-21 — DeMint motion to suspend Rule XXII to permit the consideration of amendment SA 4464 made in Senate. (consideration: CR S6063, S6066-6067)
+- 2010-07-21 — DeMint motion to suspend Rule XXII to permit the consideration of amendment SA 4464 not agreed to by Yea-Nay Vote. 43 - 55. Record Vote Number: 214.
+- 2010-07-21 — Message on Senate action sent to the House.
+- 2010-07-21 — Proposed amendment SA 4426 withdrawn in Senate. (CR S6065)
+- 2010-07-21 — Resolving differences -- Senate actions: Senate concurred in House amendment to Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
+- 2010-07-21 — Roll call votes on amendments in Senate: Amendment SA 4425 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
+- 2010-07-21 — Senate amendment agreed to: Amendment SA 4425 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
+- 2010-07-21 — Senate amendment agreed to: Amendment SA 4497 agreed to in Senate by Unanimous Consent.
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4497 proposed by Senator Reid to Amendment SA 4425.(consideration: CR S6067; text: CR S6067)
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate concurred in House amendment to Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
