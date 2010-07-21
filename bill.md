@@ -2,7 +2,7 @@
 legis-num: H. RES. 1513
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1513
@@ -26,6 +26,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** congratulates the Saratoga Race Course as it celebrates its 142nd season;
-- **(2)** encourages all people in the United States to spend an electrifying day at the races; and
-- **(3)** recognizes the Saratoga Race Course's important place in horseracing history.
+- **(1)** congratulates the Saratoga Race Course as it celebrates its 142nd season; and
+- **(2)** recognizes the Saratoga Race Course’s important place in horseracing history.
