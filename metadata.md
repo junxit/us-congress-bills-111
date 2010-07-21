@@ -1,7 +1,7 @@
 ---
 measure: S. 1376
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1376
@@ -16,7 +16,7 @@ International Adoption Simplification Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -24,6 +24,7 @@ International Adoption Simplification Act
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -37,3 +38,14 @@ International Adoption Simplification Act
 - 2010-03-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-03-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-03-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 330.
+- 2010-07-14 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-220.
+- 2010-07-14 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 111-220.
+- 2010-07-21 — Amendment SA 4498 agreed to in Senate by Unanimous Consent.
+- 2010-07-21 — Amendment SA 4498 proposed by Senator Reid for Senator Klobuchar. (consideration: CR S6120; text: CR S6120) In the nature of a substitute.
+- 2010-07-21 — Measure laid before Senate by unanimous consent. (consideration: CR S6120; text as reported in Senate: CR S6120)
+- 2010-07-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-07-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-07-21 — Senate amendment agreed to: Amendment SA 4498 agreed to in Senate by Unanimous Consent.
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4498 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S6120; text: CR S6120)
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S6120)
