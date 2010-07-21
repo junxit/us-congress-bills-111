@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5604
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5604
@@ -20,9 +20,10 @@ Surface Transportation Savings Act of 2010
 
 - Rep. Schauer, Mark H. [D-MI-7] (S001178)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Surface Transportation Savings Act of 2010
 - 2010-07-20 — Mr. Perriello moved to suspend the rules and pass the bill.
 - 2010-07-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 452). (text: CR H5751)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 452).(text: CR H5751)
+- 2010-07-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
