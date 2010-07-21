@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4213
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4213
 
-That the bill from the House of Representatives (H.R. 4213) entitled “An Act to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.
 
 ## § 1. Short title
 

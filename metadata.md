@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4213
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4213
@@ -459,7 +459,7 @@ Unemployment Compensation Extension Act of 2010
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (43)
+## Recorded votes (44)
 
 - 2009-12-09 — [House 111-1-942](votes/house-111-1-0942.md) — Table Appeal of the Ruling of the Chair — **Passed** (251–172)
 - 2009-12-09 — [House 111-1-943](votes/house-111-1-0943.md) — On Passage — **Passed** (241–181)
@@ -504,6 +504,7 @@ Unemployment Compensation Extension Act of 2010
 - 2010-07-21 — [Senate 111-2-213](votes/senate-111-2-0213.md) — On the Motion — **Motion Rejected** (39–59)
 - 2010-07-21 — [Senate 111-2-214](votes/senate-111-2-0214.md) — On the Motion — **Motion Rejected** (43–55)
 - 2010-07-21 — [Senate 111-2-215](votes/senate-111-2-0215.md) — On the Motion — **Motion Agreed to** (59–39)
+- 2010-07-22 — [House 111-2-463](votes/house-111-2-0463.md) — On Motion to Concur in the Senate amdt to the House amdt to the Senate amdt — **Passed** (272–152)
 
 ## Actions
 
@@ -1218,3 +1219,21 @@ Unemployment Compensation Extension Act of 2010
 - 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4497 proposed by Senator Reid to Amendment SA 4425.(consideration: CR S6067; text: CR S6067)
 - 2010-07-21 — Senate amendment submitted
 - 2010-07-21 — Senate concurred in House amendment to Senate amendment to the bill (H.R. 4213) with an amendment (SA 4425) Yea-Nay Vote. 59 - 39. Record Vote Number: 215.
+- 2010-07-22 — Became Public Law No: 111-205.
+- 2010-07-22 — Became Public Law No: 111-205.
+- 2010-07-22 — Cleared for White House.
+- 2010-07-22 — DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment to House amendment to the Senate amendment to H.R. 4213.
+- 2010-07-22 — DEBATE - The House resumed with debate on the motion to concur in the Senate amendment to House amendment to the Senate amendment to H.R. 4213.
+- 2010-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-22 — Mr. Levin moved that the House agree to the Senate amendment to the House amendment to the Senate amendment.
+- 2010-07-22 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 272 - 152 (Roll no. 463). (text as House agreed to Senate amendment to the House amendment to the Senate amendment: CR H5938-5939)
+- 2010-07-22 — On question of consideration of the bill Agreed to by voice vote. (consideration: CR H5938-5950)
+- 2010-07-22 — Presented to President.
+- 2010-07-22 — Presented to President.
+- 2010-07-22 — QUESTION OF CONSIDERATION - The Chair announced that because the Senate amendment to the House amendment to the Senate amendment to the bill H.R. 4213 contains an emergency designation for the purposes of pay-as-you-go principles, the Chair must put the question of consideration on the motion to concur.
+- 2010-07-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 272 - 152 (Roll no. 463).(text as House agreed to Senate amendment to the House amendment to the Senate amendment: CR H5938-5939)
+- 2010-07-22 — Rule H. Res. 1550 passed House.
+- 2010-07-22 — Rules Committee Resolution H. Res. 1550 Reported to House. Rule provides for consideration of Senate Amendment to H.R. 4213 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. The resolution makes in order a motion offered by the chair of the Committee on Ways and Means that the House concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 4213. The resolution waives all points of rorder against consideration of the motion exept those arising under clause 10 of rule XXI and that the Senate amendment shall be considered as read.
+- 2010-07-22 — Signed by President.
+- 2010-07-22 — Signed by President.
+- 2010-07-22 — The previous question was ordered without objection. (consideration: CR H5950)
