@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 111
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -64,7 +64,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(1989)” and inserting “(2009)”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “the entity or entities which” and inserting “at least one entity that”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 7001(c)(9) of such Act (33 U.S.C. 2761(c)(9)) is amended by striking “1991” and all that follows through “shall be available” and inserting “2011, 2012, 2013, 2014, and 2015, there are authorized to be appropriated from amounts i… | the bill names no machine-readable US Code section |
+| — | replace | Section 7001(c)(9) of such Act (33 U.S.C. 2741(c)(9)) is amended by striking “1991” and all that follows through “shall be available” and inserting “2011, 2012, 2013, 2014, and 2015, there are authorized to be appropriated from amounts i… | the bill names no machine-readable US Code section |
 | — | amend | Section 7001(d) of such Act (33 U.S.C. 2761(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 7001(e) of such Act (33 U.S.C. 2761(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
