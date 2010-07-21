@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4842
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4842
@@ -27,10 +27,11 @@ Homeland Security Science and Technology Authorization Act of 2010
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Science, Space, and Technology Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Homeland Security Science and Technology Authorization Act of 2010
 - 2010-07-20 — Ms. Clarke moved to suspend the rules and pass the bill, as amended.
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5760-5770)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5760-5770)
+- 2010-07-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
