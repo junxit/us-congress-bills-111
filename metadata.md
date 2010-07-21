@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4684
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4684
@@ -349,3 +349,13 @@ National September 11 Memorial & Museum Commemorative Medal Act of 2010
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5775)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5775)
 - 2010-07-21 — Received in the Senate, read twice.
+- 2010-07-22 — Cleared for White House.
+- 2010-07-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6225)
+- 2010-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6225)
+- 2010-07-26 — Message on Senate action sent to the House.
+- 2010-07-27 — Presented to President.
+- 2010-07-27 — Presented to President.
+- 2010-08-06 — Became Public Law No: 111-221.
+- 2010-08-06 — Became Public Law No: 111-221.
+- 2010-08-06 — Signed by President.
+- 2010-08-06 — Signed by President.
