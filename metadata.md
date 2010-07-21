@@ -1,7 +1,7 @@
 ---
 measure: S. 193
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 193
@@ -37,3 +37,7 @@ Temporary Judgeships and Bankruptcy Judgeships Act of 2010
 - 2009-01-09 — Introduced in Senate
 - 2009-01-09 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S257)
 - 2009-01-09 — Sponsor introductory remarks on measure. (CR S257)
+- 2010-06-10 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-07-21 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-07-21 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.
