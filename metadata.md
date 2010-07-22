@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 292
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 292
@@ -33,9 +33,10 @@ Supporting the goals and ideals of National Aerospace Week, and for other purpos
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Supporting the goals and ideals of National Aerospace Week, and for other purpos
 - 2010-07-21 — Mr. Gordon (TN) moved to suspend the rules and agree to the resolution.
 - 2010-07-21 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 454). (text: CR H5878)
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 454).(text: CR H5878)
+- 2010-07-22 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
