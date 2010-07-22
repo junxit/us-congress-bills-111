@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 587
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 587
@@ -28,3 +28,7 @@ A resolution designating August 26, 2010, as "Montford Point Marines Day".
 
 - 2010-07-20 — Introduced in Senate
 - 2010-07-20 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6027)
+- 2010-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6226)
+- 2010-07-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6226)
+- 2010-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6226)
+- 2010-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6226)
