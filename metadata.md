@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5493
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5493
@@ -25,3 +25,8 @@ To provide for the furnishing of statues by the District of Columbia and territo
 - 2010-06-09 — Introduced in House
 - 2010-06-09 — Introduced in House
 - 2010-06-09 — Referred to the House Committee on House Administration.
+- 2010-07-14 — Committee Consideration and Mark-up Session Held.
+- 2010-07-14 — Ordered to be Reported by Voice Vote.
+- 2010-07-22 — Placed on the House Calendar, Calendar No. 224.
+- 2010-07-22 — Reported by the Committee on House Administration. H. Rept. 111-561.
+- 2010-07-22 — Reported by the Committee on House Administration. H. Rept. 111-561.
