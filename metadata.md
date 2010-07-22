@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5341
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5341
@@ -36,8 +36,22 @@ To designate the facility of the United States Postal Service located at 100 Orn
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-07-22 — [House 111-2-464](votes/house-111-2-0464.md) — On Motion to Suspend the Rules and Pass — **Passed** (411–0)
+
 ## Actions
 
 - 2010-05-19 — Introduced in House
 - 2010-05-19 — Introduced in House
 - 2010-05-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-06-17 — Committee Consideration and Mark-up Session Held.
+- 2010-06-17 — Ordered to be Reported by Unanimous Consent.
+- 2010-07-20 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Norton objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-07-20 — Considered under suspension of the rules. (consideration: CR H5778-5779)
+- 2010-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5341.
+- 2010-07-20 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2010-07-22 — Considered as unfinished business. (consideration: CR H5950-5951)
+- 2010-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-22 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 464). (text: 7/20/2010 CR H5778)
+- 2010-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 464).(text: 7/20/2010 CR H5778)
