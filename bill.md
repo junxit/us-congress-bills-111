@@ -1,0 +1,78 @@
+---
+legis-num: S. 3632
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3632
+
+> To provide for enhanced penalties to combat Medicare and Medicaid fraud, a Medicare data-mining system, and a Beneficiary Verification Pilot Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicare and Medicaid Fraud Enforcement and Prevention Act of 2010”.
+
+## § 2. Enhanced Criminal Penalties to combat Medicare and Medicaid fraud
+
+- **(a)** *In general* Section 1128B of the Social Security Act (42 U.S.C. 1320a–7b) is amended—
+  - **(1)** in subsection (a), by striking “$10,000 or imprisoned for not more than one year” and inserting “$20,000 or imprisoned for not more than two years”; and
+  - **(2)** in each of subsections (a), (b)(1), (b)(2), (c), and (d), by striking “$25,000 or imprisoned for not more than five years” and inserting “$50,000 or imprisoned for not more than 10 years”.
+- **(b)** *Illegal distribution of Medicare or Medicaid beneficiary identification or billing privileges* Section 1128B of such Act (42 U.S.C. 1320a–7b) is amended by adding at the end the following new subsection:
+  > - **(g)** Whoever knowingly, intentionally, and with the intent to defraud purchases, sells, or distributes, or arranges for the purchase, sale, or distribution of one or more Medicare or Medicaid beneficiary identification numbers or billing privileges under title XVIII or title XIX shall be imprisoned for not more than three years or fined under title 18, United States Code (or, if greater, an amount equal to the monetary loss to the Federal and any State government as a result of such acts), or both.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to acts committed on or after the date of the enactment of this Act.
+
+## § 3. Enhanced Civil Authorities to Combat Medicare and Medicaid Fraud
+
+- **(a)** *In general* Section 1128A(a) of the Social Security Act (42 U.S.C. 1320a–7a(a)) is amended—
+  - **(1)** in paragraph (1), by striking “to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1)),”;
+  - **(2)** by inserting after paragraph (10), as added by section 6402(d)(2) of the Patient Protection and Affordable Care Act (Public Law 111–148) the following new paragraphs:
+    > - **(11)** conspires to commit a violation of this section; or
+    > - **(12)** knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation to pay or transmit money or property to a Federal health care program, or knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay or transmit money or property to a Federal health care program;
+
+  - **(3)** in the first sentence—
+    - **(A)** by striking “or in cases under paragraph (9)” and inserting “in cases under paragraph (9)”; and
+    - **(B)** by striking “fact)” and inserting “fact), in cases under paragraph (11), $50,000 for any violation described in this section committed in furtherance of the conspiracy involved, and in cases under paragraph (12), $50,000 for each false record or statement, or concealment, avoidance, or decrease”; and
+  - **(4)** in the second sentence, by striking “material fact).” and inserting “material fact); or in cases under paragraph (11), an assessment of not more than 3 times the total amount that would otherwise apply for any violation described in this section committed in furtherance of the conspiracy involved; or in cases under paragraph (12), an assessment of not more than 3 times the total amount of the obligation to which the false record or statement was material or that was avoided or decreased.”.
+- **(b)** *Timeframe* Section 1128A(c)(1) of the Social Security Act (42 U.S.C. 1320a–7a(c)(1)) is amended by striking “six years” and inserting “10 years”.
+- **(c)** *Definitions* Section 1128A(i) of the Social Security Act (42 U.S.C. 1320a–7a(i)) is amended—
+  - **(1)** by amending paragraph (2) to read as follows:
+    > - **(2)** The term “claim” means any application, request, or demand, whether under contract, or otherwise, for money or property for items and services under a Federal health care program (as defined in section 1128B(f)), whether or not the United States or a State agency has title to the money or property, that—
+    >   - **(A)** is presented or caused to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1)); or
+    >   - **(B)** is made to a contractor, grantee, or other recipient if the money or property is to be spent or used on the Federal health care program’s behalf or to advance a Federal health care program interest, and if the Federal health care program—
+    >     - **(i)** provides or has provided any portion of the money or property requested or demanded; or
+    >     - **(ii)** will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
+
+  - **(2)** by amending paragraph (3) to read as follows:
+    > - **(3)** The term “item or service” means, without limitation, any medical, social, management, administrative, or other item or service used in connection with or directly or indirectly related to a Federal health care program.
+
+  - **(3)** in paragraph (7)—
+    - **(A)** by striking “term should know means” and inserting “terms “knowing”, “knowingly”, and “should know” mean”;
+    - **(B)** by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively;
+    - **(C)** by inserting before subparagraph (B), as redesignated by clause (ii), the following new subparagraph:
+      > - **(A)** has actual knowledge of the information;
+
+    - **(D)** in the matter following subparagraph (C), as redesignated by clause (ii)—
+      - **(i)** by inserting “require” after “and”; and
+      - **(ii)** by striking “is required”; and
+  - **(4)** by adding at the end the following new paragraphs:
+    > - **(8)** The term ‘obligation’ means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.
+    > - **(9)** The term ‘material’ means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
+
+## § 4. Medicare data-mining system; Beneficiary Verification Pilot Program
+
+- **(a)** *Access to Claims and Payment Data* Section1128J(a)(2) of the Social Security Act, as added by section 6402(a) of the Patient Protection and Affordable Care Act (Public Law 111–148), is amended—
+  - **(1)** by inserting “including claims and payment data,” after “access to claims and payment data”; and
+  - **(2)** by adding at the end the following sentence: “In carrying out this section, the Inspector General of the Department of Health and Human Services, in consultation with the Attorney General, shall implement mechanisms for the sharing of information about suspected fraud relating to the Federal health care programs under titles XVIII, XIX, and XXI with other appropriate law enforcement officials.”.
+- **(b)** *Beneficiary Verification Pilot Program*
+  - **(1)** *In general* By not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services (in this subsection referred to as the “Secretary”) shall implement a 5-year pilot program (to be know as the “Beneficiary Verification Pilot Program”) under which the Secretary shall establish a process to verify, with respect to claims for reimbursement under title XVIII of the Social Security Act for items and services (as specified by the Secretary) furnished to Medicare beneficiaries, that the beneficiary for which the claim was made was actually furnished such item or service. Such process may include communicating, by phone or other means, directly with the beneficiary in order to conduct such verification.
+  - **(2)** *Reports* The Secretary shall, for each of the third, fourth, and fifth years of the Beneficiary Verification Pilot Program under this section, submit to Congress a report on the effectiveness of the pilot program in reducing the occurrence of waste, fraud, and abuse in the Medicare program under title XVIII of the Social Security Act.
+  - **(3)** *Authorization of appropriations* For purpose of carrying out the Beneficiary Verification Pilot Program under this subsection, there is authorized to be appropriated such sums as may be necessary.
+
+## § 5. GAO study and report
+
+- **(a)** *Study* The Comptroller General of the United States shall conduct a study on Medicare administrative contractors under section 1874A of the Social Security Act, including Recovery Audit Contractors, regarding the following areas:
+  - **(1)** Training and expertise in identifying fraud, including the education levels of the key individuals tasked to identify or refer potential cases of fraud, and whether the Centers for Medicare & Medicaid Services should be providing more training to contractors, or require contractors to hire experts with greater medical training.
+  - **(2)** Acquisition and implementation of data mining software among Medicare administrative contractors, if applicable, and the ability or availability of such software to provide real-time data mining capabilities.
+- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall complete the study under this section and submit a report to Congress regarding the findings of the study and recommendations for legislation and administrative action.
