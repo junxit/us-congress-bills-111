@@ -1,7 +1,7 @@
 ---
 measure: S. 1376
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1376
@@ -26,9 +26,10 @@ International Adoption Simplification Act
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -49,3 +50,6 @@ International Adoption Simplification Act
 - 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4498 proposed by Senator Reid for Senator Klobuchar.(consideration: CR S6120; text: CR S6120)
 - 2010-07-21 — Senate amendment submitted
 - 2010-07-21 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S6120)
+- 2010-07-22 — Message on Senate action sent to the House.
+- 2010-07-22 — Received in the House.
+- 2010-07-22 — Referred to the House Committee on the Judiciary.
