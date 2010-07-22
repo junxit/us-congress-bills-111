@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 585
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 585
@@ -16,6 +16,10 @@ A resolution designating the week of August 2 through August 8, 2010, as "Nation
 
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 
+## Cosponsors (1)
+
+- Sen. Cochran, Thad [R-MS] (C000567)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -25,3 +29,7 @@ A resolution designating the week of August 2 through August 8, 2010, as "Nation
 - 2010-07-19 — Introduced in Senate
 - 2010-07-19 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5996)
 - 2010-07-19 — Sponsor introductory remarks on measure. (CR S5996)
+- 2010-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6225-6226)
+- 2010-07-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6225-6226)
+- 2010-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6225-6226)
+- 2010-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6225-6226)
