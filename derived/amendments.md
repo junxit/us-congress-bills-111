@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1469
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating section 5 as section 6; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 4 the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “60-month”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “92-month”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “The Child Safety Pilot Program under this paragraph shall terminate on the date that the program for national criminal history background checks for child-serving organizations established under the C… | the bill names no machine-readable US Code section |
