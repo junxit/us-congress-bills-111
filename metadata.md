@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4380
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4380
@@ -42,3 +42,4 @@ United States Manufacturing Enhancement Act of 2010
 - 2010-07-21 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
 - 2010-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 43 (Roll no. 456). (text: CR H5825-5846)
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 43 (Roll no. 456).(text: CR H5825-5846)
+- 2010-07-22 — Received in the Senate, read twice.
