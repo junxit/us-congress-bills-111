@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 546
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 546
@@ -16,9 +16,15 @@ A resolution recognizing the National Museum of American Jewish History, an affi
 
 - Sen. Specter, Arlen [D-PA] (S000709)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
 ## Committees (1)
 
@@ -28,3 +34,7 @@ A resolution recognizing the National Museum of American Jewish History, an affi
 
 - 2010-05-28 — Introduced in Senate
 - 2010-05-28 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S4573)
+- 2010-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6225)
+- 2010-07-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6225)
+- 2010-07-22 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S6225)
+- 2010-07-22 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S6225)
