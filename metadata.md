@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4380
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4380
@@ -43,3 +43,13 @@ United States Manufacturing Enhancement Act of 2010
 - 2010-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 43 (Roll no. 456). (text: CR H5825-5846)
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 43 (Roll no. 456).(text: CR H5825-5846)
 - 2010-07-22 — Received in the Senate, read twice.
+- 2010-07-27 — Cleared for White House.
+- 2010-07-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6341)
+- 2010-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6341)
+- 2010-07-28 — Message on Senate action sent to the House.
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Presented to President.
+- 2010-08-11 — Became Public Law No: 111-227.
+- 2010-08-11 — Became Public Law No: 111-227.
+- 2010-08-11 — Signed by President.
+- 2010-08-11 — Signed by President.

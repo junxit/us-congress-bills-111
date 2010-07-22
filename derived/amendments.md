@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4380
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-482 amendatory instructions. 2 executed, 480 stated and not applied.
+482 amendatory instructions. 0 executed, 482 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 19 U.S.C. § 58c
-
-> in subparagraph (A), by striking “November 10, 2018” and inserting “December 10, 2018”; and
-
-| | |
-|---|---|
-| Removed | `November 10, 2018` |
-| Inserted | `December 10, 2018` |
-
-### 19 U.S.C. § 58c
-
-> in subparagraph (B)(i), by striking “August 24, 2018” and inserting “November 30, 2018”.
-
-| | |
-|---|---|
-| Removed | `August 24, 2018` |
-| Inserted | `November 30, 2018` |
 
 ## Stated, not applied
 
@@ -441,11 +421,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “12/31/2006” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
 | — | amend | by amending the article description to read as follows: “Smooth nonwoven fiberglass sheets, 0.40 mm or more but not over 1.65 mm in thickness, predominantly of glass fibers bound together in a polyvinyl alcohol matrix, of a type primaril… | the bill names no machine-readable US Code section |
 | — | replace | by striking “12/31/2009” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.93.15)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.93.15)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “12/31/2009” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.92.15)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.92.15)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “12/31/2009” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.91.25)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of the article description the following: “and any formulations containing such compound (provided for in subheading 3808.91.25)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “12/31/2009” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
 | — | replace | in the article description, by striking “toluenediisocyanate” and inserting “toluene diisocyanate”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “12/31/2009” and by inserting “12/31/2012”. | the bill names no machine-readable US Code section |
@@ -530,4 +510,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Free” in the column 1 general rate of duty column and inserting “0.4%”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the date in the effective column period and inserting “12/31/2012”. | the bill names no machine-readable US Code section |
 | — | replace | is amended by striking the date in the effective column period and inserting “12/31/2012”. | the bill names no machine-readable US Code section |
-| `19 U.S.C. § 58c` | insert | Section 11 of the Haiti Economic Lift Program Act of 2010 (Public Law 111–171; 124 Stat. 1207) is amended in the matter preceding paragraph (1) by inserting “Budget” before “Reconciliation”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | in subparagraph (A), by striking “November 10, 2018” and inserting “December 10, 2018”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(i), by striking “August 24, 2018” and inserting “November 30, 2018”. | the bill names no machine-readable US Code section |
+| — | insert | Section 11 of the Haiti Economic Lift Program Act of 2010 (Public Law 111–171; 124 Stat. 1207) is amended in the matter preceding paragraph (1) by inserting “Budget” before “Reconciliation”. | the bill names no machine-readable US Code section |
