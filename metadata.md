@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2693
@@ -23,9 +23,10 @@ Oil Pollution Research and Development Program Reauthorization Act of 2010
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Oil Pollution Research and Development Program Reauthorization Act of 2010
 - 2010-07-21 — Placed on the Union Calendar, Calendar No. 316.
 - 2010-07-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-553.
 - 2010-07-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-553.
+- 2010-07-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

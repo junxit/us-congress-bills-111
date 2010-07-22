@@ -2,7 +2,7 @@
 legis-num: H.R. 2693
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2693
@@ -99,9 +99,8 @@ This Act may be cited as the “Oil Pollution Research and Development Program R
   - **(3)** by redesignating subparagraph (J) as subparagraph (I);
   - **(4)** by striking the period at the end of subparagraph (I) (as so redesignated) and by inserting at the end a semicolon; and
   - **(5)** by adding at the end the following:
-    > - **(J)** technologies and methods to address oil discharge on land and in inland waters, coastal areas, offshore areas, including deepwater and ultra-deepwater areas, and polar and other icy areas;
-    > - **(K)** modeling and simulation capabilities, including tools and technologies, that can be used to facilitate effective recovery and containment of oil discharge during incident response; and
-    > - **(L)** research conducted by the Environmental Protection Agency on the development and approval of technologies with maximum effectiveness, including application and delivery mechanisms, and minimum toxicity to natural resources, the public, and the environment in both the near and long-term.
+    > - **(J)** technologies and methods to address oil discharge on land and in inland waters, coastal areas, offshore areas, including deepwater and ultra-deepwater areas, and polar and other icy areas; and
+    > - **(K)** modeling and simulation capabilities, including tools and technologies, that can be used to facilitate effective recovery and containment of oil discharge during incident response.
 
 - **(c)** *Oil pollution technology evaluation* Section 7001(c)(3) of such Act (33 U.S.C. 2761(c)(3)) is amended to read as follows:
   > - **(3)** *Oil pollution technology evaluation* The program established under this subsection shall provide for the evaluation of oil pollution prevention, containment, and mitigation technologies, including—
@@ -110,8 +109,11 @@ This Act may be cited as the “Oil Pollution Research and Development Program R
   >   - **(C)** the evaluation and testing of technologies developed independently of the research and development program established under this subsection, including technologies developed by small businesses;
   >   - **(D)** the establishment, with the advice and guidance of the National Institute of Standards and Technology, of standards and testing protocols traceable to national standards to measure the performance of oil pollution prevention, containment, or mitigation technologies;
   >   - **(E)** an evaluation of the environmental effects and utility of controlled field testing;
-  >   - **(F)** the use, where appropriate, of controlled field testing to evaluate real-world application of new or improved oil discharge prevention, response, containment, recovery, or mitigation technologies; and
-  >   - **(G)** an evaluation of the effectiveness of oil pollution prevention technologies based on probabilistic risk analyses of the system.
+  >   - **(F)** the use, where appropriate, of controlled field testing to evaluate real-world application of new or improved oil discharge prevention, response, containment, recovery, or mitigation technologies;
+  >   - **(G)** an evaluation of the effectiveness of oil pollution prevention technologies based on probabilistic risk analyses of the system; and
+  >   - **(H)** research conducted by the Environmental Protection Agency and other appropriate Federal agencies for the evaluation and testing of technologies which demonstrate—
+  >     - **(i)** maximum effectiveness, including application and delivery mechanisms; and
+  >     - **(ii)** minimum effects, including toxicity, to human health and the environment in both the near-term and long-term.
 
 - **(d)** *Oil pollution effects research* Section 7001(c)(4) of such Act (33 U.S.C. 2761(c)(4)) is amended—
   - **(1)** by striking subparagraph (A) and inserting the following:
@@ -123,7 +125,7 @@ This Act may be cited as the “Oil Pollution Research and Development Program R
     >     - **(III)** The identification of types of ecologically sensitive areas at particular risk from oil discharges, such as inland waters, coastal areas, offshore areas, including deepwater and ultra-deepwater areas, and polar and other icy areas.
     >     - **(IV)** The preparation of scientific monitoring and evaluation plans for the areas identified under subclause (III) to be implemented in the event of major oil discharges in such areas.
     >     - **(V)** The collection of environmental baseline data in the areas identified under subclause (III) if such data are insufficient.
-    >     - **(VI)** The use of both onshore and offshore air quality monitoring to study the effects of oil pollution and oil pollution cleanup technologies on air quality; and making the results, health, and safety warnings readily available to the public, including emergency responders, the research community, local residents, and other interested parties.
+    >     - **(VI)** The use of both onshore and offshore air quality monitoring to study the effects of an oil discharge and oil discharge cleanup technologies on air quality; and making the results, health, and safety warnings readily available to the public, including emergency responders, the research community, local residents, and other interested parties.
     >     - **(VII)** Research on technologies, methods, and standards for protecting removal personnel and for volunteers that may participate in incident responses, including training, adequate supervision, protective equipment, maximum exposure limits, and decontamination procedures.
 
   - **(2)** in subparagraph (B)—
@@ -148,13 +150,15 @@ This Act may be cited as the “Oil Pollution Research and Development Program R
     - **(C)** by adding at the end the following new subparagraph:
       > - **(H)** In carrying out this paragraph, the Interagency Committee shall coordinate the program of peer-reviewed, competitive grants to universities or other research institutions, including Minority Serving Institutions as defined under section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)), and provide consideration to such institutions in the recommendations for awarding grants.
 
-  - **(2)** *Funding* Section 7001(c)(9) of such Act (33 U.S.C. 2741(c)(9)) is amended by striking “1991” and all that follows through “shall be available” and inserting “2011, 2012, 2013, 2014, and 2015, there are authorized to be appropriated from amounts in the Fund $12,000,000”.
+  - **(2)** *Funding* Section 7001(c)(9) of such Act (33 U.S.C. 2761(c)(9)) is amended by striking “1991” and all that follows through “shall be available” and inserting “2011, 2012, 2013, 2014, and 2015, there are authorized to be appropriated from amounts in the Fund $12,000,000”.
 
 ## § 5. International cooperation
 
 Section 7001(d) of such Act (33 U.S.C. 2761(d)) is amended to read as follows:
 
-> - **(d)** *International cooperation* In accordance with the research plan submitted under subsection (b), the Interagency Committee shall engage in international cooperation by harnessing global expertise through collaborative partnerships with foreign governments and research entities, and domestic and foreign private actors, including nongovernmental organizations and private sector companies, and by leveraging public and private capital, technology, expertise, and services towards innovative models that can be instituted to conduct collaborative oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges, oil recovery, and cleanup standards.
+> - **(d)** *International cooperation* In accordance with the research plan submitted under subsection (b), the Interagency Committee shall engage in international cooperation by—
+>   - **(1)** harnessing global expertise through collaborative partnerships with foreign governments and research entities, and domestic and foreign private actors, including nongovernmental organizations and private sector companies; and
+>   - **(2)** leveraging public and private capital, technology, expertise, and services towards innovative models that can be instituted to conduct collaborative oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges and other activities designed to improve oil recovery and cleanup.
 
 ## § 6. Annual reports
 
@@ -214,10 +218,10 @@ Section 7001 of such Act (33 U.S.C. 2761) is further amended—
   >     - **(B)** $2,000,000 for each of fiscal years 2011, 2012, 2013, and 2014 to carry out the activities in subsection (c)(6).
 
 - **(b)** *Authorization* Section 1012(a)(5)(C) of such Act (33 U.S.C. 2712(a)(5)(C)) is amended to read as follows:
-  > - **(C)** not more than $48,000,000 in each fiscal year shall be available to carry out title VII of this Act; and
+  > - **(C)** notwithstanding section 9509(f) of the Internal Revenue Code of 1986, not more than $48,000,000 in each fiscal year shall be available to carry out title VII of this Act; and
 
 ## § 9. Access to research during an emergency
 
 Section 7001 of such Act (33 U.S.C. 2761) is amended by adding at the end the following new subsection:
 
-> - **(h)** *Access to research during an emergency* Any entity that receives Federal funding for research, the methodologies or results of which may be useful for response activities in the event of an oil discharge incident described in sections 300.300-334 of title 40 of the Code of Federal Regulations, shall, upon request, make the methodologies or results of such research available to the Interagency Committee and the Federal On-Scene Coordinator (as defined in section 311(a)(21) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)(21)), except to the extent that the information is protected from disclosure under section 552(b) of title 5, United States Code. Such information shall be for use in response activities in the event of an oil discharge, and shall not be included in information made publicly available pursuant to this Act.
+> - **(h)** *Access to research during an emergency* Any entity that receives Federal funding for research, the methodologies or results of which may be useful for response activities in the event of an oil discharge incident described in sections 300.300-334 of title 40 of the Code of Federal Regulations, shall, upon request to that entity, make the methodologies or results of such research available to the Interagency Committee and the Federal On-Scene Coordinator (as defined in section 311(a)(21) of the Federal Water Pollution Control Act (33 U.S.C. 1321(a)(21)). Any methodologies or research results made available under this subsection shall be for use only for purposes of the response activities with respect to the oil discharge incident, and shall not be available for disclosure under section 552 of title 5, United States Code, or included in information made publicly available pursuant to this Act.
