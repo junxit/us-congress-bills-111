@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 292
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 292
@@ -56,3 +56,8 @@ Supporting the goals and ideals of National Aerospace Week, and for other purpos
 - 2010-07-21 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 454). (text: CR H5878)
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 454).(text: CR H5878)
 - 2010-07-22 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
+- 2010-09-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-09-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-09-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S7048)
+- 2010-09-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S7048)
+- 2010-09-14 — Message on Senate action sent to the House.
