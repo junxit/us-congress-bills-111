@@ -1,7 +1,7 @@
 ---
 measure: S. 1376
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1376
@@ -53,3 +53,17 @@ International Adoption Simplification Act
 - 2010-07-22 — Message on Senate action sent to the House.
 - 2010-07-22 — Received in the House.
 - 2010-07-22 — Referred to the House Committee on the Judiciary.
+- 2010-07-26 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2010-11-15 — Cleared for White House.
+- 2010-11-15 — Considered under suspension of the rules. (consideration: CR H7406-7408)
+- 2010-11-15 — DEBATE - The House proceeded with forty minutes of debate on S. 1376.
+- 2010-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-15 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2010-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7406-7407)
+- 2010-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7406-7407)
+- 2010-11-19 — Presented to President.
+- 2010-11-19 — Presented to President.
+- 2010-11-30 — Became Public Law No: 111-287.
+- 2010-11-30 — Became Public Law No: 111-287.
+- 2010-11-30 — Signed by President.
+- 2010-11-30 — Signed by President.
