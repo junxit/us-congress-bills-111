@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5681
@@ -25,3 +25,8 @@ To improve certain administrative operations of the Library of Congress, and for
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Referred to the House Committee on House Administration.
+- 2010-07-14 — Committee Consideration and Mark-up Session Held.
+- 2010-07-14 — Ordered to be Reported by Voice Vote.
+- 2010-07-22 — Placed on the Union Calendar, Calendar No. 318.
+- 2010-07-22 — Reported by the Committee on House Administration. H. Rept. 111-557.
+- 2010-07-22 — Reported by the Committee on House Administration. H. Rept. 111-557.
