@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1469
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating section 5 as section 6; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 4 the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “92-month”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “The Child Safety Pilot Program under this paragraph shall terminate on the date that the program for national criminal history background checks for child-serving organizations established under the C… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5119` | redesignate | by redesignating section 5 as section 6; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1028` | insert | by inserting after section 4 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5119a` | strike | by striking “92-month”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5119a` | add-at-end | by adding at the end the following: “The Child Safety Pilot Program under this paragraph shall terminate on the date that the program for national criminal history background checks for child-serving organizations established under the C… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

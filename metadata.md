@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1469
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1469
@@ -33,9 +33,10 @@ Child Protection Improvements Act of 2010
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Child Protection Improvements Act of 2010
 - 2010-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 4 (Roll no. 462). (text: 07/20/2010 CR H5793-5796)
 - 2010-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 4 (Roll no. 462).(text: 07/20/2010 CR H5793-5796)
+- 2010-07-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
