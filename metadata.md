@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5341
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5341
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 100 Orn
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ To designate the facility of the United States Postal Service located at 100 Orn
 - 2010-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-22 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 464). (text: 7/20/2010 CR H5778)
 - 2010-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 464).(text: 7/20/2010 CR H5778)
+- 2010-07-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
