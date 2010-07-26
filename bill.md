@@ -2,7 +2,7 @@
 legis-num: H. RES. 1504
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1504
@@ -22,11 +22,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Americans with Disabilities Act has played an historic role in allowing over 50,000,000 Americans with disabilities to participate more fully in national life by removing barriers to employment, transportation, public services, telecommunications, and public accommodations;
 - Whereas the Americans with Disabilities Act has served as a model for disability rights in other countries;
 - Whereas all Americans, not just those with disabilities, benefit from the accommodations that have become commonplace since the passage of the Americans with Disabilities Act, including curb cuts at street intersections, ramps for access to buildings, and other accommodations that provide access to public transportation, stadiums, telecommunications, voting machines, and websites;
-- Whereas Congress acted with overwhelming bipartisan support in 2008 to restore protections for people with epilepsy, diabetes, cancer, depression, and a wide range of other disabilities by passing the ADA Amendments Act of 2008, which overturned judicial decisions that had inappropriately narrowed the scope of the protected class under the Americans with Disabilities Act;
+- Whereas Congress acted with overwhelming bipartisan support in 2008 to restore protections for people with disabilities by passing the ADA Amendments Act of 2008, which overturned judicial decisions that had inappropriately narrowed the scope of the protected class under the Americans with Disabilities Act;
 - Whereas, 20 years after the enactment of the Americans with Disabilities Act, children and adults with disabilities continue to experience barriers that interfere with their full participation in mainstream American life;
 - Whereas, 20 years after the enactment of the Americans with Disabilities Act, people with disabilities are twice as likely to live in poverty as their fellow citizens and continue to experience high rates of unemployment and underemployment;
 - Whereas, 20 years after the enactment of the Americans with Disabilities Act, the largest income support and health care programs continue to operate in a manner that expects people with significant disabilities to be outside the economic mainstream and have limited income and assets;
-- Whereas, 20 years after the enactment of the Americans with Disabilities Act and nearly 11 years after the Supreme Court’s decision in Olmstead v. L.C., many people with disabilities still live in segregated institutional settings because of a lack of support services that would allow them to live in the community;
+- Whereas, 20 years after the enactment of the Americans with Disabilities Act and 11 years after the Supreme Court’s decision in Olmstead v. L.C., many people with disabilities still live in segregated institutional settings because of a lack of support services that would allow them to live in the community;
 - Whereas, 20 years after the enactment of the Americans with Disabilities Act, new telecommunication, electronic, and information technologies continue to be developed while not being accessible to all Americans;
 - Whereas, 20 years after the enactment of the Americans with Disabilities Act, many public and private covered entities are still not accessible to people with disabilities; and
 - Whereas the United States has a responsibility to welcome back and create opportunities for the tens of thousands of working-age veterans of the Armed Forces who have been wounded in action or have received service-connected injuries while serving in Operation Iraqi Freedom and Operation Enduring Freedom: Now, therefore, be it
