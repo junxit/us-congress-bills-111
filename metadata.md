@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1456
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1456
@@ -16,7 +16,7 @@ Congratulating the University of Dayton men's basketball team for winning the 20
 
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 
-## Cosponsors (17)
+## Cosponsors (26)
 
 - Rep. Austria, Steve [R-OH-7] (A000365)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
@@ -35,6 +35,15 @@ Congratulating the University of Dayton men's basketball team for winning the 20
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 - Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
 
 ## Committees (1)
 
@@ -45,3 +54,9 @@ Congratulating the University of Dayton men's basketball team for winning the 20
 - 2010-06-21 — Introduced in House
 - 2010-06-21 — Introduced in House
 - 2010-06-21 — Referred to the House Committee on Education and Labor.
+- 2010-07-26 — Considered under suspension of the rules. (consideration: CR H6010-6011)
+- 2010-07-26 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1456.
+- 2010-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-26 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution.
+- 2010-07-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6010)
+- 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6010)
