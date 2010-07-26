@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3562
@@ -45,3 +45,7 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 - 2010-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 3/23/2010 H2235)
 - 2010-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 3/23/2010 H2235)
 - 2010-03-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-06-30 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-07-26 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-07-26 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
