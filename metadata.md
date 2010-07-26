@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 275
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 275
@@ -16,7 +16,7 @@ Expressing support for designation of the week beginning on the second Sunday of
 
 - Rep. Speier, Jackie [D-CA-12] (S001175)
 
-## Cosponsors (64)
+## Cosponsors (101)
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Wu, David [D-OR-1] (W000793)
@@ -82,6 +82,43 @@ Expressing support for designation of the week beginning on the second Sunday of
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 - Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Peters, Gary C. [D-MI-9] (P000595)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 
 ## Committees (1)
 
@@ -92,3 +129,10 @@ Expressing support for designation of the week beginning on the second Sunday of
 - 2010-05-06 — Introduced in House
 - 2010-05-06 — Introduced in House
 - 2010-05-06 — Referred to the House Committee on Education and Labor.
+- 2010-05-27 — Referred to the Subcommittee on Healthy Families and Communities.
+- 2010-07-26 — Considered under suspension of the rules. (consideration: CR H6011-6013)
+- 2010-07-26 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 275.
+- 2010-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-26 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution, as amended.
+- 2010-07-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6011-6012)
+- 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6011-6012)

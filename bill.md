@@ -13,17 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas arts education, comprising a rich array of disciplines including dance, music, theatre, media arts, literature, design, and visual arts, is a core academic subject and an essential element of a complete and balanced education for all students;
 - Whereas according to Albert Einstein, “After a certain high level of technical skill is achieved, science and art tend to coalesce in esthetics, plasticity, and form. The greatest scientists are artists as well.”;
-- Whereas arts education enables students to develop critical thinking and problem solving skills, imagination and creativity, discipline, alternative ways to communicate and express feelings and ideas, and cross-cultural understanding, which supports academic success across the curriculum as well as personal growth outside the classroom;
-- Whereas the nonprofit arts sector is an economic engine and plays a significant role in the economic health of communities large and small with direct expenditures of wages and benefits as well as goods and services;
+- Whereas arts education enables students to develop critical thinking and problem solving skills, imagination and creativity, discipline, alternative ways to communicate and express ideas, and cross-cultural understanding, which supports academic success across the curriculum as well as personal growth outside the classroom;
+- Whereas the nonprofit arts sector contributes to the economy and plays an important role in the economic health of communities large and small with direct expenditures of wages and benefits as well as goods and services;
 - Whereas to succeed in today’s economy, students must masterfully use words, images, sounds, and movement to communicate;
 - Whereas as the Nation works to strengthen its foothold in the 21st century global economy, the arts equip students with a creative, competitive edge;
-- Whereas the arts provide the skills and knowledge students need to develop the creativity and determination necessary for success in the global information age;
 - Whereas where schools and communities are delivering high-quality learning opportunities in, through, and about the arts for children, extraordinary results occur;
-- Whereas according to a study by the Arts Education Partnership entitled Third Space: When Learning Matters, schools with large populations of students in economic poverty can be transformed into vibrant hubs of learning when the arts are infused into the culture and curriculum;
+- Whereas studies have shown that schools with large populations of students in poverty can be transformed into vibrant hubs of learning through arts education;
 - Whereas studies have also found that eighth graders from underresourced environments who are highly involved in the arts have better grades, less likelihood of dropping out by grade ten, have more positive attitudes about school, and are more likely to go onto college;
 - Whereas attracting and retaining the best teachers is vital and can be achieved by ensuring that schools embrace the arts, becoming havens for creativity and innovation;
 - Whereas arts education has the power to make students want to learn not just within the arts, but other areas of study;
-- Whereas art is integral to the lives of United States citizens and essential to the health and vitality of communities and the Nation; and
+- Whereas art is integral to the lives of many United States citizens and can improve the vitality of communities and the Nation; and
 - Whereas the week beginning on the second Sunday of September would be an appropriate week to designate as Arts in Education Week: Now, therefore, be it
 
 That Congress—
