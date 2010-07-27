@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 226
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 226
@@ -113,3 +113,8 @@ Supporting the observance of "Spirit of '45 Day".
 - 2010-07-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6013)
 - 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6013)
 - 2010-07-27 — Received in the Senate and referred to the Committee on Foreign Relations.
+- 2010-08-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-08-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-08-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S6980)
+- 2010-08-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S6980)
+- 2010-08-06 — Message on Senate action sent to the House.
