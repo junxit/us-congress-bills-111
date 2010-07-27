@@ -24,3 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Use of funds* Unobligated balances of expired appropriations made to the Library of Congress for fiscal years beginning with fiscal year 2011 shall be available to the Librarian of Congress to make the deposit to the credit of the Employees’ Compensation Fund required by subsection 8147(b) of title 5, United States Code.
 - **(b)** *Effective date* This section shall apply with respect to fiscal year 2011 and each succeeding fiscal year.
+
+## § 4. PAYGO Compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
