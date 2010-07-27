@@ -18,15 +18,15 @@ This Act may be cited as the “National Criminal Justice Commission Act of 2010
 Congress finds that—
 
 - **(1)** it is in the interest of the Nation to establish a commission to undertake a comprehensive review of the criminal justice system;
-- **(2)** there has not been a comprehensive study since the President’s Commission on Law Enforcement and Administration and Justice was established in 1965;
-- **(3)** that commission, in a span of 18 months, produced a comprehensive report entitled “The Challenge of Crime in a Free Society”, which contained 200 specific recommendations on all aspects of the criminal justice system involving Federal, State, tribal, and local governments, civic organizations, religious institutions, business groups, and individual citizens; and
+- **(2)** there has not been a comprehensive study since the President’s Commission on Law Enforcement and Administration of Justice was established in 1965;
+- **(3)** that commission, in a span of 18 months, produced a comprehensive report entitled “The Challenge of Crime in a Free Society,” which contained 200 specific recommendations on all aspects of the criminal justice system involving Federal, State, tribal, and local governments, civic organizations, religious institutions, business groups, and individual citizens; and
 - **(4)** developments over the intervening 45 years require once again that Federal, State, tribal, and local governments, civic organizations, religious institutions, business groups, and individual citizens come together to review evidence and consider how to improve the criminal justice system.
 
-## § 3. Establishment of Commission
+## § 3. Establishment of commission
 
 There is established a commission to be known as the “National Criminal Justice Commission” (referred to in this Act as the “Commission”).
 
-## § 4. Purpose of the Commission
+## § 4. Purpose of the commission
 
 The Commission shall undertake a comprehensive review of the criminal justice system, encompassing current Federal, State, local, and tribal criminal justice policies and practices, and make reform recommendations for the President, Congress, State, local, and tribal governments.
 
@@ -34,7 +34,7 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
 
 - **(a)** *General review* The Commission shall undertake a comprehensive review of all areas of the criminal justice system, including Federal, State, local, and tribal governments’ criminal justice costs, practices, and policies.
 - **(b)** *Findings and recommendations* After conducting a review of the United States criminal justice system as required by section 5(a), the Commission shall make findings regarding such review and recommendations for changes in oversight, policies, practices, and laws designed to prevent, deter, and reduce crime and violence, reduce recidivism, improve cost-effectiveness, and ensure the interests of justice at every step of the criminal justice system.
-- **(c)** *Prior commissions* The Commission shall take into consideration the work of prior relevant commissions in conducting its review.
+- **(c)** *Report advisory in nature* No finding or recommendation made by the Commission in its report shall be binding on any Federal, State, Tribal, or local unit of government. The findings and recommendations of the Commission are advisory in nature.
 - **(d)** *State and local government* In making its recommendations, the Commission should consider the financial and human resources of State and local governments. Recommendations shall not infringe on the legitimate rights of the States to determine their own criminal laws or the enforcement of such laws.
 - **(e)** *Public hearings* The Commission shall conduct public hearings in various locations around the United States.
 - **(f)** *Consultation with government and nongovernment representatives*
@@ -43,7 +43,7 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
     - **(B)** include in the final report required by subsection (g) summaries of the input and recommendations of these leaders.
   - **(2)** *United States Sentencing Commission* To the extent the review and recommendations required by this section relate to sentencing policies and practices for the Federal criminal justice system, the Commission shall conduct such review and make such recommendations in consultation with the United States Sentencing Commission.
 - **(g)** *Report*
-  - **(1)** *Report* Not later than 18 months after the formation of the Commission, the Commission shall prepare and submit a final report that contains a detailed statement of findings, conclusions, and recommendations of the Commission to Congress, the President, State, local, and tribal governments.
+  - **(1)** *Report* Not later than 18 months after the first meeting of the Commission, the Commission shall prepare and submit a final report that contains a detailed statement of findings, conclusions, and recommendations of the Commission to Congress, the President, State, local, and tribal governments.
   - **(2)** *Goal of unanimity* It is the sense of the Congress that, given the national importance of the matters before the Commission, the Commission should work toward unanimously supported findings and recommendations.
   - **(3)** *Public availability* The report submitted under this subsection shall be made available to the public.
   - **(4)** *Votes on recommendations in report* Consistent with paragraph (2), the Commission shall state the vote total for each recommendation contained in its report to Congress.
@@ -51,14 +51,14 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
 ## § 6. Membership
 
 - **(a)** *In general* The Commission shall be composed of 14 members, as follows:
-  - **(1)** One member shall be appointed by the President, who shall serve as co-chairman of the Commission.
-  - **(2)** One member shall be appointed by the minority leader of the Senate, in consultation with the minority leader of the House of Representatives, who shall serve as co-chairman of the Commission.
-  - **(3)** Two members appointed by the majority leader of the Senate, in consultation with the Chairman of the Committee on the Judiciary.
-  - **(4)** Two members appointed by the minority leader of the Senate, in consultation with the ranking member of the Committee on Judiciary.
-  - **(5)** Two members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Committee on Judiciary.
-  - **(6)** Two members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Committee on Judiciary.
-  - **(7)** Two members, who shall be State and local representatives, shall be appointed by the President in agreement with the minority leader of the Senate and the minority leader of the House of Representatives.
-  - **(8)** Two members, who shall be State and local representatives, shall be appointed by the President in agreement with the majority leader of the Senate and the Speaker of the House of Representatives.
+  - **(1)** 1 member shall be appointed by the President, who shall serve as co-chairman of the Commission.
+  - **(2)** 1 member shall be appointed by the minority leader of the Senate, in consultation with the minority leader of the House of Representatives, who shall serve as co-chairman of the Commission.
+  - **(3)** 2 members appointed by the majority leader of the Senate, in consultation with the Chairman of the Committee on the Judiciary.
+  - **(4)** 2 members appointed by the minority leader of the Senate, in consultation with the ranking member of the Committee on Judiciary.
+  - **(5)** 2 members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Committee on Judiciary.
+  - **(6)** 2 members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Committee on Judiciary.
+  - **(7)** 2 members, who shall be State and local representatives, shall be appointed by the President in agreement with the minority leader of the Senate and the minority leader of the House of Representatives.
+  - **(8)** 2 members, who shall be State and local representatives, shall be appointed by the President in agreement with the majority leader of the Senate and the Speaker of the House of Representatives.
 - **(b)** *Membership*
   - **(1)** *Qualifications* The individuals appointed from private life as members of the Commission shall be individuals with distinguished reputations for integrity and nonpartisanship who are nationally recognized for expertise, knowledge, or experience in such relevant areas as—
     - **(A)** law enforcement;
@@ -74,13 +74,13 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
     - **(K)** State, local, and tribal government.
   - **(2)** *Disqualification* An individual shall not be appointed as a member of the Commission if such individual possesses any personal financial interest in the discharge of any of the duties of the Commission.
   - **(3)** *Terms* Members shall be appointed for the life of the Commission.
-- **(c)** *Appointment; initial meeting*
+- **(c)** *Appointment; first meeting*
   - **(1)** *Appointment* Members of the Commission shall be appointed not later than 45 days after the date of the enactment of this Act.
-  - **(2)** *Initial meeting* The Commission shall hold its initial meeting on the date that is 60 days after the date of the enactment of this Act. If not all Commission members are selected by that date, the Commission shall hold its initial meeting within 15 days of the appointment of all Commission members.
-  - **(3)** *Ethics* At the initial meeting of the Commission, the Commission shall draft appropriate ethics guidelines for commissioners and staff, including guidelines relating to conflict of interest and financial disclosure. The Commission shall consult with the Senate and House Committees on the Judiciary while drafting the guidelines and furnish the Committees with a copy of the completed guidelines.
+  - **(2)** *First meeting* The Commission shall hold its first meeting on the date that is 60 days after the date of enactment of this Act, or not later than 30 days after the date on which funds are made available for the Commission, whichever is later.
+  - **(3)** *Ethics* At the first meeting of the Commission, the Commission shall draft appropriate ethics guidelines for commissioners and staff, including guidelines relating to conflict of interest and financial disclosure. The Commission shall consult with the Senate and House Committees on the Judiciary as a part of drafting the guidelines and furnish the Committees with a copy of the completed guidelines.
 - **(d)** *Meetings; quorum; vacancies*
   - **(1)** *Meetings* The Commission shall meet at the call of the co-chairs or a majority of its members.
-  - **(2)** *Quorum* Seven members of the Commission, including at least 2 members chosen by either the Senate majority leader, Speaker of the House, or Senate majority leader and Speaker of the House in agreement with the President and 2 members chosen by either the Senate minority leader, House minority leader, or Senate minority leader and House minority leader in agreement with the President, shall constitute a quorum for purposes of conducting business, except that 2 members of the Commission shall constitute a quorum for purposes of receiving testimony.
+  - **(2)** *Quorum* Seven members of the Commission, including at least 2 members chosen by either the Senate Majority Leader, Speaker of the House, or Senate Majority Leader and Speaker of the House in agreement with the President and 2 members chosen by either the Senate Minority Leader, House Minority Leader, or Senate Minority Leader and House Minority Leader in agreement with the President, shall constitute a quorum for purposes of conducting business, except that 2 members of the Commission shall constitute a quorum for purposes of receiving testimony.
   - **(3)** *Vacancies* Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made. If vacancies in the Commission occur on any day after 45 days after the date of the enactment of this Act, a quorum shall consist of a majority of the members of the Commission as of such day, so long as at least 1 Commission member chosen by a member of each party, Republican and Democratic, is present.
 - **(e)** *Actions of commission*
   - **(1)** *In general* The Commission—
@@ -98,19 +98,19 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
   - **(3)** *Personnel as Federal employees*
     - **(A)** *In general* The executive director and any personnel of the Commission who are employees shall be employees under section 2105 of title 5, United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
     - **(B)** *Members of commission* Subparagraph (A) shall not be construed to apply to members of the Commission.
-  - **(4)** *The compensation of commissioners* Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level V of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States, State, or local government shall serve without compensation in addition to that received for their services as officers or employees.
+  - **(4)** *The compensation of commissioners* Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level V of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States , State, or local government shall serve without compensation in addition to that received for their services as officers or employees.
   - **(5)** *Travel expenses* While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
 - **(b)** *Experts and consultants* With the approval of the Commission, the Executive Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
 - **(c)** *Detail of government employees* Upon the request of the Commission, the head of any Federal agency may detail, without reimbursement, any of the personnel of such agency to the Commission to assist in carrying out the duties of the Commission. Any such detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 - **(d)** *Other resources* The Commission shall have reasonable access to materials, resources, statistical data, and other information such Commission determines to be necessary to carry out its duties from the Library of Congress, the Department of Justice, the Office of National Drug Control Policy, the Department of State, and other agencies of the executive and legislative branches of the Federal Government. The co-chairs of the Commission shall make requests for such access in writing when necessary.
-- **(e)** *Volunteer services* Notwithstanding the provisions of section 1342 of title 31, United States Code, the Commission is authorized to accept and utilize the services of volunteers serving without compensation. The Commission may reimburse such volunteers for local travel and office supplies, and for other travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code. A person providing volunteer services to the Commission shall be considered an employee of the Federal Government in performance of those services for the purposes of chapter 81 of title 5 of the United States Code, relating to compensation for work-related injuries, chapter 171 of title 28 of the United States Code, relating to tort claims, and chapter 11 of title 18 of the United States Code, relating to conflicts of interest.
+- **(e)** *Volunteer services* Notwithstanding the provisions of section 1342 of title 31, United States Code, the Commission is authorized to accept and utilize the services of volunteers serving without compensation. The Commission may reimburse such volunteers for local travel and office supplies, and for other travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of Title 5, United States Code. A person providing volunteer services to the Commission shall be considered an employee of the Federal Government in performance of those services for the purposes of chapter 81 of title 5 of the United States Code, relating to compensation for work-related injuries, chapter 171 of title 28 of the United States Code, relating to tort claims, and chapter 11 of title 18 of the United States Code, relating to conflicts of interest.
 - **(f)** *Obtaining official data* The Commission may secure directly from any agency of the United States information necessary to enable it to carry out this Act. Upon the request of the co-chairs of the Commission, the head of that department or agency shall furnish that information to the Commission. The Commission shall not have access to sensitive information regarding ongoing investigations.
 - **(g)** *Mails* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 - **(h)** *Administrative reporting* The Commission shall issue bi-annual status reports to Congress regarding the use of resources, salaries, and all expenditures of appropriated funds.
 - **(i)** *Contracts* The Commission is authorized to enter into contracts with Federal and State agencies, private firms, institutions, and individuals for the conduct of activities necessary to the discharge of its duties and responsibilities. A contract, lease or other legal agreement entered into by the Commission may not extend beyond the date of the termination of the Commission.
 - **(j)** *Gifts* Subject to existing law, the Commission may accept, use, and dispose of gifts or donations of services or property.
 - **(k)** *Administrative assistance* The Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act. These administrative services may include human resource management, budget, leasing, accounting, and payroll services.
-- **(l)** *Nonapplicability of FACA and public access to meetings and minutes*
+- **(l)** *Nonapplicability of faca and public access to meetings and minutes*
   - **(1)** *In general* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
   - **(2)** *Meetings and minutes*
     - **(A)** *Meetings*
@@ -127,3 +127,7 @@ The Commission shall undertake a comprehensive review of the criminal justice sy
 ## § 9. Sunset
 
 The Commission shall terminate 60 days after it submits its report to Congress.
+
+## § 10. Compliance with PAYGO
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
