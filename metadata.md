@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1538
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1538
@@ -16,7 +16,7 @@ Condemning the July 11, 2010, terrorist attacks in Kampala, Uganda.
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (28)
+## Cosponsors (34)
 
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Garamendi, John [D-CA-10] (G000559)
@@ -46,6 +46,12 @@ Condemning the July 11, 2010, terrorist attacks in Kampala, Uganda.
 - Rep. Tanner, John S. [D-TN-8] (T000038)
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (1)
 
@@ -56,3 +62,9 @@ Condemning the July 11, 2010, terrorist attacks in Kampala, Uganda.
 - 2010-07-20 — Introduced in House
 - 2010-07-20 — Introduced in House
 - 2010-07-20 — Referred to the House Committee on Foreign Affairs.
+- 2010-07-27 — Considered under suspension of the rules. (consideration: CR H6086-6087)
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1538.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Ms. Berkley moved to suspend the rules and agree to the resolution, as amended.
+- 2010-07-27 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6086)
+- 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6086)
