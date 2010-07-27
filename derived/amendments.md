@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 312(d)(1) of the Legislative Branch Appropriations Act, 1992 (2 U.S.C. 2062(d)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | The second undesignated paragraph under the heading “Under Superintendent of the Capitol Buildings and Grounds” in the Act of April 28, 1902 (chapter 594; 32 Stat. 125; 2 U.S.C. 2012), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The second undesignated paragraph under the heading “Under Superintendent of the Capitol Buildings and Grounds” in the Act of April 28, 1902 (chapter 594; 32 Stat. 125; 2 U.S.C. 2012) is amended to read as follows: | the bill names no machine-readable US Code section |

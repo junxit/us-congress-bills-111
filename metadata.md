@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5682
@@ -25,3 +25,14 @@ To improve the operation of certain facilities and programs of the House of Repr
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Referred to the House Committee on House Administration.
+- 2010-07-14 — Committee Consideration and Mark-up Session Held.
+- 2010-07-14 — Ordered to be Reported by Voice Vote.
+- 2010-07-27 — Considered under suspension of the rules. (consideration: CR H6098-6099)
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5682.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6098)
+- 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6098)
+- 2010-07-27 — Placed on the Union Calendar, Calendar No. 328.
+- 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
+- 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
