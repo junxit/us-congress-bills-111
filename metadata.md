@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5849
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5849
@@ -34,3 +34,10 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6097)
 - 2010-07-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6341)
 - 2010-07-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6341)
+- 2010-07-28 — Message on Senate action sent to the House.
+- 2010-07-28 — Presented to President.
+- 2010-07-28 — Presented to President.
+- 2010-07-30 — Became Public Law No: 111-214.
+- 2010-07-30 — Became Public Law No: 111-214.
+- 2010-07-30 — Signed by President.
+- 2010-07-30 — Signed by President.
