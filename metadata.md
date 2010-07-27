@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 258
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 258
@@ -59,3 +59,9 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 - 2010-07-15 — Placed on the House Calendar, Calendar No. 216.
 - 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-541.
 - 2010-07-15 — Reported by the Committee on Transportation. H. Rept. 111-541.
+- 2010-07-27 — Considered under suspension of the rules. (consideration: CR H6071-6074)
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 258.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Cummings moved to suspend the rules and agree to the resolution.
+- 2010-07-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6071)
+- 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6071)
