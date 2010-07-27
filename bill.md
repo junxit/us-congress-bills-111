@@ -27,3 +27,7 @@ This Act may be cited as the “Securing Aircraft Cockpits Against Lasers Act of
   > - **(d)** The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section, as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the House and Senate, the Committee on Transportation and Infrastructure in the House, and the Committee on Commerce, Science and Transportation in the Senate not less than 90 days before such regulations become final.
 
 - **(b)** *Clerical Amendment* The table of sections at the beginning of chapter 2 of title 18, United States Code, is amended by inserting after the item relating to section 39 the following new item:
+
+## § 3. Compliance with PAYGO
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
