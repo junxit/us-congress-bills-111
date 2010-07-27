@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5281
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5281
@@ -32,3 +32,12 @@ Removal Clarification Act of 2010
 - 2010-05-12 — Introduced in House
 - 2010-05-12 — Referred to the House Committee on the Judiciary.
 - 2010-05-12 — Sponsor introductory remarks on measure. (CR E827-828)
+- 2010-05-21 — Referred to the Subcommittee on Courts and Competition Policy.
+- 2010-05-25 — Subcommittee Hearings Held.
+- 2010-06-21 — Subcommittee on Courts and Competition Policy Discharged.
+- 2010-07-27 — Considered under suspension of the rules. (consideration: CR H6133-6134)
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5281.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6133)
+- 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6133)
