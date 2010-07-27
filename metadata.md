@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 304
 congress: 111
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 304
@@ -24,3 +24,6 @@ Tribal Law and Order Act of 2010
 - 2010-07-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-26 — On agreeing to the resolution Agreed to without objection. (text: CR H6024-6025)
 - 2010-07-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6024-6025)
+- 2010-07-27 — Message on Senate action sent to the House.
+- 2010-07-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6263)
+- 2010-07-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6263)
