@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 275
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 275
@@ -120,9 +120,10 @@ Expressing support for designation of the week beginning on the second Sunday of
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -136,3 +137,4 @@ Expressing support for designation of the week beginning on the second Sunday of
 - 2010-07-26 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution, as amended.
 - 2010-07-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6011-6012)
 - 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6011-6012)
+- 2010-07-27 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
