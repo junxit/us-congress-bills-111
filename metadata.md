@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 226
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 226
@@ -95,9 +95,10 @@ Supporting the observance of "Spirit of '45 Day".
 - Rep. Tanner, John S. [D-TN-8] (T000038)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -111,3 +112,4 @@ Supporting the observance of "Spirit of '45 Day".
 - 2010-07-26 — Ms. Norton moved to suspend the rules and agree to the resolution.
 - 2010-07-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6013)
 - 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6013)
+- 2010-07-27 — Received in the Senate and referred to the Committee on Foreign Relations.
