@@ -18,12 +18,15 @@ This Act may be cited as the “Simplifying The Ambiguous Law, Keeping Everyone 
 - **(a)** *In general* Section 2261A of title 18, United States Code, is amended to read as follows:
   > ## § 2261A. Stalking
   >
-  > - **(a)** Whoever, with intent to kill, physically injure, harass, or intimidate a person, engages in any conduct in or affecting interstate or foreign commerce or in the special maritime and territorial jurisdiction of the United States that—
+  > - **(a)** Whoever, with intent to kill, physically injure, harass, or intimidate a person, or place under surveillance with the intent to kill, physically injure, harass, or intimidate a person, travels in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, and in the course of, or as a result of, such travel—
+  >   - **(1)** causes or attempts to cause bodily injury or serious emotional distress to a person other than the person engaging in the conduct; or
+  >   - **(2)** engages in conduct that would be reasonably expected to cause the other person serious emotional distress;
+  > - **(b)** Whoever, with intent to kill, physically injure, harass, or intimidate a person, engages in a course of conduct in or substantially affecting interstate or foreign commerce that—
   >   - **(1)** causes or attempts to cause bodily injury or serious emotional distress to a person other than the person engaging in the conduct; or
   >   - **(2)** occurs in circumstances where the conduct would be reasonably expected to cause the other person serious emotional distress;
-  > - **(b)** The punishment for an offense under this section is the same as that for an offense under section 2261, except that—
-  >   - **(1)** if the offense involves conduct in violation of a protection order, the maximum term of imprisonment that may be imposed is increased by 5 years, over the term of imprisonment otherwise provided for that offense in section 2261; and
-  >   - **(2)** if the victim of the offense is under the age of 18 years, the maximum term of imprisonment that may be imposed is increased by 10 years, over the term of imprisonment otherwise provided for that offense in section 2261.
+  > - **(c)** The punishment for an offense under this section is the same as that for an offense under section 2261, except that—
+  >   - **(1)** if the offense involves conduct in violation of a protection order; and
+  >   - **(2)** if the victim of the offense is under the age of 18 years or over the age of 65 years, the offender has reached the age of 18 years at the time the offense was committed, and the offender knew or should have known that the victim was under the age of 18 years or over the age of 65 years;
 
 - **(b)** *Clerical amendment* The item relating to section 2261A in the table of sections at the beginning of chapter 110A of title 18, United States Code, is amended to read as follows:
 
@@ -33,3 +36,7 @@ In the annual report under section 529 of title 28, United States Code, the Atto
 
 - **(1)** include an evaluation of Federal, tribal, State, and local efforts to enforce laws relating to stalking; and
 - **(2)** identify and describe those elements of such efforts that constitute the best practices for the enforcement of such laws.
+
+## § 4. PAYGO Compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
