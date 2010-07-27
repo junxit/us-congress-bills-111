@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 275
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 275
@@ -138,3 +138,8 @@ Expressing support for designation of the week beginning on the second Sunday of
 - 2010-07-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6011-6012)
 - 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6011-6012)
 - 2010-07-27 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-12-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-12-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S11053)
+- 2010-12-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S11053)
+- 2010-12-23 — Message on Senate action sent to the House.
