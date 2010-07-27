@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5610
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5610
@@ -40,3 +40,14 @@ Independent Living Centers Technical Adjustment Act
 - 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5280)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5280)
 - 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-07-27 — Amendment SA 4518 agreed to in Senate by Unanimous Consent.
+- 2010-07-27 — Amendment SA 4518 proposed by Senator Schumer for Senator Harkin. (consideration: CR S6278; text: CR S6278) To extend a date.
+- 2010-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S6278)
+- 2010-07-27 — Message on Senate action sent to the House.
+- 2010-07-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-07-27 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2010-07-27 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2010-07-27 — Senate amendment agreed to: Amendment SA 4518 agreed to in Senate by Unanimous Consent.
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4518 proposed by Senator Schumer for Senator Harkin.(consideration: CR S6278; text: CR S6278)
+- 2010-07-27 — Senate amendment submitted
