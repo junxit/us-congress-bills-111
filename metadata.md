@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1320
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1320
@@ -20,9 +20,10 @@ Federal Advisory Committee Act Amendments of 2010
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Federal Advisory Committee Act Amendments of 2010
 - 2010-07-26 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2010-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 250 - 124 (Roll no. 467). (text: CR H6017-6018)
 - 2010-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 250 - 124 (Roll no. 467).(text: CR H6017-6018)
+- 2010-07-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
