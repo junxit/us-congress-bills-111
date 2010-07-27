@@ -43,12 +43,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** by striking subparagraph (E).
 - **(b)** *Application; Transition period*
   - **(1)** *In general* The amendments made by this section shall take effect on the date of enactment of this Act and shall apply to any lease for exploration, development, or production of minerals, as defined by the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), that the Secretary of the Interior awards after the date of enactment of this Act.
-  - **(2)** *Transition period* Notwithstanding paragraph (1), not later than 6 months after the date of enactment of this Act, the President shall require any person who holds, on the date of enactment of this Act, a lease for exploration, development, or production of minerals, as defined by the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), located in the navigable waters, adjoining shoreline, or the exclusive economic zone of the United States to provide evidence of financial responsibility consistent with the amendments made by this section.
+  - **(2)** *Transition period* Notwithstanding paragraph (1), not later than 6 months after the date of enactment of this Act, the President shall require any person who holds, on the date of enactment of this Act, a lease for exploration, development, or production of minerals, as defined by the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), located in the navigable waters, adjoining shoreline, or the Exclusive Economic Zone of the United States to provide evidence of financial responsibility consistent with the amendments made by this section.
 
 ## § 4. Damages to human health
 
 - **(a)** *In general* Section 1002(b)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2702(b)(2)) is amended by adding at the end the following:
-  > - **(G)** *Human health* Damages to human health, including fatal injuries, which shall be recoverable by any claimant who has a demonstrable, adverse impact to human health or, in the case of a fatal injury to an individual, a claimant filing a claim on behalf of such individual.
+  > - **(G)** *Human health*
+  >   - **(i)** *In general* Damages to human health, including fatal injuries, which shall be recoverable by any claimant who has a demonstrable, adverse impact to human health or, in the case of a fatal injury to an individual, a claimant filing a claim on behalf of such individual.
+  >   - **(ii)** *Inclusion* For purposes of clause (i), the term “human health” includes mental health.
 
 - **(b)** *Application* The amendment made by subsection (a) shall apply to all claims arising from events or activities occurring on or after April 19, 2010, including such claims pending on or before the date of enactment of this Act.
 
@@ -64,7 +66,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Section 1006(e)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2706(e)(2)) is amended—
 
 - **(1)** in the heading by striking “Rebuttable presumption” and inserting “Judicial review of assessments”; and
-- **(2)** by striking “have the force and effect” and all that follows before the period and inserting the following: “be subject to judicial review under subchapter II of chapter 5 of title 5, United States Code, (commonly known as the Administrative Procedure Act) on the basis of the administrative record developed by the lead Federal trustee as provided in such regulations”.
+- **(2)** by striking “have the force and effect” and all that follows before the period and inserting the following: “be subject to judicial review under subchapter II of chapter 5 of title 5, United States Code (commonly known as the Administrative Procedure Act), on the basis of the administrative record developed by the lead Federal trustee as provided in such regulations”.
 
 ## § 7. Information on claims
 
@@ -88,7 +90,7 @@ Section 1006(e)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2706(e)(2)) is am
   - **(1)** *Oil Pollution Act of 1990* Section 1018 of the Oil Pollution Act of 1990 (33 U.S.C. 2718) is amended—
     - **(A)** in subsection (a), by striking “or the Act of March 3, 1851”; and
     - **(B)** in subsection (c), by striking “, the Act of March 3, 1851 (46 U.S.C. 183 et seq.),”.
-  - **(2)** *Title 46* Section 14305(a) of title 46, United States Code, is amended by striking paragraph (5) and redesignating the subsequent paragraphs as paragraphs (5) through (14), respectively.
+  - **(2)** *Title 46* Section 14305(a) of title 46, United States Code, is amended by striking paragraph (5) and redesignating paragraphs (6) through (15) as paragraphs (5) through (14), respectively.
   - **(3)** *Clerical amendment* The analysis at the beginning of chapter 305 of title 46, United States Code, is amended by striking the items relating to sections 30505 through 30512 and inserting the following:
 - **(c)** *Application* The repeals and amendments made by this section shall apply to all claims arising from events or activities occurring on or after April 19, 2010, including to claims pending on or before the date of enactment of this Act.
 
@@ -105,7 +107,7 @@ Section 1006(e)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2706(e)(2)) is am
   - **(3)** in section 30305 by inserting “or law” after “admiralty”;
   - **(4)** in section 30306, by inserting “or law” after “admiralty”;
   - **(5)** by striking section 30307; and
-  - **(6)** in the table of sections at the beginning of such chapter, by striking the item relating to sections 30307.
+  - **(6)** in the analysis at the beginning of such chapter, by striking the item relating to section 30307.
 - **(b)** *Application* The amendments made by subsection (a) shall apply to all claims arising from events or activities occurring on or after April 19, 2010, including such claims pending on or before the date of enactment of this Act.
 
 ## § 10. Jones Act
@@ -118,7 +120,7 @@ Section 1006(e)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2706(e)(2)) is am
 
 - **(b)** *Application* The amendments made by subsection (a) shall apply to all claims arising from events or activities occurring on or after April 19, 2010, including such claims pending on or before the date of enactment of this Act.
 
-## § 11. Americanization of offshore operations in the exclusive economic zone
+## § 11. Americanization of offshore operations in the Exclusive Economic Zone
 
 - **(a)** *Registry endorsement required*
   - **(1)** *In general* Section 12111 of title 46, United States Code, is amended by adding at the end the following:
@@ -132,7 +134,7 @@ Section 1006(e)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2706(e)(2)) is am
 
 ## § 12. Safety management systems for mobile offshore drilling units
 
-Section 3203 of title 46 United States Code, is amended—
+Section 3203 of title 46, United States Code, is amended—
 
 - **(1)** by redesignating subsection (b) as subsection (c); and
 - **(2)** by inserting after subsection (a) the following:
@@ -142,7 +144,7 @@ Section 3203 of title 46 United States Code, is amended—
 
 Section 3306 of title 46, United States Code, is amended by adding at the end the following:
 
-> - **(k)** In prescribing regulations for mobile offshore drilling units, the Secretary shall develop standards to address a worst-case event involving a discharge as that term is defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)
+> - **(k)** In prescribing regulations for mobile offshore drilling units, the Secretary shall develop standards to address a worst-case event involving a discharge as that term is defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701).
 
 ## § 14. Coast Guard marine safety workforce
 
@@ -174,7 +176,10 @@ Section 3306 of title 46, United States Code, is amended by adding at the end th
   >     - **(A)** *In general* In addition to the requirement under paragraph (1), any officer, member, or employee of the Coast Guard assigned as a marine inspector or marine casualty investigator with responsibility for inspecting or responding to casualties involving highly specialized vessels must have served a minimum of 6 months apprenticeship with those vessels.
   >     - **(B)** *Highly specialized vessels defined* In this paragraph the term highly specialized vessel includes mobile offshore drilling units, tank vessels, and vessels carrying certain dangerous cargoes as defined by the Commandant.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The analysis at the beginning of such chapter is amended by adding at the end the following:
+- **(c)** *Support for maritime safety and security teams participating in “Deepwater Horizon” response*
+  - **(1)** *review and report* The Secretary of the department in which the Coast Guard is operating shall review and report to Congress on the needs of maritime safety and security teams participating in patrols and setup of safety zones for, and management of, the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon.
+  - **(2)** *Funding* There is authorized to be appropriated to such Secretary, to remain available until expended, such sums as are necessary to support the response of the Coast Guard and any Coast Guard maritime safety and security team in such patrols, setup of safety zones, and management.
 
 ## § 15. Operational control of mobile offshore drilling units
 
@@ -185,9 +190,9 @@ Section 3306 of title 46, United States Code, is amended by adding at the end th
     > A license as master of a mobile offshore drilling unit may be issued only to an applicant who has been issued a license as master under section 7101(c)(1) and has demonstrated the knowledge, understanding, proficiency, and sea service required to be responsible for all industrial business or functions of a mobile offshore drilling unit, including all drilling operations of that type of unit for which the applicant is to be licensed.
 
   - **(2)** *Conforming amendment* Section 7109 of such title, as so redesignated, is amended by striking “section 7106 or 7107” and inserting “section 7107 or 7108”.
-  - **(3)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by striking the items relating to sections 7104 through 7114 and inserting the following:
+  - **(3)** *Clerical amendment* The analysis at the beginning of such chapter is amended by striking the items relating to sections 7104 through 7114 and inserting the following:
 - **(b)** *Requirement for certificate of inspection* Section 8101(a)(2) of title 46, United States Code, is amended by inserting before the semicolon the following: “and shall at all times be under the command of a master licensed under section 7104”.
-- **(c)** *Effective date* The amendments made by this section shall take effect 6 months after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall take effect 6 months after the date of enactment of this Act.
 
 ## § 16. Leave retention authority
 
@@ -216,52 +221,57 @@ Section 311(j)(5)(G) of the Federal Water Pollution Control Act (33 U.S.C. 1321(
 
 ## § 19. National Contingency Plan
 
-Section 311(d) of the Federal Water Pollution Control Act (33 U.S.C. 1321(d)) is amended by adding at the end the following:
+- **(a)** *Guidelines for containment booms* Section 311(d)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1321(d)(2)) is amended by adding at the end the following:
+  > - **(N)** Guidelines regarding the use of containment booms to contain a discharge of oil or a hazardous substance, including identification of quantities of containment booms likely to be needed, available sources of containment booms, and best practices for containment boom placement, monitoring, and maintenance.
 
-> - **(5)** *Schedule for use of dispersants, other chemicals, and other spill mitigating devices and substances*
->   - **(A)** *Rulemaking* Not later than 15 months after the date of enactment of this paragraph, the President, acting through the Administrator, after providing notice and an opportunity for public comment, shall issue a revised regulation for the development of the schedule for the use of dispersants, other chemicals, and other spill mitigating devices and substances developed under paragraph (2)(G) in a manner that is consistent with the requirements of this paragraph and shall modify the existing schedule to take into account the requirements of the revised regulation.
->   - **(B)** *Schedule listing requirements* In issuing the regulation under subparagraph (A), the Administrator shall—
->     - **(i)** with respect to dispersants, other chemicals, and other spill mitigating substances included or proposed to be included on the schedule under paragraph (2)(G)—
->       - **(I)** establish minimum toxicity and efficacy testing criteria, taking into account the results of the study carried out under subparagraph (C);
->       - **(II)** provide for testing or other verification (independent from the information provided by an applicant seeking the inclusion of such dispersant, chemical, or substance on the schedule) related to the toxicity and effectiveness of such dispersant, chemical, or substance;
->       - **(III)** establish a framework for the application of any such dispersant, chemical, or substance, including—
->         - **(aa)** quantity restrictions or application conditions;
->         - **(bb)** the quantity thresholds for which consultation with and approval by the Regional Response Team and the Federal On-Scene Coordinator is required; and
->         - **(cc)** the criteria to be used to develop the appropriate maximum quantity of any such dispersant, chemical, or substance that the Administrator determines may be used, both on a daily and cumulative basis;
->       - **(IV)** establish a requirement that the volume of oil or hazardous substance discharged, and the volume and location of any such dispersant, chemical, or substance used, be measured and made publicly available;
->       - **(V)** notwithstanding any other provision of law, require the public disclosure of the specific chemical identity, including the chemical and common name of any ingredients contained in, and specific chemical formulas or mixtures of, any such dispersant, chemical, or substance; and
->       - **(VI)** in addition to existing authority, expressly provide a mechanism for the delisting of any such dispersant, chemical, or substance based on any information made available to the Administrator that demonstrates that such dispersant, chemical, or substance poses a significant risk to or impact on human health or the environment;
->     - **(ii)** with respect to a dispersant, other chemical, and other spill mitigating substance not specifically identified on the schedule, and prior to the use of such dispersant, chemical, or substance in accordance with paragraph (2)(G), establish—
->       - **(I)** the minimum toxicity and efficacy levels for such dispersant, chemical, or substance;
->       - **(II)** the information, including the specific chemical identity, formula, and mixtures, on such dispersant, other chemical, or other spill mitigating substance that shall be made publicly available; and
->       - **(III)** such additional information as the Administrator determines necessary; and
->     - **(iii)** with respect to other spill mitigating devices included or proposed to be included on the schedule under paragraph (2)(G)—
->       - **(I)** require the manufacturer of such device to carry out a study of the risks and effectiveness of the device according to guidelines developed and published by the Administrator; and
->       - **(II)** in addition to existing authority, expressly provide a mechanism for the delisting of any such device based on any information made available to the Administrator that demonstrates that such device poses a significant risk to or impact on human health or the environment.
->   - **(C)** *Study*
->     - **(i)** *In general* Not later than 3 months after the date of enactment of this paragraph, the Administrator shall initiate a study of the potential risks and impacts to human health and the environment, including acute and chronic risks, from the use of dispersants, other chemicals, and other spill mitigating substances, if any, that may be used to carry out the National Contingency Plan, including an assessment of such risks and impacts—
->       - **(I)** on a representative sample of biota and types of oil from locations where such dispersants, chemicals, or substances may potentially be used;
->       - **(II)** on human health, including individuals most likely to come into contact with such dispersants, chemicals, or substances, such as oil spill response action workers; and
->       - **(III)** that result from any by-products created from the use of such dispersants, chemicals, or substances.
->     - **(ii)** *Information from manufacturers*
->       - **(I)** *In general* In conjunction with the study authorized by clause (i), the Administrator shall determine the requirements for manufacturers of dispersants, chemicals, or substances to evaluate the potential risks and impacts to human health and the environment, including acute and chronic risks, associated with the use of the dispersants, chemicals, or substances and any byproducts generated by such use and to provide the details of such evaluation as a condition for listing on the schedule according to guidelines developed and published by the Administrator.
->       - **(II)** *Minimum requirements for evaluation* Any evaluation carried out by a manufacturer under this clause shall include—
->         - **(aa)** information on the oils and locations where such dispersants, chemicals, or substances may potentially be used;
->         - **(bb)** an evaluation of the variety of different dispersants, chemicals, or substances that may be used in a response; and
->         - **(cc)** an assessment of application and impacts from subsea use of the dispersant, chemical, or substance, including the potential long term effects of such use.
->   - **(D)** *Periodic revisions*
->     - **(i)** *In general* Not later than 5 years after the date of the issuance of the regulation under this paragraph, and at least once every 5 years thereafter, the Administrator shall review the schedule for the use of dispersants, other chemicals, and other spill mitigating devices and substances that may be used to carry out the National Contingency Plan and update or revise the schedule, as necessary, to ensure the protection of human health and the environment.
->     - **(ii)** *Effectiveness* The Administrator shall ensure, to the maximum extent practicable, that each update or revision to the schedule increases the minimum effectiveness value necessary for listing a dispersant, other chemical, or other spill mitigating device or substance on the schedule.
->   - **(E)** *Approval of use and application of dispersants*
->     - **(i)** *In general* In issuing the regulation under subparagraph (A), the Administrator shall require the approval of the Federal On-Scene Coordinator, in coordination with the Administrator, for all uses of a dispersant, other chemical, or other spill mitigating substance in any removal action, including—
->       - **(I)** any such dispersant, chemical, or substance that is included on the schedule developed pursuant to this subsection; or
->       - **(II)** any dispersant, chemical, or other substance that is included as part an approved area contingency plan or response plan developed under this section.
->     - **(ii)** *Repeal* Any part of section 300.910 of title 40, Code of Federal Regulations, that is inconsistent with this paragraph is hereby repealed.
-> - **(6)** *Review of and Development of Criteria for Evaluating Response Plans*
->   - **(A)** *Review* Not later than 6 months after the date of enactment of this paragraph, the President shall review the procedures and standards developed under paragraph (2)(J) to determine their sufficiency in ceasing and removing a worst case discharge of oil or hazardous substances, and for mitigating or preventing a substantial threat of such a discharge.
->   - **(B)** *Rulemaking* Not later than 1 year after the date of enactment of this paragraph, the President, after providing notice and an opportunity for public comment, shall undertake a rulemaking to—
->     - **(i)** revise the procedures and standards for ceasing and removing a worst case discharge of oil or hazardous substances, and for mitigating or preventing a substantial threat of such a discharge; and
->     - **(ii)** develop a metric for evaluating the National Contingency Plan, Area Contingency Plans, and Tank Vessel, Nontank Vessel, and Facility Response Plans consistent with the procedures and standards developed pursuant to this paragraph.
+- **(b)** *Schedule for use of dispersants, other chemicals, and other spill mitigating devices and substances* Section 311(d) of the Federal Water Pollution Control Act (33 U.S.C. 1321(d)) is amended by adding at the end the following:
+  > - **(5)** *Schedule for use of dispersants, other chemicals, and other spill mitigating devices and substances*
+  >   - **(A)** *Rulemaking* Not later than 15 months after the date of enactment of this paragraph, the President, acting through the Administrator, after providing notice and an opportunity for public comment, shall issue a revised regulation for the development of the schedule for the use of dispersants, other chemicals, and other spill mitigating devices and substances developed under paragraph (2)(G) in a manner that is consistent with the requirements of this paragraph and shall modify the existing schedule to take into account the requirements of the revised regulation.
+  >   - **(B)** *Schedule listing requirements* In issuing the regulation under subparagraph (A), the Administrator shall—
+  >     - **(i)** with respect to dispersants, other chemicals, and other spill mitigating substances included or proposed to be included on the schedule under paragraph (2)(G)—
+  >       - **(I)** establish minimum toxicity and efficacy testing criteria, taking into account the results of the study carried out under subparagraph (C);
+  >       - **(II)** provide for testing or other verification (independent from the information provided by an applicant seeking the inclusion of such dispersant, chemical, or substance on the schedule) related to the toxicity and effectiveness of such dispersant, chemical, or substance;
+  >       - **(III)** establish a framework for the application of any such dispersant, chemical, or substance, including—
+  >         - **(aa)** quantity restrictions or application conditions;
+  >         - **(bb)** the quantity thresholds for which consultation with and approval by the Regional Response Team and the Federal On-Scene Coordinator is required;
+  >         - **(cc)** the criteria to be used to develop the appropriate maximum quantity of any such dispersant, chemical, or substance that the Administrator determines may be used, both on a daily and cumulative basis; and
+  >         - **(dd)** a ranking, by geographic area, of any such dispersant, chemical, or substance based on a combination of its effectiveness for each type of oil and its level of toxicity;
+  >       - **(IV)** establish a requirement that the volume of oil or hazardous substance discharged, and the volume and location of any such dispersant, chemical, or substance used, be measured and made publicly available;
+  >       - **(V)** notwithstanding any other provision of law, require the public disclosure of the specific chemical identity, including the chemical and common name of any ingredients contained in, and specific chemical formulas or mixtures of, any such dispersant, chemical, or substance; and
+  >       - **(VI)** in addition to existing authority, expressly provide a mechanism for the delisting of any such dispersant, chemical, or substance based on any information made available to the Administrator that demonstrates that such dispersant, chemical, or substance poses a significant risk to or impact on human health or the environment;
+  >     - **(ii)** with respect to a dispersant, other chemical, and other spill mitigating substance not specifically identified on the schedule, and prior to the use of such dispersant, chemical, or substance in accordance with paragraph (2)(G), establish—
+  >       - **(I)** the minimum toxicity and efficacy levels for such dispersant, chemical, or substance;
+  >       - **(II)** the information, including the specific chemical identity, formula, and mixtures, on such dispersant, other chemical, or other spill mitigating substance that shall be made publicly available; and
+  >       - **(III)** such additional information as the Administrator determines necessary; and
+  >     - **(iii)** with respect to other spill mitigating devices included or proposed to be included on the schedule under paragraph (2)(G)—
+  >       - **(I)** require the manufacturer of such device to carry out a study of the risks and effectiveness of the device according to guidelines developed and published by the Administrator; and
+  >       - **(II)** in addition to existing authority, expressly provide a mechanism for the delisting of any such device based on any information made available to the Administrator that demonstrates that such device poses a significant risk to or impact on human health or the environment.
+  >   - **(C)** *Study*
+  >     - **(i)** *In general* Not later than 3 months after the date of enactment of this paragraph, the Administrator shall initiate a study of the potential risks and impacts to human health and the environment, including acute and chronic risks, from the use of dispersants, other chemicals, and other spill mitigating substances, if any, that may be used to carry out the National Contingency Plan, including an assessment of such risks and impacts—
+  >       - **(I)** on a representative sample of biota and types of oil from locations where such dispersants, chemicals, or substances may potentially be used;
+  >       - **(II)** on human health, including individuals most likely to come into contact with such dispersants, chemicals, or substances, such as oil spill response action workers; and
+  >       - **(III)** that result from any by-products created from the use of such dispersants, chemicals, or substances.
+  >     - **(ii)** *Information from manufacturers*
+  >       - **(I)** *In general* In conjunction with the study authorized by clause (i), the Administrator shall determine the requirements for manufacturers of dispersants, chemicals, or substances to evaluate the potential risks and impacts to human health and the environment, including acute and chronic risks, associated with the use of the dispersants, chemicals, or substances and any byproducts generated by such use and to provide the details of such evaluation as a condition for listing on the schedule according to guidelines developed and published by the Administrator.
+  >       - **(II)** *Minimum requirements for evaluation* Any evaluation carried out by a manufacturer under this clause shall include—
+  >         - **(aa)** information on the oils and locations where such dispersants, chemicals, or substances may potentially be used;
+  >         - **(bb)** an evaluation of the variety of different dispersants, chemicals, or substances that may be used in a response; and
+  >         - **(cc)** an assessment of application and impacts from subsea use of the dispersant, chemical, or substance, including the potential long term effects of such use.
+  >   - **(D)** *Periodic revisions*
+  >     - **(i)** *In general* Not later than 5 years after the date of the issuance of the regulation under this paragraph, and at least once every 5 years thereafter, the Administrator shall review the schedule for the use of dispersants, other chemicals, and other spill mitigating devices and substances that may be used to carry out the National Contingency Plan and update or revise the schedule, as necessary, to ensure the protection of human health and the environment.
+  >     - **(ii)** *Effectiveness* The Administrator shall ensure, to the maximum extent practicable, that each update or revision to the schedule increases the minimum effectiveness value necessary for listing a dispersant, other chemical, or other spill mitigating device or substance on the schedule.
+  >   - **(E)** *Approval of use and application of dispersants*
+  >     - **(i)** *In general* In issuing the regulation under subparagraph (A), the Administrator shall require the approval of the Federal On-Scene Coordinator, in coordination with the Administrator, for all uses of a dispersant, other chemical, or other spill mitigating substance in any removal action, including—
+  >       - **(I)** any such dispersant, chemical, or substance that is included on the schedule developed pursuant to this subsection; or
+  >       - **(II)** any dispersant, chemical, or other substance that is included as part an approved area contingency plan or response plan developed under this section.
+  >     - **(ii)** *Repeal* Any part of section 300.910 of title 40, Code of Federal Regulations, that is inconsistent with this paragraph is hereby repealed.
+  > - **(6)** *Review of and Development of Criteria for Evaluating Response Plans*
+  >   - **(A)** *Review* Not later than 6 months after the date of enactment of this paragraph, the President shall review the procedures and standards developed under paragraph (2)(J) to determine their sufficiency in ceasing and removing a worst case discharge of oil or hazardous substances, and for mitigating or preventing a substantial threat of such a discharge.
+  >   - **(B)** *Rulemaking* Not later than 1 year after the date of enactment of this paragraph, the President, after providing notice and an opportunity for public comment, shall undertake a rulemaking to—
+  >     - **(i)** revise the procedures and standards for ceasing and removing a worst case discharge of oil or hazardous substances, and for mitigating or preventing a substantial threat of such a discharge; and
+  >     - **(ii)** develop a metric for evaluating the National Contingency Plan, Area Contingency Plans, and tank vessel, nontank vessel, and facility response plans consistent with the procedures and standards developed pursuant to this paragraph.
+
+- **(c)** *Inclusion of containment booms in Area Contingency Plans* Section 311(j)(4)(C)(iv) of such Act (33 U.S.C. 1321(j)(4)(C)(iv)) is amended by striking “(including firefighting equipment)” and inserting “(including firefighting equipment and containment booms)”.
 
 ## § 20. Tracking Database
 
@@ -307,21 +317,33 @@ Section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321(b)) is
 - **(a)** *Agency review of response plans*
   - **(1)** *Lead Federal agency for review of response plans* Section 311(j)(5)(A) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(5)(A)) is amended by adding at the end the following:
     > - **(iii)** In issuing the regulations under this paragraph, the President shall ensure that—
-    >   - **(I)** the owner, operator, or person in charge of a tank vessel, nontank vessel, or offshore facility described in subparagraph (C) will not be considered to have complied with this paragraph until the owner, operator, or person in charge submits a plan under clause (i) or (ii), as appropriate, to the Secretary of the department in which the Coast Guard is operating and the Secretary determines and notifies the owner, operator, or person in charge that the plan, if implemented, will provide an adequate response to a worst case discharge of oil or a hazardous substance or a substantial threat of such a discharge; and
+    >   - **(I)** the owner, operator, or person in charge of a tank vessel, nontank vessel, or offshore facility described in subparagraph (C) will not be considered to have complied with this paragraph until the owner, operator, or person in charge submits a plan under clause (i) or (ii), as appropriate, to the Secretary of the department in which the Coast Guard is operating, or the Administrator, with respect to such offshore facilities as the President may designate, and the Secretary or Administrator, as appropriate, determines and notifies the owner, operator, or person in charge that the plan, if implemented, will provide an adequate response to a worst case discharge of oil or a hazardous substance or a substantial threat of such a discharge; and
     >   - **(II)** the owner, operator, or person in charge of an onshore facility described in subparagraph (C)(iv) will not be considered to have complied with this paragraph until the owner, operator, or person in charge submits a plan under clause (i) either to the Secretary of Transportation, with respect to transportation-related onshore facilities, or the Administrator, with respect to all other onshore facilities, and the Secretary or Administrator, as appropriate, determines and notifies the owner, operator, or person in charge that the plan, if implemented, will provide an adequate response to a worst-case discharge of oil or a hazardous substance or a substantial threat of such a discharge.
+    > - **(iv)**
+    >   - **(I)** The Secretary of the department in which the Coast Guard is operating, the Secretary of Transportation, or the Administrator, as appropriate, shall require that a plan submitted to the Secretary or Administrator for a vessel or facility under clause (iii)(I) or (iii)(II) by an owner, operator, or person in charge—
+    >     - **(aa)** contain a probabilistic risk analysis for all critical engineered systems of the vessel or facility; and
+    >     - **(bb)** adequately address all risks identified in the risk analysis.
+    >   - **(II)** The Secretary or Administrator, as appropriate, shall require that a risk analysis developed under subclause (I) include, at a minimum, the following:
+    >     - **(aa)** An analysis of human factors risks, including both organizational and management failure risks.
+    >     - **(bb)** An analysis of technical failure risks, including both component technologies and integrated systems risks.
+    >     - **(cc)** An analysis of interactions between humans and critical engineered systems.
+    >     - **(dd)** Quantification of the likelihood of modes of failure and potential consequences.
+    >     - **(ee)** A description of methods for reducing known risks.
+    >   - **(III)** The Secretary or Administrator, as appropriate, shall require an owner, operator, or person in charge that develops a risk analysis under subclause (I) to make the risk analysis available to the public.
 
   - **(2)** *Review and Approval of response plans* Section 311(j)(5)(E) of such Act (33 U.S.C. 1321(j)(5)(E)) is amended to read as follows:
     > - **(E)** With respect to any response plan submitted under this paragraph for an onshore facility that, because of its location, could reasonably be expected to cause significant and substantial harm to the environment by discharging into or on the navigable waters or adjoining shorelines or the exclusive economic zone, and with respect to each response plan submitted under this paragraph for a tank vessel, nontank vessel, or offshore facility, the President shall—
     >   - **(i)** promptly review the response plan;
-    >   - **(ii)** with respect to a plan for an offshore or onshore facility, provide an opportunity for public notice and comment on the response plan;
-    >   - **(iii)** taking into consideration any public comments received and other appropriate factors, as determined by the President, require revisions to the response plan;
-    >   - **(iv)** approve, approve with revisions, or disapprove the response plan;
-    >   - **(v)** review the response plan periodically thereafter, and if applicable requirements are not met, acting through the head of the appropriate Federal department or agency—
+    >   - **(ii)** verify that the response plan complies with subparagraph (A)(iv), relating to risk analyses;
+    >   - **(iii)** with respect to a plan for an offshore or onshore facility or a tank vessel that carries liquefied natural gas, provide an opportunity for public notice and comment on the response plan;
+    >   - **(iv)** taking into consideration any public comments received and other appropriate factors, as determined by the President, require revisions to the response plan;
+    >   - **(v)** approve, approve with revisions, or disapprove the response plan;
+    >   - **(vi)** review the response plan periodically thereafter, and if applicable requirements are not met, acting through the head of the appropriate Federal department or agency—
     >     - **(I)** issue administrative orders directing the owner, operator, or person in charge to comply with the response plan or any regulation issued under this section; or
     >     - **(II)** assess civil penalties or conduct other appropriate enforcement actions in accordance with subsections (b)(6), (b)(7), and (b)(8) for failure to develop, submit, receive approval of, adhere to, or maintain the capability to implement the response plan, or failure to comply with any other requirement of this section;
-    >   - **(vi)** acting through the head of the appropriate Federal department or agency, require, at a minimum, biennial inspections conducted by such agency of the tank vessel, nontank vessel, or facility to ensure compliance with the response plan or identify deficiencies in such plan;
-    >   - **(vii)** acting through the head of the appropriate Federal department or agency, make the response plan available to the public, including on the Internet; and
-    >   - **(viii)** in the case of a plan for a nontank vessel, consider any applicable State-mandated response plan in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2004 and ensure consistency to the extent practicable.
+    >   - **(vii)** acting through the head of the appropriate Federal department or agency, require, at a minimum, biennial inspections conducted by such agency of the tank vessel, nontank vessel, or facility to ensure compliance with the response plan or identify deficiencies in such plan;
+    >   - **(viii)** acting through the head of the appropriate Federal department or agency, make the response plan available to the public, including on the Internet; and
+    >   - **(ix)** in the case of a plan for a nontank vessel, consider any applicable State-mandated response plan in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2004 and ensure consistency to the extent practicable.
 
   - **(3)** *Biennial report* Section 311(j)(5) of such Act (33 U.S.C. 1321(j)(5)) is amended by adding at the end the following:
     > - **(J)** Not later than 2 years after the date of enactment of this subparagraph, and biennially thereafter, the President, acting through the Administrator, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Transportation, shall submit to Congress a report containing the following information for each owner, operator, or person in charge that submitted a response plan for a tank vessel, nontank vessel, or other facility under this paragraph:
@@ -335,7 +357,7 @@ Section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321(b)) is
     - **(A)** *Authority of Secretary of Transportation to assess penalties* Section 311(b)(6)(A) of such Act (33 U.S.C. 1321(b)(6)(A)) is amended by inserting “, the Secretary of Transportation,” before “or the Administrator”.
     - **(B)** *Administrative Penalties for Failure to Provide Notice* Section 311(b)(6)(A) of such Act (33 U.S.C. 1321(b)(6)(A)) is further amended—
       - **(i)** in clause (i) by striking “paragraph (3), or” and inserting “paragraph (3),”;
-      - **(ii)** in clause (ii) by striking “any regulation” and inserting “any order or action required by the President under subsections (c) or (e) or any regulation”;
+      - **(ii)** in clause (ii) by striking “any regulation” and inserting “any order or action required by the President under subsection (c) or (e) or any regulation”;
       - **(iii)** by redesignating clause (ii) as clause (iii);
       - **(iv)** by inserting after clause (i) the following:
         > - **(ii)** who fails to provide notice to the appropriate Federal agency pursuant to paragraph (5), or
@@ -343,7 +365,7 @@ Section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321(b)) is
       - **(v)** by adding at the end the following: “Whenever the President delegates the authority to issue regulations under subsection (j), the agency that issues regulations pursuant to that authority shall have the authority to assess a civil penalty in accordance with this section for violations of such regulations.”.
     - **(C)** *Penalty amounts* Section 311(b)(6)(B) of such Act (33 U.S.C. 1321(b)(6)(B)) is amended—
       - **(i)** in clause (i)—
-        - **(I)** by striking “$10,000” and inserting “100,000”; and
+        - **(I)** by striking “$10,000” and inserting “$100,000”; and
         - **(II)** by striking “$25,000” and inserting “$250,000”; and
       - **(ii)** in clause (ii)—
         - **(I)** by striking “$10,000” and inserting “$100,000”; and
@@ -369,9 +391,19 @@ Section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321(b)) is
       - **(ii)** by striking “$3,000” and inserting “$7,500”; and
     - **(E)** in subparagraph (E) by adding at the end the following: “The court may award appropriate relief, including a temporary or permanent injunction, civil penalties, compliance requirements, and punitive damages.”.
   - **(3)** *Application* The amendments made by this subsection shall apply to violations occurring on or after April 19, 2010.
-- **(c)** *Clarification of Federal removal authority* Section 311(c)(1)(B)(ii) of such Act (33 U.S.C. 1321(c)(1)(B)(ii)) is amended by striking the term monitor all and replace with “monitor, including through the use of an administrative order, all”.
+- **(c)** *Clarification of Federal removal authority* Section 311(c)(1)(B)(ii) of such Act (33 U.S.C. 1321(c)(1)(B)(ii)) is amended by striking the term monitor all and inserting “monitor, including through the use of an administrative order, all”.
 
-## § 23. Implementation of oil spill prevention and response authorities
+## § 23. Oil and hazardous substance cleanup technologies
+
+Section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)) is amended by adding at the end the following:
+
+> - **(9)** *Oil and hazardous substance cleanup technologies* The President, acting through the Secretary of the department in which the Coast Guard is operating, shall—
+>   - **(A)** in coordination with the heads of other appropriate Federal agencies, establish a process for—
+>     - **(i)** quickly and effectively soliciting, assessing, and deploying offshore oil and hazardous substance cleanup technologies in the event of a discharge or substantial threat of a discharge of oil or a hazardous substance in United States waters; and
+>     - **(ii)** effectively coordinating with other appropriate agencies, industry, academia, small businesses, and others to ensure the best technology available is implemented in the event of such a discharge or threat; and
+>   - **(B)** in coordination with the heads of other appropriate Federal agencies, maintain a database on best available oil and hazardous substance cleanup technologies in the event of a discharge or substantial threat of a discharge of oil or a hazardous substance in United States waters.
+
+## § 24. Implementation of oil spill prevention and response authorities
 
 Section 311(l) of the Federal Water Pollution Control Act (33 U.S.C. 1321(l)) is amended—
 
@@ -385,7 +417,7 @@ Section 311(l) of the Federal Water Pollution Control Act (33 U.S.C. 1321(l)) is
   >   - **(B)** *Responsibilities* The Administrator shall ensure that Environmental Protection Agency personnel develop and maintain operational capability—
   >     - **(i)** for effective inspection, monitoring, prevention, preparedness, and response authorities related to the discharge or substantial threat of a discharge of oil or a hazardous substance;
   >     - **(ii)** to protect human health and safety from impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance;
-  >     - **(iii)** to review and approve of, disapprove of, or require revisions (if necessary) to onshore facility response plans and to carry out all other responsibilities under subsection (j)(E)(5); and
+  >     - **(iii)** to review and approve of, disapprove of, or require revisions (if necessary) to onshore facility response plans and to carry out all other responsibilities under subsection (j)(5)(E); and
   >     - **(iv)** to protect the environment and natural resources from impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance.
   > - **(3)** *Coast Guard*
   >   - **(A)** *In general* The President shall delegate the responsibilities under subparagraph (B) to the Secretary of the department in which the Coast Guard is operating.
@@ -396,17 +428,21 @@ Section 311(l) of the Federal Water Pollution Control Act (33 U.S.C. 1321(l)) is
   >     - **(iv)** for effective inspection, monitoring, prevention, preparedness, and response authorities related to the discharge or substantial threat of a discharge of oil or a hazardous substance from a tank vessel, nontank vessel, or offshore facility;
   >     - **(v)** to protect the public from impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance in United States waters; and
   >     - **(vi)** to protect the environment and natural resources from impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance in United States waters.
+  >   - **(C)** *Role as first responder*
+  >     - **(i)** *In general* The responsibilities delegated to the Secretary under subparagraph (B) shall be sufficient to allow the Coast Guard to act as a first responder to a discharge or substantial threat of a discharge of oil or a hazardous substance from a tank vessel, nontank vessel, or offshore facility.
+  >     - **(ii)** *Capabilities* The President shall ensure that the Coast Guard has sufficient personnel and resources to act as a first responder as described in clause (i), including the resources necessary for on-going training of personnel, acquisition of equipment (including containment booms, dispersants, and skimmers), and prepositioning of equipment.
+  >   - **(D)** *Contracts* The Secretary may enter into contracts with private and nonprofit organizations for personnel and equipment in carrying out the responsibilities delegated to the Secretary under subparagraph (B).
   > - **(4)** *Department of Transportation*
   >   - **(A)** *In general* The President shall delegate the responsibilities under subparagraph (B) to the Secretary of Transportation.
   >   - **(B)** *Responsibilities* The Secretary of Transportation shall—
   >     - **(i)** establish and enforce regulations and standards for procedures, methods, equipment, and other requirements to prevent and to contain discharges of oil and hazardous substances from transportation-related onshore facilities;
-  >     - **(ii)** to review and approve of, disapprove of, or require revisions (if necessary) to transportation-related onshore facility response plans and to carry out all other responsibilities under subsection (j)(5)(E); and
+  >     - **(ii)** have the authority to review and approve of, disapprove of, or require revisions (if necessary) to transportation-related onshore facility response plans and to carry out all other responsibilities under subsection (j)(5)(E); and
   >     - **(iii)** ensure that Department of Transportation personnel develop and maintain operational capability—
   >       - **(I)** for effective inspection, monitoring, prevention, preparedness, and response authorities related to the discharge or substantial threat of a discharge of oil or a hazardous substance from a transportation-related onshore facility;
   >       - **(II)** to protect the public from the impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance from a transportation-related onshore facility; and
   >       - **(III)** to protect the environment and natural resources from the impacts of a discharge or substantial threat of a discharge of oil or a hazardous substance from a transportation-related onshore facility.
 
-## § 24. Disaster damage notification and assessment
+## § 25. Disaster damage notification and assessment
 
 - **(a)** *In general* Section 60108 of title 49, United States Code, is amended by adding at the end the following:
   > - **(e)** *Disaster damage notification and assessment*
@@ -428,14 +464,14 @@ Section 311(l) of the Federal Water Pollution Control Act (33 U.S.C. 1321(l)) is
   - **(1)** *Final rule* The Secretary of Transportation shall issue a final rule establishing procedures to carry out section 60108(e) of title 49, United States Code, not later than 1 year after the date of enactment of this Act.
   - **(2)** *Interim guidance* For the period beginning on the date of enactment of this Act and ending on the date of issuance of a rule under paragraph (1), or the date that is 45 days after such date of enactment, whichever is earlier, the Secretary shall issue interim guidance to the operator of a pipeline facility requiring notification of the Secretary and an assessment of pipeline facilities located in an affected area in the case of a manmade or natural disaster.
 
-## § 25. Impacts to Indian Tribes
+## § 26. Impacts to Indian Tribes
 
 Section 1002(b)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2702(b)(2)) is amended—
 
 - **(1)** in subparagraph (D) by striking “or a political subdivision thereof” and inserting “a political subdivision of a State, or an Indian tribe”; and
 - **(2)** in subparagraph (F) by striking “or a political subdivision of a State” and inserting “a political subdivision of a State, or an Indian tribe”.
 
-## § 26. National Commission study of Federal management and oversight of offshore drilling
+## § 27. National Commission study of Federal management and oversight of offshore drilling
 
 - **(a)** *In general* The National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling established by Executive Order No. 13543 dated May 21, 2010 (in this section referred to as the “Commission”), shall develop recommendations for—
   - **(1)** improvements to Federal laws, regulations, and industry practices applicable to offshore drilling that would—
@@ -456,15 +492,15 @@ Section 1002(b)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2702(b)(2)) is am
     - **(C)** subject to strict regulation to prevent improper relationships with regulated interests and to eliminate real or perceived conflicts of interests.
 - **(c)** *Report to Congress* In coordination with the final public report to the President, the Commission shall submit to Congress a report containing the recommendations developed under subsection (a).
 
-## § 27. Federal enforcement actions
+## § 28. Federal enforcement actions
 
 Section 309(g)(6)(A) of the Federal Water Pollution Control Act (33 U.S.C. 1319(g)(6)(A)) is amended by striking “or section 311(b)”.
 
-## § 28. Time required before electing to proceed with judicial claim or against the Fund
+## § 29. Time required before electing to proceed with judicial claim or against the Fund
 
 Paragraph (2) of section 1013(c) of the Oil Pollution Act of 1990 (33 U.S.C. 2713(c)) is amended by striking “90” and inserting “45”.
 
-## § 29. Report on former Coast Guard officials employed by recognized organizations of foreign flag administrations
+## § 30. Report on former Coast Guard officials employed by recognized organizations of foreign flag administrations
 
 - **(a)** *Report required* Not later than 1 year after the date of enactment of this Act and annually thereafter, the Comptroller General of the United States shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the employment during the preceding year of individuals who were Coast Guard officials in the previous 5-year period, by recognized organizations contracted to administer maritime programs for foreign flag administrations.
 - **(b)** *Objectives of report* At a minimum, the report required by this section shall assess the extent to which former Coast Guard officials who received compensation from recognized organizations were assigned to work on matters over which the former Coast Guard officials had oversight, inspection responsibility, or decision-making authority when the officials served in or worked for the Coast Guard. The report shall assess the extent to which former Coast Guard officials were provided compensation by recognized organizations and the positions held by former Coast Guard officials in the preceding calendar year.
@@ -489,15 +525,126 @@ Paragraph (2) of section 1013(c) of the Oil Pollution Act of 1990 (33 U.S.C. 271
     - **(F)** monitoring vessels’ compliance with international and national standards for marine safety, pollution prevention, and security; or
     - **(G)** investigating marine casualties.
 
-## § 30. Authorized level of Coast Guard personnel
+## § 31. Authorized level of Coast Guard personnel
 
 The Coast Guard is authorized an end-of-year strength for active duty personnel of 47,300 for fiscal year 2011, of which at least 300 personnel shall be assigned to implement the activities of the Coast Guard under this Act, including the amendments made by this Act.
 
-## § 31. Clarification of memorandums of understanding
+## § 32. Clarification of memorandums of understanding
 
 Not later than September 30, 2011, the President (acting through the head of the appropriate Federal department or agency) shall implement or revise, as appropriate, memorandums of understanding to clarify the roles and jurisdictional responsibilities of the Environmental Protection Agency, the Coast Guard, the Department of Transportation, and other Federal agencies relating to the prevention of oil discharges from tank vessels, nontank vessels, and facilities subject to the Oil Pollution Act of 1990.
 
-## § 32. Authorization of appropriations
+## § 33. Study of health effects of oil spill
+
+- **(a)** *Study* The Director of the Agency for Toxic Substances and Disease Registry and the Director of the Centers for Disease Control and Prevention shall jointly—
+  - **(1)** conduct a comprehensive study of—
+    - **(A)** the effects on human health of exposure to petroleum and other substances released in the oil spill or used or produced in response to the oil spill, including chemicals used to disperse the oil;
+    - **(B)** the effects on human health of secondary exposure to such substances in an aerosolized form;
+    - **(C)** whether such substances include or produce airborne carcinogens, and the effects of any such carcinogens; and
+    - **(D)** the effects of exposure described in subparagraphs (A) and (B) on a child of an individual born after the individual has been subject to such exposure; and
+  - **(2)** beginning as soon as practicable after the date of enactment of this Act, complete a baseline assessment to determine the health status of individuals exposed as described in subparagraph (A) or (B) of paragraph (1) in order to gather data that may be compared with data gathered later under paragraph (1) to determine any change in health status from continued exposure.
+- **(b)** *Public Health Assessment* The Director of the Agency for Toxic Substances and Disease Registry shall conduct a public health assessment of persons who are thought to have an epidemiological link to the substances described in subsection (a)(1)(A).
+- **(c)** *Report* The Directors shall submit to Congress a report on the results of the study and baseline assessment under subsection (a) and the assessment under subsection (b). The report shall be submitted not later than two years after the date of enactment of this Act and shall include the findings of the Directors on the matters covered by the report. The Directors shall include in the report a list of diseases or conditions that are found to exist within the populations specified in subsection (a)(1) and their rate of occurrence compared to the general population.
+- **(d)** *Oil spill defined* For purposes of this section, the term oil spill means the oil spill resulting from the explosion and collapse of the mobile offshore drilling unit Deepwater Horizon.
+
+## § 34. Offshore energy security
+
+- **(a)** Offshore facilities constructed after the date of enactment of this Act for operation in the United States Exclusive Economic Zone for purposes of any form of energy production shall be built in the United States.
+- **(b)** Foreign-built offshore facilities not operating in the United States Exclusive Economic Zone for purposes of any form of energy production on the date of enactment of this Act shall not operate in the United States Exclusive Economic Zone for such purposes after the date of enactment of this Act.
+
+## § 35. Oil spill response vessel database
+
+- **(a)** *Requirement* Not later than 90 days after the date of enactment of this Act, the Commandant of the Coast Guard shall complete an inventory of all vessels operating in the waters of the United States that are capable of meeting oil spill response needs designated in the National Contingency Plan authorized by section 311(d) of the Federal Water Pollution Control Act (33 U.S.C. 1321(d)).
+- **(b)** *Categorization* The inventory required under subsection (a) shall categorize such vessels by capabilities, type, function, and location.
+- **(c)** *Maintenance of database* The Commandant shall maintain a database containing the results of the inventory required under subsection (a) and update the information in the database on no less than a quarterly basis.
+- **(d)** *Availability* The Commandant may make information regarding the location and capabilities of oil spill response vessels available to a Federal On-Scene Coordinator designated under section 311 of such Act (33 U.S.C. 1321) to assist in the response to an oil spill or other incident in the waters of the United States.
+
+## § 36. Offshore sensing and monitoring systems
+
+- **(a)** *Requirement* Subtitle A of title IV of the Oil Pollution Act of 1990 is amended by adding at the end the following new section:
+  > ## § 4119. Offshore sensing and monitoring systems
+  >
+  > - **(a)** *In general* The equipment required to be available under section 311(j)(5)(D)(iii) of the Federal Water Pollution Control Act for facilities listed in section 311(j)(5)(C)(iii) of such Act and located in more than 500 feet of water includes sensing and monitoring systems that meet the requirements of this section.
+  > - **(b)** *Systems requirements* Sensing and monitoring systems required under subsection (a) shall—
+  >   - **(1)** use an integrated, modular, expandable, multi-sensor, open-architecture design and technology with interoperable capability;
+  >   - **(2)** be capable of—
+  >     - **(A)** operating for at least 25 years;
+  >     - **(B)** real-time physical, biological, geological, and environmental monitoring;
+  >     - **(C)** providing alerts in the event of anomalous circumstances;
+  >     - **(D)** providing docking bases to accommodate spatial sensors for remote inspection and monitoring; and
+  >     - **(E)** collecting chemical boundary condition data for drift and flow modeling; and
+  >   - **(3)** include—
+  >     - **(A)** an uninterruptible power source;
+  >     - **(B)** a spatial sensor; and
+  >     - **(C)** secure Internet access to real-time physical, biological, geological, and environmental monitoring data gathered by the system sensors.
+
+- **(b)** *Request for information* Within 60 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall issue a request for information to determine the most capable and efficient domestic systems that meet the requirements under section 4119 of the Oil Pollution Act of 1990, as amended by this section.
+- **(c)** *Implementing regulations* Within 180 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall issue regulations to implement section 4119 of the Oil Pollution Act of 1990 as amended by this section.
+- **(d)** *Clerical amendment* The table of contents in section 2 of the Oil Pollution Act of 1990 is amended by adding at the end of the items relating to such subtitle the following new item:
+
+## § 37. Vice commandant; vice admirals
+
+- **(a)** *Vice commandant*
+  - **(1)** Section 41 of title 14, United States Code, is amended by striking “an admiral,” and inserting “admirals,”.
+  - **(2)** The fourth sentence of section 47 of such title is amended by striking “vice admiral” and inserting “admiral”.
+- **(b)** *Vice admirals* Section 50 of such title is amended to read as follows:
+  > ## § 50. Vice admirals
+  >
+  > - **(a)**
+  >   - **(1)** The President may designate no more than 4 positions of importance and responsibility that shall be held by officers who—
+  >     - **(A)** while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade; and
+  >     - **(B)** shall perform such duties as the Commandant may prescribe.
+  >   - **(2)** The President may appoint, by and with the advice and consent of the Senate, and reappoint, by and with the advice and consent of the Senate, to any such position an officer of the Coast Guard who is serving on active duty above the grade of captain. The Commandant shall make recommendations for such appointments.
+  > - **(b)**
+  >   - **(1)** The appointment and the grade of vice admiral shall be effective on the date the officer assumes that duty and, except as provided in paragraph (2) of this subsection or in section 51(d) of this title, shall terminate on the date the officer is detached from that duty.
+  >   - **(2)** An officer who is appointed to a position designated under subsection (a) shall continue to hold the grade of vice admiral—
+  >     - **(A)** while under orders transferring the officer to another position designated under subsection (a), beginning on the date the officer is detached from that duty and terminating on the date before the day the officer assumes the subsequent duty, but not for more than 60 days;
+  >     - **(B)** while hospitalized, beginning on the day of the hospitalization and ending on the day the officer is discharged from the hospital, but not for more than 180 days; and
+  >     - **(C)** while awaiting retirement, beginning on the date the officer is detached from duty and ending on the day before the officer’s retirement, but not for more than 60 days.
+  > - **(c)**
+  >   - **(1)** An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
+  >   - **(2)** An officer serving in a grade above rear admiral who holds the permanent grade of rear admiral (lower half) shall be considered for promotion to the permanent grade of rear admiral as if the officer was serving in the officer’s permanent grade.
+  > - **(d)** Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
+
+- **(c)** *Repeal* Section 50a of such title is repealed.
+- **(d)** *Conforming amendments* Section 51 of such title is amended—
+  - **(1)** by striking subsections (a), (b), and (c) and inserting the following:
+    > - **(a)** An officer, other than the Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
+    > - **(b)** An officer, other than the Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
+    > - **(c)** An officer, other than the Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
+
+  - **(2)** by striking “Area Commander, or Chief of Staff” in subsection (d)(2) and inserting “or Vice Admiral”.
+- **(e)** *Continuity of grade* Section 52 of such title is amended by inserting “or admiral” after “vice admiral” the first place it appears.
+- **(f)** *Continuation on active duty* The second sentence of section 290(a) of such title is amended to read as follows: “Officers, other than the Commandant, serving for the time being or who have served in the grade of vice admiral or admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral.”.
+- **(g)** *Clerical amendments*
+  - **(1)** The section caption for section 47 of such title is amended to read as follows:
+    > ## § 47. Vice Commandant; appointment
+
+  - **(2)** The section caption for section 52 of such title is amended to read as follows:
+    > ## § 52. Vice admirals and admiral, continuity of grade
+
+  - **(3)** The analysis for chapter 3 of such title is amended—
+    - **(A)** by striking the item relating to section 47 and inserting the following:
+    - **(B)** by striking the item relating to section 50a;
+    - **(C)** by striking the item relating to section 50 and inserting the following:
+    - **(D)** by striking the item relating to section 52 and inserting the following:
+- **(h)** *Technical correction* Section 47 of such title is further amended by striking “subsection” in the fifth sentence and inserting “section”.
+- **(i)** *Treatment of Incumbents; Transition*
+  - **(1)** Notwithstanding any other provision of law, the officer who, on the date of enactment of this Act, is serving as Vice Commandant—
+    - **(A)** shall continue to serve as Vice Commandant;
+    - **(B)** shall have the grade of admiral with pay and allowances of that grade; and
+    - **(C)** shall not be required to be reappointed by reason of the enactment of that Act.
+  - **(2)** Notwithstanding any other provision of law, an officer who, on the date of enactment of this Act, is serving as Chief of Staff, Commander, Atlantic Area, or Commander, Pacific Area—
+    - **(A)** shall continue to have the grade of vice admiral with pay and allowance of that grade until such time that the officer is relieved of his duties and appointed and confirmed to another position as a vice admiral or admiral; or
+    - **(B)** for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer’s former position and any other such duties that the Commandant prescribes.
+
+## § 38. Oil and gas exploration and production
+
+Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended—
+
+- **(1)** by striking paragraph (24); and
+- **(2)** by redesignating paragraph (25) as paragraph (24).
+
+## § 39. Authorization of appropriations
 
 - **(a)** *Coast Guard* In addition to amounts made available pursuant to section 1012(a)(5)(A) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)(A)), there is authorized to be appropriated to the Secretary of the department in which the Coast Guard is operating from the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509) the following:
   - **(1)** For fiscal year 2011, $15,000,000.
