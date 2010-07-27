@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1366
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1366
@@ -51,6 +51,10 @@ Recognizing and honoring the freight railroad industry and its employees.
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2010-07-27 — [House 111-2-472](votes/house-111-2-0472.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (411–0)
+
 ## Actions
 
 - 2010-05-18 — Introduced in House
@@ -63,3 +67,12 @@ Recognizing and honoring the freight railroad industry and its employees.
 - 2010-07-15 — Placed on the House Calendar, Calendar No. 217.
 - 2010-07-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-542.
 - 2010-07-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-542.
+- 2010-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-07-27 — Considered as unfinished business. (consideration: CR H6113-6114)
+- 2010-07-27 — Considered under suspension of the rules. (consideration: CR H6078-6081)
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1366.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Costello moved to suspend the rules and agree to the resolution, as amended.
+- 2010-07-27 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0, 2 Present (Roll no. 472). (text: CR H6078)
+- 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0, 2 Present (Roll no. 472).(text: CR H6078)
+- 2010-07-27 — The title of the measure was amended. Agreed to without objection.
