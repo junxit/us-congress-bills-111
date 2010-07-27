@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 415
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fallen Heroes Flag Act of 2009”.
+This Act may be cited as the “Fallen Heroes Flag Act of 2010”.
 
 ## § 2. Providing capitol-flown flags for families of law enforcement and rescue workers killed in the line of duty
 
