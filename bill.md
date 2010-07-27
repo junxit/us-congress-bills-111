@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2780
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Restricted Buildings and Grounds Improvement Act of 2009”.
+This Act may be cited as the “Federal Restricted Buildings and Grounds Improvement Act of 2010”.
 
 ## § 2. Restricted buildings or grounds
 
@@ -20,9 +20,9 @@ Section 1752 of title 18, United States Code, is amended to read as follows:
 > ## § 1752. Restricted buildings or grounds
 >
 > - **(a)** Whoever—
->   - **(1)** without authority to do so, knowingly enters or remains in any restricted building or grounds;
+>   - **(1)** knowingly enters or remains in any restricted building or grounds without lawful authority to do so;
 >   - **(2)** knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engages in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions;
->   - **(3)** knowingly obstructs or impedes ingress or egress to or from any restricted building or grounds; or
+>   - **(3)** knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or
 >   - **(4)** knowingly engages in any act of physical violence against any person or property in any restricted building or grounds;
 > - **(b)** The punishment for a violation of subsection (a) is—
 >   - **(1)** a fine under this title or imprisonment for not more than 10 years, or both, if—
@@ -34,3 +34,7 @@ Section 1752 of title 18, United States Code, is amended to read as follows:
 >     - **(A)** where the President or other person protected by the Secret Service is or will be temporarily visiting; or
 >     - **(B)** so restricted in conjunction with an event designated as a special event of national significance; and
 >   - **(2)** the term other person protected by the Secret Service means any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection.
+
+## § 3. PAYGO Compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
