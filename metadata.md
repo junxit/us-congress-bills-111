@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1454
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1454
@@ -205,3 +205,8 @@ Multinational Species Conservation Funds Semipostal Stamp Act of 2010
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-358, Part I.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-358, Part I.
 - 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-04-06 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-234.
+- 2010-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-234.
+- 2010-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
