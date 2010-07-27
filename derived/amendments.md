@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5138
 congress: 111
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
