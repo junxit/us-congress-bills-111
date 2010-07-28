@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5281
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5281
@@ -22,9 +22,10 @@ Removal Clarification Act of 2010
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Coble, Howard [R-NC-6] (C000556)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Removal Clarification Act of 2010
 - 2010-07-27 — Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.
 - 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6133)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6133)
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
