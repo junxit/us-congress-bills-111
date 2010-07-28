@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5825
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5825
@@ -20,9 +20,10 @@ Multi-State Disaster Relief Act
 
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Multi-State Disaster Relief Act
 - 2010-07-27 — Mr. Costello moved to suspend the rules and pass the bill.
 - 2010-07-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6081)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6081)
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
