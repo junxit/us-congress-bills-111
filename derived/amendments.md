@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,7 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 2(d) of the Fur Products Labeling Act (15 U.S.C. 69(d)) is amended by striking “; except that” and all that follows through “contained therein”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “The provisions of” and inserting “(a) The provisions of”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 2(d) of the Fur Products Labeling Act (15 U.S.C. 69(d)) is amended by striking “; except that” and all that follows through “contained therein”. | the bill names no machine-readable US Code section |
-| — | amend | Section 3 of the Fur Products Labeling Act (15 U.S.C. 69a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Fur Products Labeling Act (15 U.S.C. 69a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
