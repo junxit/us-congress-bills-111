@@ -1,7 +1,7 @@
 ---
 measure: H.R. 415
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 415
@@ -22,9 +22,10 @@ Fallen Heroes Flag Act of 2010
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Fallen Heroes Flag Act of 2010
 - 2010-07-27 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2010-07-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6099)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6099)
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
