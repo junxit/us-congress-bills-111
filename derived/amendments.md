@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5781
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,8 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in paragraph (1), by striking “Space Shuttle Transition Liaison Office” and inserting “Post-Shuttle Transition Liaison Office”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “2 years after the completion of the last Space Shuttle flight” and inserting “2 years after the award of the final grant under section 222 of the National Aeronautics and Space Administration Authorization … | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “2 years after the completion of the last Space Shuttle flight” and inserting “2 years after the award of the final grant under section 223 of the National Aeronautics and Space Administration Authorization … | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Administrator” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 103(e) of the National Aeronautics and Space Administration Authorization of 2005 (42 U.S.C. 16613(e)) is amended by striking “beginning 18 months after the date the Administrator transmits a report under subsection (d)(1)” and i… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 202 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2472) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

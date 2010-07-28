@@ -35,6 +35,7 @@ The Congress finds the following:
 - **(15)** A strong, robust NASA program is in the national interest. Ensuring that it can continue to pursue cutting-edge space and aeronautical research and development activities and push back the frontier of space exploration requires a sustained and adequate commitment in resources. However, NASA’s share of the Federal discretionary budgetary authority has declined significantly relative to its post-Apollo historical average share of 2.07 percent. It should be a national goal to restore NASA’s funding share to its post-Apollo historical average.
 - **(16)** NASA should be vigilant in taking all necessary steps to control cost and schedule growth in mission projects, including the development of an integrated cost containment strategy, and adopt measures that improve the performance and transparency of its cost and acquisition management practices. NASA should approach cost and schedule management with the same level of innovation, rigor, and technical excellence that it applies to the execution of its mission projects.
 - **(17)** NASA has been inconsistent in its treatment of termination liability costs for contracts issued by different mission directorates and across various agency programs relative to historical practice. This inconsistency has hampered NASA’s ability to effectively execute its Exploration programs.
+- **(18)** NASA’s temperature records substantially overlap with the records of the Climatic Research Unit (CRU) at the University of East Anglia.
 
 ## § 3. Definitions
 

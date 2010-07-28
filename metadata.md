@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5781
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5781
@@ -32,3 +32,8 @@ National Aeronautics and Space Administration Authorization Act of 2010
 - 2010-07-20 — Introduced in House
 - 2010-07-20 — Introduced in House
 - 2010-07-20 — Referred to the House Committee on Science and Technology.
+- 2010-07-22 — Committee Consideration and Mark-up Session Held.
+- 2010-07-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-28 — Placed on the Union Calendar, Calendar No. 333.
+- 2010-07-28 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-576.
+- 2010-07-28 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-576.
