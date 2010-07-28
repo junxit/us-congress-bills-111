@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5827
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | in subsection (d) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in clause (xiv) by striking “and” at the end, | the bill names no machine-readable US Code section |
 | — | replace | in clause (xv) by striking the period at the end and inserting “; and”, and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

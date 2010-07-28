@@ -18,13 +18,13 @@ This Act may be cited as the “Protecting Gun Owners in Bankruptcy Act of 2010�
 Section 522 of title 11, the United States Code, is amended—
 
 - **(1)** in subsection (d) by adding at the end the following:
-  > - **(13)** A single rifle, shotgun, or pistol of any value or any combination of rifle, shotgun, or pistol in aggregate value not to exceed $1,500.
+  > - **(13)** The debtor's aggregate interest, not to exceed $3,000 in value, in a single rifle, shotgun, or pistol, or any combination thereof.
 
 - **(2)** in subsection (f)(4)(A)—
   - **(A)** in clause (xiv) by striking “and” at the end,
   - **(B)** in clause (xv) by striking the period at the end and inserting “; and”, and
   - **(C)** by adding at the end the following:
-    > - **(xvi)** a single rifle, shotgun, or pistol of any value or any combination of rifle, shotgun, or pistol in aggregate value not to exceed $1,500.
+    > - **(xvi)** The debtor's aggregate interest, not to exceed $3,000 in value, in a single rifle, shotgun, or pistol, or any combination thereof.
 
 ## § 3. Effective date; application of amendments
 
