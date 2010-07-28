@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4748
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4748
@@ -26,10 +26,11 @@ Northern Border Counternarcotics Strategy Act of 2010
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Northern Border Counternarcotics Strategy Act of 2010
 - 2010-07-27 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
 - 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 475). (text: CR H6104)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 475).(text: CR H6104)
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
