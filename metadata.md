@@ -1,7 +1,7 @@
 ---
 measure: S. 3267
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3267
@@ -31,3 +31,7 @@ Fire Grants Reauthorization Act of 2010
 
 - 2010-04-27 — Introduced in Senate
 - 2010-04-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (CR S2753-2754)
+- 2010-04-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-235.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-235.
+- 2010-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.
