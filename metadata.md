@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5395
@@ -68,3 +68,8 @@ To designate the facility of the United States Postal Service located at 151 Nor
 - 2010-06-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403). (text: CR 6/28/2010 H4893)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 403).(text: CR 6/28/2010 H4893)
 - 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-07-15 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.
