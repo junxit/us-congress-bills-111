@@ -2,7 +2,7 @@
 legis-num: H. RES. 1499
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1499
@@ -23,13 +23,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the FDA found that the device was safe and of benefit in enabling unassisted breathing and less dependence on ventilators, and that without treatment, children with the syndrome risk death from respiratory infections or inability to breathe;
 - Whereas, since the FDA approval, the Vertical Expandable Prosthetic Titanium Rib for children with conditions such as Thoracic Insufficiency Syndrome, Jeune syndrome, and other medical problems that constrict the growth of children’s lungs has saved the lives of hundreds of children with no other hope for survival;
 - Whereas the National Organization for Rare Disorders (NORD) and the Office of Orphan Products Development at the FDA made critical investments in Dr. Campbell’s technology;
-- Whereas Dr. Campbell has served as an advocate for children with rare medical conditions across the Nation by providing many hours of volunteer service to the National Organization for Rare Disorders (NORD) as a member of its Medical Advisory Committee;
-- Whereas Dr. Campbell has also served as an advocate for children through actions such as his March 27, 2007, testimony before the United States Senate Committee on Health, Education, Labor, and Pensions entitled “Ensuring Safe Medicines and Medical Devices for Children”; and
-- Whereas there is a need to promote pediatric device development by providing incentives to manufacturers while equipping the Food and Drug Administration with the appropriate authority to monitor the safety of these devices in children: Now, therefore, be it
+- Whereas Dr. Campbell has served as an advocate for children with rare medical conditions across the Nation by providing many hours of volunteer service to the National Organization for Rare Disorders (NORD) as a member of its Medical Advisory Committee; and
+- Whereas Dr. Campbell has also served as an advocate for children through actions such as his March 27, 2007, testimony before the United States Senate Committee on Health, Education, Labor, and Pensions entitled “Ensuring Safe Medicines and Medical Devices for Children”: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** honors Dr. Robert Campbell for his lifelong devotion to children’s health care;
-- **(2)** congratulates Dr. Robert Campbell and his colleagues on their extraordinary achievement in pediatric and orthopedic innovation;
-- **(3)** recognizes the Vertical Expandable Prosthetic Titanium Rib device which has saved the lives of so many infants and children, while giving hope to their families; and
-- **(4)** calls on the Food and Drug Administration to continue to support and incentivize other medical advances to save children’s lives threatened by rare disorders.
+- **(2)** congratulates Dr. Robert Campbell and his colleagues on their extraordinary achievement in pediatric and orthopedic innovation; and
+- **(3)** recognizes the Vertical Expandable Prosthetic Titanium Rib device which has saved the lives of so many infants and children, while giving hope to their families.
