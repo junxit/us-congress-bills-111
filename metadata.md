@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5681
@@ -16,9 +16,10 @@ To improve certain administrative operations of the Library of Congress, and for
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To improve certain administrative operations of the Library of Congress, and for
 - 2010-07-27 — Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.
 - 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6097-6098)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6097-6098)
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
