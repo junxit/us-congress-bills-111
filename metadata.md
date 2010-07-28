@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5682
@@ -38,3 +38,15 @@ To improve the operation of certain facilities and programs of the House of Repr
 - 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
 - 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
 - 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2010-09-22 — Cleared for White House.
+- 2010-09-22 — Passed Senate without amendment by Unanimous Consent.
+- 2010-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-09-22 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S7365)
+- 2010-09-22 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S7365)
+- 2010-09-23 — Message on Senate action sent to the House.
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-248.
+- 2010-09-30 — Became Public Law No: 111-248.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
