@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 258
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 258
@@ -43,9 +43,10 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Congratulating the Commandant of the Coast Guard and the Superintendent of the C
 - 2010-07-27 — Mr. Cummings moved to suspend the rules and agree to the resolution.
 - 2010-07-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6071)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6071)
+- 2010-07-28 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
