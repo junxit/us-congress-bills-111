@@ -1,7 +1,7 @@
 ---
 measure: S. 3516
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3516
@@ -16,10 +16,11 @@ Outer Continental Shelf Reform Act of 2010
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Outer Continental Shelf Reform Act of 2010
 - 2010-06-21 — Introduced in Senate
 - 2010-06-21 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S5207-5211)
 - 2010-06-21 — Sponsor introductory remarks on measure. (CR S5206-5207)
+- 2010-06-24 — Committee on Energy and Natural Resources. Hearings held.
+- 2010-06-30 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2010-07-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-236.
+- 2010-07-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-236.
+- 2010-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.

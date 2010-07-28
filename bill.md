@@ -42,6 +42,12 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
   >   - **(B)** the potential impacts of development of those resources on the marine and coastal environment and on human health and safety; and
   >   - **(C)** the long-term economic value to the United States of the balanced and orderly management of those resources that safeguards the environment and respects the multiple values and uses of the outer Continental Shelf;
 
+- **(1)** by striking paragraph (3) and inserting the following:
+  > - **(3)** the outer Continental Shelf is a vital national resource reserve held by the Federal Government for the public, which should be managed in a manner that—
+  >   - **(A)** recognizes the need of the United States for domestic sources of energy, food, minerals, and other resources;
+  >   - **(B)** minimizes the potential impacts of development of those resources on the marine and coastal environment and on human health and safety; and
+  >   - **(C)** acknowledges the long-term economic value to the United States of the balanced and orderly management of those resources that safeguards the environment and respects the multiple values and uses of the outer Continental Shelf;
+
 - **(2)** in paragraph (4)(C), by striking the period at the end and inserting a semicolon;
 - **(3)** in paragraph (5), by striking “; and” and inserting a semicolon;
 - **(4)** by redesignating paragraph (6) as paragraph (7);
@@ -70,7 +76,7 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
   >   - **(3)** *Compensation* The Director shall be compensated at the rate provided for level V of the Executive Schedule under section 5316 of title 5, United States Code.
   >   - **(4)** *Qualifications* The Director shall be a person who, by reason of professional background and demonstrated ability and experience, is specially qualified to carry out the duties of the office.
   > - **(c)** *OCS Safety and Environmental Advisory Board*
-  >   - **(1)** *Establishment* The Secretary shall establish, under the Federal Advisory Committee Act (5 U.S.C. App.), an Outer Continental Shelf Safety and Environmental Advisory Board (referred to in this subsection as the Board), to provide the Secretary and the Directors of the bureaus established under this section with independent scientific and technical advice on safe and environmentally compliant energy and mineral resource exploration, development, and production activities.
+  >   - **(1)** *Establishment* The Secretary shall establish, under the Federal Advisory Committee Act (5 U.S.C. App.), an Outer Continental Shelf Safety and Environmental Advisory Board (referred to in this subsection as the Board), to provide the Secretary and the Directors of the bureaus established under this section with independent peer-reviewed scientific and technical advice on safe and environmentally compliant energy and mineral resource exploration, development, and production activities.
   >   - **(2)** *Membership*
   >     - **(A)** *Size*
   >       - **(i)** *In general* The Board shall consist of not more than 12 members, chosen to reflect a range of expertise in scientific, engineering, management, and other disciplines related to safe and environmentally compliant energy and mineral resource exploration, development, and production activities.
@@ -121,24 +127,24 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
 ## § 6. Safety, environmental, and financial reform of the Outer Continental Shelf Lands Act
 
 - **(a)** *Definitions* Section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331) is amended by adding at the end the following:
-  > - **(r)** *Safety case* The term safety case means a body of evidence that provides a basis for determining whether a system is adequately safe for a given application in a given environment.
+  > - **(r)** *Safety case* The term safety case means a body of evidence complete set of safety documentation that provides a basis for determining whether a system is adequately safe for a given application in a given environment.
 
 - **(b)** *Administration of leasing* Section 5(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(a)) is amended in the second sentence—
   - **(1)** by striking “The Secretary may at any time” and inserting “The Secretary shall”; and
   - **(2)** by inserting after “provide for” the following: “operational safety, the protection of the marine and coastal environment,”.
 - **(c)** *Maintenance of leases* Section 6 of the Outer Continental Shelf Lands Act (43 U.S.C. 1335) is amended by adding at the end the following:
   > - **(f)** *Review of bond and surety amounts* Not later than May 1, 2011, and every 5 years thereafter, the Secretary shall—
-  >   - **(1)** review the minimum bond amounts for mineral leases under subsection (a)(11); and
-  >   - **(2)** set any bonds, surety, or other evidence of financial responsibility required in amounts adequate to permit lessees to fulfill all obligations under this Act or the Oil Pollution Act of 1990 (33 U.S.C. 2701 et seq.).
+  >   - **(1)** review the minimum bond amounts financial responsibility requirements for mineral leases under subsection (a)(11); and
+  >   - **(2)** set any bonds, surety, or other evidence of financial responsibility required in amounts adequate adjust for inflation based on the Consumer Price Index for all Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, and recommend to Congress any further changes to existing financial responsibility requirements necessary to permit lessees to fulfill all obligations under this Act or the Oil Pollution Act of 1990 (33 U.S.C. 2701 et seq.).
   > - **(g)** *Periodic fiscal reviews and reports*
   >   - **(1)** *Royalty rates*
-  >     - **(A)** *In general* Not later than 1 year after the date of enactment of this subsection and every 3 years thereafter, the Secretary shall carry out a review of, and prepare a report that describes—
+  >     - **(A)** *In general* Not later than 1 year after the date of enactment of this subsection and every 3 4 years thereafter, the Secretary shall carry out a review of, and prepare a report that describes—
   >       - **(i)** the royalty and rental rates included in new offshore oil and gas leases and the rationale for the rates;
   >       - **(ii)** whether, in the view of the Secretary, the royalty and rental rates described in subparagraph (A) would yield a fair return to the public while promoting the production of oil and gas resources in a timely manner; and
   >       - **(iii)** whether, based on the review, the Secretary intends to modify the royalty or rental rates.
   >     - **(B)** *Public participation* In carrying out a review and preparing a report under subparagraph (A), the Secretary shall provide to the public an opportunity to participate.
   >   - **(2)** *Comparative review of fiscal system*
-  >     - **(A)** *In general* Not later than 2 years after the date of enactment of this subsection and every 5 years thereafter, the Secretary in consultation with the Secretary of the Treasury, shall carry out a comprehensive review of all components of the Federal offshore oil and gas fiscal system, including requirements for bonus bids, rental rates, royalties, oil and gas taxes, and oil and gas fees.
+  >     - **(A)** *In general* Not later than 2 years 1 year after the date of enactment of this subsection and every 5 4 years thereafter, the Secretary in consultation with the Secretary of the Treasury, shall carry out a comprehensive review of all components of the Federal offshore oil and gas fiscal system, including requirements for bonus bids, rental rates, royalties, oil and gas taxes, income taxes and other significant financial elements, and oil and gas fees.
   >     - **(B)** *Inclusions* The review shall include—
   >       - **(i)** information and analyses comparing the offshore bonus bids, rents, royalties, taxes, and fees of the Federal Government to the offshore bonus bids, rents, royalties, taxes, and fees of other resource owners (including States and foreign countries); and
   >       - **(ii)** an assessment of the overall offshore oil and gas fiscal system in the United States, as compared to foreign countries.
@@ -146,6 +152,7 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
   >     - **(D)** *Report* The Secretary shall prepare a report that contains—
   >       - **(i)** the contents and results of the review carried out under this paragraph for the period covered by the report; and
   >       - **(ii)** any recommendations of the Secretary and the Secretary of the Treasury based on the contents and results of the review.
+  >     - **(E)** *Combined report* The Secretary may combine the reports required by paragraphs (1) and (2)(D) into 1 report.
   >   - **(3)** *Report deadline* Not later than 30 days after the date on which the Secretary completes each report under this subsection, the Secretary shall submit copies of the report to—
   >     - **(A)** the Committee on Energy and Natural Resources of the Senate;
   >     - **(B)** the Committee on Finance of the Senate;
@@ -153,7 +160,7 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
   >     - **(D)** the Committee on Ways and Means of the House of Representatives.
 
 - **(d)** *Leases, easements, and rights-of-Way* Section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) is amended by striking subsection (d) and inserting the following:
-  > - **(d)** *Disqualification from bidding* No bid for a lease may be submitted by any entity that the Secretary finds, after notice and opportunity for a hearing—
+  > - **(d)** *Disqualification from bidding* No bid for a lease may be submitted by any entity that the Secretary finds, after prior public notice and opportunity for a hearing—
   >   - **(1)** is not meeting due diligence, safety, or environmental requirements on other leases; or
   >   - **(2)**
   >     - **(A)** is a responsible party for a vessel or a facility from which oil is discharged, for purposes of section 1002 of the Oil Pollution Act of 1990 (33 U.S.C. 2702); and
@@ -173,10 +180,10 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
       >       - **(IV)** a statement demonstrating that the equipment to be used meets the best available technology requirements under section 21(b);
       >     - **(iii)** a map showing the location of each well to be drilled;
       >     - **(iv)**
-      >       - **(I)** a scenario for the potential blowout of the well involving the highest potential volume of liquid hydrocarbons; and
+      >       - **(I)** a scenario for the potential blowout of the well involving the highest potential expected volume of liquid hydrocarbons; and
       >       - **(II)** a complete description of a response plan to control the blowout and manage the accompanying discharge of hydrocarbons, including—
       >         - **(aa)** the technology and timeline for regaining control of the well; and
-      >         - **(bb)** the strategy, organization, and resources necessary to avoid harm to the environment and human health from hydrocarbons; and
+      >         - **(bb)** the strategy, organization, and resources necessary to be used to avoid harm to the environment and human health from hydrocarbons; and
       >     - **(v)** any other information determined to be relevant by the Secretary.
       >   - **(B)** *Deepwater wells*
       >     - **(i)** *In general* Before conducting exploration activities in water depths greater than 500 feet, the holder of a lease shall submit to the Secretary for approval a deepwater operations plan prepared by the lessee in accordance with this subparagraph.
@@ -199,10 +206,10 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
     >   - **(1)** *In general* The Secretary shall, by regulation, require that any lessee operating under an approved exploration plan obtain a permit—
     >     - **(A)** before the lessee drills a well in accordance with the plan; and
     >     - **(B)** before the lessee significantly modifies the well design originally approved by the Secretary.
-    >   - **(2)** *Engineering review required* The Secretary may not grant any drilling permit until the date of completion of a full engineering review of the well system, including a determination that—
+    >   - **(2)** *Engineering review required* The Secretary may not grant any drilling permit until the date of completion of a full engineering review of the well system, including a system by not less than 2 agency engineers, including a written determination that—
     >     - **(A)** critical safety systems (including blowout prevention) will use best available technology; and
     >     - **(B)** blowout prevention systems will include redundancy and remote triggering capability.
-    >   - **(3)** *Modification review required* The Secretary may not approve any modification of a permit without a determination, after an additional engineering review, that the modification will not degrade the safety of the well system previously approved.
+    >   - **(3)** *Modification review required* The Secretary may not approve any modification of a permit without a determination, after an additional engineering review, that the modification will not degrade compromise the safety of the well system previously approved.
     >   - **(4)** *Operator safety and environmental management required* The Secretary may not grant any drilling permit or modification of the permit until the date of completion and approval of a safety and environmental management plan that—
     >     - **(A)** is to be used by the operator during all well operations; and
     >     - **(B)** includes—
@@ -323,7 +330,7 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
     >   - **(1)** *In general* For each incident investigated under this section, the Secretary shall promptly make available to all lessees and the public technical information about the causes and corrective actions taken.
     >   - **(2)** *Public database* All data and reports related to an incident described in paragraph (1) shall be maintained in a database that is available to the public.
     > - **(i)** *Inspection fee*
-    >   - **(1)** *In general* The Secretary shall collect a non-refundable inspection fee, which shall be deposited in the Ocean Energy Enforcement Fund established under paragraph (3), from the designated operator for facilities subject to inspection under subsection (c).
+    >   - **(1)** *In general* TheTo the extent necessary to fund the inspections described in this paragraph, the Secretary shall collect a non-refundable inspection fee, which shall be deposited in the Ocean Energy Enforcement Fund established under paragraph (3), from the designated operator for facilities subject to inspection under subsection (c).
     >   - **(2)** *Establishment* The Secretary shall establish, by rule, inspection fees—
     >     - **(A)** at an aggregate level equal to the amount necessary to offset the annual expenses of inspections of outer Continental Shelf facilities (including mobile offshore drilling units) by the Department of the Interior; and
     >     - **(B)** using a schedule that reflects the differences in complexity among the classes of facilities to be inspected.
@@ -354,20 +361,315 @@ Section 3 of the Outer Continental Shelf Lands Act (43 U.S.C. 1332) is amended�
     - **(B)** by adding at the end the following: “The penalty amount specified in this subsection shall increase each year to reflect any increases in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.”; and
   - **(3)** in subsection (d), by inserting “, or with reckless disregard,” after “knowingly and willfully”.
 - **(k)** *Oil and gas development and production* Section 25 of the Outer Continental Shelf Lands Act (43 U.S.C. 1351) is amended by striking “, other than the Gulf of Mexico,” each place it appears in subsections (a)(1), (b), and (e)(1).
+- **(l)** *Conflicts of interest* Section 29 of the Outer Continental Shelf Lands Act (43 U.S.C. 1355) is amended to read as follows:
+  > ## § 29. Conflicts of interest
+  >
+  > - **(a)** *Restrictions on employment* No full-time officer or employee of the Department of the Interior who directly or indirectly discharges duties or responsibilities under this Act shall—
+  >   - **(1)** within 2 years after his employment with the Department has ceased—
+  >     - **(A)** knowingly act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before;
+  >     - **(B)** with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to; or
+  >     - **(C)** knowingly aid, advise, or assist in—
+  >       - **(i)** representing any other person (except the United States in any formal or informal appearance before; or
+  >       - **(ii)** making, with the intent to influence, any oral or written communication on behalf of any other person (except the United States) to,
+  >   - **(2)** within 1 year after his employment with the Department has ceased—
+  >     - **(A)** knowingly act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before;
+  >     - **(B)** with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to; or
+  >     - **(C)** knowingly aid , advise, or assist in —
+  >       - **(i)** representing any other person (except the United States in any formal or informal appearance before, or
+  >       - **(ii)** making, with the intent to influence, any oral or written communication on behalf of any other person (except the United States) to,
+  >   - **(3)** accept employment or compensation, during the 1-year period beginning on the date on which employment with the Department has ceased, from any person (other than the United States) that has a direct and substantial interest—
+  >     - **(A)** that was pending under the official responsibility of the employee as an officer or employee of the Department during the 1-year period preceding the termination of the responsibility; or
+  >     - **(B)** in which the employee participated personally and substantially as an officer or employee.
+  > - **(b)** *Prior employment relationships* No full-time officer or employee of the Department of the Interior who directly or indirectly discharges duties or responsibilities under this Act shall participate personally and substantially as a Federal officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, inspection, enforcement action, or other particular matter in which, to the knowledge of the officer or employee—
+  >   - **(1)** the officer or employee or the spouse, minor child, or general partner of the officer or employee has a financial interest;
+  >   - **(2)** any organization in which the officer or employee is serving as an officer, director, trustee, general partner, or employee has a financial interest;
+  >   - **(3)** any person or organization with whom the officer or employee is negotiating or has any arrangement concerning prospective employment has a financial interest; or
+  >   - **(4)** any person or organization in which the officer or employee has, within the preceding 1-year period, served as an officer, director, trustee, general partner, agent, attorney, consultant, contractor, or employee has a financial interest.
+  > - **(c)** *Gifts from outside sources* No full-time officer or employee of the Department of the Interior who directly or indirectly discharges duties or responsibilities under this Act shall, directly or indirectly, solicit or accept any gift in violation of subpart B of part 2635 of title V, Code of Federal Regulations (or successor regulations).
+  > - **(d)** *Exemptions* The Secretary may, by rule, exempt from this section clerical and support personnel who do not conduct inspections, perform audits, or otherwise exercise regulatory or policy making authority under this Act.
+  > - **(e)** *Penalties*
+  >   - **(1)** *Criminal penalties* Any person who violates paragraph (1) or (2) of subsection (a) or subsection (b) shall be punished in accordance with section 216 of title 18, United States Code.
+  >   - **(2)** *Civil penalties* Any person who violates subsection (a)(3) or (c) shall be punished in accordance with subsection (b) of section 216 of title 18, United States Code.
 
-## § 7. Reform of other laws
+## § 7. Study on the effect of the moratoria on new deepwater drilling in the Gulf of Mexico on employment and small businesses
 
-- **(a)** *Coordinated mapping initiative* Section 388(b) of the Energy Policy Act of 2005 (43 U.S.C. 1337 note; Public Law 109–58) is amended by adding at the end the following:
+- **(a)** *In general* The Secretary of Energy, acting through the Energy Information Administration, shall publish a monthly study evaluating the effect of the moratoria resulting from the blowout and explosion of the mobile offshore drilling unit Deepwater Horizon that occurred on April 20, 2010, and resulting hydrocarbon releases into the environment, on employment and small businesses.
+- **(b)** *Report* Not later than 60 days after the date of enactment of this Act and at the beginning of each month thereafter during the effective period of the moratoria described in subsection (a), the Secretary of Energy, acting through the Energy Information Administration, shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report regarding the results of the study conducted under subsection (a), including—
+  - **(1)** a survey of the effect of the moratoria on deepwater drilling on employment in the industries directly involved in oil and natural gas exploration in the outer Continental Shelf;
+  - **(2)** a survey of the effect of the moratoria on employment in the industries indirectly involved in oil and natural gas exploration in the outer Continental Shelf, including suppliers of supplies or services and customers of industries directly involved in oil and natural gas exploration;
+  - **(3)** an estimate of the effect of the moratoria on the revenues of small business located near the Gulf of Mexico and, to the maximum extent practicable, throughout the United States; and
+  - **(4)** any recommendations to mitigate possible negative effects on small business concerns resulting from the moratoria.
+
+## § 78. Reform of other laws
+
+- **(a)** *Coordinated mapping initiative*
+-  Section 388(b) of the Energy Policy Act of 2005 (43 U.S.C. 1337 note; Public Law 109–58) is amended by adding at the end the following:
   > - **(4)** *Federal agencies* Any head of a Federal department or agency shall, on request of the Secretary, provide to the Secretary all data and information that the Secretary determines to be necessary for the purpose of including the data and information in the mapping initiative, except that no Federal department or agency shall be required to provide any data or information that is privileged or proprietary.
 
 - **(b)** *Dedicated funding for outer continental shelf research activities* Section 999H(d) of the Energy Policy Act of 2005 (42 U.S.C. 16378(d)) is amended by striking paragraph (4) and inserting the following:
   > - **(4)** 25 percent shall be used for research activities required under sections 20 and 21 of the Outer Continental Shelf Lands Act (43 U.S.C. 1346, 1347).
 
-## § 8. Savings provisions
+## § 9. Safer oil and gas production
+
+- **(a)** *Program authority* Section 999A of the Energy Policy Act of 2005 (42 U.S.C. 16371) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking “ultra-deepwater” and inserting “deepwater”; and
+    - **(B)** by inserting “well control and accident prevention,” after “safe operations,”;
+  - **(2)** in subsection (b)—
+    - **(A)** by striking paragraph (1) and inserting the following:
+      > - **(1)** Deepwater architecture, well control and accident prevention, and deepwater technology, including drilling to deep formations in waters greater than 500 feet.
+
+    - **(B)** by striking paragraph (4) and inserting the following:
+      > - **(4)** Safety technology research and development for drilling activities aimed at well control and accident prevention performed by the Office of Fossil Energy of the Department.
+
+  - **(3)** in subsection (d)—
+    - **(A)** in the subsection heading, by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”; and
+    - **(B)** by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”.
+- **(b)** *Deepwater and unconventional onshore natural gas and other petroleum research and development program* Section 999B of the Energy Policy Act of 2005 (42 U.S.C. 16372) is amended—
+  - **(1)** in the section heading, by striking “Ultra-deepwater and unconventional onshore natural gas and other petroleum” and inserting “Safe oil and gas production and accident prevention”;
+  - **(2)** in subsection (a), by striking “, by increasing” and all that follows through the period at the end and inserting “and the safe and environmentally responsible exploration, development, and production of hydrocarbon resources.”;
+  - **(3)** in subsection (c)(1)—
+    - **(A)** by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and
+    - **(B)** by inserting after subparagraph (C) the following:
+      > - **(D)** projects will be selected on a competitive, peer-reviewed basis.
+
+  - **(4)** in subsection (d)—
+    - **(A)** in paragraph (6), by striking “ultra-deepwater” and inserting “deepwater”;
+    - **(B)** in paragraph (7)—
+      - **(i)** in subparagraph (A)—
+        - **(I)** in the subparagraph heading, by striking “Ultra-deepwater” and inserting “Deepwater”;
+        - **(II)** by striking “development and” and inserting “research, development, and”; and
+        - **(III)** by striking “as well as” and all that follows through the period at the end and inserting “aimed at improving operational safety of drilling activities, including well integrity systems, well control, blowout prevention, the use of non-toxic materials, and integrated systems approach-based management for exploration and production in deepwater.”;
+      - **(ii)** in subparagraph (B), by striking “and environmental mitigation” and inserting “use of non-toxic materials, drilling safety, and environmental mitigation and accident prevention”;
+      - **(iii)** in subparagraph (C), by inserting “safety and accident prevention, well control and systems integrity,” after “including”; and
+      - **(iv)** by adding at the end the following:
+        > - **(D)** *Safety and accident prevention technology research and development* Awards from allocations under section 999H(d)(4) shall be expended on areas including—
+        >   - **(i)** development of improved cementing and casing technologies;
+        >   - **(ii)** best management practices for cementing, casing, and other well control activities and technologies;
+        >   - **(iii)** development of integrity and stewardship guidelines for—
+        >     - **(I)** well-plugging and abandonment;
+        >     - **(II)** development of wellbore sealant technologies; and
+        >     - **(III)** improvement and standardization of blowout prevention devices.
+
+    - **(C)** by adding at the end the following:
+      > - **(8)** *Study; report*
+      >   - **(A)** *Study* As soon as practicable after the date of enactment of this paragraph, the Secretary shall enter into an arrangement with the National Academy of Sciences under which the Academy shall conduct a study to determine—
+      >     - **(i)** whether the benefits provided through each award under this subsection during calendar year 2011 have been maximized; and
+      >     - **(ii)** the new areas of research that could be carried out to meet the overall objectives of the program.
+      >   - **(B)** *Report* Not later than January 1, 2012, the Secretary shall submit to the appropriate committees of Congress a report that contains a description of the results of the study conducted under subparagraph (A).
+      >   - **(C)** *Optional updates* The Secretary may update the report described in subparagraph (B) for the 5-year period beginning on the date described in that subparagraph and each 5-year period thereafter.
+
+  - **(5)** in subsection (e)—
+    - **(A)** in paragraph (2)—
+      - **(i)** in the second sentence of subparagraph (A), by inserting “to the Secretary for review” after “submit”; and
+      - **(ii)** in the first sentence of subparagraph (B), by striking “Ultra-Deepwater” and all that follows through “and such Advisory Committees” and inserting “Program Advisory Committee established under section 999D(a), and the Advisory Committee”; and
+    - **(B)** by adding at the end the following:
+      > - **(6)** *Research findings and recommendations for implementation* The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish in the Federal Register an annual report on the research findings of the program carried out under this section and any recommendations for implementation that the Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, determines to be necessary.
+
+  - **(6)** in subsection (i)—
+    - **(A)** in the subsection heading, by striking “United States Geological Survey” and inserting “Department of the Interior”; and
+    - **(B)** by striking “, through the United States Geological Survey,”; and
+  - **(7)** in the first sentence of subsection (j), by striking “National Energy Technology Laboratory” and inserting “Office of Fossil Energy of the Department”.
+- **(c)** *Additional requirements for awards* Section 999C(b) of the Energy Policy Act of 2005 (42 U.S.C. 16373(b)) is amended by striking “an ultra-deepwater technology or an ultra-deepwater architecture” and inserting “a deepwater technology”.
+- **(d)** *Program Advisory Committee* Section 999D of the Energy Policy Act of 2005 (42 U.S.C. 16374) is amended to read as follows:
+  > ## § 999D. Program Advisory Committee
+  >
+  > - **(a)** *Establishment* Not later than 270 days after the date of enactment of the Safe and Responsible Energy Production Improvement Act of 2010, the Secretary shall establish an advisory committee to be known as the “Program Advisory Committee” (referred to in this section as the “Advisory Committee”).
+  > - **(b)** *Membership*
+  >   - **(1)** *In general* The Advisory Committee shall be composed of members appointed by the Secretary, including—
+  >     - **(A)** individuals with extensive research experience or operational knowledge of hydrocarbon exploration and production;
+  >     - **(B)** individuals broadly representative of the affected interests in hydrocarbon production, including interests in environmental protection and safety operations;
+  >     - **(C)** representatives of Federal agencies, including the Environmental Protection Agency and the Department of the Interior;
+  >     - **(D)** State regulatory agency representatives; and
+  >     - **(E)** other individuals, as determined by the Secretary.
+  >   - **(2)** *Limitations*
+  >     - **(A)** *In general* The Advisory Committee shall not include individuals who are board members, officers, or employees of the program consortium.
+  >     - **(B)** *Categorical representation* In appointing members of the Advisory Committee, the Secretary shall ensure that no class of individuals described in any of subparagraphs (A), (B), (D), or (E) of paragraph (1) comprises more than 1/3 of the membership of the Advisory Committee.
+  > - **(c)** *Subcommittees* The Advisory Committee may establish subcommittees for separate research programs carried out under this subtitle.
+  > - **(d)** *Duties* The Advisory Committee shall—
+  >   - **(1)** advise the Secretary on the development and implementation of programs under this subtitle; and
+  >   - **(2)** carry out section 999B(e)(2)(B).
+  > - **(e)** *Compensation* A member of the Advisory Committee shall serve without compensation but shall be entitled to receive travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
+  > - **(f)** *Prohibition* The Advisory Committee shall not make recommendations on funding awards to particular consortia or other entities, or for specific projects.
+
+- **(e)** *Definitions* Section 999G of the Energy Policy Act of 2005 (42 U.S.C. 16377) is amended—
+  - **(1)** in paragraph (1), by striking “200 but less than 1,500 meters” and inserting “500 feet”;
+  - **(2)** by striking paragraphs (8), (9), and (10);
+  - **(3)** by redesignating paragraphs (2) through (7) and (11) as paragraphs (4) through (9) and (10), respectively;
+  - **(4)** by inserting after paragraph (1) the following:
+    > - **(2)** *Deepwater architecture* The term deepwater architecture means the integration of technologies for the exploration for, or production of, natural gas or other petroleum resources located at deepwater depths.
+    > - **(3)** *Deepwater technology* The term deepwater technology means a discrete technology that is specially suited to address 1 or more challenges associated with the exploration for, or production of, natural gas or other petroleum resources located at deepwater depths.
+
+  - **(5)** in paragraph (10) (as redesignated by paragraph (3)), by striking “in an economically inaccessible geological formation, including resources of small producers”.
+- **(f)** *Funding* Section 999H of the Energy Policy Act of 2005 (42 U.S.C. 16378) is amended—
+  - **(1)** in the first sentence of subsection (a) by striking “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund” and inserting “Safe and Responsible Energy Production Research Fund”;
+  - **(2)** in subsection (d)—
+    - **(A)** in paragraph (1), by striking “35 percent” and inserting “21.5 percent”;
+    - **(B)** in paragraph (2), by striking “32.5 percent” and inserting “21 percent”;
+    - **(C)** in paragraph (4)—
+      - **(i)** by striking “25 percent” and inserting “30 percent”;
+      - **(ii)** by striking “complementary research” and inserting “safety technology research and development”; and
+      - **(iii)** by striking “contract management,” and all that follows through the period at the end and inserting “and contract management.”; and
+    - **(D)** by adding at the end the following:
+      > - **(5)** 20 percent shall be used for research activities required under sections 20 and 21 of the Outer Continental Shelf Lands Act (43 U.S.C. 1346, 1347).
+
+  - **(3)** in subsection (f), by striking “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund” and inserting “Safer Oil and Gas Production and Accident Prevention Research Fund”.
+- **(g)** *Conforming amendment* Subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.) is amended in the subtitle heading by striking “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources” and inserting “Safer Oil and Gas Production and Accident Prevention”.
+
+## § 10. National Commission on Outer Continental Shelf Oil Spill Prevention
+
+- **(a)** *Establishment* There is established in the Legislative branch the National Commission on Outer Continental Shelf Oil Spill Prevention (referred to in this section as the “Commission”).
+- **(b)** *Purposes* The purposes of the Commission are—
+  - **(1)** to examine and report on the facts and causes relating to the Deepwater Horizon explosion and oil spill of 2010;
+  - **(2)** to ascertain, evaluate, and report on the evidence developed by all relevant governmental agencies regarding the facts and circumstances surrounding the incident;
+  - **(3)** to build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
+    - **(A)** the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate;
+    - **(B)** the Committee on Natural Resources and the Subcommittee on Oversight and Investigations of the House of Representatives; and
+    - **(C)** other Executive branch, congressional, or independent commission investigations into the Deepwater Horizon incident of 2010, other fatal oil platform accidents and major spills, and major oil spills generally;
+  - **(4)** to make a full and complete accounting of the circumstances surrounding the incident, and the extent of the preparedness of the United States for, and immediate response of the United States to, the incident; and
+  - **(5)** to investigate and report to the President and Congress findings, conclusions, and recommendations for corrective measures that may be taken to prevent similar incidents.
+- **(c)** *Composition of Commission*
+  - **(1)** *Members* The Commission shall be composed of 10 members, of whom—
+    - **(A)** 1 member shall be appointed by the President, who shall serve as Chairperson of the Commission;
+    - **(B)** 1 member shall be appointed by the majority or minority (as the case may be) leader of the Senate from the Republican Party and the majority or minority (as the case may be) leader of the House of Representatives from the Republican Party, who shall serve as Vice Chairperson of the Commission;
+    - **(C)** 2 members shall be appointed by the senior member of the leadership of the Senate from the Democratic Party;
+    - **(D)** 2 members shall be appointed by the senior member of the leadership of the House of Representatives from the Republican Party;
+    - **(E)** 2 members shall be appointed by the senior member of the leadership of the Senate from the Republican Party; and
+    - **(F)** 2 members shall be appointed by the senior member of the leadership of the House of Representatives from the Democratic Party.
+  - **(2)** *Qualifications; initial meeting*
+    - **(A)** *Political party affiliation* Not more than 5 members of the Commission shall be from the same political party.
+    - **(B)** *Nongovernmental appointees* An individual appointed to the Commission may not be a current officer or employee of the Federal Government or any State or local government.
+    - **(C)** *Other qualifications* It is the sense of Congress that individuals appointed to the Commission should be prominent United States citizens, with national recognition and significant depth of experience and expertise in such areas as—
+      - **(i)** engineering;
+      - **(ii)** environmental compliance;
+      - **(iii)** health and safety law (particularly oil spill legislation);
+      - **(iv)** oil spill insurance policies;
+      - **(v)** public administration;
+      - **(vi)** oil and gas exploration and production;
+      - **(vii)** environmental cleanup; and
+      - **(viii)** fisheries and wildlife management.
+    - **(D)** *Deadline for appointment* All members of the Commission shall be appointed on or before September 15, 2010.
+    - **(E)** *Initial meeting* The Commission shall meet and begin the operations of the Commission as soon as practicable after the date of enactment of this Act.
+  - **(3)** *Quorum; vacancies*
+    - **(A)** *In general* After the initial meeting of the Commission, the Commission shall meet upon the call of the Chairperson or a majority of the members of the Commission.
+    - **(B)** *Quorum* 6 members of the Commission shall constitute a quorum.
+    - **(C)** *Vacancies* Any vacancy in the Commission shall not affect the powers of the Commission, but shall be filled in the same manner in which the original appointment was made.
+- **(d)** *Functions of Commission*
+  - **(1)** *In general* The functions of the Commission are—
+    - **(A)** to conduct an investigation that—
+      - **(i)** investigates relevant facts and circumstances relating to the Deepwater Horizon incident of April 20, 2010, and the associated oil spill thereafter, including any relevant legislation, Executive order, regulation, plan, policy, practice, or procedure; and
+      - **(ii)** may include relevant facts and circumstances relating to—
+        - **(I)** permitting agencies;
+        - **(II)** environmental and worker safety law enforcement agencies;
+        - **(III)** national energy requirements;
+        - **(IV)** deepwater and ultradeepwater oil and gas exploration and development;
+        - **(V)** regulatory specifications, testing, and requirements for offshore oil and gas well explosion prevention;
+        - **(VI)** regulatory specifications, testing, and requirements offshore oil and gas well casing and cementing regulation;
+        - **(VII)** the role of congressional oversight and resource allocation; and
+        - **(VIII)** other areas of the public and private sectors determined to be relevant to the Deepwater Horizon incident by the Commission;
+    - **(B)** to identify, review, and evaluate the lessons learned from the Deepwater Horizon incident of April 20, 2010, regarding the structure, coordination, management policies, and procedures of the Federal Government, and, if appropriate, State and local governments and nongovernmental entities, and the private sector, relative to detecting, preventing, and responding to those incidents; and
+    - **(C)** to submit to the President and Congress such reports as are required under this section containing such findings, conclusions, and recommendations as the Commission determines to be appropriate, including proposals for organization, coordination, planning, management arrangements, procedures, rules, and regulations.
+  - **(2)** *Relationship to inquiry by congressional committees* In investigating facts and circumstances relating to energy policy, the Commission shall—
+    - **(A)** first review the information compiled by, and any findings, conclusions, and recommendations of, the committees identified in subparagraphs (A) and (B) of subsection (b)(3); and
+    - **(B)** after completion of that review, pursue any appropriate area of inquiry, if the Commission determines that—
+      - **(i)** those committees have not investigated that area;
+      - **(ii)** the investigation of that area by those committees has not been completed; or
+      - **(iii)** new information not reviewed by the committees has become available with respect to that area.
+- **(e)** *Powers of Commission*
+  - **(1)** *Hearings and evidence* The Commission or, on the authority of the Commission, any subcommittee or member of the Commission, may, for the purpose of carrying out this section—
+    - **(A)** hold such hearings, meet and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
+    - **(B)** require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, documents, tapes, and materials;
+  - **(2)** *Subpoenas*
+    - **(A)** *Issuance*
+      - **(i)** *In general* A subpoena may be issued under this paragraph only—
+        - **(I)** by the agreement of the Chairperson and the Vice Chairperson; or
+        - **(II)** by the affirmative vote of 6 members of the Commission.
+      - **(ii)** *Signature* Subject to clause (i), a subpoena issued under this paragraph—
+        - **(I)** shall bear the signature of the Chairperson or any member designated by a majority of the Commission;
+        - **(II)** and may be served by any person or class of persons designated by the Chairperson or by a member designated by a majority of the Commission for that purpose.
+    - **(B)** *Enforcement*
+      - **(i)** *In general* In the case of contumacy or failure to obey a subpoena issued under subparagraph (A), the United States district court for the district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring the person to appear at any designated place to testify or to produce documentary or other evidence.
+      - **(ii)** *Judicial action for noncompliance* Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+      - **(iii)** *Additional enforcement* In the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this subsection, the Commission may, by majority vote, certify a statement of fact constituting such failure to the appropriate United States attorney, who may bring the matter before the grand jury for action, under the same statutory authority and procedures as if the United States attorney had received a certification under sections 102 through 104 of the Revised Statutes (2 U.S.C. 192 through 194).
+  - **(3)** *Contracting* The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge the duties of the Commission under this section.
+  - **(4)** *Information from Federal agencies*
+    - **(A)** *In general* The Commission may secure directly from any Executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Federal Government, information, suggestions, estimates, and statistics for the purposes of this section.
+    - **(B)** *Cooperation* Each Federal department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairperson, the Chairperson of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
+    - **(C)** *Receipt, handling, storage, and dissemination* Information shall be received, handled, stored, and disseminated only by members of the Commission and the staff of the Commission in accordance with all applicable laws (including regulations and Executive orders).
+  - **(5)** *Assistance from Federal agencies*
+    - **(A)** *General services administration* The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services for the performance of the functions of the Commission.
+    - **(B)** *Other departments and agencies* In addition to the assistance prescribed in subparagraph (A), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as are determined to be advisable and authorized by law.
+  - **(6)** *Gifts* The Commission may accept, use, and dispose of gifts or donations of services or property, including travel, for the direct advancement of the functions of the Commission.
+  - **(7)** *Postal services* The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+- **(f)** *Public meetings and hearings*
+  - **(1)** *Public meetings and release of public versions of reports* The Commission shall—
+    - **(A)** hold public hearings and meetings, to the extent appropriate; and
+    - **(B)** release public versions of the reports required under paragraphs (1) and (2) of subsection (j).
+  - **(2)** *Public hearings* Any public hearings of the Commission shall be conducted in a manner consistent with the protection of proprietary or sensitive information provided to or developed for or by the Commission as required by any applicable law (including a regulation or Executive order).
+- **(g)** *Staff of Commission*
+  - **(1)** *In general*
+    - **(A)** *Appointment and compensation*
+      - **(i)** *In general* The Chairperson, in consultation with the Vice Chairperson and in accordance with rules agreed upon by the Commission, may, without regard to the civil service laws (including regulations), appoint and fix the compensation of a staff director and such other personnel as are necessary to enable the Commission to carry out the functions of the Commission.
+      - **(ii)** *Maximum rate of pay* No rate of pay fixed under this subparagraph may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code.
+    - **(B)** *Personnel as Federal employees*
+      - **(i)** *In general* The staff director and any personnel of the Commission who are employees shall be considered to be employees under section 2105 of title 5, United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+      - **(ii)** *Members of commission* Clause (i) shall not apply to members of the Commission.
+  - **(2)** *Detailees*
+    - **(A)** *In general* An employee of the Federal Government may be detailed to the Commission without reimbursement.
+    - **(B)** *Civil service status* The detail of the employee shall be without interruption or loss of civil service status or privilege.
+  - **(3)** *Procurement of temporary and intermittent services* The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+- **(h)** *Compensation and travel expenses*
+  - **(1)** *Compensation of members*
+    - **(A)** *Non-federal employees* A member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
+    - **(B)** *Federal employees* A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation in addition to the compensation received for the services of the member as an officer or employee of the Federal Government.
+  - **(2)** *Travel expenses* A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+- **(i)** *Security clearances for Commission members and staff*
+  - **(1)** *In general* Subject to paragraph (2), the appropriate Federal agencies or departments shall cooperate with the Commission in expeditiously providing to the members and staff of the Commission appropriate security clearances, to the maximum extent practicable, pursuant to existing procedures and requirements.
+  - **(2)** *Proprietary information* No person shall be provided with access to proprietary information under this section without the appropriate security clearances.
+- **(j)** *Reports of Commission; adjournment*
+  - **(1)** *Interim reports* The Commission may submit to the President and Congress interim reports containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of members of the Commission.
+  - **(2)** *Final report* Not later than 180 days after the date of the enactment of this Act, the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of members of the Commission.
+  - **(3)** *Temporary adjournment*
+    - **(A)** *In general* The Commission, and all the authority provided under this section, shall adjourn and be suspended, respectively, on the date that is 60 days after the date on which the final report is submitted under paragraph (2).
+    - **(B)** *Administrative activities before termination* The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding activities of the Commission, including—
+      - **(i)** providing testimony to committees of Congress concerning reports of the Commission; and
+      - **(ii)** disseminating the final report submitted under paragraph (2).
+    - **(C)** *Reconvening of Commission* The Commission shall stand adjourned until such time as the President or the Secretary of Homeland Security declares an oil spill of national significance to have occurred, at which time—
+      - **(i)** the Commission shall reconvene in accordance with subsection (c)(3); and
+      - **(ii)** the authority of the Commission under this section shall be of full force and effect.
+- **(k)** *Funding*
+  - **(1)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
+    - **(A)** $10,000,000 for the first fiscal year in which the Commission convenes; and
+    - **(B)** $3,000,000 for each fiscal year thereafter in which the Commission convenes.
+  - **(2)** *Availability* Amounts made available to carry out this section shall be available—
+    - **(A)** for transfer to the Commission for use in carrying out the functions and activities of the Commission under this section; and
+    - **(B)** until the date on which the Commission adjourns for the fiscal year under subsection (j)(3).
+- **(l)** *Nonapplicability of Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+
+## § 11. Classification of offshore systems
+
+- **(a)** *Regulations*
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary and the Secretary of the Department in which the Coast Guard is operating shall jointly issue regulations requiring systems (including existing systems) used in the offshore exploration, development, and production of oil and gas in the outer Continental Shelf to be constructed, maintained, and operated so as to meet classification, certification, rating, and inspection standards that are necessary—
+    - **(A)** to protect the health and safety of affiliated workers; and
+    - **(B)** to prevent environmental degradation.
+  - **(2)** *Third-party verification* The standards established by regulation under paragraph (1) shall be verified through certification and classification by independent third parties that—
+    - **(A)** have been preapproved by both the Secretary and the Secretary of the Department in which the Coast Guard is operating; and
+    - **(B)** have no financial conflict of interest in conducting the duties of the third parties.
+  - **(3)** *Minimum systems covered* At a minimum, the regulations issued under paragraph (1) shall require the certification and classification by an independent third party who meets the requirements of paragraph (2) of—
+    - **(A)** mobile offshore drilling units;
+    - **(B)** fixed and floating drilling or production facilities;
+    - **(C)** drilling systems, including risers and blowout preventers; and
+    - **(D)** any other equipment dedicated to the safety systems relating to offshore extraction and production of oil and gas.
+  - **(4)** *Exceptions* The Secretary and the Secretary of the Department in which the Coast Guard is operating may waive the standards established by regulation under paragraph (1) for an existing system only if—
+    - **(A)** the system is of an age or type where meeting such requirements is impractical; and
+    - **(B)** the system poses an acceptably low level of risk to the environment and to human safety.
+- **(b)** *Authority of Coast Guard* Nothing in this section preempts or interferes with the authority of the Coast Guard.
+
+## § 812. Savings provisions
 
 - **(a)** *Existing law* All regulations, rules, standards, determinations, contracts and agreements, memoranda of understanding, certifications, authorizations, appointments, delegations, results and findings of investigations, or any other actions issued, made, or taken by, or pursuant to or under, the authority of any law (including regulations) that resulted in the assignment of functions or activities to the Secretary, the Director of the Minerals Management Service (including by delegation from the Secretary), or the Department (as related to the implementation of the purposes referenced in this Act) that were in effect on the date of enactment of this Act shall continue in full force and effect after the date of enactment of this Act unless previously scheduled to expire or until otherwise modified or rescinded by this Act or any other Act.
 - **(b)** *Effect on other authorities* This Act does not amend or alter the provisions of other applicable laws, unless otherwise noted.
 
-## § 9. Budgetary effects
+## § 913. Budgetary effects
 
 The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
