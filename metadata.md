@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5682
@@ -16,9 +16,10 @@ To improve the operation of certain facilities and programs of the House of Repr
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To improve the operation of certain facilities and programs of the House of Repr
 - 2010-07-27 — Placed on the Union Calendar, Calendar No. 328.
 - 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
 - 2010-07-27 — Reported by the Committee on House Administration. H. Rept. 111-569.
+- 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.

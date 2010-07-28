@@ -2,7 +2,7 @@
 legis-num: H.R. 5682
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5682
@@ -29,7 +29,11 @@ Any active duty member of the Armed Forces who is assigned to a congressional li
 
 ## § 3. Miscellaneous Technical Corrections
 
-- **(a)** The second undesignated paragraph under the heading “Under Superintendent of the Capitol Buildings and Grounds” in the Act of April 28, 1902 (chapter 594; 32 Stat. 125; 2 U.S.C. 2012), is amended to read as follows:
+- **(a)** The second undesignated paragraph under the heading “Under Superintendent of the Capitol Buildings and Grounds” in the Act of April 28, 1902 (chapter 594; 32 Stat. 125; 2 U.S.C. 2012) is amended to read as follows:
   > -  The Chief Administrative Officer of the House of Representatives shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the Chief Administrative Officer.
 
 - **(b)** Effective as if included in the enactment of Public Law 111–145, section 3 of House Resolution 661, Ninety-fifth Congress, agreed to July 29, 1977 (2 U.S.C. 84–2), is restored into permanent law.
+
+## § 4. PAYGO Compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
