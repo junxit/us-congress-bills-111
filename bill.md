@@ -48,3 +48,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Use of funds* Notwithstanding any limitation in applicable appropriation Acts for the Department of Agriculture or the Agricultural Research Service, all funds deposited into the Treasury pursuant to subsection (a) shall—
   - **(1)** be available to the Secretary until expended, without further appropriation, for the acquisition of land and interests in land and other related purposes of the National Animal Disease Center; and
   - **(2)** be considered to authorize the acquisition of land for the purposes of section 11 of the Act of August 3, 1956 (7 U.S.C. 428a).
+
+## § 4. Statutory Pay-As-You-Go language
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
