@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5751
@@ -25,3 +25,10 @@ Lobbying Disclosure Enhancement Act
 - 2010-07-15 — Introduced in House
 - 2010-07-15 — Introduced in House
 - 2010-07-15 — Referred to the House Committee on the Judiciary.
+- 2010-07-28 — Considered under suspension of the rules. (consideration: CR H6204-6206)
+- 2010-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5751.
+- 2010-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-28 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6204)
+- 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6204)
+- 2010-07-28 — The title of the measure was amended. Agreed to without objection.

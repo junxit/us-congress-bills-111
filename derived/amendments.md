@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 4 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1603) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (10) and (11) as paragraphs (11) and (12); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (b) as subsection (e); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (11), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”. | the bill names no machine-readable US Code section |
+| — | replace | Section 6(b)(1) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1605(b)(1)) is amended by striking “by case” and all that follows through “public record” and inserting “by case and name of the individual lobbyists or lobbying firms invo… | the bill names no machine-readable US Code section |
