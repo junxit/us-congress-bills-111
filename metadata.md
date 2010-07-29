@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1454
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1454
@@ -210,3 +210,5 @@ Multinational Species Conservation Funds Semipostal Stamp Act of 2010
 - 2010-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-234.
 - 2010-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-234.
 - 2010-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
+- 2010-07-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6537; text as passed Senate: CR S6537)
+- 2010-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6537; text as passed Senate: CR S6537)
