@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 307
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 307
@@ -25,3 +25,6 @@ Providing for a conditional recess or adjournment of the Senate.
 - 2010-07-29 — On agreeing to the resolution Agreed to by voice vote. (text: CR H6306)
 - 2010-07-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H6306)
 - 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6981-6982; text as passed Senate: CR S6982)
+- 2010-08-05 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6981-6982; text as passed Senate: CR S6982)
+- 2010-08-06 — Message on Senate action sent to the House.
