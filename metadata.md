@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5874
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5874
@@ -40,3 +40,10 @@ United States Patent and Trademark Office Supplemental Appropriations Act, 2010
 - 2010-07-29 — Cleared for White House.
 - 2010-07-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6537-6538)
 - 2010-07-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6537-6538)
+- 2010-07-30 — Message on Senate action sent to the House.
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Presented to President.
+- 2010-08-10 — Became Public Law No: 111-224.
+- 2010-08-10 — Became Public Law No: 111-224.
+- 2010-08-10 — Signed by President.
+- 2010-08-10 — Signed by President.
