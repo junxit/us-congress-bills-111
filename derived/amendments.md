@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5900
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -63,6 +63,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter following subparagraph (D) by striking “subsection (h)” and inserting “subsection (h) or (i)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “subsection (h)” and inserting “subsection (h) or (i)”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), in the matter preceding subparagraph (A), by inserting “or who furnished information to the database established under subsection (i)(2)” after “subsection (h)(1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 44703(k) (as redesignated by subsection (b)(1) of this section) is amended by striking “subsection (h)” and inserting “subsection (h) or (i)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 41712 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
