@@ -1,7 +1,7 @@
 ---
 measure: S. 258
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 258
@@ -34,3 +34,5 @@ Saving Kids From Dangerous Drugs Act of 2010
 - 2010-07-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-07-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.
+- 2010-07-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6536-6537; text as passed Senate: CR S6536)
+- 2010-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6536-6537; text as passed Senate: CR S6536)
