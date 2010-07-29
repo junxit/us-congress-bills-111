@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1454
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1454
@@ -212,3 +212,16 @@ Multinational Species Conservation Funds Semipostal Stamp Act of 2010
 - 2010-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
 - 2010-07-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6537; text as passed Senate: CR S6537)
 - 2010-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6537; text as passed Senate: CR S6537)
+- 2010-07-30 — Message on Senate action sent to the House.
+- 2010-09-22 — Cleared for White House.
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1454.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6832-6834)
+- 2010-09-22 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6832-6833)
+- 2010-09-22 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6832-6833)
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-241.
+- 2010-09-30 — Became Public Law No: 111-241.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
