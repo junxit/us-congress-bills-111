@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 308
 congress: 111
-version: Enrolled Bill
+version: Received in Senate
 ---
 
 # H.Con.Res. 308
