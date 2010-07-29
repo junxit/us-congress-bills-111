@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5822
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5822
@@ -145,3 +145,4 @@ Military Construction and Veterans Affairs and Related Agencies Appropriations A
 - 2010-07-28 — The Speaker designated the Honorable Donna F. Edwards to act as Chairwoman of the Committee.
 - 2010-07-28 — The previous question was ordered pursuant to the rule. (consideration: CR H6248)
 - 2010-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinshed business was the question on adoption amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-07-29 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
