@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5875
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5875
@@ -16,7 +16,7 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 - Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
@@ -30,6 +30,7 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Sen. Kyl, Jon [R-AZ] (K000352)
 
 ## Committees (2)
 
@@ -49,3 +50,5 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 - 2010-07-28 — Mr. Price (NC) moved to suspend the rules and pass the bill.
 - 2010-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6253)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6253)
+- 2010-07-29 — Received in the Senate.
+- 2010-07-29 — Senate amendment submitted
