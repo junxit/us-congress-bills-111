@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-93 amendatory instructions. 0 executed, 93 stated and not applied.
+98 amendatory instructions. 0 executed, 98 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,36 +32,33 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 103(b) (30 U.S.C. 813(b)) is amended by striking “(b) For the purpose” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 511(a) (30 U.S.C. 958(a)) is amended by inserting after “501,” the following: “the status of implementation of recommendations from each independent investigation panel under section 103(b) received in the preceding 5 years.”. | the bill names no machine-readable US Code section |
+| — | insert | Section 511(a) (30 U.S.C. 958(a)) is amended by inserting after “501,” the following: “the status of implementation of recommendations from each independent investigation panel under section 103(b) received in the preceding 5 years”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 103(b) (as amended by section 101) (30 U.S.C. 813(b)) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 103(f) (30 U.S.C. 813(f)) is amended by inserting before the last sentence the following: “If any miner is entrapped or otherwise prevented as the result of an accident in such mine from designating such a representative directly… | the bill names no machine-readable US Code section |
 | — | insert | Section 103(a) (30 U.S.C. 813(a)) is amended by inserting after the third sentence the following: “Such inspections shall be conducted during the various shifts and days of the week during which miners are normally present in the mine to… | the bill names no machine-readable US Code section |
+| — | insert | Section 103(a) is further amended by inserting before the last sentence the following: “The Secretary shall, upon request by an operator, review with the appropriate mine officials the Secretary’s most recent evaluation for pattern statu… | the bill names no machine-readable US Code section |
 | — | replace | Section 103(d) (30 U.S.C. 813(d)) is amended by striking the last sentence and inserting the following: “The records to be kept and made available by the operator of the mine shall include man-hours worked and occupational injuries and i… | the bill names no machine-readable US Code section |
 | — | strike | Section 103(k) (30 U.S.C. 813(k)) is amended by striking “, when present,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 103(a) (30 U.S.C. 813(a)) is amended by adding at the end the following: “During inspections and investigations under this section, and during any litigation under this Act, no attorney shall represent or purport to represent bot… | the bill names no machine-readable US Code section |
 | — | replace | by striking “any mandatory health or safety standard” and inserting “any provision of this Act, including any mandatory health or safety standard or regulation promulgated under this Act”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “such mandatory health or safety standards” and inserting “such provisions, regulations, or mandatory health or safety standards”; | the bill names no machine-readable US Code section |
-| — | replace | in the second sentence, by striking “any mandatory health or safety standard” and inserting “any provision of this Act, including any mandatory health or safety standard or regulation promulgated under this Act,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the first sentence the following: “For purposes of this Act, a violation of a provision of this Act, including any mandatory health or safety standard or regulation promulgated under this Act, is of such nature as coul… | the bill names no machine-readable US Code section |
+| — | replace | by striking “such mandatory health or safety standards” and inserting “such provisions, regulations, or mandatory health or safety standards”; and | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “any mandatory health or safety standard” and inserting “any provision of this Act, including any mandatory health or safety standard or regulation promulgated under this Act,”. | the bill names no machine-readable US Code section |
 | — | amend | Section 104(e) (30 U.S.C. 814(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 108(a)(2) (30 U.S.C. 818(a)(2)) is amended by striking “a pattern of violation of” and all that follows and inserting “a course of conduct that in the judgment of the Secretary constitutes a continuing hazard to the health or saf… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 105(e) (as redesignated by section 204(1)) (30 U.S.C. 815(e)) is amended by adding at the end the following: “In any proceeding in which a party challenges the Secretary’s decision to approve, modify, or revoke a coal or other mi… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “including any regulation promulgated under this Act,” after “this Act,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “violation.” and inserting “violation, except that, in the case of a significant and substantial violation, the penalty shall be not more than $150,000 for each such violation.”. | the bill names no machine-readable US Code section |
+| — | insert | Section 110(a)(1) (30 U.S.C. 820(a)(1)) is amended by inserting “including any regulation promulgated under this Act,” after “this Act,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 110(b) (30 U.S.C. 820(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 110(c) (30 U.S.C. 820(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “willfully” and inserting “knowingly”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “$250,000, or by imprisonment for not more than one year” and inserting “$1,000,000, or by imprisonment for not more than 5 years”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “$500,000, or by imprisonment for not more than five years” and inserting “$2,000,000, or by imprisonment for not more than 10 years”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” before “Any operator”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Unless” and inserting “(1) Unless”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 109 (30 U.S.C. 819) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “Any operator”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “willfully” and inserting “knowingly”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “by a fine of not more than” and all that follows and inserting | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 110(d) (as amended by subsection (a)) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 110(e) (30 U.S.C. 820(e)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 109 (30 U.S.C. 819) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 110(i) (30 U.S.C. 820(i)) is amended by striking “In assessing civil monetary penalties, the Commission shall consider” and inserting the following: “In any review of a citation and proposed penalty assessment contested by an ope… | the bill names no machine-readable US Code section |
 | — | replace | Section 110(j) (30 U.S.C. 820(j)) is amended by striking the second and third sentences and inserting the following: “Pre-final order interest on such penalties shall begin to accrue on the date the operator contests a citation issued un… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (l) as subsection (m); and | the bill names no machine-readable US Code section |
@@ -72,12 +69,14 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 303(d) (30 U.S.C. 863(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Where rock” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “65 per centum” and all that follows and inserting “80 percent. Where methane is present in any ventilating current, the percentage of incombustible content of such combined dusts shall be increased 0.4 percent for each 0.1 p… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 317 (30 U.S.C. 877) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “of Health and Human Services”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second sentence and inserting the following: “Not later than 2 years after the date of enactment of the Miner Safety and Health Act of 2010, the Secretary shall promulgate final regulations that require operators, beginni… | the bill names no machine-readable US Code section |
+| — | strike | by striking “of Health, Education, and Welfare”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the second sentence and inserting the following: “Not later than 2 years after the date of enactment of the Robert C. Byrd Miner Safety and Health Act of 2010, the Secretary shall promulgate final regulations that require ope… | the bill names no machine-readable US Code section |
 | — | amend | Section 115(a)(3) (30 U.S.C. 825(a)(3)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 115 (30 U.S.C. 825) is further amended by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) through (e) as subsections (d) through (f), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 115 (30 U.S.C. 825) is further amended by redesignating subsections (e) and (f) (as redesignated) as subsections (f) and (g) and inserting after subsection (d) (as redesignated) the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 104(g)(2) (30 U.S.C. 814(g)(2)) is amended by striking “under paragraph (1)” both places it appears and inserting “under paragraph (1) or under section 115(e)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (a) and (b); | the bill names no machine-readable US Code section |
@@ -90,16 +89,17 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (m), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (n), by striking the period at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (o), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding paragraph (1), by striking “, in coordination with the Secretary of Health, Education, and Welfare and the Secretary of the Interior,”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h), by striking “$3,000,000 for fiscal year 1970, and $10,000,000 in each succeeding fiscal year” and inserting “$20,000,000 for each fiscal year”. | the bill names no machine-readable US Code section |
-| — | amend | Title IV of the Black Lung Benefits Act (30 U.S.C. 901 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h), by striking “$3,000,000 for fiscal year 1970, and $10,000,000 annually in each succeeding fiscal year” and inserting “$20,000,000 for each fiscal year”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Title IV of the Black Lung Benefits Act (30 U.S.C. 901 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title I is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “discharge” and all that follows through “because such” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “this Act or has” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “such proceeding or because of the exercise” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “in any such proceeding or because of the exercise” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “, including the reporting of any injury, illness, or unsafe condition to the employer, agent of the employer, safety and health committee involved, or employee safety and health r… | the bill names no machine-readable US Code section |
 | — | replace | Section 11(c) of such Act (29 U.S.C. 660(c)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 11(c) of such Act (29 U.S.C. 660(c)) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
@@ -109,18 +109,23 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 17(d) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 666(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$70,000” and inserting “$120,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$5,000” and inserting “$8,000”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: “In determining whether a violation is repeated, the Secretary shall consider the employer's history of violations under this Act and under State occupational safety and health plans established under … | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “In determining whether a violation is repeated, the Secretary or the Commission shall consider the employer’s history of violations under this Act and under State occupational safety and health plans … | the bill names no machine-readable US Code section |
 | — | replace | by striking “$7,000” and inserting “$12,000”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: “If such a violation caused or contributed to the death of an employee, such civil penalty amounts shall be increased to not more than $50,000 for each such violation, but not less than $20,000 for eac… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “If such a violation caused or contributed to the death of an employee, such civil penalty amounts shall be increased to not more than $50,000 for each such violation, but not less than $20,000 for eac… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “$7,000” and inserting “$12,000”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), as amended, by striking “$7,000” each place it occurs and inserting “$12,000”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (e) through (l) as subsections (f) through (m), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (j) (as redesignated by paragraph (5)), by striking “$7,000” and inserting “$12,000;”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) through (i) as subsections (f) through (j), and subsections (j) through (l) as subsections (l) through (n) respectively; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (j) (as so redesignated) by striking “$7,000” and inserting “$12,000”. | the bill names no machine-readable US Code section |
 | — | insert | Section 17 is further amended by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (f) (as redesignated by section 705) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (g) (as redesignated by section 705) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h) (as redesignated by section 705), by striking “fine of not more than $10,000, or by imprisonment for not more than six months,” and inserting “fine in accordance with title 18, United States Code, or by imprisonment for… | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (j) (as redesignated by section 705) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Such section is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 17(n) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 666) (as redesignated by section 706(a)(4)) (29 U.S.C. 666(n)) is amended by adding at the end the following: “Pre-final order interest on such penalties shall be… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (f) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g), by striking “fine of not more than $1,000 or by imprisonment for not more than six months,” and inserting “fine in accordance with title 18, United States Code, or by imprisonment for not more than 2 years,”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h), by striking “fine of not more than $10,000, or by imprisonment for not more than six months,” and inserting “fine in accordance with title 18, United States Code, or by imprisonment for not more than 5 years,”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (j) through (m) as subsections (k) through (n), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (i) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 17 (29 U.S.C. 666) (as amended by section 705 and subsection (a)) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 17(n) (as redesignated by section 706(a)(4)) (29 U.S.C. 666(n)) is amended by adding at the end the following: “Pre-final order interest on such penalties shall begin to accrue on the date the party contests a citation issued und… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 20(a)(6) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 669(a)(6)) is amended by striking the second sentence and inserting the following: “The Secretary shall determine following a written request by any employer, … | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
