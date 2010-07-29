@@ -41,9 +41,16 @@ Congress finds the following:
   >   - **(1)** An ultimate user who has lawfully obtained a controlled substance in accordance with this title may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—
   >     - **(A)** the person receiving the controlled substance is authorized under this title to engage in such activity; and
   >     - **(B)** the disposal takes place in accordance with regulations issued by the Attorney General to prevent diversion of controlled substances.
-  >   - **(2)** The Attorney General may, by regulation, authorize long-term care facilities, as defined by the Attorney General by regulation, to dispose of controlled substances on behalf of ultimate users in a manner that the Attorney General determines will provide effective controls against diversion and be consistent with the public health and safety.
+  >   - **(2)** In developing regulations under this subsection, the Attorney General shall take into consideration the public health and safety, as well as the ease and cost of program implementation and participation by various communities. Such regulations may not require any entity to establish or operate a delivery or disposal program.
+  >   - **(2)**
+  >     - **(3)** The Attorney General may, by regulation, authorize long-term care facilities, as defined by the Attorney General by regulation, to dispose of controlled substances on behalf of ultimate users who reside, or have resided, at such long-term care facilities in a manner that the Attorney General determines will provide effective controls against diversion and be consistent with the public health and safety.
+  >   - **(4)** If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent’s property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
 
 - **(b)** *Conforming amendment* Section 308(b) of the Controlled Substances Act (21 U.S.C. 828(b)) is amended—
   - **(1)** by striking the period at the end of paragraph (2) and inserting “; or”; and
   - **(2)** by adding at the end the following:
     > - **(3)** the delivery of such a substance for the purpose of disposal by an ultimate user or long-term care facility acting in accordance with section 302(g) of this title.
+
+## § 4. Directive to the United States sentencing commission
+
+Pursuant to its authority under section 994 of title 28, United States Code, the United States Sentencing Commission shall review and, if appropriate, amend the Federal sentencing guidelines and policy statements to ensure that the guidelines and policy statements provide an appropriate penalty increase of up to 2 offense levels above the sentence otherwise applicable in Part D of the Guidelines Manual if a person is convicted of a drug offense resulting from the authorization of that person to receive scheduled substances from an ultimate user or long-term care facility as set forth in the amendments made by section 3.
