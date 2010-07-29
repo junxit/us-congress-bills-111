@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 592
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 592
@@ -16,9 +16,10 @@ A resolution designating the week of September 13-19, 2010, as "Polycystic Kidne
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution designating the week of September 13-19, 2010, as "Polycystic Kidne
 - 2010-07-22 — Introduced in Senate
 - 2010-07-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6220-6221)
 - 2010-07-22 — Sponsor introductory remarks on measure. (CR S6221)
+- 2010-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6538)
+- 2010-07-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6538)
+- 2010-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6538)
+- 2010-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6538)
