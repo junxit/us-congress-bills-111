@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5850
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5850
@@ -20,9 +20,221 @@ Transportation, Housing and Urban Development, and Related Agencies Appropriatio
 
 - House — Appropriations Committee
 
+## Recorded votes (11)
+
+- 2010-07-29 — [House 111-2-488](votes/house-111-2-0488.md) — On Agreeing to the Amendment — **Failed** (206–217)
+- 2010-07-29 — [House 111-2-489](votes/house-111-2-0489.md) — On Agreeing to the Amendment — **Failed** (197–225)
+- 2010-07-29 — [House 111-2-490](votes/house-111-2-0490.md) — On Agreeing to the Amendment — **Failed** (169–252)
+- 2010-07-29 — [House 111-2-492](votes/house-111-2-0492.md) — On Agreeing to the Amendment — **Failed** (177–247)
+- 2010-07-29 — [House 111-2-493](votes/house-111-2-0493.md) — On Agreeing to the Amendment — **Failed** (159–265)
+- 2010-07-29 — [House 111-2-494](votes/house-111-2-0494.md) — On Agreeing to the Amendment — **Failed** (129–293)
+- 2010-07-29 — [House 111-2-495](votes/house-111-2-0495.md) — On Agreeing to the Amendment — **Failed** (163–260)
+- 2010-07-29 — [House 111-2-496](votes/house-111-2-0496.md) — On Agreeing to the Amendment — **Failed** (157–267)
+- 2010-07-29 — [House 111-2-497](votes/house-111-2-0497.md) — On Agreeing to the Amendment — **Failed** (165–258)
+- 2010-07-29 — [House 111-2-498](votes/house-111-2-0498.md) — On Agreeing to the Amendment — **Failed** (159–264)
+- 2010-07-29 — [House 111-2-499](votes/house-111-2-0499.md) — On Passage — **Passed** (251–167)
+
 ## Actions
 
 - 2010-07-26 — Introduced in House
 - 2010-07-26 — Placed on the Union Calendar, Calendar No. 324.
 - 2010-07-26 — The House Committee on Appropriations reported an original measure, H. Rept. 111-564, by Mr. Olver.
 - 2010-07-26 — The House Committee on Appropriations reported an original measure, H. Rept. 111-564, by Mr. Olver.
+- 2010-07-28 — Rules Committee Resolution H. Res. 1569 Reported to House. Rule provides for consideration of H.R. 5850 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI are waived.
+- 2010-07-29 — Amendment (A001) offered by Mr. Boehner. (consideration: CR H6345; text: CR H6345)
+- 2010-07-29 — Amendment (A002) offered by Mr. Boehner. (consideration: CR H6345-6346, H6368-6369; text: CR H6345)
+- 2010-07-29 — Amendment (A003) offered by Mr. Boehner. (consideration: CR H6346; text: CR H6346)
+- 2010-07-29 — Amendment (A004) offered by Ms. Kaptur. (consideration: CR H6346-6348; text: CR H6346)
+- 2010-07-29 — Amendment (A005) offered by Mr. Arcuri. (consideration: CR H6348-6349; text: CR H6348)
+- 2010-07-29 — Amendment (A006) offered by Mr. Perlmutter. (consideration: CR H6349; text: CR H6349)
+- 2010-07-29 — Amendment (A007) offered by Mr. Latham. (consideration: CR H6349-6351, H6369-6370; text: CR H6349-6350)
+- 2010-07-29 — Amendment (A008) offered by Mr. DeFazio. (consideration: CR H6351; text: CR H6351)
+- 2010-07-29 — Amendment (A009) offered by Mr. Culberson. (consideration: CR H6351-6353, H6370-6371; text: CR H6352)
+- 2010-07-29 — Amendment (A010) offered by Ms. Johnson, E. B.. (consideration: CR H6353; text: CR H6353)
+- 2010-07-29 — Amendment (A011) offered by Mr. Graves (MO). (consideration: CR H6371-6372; text: CR H6371)
+- 2010-07-29 — Amendment (A012) offered by Ms. Moore (WI). (consideration: CR H6371; text: CR H6371)
+- 2010-07-29 — Amendment (A013) offered by Mr. Neugebauer. (consideration: CR H6372-6373, CR 7/30/2010 H6412-6413; text: CR H6372)
+- 2010-07-29 — Amendment (A014) offered by Mr. Braley (IA). (consideration: CR H6373-6374; text: CR H6373)
+- 2010-07-29 — Amendment (A015) offered by Mr. Turner. (consideration: CR H6374; text: CR H6374)
+- 2010-07-29 — Amendment (A016) offered by Mrs. Kirkpatrick (AZ). (consideration: CR H6374-6375; text: CR H6374)
+- 2010-07-29 — Amendment (A017) offered by Mr. Jordan (OH). (consideration: CR H6375-6376, CR 7/30/2010 H6413-6414; text: CR H6375)
+- 2010-07-29 — Amendment (A018) offered by Mr. Flake. (consideration: CR H6376-6377, CR 7/30/2010 H6414; text: CR H6376)
+- 2010-07-29 — Amendment (A019) offered by Mr. Flake. (consideration: CR H6377-6378, CR 7/30/2010 H6414-6415; text: CR H6377)
+- 2010-07-29 — Amendment (A020) offered by Mr. Flake. (consideration: CR H6378-6379, CR 7/30/2010 H6415-6416; text: CR H6378)
+- 2010-07-29 — Amendment (A021) offered by Mr. Flake. (consideration: CR H6379-6381, CR 7/30/2010 H6416; text: CR H6379)
+- 2010-07-29 — Amendment (A022) offered by Mr. Flake. (consideration: CR H6381-6382, CR 7/30/2010 H6416-6417; text: CR H6381)
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment agreed to Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Amendment failed in Committee of the Whole
+- 2010-07-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 5850 as unfinished business.
+- 2010-07-29 — Considered as unfinished business.
+- 2010-07-29 — Considered as unfinished business. (consideration: CR H6368-6400, CR 7/30/2010 H6412-6418)
+- 2010-07-29 — Considered under the provisions of rule H. Res. 1569. (consideration: CR H6310-6353; text of measure as reported in House: CR H6325-6345)
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Braley (IA) amendment No. 15.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 20.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Flake part B amendment No. 10.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Flake part B amendment No. 11.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Flake part B amendment No. 2
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Flake part B amendment No. 4.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment No. 12.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Jordan (OH) amendment No. 18.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Kirkpatrick (AZ) amendment No. 17.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (WI) amendment No. 13.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer amendment No. 14.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H. Res. 1569, the Committee of the Whole proceeded with 10 minutes of debate on the Turner amendment No. 16.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Arcuri amendment No. 6.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Boehner amendment No. 1.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Boehner amendment No. 2.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Boehner amendment No. 4.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Culberson amendment No. 10.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the DeFazio amendment No. 9.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the E.B Johnson (TX) amendment No. 11.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Kaptur (OH) amendment No. 5.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Latham amendment No. 8.
+- 2010-07-29 — DEBATE - Pursuant to the provisions of H.Res. 1569, the Committee on the Whole proceeded with 10 minutes of debate on the Perlmutter amendment No. 7.
+- 2010-07-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5850.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Arcuri amendment (A005) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Boehner amendment (A001) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Boehner amendment (A003) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Braley (IA) amendment (A014) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the DeFazio amendment (A008) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A010) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Kaptur amendment (A004) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Moore (WI) amendment (A012) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Perlmutter amendment (A006) Agreed to by voice vote.
+- 2010-07-29 — House amendment agreed to: On agreeing to the Turner amendment (A015) Agreed to by voice vote.
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Boehner amendment (A002) Failed by recorded vote: 206 - 217 (Roll no. 488).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Culberson amendment Failed by recorded vote: 169 - 252 (Roll no. 490).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Flake amendment (A018) Failed by recorded vote: 129 - 293 (Roll no. 494).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Flake amendment (A019) Failed by recorded vote: 163 - 260 (Roll no. 495).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Flake amendment (A020) Failed by recorded vote: 157 - 267 (Roll no. 496).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Flake amendment (A021) Failed by recorded vote: 165 - 258 (Roll no. 497).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Flake amendment (A022) Failed by recorded vote: 159 - 264 (Roll no. 498).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Graves (MO) amendment Failed by voice vote.
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Jordan (OH) amendment (A017) Failed by recorded vote: 159 - 265 (Roll no. 493).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Kirkpatrick (AZ) amendment (A016) Failed by voice vote.
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Latham amendment (A007) Failed by recorded vote: 197 - 225 (Roll no. 489).
+- 2010-07-29 — House amendment not agreed to: On agreeing to the Neugebauer amendment (A013) Failed by recorded vote: 177 - 247 (Roll no. 492).
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered
+- 2010-07-29 — House amendment offered/reported by : Amendment (A001) offered by Mr. Boehner.(consideration: CR H6345; text: CR H6345)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A002) offered by Mr. Boehner.(consideration: CR H6345-6346, H6368-6369; text: CR H6345)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A003) offered by Mr. Boehner.(consideration: CR H6346; text: CR H6346)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A004) offered by Ms. Kaptur.(consideration: CR H6346-6348; text: CR H6346)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A005) offered by Mr. Arcuri.(consideration: CR H6348-6349; text: CR H6348)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A006) offered by Mr. Perlmutter.(consideration: CR H6349; text: CR H6349)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A007) offered by Mr. Latham.(consideration: CR H6349-6351, H6369-6370; text: CR H6349-6350)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A008) offered by Mr. DeFazio.(consideration: CR H6351; text: CR H6351)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A009) offered by Mr. Culberson.(consideration: CR H6351-6353, H6370-6371; text: CR H6352)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A010) offered by Ms. Johnson, E. B..(consideration: CR H6353; text: CR H6353)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A011) offered by Mr. Graves (MO).(consideration: CR H6371-6372; text: CR H6371)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A012) offered by Ms. Moore (WI).(consideration: CR H6371; text: CR H6371)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A013) offered by Mr. Neugebauer.(consideration: CR H6372-6373, CR 7/30/2010 H6412-6413; text: CR H6372)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A014) offered by Mr. Braley (IA).(consideration: CR H6373-6374; text: CR H6373)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A015) offered by Mr. Turner.(consideration: CR H6374; text: CR H6374)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A016) offered by Mrs. Kirkpatrick (AZ).(consideration: CR H6374-6375; text: CR H6374)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A017) offered by Mr. Jordan (OH).(consideration: CR H6375-6376, CR 7/30/2010 H6413-6414; text: CR H6375)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A018) offered by Mr. Flake.(consideration: CR H6376-6377, CR 7/30/2010 H6414; text: CR H6376)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A019) offered by Mr. Flake.(consideration: CR H6377-6378, CR 7/30/2010 H6414-6415; text: CR H6377)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A020) offered by Mr. Flake.(consideration: CR H6378-6379, CR 7/30/2010 H6415-6416; text: CR H6378)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A021) offered by Mr. Flake.(consideration: CR H6379-6381, CR 7/30/2010 H6416; text: CR H6379)
+- 2010-07-29 — House amendment offered/reported by : Amendment (A022) offered by Mr. Flake.(consideration: CR H6381-6382, CR 7/30/2010 H6416-6417; text: CR H6381)
+- 2010-07-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1569 and Rule XVIII.
+- 2010-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-29 — Mr. Olver moved that the Committee now rise.
+- 2010-07-29 — Mr. Olver moved that the Committee rise.
+- 2010-07-29 — On agreeing to the Arcuri amendment (A005) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Boehner amendment (A001) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Boehner amendment (A002) Failed by recorded vote: 206 - 217 (Roll no. 488).
+- 2010-07-29 — On agreeing to the Boehner amendment (A003) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Braley (IA) amendment (A014) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Culberson amendment Failed by recorded vote: 169 - 252 (Roll no. 490).
+- 2010-07-29 — On agreeing to the DeFazio amendment (A008) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Flake amendment (A018) Failed by recorded vote: 129 - 293 (Roll no. 494).
+- 2010-07-29 — On agreeing to the Flake amendment (A019) Failed by recorded vote: 163 - 260 (Roll no. 495).
+- 2010-07-29 — On agreeing to the Flake amendment (A020) Failed by recorded vote: 157 - 267 (Roll no. 496).
+- 2010-07-29 — On agreeing to the Flake amendment (A021) Failed by recorded vote: 165 - 258 (Roll no. 497).
+- 2010-07-29 — On agreeing to the Flake amendment (A022) Failed by recorded vote: 159 - 264 (Roll no. 498).
+- 2010-07-29 — On agreeing to the Graves (MO) amendment Failed by voice vote.
+- 2010-07-29 — On agreeing to the Johnson, E. B. amendment (A010) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Jordan (OH) amendment (A017) Failed by recorded vote: 159 - 265 (Roll no. 493).
+- 2010-07-29 — On agreeing to the Kaptur amendment (A004) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Kirkpatrick (AZ) amendment (A016) Failed by voice vote.
+- 2010-07-29 — On agreeing to the Latham amendment (A007) Failed by recorded vote: 197 - 225 (Roll no. 489).
+- 2010-07-29 — On agreeing to the Moore (WI) amendment (A012) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Neugebauer amendment (A013) Failed by recorded vote: 177 - 247 (Roll no. 492).
+- 2010-07-29 — On agreeing to the Perlmutter amendment (A006) Agreed to by voice vote.
+- 2010-07-29 — On agreeing to the Turner amendment (A015) Agreed to by voice vote.
+- 2010-07-29 — On motion that the Committee now rise. Agreed to by voice vote.
+- 2010-07-29 — On motion that the Committee rise. Agreed to by voice vote.
+- 2010-07-29 — On passage Passed by the Yeas and Nays: 251 - 167 (Roll no. 499).
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boehner amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Boehner demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Culberson amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Culberson demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 20, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jordan (OH) amendment No. 18, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Jordan (OH) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Latham amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Latham demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment No. 14, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Barton (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2010-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 251 - 167 (Roll no. 499).
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Roll call votes on amendments in House
+- 2010-07-29 — Rule H. Res. 1569 passed House.
+- 2010-07-29 — Rule provides for consideration of H.R. 5850 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI are waived.
+- 2010-07-29 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2010-07-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-07-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2010-07-29 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5850.
+- 2010-07-29 — The Speaker designated the Honorable Vic Snyder to act as Chairman of the Committee.
+- 2010-07-29 — The previous question was ordered pursuant to the rule. (consideration: CR 7/30/2010 H6417)
+- 2010-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
