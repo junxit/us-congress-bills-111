@@ -26,3 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(f)** *Restriction on use of conveyed land* The deed of conveyance for the land conveyed under subsection (a) shall restrict the use of the conveyed land to cemetery purposes. Structures may not be erected on the conveyed land, other than for monumentation or cemetery maintenance facilities.
 - **(g)** *Compliance with federal laws and regulations* The conveyance of the land under subsection (a) is subject to compliance with existing laws and regulations.
 - **(h)** *Additional terms and conditions* The Secretary may require such additional terms and conditions in connection with the conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+## § 2. Statutory Pay-As-You-Go language
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
