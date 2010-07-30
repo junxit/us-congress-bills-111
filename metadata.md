@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5900
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5900
@@ -42,3 +42,9 @@ Airline Safety and Federal Aviation Administration Extension Act of 2010
 - 2010-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/30/2010 H6418-6424)
 - 2010-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/30/2010 H6418-6424)
 - 2010-07-29 — Referred to the Subcommittee on Aviation.
+- 2010-07-30 — Cleared for White House.
+- 2010-07-30 — Message on Senate action sent to the House.
+- 2010-07-30 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and agreed to without amendment by Unanimous Consent.(consideration: CR S6541-6543)
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Presented to President.
+- 2010-07-30 — Received in the Senate, read twice, considered, read the third time, and agreed to without amendment by Unanimous Consent. (consideration: CR S6541-6543)
