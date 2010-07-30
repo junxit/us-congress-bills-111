@@ -1,7 +1,7 @@
 ---
 measure: S. 3567
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3567
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -33,3 +34,8 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
+- 2010-07-30 — Message on Senate action sent to the House.
+- 2010-07-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6543; text as passed Senate: CR S6543)
+- 2010-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6543; text as passed Senate: CR S6543)
+- 2010-07-30 — Received in the House.
+- 2010-07-30 — Referred to the House Committee on Oversight and Government Reform.
