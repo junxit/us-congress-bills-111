@@ -1,7 +1,7 @@
 ---
 measure: S. 258
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 258
@@ -21,9 +21,11 @@ Saving Kids From Dangerous Drugs Act of 2010
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Bayh, Evan [D-IN] (B001233)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Energy and Commerce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +38,8 @@ Saving Kids From Dangerous Drugs Act of 2010
 - 2010-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.
 - 2010-07-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6536-6537; text as passed Senate: CR S6536)
 - 2010-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6536-6537; text as passed Senate: CR S6536)
+- 2010-07-30 — Message on Senate action sent to the House.
+- 2010-07-30 — Received in the House.
+- 2010-07-30 — Referred to House Energy and Commerce
+- 2010-07-30 — Referred to House Judiciary
+- 2010-07-30 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
