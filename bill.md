@@ -2,7 +2,7 @@
 legis-num: H. RES. 1566
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1566
@@ -29,7 +29,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on February 13, 1960, African-American students in Nashville, Tennessee, began a desegregation sit-in campaign called the Nashville Student Movement;
 - Whereas racist violence escalated with harassment and beatings and many nonviolent protesters were arrested, overflowing the jails;
 - Whereas 81 of the students were convicted of “disorderly conduct” and refused to pay the fine and chose instead to serve their time in jail;
-- Whereas, on April 19, 1960, the home of Alexander Looby, the attorney representing most students in the Nashville Student Movement, was destroyed by a terrorist bomb;
+- Whereas, on April 19, 1960 the home Alexander Looby, the attorney representing most students in the Nashville Student Movement, was destroyed by a terrorist bomb;
 - Whereas the bomb on Looby’s home led to a nonviolent march to the Nashville City Hall where student activist Diane Nash confronted Mayor Ben West, forcing him to admit segregation was morally wrong;
 - Whereas the Nashville sit-in movement led to it being the first major city to begin desegregation of its public facilities on May 10, 1960;
 - Whereas, on February 22, 1960, the Civic Interest Group in Baltimore, Maryland, initiated sit-ins and pickets of department stores, ice cream parlors, and movie theaters;
@@ -46,20 +46,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on March 28, 1960, students from Baton Rouge and New Orleans Southern and Xavier University, respectively, began nonviolent resistant sit-ins;
 - Whereas Louisiana student activists were arrested for sit-ins, expelled from school and barred from all public colleges and universities within Louisiana;
 - Whereas their peers called for a boycott of all classes until the expelled students were reinstated;
-- Whereas the Louisiana boycotts continued for years and reached its height with the Freedom March in September 1963;
+- Whereas the Louisiana boycotts continued for years and reached it’s height with the Freedom March in September 1963;
 - Whereas the civil rights movement principle of peaceful protests spread throughout the South, and the Nation was captivated by the images of young people marching, praying, singing, demonstrating, and in many cases, being met with violence;
-- Whereas by July 1960, Woolworth and Kress Stores agreed to serve all “properly dressed and well-behaved people” regardless of race;
-- Whereas from April 15–17, 1960, with an $800 grant, 126 delegates from 58 student sit-in centers and from 12 different States, from the North and the South gathered at Shaw University in Raleigh, North Carolina, and formed the Student Nonviolent Coordinating Committee (SNCC) which lead to the national sit-in effort, and helped lead the “Freedom Rides” in 1961 and the historic March on Washington in 1963;
+- Whereas by July 1960, Woolworth and Kress Stores agreed to serve all “properly dressed and well behaved people” regardless of race;
+- Whereas on from April 15–17, 1960, with an $800 grant, 126 delegates from 58 student sit-in centers and from 12 different States, from the North and the South gathered at Shaw University in Raleigh, North Carolina, and formed the Student Nonviolent Coordinating Committee (SNCC) which lead to the national sit-in effort, and helped lead the “Freedom Rides” in 1961 and the historic March on Washington in 1963;
 - Whereas SNCC was advised by Ella Baker, who was a former member of the Southern Christian Leadership Conference and worked as a field secretary and director of branches for the National Association of the Advancement of Colored People (NAACP);
 - Whereas Ella Baker listened to the students and she encouraged their nonviolent efforts as a quiet leader of a grass-roots effort;
-- Whereas SNCC learned from great planners like Jim Forman and A. Philip Randolph, and were inspired by Jim Lawson and Dr. Martin Luther King, Jr., and developed a unique, agile, determined, and organized approach to nonviolent action, that ultimately forced the desegregation of the South;
+- Whereas SNCC learned from great planners like Jim Forman and A. Philip Randolph, and were inspired by Jim Lawson and Dr. Martin Luther King, Jr., and developed an unique, agile, determined, and organized approach to nonviolent action, that ultimately forced the desegregation of the South;
 - Whereas by the end of April 1960, a sit-in had occurred in every southern State;
 - Whereas by August 1961, one and a half years after the inception of the sit-ins, the movement had attracted over 70,000 participants and generated over 3,000 arrests;
 - Whereas in addition to its goal of desegregating places of public accommodation, SNCC engaged in a voter registration program in some of the most segregated areas of the country;
 - Whereas SNCC’s voter registration program culminated in 1964 with the Mississippi Summer Project, sponsored by the Council of Federated Organizations (SNCC, Congress of Racial Equality (CORE) and Southern Christian Leadership Conference (SCLC)), during which hundreds of volunteers, Black and White, from the North and South, coordinated and participated in voter registration projects and the formation of Freedom Schools;
 - Whereas SNCC organized Freedom Schools which endeavored to eradicate fear and to educate African-Americans about their right to vote and participate in the democratic process;
 - Whereas in 1964, SNCC helped organize the Mississippi Freedom Democratic Party (MFDP), which challenged the legitimacy and seating of Mississippi’s officially recognized Democratic Party;
-- Whereas the national party decisionmakers promised expansion of gender and racially based restrictions;
+- Whereas the national party decision-makers promised expansion of gender and racially based restrictions;
 - Whereas in 1972 racially and gender based restrictions were formalized into the McGovern Rules, which outlawed explicitly racist local party affiliates;
 - Whereas SNCC facilitated the organization and implementation of the nonviolent protests against segregation;
 - Whereas SNCC worked with the NAACP to push the passage of the Civil Rights Act of 1964; and
