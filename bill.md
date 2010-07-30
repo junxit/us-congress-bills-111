@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 6050
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6050
+
+> To authorize the Secretary of the Interior, and in cooperation with the Koshare Indian Museum, to assist in the expansion of the Museum’s storage facility in La Junta, Colorado, to house the collection of Bent’s Old Fort National Historic Site and collections from other National Park Service units.
+
+## § 1. Short title
+
+This Act may be cited as the “Bent’s Old Fort Museum Collections Facility Act of 2010”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(2)** *Museum* The term Museum means the Koshare Indian Museum.
+- **(3)** *NPS* The term NPS means the National Park Service.
+
+## § 3. Findings
+
+Congress finds that—
+
+- **(1)** the Museum, a long-established museum on the Otero Junior College campus in La Junta, Colorado, houses a world-class collection of Plains Indian and other Native American material culture;
+- **(2)** the Museum is planning an expansion of its collections’ storage facility;
+- **(3)** the Museum and Otero Junior College have developed architectural plans for the new facility;
+- **(4)** the expanded collections storage facility could house the collections of Bent’s Old Fort, Sand Creek Massacre, and possibly collections from other National Park System units; and
+- **(5)** NPS staff assigned to the storage facility could manage the NPS collections to NPS standards and assist in the curation of the Museum’s collections.
+
+## § 4. Agreement
+
+- **(a)** *Authorization* The Secretary may enter into a cooperative agreement with the Museum to—
+  - **(1)** assist in the construction and furnishing of an addition to the museum for use as a curatorial center to house the museum collections from Bent’s Old Fort, Sand Creek Massacre, and other units of the National Park System;
+  - **(2)** provide no more than $6,000,000 for the construction and furnishing of the addition to the Museum subject to available appropriations; and
+  - **(3)** house those portions of the collections of Bent’s Old Fort, Sand Creek Massacre, and Washita Battlefield National Historic Sites, and possibly collections from other units of the National Park System, that the Director of the NPS determines appropriate for the facility.
+- **(b)** *Funding* Federal funding provided under subsection (a) shall be matched on a 1:1 Federal to non-Federal basis, and the non-Federal contribution may be in the form of in-kind contributions of goods or services fairly valued.
+- **(c)** *Other conditions* The curatorial addition authorized by this Act shall remain part of the Museum and the Museum shall be responsible for maintenance and operational costs associated with the Museum including the curatorial addition.
+
+## § 5. Use of staff
+
+The Secretary may assign NPS staff to—
+
+- **(1)** provide curatorial services for the NPS museum objects housed at the Museum; and
+- **(2)** to assist with the curation of other objects housed at the Museum.
