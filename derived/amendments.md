@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,12 +32,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking all that precedes “If any class” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of subparagraph (A) (as added by paragraph (1)) the following: “In the case of any class of stock of a real estate investment trust, the preceding sentence shall be applied by substituting 10 percent for 5 percent.”,… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subparagraph (A) (as added by paragraph (1)) the following: “In the case of any class of stock of a real estate investment trust, the preceding sentence shall be applied by substituting 10 percent for 5 percent.”,… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(10 percent in the case of stock of a real estate investment trust)” after “5 percent of such class of stock”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, and any distribution to a qualified shareholder (as defined in subsection (c)(3)(B)(ii)) shall not be treated as gain recognized from the sale or exchange of a United States real property interest to the extent that the s… | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (C) of section 897(c)(6) of such Code is amended by striking “more than 5 percent” and inserting “more than a particular percentage”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “or” at the end of paragraph (2), by inserting “or” at the end of paragraph (3), and by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking all that precedes “any levy in connection with the collection” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | The heading of subsection (f) of section 6330 of such Code is amended by striking “Jeopardy and State refund collection” and inserting “Exceptions”. | the bill names no machine-readable US Code section |
