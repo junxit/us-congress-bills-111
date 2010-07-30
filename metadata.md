@@ -1,7 +1,7 @@
 ---
 measure: S. 3567
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3567
@@ -39,3 +39,18 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2010-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6543; text as passed Senate: CR S6543)
 - 2010-07-30 — Received in the House.
 - 2010-07-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-09-23 — Committee Consideration and Mark-up Session Held.
+- 2010-09-23 — Ordered to be Reported.
+- 2010-11-16 — Cleared for White House.
+- 2010-11-16 — Considered under suspension of the rules. (consideration: CR H7467-7468)
+- 2010-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 3567.
+- 2010-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7467)
+- 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7467)
+- 2010-11-19 — Presented to President.
+- 2010-11-19 — Presented to President.
+- 2010-11-30 — Became Public Law No: 111-288.
+- 2010-11-30 — Became Public Law No: 111-288.
+- 2010-11-30 — Signed by President.
+- 2010-11-30 — Signed by President.
