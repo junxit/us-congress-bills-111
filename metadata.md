@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5900
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5900
@@ -48,3 +48,7 @@ Airline Safety and Federal Aviation Administration Extension Act of 2010
 - 2010-07-30 — Presented to President.
 - 2010-07-30 — Presented to President.
 - 2010-07-30 — Received in the Senate, read twice, considered, read the third time, and agreed to without amendment by Unanimous Consent. (consideration: CR S6541-6543)
+- 2010-08-01 — Became Public Law No: 111-216.
+- 2010-08-01 — Became Public Law No: 111-216.
+- 2010-08-01 — Signed by President.
+- 2010-08-01 — Signed by President.
