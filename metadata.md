@@ -1,7 +1,7 @@
 ---
 measure: S. 1055
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1055
@@ -110,3 +110,19 @@ A bill to grant the congressional gold medal, collectively, to the 100th Infantr
 - 2010-08-02 — Senate amendment agreed to: Amendment SA 4581 agreed to in Senate by Unanimous Consent.
 - 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4581 proposed by Senator Dodd for Senator Boxer.(consideration: CR S6593; text: CR S6593)
 - 2010-08-02 — Senate amendment submitted
+- 2010-08-03 — Message on Senate action sent to the House.
+- 2010-08-09 — Held at the desk.
+- 2010-08-09 — Received in the House.
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — Considered under suspension of the rules. (consideration: CR H6955-6960)
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1055.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. Carson (IN) moved to suspend the rules and pass the bill.
+- 2010-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6955-6956)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6955-6956)
+- 2010-09-28 — Presented to President.
+- 2010-09-28 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-254.
+- 2010-10-05 — Became Public Law No: 111-254.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.
