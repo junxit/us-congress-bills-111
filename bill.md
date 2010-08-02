@@ -31,7 +31,7 @@ Title 17, United States Code, is amended—
     - **(A)** in paragraph (9), by insert “and” after the semicolon;
     - **(B)** by striking paragraph (10); and
     - **(C)** by redesignating paragraph (11) as paragraph (10).
-  - **(2)** The first sentence of section 602(b) of title 17, United States Code, is amended by striking “unless the provisions of section 601 are applicable”
+  - **(2)** The first sentence of section 602(b) of title 17, United States Code, is amended by striking “unless the provisions of section 601 are applicable”.
 
 ## § 4. Clarifications
 
@@ -57,4 +57,4 @@ Title 17, United States Code, is amended—
 
 ## § 6. Budgetary effects
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage .
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.

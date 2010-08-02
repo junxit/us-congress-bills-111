@@ -1,7 +1,7 @@
 ---
 measure: S. 3689
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | The item relating to chapter 6 in the table of chapters for title 17, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (10); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (11) as paragraph (10). | the bill names no machine-readable US Code section |
-| — | strike | The first sentence of section 602(b) of title 17, United States Code, is amended by striking “unless the provisions of section 601 are applicable” | the bill names no machine-readable US Code section |
+| — | strike | The first sentence of section 602(b) of title 17, United States Code, is amended by striking “unless the provisions of section 601 are applicable”. | the bill names no machine-readable US Code section |
 | — | amend | The second sentence of section 201(d)(2), of title 17, United States Code, is amended by adding before the period the following: “, including the right to transfer or license the exclusive right to another person in the absence of a writ… | the bill names no machine-readable US Code section |
 | — | replace | Section 303(b) of title 17, United States Code, is amended by striking “the musical work” and inserting “any musical work, dramatic work, or literary work”. | the bill names no machine-readable US Code section |
 | — | replace | Section 803(b)(6)(A) of title 17, United States Code, is amended by striking the second sentence and inserting: “All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subj… | the bill names no machine-readable US Code section |
