@@ -1,7 +1,7 @@
 ---
 measure: S. 3515
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3515
@@ -30,3 +30,7 @@ Federal Research and Technologies for Oil Spill Prevention and Response Act of 2
 - 2010-06-21 — Introduced in Senate
 - 2010-06-21 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S5205-5206)
 - 2010-06-21 — Sponsor introductory remarks on measure. (CR S5204-5205)
+- 2010-06-30 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-242.
+- 2010-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-242.
+- 2010-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
