@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5981
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5981
@@ -16,9 +16,10 @@ To increase the flexibility of the Secretary of Housing and Urban Development wi
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To increase the flexibility of the Secretary of Housing and Urban Development wi
 - 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6468-6469)
 - 2010-07-30 — Received in the Senate.
 - 2010-07-30 — Referred to the House Committee on Financial Services.
+- 2010-08-02 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
