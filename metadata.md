@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5850
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5850
@@ -238,3 +238,4 @@ Transportation, Housing and Urban Development, and Related Agencies Appropriatio
 - 2010-07-29 — The previous question was ordered pursuant to the rule. (consideration: CR 7/30/2010 H6417)
 - 2010-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2010-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-08-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
