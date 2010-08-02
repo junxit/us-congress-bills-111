@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1055
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,24 +29,28 @@ Congress makes the following findings:
 - **(14)** The 100th Battalion and the 442nd Regimental Combat Team, received 7 Presidential Unit Citations, 21 Medals of Honor, 29 Distinguished Service Crosses, 560 Silver Stars, 4,000 Bronze Stars, 22 Legion of Merit Medals, 15 Soldier's Medals, and over 4,000 Purple Hearts, among numerous additional distinctions.
 - **(15)** The United States remains forever indebted to the bravery, valor, and dedication to country these men faced while fighting a 2-fronted battle of discrimination at home and fascism abroad.
 - **(16)** Their commitment and sacrifice demonstrates a highly uncommon and commendable sense of patriotism and honor.
+- **(17)** The Military Intelligence Service (in this Act referred to as the “MIS”) was made up of about 6,000 Japanese American soldiers who conducted highly classified intelligence operations that proved to be vital to United States military successes in the Pacific Theatre.
+- **(18)** As they were discharged from the Army, MIS soldiers were told not to discuss their wartime work, due to its sensitive nature, and their contributions were not known until passage of the Freedom of Information Act in 1974.
+- **(19)** MIS soldiers were attached individually or in small groups to United States and Allied combat units, where they intercepted radio transmissions, translated enemy documents, interrogated enemy prisoners of war, volunteered for reconnaissance and covert intelligence missions, and persuaded enemy combatants to surrender.
+- **(20)** Their contributions continued during the Allied postwar occupation of Japan, and MIS linguistic skills and understanding of Japanese customs were invaluable to occupation forces as they assisted Japan in a peaceful transition to a new, democratic form of government.
 
 ## § 2. Congressional gold medal
 
-- **(a)** *Award Authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of a single gold medal of appropriate design to the 100th Infantry Battalion and the 442nd Regimental Combat Team, United States Army, collectively, in recognition of their dedicated service during World War II.
+- **(a)** *Award Authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of a single gold medal of appropriate design to the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, collectively, in recognition of their dedicated service during World War II.
 - **(b)** *Design and Striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
 - **(c)** *Smithsonian Institution*
-  - **(1)** *In General* Following the award of the gold medal in honor of the 100th Infantry Battalion and the 442nd Regimental Combat Team, United States Army, under subsection (a), the gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research.
-  - **(2)** *Sense of Congress* It is the sense of the Congress that the Smithsonian Institution should make the gold medal received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with the 100th Infantry Battalion and the 442nd Regimental Combat Team, United States Army.
+  - **(1)** *In General* Following the award of the gold medal in honor of the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, under subsection (a), the gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research.
+  - **(2)** *Sense of Congress* It is the sense of the Congress that the Smithsonian Institution should make the gold medal received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army.
 
 ## § 3. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
 
 ## § 4. National medals
 
 Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
 
-## § 5. Authorization of appropriations; proceeds of sale
+## § 5. Authority to use funds; proceeds of sale
 
-- **(a)** *Authorization of Appropriations* There is authorized to be charged against the United States Mint Public Enterprise Fund, an amount not to exceed $30,000 to pay for the cost of the medal authorized under section 2.
+- **(a)** *Authority To use funds* There is authorized to be charged against the United States Mint Public Enterprise Fund, an amount not to exceed $30,000 to pay for the cost of the medal authorized under section 2.
 - **(b)** *Proceeds of Sale* Amounts received from the sale of duplicate bronze medals under section 3 shall be deposited in the United States Mint Public Enterprise Fund.
