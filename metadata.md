@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3978
@@ -47,3 +47,7 @@ First Responder Anti-Terrorism Training Resources Act
 - 2009-12-15 — Reported by the Committee on Homeland Security. H. Rept. 111-376.
 - 2009-12-15 — Reported by the Committee on Homeland Security. H. Rept. 111-376.
 - 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2010-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
