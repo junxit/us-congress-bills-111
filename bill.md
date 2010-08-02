@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2476
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2476
@@ -11,24 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ski Area Recreational Opportunity Enhancement Act of 2009”.
+This Act may be cited as the “Ski Area Recreational Opportunity Enhancement Act of 2010”.
 
-## § 2. Findings; purpose
+## § 2. Purpose
 
-- **(a)** *Findings* Congress finds that—
-  - **(1)** it is in the national interest to provide, and encourage citizens of the United States to take advantage of, opportunities during all 4 seasons to engage in outdoor recreational activities that could contribute to the health and well-being of the citizens of the United States;
-  - **(2)** as of 2009, under Federal law (including regulations), National Forest System land has been managed in ways that—
-    - **(A)** encourage understanding and appreciation of nature and the importance of conserving natural resources; and
-    - **(B)** provide year-round opportunities for natural resource-based, outdoor-developed recreational activities outside of urban settings;
-  - **(3)** by increasing the extent to which National Forest System land is managed to provide opportunities for outdoor recreational activities, more citizens of the United States may gain the opportunity to engage in such activities;
-  - **(4)** National Forest System land that is used for skiing and other snow-sports can provide additional opportunities for seasonal and year-round recreational activities, which promotes jobs and enhances the economy of local communities that serve these areas as well as the State and the United States;
-  - **(5)** the authorization of increased use of certain National Forest System land for seasonal and year-round recreational activities and associated facilities can reduce the impact of such activities and facilities on other National Forest System land; and
-  - **(6)** it is desirable to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
-    - **(A)** to enable snow-sports (other than nordic and alpine skiing) to be permitted on National Forest System land, subject to ski area permits issued by the Secretary of Agriculture (referred to in this Act as the Secretary) under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
-    - **(B)** to clarify the authority of the Secretary to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land, subject to ski area permits issued by the Secretary under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).
-- **(b)** *Purpose* The purpose of this Act is to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
-  - **(1)** to enable snow-sports (other than nordic and alpine skiing) to be permitted on National Forest System land, subject to ski area permits issued by the Secretary under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
-  - **(2)** to clarify the authority of the Secretary to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land, subject to ski area permits issued by the Secretary under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).
+The purpose of this Act is to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
+
+- **(1)** to enable snow-sports (in addition to nordic and alpine skiing) to be permitted on National Forest System land, subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
+- **(2)** to clarify the authority of the Secretary to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land, subject to ski area permits issued by the Secretary under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).
 
 ## § 3. Ski area permits
 
@@ -39,17 +29,30 @@ Section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b) is
 - **(3)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively;
 - **(4)** by inserting after subsection (b) the following:
   > - **(c)** *Other Recreational Uses*
-  >   - **(1)** *Authority of Secretary* Subject to paragraphs (2) and (3), the Secretary may authorize the holder of a ski area permit issued pursuant to subsection (b) to provide on National Forest System land subject to the ski area permit such other seasonal or year-round natural resource-based, outdoor-developed recreational activities and associated facilities (in addition to skiing and other snow-sports) as the Secretary determines to be appropriate.
-  >   - **(2)** *Requirement of activities and facilities* Each activity and facility authorized by the Secretary under paragraph (1) shall—
-  >     - **(A)** encourage outdoor recreation;
-  >     - **(B)** to the extent practicable, harmonize with the natural environment of the National Forest System land on which the activity or facility is located; and
-  >     - **(C)** be subject to such terms and conditions as the Secretary determines to be appropriate.
-  >   - **(3)** *Limitation* The Secretary may not authorize any activity or facility under paragraph (1) if the Secretary determines that the authorization of the activity or facility would result in the primary recreational purpose of a National Forest System land that is subject to a ski area permit to be a purpose other than skiing or any other snow-sport.
+  >   - **(1)** *Authority of Secretary* Subject to paragraphs (2) and (3), the Secretary may authorize the holder of a ski area permit issued pursuant to subsection (b) to provide on National Forest System land subject to the ski area permit such other seasonal or year-round natural resource-based recreational activities and associated facilities or improvements (in addition to skiing and other snow-sports) as the Secretary determines to be appropriate.
+  >   - **(2)** *Requirements* Any activity, facility, or improvement authorized by the Secretary under paragraph (1) shall—
+  >     - **(A)** encourage outdoor recreation and enjoyment of nature;
+  >     - **(B)** to the extent practicable, harmonize with the natural environment of the National Forest System land on which the activity, facility, or improvement is located;
+  >     - **(C)** to the extent practicable, be located within the portions of the ski permit area that are developed to support skiing and other snow sports;
+  >     - **(D)** be consistent with the applicable forest management plan and all other applicable laws; and
+  >     - **(E)** be subject to such terms and conditions as the Secretary determines to be appropriate.
+  >   - **(3)** *No change in purpose*
+  >     - **(A)** *Purpose test* The Secretary may not authorize an activity, facility, or improvement under paragraph (1) if the Secretary determines that the authorization of the activity, facility, or improvement would result in the primary recreational purpose of the National Forest System land subject to the ski area permit to be a purpose other than skiing or any other snow-sport.
+  >     - **(B)** *Revenue test* To ensure that National Forest System lands subject to a ski area permit continue to be used predominately for skiing and other snow sports, the Secretary may authorize an activity, facility, or improvement under paragraph (1) only to the extent that the majority of the revenue of the ski area is generated by the sale of lift tickets and fees for ski and other snow-sport rentals, skiing and other snow-sport instruction, ski trail passes for the use of trails maintained by the permit holder, and ancillary facilities related to the operation and support of skiing and other snow-sport activities.
+  >   - **(4)** *Boundary changes* When determining the boundary of a ski area permit under subsection (b)(3), the Secretary shall not consider the need for activities other than skiing and other snow-sports.
+  >   - **(5)** *Effect on existing authorized activities and facilities* Nothing in this subsection affects any activity or facility authorized by a ski area permit in effect on the date of enactment of this subsection during the term of the permit.
 
 - **(5)** in subsection (d) (as redesignated by paragraph (3))—
-  - **(A)** by striking “Within one year after the date of enactment of this Act, the” and inserting “Not later than 1 year after the date of enactment of the Ski Area Recreational Opportunity Enhancement Act of 2009, the”; and
+  - **(A)** by striking “Within one year after the date of enactment of this Act, the” and inserting “Not later than 18 months after the date of enactment of the Ski Area Recreational Opportunity Enhancement Act of 2010, the”; and
   - **(B)** by striking “within 3 years of the date of enactment of this Act”.
 
 ## § 4. Effect
 
-Nothing in this Act (including an amendment made by this Act) affects any authority of the Secretary (including the authority of the Secretary with respect to recreational activities or facilities located on National Forest System land) under any Federal law (including regulations) other than the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).
+Nothing in this Act (including the amendments made by this Act) affects—
+
+- **(1)** any authority of the Secretary of Agriculture (including the authority of the Secretary with respect to recreational activities or infrastructure located on National Forest System land) under any Federal law (including regulations) other than the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
+- **(2)** any duty of the Secretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+## § 5. Statutory Pay-As-You-Go language
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
