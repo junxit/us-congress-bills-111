@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5981
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5981
@@ -34,3 +34,15 @@ To increase the flexibility of the Secretary of Housing and Urban Development wi
 - 2010-07-30 — Received in the Senate.
 - 2010-07-30 — Referred to the House Committee on Financial Services.
 - 2010-08-02 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-08-04 — Cleared for White House.
+- 2010-08-04 — Passed Senate without amendment by Unanimous Consent.
+- 2010-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-08-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6741)
+- 2010-08-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6741)
+- 2010-08-05 — Message on Senate action sent to the House.
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Presented to President.
+- 2010-08-11 — Became Public Law No: 111-229.
+- 2010-08-11 — Became Public Law No: 111-229.
+- 2010-08-11 — Signed by President.
+- 2010-08-11 — Signed by President.

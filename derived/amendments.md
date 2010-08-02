@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5981
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,31 +22,15 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Executed
+## Stated, not applied
 
-### 12 U.S.C. § 1709
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-> by striking “shall” and inserting “may”; and
-
-| | |
-|---|---|
-| Removed | `shall` |
-| Inserted | `may` |
-
-### 12 U.S.C. § 1709
-
-> by striking “0.50 percent” and inserting “1.5 percent”; and
-
-| | |
-|---|---|
-| Removed | `0.50 percent` |
-| Inserted | `1.5 percent` |
-
-### 12 U.S.C. § 1709
-
-> in clause (ii), by striking “shall be in an amount not exceeding 0.55 percent” and inserting “may be in an amount not exceeding 1.55 percent”.
-
-| | |
-|---|---|
-| Removed | `shall be in an amount not exceeding 0.55 percent` |
-| Inserted | `may be in an amount not exceeding 1.55 percent` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | by striking “shall” and inserting “may”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “0.50 percent” and inserting “1.5 percent”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “shall be in an amount not exceeding 0.55 percent” and inserting “may be in an amount not exceeding 1.55 percent”. | the bill names no machine-readable US Code section |
