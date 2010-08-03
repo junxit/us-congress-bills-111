@@ -1,7 +1,7 @@
 ---
 measure: S. 1448
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1448
@@ -28,3 +28,7 @@ A bill to amend the Act of August 9, 1955, to authorize the Coquille Indian Trib
 
 - 2009-07-14 — Introduced in Senate
 - 2009-07-14 — Read twice and referred to the Committee on Indian Affairs.
+- 2010-06-10 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2010-08-03 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-245.
+- 2010-08-03 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-245.
+- 2010-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
