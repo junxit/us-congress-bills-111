@@ -1,7 +1,7 @@
 ---
 measure: S. 3397
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3397
@@ -16,7 +16,7 @@ Secure and Responsible Drug Disposal Act of 2010
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -26,6 +26,8 @@ Secure and Responsible Drug Disposal Act of 2010
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -39,3 +41,5 @@ Secure and Responsible Drug Disposal Act of 2010
 - 2010-07-29 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2010-07-29 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2010-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.
+- 2010-08-03 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6666-6667; text as passed Senate: CR S6666-6667)
+- 2010-08-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6666-6667; text as passed Senate: CR S6666-6667)
