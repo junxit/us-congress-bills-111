@@ -1,7 +1,7 @@
 ---
 measure: S. 2906
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a), in the second sentence, by inserting “and land held in trust for the Kalispel Tribe of Indians” after “the Kalispel Indian Reservation”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b), by inserting “, the Puyallup Tribe, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), in the second sentence, by inserting “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b), by inserting “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”. | the bill names no machine-readable US Code section |

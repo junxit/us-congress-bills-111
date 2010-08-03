@@ -1,7 +1,7 @@
 ---
 measure: S. 2906
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2906
@@ -28,3 +28,7 @@ A bill to amend the Act of August 9, 1955, to modify a provision relating to lea
 
 - 2009-12-18 — Introduced in Senate
 - 2009-12-18 — Read twice and referred to the Committee on Indian Affairs.
+- 2010-06-10 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2010-08-03 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-246.
+- 2010-08-03 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-246.
+- 2010-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.

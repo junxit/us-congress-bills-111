@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2906
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,5 +13,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 The first section of the Act of August 9, 1955 (25 U.S.C. 415), is amended—
 
-- **(1)** in subsection (a), in the second sentence, by inserting “and land held in trust for the Kalispel Tribe of Indians” after “the Kalispel Indian Reservation”; and
-- **(2)** in subsection (b), by inserting “, the Puyallup Tribe, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
+- **(1)** in subsection (a), in the second sentence, by inserting “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”; and
+- **(2)** in subsection (b), by inserting “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
