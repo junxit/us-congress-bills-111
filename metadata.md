@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 596
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 596
@@ -47,3 +47,7 @@ A resolution to designate September 25, 2010, as "National Estuaries Day".
 
 - 2010-07-28 — Introduced in Senate
 - 2010-07-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6441)
+- 2010-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6667-6668)
+- 2010-08-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6667-6668)
+- 2010-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6667-6668)
+- 2010-08-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6667-6668)
