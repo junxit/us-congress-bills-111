@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5730
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5730
@@ -20,9 +20,10 @@ Surface Transportation Earmark Rescission, Savings, and Accountability Act
 
 - Rep. Flake, Jeff [R-AZ-6] (F000444)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,5 @@ Surface Transportation Earmark Rescission, Savings, and Accountability Act
 - 2010-07-27 — Ms. Markey (CO) moved to suspend the rules and pass the bill.
 - 2010-07-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 23 (Roll no. 471). (text: CR H6068)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 23 (Roll no. 471).(text: CR H6068)
+- 2010-07-28 — Received in the Senate.
+- 2010-08-03 — Read twice and referred to the Committee on Environment and Public Works.
