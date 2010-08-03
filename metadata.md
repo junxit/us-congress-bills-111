@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5901
@@ -40,3 +40,5 @@ An act to amend the Internal Revenue Code of 1986 to authorize the tax court to 
 - 2010-07-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 11 (Roll no. 502). (text: CR H6429-6430)
 - 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 11 (Roll no. 502).(text: CR H6429-6430)
+- 2010-08-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-08-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
