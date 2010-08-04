@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5283
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5283
 
-That the bill from the House of Representatives (H.R. 5283) entitled “An Act to provide for adjustment of status for certain Haitian orphans paroled into the United States after the earthquake of January 12, 2010.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for adjustment of status for certain Haitian orphans paroled into the United States after the earthquake of January 12, 2010.
 
 ## § 1. Short title
 

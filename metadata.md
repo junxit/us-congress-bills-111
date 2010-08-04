@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5283
@@ -64,3 +64,16 @@ Help HAITI Act of 2010
 - 2010-08-04 — Senate amendment agreed to: Amendment SA 4587 agreed to in Senate by Unanimous Consent.
 - 2010-08-04 — Senate amendment proposed (on the floor): Amendment SA 4587 proposed by Senator Landrieu for Senator Gillibrand.(consideration: CR S6740; text: CR S6740)
 - 2010-08-04 — Senate amendment submitted
+- 2010-08-05 — Message on Senate action sent to the House.
+- 2010-12-01 — Cleared for White House.
+- 2010-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5283.
+- 2010-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-01 — Mr. Conyers moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7819-7821)
+- 2010-12-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7819)
+- 2010-12-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7819)
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-09 — Became Public Law No: 111-293.
+- 2010-12-09 — Became Public Law No: 111-293.
+- 2010-12-09 — Signed by President.
+- 2010-12-09 — Signed by President.
