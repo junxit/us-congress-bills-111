@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5283
@@ -16,7 +16,7 @@ Help HAITI Act of 2010
 
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -36,6 +36,8 @@ Help HAITI Act of 2010
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Moran, Jerry [R-KS-1] (M000934)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (1)
 
@@ -54,3 +56,11 @@ Help HAITI Act of 2010
 - 2010-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5785)
 - 2010-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5785)
 - 2010-07-21 — Received in the Senate.
+- 2010-08-04 — Amendment SA 4587 agreed to in Senate by Unanimous Consent.
+- 2010-08-04 — Amendment SA 4587 proposed by Senator Landrieu for Senator Gillibrand. (consideration: CR S6740; text: CR S6740) In the nature of a substitute.
+- 2010-08-04 — Measure laid before Senate by unanimous consent. (consideration: CR S6740)
+- 2010-08-04 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-04 — Senate amendment agreed to: Amendment SA 4587 agreed to in Senate by Unanimous Consent.
+- 2010-08-04 — Senate amendment proposed (on the floor): Amendment SA 4587 proposed by Senator Landrieu for Senator Gillibrand.(consideration: CR S6740; text: CR S6740)
+- 2010-08-04 — Senate amendment submitted
