@@ -1,7 +1,7 @@
 ---
 measure: H.R. 86
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 86
@@ -52,3 +52,8 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 - 2009-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 4 (Roll no. 946).(text: CR 12/07/2009 H13534)
 - 2009-12-09 — The title of the measure was amended. Agreed to without objection.
 - 2009-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-04-28 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-269.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-269.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 539.
