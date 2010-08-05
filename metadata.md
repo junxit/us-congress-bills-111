@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 111
-version: Engrossed Amendment Senate
+version: Reported to Senate
 ---
 
 # H.R. 1517
