@@ -1,7 +1,7 @@
 ---
 measure: S. 3307
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-154 amendatory instructions. 0 executed, 154 stated and not applied.
+156 amendatory instructions. 0 executed, 156 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,36 +32,37 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in the paragraph heading, by striking “food stamp” and inserting “supplemental nutrition assistance program”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9(b)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(4)) (as amended by subsection (a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9(b)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(4)) (as amended by subsection (b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | in clause (iv), by adding “)” before the semicolon at the end; | the bill names no machine-readable US Code section |
 | — | strike | in clause (v), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause (vi), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9(b) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F)(ii), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1902(a)(7) of the Social Security Act (42 U.S.C. 1396a(a)(7)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (I), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (J)(ii), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 11(a)(1)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)(B)) is amended by striking “or (E)” and inserting “(E), or (F)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 11 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 13(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(a)) is amended by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 13(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 13(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(a)) (as amended by section 112) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 17(f)(3)(A)(ii)(I)(bb) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(f)(3)(A)(ii)(I)(bb)) is amended by striking “elementary”. | the bill names no machine-readable US Code section |
 | — | replace | Section 17(r) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(r)) is amended by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 17(d)(3)(A) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(d)(3)(A)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 17(d)(3)(A) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(d)(3)(A)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Richard B. Russell National School Lunch Act is amended by inserting after section 22 (42 U.S.C. 1769c) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) is amended by inserting after section 23 (as added by section 141) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4(b) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1753(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -80,7 +81,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “(a) Grant authority” and all that follows through the end of paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (g) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), in the second sentence, by striking “supplemental foods and nutrition education through any eligible local agency” and inserting “supplemental foods and nutrition education, including breastfeeding promotion and suppor… | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(4), by inserting “breastfeeding support and promotion,” after “nutrition education,”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1), in the first sentence, by striking “supplemental foods and nutrition education to” and inserting “supplemental foods, nutrition education, and breastfeeding support and promotion to”; | the bill names no machine-readable US Code section |
@@ -100,8 +101,9 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 9(a)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(a)(4)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (h) and (i) and subsection (j) (as added by section 210) as subsections (i) through (k), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g), by striking “(g) Access to local foods and school gardens.—” and all that follows through “(3) Pilot program for high-poverty schools.—” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F) of paragraph (1) (as so redesignated), by striking “in accordance with paragraph (1)(H)” and inserting “carried out by the Secretary”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (4) as paragraph (2). | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F) of paragraph (1) (as so redesignated), by striking “in accordance with paragraph (1)(H)” and inserting “carried out by the Secretary”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as paragraph (2); and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) (as so redesignated), by striking “2009” and inserting “2015”. | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence, by inserting “the last 4 digits of” before “the social security account number”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Each school food” and inserting the following: | the bill names no machine-readable US Code section |
@@ -113,7 +115,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 13(b) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(b)) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (q) as subsection (r); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (p) the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 17(d)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(d)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 17(d)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(d)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 17(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(d)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “may” and inserting “shall”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “family or group day care” the first place it appears; and | the bill names no machine-readable US Code section |
@@ -131,7 +133,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 17(h) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(h)) is amended by striking paragraph (12) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 17(h) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(h)) is amended by striking paragraph (13) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 17(i) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(i)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 17(f)(11) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(f)(11)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 12 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 12 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760) (as amended by section 206) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 6(e)(1)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755(e)(1)(B)) is amended by striking “September 30, 2010” and inserting “September 30, 2020”. | the bill names no machine-readable US Code section |
@@ -146,7 +147,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (3) (as so redesignated), by striking “subparagraphs (A) and (B)” and inserting “paragraphs (1) and (2)”. | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause(ii), by striking the period at the end and inserting “; and” | the bill names no machine-readable US Code section |
-| — | amend | and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 22(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769c(d)) is amended by striking “$6,000,000 for each of fiscal years 2004 through 2009” and inserting “$10,000,000 for each of fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 26(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769g(d)) is amended in the first sentence by striking “2005 through 2010” and inserting “2010 through 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7(i)(4) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(i)(4)) is amended by striking “2005 through 2009” and inserting “2010 through 2015”. | the bill names no machine-readable US Code section |
@@ -172,8 +173,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) is amended by striking subsection (p). | the bill names no machine-readable US Code section |
 | — | strike | Section 17(q) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(q)) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | strike | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by striking subsection (a). | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (1) and (2); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (1) and (2), respectively. | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraphs (1) and (2); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (1) and (2), respectively; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) (as so redesignated), by striking “In addition to the pilot projects described in this subsection, the Secretary may conduct other” and inserting “The Secretary may conduct”. | the bill names no machine-readable US Code section |
 | — | strike | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by striking subsection (d). | the bill names no machine-readable US Code section |
 | — | strike | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by striking subsection (e). | the bill names no machine-readable US Code section |
 | — | strike | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by striking subsection (f). | the bill names no machine-readable US Code section |
@@ -182,6 +184,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (B). | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (D) and subparagraph (E) (as added by section 353) as subparagraphs (C) and (D), respectively. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “$1,588,000,000” and inserting “$1,447,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking “$1,750,000,000” and inserting “$1,447,000,000”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (D) as subparagraph (C). | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting before the period at the end “, if the value of the benefits and block grants would be greater under that calculation than in the absence of this subsection”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: S. 3307
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3307
@@ -16,6 +16,10 @@ Healthy, Hunger-Free Kids Act of 2010
 
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 
+## Cosponsors (1)
+
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+
 ## Committees (1)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
@@ -26,3 +30,11 @@ Healthy, Hunger-Free Kids Act of 2010
 - 2010-05-05 — Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Lincoln. With written report No. 111-178. Additional and Supplemental views filed.
 - 2010-05-05 — Introduced in Senate
 - 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 363.
+- 2010-08-05 — Amendment SA 4589 agreed to in Senate by Unanimous Consent.
+- 2010-08-05 — Amendment SA 4589 proposed by Senator Lincoln. (consideration: CR S6832) In the nature of a substitute.
+- 2010-08-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6832-6835)
+- 2010-08-05 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-05 — Senate amendment agreed to: Amendment SA 4589 agreed to in Senate by Unanimous Consent.
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4589 proposed by Senator Lincoln.(consideration: CR S6832)
+- 2010-08-05 — Senate amendment submitted
