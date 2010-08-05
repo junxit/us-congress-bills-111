@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4692
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4692
@@ -79,10 +79,11 @@ National Manufacturing Strategy Act of 2010
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -114,3 +115,5 @@ National Manufacturing Strategy Act of 2010
 - 2010-07-28 — Placed on the Union Calendar, Calendar No. 331.
 - 2010-07-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-574, Part I.
 - 2010-07-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-574, Part I.
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
