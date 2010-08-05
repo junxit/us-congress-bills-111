@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2741
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2741
@@ -41,3 +41,8 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2009-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9757)
 - 2009-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9757)
 - 2009-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-04-27 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-275.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-275.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
