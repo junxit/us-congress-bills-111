@@ -2,17 +2,11 @@
 legis-num: H.R. 3562
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3562
 
-> To designate the federally occupied building located at 1220 Echelon Parkway in Jackson, Mississippi, as the “James Chaney, Andrew Goodman, and Michael Schwerner Federal Building”.
+That the bill from the House of Representatives (H.R. 3562) entitled “An Act to designate the federally occupied building located at 1220 Echelon Parkway in Jackson, Mississippi, as the “James Chaney, Andrew Goodman, and Michael Schwerner Federal Building”.”, do pass with the following
 
-## § 1. Building designation
-
-The Administrator of General Services shall ensure that the federally occupied building located at 1220 Echelon Parkway in Jackson, Mississippi, is known and designated as the “James Chaney, Andrew Goodman, and Michael Schwerner Federal Building”.
-
-## § 2. References
-
-With respect to the period in which the building referred to in section 1 is federally occupied, any reference in a law, map, regulation, document, paper, or other record of the United States to that building shall be deemed to be a reference to the “James Chaney, Andrew Goodman, and Michael Schwerner Federal Building”.
+*Strike out all after the enacting clause and insert:*
