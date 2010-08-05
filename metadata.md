@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5414
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5414
@@ -16,9 +16,10 @@ To provide for the conveyance of a small parcel of National Forest System land i
 
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,5 @@ To provide for the conveyance of a small parcel of National Forest System land i
 - 2010-07-30 — Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.
 - 2010-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 504). (text: CR H6444)
 - 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 504).(text: CR H6444)
+- 2010-08-02 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
