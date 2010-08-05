@@ -1,7 +1,7 @@
 ---
 measure: S. 1703
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The term” and inserting “Effective beginning on June 18, 1934, the term”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “any recognized Indian tribe now under Federal jurisdiction” and inserting “any federally recognized Indian tribe”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the third sentence and inserting the following: “In this section, the term ‘Indian tribe’ means any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to… | the bill names no machine-readable US Code section |
+| — | replace | by striking “The term” and inserting “Effective beginning on June 18, 1934, the term”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “any recognized Indian tribe now under Federal jurisdiction” and inserting “any federally recognized Indian tribe”. | the bill names no machine-readable US Code section |
