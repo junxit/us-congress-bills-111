@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3804
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3804
@@ -51,3 +51,8 @@ National Park Service Authorities and Corrections Act of 2009
 - 2009-12-07 — Reported by the Committee on Natural Resources. H. Rept. 111-360, Part I.
 - 2009-12-07 — Reported by the Committee on Natural Resources. H. Rept. 111-360, Part I.
 - 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-03-17 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-276.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-276.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.
