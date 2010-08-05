@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1875
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1875
@@ -32,9 +32,10 @@ To establish the Emergency Trade Deficit Commission.
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -48,3 +49,5 @@ To establish the Emergency Trade Deficit Commission.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6183-6185)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6183-6185)
 - 2010-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Finance.
