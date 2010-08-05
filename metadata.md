@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5156
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5156
@@ -37,10 +37,11 @@ Clean Energy Technology Manufacturing and Export Assistance Act of 2010
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -62,3 +63,5 @@ Clean Energy Technology Manufacturing and Export Assistance Act of 2010
 - 2010-07-28 — Mr. Deutch moved to suspend the rules and pass the bill, as amended.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6179-6180)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6179-6180)
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
