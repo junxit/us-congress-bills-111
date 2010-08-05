@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 266
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 266
@@ -122,9 +122,10 @@ Expressing the sense of Congress that Taiwan should be accorded observer status 
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -139,3 +140,5 @@ Expressing the sense of Congress that Taiwan should be accorded observer status 
 - 2010-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/29/2010 H6083)
 - 2010-07-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/29/2010 H6083)
+- 2010-08-02 — Received in the Senate.
+- 2010-08-05 — Referred to the Committee on Foreign Relations.
