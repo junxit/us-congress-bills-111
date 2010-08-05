@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1517
@@ -60,3 +60,9 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - 2009-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972). (text: CR H14887-14888)
 - 2009-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 414 - 1 (Roll no. 972).(text: CR H14887-14888)
 - 2009-12-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-248.
+- 2010-08-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-248.
+- 2010-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6978; text: CR S6978)
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6978; text: CR S6978)
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
