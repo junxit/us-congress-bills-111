@@ -1,7 +1,7 @@
 ---
 measure: H.R. 601
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 601
@@ -40,3 +40,7 @@ Box Elder Utah Land Conveyance Act
 - 2009-02-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 1 (Roll no. 74). (text: CR H1626-1627)
 - 2009-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 1 (Roll no. 74).(text: CR H1626-1627)
 - 2009-02-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-271.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-271.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.
