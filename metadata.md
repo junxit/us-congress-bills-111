@@ -1,7 +1,7 @@
 ---
 measure: S. 3107
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3107
@@ -39,3 +39,8 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2010
 - 2010-03-11 — Introduced in Senate
 - 2010-03-11 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S1461)
 - 2010-03-11 — Sponsor introductory remarks on measure. (CR S1460-1461)
+- 2010-05-19 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 111-623.
+- 2010-08-05 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-281.
+- 2010-08-05 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 111-281.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
