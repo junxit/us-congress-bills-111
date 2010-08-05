@@ -15,7 +15,7 @@ This Act may be cited as “Rosa's Law”.
 
 ## § 2. Individuals with intellectual disabilities
 
-- **(a)** *Higher Education Act of 1965* Section 760(2)(A) of the Higher Education Act of 1965 (20 U.S.C. 1140(2)(A)) is amended by striking “with mental retardation or”.
+- **(a)** *Higher Education Act of 1965* Section 760(2)(A) of the Higher Education Act of 1965 (20 U.S.C. 1140(2)(A)) is amended by striking “mental retardation or”.
 - **(b)** *Individuals with Disabilities Education Act*
   - **(1)** Section 601(c)(12)(C) of the Individuals with Disabilities Education Act (20 U.S.C. 1400(c)(12)(C)) is amended by striking “having mental retardation” and inserting “having intellectual disabilities”.
   - **(2)** Section 602 of such Act (20 U.S.C. 1401) is amended—
@@ -25,7 +25,7 @@ This Act may be cited as “Rosa's Law”.
 - **(d)** *Rehabilitation Act of 1973*
   - **(1)** Section 7(21)(A)(iii) of the Rehabilitation Act of 1973 (29 U.S.C. 705(21)(A)(iii)) is amended by striking “mental retardation,” and inserting “intellectual disability,”.
   - **(2)** Section 204(b)(2)(C)(vi) of such Act (29 U.S.C. 764(b)(2)(C)(vi)) is amended by striking “mental retardation and other developmental disabilities” and inserting “intellectual disabilities and other developmental disabilities”.
-  - **(3)** Section 501(a) of such Act (29 U.S.C. 791(a)) is amended, in the third sentence, by striking “President's Committees on Employment of People With Disabilities and on Mental Retardation” and inserting “President's Committee on Employment of People with Disabilities and the President's Committee for People with Intellectual Disabilities”.
+  - **(3)** Section 501(a) of such Act (29 U.S.C. 791(a)) is amended, in the third sentence, by striking “President's Committees on Employment of People With Disabilities and on Mental Retardation” and inserting “President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities”.
 - **(e)** *Health Research and Health Services Amendments of 1976* Section 1001 of the Health Research and Health Services Amendments of 1976 (42 U.S.C. 217a–1) is amended by striking “the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963,”.
 - **(f)** *Public Health Service Act*
   - **(1)** Section 317C(a)(4)(B)(i) of the Public Health Service Act (42 U.S.C. 247b–4(a)(4)(B)(i)) is amended by striking “mental retardation;” and inserting “intellectual disabilities;”.
@@ -42,14 +42,9 @@ This Act may be cited as “Rosa's Law”.
 - **(h)** *Public Law 110–154* Section 1(a)(2)(B) of Public Law 110–154 (42 U.S.C. 285g note) is amended by striking “mental retardation” and inserting “intellectual disabilities”.
 - **(i)** *National Sickle Cell Anemia, Cooley's Anemia, Tay-Sachs, and Genetic Diseases Act* Section 402 of the National Sickle Cell Anemia, Cooley's Anemia, Tay-Sachs, and Genetic Diseases Act (42 U.S.C. 300b–1 note) is amended by striking “leading to mental retardation” and inserting “leading to intellectual disabilities”.
 - **(j)** *Genetic Information Nondiscrimination Act of 2008* Section 2(2) of the Genetic Information Nondiscrimination Act of 2008 (42 U.S.C. 2000ff note) is amended by striking “mental retardation,” and inserting “intellectual disabilities,”.
-- **(k)** *Developmental Disabilities Assistance and Bill of Rights Act of 2000*
-  - **(1)** Section 109(a)(4)(B)(i) of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15009(a)(4)(B)(i)) is amended by striking “the mentally retarded” and inserting “individuals with intellectual disabilities”.
-  - **(2)** Sections 124(c)(3)(C)(vii) and 143(a)(3)(A) of such Act (42 U.S.C. 15024(c)(3)(C)(vii), 15043(a)(3)(A)) are amended—
-    - **(A)** by striking “(a)(30)(C)” each place it appears and inserting “(a)(31)”; and
-    - **(B)** by striking “Intermediate Care Facility (Mental Retardation)” and inserting “intermediate care facility described in that section”.
-- **(l)** *References* For purposes of each provision amended by this section—
-  - **(1)** a reference to an intellectual disability shall be considered to refer to mental retardation, as defined for that provision on the day before the date of enactment of this Act; and
-  - **(2)** a reference to individuals with intellectual disabilities shall be considered to refer to the mentally retarded, or individuals who are mentally retarded, as defined for that provision on that day.
+- **(k)** *References* For purposes of each provision amended by this section—
+  - **(1)** a reference to “an intellectual disability” shall mean a condition previously referred to as “mental retardation”, or a variation of this term, and shall have the same meaning with respect to programs, or qualifications for programs, for individuals with such a condition; and
+  - **(2)** a reference to individuals with intellectual disabilities shall mean individuals who were previously referred to as individuals who are “individuals with mental retardation” or “the mentally retarded”, or variations of those terms.
 
 ## § 3. Regulations
 
@@ -64,4 +59,7 @@ For purposes of regulations issued to carry out a provision amended by this Act�
 
 ## § 4. Rule of construction
 
-Nothing in this Act shall be construed to alter or otherwise affect the eligibility for services or the rights or responsibilities, under a provision amended by this Act, of individuals covered by the provision on the day before the date of enactment of this Act.
+This Act shall be construed to make amendments to provisions of Federal law to substitute the term “an intellectual disability” for “mental retardation”, and “individuals with intellectual disabilities” for “the mentally retarded” or “individuals who are mentally retarded”, without any intent to—
+
+- **(1)** change the coverage, eligibility, rights, responsibilities, or definitions referred to in the amended provisions; or
+- **(2)** compel States to change terminology in State laws for individuals covered by a provision amended by this Act.

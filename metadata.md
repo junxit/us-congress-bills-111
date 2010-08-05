@@ -1,7 +1,7 @@
 ---
 measure: S. 2781
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2781
@@ -76,3 +76,5 @@ Rosa's Law
 - 2010-08-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 111-244.
 - 2010-08-03 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. With written report No. 111-244.
 - 2010-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
+- 2010-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6976-6977; text as passed Senate: CR S6976)
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6976-6977; text as passed Senate: CR S6976)
