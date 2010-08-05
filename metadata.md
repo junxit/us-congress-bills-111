@@ -1,7 +1,7 @@
 ---
 measure: S. 1674
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1674
@@ -16,7 +16,7 @@ Improving Access to Clinical Trials Act of 2009
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Cosponsors (19)
+## Cosponsors (21)
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
@@ -37,6 +37,8 @@ Improving Access to Clinical Trials Act of 2009
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (1)
 
@@ -51,3 +53,19 @@ Improving Access to Clinical Trials Act of 2009
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6979-6980)
 - 2010-08-05 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6979-6980)
 - 2010-08-05 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S6979-6980)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-09 — Held at the desk.
+- 2010-08-09 — Received in the House.
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — Considered under suspension of the rules. (consideration: CR H6891-6896)
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1674.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. McDermott moved to suspend the rules and pass the bill.
+- 2010-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6892)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6892)
+- 2010-09-24 — Presented to President.
+- 2010-09-24 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-255.
+- 2010-10-05 — Became Public Law No: 111-255.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.
