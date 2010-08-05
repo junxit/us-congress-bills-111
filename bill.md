@@ -2,7 +2,7 @@
 legis-num: H.R. 5320
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5320
@@ -45,27 +45,28 @@ Section 1452(a)(2) (42 U.S.C. 300j–12(a)(2)) is amended—
 - **(1)** by striking “Except as otherwise” and inserting the following:
   > - **(A)** *In general* Except as otherwise
 
-- **(2)** by striking “Financial assistance under this section” and inserting the following:
+- **(2)** by striking “, or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in a State loan fund established under paragraph (1),”;
+- **(3)** by striking “Financial assistance under this section” and inserting the following:
   > - **(B)** *Permissible expenditures* Financial assistance under this section
 
-- **(3)** by striking “The funds may also be used” and inserting the following:
+- **(4)** by striking “The funds may also be used” and inserting the following:
   > - **(D)** *Certain loans* Financial assistance under this section may also be used
 
-- **(4)** by striking “The funds shall not be used” and inserting the following:
+- **(5)** by striking “The funds shall not be used” and inserting the following:
   > - **(E)** *Limitation* Financial assistance under this section shall not be used
 
-- **(5)** by striking “Of the amount credited” and inserting the following:
+- **(6)** by striking “Of the amount credited” and inserting the following:
   > - **(F)** *Set-aside* Of the amount credited
 
-- **(6)** in subparagraph (B) (as designated by paragraph (2)) by striking “(not” and inserting “(including expenditures for planning, design, siting, and associated preconstruction activities, for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, or for producing or capturing sustainable energy on site or through the transportation of water through the public water system, but not”; and
-- **(7)** by inserting after such subparagraph (B) the following:
+- **(7)** in subparagraph (B) (as designated by paragraph (3)) by striking “(not” and inserting “(including expenditures for planning, design, siting, and associated preconstruction activities, for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, or for producing or capturing sustainable energy on site or through the transportation of water through the public water system, but not”; and
+- **(8)** by inserting after such subparagraph (B) the following:
   > - **(C)** *Sale of bonds* If a State issues revenue or general obligation bonds to provide all or part of the State contribution required by subsection (e), and the proceeds of the sale of such bonds will be deposited into the State loan fund—
   >   - **(i)** financial assistance made available under this section may be used by the State as security for payment of the principal and interest on such bonds; and
   >   - **(ii)** interest earnings of the State loan fund may be used by the State as revenue for payment of the principal and interest on such bonds.
 
 ## § 5. Requirements for use of American materials
 
-Section 1452(a) (42 U.S.C. 300j-12(a)) is amended by adding at the end the following new paragraph:
+Section 1452(a) (42 U.S.C. 300j–12(a)) is amended by adding at the end the following new paragraph:
 
 > - **(4)** *Requirements for use of American materials*
 >   - **(A)** *In general* Notwithstanding any other provision of law, none of the funds made available by a State loan fund as authorized under this section may be used for a project for the construction, alteration, maintenance, or repair of a public water system unless the steel, iron, and manufactured goods used in such project are produced in the United States.
@@ -353,7 +354,7 @@ Subsection (a) of section 1442 (42 U.S.C. 300j–1) is amended by adding at the 
 
 ## § 20. Electronic reporting of compliance monitoring data to the Administrator
 
-- **(a)** *Requirement* Section 1414 (42 U.S.C. 300g-3), as amended, is further amended by adding at the end the following:
+- **(a)** *Requirement* Section 1414 (42 U.S.C. 300g–3), as amended, is further amended by adding at the end the following:
   > - **(k)** *Electronic reporting of compliance monitoring data to the Administrator* The Administrator shall by rule establish requirements for—
   >   - **(1)** electronic submission by public water systems of all compliance monitoring data—
   >     - **(A)** to the Administrator; or
@@ -361,3 +362,7 @@ Subsection (a) of section 1442 (42 U.S.C. 300j–1) is amended by adding at the 
   >   - **(2)** electronic submission to the Administrator by each State which has primary enforcement responsibility under section 1413 of all compliance monitoring data submitted to such State by public water systems pursuant to paragraph (1)(B).
 
 - **(b)** *Final rule* Not later than 12 months after the date of the enactment of this Act, the Administrator of the Environmental Protection Agency shall issue a final rule to carry out section 1414(k) of the Safe Drinking Water Act, as added by subsection (a).
+
+## § 21. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5320
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5320
@@ -20,9 +20,10 @@ Assistance, Quality, and Affordability Act of 2010
 
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -37,3 +38,11 @@ Assistance, Quality, and Affordability Act of 2010
 - 2010-07-01 — Placed on the Union Calendar, Calendar No. 297.
 - 2010-07-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-524.
 - 2010-07-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-524.
+- 2010-07-30 — Considered under suspension of the rules. (consideration: CR H6431-6440)
+- 2010-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5320.
+- 2010-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-30 — Mr. Markey (MA) moved to suspend the rules and pass the bill, as amended.
+- 2010-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6431-6436)
+- 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6431-6436)
+- 2010-08-02 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Environment and Public Works.
