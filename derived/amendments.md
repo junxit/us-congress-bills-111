@@ -1,7 +1,7 @@
 ---
 measure: S. 553
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Section 5(a)(8) of the National Trails System Act (16 U.S.C. 1244(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “thirty-two hundred” and inserting “4,600”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “as Proposed North Country Trail-Vicinity Map in” and all that follows through the period at the end of the sentence and inserting “as North Country National Scenic Trail, Authorized Route dated February 16, 2005, and numbere… | the bill names no machine-readable US Code section |
