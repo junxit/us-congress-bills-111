@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3562
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3562
@@ -24,6 +24,10 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 
 - House — Transportation and Infrastructure Committee
 - Senate — Environment and Public Works Committee
+
+## Recorded votes (1)
+
+- 2010-09-16 — [House 111-2-528](votes/house-111-2-0528.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (409–0)
 
 ## Actions
 
@@ -51,3 +55,18 @@ An act to designate the federally occupied building located at 1220 Echelon Park
 - 2010-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
 - 2010-08-05 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6975; text as passed Senate: CR S6975)
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6975; text as passed Senate: CR S6975)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-09-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3562.
+- 2010-09-15 — Ms. Johnson, E. B. moved that the House suspend the rules an agree to the Senate amendments. (consideration: CR H6716-6717)
+- 2010-09-16 — Cleared for White House.
+- 2010-09-16 — Considered as unfinished business. (consideration: CR H6775-6776)
+- 2010-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-16 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 528). (text as House agreed to Senate amendment: CR 9/15/2010 H6716)
+- 2010-09-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 528).(text as House agreed to Senate amendment: CR 9/15/2010 H6716)
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-243.
+- 2010-09-30 — Became Public Law No: 111-243.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
