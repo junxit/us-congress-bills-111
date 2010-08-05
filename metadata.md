@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5716
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5716
@@ -41,3 +41,5 @@ Safer Oil and Natural Gas Drilling Technology Research and Development Act
 - 2010-07-21 — Placed on the Union Calendar, Calendar No. 317.
 - 2010-07-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-554, Part I.
 - 2010-07-21 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-554, Part I.
+- 2010-07-22 — Received in the Senate.
+- 2010-08-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 517.
