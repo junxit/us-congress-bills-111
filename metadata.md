@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2480
@@ -218,3 +218,15 @@ Truth in Fur Labeling Act of 2010
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6194)
 - 2010-07-29 — Received in the Senate.
 - 2010-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2010-12-07 — Cleared for White House.
+- 2010-12-07 — Passed Senate without amendment by Unanimous Consent.
+- 2010-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-12-07 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S8605)
+- 2010-12-07 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S8605)
+- 2010-12-08 — Message on Senate action sent to the House.
+- 2010-12-09 — Presented to President.
+- 2010-12-09 — Presented to President.
+- 2010-12-18 — Became Public Law No: 111-313.
+- 2010-12-18 — Became Public Law No: 111-313.
+- 2010-12-18 — Signed by President.
+- 2010-12-18 — Signed by President.

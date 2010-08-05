@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 69` | strike | Section 2(d) of the Fur Products Labeling Act (15 U.S.C. 69(d)) is amended by striking “; except that” and all that follows through “contained therein”. | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 69a` | add-at-end | Section 3 of the Fur Products Labeling Act (15 U.S.C. 69a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Section 2(d) of the Fur Products Labeling Act (15 U.S.C. 69(d)) is amended by striking “; except that” and all that follows through “contained therein”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Fur Products Labeling Act (15 U.S.C. 69a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2480
-congress: 111th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2480
@@ -28,7 +28,7 @@ Section 3 of the Fur Products Labeling Act (15 U.S.C. 69a) is amended by adding 
 
 ## § 4. Federal trade commission review of fur products name guide
 
-Not later than 90 days after the date of the enactment of this Act, the Federal Trade Commission shall publish in the Federal Register notice of, and an opportunity to comment on, a review of the Fur Products Name Guide (16 CFR. 301.0).
+Not later than 90 days after the date of the enactment of this Act, the Federal Trade Commission shall publish in the Federal Register notice of, and an opportunity to comment on, a review of the Fur Products Name Guide (16 CFR 301.0).
 
 ## § 5. PAYGO Compliance
 
