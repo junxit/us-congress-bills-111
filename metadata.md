@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5875
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5875
@@ -16,7 +16,7 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Cosponsors (13)
+## Cosponsors (32)
 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 - Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
@@ -30,6 +30,25 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 - Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
 - Sen. Kyl, Jon [R-AZ] (K000352)
 
 ## Committees (2)
@@ -52,3 +71,17 @@ Emergency Border Security Supplemental Appropriations Act, 2010
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6253)
 - 2010-07-29 — Received in the Senate.
 - 2010-07-29 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-03 — Senate amendment submitted
+- 2010-08-05 — Amendment SA 4593 agreed to in Senate by Unanimous Consent.
+- 2010-08-05 — Amendment SA 4593 proposed by Senator Schumer. (consideration: CR S6843; text: CR S6843) In the nature of a substitute.
+- 2010-08-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6838-6845)
+- 2010-08-05 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-08-05 — See also S. 3721.
+- 2010-08-05 — Senate amendment agreed to: Amendment SA 4593 agreed to in Senate by Unanimous Consent.
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4593 proposed by Senator Schumer.(consideration: CR S6843; text: CR S6843)
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
