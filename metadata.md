@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3989
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3989
@@ -26,9 +26,10 @@ Heart Mountain Relocation Center Study Act of 2010
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,5 @@ Heart Mountain Relocation Center Study Act of 2010
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 302.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-529.
 - 2010-07-13 — Reported by the Committee on Natural Resources. H. Rept. 111-529.
+- 2010-07-14 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Energy and Natural Resources.

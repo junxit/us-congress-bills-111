@@ -2,7 +2,7 @@
 legis-num: H.R. 3989
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3989
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Heart Mountain Relocation Center Study Act of 2009”.
+This Act may be cited as the “Heart Mountain Relocation Center Study Act of 2010”.
 
 ## § 2. Special resource study
 
