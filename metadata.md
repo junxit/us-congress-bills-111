@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4438
@@ -22,9 +22,10 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2010
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,5 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2010
 - 2010-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 264 - 114 (Roll no. 435). (text: CR H5511)
 - 2010-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 264 - 114 (Roll no. 435).(text: CR H5511)
 - 2010-07-13 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-14 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Energy and Natural Resources.

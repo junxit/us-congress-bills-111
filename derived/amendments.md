@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4438
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsections (b), (c), (d), (e), and (f) as subsections (c), (e), (f), (g), and (h) respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting after subsection (c) (as so redesignated) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | By striking “In order” and inserting the following: “(1) In order”. | the bill names no machine-readable US Code section |
-| — | replace | By striking “The park shall also” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | By striking “After advising the” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | By inserting after paragraph (2) (as so designated by paragraph (2) above) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 410ee` | redesignate | by redesignating subsections (b), (c), (d), (e), and (f) as subsections (c), (e), (f), (g), and (h) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ee` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ee` | redesignate | by inserting after subsection (c) (as so redesignated) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410ee` | replace | By striking “In order” and inserting the following: “(1) In order”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410ee` | replace | By striking “The park shall also” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410ee` | replace | By striking “After advising the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 410ee` | insert | By inserting after paragraph (2) (as so designated by paragraph (2) above) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
