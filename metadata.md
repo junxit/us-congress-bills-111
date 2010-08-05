@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 90
 congress: 111
-version: Introduced in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 90
@@ -84,12 +84,21 @@ Expressing support for designation of September 2010 as "Gospel Music Heritage M
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Introduced in House
 - 2010-06-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-07-30 — Considered under suspension of the rules. (consideration: CR H6446-6449)
+- 2010-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 90.
+- 2010-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-30 — Ms. Chu moved to suspend the rules and pass the resolution.
+- 2010-07-30 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H6446-6447)
+- 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H6446-6447)
+- 2010-08-02 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
