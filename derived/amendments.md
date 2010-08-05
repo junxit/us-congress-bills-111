@@ -1,7 +1,7 @@
 ---
 measure: S. 3611
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-246 amendatory instructions. 0 executed, 246 stated and not applied.
+245 amendatory instructions. 0 executed, 245 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 8079 of the Department of Defense Appropriations Act, 2010 (Public Law 111–118; 123 Stat. 3446) is amended by striking “fiscal year 2010 until” and all that follows and inserting “fiscal year 2010.”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (A) of section 235(b)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2055(b)(1)) is amended by striking “receiving compensation under the Senior Intelligence Service pay schedule at the rate” and inserting “… | the bill names no machine-readable US Code section |
 | — | insert | Title I of the National Security Act of 1947 (50 U.S.C. 402 et seq.) is amended by inserting after section 113 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of such Act is amended by inserting after the item relating to section 113 the following new item: | the bill names no machine-readable US Code section |
@@ -88,8 +87,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “written” before “statement”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(d) The President” and inserting “(d)(1) The President”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), as designated by subparagraph (A), by inserting “in writing” after “notified”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 325 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947, as amended by section 325 of this Act, is further amended by inserting after the item related to section 507 the following new item: | the bill names no machine-readable US Code section |
 | — | repeal | Section 109 of the National Security Act of 1947 (50 U.S.C. 404d) is repealed. | the bill names no machine-readable US Code section |
@@ -118,7 +117,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | The table of contents in the first section of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2383) is amended by striking the item relating to section 826. | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraphs (A), (B), and (G); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C), (D), (E), (F), (H), (I), and (N) as subparagraphs (A), (B), (C), (D), (E), (F), and (G), respectively; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking subparagraphs (C) and (D); and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b), by striking paragraph (6). | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (4) of section 7342(f) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -150,7 +149,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (9) as paragraph (14); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (8) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | amend | Title VII of the National Security Act of 1947 (50 U.S.C. 431 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VII of the National Security Act of 1947 (50 U.S.C. 431 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947, as amended by section 406(b) of this Act, is further amended by inserting after the item relating to section 705 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1) In” and inserting “In”; and | the bill names no machine-readable US Code section |
