@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1043
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1043
@@ -34,3 +34,8 @@ Deafy Glade Land Exchange Act
 - 2009-09-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9288)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9288)
 - 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-04-28 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-273.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-273.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.
