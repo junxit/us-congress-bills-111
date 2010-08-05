@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,15 +22,31 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Stated, not applied
+## Executed
 
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
+### 2 U.S.C. § 1605
 
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| — | replace | in paragraph (8), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (11), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”. | the bill names no machine-readable US Code section |
-| — | replace | Section 6(b)(1) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1605(b)(1)) is amended by striking “by case” and all that follows through “public record” and inserting “by case and name of the individual lobbyists or lobbying firms invo… | the bill names no machine-readable US Code section |
+> in paragraph (8), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”; and
+
+| | |
+|---|---|
+| Removed | `United States Attorney for the District of Columbia` |
+| Inserted | `Attorney General` |
+
+### 2 U.S.C. § 1605
+
+> in paragraph (11), by striking “United States Attorney for the District of Columbia” and inserting “Attorney General”.
+
+| | |
+|---|---|
+| Removed | `United States Attorney for the District of Columbia` |
+| Inserted | `Attorney General` |
+
+### 2 U.S.C. § 1605
+
+> Section 6(b)(1) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1605(b)(1)) is amended by striking “by case” and all that follows through “public record” and inserting “by case and name of the individual lobbyists or lobbying firms involved, any sentences imposed”.
+
+| | |
+|---|---|
+| Removed | `by case” and all that follows through “public record` |
+| Inserted | `by case and name of the individual lobbyists or lobbying firms involved, any sentences imposed` |

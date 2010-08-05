@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5751
@@ -16,9 +16,10 @@ Lobbying Disclosure Enhancement Act
 
 - Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,5 @@ Lobbying Disclosure Enhancement Act
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6204)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6204)
 - 2010-07-28 — The title of the measure was amended. Agreed to without objection.
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
