@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2480
@@ -190,9 +190,10 @@ Truth in Fur Labeling Act of 2010
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -215,3 +216,5 @@ Truth in Fur Labeling Act of 2010
 - 2010-07-28 — Mr. Sarbanes moved to suspend the rules and pass the bill, as amended.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6194)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6194)
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
