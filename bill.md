@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 322
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,45 +11,40 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas threats against the smallest religious minorities in Iraq jeopardize the future of Iraq as a diverse, pluralistic, and free society;
-- Whereas according to the United States Commission on International Religious Freedom, there are grave threats to religious freedom in Iraq, particularly for the smallest, most vulnerable religious minorities in Iraq, including Chaldeans, Syriacs, Assyrians, and other Christians, Sabean Mandeans, and Yazidis;
-- Whereas the February 2009 Country Report on Human Rights issued by the Department of State identifies on-going “misappropriation of official authority by sectarian, criminal, and extremist groups” as among the significant and continuing human rights problems in Iraq;
-- Whereas in recent years, there have been alarming numbers of religiously motivated killings, abductions, beatings, rapes, threats, intimidation, forced conversions, marriages, and displacement from homes and businesses, and attacks on religious leaders, pilgrims, and holy sites, in Iraq, with the smallest religious minorities in Iraq having been among the most vulnerable, although Iraqis from many religious communities, Muslim and non-Muslim alike, have suffered in this violence;
-- Whereas the United States Commission on International Religious Freedom continues to recommend that the President designate Iraq as a “country of particular concern”, or CPC, under the International Religious Freedom Act of 1998, because of the ongoing, severe abuses of religious freedom in Iraq;
-- Whereas the Assyrian International News Agency reports that 59 churches have been bombed in Iraq between June 2004 and July 2009;
-- Whereas persecution and violence in Iraq have extended to church leaders as well, such as the March 2008 kidnap for ransom and killing of 65-year-old Chaldean Catholic Archbishop Paulos Faraj Rahho;
-- Whereas members of small religious minority communities in Iraq do not have militia or tribal structures to defend them, do not receive adequate official protection, and are legally, politically, and economically marginalized;
-- Whereas control of ethnically and religiously mixed areas, including the Nineveh and Kirkuk governorates, is disputed between the Kurdistan regional government and the Government of Iraq, and Chaldeans, Syriacs, Assyrians, and other Christians, Sabean Mandeans, Yazidis, Shabak, and Turkomen are caught in the middle of this struggle for control and have been targeted for abuses and discrimination as a result;
-- Whereas governments in the region report that approximately 2,400,000 refugees and asylum seekers have fled Iraq since 2003;
-- Whereas many religious minorities in Iraq, who made up about 3 percent of the population of Iraq in 2003, have fled to other areas in Iraq or to other countries, where they reflect a disproportionately high percentage of registered Iraqi refugees;
-- Whereas the flight of such refugees has substantially diminished their numbers in Iraq, and few show signs of returning to Iraq;
-- Whereas approximately 1,400,000 Christians were estimated to have lived in Iraq as of 2003, including Chaldean Catholics, Assyrian Orthodox, Assyrian Church of the East, Syriac Catholics, Syriac Orthodox, Armenians (Catholic and Orthodox), Protestants, and Evangelicals;
-- Whereas it is widely reported that only 500,000 to 700,000 indigenous Christians remain in Iraq as of 2009;
-- Whereas the Sabean Mandean community in Iraq reports that almost 90 percent of the members of that community either fled Iraq or have been killed, leaving only about 3,500 to 5,000 Mandeans in Iraq as of 2009;
-- Whereas the Yazidi community in Iraq reportedly now numbers about 500,000, a decrease from about 700,000 in 2005;
-- Whereas the Baha’i faith, estimated to have only 2,000 adherents in Iraq, remains prohibited in Iraq under a 1970 law;
-- Whereas the ancient and once-large Jewish community in Iraq now numbers fewer than 10, and they essentially live in hiding;
-- Whereas in 2008, the United Nations High Commissioner for Refugees (UNHCR) reported that approximately 221,000 Iraqis returned to their areas of origin in Iraq, the vast majority of whom settled into neighborhoods or governorates controlled by members of their own religious community;
-- Whereas many of these returnees reported returning because of difficult economic conditions in their countries of asylum, principally Syria, Jordan, Egypt, and Lebanon; and
-- Whereas Chaldeans, Syriacs, Assyrians, and other Christians, Sabean Mandeans, and Yazidis are not believed to be among these returnees: Now, therefore, be it
+- Whereas the territory of Iraq, the land of Mesopotamia, has millennia of rich cultural and religious history;
+- Whereas the Sumerians, Babylonians, and Assyrians thrived within what are now the borders of Iraq;
+- Whereas the biblical patriarch Abraham was born in Ur, King Hammurabi ruled from Babylon, and Imam Ali, the founder of Shiite Islam, died in Kufa;
+- Whereas during the 35-year rule of the Baath Party and Saddam Hussein, and despite the Provisional Constitution of 1968 that provided for individual religious freedom in Iraq, the Government of Iraq severely limited freedom of religion, especially for religious minorities, and sought to exploit religious differences for political purposes, leading the United States Government to designate Iraq as a “country of particular concern” under the International Religious Freedom Act of 1998 (Public Law 105–292) because of systematic, ongoing, egregious violations of religious freedom;
+- Whereas members of religious minority communities of Iraq, both those who have been forced to flee the homeland in which their ancestors have lived for thousands of years and those who remain in Iraq, are committed to maintaining their presence in Iraq and keeping alive their communities’ cultures, heritage, and religions, but threats against them jeopardize the future of Iraq as a diverse, pluralistic, and free society;
+- Whereas despite the reduction in violence in Iraq in recent years, serious threats to religious freedom remain, including religiously motivated violence directed at vulnerable religious minorities, their leaders, and their holy sites, including Chaldeans, Syriacs, Assyrians, Armenians and other Christians, Sabean Mandeans, Yeazidis, Baha’is, Kaka’is, Jews, and Shi’a Shabak;
+- Whereas the March 2010 Report on Human Rights issued by the Department of State identifies “insurgent and extremist violence, coupled with weak government performance in upholding the rule of law” resulting in “widespread and severe human rights abuses” as among the significant and continuing human rights problems in Iraq;
+- Whereas although violence has impacted all aspects of society in Iraq, there have been alarming levels of religiously motivated violence in Iraq in recent years;
+- Whereas the United States Commission on International Religious Freedom continues to recommend that the Secretary of State designate Iraq as a “country of particular concern” under the International Religious Freedom Act of 1998, because of the systematic, ongoing, egregious violations of religious freedom in Iraq;
+- Whereas scores of holy sites in Iraq have been bombed since 2004;
+- Whereas members of small religious minority communities in Iraq do not have militia or tribal structures to defend them, often receive inadequate official protection, and are legally, politically, and economically marginalized;
+- Whereas in the Nineveh and Kirkuk governorates, where control is disputed between the Government of Iraq and the Kurdistan regional government, religious minorities have been targeted for abuse, violence, and discrimination;
+- Whereas before 1951, non-Muslims comprised some 6 percent of the population of Iraq, with Jews as the oldest and largest of these communities, tracing back to the Babylonian captivity of the sixth century BCE, but today the Jewish community in Iraq numbers in the single digits and essentially lives in hiding;
+- Whereas religious minorities in Iraq, who made up about 3 percent of the population of Iraq in 2003, make up a disproportionately high percentage of registered Iraqi refugees;
+- Whereas the number of Christians in Iraq was approximately 1,400,000 according to the 1987 Iraqi census but, according to the 2009 Report on International Religious Freedom issued by the Department of State, may now number only 500,000 to 600,000;
+- Whereas the United States is gravely concerned about the viability of the indigenous Christian communities of Iraq and other religious minority communities, and the possible disappearance of their ancient languages, culture, and heritage;
+- Whereas the Sabean Mandean community in Iraq reports that almost 90 percent of its members have fled Iraq, leaving only about 3,500 to 5,000 Mandeans in Iraq as of 2009;
+- Whereas the Baha’i faith, estimated to have fewer than 2,000 adherents in Iraq, remains prohibited in Iraq under a 1970 law;
+- Whereas although hundreds of thousands of Iraqi refugees and internally displaced persons have returned to their areas of origin, the numbers of religious minority returnees to Iraq are disproportionately low; and
+- Whereas members of religious minority communities of Iraq in diaspora have organized to support their communities in Iraq in ways that also benefit the whole of Iraq society by encouraging the rule of law, enhanced security, employment, education and health services: Now, therefore, be it
 
 That it is the sense of the Senate that—
 
-- **(1)** the United States remains deeply concerned about the plight of vulnerable religious and ethnic minorities of Iraq and is particularly concerned for the Chaldeans, Syriacs, Assyrians, and other Christians, Sabean Mandeans, Yazidis, Baha’is, Jews, and Muslim ethnic minorities, the Shabak and Turkomen, and other religious and ethnic minorities of Iraq;
+- **(1)** the United States remains deeply concerned about the plight of vulnerable religious minorities of Iraq;
 - **(2)** the United States Government and the United Nations Assistance Mission for Iraq should urge the Government of Iraq to enhance security at places of worship in Iraq, particularly where religious minorities are known to be at risk;
-- **(3)** the United States Government should continue to work with the Government of Iraq to—
-  - **(A)** urgently train and deploy into the Iraqi police and security forces members of vulnerable minority communities in Iraq, including in Nineveh and other areas in which religious minorities are located, who are as representative as possible of those communities; and
-  - **(B)** ensure that members of such communities—
-    - **(i)** suffer no discrimination in recruitment, employment, or advancement in the Iraqi police and security forces; and
-    - **(ii)** while employed in the Iraqi police and security forces, be assigned to their locations of origin, rather than being transferred to other areas;
-- **(4)** the Government of Iraq should, with the assistance of the United States Government—
-  - **(A)** ensure that the upcoming national elections in Iraq are safe, fair, and free of intimidation and violence so that all Iraqis, including religious minorities, can participate in the elections; and
-  - **(B)** permit and facilitate election monitoring by experts from local and international nongovernmental organizations, the international community, and the United Nations, particularly in minority areas;
-- **(5)** the Government of Iraq and the Kurdistan regional government should work towards a peaceful and timely resolution of disputes over territories;
-- **(6)** the United States Government and the United Nations Assistance Mission for Iraq should urge the Government of Iraq to work with minority communities and their representatives to develop measures to implement article 125 of the Iraq Constitution, which guarantees “the administrative, political, cultural, and educational rights of the various nationalities, such as Turkomen, Chaldeans, Assyrians, and all the other constituents” in Nineveh and other areas where these groups are present;
-- **(7)** the Government of Iraq should take affirmative measures to reverse the legal, political, and economic marginalization of religious minorities in Iraq;
-- **(8)** the United States Government should direct assistance to projects that develop the ability of ethnic and religious minorities in Iraq to organize themselves civically and politically to effectively convey their concerns to government;
-- **(9)** the United States Government should continue to fund capacity-building programs for the Iraqi Ministry of Human Rights, the independent national Human Rights Commission, and a new independent minorities committee whose membership is selected by minority communities of Iraq;
-- **(10)** the Government of Iraq should direct the Iraqi Ministry of Human Rights to investigate and issue a public report on abuses against and the marginalization of minority communities in Iraq and make recommendations to address such abuses;
-- **(11)** the Government of Iraq should, with the assistance of the United States Government and international organizations, help ensure that displaced Iraqis considering return to Iraq have the proper information needed to make informed decisions regarding such return; and
-- **(12)** the United States Government and international organizations should continue to work with the Government of Iraq to develop the legal framework necessary to address property disputes resulting when displaced Iraqis attempt to return to their homes in Iraq.
+- **(3)** the United States Government should continue to work with the Government of Iraq to ensure that members of ethnic and religious minorities communities in Iraq—
+  - **(A)** suffer no discrimination in recruitment, employment, or advancement in the Iraqi police and security forces; and
+  - **(B)** while employed in the Iraqi police and security forces, where appropriate, be assigned to their locations of origin, rather than being transferred to other areas;
+- **(4)** the Government of Iraq and the Kurdistan regional government should work towards a peaceful and timely resolution of disputes over territories, particularly those where many religious communities reside;
+- **(5)** the United States Government and the United Nations Assistance Mission for Iraq should urge the Government of Iraq to—
+  - **(A)** implement in full those provisions of the Constitution of Iraq that provide protections for the individual rights to freedom of thought, conscience, religion, and belief and protections for religious minorities to enjoy their culture and language and practice their religion; and
+  - **(B)** reduce onerous registration requirements so that smaller religious groups are not disadvantaged in registering;
+- **(6)** the Government of Iraq should take affirmative measures to reverse the legal, political, and economic marginalization of religious minorities in Iraq;
+- **(7)** the United States Government should assist, consistent with local aspirations and developmental needs, ethnic and religious minorities in Iraq to organize themselves civically and politically to effectively convey their concerns to government;
+- **(8)** the United States Government should continue to fund capacity-building programs for the Iraqi Ministry of Human Rights and the independent national Human Rights Commission, and should continue to help reconstitute the minorities committee to make it an effective voice for Iraqi minorities;
+- **(9)** the Government of Iraq should direct the Iraqi Ministry of Human Rights to investigate and issue a public report on abuses against and the marginalization of minority communities in Iraq and make recommendations to address such abuses; and
+- **(10)** the United States Government should encourage the Government of Iraq and the Kurdistan Regional Government to protect the linguistic and cultural heritage, religious beliefs, and ethnic and religious identities of minority groups, in particular those living in the Nineveh Plain.
