@@ -1,7 +1,7 @@
 ---
 measure: S. 1270
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1270
@@ -29,3 +29,8 @@ Oregon Caves National Monument Boundary Adjustment Act of 2010
 - 2009-06-16 — Introduced in Senate
 - 2009-06-16 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2009-06-16 — Sponsor introductory remarks on measure. (CR S6652-6653)
+- 2009-07-22 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-256.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-256.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
