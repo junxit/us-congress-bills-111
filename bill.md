@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1017
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Cane River National Heritage Area Reauthorization Act of 2009”.
+This Act may be cited as the “Cane River National Heritage Area Reauthorization Act of 2009 2010”.
 
 ## § 2. Cane river national heritage area
 
@@ -43,18 +43,31 @@ This Act may be cited as the “Cane River National Heritage Area Reauthorizatio
       > - **(18)** 1 member with knowledge of tourism, after consideration of recommendations by the Secretary of the Louisiana Department of Culture, Recreation and Tourism; and
 
   - **(2)** in subsection (c)(4), by striking “, such as a non-profit corporation,”;
-  - **(3)** in subsection (d)—
+  - **(3)(2)** in subsection (d)—
     - **(A)** in paragraph (5), by striking “for research, historic preservation, and education purposes” and inserting “to further the purposes of title III and this title”;
     - **(B)** in paragraph (6), by striking “the preparation of studies that identify, preserve, and plan for the management of the heritage area” and inserting “carrying out projects or programs that further the purposes of title III and this title”; and
     - **(C)** by striking paragraph (8) and inserting the following:
       > - **(8)** develop, or assist others in developing, projects or programs to further the purposes of title III and this title;
 
-  - **(4)** in the third sentence of subsection (g), by inserting “, except that if any of the organizations specified in subsection (b) ceases to exist, the vacancy shall be filled with an at-large member” after “made”.
+  - **(4)(3)** in the third sentence of subsection (g), by inserting “, except that if any of the organizations specified in subsection (b) ceases to exist, the vacancy shall be filled with an at-large member” after “made”.
 - **(c)** *Preparation of the plan* Section 403 of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–23) is amended by adding at the end the following:
   > - **(d)** *Amendments*
   >   - **(1)** *In general* An amendment to the management plan that substantially alters the purposes of the heritage area shall be reviewed by the Secretary and approved or disapproved in the same manner as the management plan.
   >   - **(2)** *Implementation* The local coordinating entity shall not use Federal funds made available under this title to implement an amendment to the management plan until the Secretary approves the amendment.
 
 - **(d)** *Termination of heritage area commission* Section 404 of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–24) is amended—
-  - **(1)** in subsection (a), by striking “the day occurring 10 years after the first official meeting of the Commission” and inserting “August 5, 2025”; and
+  - **(1)** in subsection (a), by striking “the day occurring 10 years after the first official meeting of the Commission” and inserting “August 5, 2025 September 30, 2015”; and
   - **(2)** in the third sentence of subsection (c), by striking “, including the potential for a nonprofit corporation,”.
+  - **(2)** by adding at the end the following:
+    > - **(d)** *Evaluation and report*
+    >   - **(1)** *Evaluation*
+    >     - **(A)** *In general* Not later than 3 years before the date on which authority for Federal funding terminates for the Commission or any successor entity, the Secretary shall conduct an evaluation of the accomplishments of the heritage area.
+    >     - **(B)** *Requirements* In conducting the evaluation under subparagraph (A), the Secretary shall—
+    >       - **(i)** assess the progress of the local management entity with respect to—
+    >         - **(I)** accomplishing the purposes of the heritage area; and
+    >         - **(II)** achieving the goals and objectives of the approved management plan for the heritage area;
+    >       - **(ii)** analyze the investments of the Federal Government, State, tribal, and local governments, and private entities in the heritage area to determine the impact of the investments; and
+    >       - **(iii)** review the management structure, partnership relationships, and funding of the heritage area for purposes of identifying the critical components for sustainability of the heritage area.
+    >   - **(2)** *Report* Based on the evaluation conducted under paragraph (1), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
+    >     - **(A)** describes the results of the evaluation conducted under that paragraph; and
+    >     - **(B)** includes a recommendation on the future role of the National Park Service, if any, with respect to the heritage area.

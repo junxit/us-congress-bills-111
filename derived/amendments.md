@@ -1,7 +1,7 @@
 ---
 measure: S. 1017
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 0 executed, 20 stated and not applied.
+21 amendatory instructions. 0 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,5 +49,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (8) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the third sentence of subsection (g), by inserting “, except that if any of the organizations specified in subsection (b) ceases to exist, the vacancy shall be filled with an at-large member” after “made”. | the bill names no machine-readable US Code section |
 | — | amend | Section 403 of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–23) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “the day occurring 10 years after the first official meeting of the Commission” and inserting “August 5, 2025”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “the day occurring 10 years after the first official meeting of the Commission” and inserting “August 5, 2025 September 30, 2015”; and | the bill names no machine-readable US Code section |
 | — | strike | in the third sentence of subsection (c), by striking “, including the potential for a nonprofit corporation,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
