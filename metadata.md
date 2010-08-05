@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1586
@@ -16,7 +16,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (157)
+## Cosponsors (166)
 
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
@@ -69,6 +69,15 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Sessions, Jeff [R-AL] (S001141)
@@ -180,7 +189,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 
 - House — Ways and Means Committee
 
-## Recorded votes (11)
+## Recorded votes (15)
 
 - 2009-03-19 — [House 111-1-143](votes/house-111-1-0143.md) — On Motion to Suspend the Rules and Pass — **Passed** (328–93)
 - 2010-03-16 — [Senate 111-2-50](votes/senate-111-2-0050.md) — On the Motion to Table — **Motion to Table Agreed to** (68–29)
@@ -193,6 +202,10 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2010-03-18 — [Senate 111-2-60](votes/senate-111-2-0060.md) — On the Amendment — **Amendment Rejected** (26–70)
 - 2010-03-22 — [Senate 111-2-61](votes/senate-111-2-0061.md) — On Passage of the Bill — **Bill Passed** (93–0)
 - 2010-03-25 — [House 111-2-190](votes/house-111-2-0190.md) — On Concurring in Senate Amendments, With Amendment to Senate Amendment To Text — **Passed** (276–145)
+- 2010-08-02 — [Senate 111-2-223](votes/senate-111-2-0223.md) — On the Motion to Table — **Motion to Table Agreed to** (95–0)
+- 2010-08-04 — [Senate 111-2-224](votes/senate-111-2-0224.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
+- 2010-08-04 — [Senate 111-2-225](votes/senate-111-2-0225.md) — On the Motion — **Motion Agreed to** (61–38)
+- 2010-08-05 — [Senate 111-2-228](votes/senate-111-2-0228.md) — On the Motion — **Motion Agreed to** (61–39)
 
 ## Actions
 
@@ -534,3 +547,86 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2010-03-25 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to by the Yeas and Nays: 276 - 145 (Roll no. 190).(text as House agreed to Senate amendments: CR H2366-2404)
 - 2010-03-25 — Rule H. Res. 1212 passed House.
 - 2010-03-25 — The previous question was ordered pursuant to the rule. (consideration: CR H2416)
+- 2010-03-26 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-07-29 — Amendment SA 4567 proposed by Senator Reid for Senator Murray. (consideration: CR S6498) In the nature of a substitute.
+- 2010-07-29 — Amendment SA 4568 proposed by Senator Reid to Amendment SA 4567. (consideration: CR S6498; text: CR S6498) To change the enactment date.
+- 2010-07-29 — Amendment SA 4569 proposed by Senator Reid. (consideration: CR S6498; text: CR S6498) The instructions on the motion to refer.
+- 2010-07-29 — Amendment SA 4570 proposed by Senator Reid to Amendment SA 4569. (consideration: CR S6498-6499; text: CR S6499) Of a perfecting nature.
+- 2010-07-29 — Amendment SA 4571 proposed by Senator Reid to Amendment SA 4570. (consideration: CR S6499; text: CR S6499) Of a perfecting nature.
+- 2010-07-29 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) presented in Senate. (consideration: CR S6498; text: CR S6498)
+- 2010-07-29 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) made in the Senate. (consideration: CR S6498)
+- 2010-07-29 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 1586) with instructions to report back forthwith with amendment SA 4569 made in Senate. (consideration: CR S6498)
+- 2010-07-29 — Senate amendment proposed (on the floor): Amendment SA 4567 proposed by Senator Reid for Senator Murray.(consideration: CR S6498)
+- 2010-07-29 — Senate amendment proposed (on the floor): Amendment SA 4568 proposed by Senator Reid to Amendment SA 4567.(consideration: CR S6498; text: CR S6498)
+- 2010-07-29 — Senate amendment proposed (on the floor): Amendment SA 4569 proposed by Senator Reid.(consideration: CR S6498; text: CR S6498)
+- 2010-07-29 — Senate amendment proposed (on the floor): Amendment SA 4570 proposed by Senator Reid to Amendment SA 4569.(consideration: CR S6498-6499; text: CR S6499)
+- 2010-07-29 — Senate amendment proposed (on the floor): Amendment SA 4571 proposed by Senator Reid to Amendment SA 4570.(consideration: CR S6499; text: CR S6499)
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-08-02 — Amendment SA 4575 proposed by Senator Reid for Senator Murray. (consideration: CR S6572) In the nature of a substitute.
+- 2010-08-02 — Amendment SA 4576 proposed by Senator Reid to Amendment SA 4575. (consideration: CR S6572; text: CR S6572) To change the enactment date.
+- 2010-08-02 — Amendment SA 4577 proposed by Senator Reid. (consideration: CR S6572; text: CR S6572) To provide for a study.
+- 2010-08-02 — Amendment SA 4578 proposed by Senator Reid to Amendment SA 4577. (consideration: CR S6572-6573; text: CR S6573) Of a perfecting nature.
+- 2010-08-02 — Amendment SA 4579 proposed by Senator Reid to Amendment SA 4578. (consideration: CR S6573; text: CR S6573) Of a perfecting nature.
+- 2010-08-02 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) withdrawn by unanimous consent in Senate. (consideration: CR S6571)
+- 2010-08-02 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) presented in Senate. (consideration: CR S6572; text: CR S6572)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565)
+- 2010-08-02 — Considered by Senate. (consideration: CR S6565-6573)
+- 2010-08-02 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) made in the Senate. (consideration: CR S6572)
+- 2010-08-02 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 1586) with instructions to report back forthwith with amendment SA 4569 withdrawn in Senate. (consideration: CR S6571)
+- 2010-08-02 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 1586) with instructions to report back forthwith with amendment SA 4577 made in Senate. (consideration: CR S6572)
+- 2010-08-02 — Motion to table the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 223. (consideration: CR S6572)
+- 2010-08-02 — Proposed amendment SA 4569 withdrawn in Senate. (consideration: CR S6571)
+- 2010-08-02 — Roll call votes on amendments in Senate: Motion to table the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 223.(consideration: CR S6572)
+- 2010-08-02 — SA 4568 fell when the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4567) tabled.
+- 2010-08-02 — SA 4570 fell when SA 4569 withdrawn.
+- 2010-08-02 — SA 4571 fell when SA 4570 fell.
+- 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4575 proposed by Senator Reid for Senator Murray.(consideration: CR S6572)
+- 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4576 proposed by Senator Reid to Amendment SA 4575.(consideration: CR S6572; text: CR S6572)
+- 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4577 proposed by Senator Reid.(consideration: CR S6572; text: CR S6572)
+- 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4578 proposed by Senator Reid to Amendment SA 4577.(consideration: CR S6572-6573; text: CR S6573)
+- 2010-08-02 — Senate amendment proposed (on the floor): Amendment SA 4579 proposed by Senator Reid to Amendment SA 4578.(consideration: CR S6573; text: CR S6573)
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-02 — Senate amendment submitted
+- 2010-08-03 — Senate amendment submitted
+- 2010-08-03 — Senate amendment submitted
+- 2010-08-04 — Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 224. (consideration: CR S6684-6685; text: CR S6684)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678)
+- 2010-08-04 — Considered by Senate. (consideration: CR S6678-6685)
+- 2010-08-04 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 1586) with instructions to report back forthwith with amendment (SA 4577) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) in Senate. (consideration: CR S6685)
+- 2010-08-04 — Motion to waive all applicable budgetary discipline with respect to the motion to concur in the House Amendment to Senate Amendment with amendment (SA 4575) agreed to in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 225. (consideration: CR S6685)
+- 2010-08-04 — Motion to waive all applicable budgetary discipline with respect to the motion to concur in the House Amendment to Senate Amendment with amendment (SA 4575) made in Senate. (consideration: CR S6685)
+- 2010-08-04 — Point of order raised in Senate with respect to the motion to concur in the House Amendment to Senate Amendment with amendment (SA 4575).
+- 2010-08-04 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to the motion to concur in the House Amendment to Senate Amendment with amendment (SA 4575) agreed to in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 225.(consideration: CR S6685)
+- 2010-08-04 — SA 4577 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575).
+- 2010-08-04 — SA 4578 fell when SA 4577 fell.
+- 2010-08-04 — SA 4579 fell when SA 4578 fell.
+- 2010-08-05 — Amendment SA 4575 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 228. (consideration: CR S6766)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6762)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6762)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6762-6767)
+- 2010-08-05 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to commit the House message to accompany H.R. 1586 to the Committee on Finance with instructions (Income Tax Rates on Small Business) made in Senate. (consideration: CR S6762-6764)
+- 2010-08-05 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to commit the House message to accompany H.R. 1586 to the Committee on Finance with instructions (Income Tax Rates on Small Business) not agreed to by Yea-Note Vote. 42-58. Record Vote No. 227. (consideration: CR S6764)
+- 2010-08-05 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to commit the House message to accompany H.R. 1586 to the Committee on Finance with instructions (Individual Income Tax Rates) made in Senate. (consideration: CR S6762-6764)
+- 2010-08-05 — DeMint motion to suspend Rule XXII to permit the consideration of a motion to commit the House message to accompany H.R. 1586 to the Committee on Finance with instructions (Individual Income Tax Rates) not agreed to by Yea-Note Vote. 42-58. Record Vote Number: 226. (consideration: CR S6764)
+- 2010-08-05 — Proposed amendment SA 4576 withdrawn in Senate. (consideration: CR S6766)
+- 2010-08-05 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) by Yea-Nay Vote. 61 - 39. Record Vote Number: 228.(consideration: CR S6766)
+- 2010-08-05 — Roll call votes on amendments in Senate: Amendment SA 4575 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 228.(consideration: CR S6766)
+- 2010-08-05 — Senate amendment agreed to: Amendment SA 4575 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 228.(consideration: CR S6766)
+- 2010-08-05 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) by Yea-Nay Vote. 61 - 39. Record Vote Number: 228. (consideration: CR S6766)
