@@ -1,7 +1,7 @@
 ---
 measure: S. 1018
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 304 of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–2) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence of section 304(e) (16 U.S.C. 410ccc–2(e)), by striking “of Technology” and inserting “Technology”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 305(a) (16 U.S.C. 41ccc–3(a)), by striking “interest” and inserting “interests”. | the bill names no machine-readable US Code section |
+| — | replace | in section 305(a) (16 U.S.C. 410ccc–3(a)), by striking “interest” and inserting “interests”. | the bill names no machine-readable US Code section |

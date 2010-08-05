@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1018
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,7 +24,7 @@ Congress finds that—
 - **(5)** the National Center for Preservation Technology and Training requires additional space to house equipment and workspace connected with the development and dissemination of preservation and conservation skills and technologies; and
 - **(6)** contingent on the approval by the Board of Supervisors for the University of Louisiana System, Northwestern State University is willing to make available land suitable for the National Park Service to construct a facility for curatorial and workspace needs of the National Center for Preservation Technology and Training if the University is able to use space in the facility for educational purposes relating to the Williamson Museum collection of the University.
 
-## § 3. Collections conservation center
+## § 32. Collections conservation center
 
 Section 304 of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–2) is amended by adding at the end the following:
 
@@ -35,9 +35,12 @@ Section 304 of the Cane River Creole National Historical Park and National Herit
 >     - **(C)** to provide space to the University for educational purposes relating to the Williamson Museum collection, if the University pays an appropriate rental fee to the National Park Service, as determined in the agreement entered into under this paragraph.
 >   - **(2)** *Use of fee* Proceeds from the rental fees collected under paragraph (1)(C) shall be available, without further appropriation, for the historical park.
 
-## § 4. Technical corrections
+> - **(2)** *Use of fee* Proceeds from the rental fees collected under paragraph (1)(C) shall be available until expended, without further appropriation, for the historical park.
+> - **(3)** *Terms of lease* The Secretary may enter into a lease with the University for a term of not more than 40 years if the land made available by the University under paragraph (1) is leased at a nominal cost to the Secretary.
+
+## § 43. Technical corrections
 
 The Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc et seq.) is amended—
 
 - **(1)** in the third sentence of section 304(e) (16 U.S.C. 410ccc–2(e)), by striking “of Technology” and inserting “Technology”; and
-- **(2)** in section 305(a) (16 U.S.C. 41ccc–3(a)), by striking “interest” and inserting “interests”.
+- **(2)** in section 305(a) (16 U.S.C. 410ccc–3(a)), by striking “interest” and inserting “interests”.
