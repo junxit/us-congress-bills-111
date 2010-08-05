@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4514
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4514
@@ -49,9 +49,10 @@ Colonel Charles Young Home Study Act
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -78,3 +79,5 @@ Colonel Charles Young Home Study Act
 - 2010-07-13 — Placed on the Union Calendar, Calendar No. 300.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-527.
 - 2010-07-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-527.
+- 2010-07-14 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Energy and Natural Resources.
