@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3040
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3040
@@ -36,10 +36,11 @@ Senior Financial Empowerment Act of 2010
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
 - Rep. Loebsack, David [D-IA-2] (L000565)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,5 @@ Senior Financial Empowerment Act of 2010
 - 2010-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 81 (Roll no. 487). (text: CR 7/27/2010 H6101-6102)
 - 2010-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 81 (Roll no. 487).(text: CR 7/27/2010 H6101-6102)
+- 2010-07-30 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
