@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4658
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4658
@@ -16,9 +16,10 @@ Benton MacKaye Cherokee National Forest Land Consolidation Act of 2010
 
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ Benton MacKaye Cherokee National Forest Land Consolidation Act of 2010
 - 2010-07-28 — Mr. Cardoza moved to suspend the rules and pass the bill, as amended.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6259-6260)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6259-6260)
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
