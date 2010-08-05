@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2892
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -12,6 +12,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Alabama Black Belt National Heritage Area Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings
@@ -43,7 +44,7 @@ The purposes of this Act are—
 - **(5)** to provide a cooperative management framework to foster a close working relationship with all levels of government, the private sector, and the local communities in the region in identifying, preserving, interpreting, and developing the natural, historical, cultural, educational, scenic, and recreational resources of the region for the educational and inspirational benefit of current and future generations; and
 - **(6)** to provide appropriate linkages between units of the National Park System and communities, governments, and organizations within the National Heritage Area.
 
-## § 4. Definitions
+## § 4.2. Definitions
 
 In this Act:
 
@@ -52,14 +53,15 @@ In this Act:
 - **(3)** *Management plan* The term “management plan” means the plan prepared by the local coordinating entity for the National Heritage Area in accordance with this Act.
 - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
-## § 5. Designation of Alabama Black Belt National Heritage Area
+## § 5.3. Designation of Alabama Black Belt National Heritage Area
 
 - **(a)** *Establishment* There is hereby established the Alabama Black Belt National Heritage Area in the State of Alabama.
 - **(b)** *Boundaries*
-  - **(1)** *In general* The National Heritage Area shall consist of sites as designated by the management plan within a core area located in Alabama, consisting of Bibb, Bullock, Butler, Choctaw, Clarke, Conecuh, Dallas, Greene, Hale, Lowndes, Macon, Marengo, Monroe, Montgomery, Perry, Pickens, Sumter, Washington, and Wilcox counties.
+  - **(1)** *In general* The National Heritage Area
+- **(b)** *Boundaries* The National Heritage Area shall consist of sites as designated by the management plan within a core area located in Alabama, consisting of Bibb, Bullock, Butler, Choctaw, Clarke, Conecuh, Dallas, Greene, Hale, Lowndes, Macon, Marengo, Monroe, Montgomery, Perry, Pickens, Sumter, Washington, and Wilcox counties.
   - **(2)** *Map* The boundaries of the National Heritage Area shall be as generally depicted on the map titled “__________”, and numbered _____, and dated _____. The map shall be on file and available to the public in the appropriate offices of the National Park Service and the local coordinating entity.
 
-## § 6. Local coordinating entity
+## § 6.4. Local coordinating entity
 
 - **(a)** *Designation* The Center for the Study of the Black Belt at the University of West Alabama shall be the local coordinating entity for the National Heritage Area.
 - **(b)** *Duties* To further the purposes of the National Heritage Area, the local coordinating entity shall—
@@ -84,7 +86,7 @@ In this Act:
   - **(6)** to support activities of partners and any other activities that further the purposes of the National Heritage Area and are consistent with the approved management plan.
 - **(d)** *Prohibition on Acquisition of Real Property* The local coordinating entity may not use Federal funds received under this Act to acquire any interest in real property.
 
-## § 7. Management plan
+## § 7.5. Management plan
 
 - **(a)** *Requirements* The management plan shall—
   - **(1)** describe comprehensive policies, goals, strategies, and recommendations for telling the story of the heritage of the area covered by the National Heritage Area and encouraging long-term resource protection, enhancement, interpretation, funding, management, and development of the National Heritage Area;
@@ -130,7 +132,7 @@ In this Act:
     - **(A)** provide technical assistance under the authority of this Act for the development and implementation of the management plan; and
     - **(B)** enter into cooperative agreements with interested parties to carry out this Act.
 
-## § 8. Evaluation; report
+## § 8.6. Evaluation; report
 
 - **(a)** *Evaluation* The Secretary shall conduct an evaluation of the accomplishments of the National Heritage Area. An evaluation conducted under this subsection shall—
   - **(1)** assess the progress of the local coordinating entity with respect to—
@@ -140,7 +142,7 @@ In this Act:
   - **(3)** review the management structure, partnership relationships, and funding of the National Heritage Area for purposes of identifying the critical components for sustainability of the National Heritage Area.
 - **(b)** *Report* Not later than 3 years before the date on which authority for Federal funding terminates for the National Heritage Area under this Act, based on the evaluation conducted under subsection (a), the Secretary shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The report shall include recommendations for the future role of the National Park Service, if any, with respect to the National Heritage Area.
 
-## § 9. Relationship to other Federal agencies
+## § 9.7. Relationship to other Federal agencies
 
 - **(a)** *In General* Nothing in this Act affects the authority of a Federal agency to provide technical or financial assistance under any other law.
 - **(b)** *Consultation and Coordination* The head of any Federal agency planning to conduct activities that may have an impact on the National Heritage Area is encouraged to consult and coordinate the activities with the Secretary and the local coordinating entity to the maximum extent practicable.
@@ -149,7 +151,7 @@ In this Act:
   - **(2)** limits the discretion of a Federal land manager to implement an approved land use plan within the boundaries of the National Heritage Area; or
   - **(3)** modifies, alters, or amends any authorized use of Federal land under the jurisdiction of a Federal agency.
 
-## § 10. Private property and regulatory protections
+## § 10.8. Private property and regulatory protections
 
 Nothing in this Act—
 
@@ -160,16 +162,16 @@ Nothing in this Act—
 - **(5)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the National Heritage Area; or
 - **(6)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
-## § 11. Authorization of appropriations
+## § 11.9. Authorization of appropriations
 
 - **(a)** *Authorization of Appropriations* Subject to subsection (b), there are authorized to be appropriated to carry out this Act not more than $1,000,000 for any fiscal year. Funds so appropriated shall remain available until expended.
-- **(b)** *Limitation on Total Amounts Appropriated* Not more than $15,000,000 may be appropriated to carry out this Act.
+- **(b)** *Limitation on Total Amounts Appropriated* Not more than $15,000,000$10,000,000 may be appropriated to carry out this Act.
 - **(c)** *Cost-Sharing Requirement* The Federal share of the total cost of any activity under this Act shall be not more than 50 percent. The non-Federal contribution may be in the form of in-kind contributions of goods or services fairly valued.
 
-## § 12. Use of Federal funds from other sources
+## § 12.10. Use of Federal funds from other sources
 
 Nothing in this Act shall preclude the local coordinating entity from using Federal funds available under other laws for the purposes for which those funds were authorized.
 
-## § 13. Termination of financial assistance
+## § 13.11. Termination of financial assistance
 
 The authority of the Secretary to provide financial assistance under this Act terminates on the date that is 15 years after the date of the enactment of this Act.
