@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4474
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4474
@@ -47,3 +47,8 @@ Idaho Wilderness Water Facilities Act
 - 2010-01-27 — Rule provides for consideration of H.R. 3726 and H.R. 4474. Each bill is allowed 1 hour of general debate. The previous question shall be considered as ordered, in each instance, without intervening motions except one motion to recommit with or without instructions. Measures will be considered read.
 - 2010-01-27 — The previous question was ordered pursuant to the rule. (consideration: CR H405)
 - 2010-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-03-10 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-277.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-277.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.
