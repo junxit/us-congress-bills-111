@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5138
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5138
@@ -43,10 +43,11 @@ International Megan's Law of 2010
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -68,3 +69,5 @@ International Megan's Law of 2010
 - 2010-07-27 — Placed on the Union Calendar, Calendar No. 327.
 - 2010-07-27 — Reported by the Committee on Foreign Affairs. H. Rept. 111-568, Part I.
 - 2010-07-27 — Reported by the Committee on Foreign Affairs. H. Rept. 111-568, Part I.
+- 2010-07-28 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Foreign Relations.

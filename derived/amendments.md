@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5138
 congress: 111
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 2250 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The heading for section 2250 of title 18, United States Code, is amended by inserting “or report international travel” after “register”. | the bill names no machine-readable US Code section |
-| — | insert | Section 2250(b) of title 18, United States Code, is amended by inserting “or (d)” after “(a)”. | the bill names no machine-readable US Code section |
-| — | insert | Section 2250(c) of title 18, United States Code, is amended by inserting “or (d)” after “(a)” each place it appears. | the bill names no machine-readable US Code section |
-| — | insert | The item relating to section 2250 in the table of sections at the beginning of chapter 109B of title 18, United States Code, is amended by inserting “or report international travel” after “register”. | the bill names no machine-readable US Code section |
-| — | insert | The first sentence of subsection (a) of section 142 of the Sex Offender Registration and Notification Act (Public Law 109–248; 42 U.S.C. 16941) is amended by inserting before the period at the end the following: “, including under the In… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 108(b)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)(4)) is amended by adding at the end before the period the following: “, including cases involving nationals of that country who are suspected of engag… | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 2250` | add-at-end | Section 2250 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2250` | insert | The heading for section 2250 of title 18, United States Code, is amended by inserting “or report international travel” after “register”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2250` | insert | Section 2250(b) of title 18, United States Code, is amended by inserting “or (d)” after “(a)”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2250` | insert | Section 2250(c) of title 18, United States Code, is amended by inserting “or (d)” after “(a)” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2250` | insert | The item relating to section 2250 in the table of sections at the beginning of chapter 109B of title 18, United States Code, is amended by inserting “or report international travel” after “register”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16941` | insert | The first sentence of subsection (a) of section 142 of the Sex Offender Registration and Notification Act (Public Law 109–248; 42 U.S.C. 16941) is amended by inserting before the period at the end the following: “, including under the In… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7106` | add-at-end | Section 108(b)(4) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106(b)(4)) is amended by adding at the end before the period the following: “, including cases involving nationals of that country who are suspected of engag… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
