@@ -1,7 +1,7 @@
 ---
 measure: S. 3656
 congress: 111
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3656
