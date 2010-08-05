@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3978
@@ -51,3 +51,5 @@ First Responder Anti-Terrorism Training Resources Act
 - 2010-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2010-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2010-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2010-08-05 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6975-6976; text as passed Senate: CR S6975-6976)
+- 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6975-6976; text as passed Senate: CR S6975-6976)

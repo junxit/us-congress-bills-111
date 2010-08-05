@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 1102` | add-at-end | Section 1204 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1102) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | in title V (6 U.S.C. 311 et seq.), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 873(b) (6 U.S.C. 453(b)), by striking “and by section 93” and all that follows through “or donations” and inserting “by section 93 of title 14, United States Code, or by section 525 or 884 of this Act, gifts or donations”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 884 (6 U.S.C. 464), by adding at the end the following: | the bill names no machine-readable US Code section |
