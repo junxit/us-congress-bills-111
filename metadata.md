@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3978
@@ -53,3 +53,16 @@ First Responder Anti-Terrorism Training Resources Act
 - 2010-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
 - 2010-08-05 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6975-6976; text as passed Senate: CR S6975-6976)
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6975-6976; text as passed Senate: CR S6975-6976)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-09-15 — Cleared for White House.
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3978.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Ms. Richardson moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H6694-6696)
+- 2010-09-15 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6694)
+- 2010-09-15 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6694)
+- 2010-09-22 — Presented to President.
+- 2010-09-22 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-245.
+- 2010-09-30 — Became Public Law No: 111-245.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.

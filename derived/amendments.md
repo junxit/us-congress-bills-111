@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
