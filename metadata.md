@@ -1,7 +1,7 @@
 ---
 measure: S. 2830
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2830
@@ -33,3 +33,8 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 - 2009-12-03 — Introduced in Senate
 - 2009-12-03 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S12325)
 - 2009-12-03 — Sponsor introductory remarks on measure. (CR S12324-12325)
+- 2010-04-21 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 111-566.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-264.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-264.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.

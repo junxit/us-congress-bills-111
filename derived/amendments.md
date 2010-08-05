@@ -1,7 +1,7 @@
 ---
 measure: S. 2830
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Section 409(b) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1239(b)) is amended by inserting “or section 411(h)(1)” after “section 402(g)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 411(h)(1)(D)(ii) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)(1)(D)(ii)) is amended by inserting “or 409” after “section 403”. | the bill names no machine-readable US Code section |
+| — | insert | Section 402(g)(6)(A) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(g)(6)(A)) is amended by inserting “and section 411(h)(1)” after “paragraphs (1) and (5)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 409(b) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1239(b)) is amended by inserting “and section 411(h)(1)” after “section 402(g)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 411(h)(1)(D)(ii) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)(1)(D)(ii)) is amended by striking “section 403” and inserting “section 402(g)(6), 403, or 409”. | the bill names no machine-readable US Code section |
