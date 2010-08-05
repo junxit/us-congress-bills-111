@@ -1,7 +1,7 @@
 ---
 measure: S. 1787
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,8 +34,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 203(2) (43 U.S.C. 2302(2)), by striking “on the date of enactment of this Act was” and inserting “is”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “this Act” and inserting “the Federal Land Transaction Facilitation Act Reauthorization of 2009”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “10” and inserting “20”; | the bill names no machine-readable US Code section |
 | — | strike | in section 206 (43 U.S.C. 2305), by striking subsection (f); and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | by striking “96–568” and inserting “96–586”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Public Law 105–263;” before “112 Stat.”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |

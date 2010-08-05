@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1787
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,12 +21,20 @@ The Federal Land Transaction Facilitation Act is amended—
 - **(2)** in section 205 (43 U.S.C. 2304)—
   - **(A)** in subsection (a), by striking “this Act” and inserting “the Federal Land Transaction Facilitation Act Reauthorization of 2009”; and
   - **(B)** by striking subsection (d);
+  - **(B)** in subsection (d), by striking “10” and inserting “20”;
 - **(3)** in section 206 (43 U.S.C. 2305), by striking subsection (f); and
 - **(4)** in section 207(b) (43 U.S.C. 2306(b))—
   - **(A)** in paragraph (1), by striking “; or” and inserting a semicolon;
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “96–568” and inserting “96–586”; and
+    - **(ii)** by striking “; or” and inserting a semicolon;
   - **(B)** in paragraph (2)—
     - **(i)** by inserting “Public Law 105–263;” before “112 Stat.”; and
     - **(ii)** by striking the period at the end and inserting a semicolon; and
   - **(C)** by adding at the end the following:
     > - **(3)** the White Pine County Conservation, Recreation, and Development Act of 2006 (Public Law 109–432; 120 Stat. 3028); or
-    > - **(4)** the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2403).
+    > - **(4)** the Lincoln County Conservation, Recreation, and Development Act of 2004 (Public Law 108–424; 118 Stat. 2403).”.108–424; 118 Stat. 2403);
+    > - **(5)** subtitle F of title I of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 1132 note; Public Law 111–11);
+    > - **(6)** subtitle O of title I of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 460www note, 1132 note; Public Law 111–11);
+    > - **(7)** section 2601 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1108); or
+    > - **(8)** section 2606 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1121).
