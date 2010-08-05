@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1796
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1796
@@ -28,9 +28,10 @@ Carbon Monoxide Poisoning Prevention Act
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,5 @@ Carbon Monoxide Poisoning Prevention Act
 - 2010-07-28 — Mr. Sarbanes moved to suspend the rules and pass the bill, as amended.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6190-6191)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6190-6191)
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
