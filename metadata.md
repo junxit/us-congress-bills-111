@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5566
@@ -281,9 +281,10 @@ Animal Crush Video Prohibition Act of 2010
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -307,3 +308,5 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-07-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 459). (text: 7/20/2010 CR H5788-5789)
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 459).(text: 7/20/2010 CR H5788-5789)
+- 2010-07-22 — Received in the Senate.
+- 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
