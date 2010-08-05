@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 762
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 762

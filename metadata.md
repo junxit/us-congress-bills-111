@@ -1,7 +1,7 @@
 ---
 measure: H.R. 762
 congress: 111
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 762
@@ -21,9 +21,10 @@ To validate final patent number 27-2005-0081, and for other purposes.
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 - Rep. Titus, Dina [D-NV-3] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,9 @@ To validate final patent number 27-2005-0081, and for other purposes.
 - 2009-07-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2009-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 542). (text: CR 7/15/2009 H8050-8051)
 - 2009-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 542).(text: CR 7/15/2009 H8050-8051)
+- 2009-07-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-12-17 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-272.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-272.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.
