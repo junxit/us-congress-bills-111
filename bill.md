@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2726
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,3 +23,10 @@ Section 3(a) of the Minuteman Missile National Historic Site Establishment Act o
   >   - **(A)** consists of approximately 25 acres of Forest Service land located in the Buffalo Gap National Grasslands;
   >   - **(B)** is located north of exit 131 on Interstate 90 in Jackson Country, South Dakota; and
   >   - **(C)** is generally depicted on the map entitled “Minuteman Missile National Historic Site Boundary Modification”, numbered 406/80,011, and dated July 17, 2009.
+
+  > - **(3)** *Visitor facility and administrative site*
+  >   - **(A)** *In general* In addition to the components described in paragraph (2), the historic site shall include a visitor facility and administrative site located on the parcel of land described in subparagraph (B).
+  >   - **(B)** *Description of land* The land referred to in subparagraph (A) consists of approximately 25 acres of land within the Buffalo Gap National Grassland in South Dakota as generally depicted on the map entitled “Minuteman Missile National Historic Site Boundary Modification”, numbered 406/80,011, and dated July 17, 2009.
+  >   - **(C)** *Availability of map* The map described in subparagraph (B) shall be kept on file and available for public inspection in the appropriate offices of the National Park Service.
+  >   - **(D)** *Transfer of administrative jurisdiction* Administrative jurisdiction over the land described in subparagraph (B) is transferred from the Secretary of Agriculture to the Secretary, to be administered as part of the historic site.
+  >   - **(E)** *Boundary adjustment* The boundaries of the Buffalo Gap National Grasslands are modified to exclude the land transferred under subparagraph (D).
