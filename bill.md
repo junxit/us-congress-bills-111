@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1629
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,14 +24,14 @@ Congress finds that—
   - **(A)** is covered by farmland; and
   - **(B)** does not contain any original buildings of the town or the McWhorter farm and home that are visible above ground.
 
-## § 3. Definitions
+## § 3 2. Definitions
 
 In this Act:
 
 - **(1)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(2)** *Study Area* The term “Study Area” means the New Philadelphia archeological site and the surrounding land in the State of Illinois.
 
-## § 4. Special resource study
+## § 4 3. Special resource study
 
 - **(a)** *Study* The Secretary shall conduct a special resource study of the Study Area.
 - **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
