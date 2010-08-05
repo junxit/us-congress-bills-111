@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2008
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2008
@@ -46,3 +46,7 @@ Bonneville Unit Clean Hydropower Facilitation Act
 - 2010-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4222)
 - 2010-06-09 — Mr. Inslee asked unanimous consent that, in the engrossment of the bill, H.R. 2008, the Clerk be directed to carry out the modification submittted at the desk which adds a section 8 to the text of the bill. Agreed to without objection. (text as modified: CR H4252)
 - 2010-06-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-274.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-274.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.
