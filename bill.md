@@ -38,6 +38,8 @@ Congress finds that—
 
 ## § 3. Special resource study
 
+## § 2. Special resource study
+
 - **(a)** *Study* The Secretary of the Interior (referred to in this Act as the “Secretary”), in consultation with the Secretary of the Army, shall conduct a special resource study of the Colonel Charles Young Home, a National Historic Landmark in Xenia, Ohio (referred to in this Act as the “Home”).
 - **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
   - **(1)** evaluate any architectural and archeological resources of the Home;

@@ -1,7 +1,7 @@
 ---
 measure: S. 2933
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2933
@@ -28,3 +28,8 @@ Colonel Charles Young Home Study Act
 
 - 2010-01-20 — Introduced in Senate
 - 2010-01-20 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-03-17 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 111-476.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 111-267.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 111-267.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
