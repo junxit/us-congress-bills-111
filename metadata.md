@@ -1,7 +1,7 @@
 ---
 measure: H.R. 129
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 129
@@ -47,3 +47,8 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 - 2009-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 549). (text: CR 7/14/2009 H8056)
 - 2009-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 549).(text: CR 7/14/2009 H8056)
 - 2009-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2009-10-29 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.
+- 2010-06-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-270.
+- 2010-08-05 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-270.
+- 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 540.
