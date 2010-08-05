@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3101
 congress: 111
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3101
@@ -102,3 +102,5 @@ Twenty-First Century Communications and Video Accessibility Act of 2010
 - 2010-07-26 — Placed on the Union Calendar, Calendar No. 323.
 - 2010-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-563.
 - 2010-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-563.
+- 2010-07-27 — Received in the Senate.
+- 2010-08-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.
