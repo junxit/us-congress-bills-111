@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1517
@@ -66,3 +66,16 @@ To allow certain U.S. Customs and Border Protection employees who serve under an
 - 2010-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6978; text: CR S6978)
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6978; text: CR S6978)
 - 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1517.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. Thompson (MS) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6963-6965)
+- 2010-09-23 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6963-6964)
+- 2010-09-23 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6963-6964)
+- 2010-09-28 — Presented to President.
+- 2010-09-28 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-252.
+- 2010-10-05 — Became Public Law No: 111-252.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.

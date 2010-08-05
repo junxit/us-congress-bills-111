@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1517
-congress: 111th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1517
@@ -32,9 +32,17 @@ For purposes of this Act—
     - **(C)** that occurs before, on, or after the date of the enactment of this Act,
   - **(2)** *Services and payments*
     - **(A)** *In general* In the case of any individual whose appointment is converted under subsection (a), the United States shall provide to such individual (including any dependents) services and monetary payments—
-      - **(i)** equivalent to the services and monetary payments provided to other Customs and Border Protection employees in similar positions (and their dependents) in the same country of assignment by international agreement, an exchange of notes, or other diplomatic policy; and
+      - **(i)** equivalent to the services and monetary payments provided to other U.S. Customs and Border Protection employees in similar positions (and their dependents) in the same country of assignment by international agreement, an exchange of notes, or other diplomatic policy; and
       - **(ii)** for which such individual (including any dependents) was not eligible by reason of such individual’s overseas limited appointment.
-    - **(B)** *Applicability* Services and payments under this paragraph shall be provided to an individual (including any dependents) to the same extent and in the same manner as if such individual had held a permanent appointment in the competitive service throughout the period described in subsection (a)(1). The preceding sentence shall, in the case of any individual, be effective as of the first day of the period described in subsection (a)(1) with respect to such individual.
+    - **(B)** *Applicability* Services and payments under this paragraph shall be provided to an individual (including any dependents) to the same extent and in the same manner as if such individual had held a permanent appointment in the competitive service throughout the period described in subsection (a)(1).
 - **(c)** *Guidance on implementation* The Commissioner shall implement the conversion of an employee serving under an overseas limited appointment to a permanent appointment in the competitive service in a manner that—
   - **(1)** meets the operational needs of the U.S. Customs and Border Protection; and
   - **(2)** to the greatest extent practicable, is not disruptive to the employees affected under this Act.
+
+## § 3. Rule of Construction
+
+Nothing in this Act shall be construed to affect the pay of any individual for services performed by such individual before the date of the conversion of such individual.
+
+## § 4. Termination
+
+The authority of the Commissioner to convert an employee serving under an overseas limited appointment within U.S. Customs and Border Protection to a permanent appointment in the competitive service within U.S. Customs and Border Protection shall terminate on the date that is 2 years after the date of the enactment of this Act.
