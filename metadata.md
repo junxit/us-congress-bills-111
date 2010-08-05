@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5827
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5827
@@ -71,3 +71,5 @@ Protecting Gun Owners in Bankruptcy Act of 2010
 - 2010-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 113 (Roll no. 479). (text: CR 7/27/2010 H6137)
 - 2010-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 113 (Roll no. 479).(text: CR 7/27/2010 H6137)
+- 2010-07-29 — Received in the Senate.
+- 2010-08-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.

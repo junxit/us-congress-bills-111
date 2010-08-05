@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5827
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in subsection (d) by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | in clause (xiv) by striking “and” at the end, | the bill names no machine-readable US Code section |
-| — | replace | in clause (xv) by striking the period at the end and inserting “; and”, and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `11 U.S.C. § 522` | add-at-end | in subsection (d) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `11 U.S.C. § 522` | strike | in clause (xiv) by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
+| `11 U.S.C. § 522` | replace | in clause (xv) by striking the period at the end and inserting “; and”, and | the bill quotes the text inserted but describes where it goes |
+| `11 U.S.C. § 522` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
