@@ -1,7 +1,7 @@
 ---
 measure: S. 3656
 congress: 111
-version: Reported to Senate
+version: Referred in House
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 3656
 congress: 111
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 3656
@@ -53,3 +53,6 @@ Mandatory Price Reporting Act of 2010
 - 2010-08-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6977-6978; text as passed Senate: CR S6977-6978)
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6977-6978; text as passed Senate: CR S6977-6978)
 - 2010-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-09 — Received in the House.
+- 2010-08-09 — Referred to the House Committee on Agriculture.
