@@ -1,7 +1,7 @@
 ---
 measure: S. 3307
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3307
@@ -38,3 +38,8 @@ Healthy, Hunger-Free Kids Act of 2010
 - 2010-08-05 — Senate amendment agreed to: Amendment SA 4589 agreed to in Senate by Unanimous Consent.
 - 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4589 proposed by Senator Lincoln.(consideration: CR S6832)
 - 2010-08-05 — Senate amendment submitted
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-09 — Received in the House.
+- 2010-08-09 — Referred to House Budget
+- 2010-08-09 — Referred to House Education and Labor
+- 2010-08-09 — Referred to the Committee on Education and Labor, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
