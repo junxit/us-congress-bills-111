@@ -1,7 +1,7 @@
 ---
 measure: S. 3397
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3397
@@ -43,3 +43,8 @@ Secure and Responsible Drug Disposal Act of 2010
 - 2010-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.
 - 2010-08-03 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6666-6667; text as passed Senate: CR S6666-6667)
 - 2010-08-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6666-6667; text as passed Senate: CR S6666-6667)
+- 2010-08-04 — Message on Senate action sent to the House.
+- 2010-08-09 — Received in the House.
+- 2010-08-09 — Referred to House Energy and Commerce
+- 2010-08-09 — Referred to House Judiciary
+- 2010-08-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
