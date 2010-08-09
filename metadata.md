@@ -1,7 +1,7 @@
 ---
 measure: S. 2781
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2781
@@ -63,9 +63,11 @@ Rosa's Law
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -83,3 +85,16 @@ Rosa's Law
 - 2010-08-09 — Referred to House Education and Labor
 - 2010-08-09 — Referred to House Energy and Commerce
 - 2010-08-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-09-22 — Cleared for White House.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6852-6854)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on S. 2781.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6852-6853)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6852-6853)
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-256.
+- 2010-10-05 — Became Public Law No: 111-256.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.
