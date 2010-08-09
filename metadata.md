@@ -1,7 +1,7 @@
 ---
 measure: S. 3689
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3689
@@ -25,3 +25,8 @@ Copyright Cleanup, Clarification, and Corrections Act of 2010
 - 2010-08-02 — Introduced in Senate
 - 2010-08-02 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6594-6595; text as passed Senate: CR S6595)
 - 2010-08-02 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6594-6595; text as passed Senate: CR S6595)
+- 2010-08-03 — Message on Senate action sent to the House.
+- 2010-08-09 — Received in the House.
+- 2010-08-09 — Referred to House Budget
+- 2010-08-09 — Referred to House Judiciary
+- 2010-08-09 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
