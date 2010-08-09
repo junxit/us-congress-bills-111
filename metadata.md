@@ -1,7 +1,7 @@
 ---
 measure: S. 2781
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2781
@@ -78,3 +78,8 @@ Rosa's Law
 - 2010-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
 - 2010-08-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6976-6977; text as passed Senate: CR S6976)
 - 2010-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6976-6977; text as passed Senate: CR S6976)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-09 — Received in the House.
+- 2010-08-09 — Referred to House Education and Labor
+- 2010-08-09 — Referred to House Energy and Commerce
+- 2010-08-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
