@@ -1,7 +1,7 @@
 ---
 measure: S. 3656
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3656
@@ -38,9 +38,10 @@ Mandatory Price Reporting Act of 2010
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+- House — Agriculture Committee
 
 ## Actions
 
@@ -56,3 +57,16 @@ Mandatory Price Reporting Act of 2010
 - 2010-08-06 — Message on Senate action sent to the House.
 - 2010-08-09 — Received in the House.
 - 2010-08-09 — Referred to the House Committee on Agriculture.
+- 2010-09-15 — Cleared for White House.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6706-6707)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 3656.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Mr. Scott (GA) moved to suspend the rules and pass the bill.
+- 2010-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6706-6707)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6706-6707)
+- 2010-09-21 — Presented to President.
+- 2010-09-21 — Presented to President.
+- 2010-09-27 — Became Public Law No: 111-239.
+- 2010-09-27 — Became Public Law No: 111-239.
+- 2010-09-27 — Signed by President.
+- 2010-09-27 — Signed by President.
