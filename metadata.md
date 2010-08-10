@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6080
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6080
@@ -16,7 +16,7 @@ Making emergency supplemental appropriations for border security for the fiscal 
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
@@ -30,6 +30,7 @@ Making emergency supplemental appropriations for border security for the fiscal 
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
 
 ## Committees (2)
 
@@ -43,3 +44,9 @@ Making emergency supplemental appropriations for border security for the fiscal 
 - 2010-08-09 — Referred to House Appropriations
 - 2010-08-09 — Referred to House Budget
 - 2010-08-09 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-08-10 — Considered under suspension of the rules. (consideration: CR H6584-6589)
+- 2010-08-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6080.
+- 2010-08-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-08-10 — Mr. Price (NC) moved to suspend the rules and pass the bill.
+- 2010-08-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6584)
+- 2010-08-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6584)
