@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1606
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1606
@@ -20,6 +20,11 @@ Providing for consideration of the Senate amendment to the House amendment to th
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2010-08-10 — [House 111-2-516](votes/house-111-2-0516.md) — On Ordering the Previous Question — **Passed** (244–164)
+- 2010-08-10 — [House 111-2-517](votes/house-111-2-0517.md) — On Agreeing to the Resolution — **Passed** (229–173)
+
 ## Actions
 
 - 2010-08-09 — Introduced in House
@@ -27,3 +32,12 @@ Providing for consideration of the Senate amendment to the House amendment to th
 - 2010-08-09 — Placed on the House Calendar, Calendar No. 231.
 - 2010-08-09 — The House Committee on Rules reported an original measure, H. Rept. 111-584, by Ms. Slaughter.
 - 2010-08-09 — The House Committee on Rules reported an original measure, H. Rept. 111-584, by Ms. Slaughter.
+- 2010-08-10 — Considered as privileged matter. (consideration: CR H6589-6597)
+- 2010-08-10 — Considered as unfinished business. (consideration: CR H6603)
+- 2010-08-10 — Considered as unfinished business. (consideration: CR H6604)
+- 2010-08-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 1606.
+- 2010-08-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-08-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 173 (Roll no. 517). (text: CR H6590)
+- 2010-08-10 — On ordering the previous question Agreed to by the Yeas and Nays: 244 - 164 (Roll no. 516). (consideration: CR H6597, H6603)
+- 2010-08-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1606, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Dreier demanded the Yeas and Nays and the Chair postponed further proceedings on ordering the previous question on H.Res. 1606 until a time to be announced.
+- 2010-08-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 173 (Roll no. 517).(text: CR H6590)
