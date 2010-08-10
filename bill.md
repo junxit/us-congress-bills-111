@@ -1,0 +1,140 @@
+---
+legis-num: H.R. 6094
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6094
+
+> To establish the National Commission on Outer Continental Shelf Oil Spill Prevention.
+
+## § 1. National Commission on Outer Continental Shelf Oil Spill Prevention
+
+- **(a)** *Establishment* There is established in the Legislative branch the National Commission on Outer Continental Shelf Oil Spill Prevention (referred to in this section as the “Commission”).
+- **(b)** *Purposes* The purposes of the Commission are—
+  - **(1)** to examine and report on the facts and causes relating to the Deepwater Horizon explosion and oil spill of 2010;
+  - **(2)** to ascertain, evaluate, and report on the evidence developed by all relevant governmental agencies regarding the facts and circumstances surrounding the incident;
+  - **(3)** to build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
+    - **(A)** the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate;
+    - **(B)** the Committee on Natural Resources and the Subcommittee on Oversight and Investigations of the House of Representatives; and
+    - **(C)** other Executive branch, congressional, or independent commission investigations into the Deepwater Horizon incident of 2010, other fatal oil platform accidents and major spills, and major oil spills generally;
+  - **(4)** to make a full and complete accounting of the circumstances surrounding the incident, and the extent of the preparedness of the United States for, and immediate response of the United States to, the incident; and
+  - **(5)** to investigate and report to the President and Congress findings, conclusions, and recommendations for corrective measures that may be taken to prevent similar incidents.
+- **(c)** *Composition of Commission*
+  - **(1)** *Members* The Commission shall be composed of 10 members, of whom—
+    - **(A)** 1 member shall be appointed by the President, who shall serve as Chairperson of the Commission;
+    - **(B)** 1 member shall be appointed by the majority or minority (as the case may be) leader of the Senate from the Republican Party and the majority or minority (as the case may be) leader of the House of Representatives from the Republican Party, who shall serve as Vice Chairperson of the Commission;
+    - **(C)** 2 members shall be appointed by the senior member of the leadership of the Senate from the Democratic Party;
+    - **(D)** 2 members shall be appointed by the senior member of the leadership of the House of Representatives from the Republican Party;
+    - **(E)** 2 members shall be appointed by the senior member of the leadership of the Senate from the Republican Party; and
+    - **(F)** 2 members shall be appointed by the senior member of the leadership of the House of Representatives from the Democratic Party.
+  - **(2)** *Qualifications; initial meeting*
+    - **(A)** *Political party affiliation* Not more than 5 members of the Commission shall be from the same political party.
+    - **(B)** *Nongovernmental appointees* An individual appointed to the Commission may not be a current officer or employee of the Federal Government or any State or local government.
+    - **(C)** *Other qualifications* It is the sense of Congress that individuals appointed to the Commission should be prominent United States citizens, with national recognition and significant depth of experience and expertise in such areas as—
+      - **(i)** engineering;
+      - **(ii)** environmental compliance;
+      - **(iii)** health and safety law (particularly oil spill legislation);
+      - **(iv)** oil spill insurance policies;
+      - **(v)** public administration;
+      - **(vi)** oil and gas exploration and production;
+      - **(vii)** environmental cleanup; and
+      - **(viii)** fisheries and wildlife management.
+    - **(D)** *Deadline for appointment* All members of the Commission shall be appointed on or before September 15, 2010.
+    - **(E)** *Initial meeting* The Commission shall meet and begin the operations of the Commission as soon as practicable after the date of enactment of this Act.
+  - **(3)** *Quorum; vacancies*
+    - **(A)** *In general* After the initial meeting of the Commission, the Commission shall meet upon the call of the Chairperson or a majority of the members of the Commission.
+    - **(B)** *Quorum* Six members of the Commission shall constitute a quorum.
+    - **(C)** *Vacancies* Any vacancy in the Commission shall not affect the powers of the Commission, but shall be filled in the same manner in which the original appointment was made.
+- **(d)** *Functions of Commission*
+  - **(1)** *In general* The functions of the Commission are—
+    - **(A)** to conduct an investigation that—
+      - **(i)** investigates relevant facts and circumstances relating to the Deepwater Horizon incident of April 20, 2010, and the associated oil spill thereafter, including any relevant legislation, Executive order, regulation, plan, policy, practice, or procedure; and
+      - **(ii)** may include relevant facts and circumstances relating to—
+        - **(I)** permitting agencies;
+        - **(II)** environmental and worker safety law enforcement agencies;
+        - **(III)** national energy requirements;
+        - **(IV)** deepwater and ul­tra­deep­wa­ter oil and gas exploration and development;
+        - **(V)** regulatory specifications, testing, and requirements for offshore oil and gas well explosion prevention;
+        - **(VI)** regulatory specifications, testing, and requirements offshore oil and gas well casing and cementing regulation;
+        - **(VII)** the role of congressional oversight and resource allocation; and
+        - **(VIII)** other areas of the public and private sectors determined to be relevant to the Deepwater Horizon incident by the Commission;
+    - **(B)** to identify, review, and evaluate the lessons learned from the Deepwater Horizon incident of April 20, 2010, regarding the structure, coordination, management policies, and procedures of the Federal Government, and, if appropriate, State and local governments and nongovernmental entities, and the private sector, relative to detecting, preventing, and responding to those incidents; and
+    - **(C)** to submit to the President and Congress such reports as are required under this section containing such findings, conclusions, and recommendations as the Commission determines to be appropriate, including proposals for organization, coordination, planning, management arrangements, procedures, rules, and regulations.
+  - **(2)** *Relationship to inquiry by congressional committees* In investigating facts and circumstances relating to energy policy, the Commission shall—
+    - **(A)** first review the information compiled by, and any findings, conclusions, and recommendations of, the committees identified in subparagraphs (A) and (B) of subsection (b)(3); and
+    - **(B)** after completion of that review, pursue any appropriate area of inquiry, if the Commission determines that—
+      - **(i)** those committees have not investigated that area;
+      - **(ii)** the investigation of that area by those committees has not been completed; or
+      - **(iii)** new information not reviewed by the committees has become available with respect to that area.
+- **(e)** *Powers of Commission*
+  - **(1)** *Hearings and evidence* The Commission or, on the authority of the Commission, any subcommittee or member of the Commission, may, for the purpose of carrying out this section—
+    - **(A)** hold such hearings, meet and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
+    - **(B)** require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, documents, tapes, and materials;
+  - **(2)** *Subpoenas*
+    - **(A)** *Issuance*
+      - **(i)** *In general* A subpoena may be issued under this paragraph only—
+        - **(I)** by the agreement of the Chairperson and the Vice Chairperson; or
+        - **(II)** by the affirmative vote of 6 members of the Commission.
+      - **(ii)** *Signature* Subject to clause (i), a subpoena issued under this paragraph—
+        - **(I)** shall bear the signature of the Chairperson or any member designated by a majority of the Commission; and
+        - **(II)** may be served by any person or class of persons designated by the Chairperson or by a member designated by a majority of the Commission for that purpose.
+    - **(B)** *Enforcement*
+      - **(i)** *In general* In the case of contumacy or failure to obey a subpoena issued under subparagraph (A), the United States district court for the district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring the person to appear at any designated place to testify or to produce documentary or other evidence.
+      - **(ii)** *Judicial action for noncompliance* Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+      - **(iii)** *Additional enforcement* In the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this subsection, the Commission may, by majority vote, certify a statement of fact constituting such failure to the appropriate United States attorney, who may bring the matter before the grand jury for action, under the same statutory authority and procedures as if the United States attorney had received a certification under sections 102 through 104 of the Revised Statutes (2 U.S.C. 192 through 194).
+  - **(3)** *Contracting* The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge the duties of the Commission under this section.
+  - **(4)** *Information from Federal agencies*
+    - **(A)** *In general* The Commission may secure directly from any Executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Federal Government, information, suggestions, estimates, and statistics for the purposes of this section.
+    - **(B)** *Cooperation* Each Federal department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairperson, the Chairperson of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
+    - **(C)** *Receipt, handling, storage, and dissemination* Information shall be received, handled, stored, and disseminated only by members of the Commission and the staff of the Commission in accordance with all applicable laws (including regulations and Executive orders).
+  - **(5)** *Assistance from Federal agencies*
+    - **(A)** *General services administration* The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services for the performance of the functions of the Commission.
+    - **(B)** *Other departments and agencies* In addition to the assistance prescribed in subparagraph (A), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as are determined to be advisable and authorized by law.
+  - **(6)** *Gifts* The Commission may accept, use, and dispose of gifts or donations of services or property, including travel, for the direct advancement of the functions of the Commission.
+  - **(7)** *Postal services* The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+- **(f)** *Public meetings and hearings*
+  - **(1)** *Public meetings and release of public versions of reports* The Commission shall—
+    - **(A)** hold public hearings and meetings, to the extent appropriate; and
+    - **(B)** release public versions of the reports required under paragraphs (1) and (2) of subsection (j).
+  - **(2)** *Public hearings* Any public hearings of the Commission shall be conducted in a manner consistent with the protection of proprietary or sensitive information provided to or developed for or by the Commission as required by any applicable law (including a regulation or Executive order).
+- **(g)** *Staff of Commission*
+  - **(1)** *In general*
+    - **(A)** *Appointment and compensation*
+      - **(i)** *In general* The Chairperson, in consultation with the Vice Chairperson and in accordance with rules agreed upon by the Commission, may, without regard to the civil service laws (including regulations), appoint and fix the compensation of a staff director and such other personnel as are necessary to enable the Commission to carry out the functions of the Commission.
+      - **(ii)** *Maximum rate of pay* No rate of pay fixed under this subparagraph may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code.
+    - **(B)** *Personnel as Federal employees*
+      - **(i)** *In general* The staff director and any personnel of the Commission who are employees shall be considered to be employees under section 2105 of title 5, United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+      - **(ii)** *Members of commission* Clause (i) shall not apply to members of the Commission.
+  - **(2)** *Detailees*
+    - **(A)** *In general* An employee of the Federal Government may be detailed to the Commission without reimbursement.
+    - **(B)** *Civil service status* The detail of the employee shall be without interruption or loss of civil service status or privilege.
+  - **(3)** *Procurement of temporary and intermittent services* The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+- **(h)** *Compensation and travel expenses*
+  - **(1)** *Compensation of members*
+    - **(A)** *Non-federal employees* A member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
+    - **(B)** *Federal employees* A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation in addition to the compensation received for the services of the member as an officer or employee of the Federal Government.
+  - **(2)** *Travel expenses* A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+- **(i)** *Security clearances for Commission members and staff*
+  - **(1)** *In general* Subject to paragraph (2), the appropriate Federal agencies or departments shall cooperate with the Commission in expeditiously providing to the members and staff of the Commission appropriate security clearances, to the maximum extent practicable, pursuant to existing procedures and requirements.
+  - **(2)** *Proprietary information* No person shall be provided with access to proprietary information under this section without the appropriate security clearances.
+- **(j)** *Reports of Commission; adjournment*
+  - **(1)** *Interim reports* The Commission may submit to the President and Congress interim reports containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of members of the Commission.
+  - **(2)** *Final report* Not later than 180 days after the date of the enactment of this Act, the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of members of the Commission.
+  - **(3)** *Temporary adjournment*
+    - **(A)** *In general* The Commission, and all the authority provided under this section, shall adjourn and be suspended, respectively, on the date that is 60 days after the date on which the final report is submitted under paragraph (2).
+    - **(B)** *Administrative activities before termination* The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding activities of the Commission, including—
+      - **(i)** providing testimony to committees of Congress concerning reports of the Commission; and
+      - **(ii)** disseminating the final report submitted under paragraph (2).
+    - **(C)** *Reconvening of Commission* The Commission shall stand adjourned until such time as the President or the Secretary of Homeland Security declares an oil spill of national significance to have occurred, at which time—
+      - **(i)** the Commission shall reconvene in accordance with subsection (c)(3); and
+      - **(ii)** the authority of the Commission under this section shall be of full force and effect.
+- **(k)** *Funding*
+  - **(1)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
+    - **(A)** $10,000,000 for the first fiscal year in which the Commission convenes; and
+    - **(B)** $3,000,000 for each fiscal year thereafter in which the Commission convenes.
+  - **(2)** *Availability* Amounts made available to carry out this section shall be available—
+    - **(A)** for transfer to the Commission for use in carrying out the functions and activities of the Commission under this section; and
+    - **(B)** until the date on which the Commission adjourns for the fiscal year under subsection (j)(3).
+- **(l)** *Nonapplicability of Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
