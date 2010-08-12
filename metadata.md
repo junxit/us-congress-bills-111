@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6080
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6080
@@ -50,3 +50,9 @@ Making emergency supplemental appropriations for border security for the fiscal 
 - 2010-08-10 — Mr. Price (NC) moved to suspend the rules and pass the bill.
 - 2010-08-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6584)
 - 2010-08-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6584)
+- 2010-08-12 — Cleared for White House.
+- 2010-08-12 — Message on Senate action sent to the House.
+- 2010-08-12 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6996-6999)
+- 2010-08-12 — Presented to President.
+- 2010-08-12 — Presented to President.
+- 2010-08-12 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6996-6999)
