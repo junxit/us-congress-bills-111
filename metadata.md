@@ -1,7 +1,7 @@
 ---
 measure: S. 3762
 congress: 111
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 3762
@@ -25,3 +25,4 @@ A bill to reinstate funds to the Federal Land Disposal Account.
 - 2010-08-05 — Introduced in Senate
 - 2010-08-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (text of measure as introduced: CR S6905)
 - 2010-08-05 — Sponsor introductory remarks on measure. (CR S6905)
+- 2010-08-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 551.
