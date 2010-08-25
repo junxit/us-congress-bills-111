@@ -189,7 +189,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 
 - House — Ways and Means Committee
 
-## Recorded votes (15)
+## Recorded votes (16)
 
 - 2009-03-19 — [House 111-1-143](votes/house-111-1-0143.md) — On Motion to Suspend the Rules and Pass — **Passed** (328–93)
 - 2010-03-16 — [Senate 111-2-50](votes/senate-111-2-0050.md) — On the Motion to Table — **Motion to Table Agreed to** (68–29)
@@ -206,6 +206,7 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2010-08-04 — [Senate 111-2-224](votes/senate-111-2-0224.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
 - 2010-08-04 — [Senate 111-2-225](votes/senate-111-2-0225.md) — On the Motion — **Motion Agreed to** (61–38)
 - 2010-08-05 — [Senate 111-2-228](votes/senate-111-2-0228.md) — On the Motion — **Motion Agreed to** (61–39)
+- 2010-08-10 — [House 111-2-518](votes/house-111-2-0518.md) — On Motion to Concur in Senate Amendment to House Amendment to Senate Amendment — **Passed** (247–161)
 
 ## Actions
 
@@ -630,3 +631,17 @@ FAA Air Transportation Modernization and Safety Improvement Act
 - 2010-08-05 — Roll call votes on amendments in Senate: Amendment SA 4575 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 228.(consideration: CR S6766)
 - 2010-08-05 — Senate amendment agreed to: Amendment SA 4575 agreed to in Senate by Yea-Nay Vote. 61 - 39. Record Vote Number: 228.(consideration: CR S6766)
 - 2010-08-05 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 1586) with an amendment (SA 4575) by Yea-Nay Vote. 61 - 39. Record Vote Number: 228. (consideration: CR S6766)
+- 2010-08-06 — Message on Senate action sent to the House.
+- 2010-08-10 — Became Public Law No: 111-226.
+- 2010-08-10 — Became Public Law No: 111-226.
+- 2010-08-10 — Cleared for White House.
+- 2010-08-10 — DEBATE - Pursuant to H.Res. 1606, the House proceeded with one hour of debate, equally divided and controlled, on the motion to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 1586.
+- 2010-08-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-08-10 — Mr. Obey moved that the House agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H6604-6625; text as House agreed to the Senate amendment to the House amendment to the Senate amendment: CR H6604-6609)
+- 2010-08-10 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 247 - 161 (Roll no. 518). (consideration: CR H6609-6625; text: CR H6609)
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Presented to President.
+- 2010-08-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 247 - 161 (Roll no. 518).(consideration: CR H6609-6625; text: CR H6609)
+- 2010-08-10 — Signed by President.
+- 2010-08-10 — Signed by President.
+- 2010-08-10 — The previous question was ordered pursuant to the rule. (consideration: CR H6625)
