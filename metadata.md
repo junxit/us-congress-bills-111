@@ -1,7 +1,7 @@
 ---
 measure: S. 3162
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3162
@@ -16,7 +16,7 @@ A bill to clarify the health care provided by the Secretary of Veterans Affairs 
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (58)
+## Cosponsors (59)
 
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Bayh, Evan [D-IN] (B001233)
@@ -76,6 +76,7 @@ A bill to clarify the health care provided by the Secretary of Veterans Affairs 
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
 
@@ -86,3 +87,9 @@ A bill to clarify the health care provided by the Secretary of Veterans Affairs 
 - 2010-03-24 — Introduced in Senate
 - 2010-03-24 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S2026)
 - 2010-03-24 — Sponsor introductory remarks on measure. (CR S2026)
+- 2010-03-26 — Passed Senate without amendment by Unanimous Consent. (text: CR S2165)
+- 2010-03-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2165)
+- 2010-03-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2165)
+- 2010-03-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2165)
+- 2010-04-13 — Held at the desk.
+- 2010-04-13 — Received in the House.
