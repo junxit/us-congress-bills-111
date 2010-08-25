@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4573
