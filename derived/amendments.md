@@ -1,7 +1,7 @@
 ---
 measure: S. 3191
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 

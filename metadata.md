@@ -1,7 +1,7 @@
 ---
 measure: S. 3191
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 3191
@@ -21,3 +21,5 @@ Satellite Television Extension and Localism Act of 2010
 - 2010-03-26 — Introduced in Senate
 - 2010-03-26 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2168-2180; text: CR S2169-2180)
 - 2010-03-26 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2168-2180; text: CR S2169-2180)
+- 2010-04-13 — Held at the desk.
+- 2010-04-13 — Received in the House.
