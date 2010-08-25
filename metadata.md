@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1586

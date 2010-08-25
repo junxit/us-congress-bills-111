@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1586
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -50,7 +50,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | Subsection (d) of section 904 of the Internal Revenue Code of 1986 is amended by redesignating paragraph (6) as paragraph (7) and by inserting after paragraph (5) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 960 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (5) of section 304(b) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (B) as subparagraph (C) and by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Subparagraph (A) of section 864(e)(5) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subparagraph (A) of section 864(e)(5) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (1) of section 861(a) of the Internal Revenue Code of 1986 is amended by striking subparagraph (A) and by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (B) of section 871(i)(2) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 871 of such Code is amended by redesignating subsections (l) and (m) as subsections (m) and (n), respectively, and by inserting after subsection (k) the following new subsection: | the bill names no machine-readable US Code section |
