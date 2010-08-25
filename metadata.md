@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4899
 congress: 111
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4899
@@ -212,7 +212,7 @@ Supplemental Appropriations Act, 2010
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (18)
+## Recorded votes (20)
 
 - 2010-03-24 — [House 111-2-185](votes/house-111-2-0185.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (239–176)
 - 2010-03-24 — [House 111-2-186](votes/house-111-2-0186.md) — On Passage — **Passed** (239–175)
@@ -232,6 +232,8 @@ Supplemental Appropriations Act, 2010
 - 2010-07-01 — [House 111-2-431](votes/house-111-2-0431.md) — Third Portion of the Divided Question [Amendment 3] — **Failed** (25–376)
 - 2010-07-01 — [House 111-2-432](votes/house-111-2-0432.md) — Fourth Portion of the Divided Question [Amendment 4] — **Failed** (100–321)
 - 2010-07-01 — [House 111-2-433](votes/house-111-2-0433.md) — Fifth Portion of the Divided Question [Amendment 5] — **Failed** (162–260)
+- 2010-07-22 — [Senate 111-2-219](votes/senate-111-2-0219.md) — On the Cloture Motion — **Cloture Motion Rejected** (46–51)
+- 2010-07-27 — [House 111-2-474](votes/house-111-2-0474.md) — On Motion to Suspend the Rules, Recede from the House Amdt, and Concur in the Senate Amdt — **Passed** (308–114)
 
 ## Actions
 
@@ -610,3 +612,25 @@ Supplemental Appropriations Act, 2010
 - 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the second portion of the divided question [amendment 2]. Agreed to by the Yeas and Nays: 239 - 182, 1 Present (Roll no. 430).(text: CR H5371-5383)
 - 2010-07-01 — Resolving differences -- House actions: On motion that the House concur in the Senate amendment to the text with the third portion of divided question [amendment 3] Failed by recorded vote: 25 - 376, 22 Present (Roll no. 431).(text: CR H5383)
 - 2010-07-01 — The previous question was ordered pursuant to the rule.
+- 2010-07-13 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-07-22 — Cloture motion on the motion to agree to the House amendment to the Senate amendment to the bill (H.R. 4899) presented in Senate. (consideration: CR S6190; text: CR S6190)
+- 2010-07-22 — Cloture on the motion to agree to the House amendment to Senate amendment to the bill (H.R. 4899) not invoked in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 219.
+- 2010-07-22 — Measure laid before Senate by unanimous consent. (consideration: CR S6190)
+- 2010-07-22 — Motion by Senator Reid to agree to the House amendment to the Senate amendment to the bill (H.R. 4899) made in Senate.
+- 2010-07-22 — Motion by Senator Reid to agree to the House amendment to the Senate amendment to the bill (H.R. 4899) withdrawn by unanimous consent in Senate. (consideration: CR H6190)
+- 2010-07-22 — Resolving differences -- Senate actions: Senate disagreed to the House amendment to the Senate amendment by Unanimous Consent.
+- 2010-07-22 — Senate disagreed to the House amendment to the Senate amendment by Unanimous Consent.
+- 2010-07-26 — Message on Senate action sent to the House.
+- 2010-07-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-07-27 — Cleared for White House.
+- 2010-07-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to recede and concur in the Senate amendment to H.R. 4899.
+- 2010-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-07-27 — Mr. Obey moved that the House suspend the rules and recede and concur in the Senate amendment. (consideration: CR H6052-6068, H6124-6125)
+- 2010-07-27 — On motion that the House suspend the rules and recede and concur in the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 308 - 114 (Roll no. 474). (text as House recede and concur in the Senate amendment: CR H6052-6062)
+- 2010-07-27 — Resolving differences -- House actions: On motion that the House suspend the rules and recede and concur in the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 308 - 114 (Roll no. 474).(text as House recede and concur in the Senate amendment: CR H6052-6062)
+- 2010-07-29 — Became Public Law No: 111-212.
+- 2010-07-29 — Became Public Law No: 111-212.
+- 2010-07-29 — Presented to President.
+- 2010-07-29 — Presented to President.
+- 2010-07-29 — Signed by President.
+- 2010-07-29 — Signed by President.
