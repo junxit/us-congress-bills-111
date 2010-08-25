@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5320
 congress: 111
-version: Referred in Senate
+version: Engrossed in House
 ---
 
 # H.R. 5320
