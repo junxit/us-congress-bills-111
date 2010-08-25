@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4573
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4573
@@ -105,3 +105,23 @@ Haiti Debt Relief and Earthquake Recovery Act of 2010
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1288)
 - 2010-03-10 — The title of the measure was amended. Agreed to without objection.
 - 2010-03-11 — Received in the Senate, read twice.
+- 2010-03-26 — Amendment SA 3718 agreed to in Senate by Unanimous Consent.
+- 2010-03-26 — Amendment SA 3718 proposed by Senator Kaufman for Senator Dodd. (consideration: CR S2165-2166; text: CR S2165-2166) To make technical corrections.
+- 2010-03-26 — Measure laid before Senate by unanimous consent. (consideration: CR S2165-2166)
+- 2010-03-26 — Passed Senate with amendments by Unanimous Consent.
+- 2010-03-26 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2010-03-26 — Senate amendment agreed to: Amendment SA 3718 agreed to in Senate by Unanimous Consent.
+- 2010-03-26 — Senate amendment proposed (on the floor): Amendment SA 3718 proposed by Senator Kaufman for Senator Dodd.(consideration: CR S2165-2166; text: CR S2165-2166)
+- 2010-03-26 — Senate amendment submitted
+- 2010-04-14 — Cleared for White House.
+- 2010-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4573.
+- 2010-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-04-14 — Ms. Waters moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H2512-2513)
+- 2010-04-14 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H2512)
+- 2010-04-14 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H2512)
+- 2010-04-15 — Presented to President.
+- 2010-04-15 — Presented to President.
+- 2010-04-26 — Became Public Law No: 111-158.
+- 2010-04-26 — Became Public Law No: 111-158.
+- 2010-04-26 — Signed by President.
+- 2010-04-26 — Signed by President.
