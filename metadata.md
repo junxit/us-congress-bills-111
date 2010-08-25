@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 111
-version: Received in Senate
+version: Engrossed in House
 ---
 
 # H.R. 2476
