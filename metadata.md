@@ -1,7 +1,7 @@
 ---
 measure: S. 3539
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3539
@@ -29,3 +29,7 @@ San Francisco Bay Restoration Act
 - 2010-06-25 — Introduced in Senate
 - 2010-06-25 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S5462)
 - 2010-06-25 — Sponsor introductory remarks on measure. (CR S5461-5462)
+- 2010-06-30 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-02 — Committee on Environment and Public Works. Reported by Senator Boxer under authority of the order of the Senate of 08/05/2010 with an amendment in the nature of a substitute. With written report No. 111-284.
+- 2010-09-02 — Committee on Environment and Public Works. Reported by Senator Boxer under authority of the order of the Senate of 08/05/2010 with an amendment in the nature of a substitute. With written report No. 111-284.
+- 2010-09-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
