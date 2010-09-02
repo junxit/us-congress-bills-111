@@ -1,7 +1,7 @@
 ---
 measure: S. 3609
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3609
@@ -25,3 +25,7 @@ A bill to extend the temporary authority for performance of medical disability e
 - 2010-07-19 — Introduced in Senate
 - 2010-07-19 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S5995)
 - 2010-07-19 — Sponsor introductory remarks on measure. (CR S5994-5995)
+- 2010-08-05 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2010-09-02 — Committee on Veterans' Affairs. Reported by Senator Akaka under authority of the order of the Senate of 08/05/2010 without amendment. With written report No. 111-288.
+- 2010-09-02 — Committee on Veterans' Affairs. Reported by Senator Akaka under authority of the order of the Senate of 08/05/2010 without amendment. With written report No. 111-288.
+- 2010-09-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
