@@ -1,7 +1,7 @@
 ---
 measure: S. 3073
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+37 amendatory instructions. 0 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,3 +49,22 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (12)(H), by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 118 of the Federal Water Pollution Control Act (33 U.S.C. 1268) is amended by striking subsection (h) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C), by inserting “, tribal,” after “State”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking subparagraph (H) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “,;” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (E); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (E) and (F), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (E) (as so redesignated), by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (F) (as so redesignated), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(C), by striking “subparagraph (c)(1)(C) of this section” and inserting “paragraph (1)(E)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (6) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (8) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (10) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (12)(H), by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and indenting the subparagraphs appropriately; | the bill names no machine-readable US Code section |
+| — | replace | by striking “There are authorized” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
