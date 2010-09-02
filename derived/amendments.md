@@ -1,7 +1,7 @@
 ---
 measure: S. 3234
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 0 executed, 25 stated and not applied.
+35 amendatory instructions. 0 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -56,3 +56,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 330J(c)(8) of the Public Health Service Act (42 U.S.C. 254c–15(c)(8)) is amended by inserting before the period the following: “, including, as provided by the Secretary, may use funds to provide to military veterans required cou… | the bill names no machine-readable US Code section |
 | — | insert | Subchapter III of chapter 169 of title 10, United States Code, is amended by inserting after section 2856 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of subchapter III of chapter 169 of such title is amended by inserting after the item relating to section 2856 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 32 of the Small Business Act (15 U.S.C. 657b) is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (15), by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (16), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (17). | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “, including the emergency medical services industry” after “demand”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting before the period at the end the following: “to ensure that satisfaction of such requirements may take into account, and be not duplicative of, previous coursework and training received by such members whil… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e), by inserting “the Secretary of Health and Human Services,” after “Veterans Affairs,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “The period” and inserting “The periods”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “period beginning on” and all that follows through the period and inserting the following: “periods as follows: | the bill names no machine-readable US Code section |
