@@ -1,7 +1,7 @@
 ---
 measure: S. 3325
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+34 amendatory instructions. 0 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,35 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Subchapter III of chapter 17 of title 38, United States Code, is amended by inserting after section 1722A the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1722A the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Subchapter III of chapter 17 of title 38, United States Code, is amended by inserting after section 1722A the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1722A the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Subchapter I of chapter 17 of title 38, United States Code, is amended by inserting after section 1703 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 1703 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The” and inserting “(1) The”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “under subsection (a)” and inserting “under subsection (a)(1)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “under subsection (a)” and inserting “under subsection (a)(1)”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “or issued” after “guaranteed”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), by inserting “or issued” after “guaranteed”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (g), by inserting “or issued” after “guaranteed”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “A loan” and inserting “(1) A loan”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 2052(d) of such title is amended by inserting “or issue” after “whether to guarantee”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2053(a) of such title is amended by inserting “or issued” after “is guaranteed”. | the bill names no machine-readable US Code section |
+| — | insert | in the first sentence, by inserting “or issued” after “guaranteed”; and | the bill names no machine-readable US Code section |
+| — | insert | in the last sentence, by inserting “or loan” after “guarantee”. | the bill names no machine-readable US Code section |
+| — | strike | The heading of subchapter VI of chapter 20 of such title is amended by striking “Loan guarantee for”. | the bill names no machine-readable US Code section |
+| — | replace | The table of sections at the beginning of such chapter is amended by striking the item relating to subchapter VI and inserting the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter VI of chapter 20 of such title is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 20 of such title is amended by inserting after the item relating to section 2054 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Subsection (a)(6) of section 2052 of such title is amended by inserting “including with respect to forbearance, deferral, and loan forgiveness,” after “determines are reasonable,”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (c)(1) of such section 2052 is amended by striking “or job training programs” and inserting “job training programs, other types of residential units, or other uses that the Secretary considers necessary for the sustainability … | the bill names no machine-readable US Code section |
+| — | amend | Section 2053 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter VI of chapter 20 of such title, as amended by subsection (b), is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter, as amended by subsection (b), is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2), by striking “counselling” both places it appears and inserting “counseling”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d)(2), by striking “, as assessed under section 107 of Public Law 102–405”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “In any case” and inserting “(1) Except as provided in paragraph (2), in any case”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
