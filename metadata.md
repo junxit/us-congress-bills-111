@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 2868
@@ -38,3 +38,8 @@ Federal Supply Schedules Usage Act of 2010
 - 2010-05-25 — Message on Senate action sent to the House.
 - 2010-05-25 — Received in the House.
 - 2010-05-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-14 — Placed on the Union Calendar, Calendar No. 337.
+- 2010-09-14 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-587.
+- 2010-09-14 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-587.
