@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1564
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1564
@@ -53,3 +53,9 @@ Commending and congratulating Michigan Technological University on the occasion 
 - 2010-07-27 — Introduced in House
 - 2010-07-27 — Introduced in House
 - 2010-07-27 — Referred to the House Committee on Education and Labor.
+- 2010-09-14 — Considered under suspension of the rules. (consideration: CR H6642-6643)
+- 2010-09-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1564.
+- 2010-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-14 — Mr. Sablan moved to suspend the rules and agree to the resolution.
+- 2010-09-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6642)
+- 2010-09-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6642)
