@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 597
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 597
@@ -16,7 +16,7 @@ A resolution designating September 2010 as "National Prostate Cancer Awareness M
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
-## Cosponsors (26)
+## Cosponsors (29)
 
 - Sen. Bayh, Evan [D-IN] (B001233)
 - Sen. Bennett, Robert F. [R-UT] (B000382)
@@ -44,6 +44,9 @@ A resolution designating September 2010 as "National Prostate Cancer Awareness M
 - Sen. Specter, Arlen [D-PA] (S000709)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -53,3 +56,7 @@ A resolution designating September 2010 as "National Prostate Cancer Awareness M
 
 - 2010-07-28 — Introduced in Senate
 - 2010-07-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6441-6442)
+- 2010-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S7094-7095)
+- 2010-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7094-7095)
+- 2010-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7094-7095)
+- 2010-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7094-7095)
