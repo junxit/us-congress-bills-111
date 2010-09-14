@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6102
@@ -30,3 +30,10 @@ To amend the National Defense Authorization Act for Fiscal Year 2010 to extend t
 - 2010-08-10 — Introduced in House
 - 2010-08-10 — Introduced in House
 - 2010-08-10 — Referred to the House Committee on Armed Services.
+- 2010-09-14 — Considered under suspension of the rules. (consideration: CR H6639-6640)
+- 2010-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6102.
+- 2010-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-14 — Mr. Taylor moved to suspend the rules and pass the bill.
+- 2010-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6639)
+- 2010-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6639)
+- 2010-09-14 — Referred to the Subcommittee on Seapower and Expeditionary Forces.
