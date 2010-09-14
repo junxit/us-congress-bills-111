@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5773
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5773
@@ -16,6 +16,16 @@ To designate the Federal building located at 6401 Security Boulevard in Baltimor
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
+## Cosponsors (7)
+
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +35,10 @@ To designate the Federal building located at 6401 Security Boulevard in Baltimor
 - 2010-07-19 — Introduced in House
 - 2010-07-19 — Introduced in House
 - 2010-07-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-07-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2010-09-14 — Placed on the House Calendar, Calendar No. 234.
+- 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-592.
+- 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-592.
