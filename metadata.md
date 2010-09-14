@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1473
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1473
@@ -16,12 +16,18 @@ Supporting backcountry airstrips and recreational aviation.
 
 - Rep. Rehberg, Denny [R-MT-At Large] (R000571)
 
-## Cosponsors (4)
+## Cosponsors (10)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Boyd, Allen [D-FL-2] (B000716)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 - Rep. Minnick, Walter [D-ID-1] (M001175)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Bright, Bobby [D-AL-2] (B001264)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
 
 ## Committees (1)
 
@@ -32,3 +38,10 @@ Supporting backcountry airstrips and recreational aviation.
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-06-25 — Referred to the Subcommittee on Aviation.
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Subcommittee on Aviation Discharged.
+- 2010-09-14 — Placed on the House Calendar, Calendar No. 235.
+- 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-593.
+- 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-593.
