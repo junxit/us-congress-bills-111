@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5366
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5366
@@ -25,3 +25,8 @@ Overseas Contractor Reform Act
 - 2010-05-20 — Introduced in House
 - 2010-05-20 — Introduced in House
 - 2010-05-20 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Ordered to be Reported by Voice Vote.
+- 2010-09-14 — Placed on the Union Calendar, Calendar No. 338.
+- 2010-09-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 111-588.
+- 2010-09-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 111-588.
