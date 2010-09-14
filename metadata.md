@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 603
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 603
@@ -16,7 +16,7 @@ A resolution commemorating the 50th anniversary of the National Council for Inte
 
 - Sen. Specter, Arlen [D-PA] (S000709)
 
-## Cosponsors (23)
+## Cosponsors (26)
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -41,6 +41,9 @@ A resolution commemorating the 50th anniversary of the National Council for Inte
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
 
 ## Committees (1)
 
@@ -50,3 +53,7 @@ A resolution commemorating the 50th anniversary of the National Council for Inte
 
 - 2010-07-30 — Introduced in Senate
 - 2010-07-30 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6554)
+- 2010-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S7095)
+- 2010-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7095)
+- 2010-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7095)
+- 2010-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7095)
