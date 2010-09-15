@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6102
@@ -38,3 +38,14 @@ To amend the National Defense Authorization Act for Fiscal Year 2010 to extend t
 - 2010-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6639)
 - 2010-09-14 — Referred to the Subcommittee on Seapower and Expeditionary Forces.
 - 2010-09-15 — Received in the Senate, read twice.
+- 2010-09-16 — Cleared for White House.
+- 2010-09-16 — Message on Senate action sent to the House.
+- 2010-09-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7181)
+- 2010-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7181)
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-27 — Became Public Law No: 111-238.
+- 2010-09-27 — Became Public Law No: 111-238.
+- 2010-09-27 — Signed by President.
+- 2010-09-27 — Signed by President.
+- 2010-10-01 — Referred to the Subcommittee on Seapower and Expeditionary Forces.
