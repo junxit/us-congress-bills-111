@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1583
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1583
@@ -34,3 +34,11 @@ Observing the fifth anniversary of the date on which Hurricane Rita devastated t
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-08-02 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6719-6721)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1583.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution, as amended.
+- 2010-09-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6719)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6719)
+- 2010-09-15 — The title of the measure was amended. Agreed to without objection.
