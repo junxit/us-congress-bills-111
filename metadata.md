@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1610
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1610
@@ -30,6 +30,10 @@ Expressing the sense of the House of Representatives regarding the terrorist att
 - House — Foreign Affairs Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-09-15 — [House 111-2-525](votes/house-111-2-0525.md) — On Motion to Suspend the Rules and Agree — **Passed** (410–0)
+
 ## Actions
 
 - 2010-09-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
@@ -47,3 +51,7 @@ Expressing the sense of the House of Representatives regarding the terrorist att
 - 2010-09-14 — Referred to House Transportation and Infrastructure
 - 2010-09-14 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-09-14 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-09-15 — Considered as unfinished business. (consideration: CR H6724-6725)
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 525). (text: CR 9/14/2010 H6631)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 525).(text: CR 9/14/2010 H6631)

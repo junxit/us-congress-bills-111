@@ -2,7 +2,7 @@
 legis-num: H. RES. 1610
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1610
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas on the morning of September 11, 2001, terrorists hijacked and destroyed four civilian aircraft, crashing two of them into the towers of the World Trade Center in New York City and a third into the Pentagon outside of Washington, DC;
+- Whereas on the morning of September 11, 2001, terrorists hijacked and destroyed four civilian aircraft, crashing two of them into the towers of the World Trade Center in New York City and a third into the Pentagon outside of Washington, D.C.;
 - Whereas the passengers and crew aboard the fourth civilian aircraft, United Airlines Flight 93, acted heroically to prevent the terrorist hijackers from taking additional American lives, by crashing the plane in Shanksville, Pennsylvania, and sacrificing their own lives instead;
 - Whereas thousands of innocent men, women, and children were brutally murdered in the attacks of September 11, 2001;
 - Whereas nine years later, the United States continues to mourn the lives lost on September 11, 2001;
