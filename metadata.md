@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2868
@@ -50,3 +50,14 @@ Federal Supply Schedules Usage Act of 2010
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6699)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6699)
 - 2010-09-15 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-16 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2010-09-27 — Cleared for White House.
+- 2010-09-27 — Resolving differences -- Senate actions: Senate agreed to the House amendments by Unanimous Consent.(consideration: CR S7557; text as Senate agreed to House amendments: CR S7557)
+- 2010-09-27 — Senate agreed to the House amendments by Unanimous Consent. (consideration: CR S7557; text as Senate agreed to House amendments: CR S7557)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-29 — Presented to President.
+- 2010-09-29 — Presented to President.
+- 2010-10-08 — Became Public Law No: 111-263.
+- 2010-10-08 — Became Public Law No: 111-263.
+- 2010-10-08 — Signed by President.
+- 2010-10-08 — Signed by President.

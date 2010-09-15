@@ -1,12 +1,37 @@
 ---
 legis-num: S. 2868
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2868
 
-That the bill from the Senate (S. 2868) entitled “An Act to provide increased access to the General Services Administration’s Schedules Program by the American Red Cross and State and local governments.”, do pass with the following
+> To provide increased access to the Federal supply schedules of the General Services Administration to the American Red Cross, other qualified organizations, and State and local governments.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “Federal Supply Schedules Usage Act of 2010”.
+
+## § 2. Authority of the American Red Cross and other qualified organizations to use Federal supply schedules for certain goods and services
+
+Section 502 of title 40, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(e)** *Use of Supply Schedules by the Red Cross and other qualified organizations*
+>   - **(1)** *In general* The Administrator may provide for the use by the American National Red Cross and other qualified organizations of Federal supply schedules. Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in section 300102 of title 36, United States Code. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.
+>   - **(2)** *Limitation* The authority under this subsection may not be used to purchase supplies for resale.
+>   - **(3)** *Qualified organization* In this subsection, the term “qualified organization” means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152).
+
+## § 3. Duty of users regarding use of Federal supply schedules
+
+Section 502 of title 40, United States Code, as amended by section 2, is further amended by adding at the end the following new subsection:
+
+> - **(f)** *Duty of users regarding use of supply schedules* All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
+
+## § 4. Authority of State and local governments to use supply schedules for certain goods and services
+
+Subsection (d)(1) of section 502 of title 40, United States Code, is amended by inserting “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
+
+## § 5. PAYGO compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
