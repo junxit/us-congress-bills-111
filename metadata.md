@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1473
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1473
@@ -45,3 +45,9 @@ Supporting backcountry airstrips and recreational aviation.
 - 2010-09-14 — Placed on the House Calendar, Calendar No. 235.
 - 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-593.
 - 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-593.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6725-6726)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1473.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.
+- 2010-09-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6725)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6725)
