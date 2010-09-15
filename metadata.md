@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1595
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1595
@@ -16,7 +16,7 @@ Recognizing the 50th anniversary of the passage of legislation that created real
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Cosponsors (26)
+## Cosponsors (38)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -44,6 +44,18 @@ Recognizing the 50th anniversary of the passage of legislation that created real
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Boehner, John A. [R-OH-8] (B000589)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
 ## Committees (1)
 
@@ -54,3 +66,9 @@ Recognizing the 50th anniversary of the passage of legislation that created real
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Referred to the House Committee on Ways and Means.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6696-6697)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1595.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Mr. Tanner moved to suspend the rules and agree to the resolution.
+- 2010-09-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6696)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6696)
