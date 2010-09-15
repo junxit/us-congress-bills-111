@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5773
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5773
@@ -42,3 +42,10 @@ To designate the Federal building located at 6401 Security Boulevard in Baltimor
 - 2010-09-14 — Placed on the House Calendar, Calendar No. 234.
 - 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-592.
 - 2010-09-14 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-592.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6717-6719)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5773.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6718)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6718)
+- 2010-09-15 — The title of the measure was amended. Agreed to without objection.
