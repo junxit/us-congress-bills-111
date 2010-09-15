@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5366
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5366
@@ -20,6 +20,10 @@ Overseas Contractor Reform Act
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-09-15 — [House 111-2-524](votes/house-111-2-0524.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–0)
+
 ## Actions
 
 - 2010-05-20 — Introduced in House
@@ -30,3 +34,11 @@ Overseas Contractor Reform Act
 - 2010-09-14 — Placed on the Union Calendar, Calendar No. 338.
 - 2010-09-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 111-588.
 - 2010-09-14 — Reported by the Committee on Oversight and Government Reform. H. Rept. 111-588.
+- 2010-09-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-09-15 — Considered as unfinished business. (consideration: CR H6723-6724)
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6703-6704)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5366.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2010-09-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 524). (text: CR H6703)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 524).(text: CR H6703)
