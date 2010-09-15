@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2039
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “Notwithstanding” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
 | — | repeal | Section 69 of the Revised Statutes of the United States (2 U.S.C. 109) is repealed. | the bill names no machine-readable US Code section |
