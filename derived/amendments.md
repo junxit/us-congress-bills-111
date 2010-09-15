@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 10 U.S.C. § 2306b
+
+> Paragraph (2) of section 128(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2217) is amended by striking “a reference to March” and inserting “a reference to September”.
+
+| | |
+|---|---|
+| Removed | `a reference to March` |
+| Inserted | `a reference to September` |
 
 ## Stated, not applied
 
@@ -31,5 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Paragraph (2) of section 128(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2217) is amended by striking “a reference to March” and inserting “a reference to September”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section 128 is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 2306b` | add-at-end | Such section 128 is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
