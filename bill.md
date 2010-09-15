@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3116
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -37,10 +37,6 @@ This Act may be cited as the “Berry Amendment Extension Act”.
   > - **(i)** *Training*
   >   - **(1)** *In general* The Secretary shall ensure that each member of the acquisition workforce who participates personally and substantially in the acquisition of textiles on a regular basis receives training on the requirements of this section and the regulations implementing this section.
   >   - **(2)** *Inclusion of information in new training programs* The Secretary shall ensure that any training program for the acquisition workforce developed or implemented after the date of the enactment of this section includes comprehensive information on the requirements described in paragraph (1).
-  > - **(j)** *Consistency With International Agreements*
-  >   - **(1)** *In general* No provision of this section shall apply to the extent the Secretary, in consultation with the United States Trade Representative, determines that it is in inconsistent with United States obligations under an international agreement.
-  >   - **(2)** *Report* The Secretary shall submit a report each year to the Committee on Homeland Security of the House of Representatives containing, with respect to the year covered by the report—
-  >     - **(A)** a list of each provision of this section that did not apply during that year pursuant to a determination by the Secretary under paragraph (1); and
-  >     - **(B)** a list of each contract awarded by the Department of Homeland Security during that year without regard to a provision in this section because that provision was made inapplicable pursuant to such a determination.
+  > - **(j)** *Consistency With International Agreements* This section shall be applied in a manner consistent with United States obligations under international agreements.
 
 - **(b)** *Effective Date* Section 890 of the Homeland Security Act of 2002, as added by subsection (a), shall apply with respect to contracts entered into by the Department of Homeland Security on and after the date occurring 180 days after the date of the enactment of this Act.
