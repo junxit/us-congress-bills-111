@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 2868
@@ -43,3 +43,10 @@ Federal Supply Schedules Usage Act of 2010
 - 2010-09-14 — Placed on the Union Calendar, Calendar No. 337.
 - 2010-09-14 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-587.
 - 2010-09-14 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-587.
+- 2010-09-15 — Considered under suspension of the rules. (consideration: CR H6699-6700)
+- 2010-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 2868.
+- 2010-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-15 — Mr. Clay moved to suspend the rules and pass the bill, as amended.
+- 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6699)
+- 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6699)
+- 2010-09-15 — The title of the measure was amended. Agreed to without objection.

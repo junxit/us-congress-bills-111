@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 111
-version: Reported in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 502 of title 40, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 502 of title 40, United States Code, as amended by section 2, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Subsection (d)(1) of section 502 of title 40, United States Code, is amended by inserting “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of title 40, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of title 40, United States Code, as amended by section 2, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (d)(1) of section 502 of title 40, United States Code, is amended by inserting “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”. | the bill names no machine-readable US Code section |
