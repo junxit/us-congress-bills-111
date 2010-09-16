@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5297
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5297
@@ -16,7 +16,7 @@ Small Business Jobs Act of 2010
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Cosponsors (20)
+## Cosponsors (282)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -38,18 +38,290 @@ Small Business Jobs Act of 2010
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Goodwin, Carte Patrick [D-WV] (G000561)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kaufman, Edward E. [D-DE] (K000373)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Specter, Arlen [D-PA] (S000709)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Reid, Harry [D-NV] (R000146)
 
 ## Committees (1)
 
 - House — Financial Services Committee
 
-## Recorded votes (5)
+## Recorded votes (15)
 
 - 2010-06-17 — [House 111-2-371](votes/house-111-2-0371.md) — On Agreeing to the Amendment — **Agreed to** (420–0)
 - 2010-06-17 — [House 111-2-372](votes/house-111-2-0372.md) — On Agreeing to the Amendment — **Agreed to** (414–0)
 - 2010-06-17 — [House 111-2-373](votes/house-111-2-0373.md) — On Agreeing to the Amendment — **Agreed to** (418–3)
 - 2010-06-17 — [House 111-2-374](votes/house-111-2-0374.md) — On Motion to Recommit with Instructions — **Failed** (180–237)
 - 2010-06-17 — [House 111-2-375](votes/house-111-2-0375.md) — On Passage — **Passed** (241–182)
+- 2010-06-29 — [Senate 111-2-202](votes/senate-111-2-0202.md) — On the Motion — **Motion Agreed to** (66–33)
+- 2010-07-22 — [Senate 111-2-218](votes/senate-111-2-0218.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–37)
+- 2010-07-29 — [Senate 111-2-221](votes/senate-111-2-0221.md) — On the Cloture Motion — **Cloture Motion Rejected** (58–42)
+- 2010-09-14 — [Senate 111-2-231](votes/senate-111-2-0231.md) — On the Cloture Motion — **Cloture Motion Rejected** (46–52)
+- 2010-09-14 — [Senate 111-2-232](votes/senate-111-2-0232.md) — On the Cloture Motion — **Cloture Motion Rejected** (56–42)
+- 2010-09-14 — [Senate 111-2-233](votes/senate-111-2-0233.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–37)
+- 2010-09-16 — [Senate 111-2-234](votes/senate-111-2-0234.md) — On the Motion — **Motion Rejected** (41–58)
+- 2010-09-16 — [Senate 111-2-235](votes/senate-111-2-0235.md) — On the Motion — **Motion Rejected** (51–48)
+- 2010-09-16 — [Senate 111-2-236](votes/senate-111-2-0236.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
+- 2010-09-16 — [Senate 111-2-237](votes/senate-111-2-0237.md) — On Passage of the Bill — **Bill Passed** (61–38)
 
 ## Actions
 
@@ -205,3 +477,403 @@ Small Business Jobs Act of 2010
 - 2010-06-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2010-06-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-06-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
+- 2010-06-24 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5430; text: CR S5430)
+- 2010-06-24 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5430)
+- 2010-06-25 — Motion to proceed to measure considered in Senate. (consideration: CR S5461)
+- 2010-06-28 — Senate amendment submitted
+- 2010-06-29 — Amendment SA 4402 proposed by Senator Reid for Senator Baucus. (consideration: CR S5515) In the nature of a substitute.
+- 2010-06-29 — Amendment SA 4403 proposed by Senator Reid to Amendment SA 4402. (consideration: CR S5515) Of a perfecting nature.
+- 2010-06-29 — Amendment SA 4404 proposed by Senator Reid to Amendment SA 4403. (consideration: CR S5515; text: CR S5515) Of a perfecting nature.
+- 2010-06-29 — Amendment SA 4405 proposed by Senator Reid to language proposed to be stricken by amendment no. 4402. (consideration: CR S5515; text: CR S5515) To change the enactment date.
+- 2010-06-29 — Amendment SA 4406 proposed by Senator Reid to Amendment SA 4405. (consideration: CR S5515; text: CR S5515) Of a perfecting nature.
+- 2010-06-29 — Amendment SA 4407 proposed by Senator Reid. (consideration: CR S5515-5516) In the nature of a substitute.
+- 2010-06-29 — Amendment SA 4408 proposed by Senator Reid to Amendment SA 4407. (consideration: CR S5516; text: CR S5516) To change the enactment date.
+- 2010-06-29 — Amendment SA 4409 proposed by Senator Reid to Amendment SA 4408. (consideration: CR S5516; text: CR S5516) Of a perfecting nature.
+- 2010-06-29 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 202. (consideration: CR S5514-5515)
+- 2010-06-29 — Measure laid before Senate by motion. (consideration: CR S5515-5524)
+- 2010-06-29 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4407 made in Senate. (consideration: CR S5515-5516)
+- 2010-06-29 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2010-06-29 — Motion to proceed to measure considered in Senate. (consideration: CR S5511-5514)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4402 proposed by Senator Reid for Senator Baucus.(consideration: CR S5515)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4403 proposed by Senator Reid to Amendment SA 4402.(consideration: CR S5515)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4404 proposed by Senator Reid to Amendment SA 4403.(consideration: CR S5515; text: CR S5515)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4405 proposed by Senator Reid to language proposed to be stricken by amendment no. 4402.(consideration: CR S5515; text: CR S5515)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4406 proposed by Senator Reid to Amendment SA 4405.(consideration: CR S5515; text: CR S5515)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4407 proposed by Senator Reid.(consideration: CR S5515-5516)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4408 proposed by Senator Reid to Amendment SA 4407.(consideration: CR S5516; text: CR S5516)
+- 2010-06-29 — Senate amendment proposed (on the floor): Amendment SA 4409 proposed by Senator Reid to Amendment SA 4408.(consideration: CR S5516; text: CR S5516)
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-29 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-06-30 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-12 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-13 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-14 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-15 — Senate amendment submitted
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980)
+- 2010-07-19 — Considered by Senate. (consideration: CR S5980-5988)
+- 2010-07-19 — Senate amendment submitted
+- 2010-07-19 — Senate amendment submitted
+- 2010-07-19 — Senate amendment submitted
+- 2010-07-19 — Senate amendment submitted
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-20 — Senate amendment submitted
+- 2010-07-21 — Amendment SA 4499 proposed by Senator Reid for Senator Baucus. (consideration: CR S6072) In the nature of a substitute.
+- 2010-07-21 — Amendment SA 4500 proposed by Senator Reid for Senator LeMieux to Amendment SA 4499. (consideration: CR S6072) To establish the Small Business Lending Fund Program, and for other purposes.
+- 2010-07-21 — Amendment SA 4501 proposed by Senator Reid to Amendment SA 4500. (consideration: CR S6072-6073; text: CR S6073) To change the enactment date.
+- 2010-07-21 — Amendment SA 4502 proposed by Senator Reid to language proposed to be stricken by amendment no. 4499. (consideration: CR S6073; text: CR S6073) To change the enactment date.
+- 2010-07-21 — Amendment SA 4503 proposed by Senator Reid to Amendment SA 4502. (consideration: CR S6073; text: CR S6073) Of a perfecting nature.
+- 2010-07-21 — Amendment SA 4504 proposed by Senator Reid. (consideration: CR S6073; text: CR S6073) The instructions to the motion to commit.
+- 2010-07-21 — Amendment SA 4505 proposed by Senator Reid to Amendment SA 4504. (consideration: CR S6073; text: CR S6073) Of a perfecting nature.
+- 2010-07-21 — Amendment SA 4506 proposed by Senator Reid to Amendment SA 4505. (consideration: CR S6073; text: CR S6073) Of a perfecting nature.
+- 2010-07-21 — Cloture motion on amendment SA 4499 presented in Senate. (consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Cloture motion on amendment SA 4500 presented in Senate. (consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072)
+- 2010-07-21 — Considered by Senate. (consideration: CR S6072-6073)
+- 2010-07-21 — First cloture motion on the bill presented in Senate. (consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4407 withdrawn in Senate by Unanimous Consent.
+- 2010-07-21 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4504 made in Senate. (consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Proposed amendment SA 4402 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4403 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4404 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4405 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4406 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4407 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4408 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Proposed amendment SA 4409 withdrawn in Senate. (consideration: CR S6072)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4499 proposed by Senator Reid for Senator Baucus.(consideration: CR S6072)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4500 proposed by Senator Reid for Senator LeMieux to Amendment SA 4499.(consideration: CR S6072)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4501 proposed by Senator Reid to Amendment SA 4500.(consideration: CR S6072-6073; text: CR S6073)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4502 proposed by Senator Reid to language proposed to be stricken by amendment no. 4499.(consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4503 proposed by Senator Reid to Amendment SA 4502.(consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4504 proposed by Senator Reid.(consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4505 proposed by Senator Reid to Amendment SA 4504.(consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Senate amendment proposed (on the floor): Amendment SA 4506 proposed by Senator Reid to Amendment SA 4505.(consideration: CR S6073; text: CR S6073)
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-21 — Senate amendment submitted
+- 2010-07-22 — Cloture on amendment SA 4500 invoked in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 218. (consideration: CR S6189-6190; text: CR S6189)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148, S6149-6150, S6189-6190)
+- 2010-07-22 — Considered by Senate. (consideration: CR S6148-6190)
+- 2010-07-22 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4504 fell when cloture invoked on amendment SA 4500 in Senate.
+- 2010-07-22 — Roll call votes on amendments in Senate: Cloture on amendment SA 4500 invoked in Senate by Yea-Nay Vote. 60 - 37. Record Vote Number: 218.(consideration: CR S6189-6190; text: CR S6189)
+- 2010-07-22 — SA 4504 fell when cloture invoked SA 4500.
+- 2010-07-22 — SA 4505 fell when SA 4504 fell.
+- 2010-07-22 — SA 4506 fell when SA 4505 fell.
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-22 — Senate amendment submitted
+- 2010-07-26 — Senate amendment submitted
+- 2010-07-26 — Senate amendment submitted
+- 2010-07-26 — Senate amendment submitted
+- 2010-07-26 — Senate amendment submitted
+- 2010-07-27 — Amendment SA 4519 proposed by Senator Reid. (consideration: CR S6293) In the nature of a substitute.
+- 2010-07-27 — Amendment SA 4520 proposed by Senator Reid to Amendment SA 4519. (consideration: CR S6293; text: CR S6293) To change the enactment date.
+- 2010-07-27 — Amendment SA 4521 proposed by Senator Reid to Amendment SA 4520. (consideration: CR S6293; text: CR S6293) Of a perfecting nature.
+- 2010-07-27 — Amendment SA 4522 proposed by Senator Reid to language proposed to be stricken by amendment no. 4519. (consideration: CR S6293; text: CR S6293) To change the enactment date.
+- 2010-07-27 — Amendment SA 4523 proposed by Senator Reid to Amendment SA 4522. (consideration: CR S6293; text: CR S6293) Of a perfecting nature.
+- 2010-07-27 — Amendment SA 4524 proposed by Senator Reid. (consideration: CR S6293; text: CR S6293) The instructions on the motion to commit.
+- 2010-07-27 — Amendment SA 4525 proposed by Senator Reid to Amendment SA 4524. (consideration: CR S6293-6294; text: CR S6294) Of a perfecting nature.
+- 2010-07-27 — Amendment SA 4526 proposed by Senator Reid to Amendment SA 4525. (consideration: CR S6294; text: CR S6294) Of a perfecting nature.
+- 2010-07-27 — Cloture motion on amendment SA 4499 withdrawn by unanimous consent in Senate. (consideration: CR S6293)
+- 2010-07-27 — Cloture motion on amendment SA 4519 presented in Senate. (consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285)
+- 2010-07-27 — Considered by Senate. (consideration: CR S6285-6286, S6292-6294)
+- 2010-07-27 — First cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S6293)
+- 2010-07-27 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4524 made in Senate.
+- 2010-07-27 — Proposed amendment SA 4499 withdrawn in Senate. (consideration: CR S6293)
+- 2010-07-27 — Proposed amendment SA 4500 withdrawn in Senate. (consideration: CR S6293)
+- 2010-07-27 — Proposed amendment SA 4501 withdrawn in Senate. (consideration: CR S6293)
+- 2010-07-27 — Proposed amendment SA 4502 withdrawn in Senate. (consideration: CR S6293)
+- 2010-07-27 — Proposed amendment SA 4503 withdrawn in Senate. (consideration: CR S6293)
+- 2010-07-27 — Second cloture motion on the bill presented in Senate. (consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4519 proposed by Senator Reid.(consideration: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4520 proposed by Senator Reid to Amendment SA 4519.(consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4521 proposed by Senator Reid to Amendment SA 4520.(consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4522 proposed by Senator Reid to language proposed to be stricken by amendment no. 4519.(consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4523 proposed by Senator Reid to Amendment SA 4522.(consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4524 proposed by Senator Reid.(consideration: CR S6293; text: CR S6293)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4525 proposed by Senator Reid to Amendment SA 4524.(consideration: CR S6293-6294; text: CR S6294)
+- 2010-07-27 — Senate amendment proposed (on the floor): Amendment SA 4526 proposed by Senator Reid to Amendment SA 4525.(consideration: CR S6294; text: CR S6294)
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-27 — Senate amendment submitted
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351)
+- 2010-07-28 — Considered by Senate. (consideration: CR S6351-6352, S6354-6356, S6359-6365, S6373-6376, S6381-6383, S6384-6386, S8387-8388)
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-28 — Senate amendment submitted
+- 2010-07-29 — Cloture on amendment SA 4519 not invoked in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 221. (consideration: CR S6473; text: CR S6473)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460)
+- 2010-07-29 — Considered by Senate. (consideration: CR S6460-6476, S6486, S6494-6498)
+- 2010-07-29 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on amendment SA 4519 made in Senate. (consideration: CR S6473)
+- 2010-07-29 — Roll call votes on amendments in Senate: Cloture on amendment SA 4519 not invoked in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 221.(consideration: CR S6473; text: CR S6473)
+- 2010-07-29 — Second cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S6466-6473)
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-07-29 — Senate amendment submitted
+- 2010-08-05 — Amendment SA 4594 proposed by Senator Reid for Senator Baucus. (consideration: CR S6972-6973) In the nature of a substitute.
+- 2010-08-05 — Amendment SA 4595 proposed by Senator Reid for Senator Nelson FL to Amendment SA 4594. (consideration: CR S6972-6973; text: CR S6972-6973) To exempt certain amounts subject to other information reporting from the information reporting provisions of the Patient Protection and Affordable Care Act, and for other purposes.
+- 2010-08-05 — Amendment SA 4596 proposed by Senator Reid for Senator Johanns to Amendment SA 4595. (consideration: CR S6973; text: CR S6973) To repeal the expansion of information reporting requirements for payments of $600 or more to corporations, and for other purposes.
+- 2010-08-05 — Amendment SA 4597 proposed by Senator Reid to language proposed to be stricken by amendment no. 4594. (consideration: CR S6973; text: CR S6973) To change the enactment date.
+- 2010-08-05 — Amendment SA 4598 proposed by Senator Reid to Amendment SA 4597. (consideration: CR S6973; text: CR S6973) Of a perfecting nature.
+- 2010-08-05 — Amendment SA 4599 proposed by Senator Reid. (consideration: CR S6974; text: CR S6974) To provide for a study.
+- 2010-08-05 — Amendment SA 4600 proposed by Senator Reid to Amendment SA 4599. (consideration: CR S6974; text: CR S6974) Of a perfecting nature.
+- 2010-08-05 — Amendment SA 4601 proposed by Senator Reid to Amendment SA 4600. (consideration: CR S6974; text: CR S6974) Of a perfecting nature.
+- 2010-08-05 — Cloture motion on amendment SA 4594 presented in Senate. (consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Cloture motion on amendment SA 4595 presented in Senate. (consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Cloture motion on amendment SA 4596 presented in Senate. (consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972)
+- 2010-08-05 — Considered by Senate. (consideration: CR S6972-6974)
+- 2010-08-05 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4524 withdrawn in Senate. (consideration: CR S6972)
+- 2010-08-05 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4599 made in Senate. (consideration: CR S6974; text: CR S6974)
+- 2010-08-05 — Proposed amendment SA 4519 withdrawn in Senate. (consideration: CR S6972)
+- 2010-08-05 — Proposed amendment SA 4522 withdrawn in Senate. (consideration: CR S6972)
+- 2010-08-05 — Proposed amendment SA 4524 withdrawn in Senate. (consideration: CR S6972)
+- 2010-08-05 — SA 4520 fell when SA 4519 withdrawn. (consideration: CR S6972)
+- 2010-08-05 — SA 4521 fell when SA 4520 fell.
+- 2010-08-05 — SA 4523 fell when SA 4522 withdrawn. (consideration: CR S6972)
+- 2010-08-05 — SA 4525 fell when SA 4524 withdrawn. (consideration: CR S6972)
+- 2010-08-05 — SA 4526 fell when SA 4525 fell.
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4594 proposed by Senator Reid for Senator Baucus.(consideration: CR S6972-6973)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4595 proposed by Senator Reid for Senator Nelson FL to Amendment SA 4594.(consideration: CR S6972-6973; text: CR S6972-6973)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4596 proposed by Senator Reid for Senator Johanns to Amendment SA 4595.(consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4597 proposed by Senator Reid to language proposed to be stricken by amendment no. 4594.(consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4598 proposed by Senator Reid to Amendment SA 4597.(consideration: CR S6973; text: CR S6973)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4599 proposed by Senator Reid.(consideration: CR S6974; text: CR S6974)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4600 proposed by Senator Reid to Amendment SA 4599.(consideration: CR S6974; text: CR S6974)
+- 2010-08-05 — Senate amendment proposed (on the floor): Amendment SA 4601 proposed by Senator Reid to Amendment SA 4600.(consideration: CR S6974; text: CR S6974)
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Senate amendment submitted
+- 2010-08-05 — Third cloture motion on the bill presented in Senate. (consideration: CR S6973; text: CR S6973)
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-13 — Senate amendment submitted
+- 2010-09-14 — Cloture on amendment SA 4594 invoked in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 233. (consideration: CR S7062; text: CR S7062)
+- 2010-09-14 — Cloture on amendment SA 4595 not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 232. (consideration: CR S7062; text: CR S7062)
+- 2010-09-14 — Cloture on amendment SA 4596 not invoked in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 231. (consideration: CR S7061-7062; text: CR S7061)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052, S7054-7062; text as modified: CR S7055)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052, S7054-7062; text as modified: CR S7055)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052, S7062)
+- 2010-09-14 — Considered by Senate. (consideration: CR S7052-7065, S7065-7079)
+- 2010-09-14 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 4599 fell when cloture invoked on amendment SA 4594 in Senate.
+- 2010-09-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 4594 invoked in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 233.(consideration: CR S7062; text: CR S7062)
+- 2010-09-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 4595 not invoked in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 232.(consideration: CR S7062; text: CR S7062)
+- 2010-09-14 — Roll call votes on amendments in Senate: Cloture on amendment SA 4596 not invoked in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 231.(consideration: CR S7061-7062; text: CR S7061)
+- 2010-09-14 — SA 4599 fell when cloture invoked SA 4594.
+- 2010-09-14 — SA 4600 fell when SA 4599 fell.
+- 2010-09-14 — SA 4601 fell when SA 4600 fell.
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103)
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103)
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103)
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103)
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103)
+- 2010-09-15 — Considered by Senate. (consideration: CR S7103-7119, S7119-7126)
+- 2010-09-16 — Amendment SA 4594 agreed to in Senate by Unanimous Consent.
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144, S7149)
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144, S7149)
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144, S7149)
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144, S7149)
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144, S7150)
+- 2010-09-16 — Considered by Senate. (consideration: CR S7144-7158)
+- 2010-09-16 — Grassley motion to suspend Rule XXII to permit the consideration of amendment SA 4433 made in Senate. (consideration: CR S7149)
+- 2010-09-16 — Grassley motion to suspend Rule XXII to permit the consideration of amendment SA 4433 not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 234.
+- 2010-09-16 — Hatch motion to suspend Rule XXII to permit a motion to commit to the Committee on Finance with instructions not agreed to by Yea-Nay Vote. 51 - 48. Record Vote Number: 235.
+- 2010-09-16 — Hatch motion to suspend Rule XXII to permit the consideration of a motion to commit the bill to the Committee on Finance with instructions made in Senate. (consideration: CR S7149-7150)
+- 2010-09-16 — Message on Senate action sent to the House.
+- 2010-09-16 — Passed Senate with an amendment by Yea-Nay Vote. 61 - 38. Record Vote Number: 237.
+- 2010-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 61 - 38. Record Vote Number: 237.
+- 2010-09-16 — Proposed amendment SA 4595 withdrawn in Senate. (consideration: CR S7149)
+- 2010-09-16 — Proposed amendment SA 4596 withdrawn in Senate. (consideration: CR S7149)
+- 2010-09-16 — Proposed amendment SA 4597 withdrawn in Senate. (consideration: CR S7149)
+- 2010-09-16 — Proposed amendment SA 4598 withdrawn in Senate. (consideration: CR S7149)
+- 2010-09-16 — Senate amendment agreed to: Amendment SA 4594 agreed to in Senate by Unanimous Consent.
+- 2010-09-16 — Third cloture on the bill invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 236. (consideration: CR S7158; text: CR S7158)
