@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3914
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “San Juan Mountains Wilderness Act of 2009”.
+This Act may be cited as the “San Juan Mountains Wilderness Act of 2010”.
 
 ## § 2. Definitions
 
@@ -20,18 +20,18 @@ In this Act:
 - **(1)** *Covered Land* The term covered land means—
   - **(A)** lands designated as wilderness under section 3 or section 4; and
   - **(B)** lands designated as a special management area under section 4.
-- **(2)** *Nonconforming use* The term “nonconforming use” means any commercial helicopter-assisted skiing or snowboarding activities within the lands designated as a special management area under section 4 that have been authorized by the Secretary as of the date of enactment of this Act.
+- **(2)** *Nonconforming use* The term nonconforming use means any commercial helicopter-assisted skiing or snowboarding activities within the lands designated as a special management area under section 4 that have been authorized by the Secretary as of the date of enactment of this Act.
 - **(3)** *Secretary* The term Secretary means the Secretary of the Interior or the Secretary of Agriculture, as appropriate.
 - **(4)** *State* The term State means the State of Colorado.
 
 ## § 3. Additions to the Wilderness Preservation System
 
 - **(a)** *Designation* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following areas in the State are designated as wilderness areas and as components of the National Wilderness Preservation System:
-  - **(1)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 3,170 acres, as generally depicted on a map titled “Proposed Wilson, Sunshine, Black Face and San Bernardo Additions to the Lizard Head Wilderness”, dated May 2009, and which are hereby incorporated into the Lizard Head Wilderness area.
-  - **(2)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 8,375 acres, as generally depicted on a map titled “Proposed Liberty Bell and Last Dollar Additions to the Mt. Sneffels Wilderness”, dated May 2009, and which are hereby incorporated into the Mt. Sneffels Wilderness area.
-  - **(3)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 13,224 acres, as generally depicted on a map titled “Proposed Whitehouse Additions to the Mt. Sneffels Wilderness”, dated May 2009, and which are hereby incorporated into the Mt. Sneffels Wilderness area.
+  - **(1)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 3,170 acres, as generally depicted on a map titled “Proposed Wilson, Sunshine, Black Face and San Bernardo Additions to the Lizard Head Wilderness”, dated January 26, 2010, and which are hereby incorporated into the Lizard Head Wilderness area.
+  - **(2)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 8,375 acres, as generally depicted on a map titled “Proposed Liberty Bell and Last Dollar Additions to the Mt. Sneffels Wilderness”, dated January 26, 2010, and which are hereby incorporated into the Mt. Sneffels Wilderness area.
+  - **(3)** Certain lands in the Grand Mesa, Uncompahgre, and Gunnison National Forests comprising approximately 13,224 acres, as generally depicted on a map titled “Whitehouse Additions to the Mt. Sneffels Wilderness”, dated January 26, 2010, and which are hereby incorporated into the Mt. Sneffels Wilderness area.
   - **(4)**
-    - **(A)** Certain lands in the San Juan Resource Area of the Bureau of Land Management comprising approximately 8,614 acres, as generally depicted on a map titled “Proposed McKenna Peak Wilderness”, dated May 2009, and which shall be known as the McKenna Peak Wilderness.
+    - **(A)** Certain lands in the San Juan Resource Area of the Bureau of Land Management comprising approximately 8,614 acres, as generally depicted on a map titled “McKenna Peak Wilderness”, dated April 15, 2010, and which shall be known as the McKenna Peak Wilderness.
     - **(B)** The lands designated under subparagraph (A) shall be administered as a component of the National Landscape Conservation System.
 - **(b)** *Map and Description*
   - **(1)** *In general* As soon as practicable after the date of the enactment of this Act, the Secretary shall file a map and a legal description of each wilderness area designated by this Act with—
@@ -42,11 +42,11 @@ In this Act:
 
 ## § 4. Sheep Mountain Special Management Area
 
-- **(a)** *Designation* Certain lands in the Grand Mesa, Uncompahgre, and Gunnison and San Juan National Forests comprising approximately 21,697 acres as generally depicted on a map titled “Proposed Sheep Mountain Special Management Area” and dated May 2009, are hereby designated as the Sheep Mountain Special Management Area.
+- **(a)** *Designation* Certain lands in the Grand Mesa, Uncompahgre, and Gunnison and San Juan National Forests comprising approximately 21,697 acres as generally depicted on a map titled “Proposed Sheep Mountain Special Management Area” and dated January 26, 2010, are hereby designated as the Sheep Mountain Special Management Area.
 - **(b)** *Maps and descriptions*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall file maps and legal descriptions of the Federal land described in subsection (a) with—
-    - **(A)** the Committee on Energy and Natural Resources of the Senate; and
-    - **(B)** the Committee on Natural Resources of the House of Representatives.
+    - **(A)** the Committee on Natural Resources of the House of Representatives; and
+    - **(B)** the Committee on Energy and Natural Resources of the Senate.
   - **(2)** *Force of law* The maps and legal descriptions filed under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary may correct typographical errors in the maps and legal descriptions.
   - **(3)** *Public availability* Each map and legal description filed under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the United States Forest Service.
 - **(c)** *Management*
@@ -54,16 +54,12 @@ In this Act:
   - **(2)** *Prohibitions* The following shall be prohibited on the Federal land described in subsection (a):
     - **(A)** Permanent roads.
     - **(B)** Except as necessary to meet the minimum requirements for the administration of the Federal land and to protect public health and safety—
-      - **(i)** the use of motorized or mechanized vehicles, except as described in paragraph (3); and
+      - **(i)** the use of motor vehicles, motorized equipment, or mechanical transport, except as described in paragraph (3) or section 5; and
       - **(ii)** the establishment of temporary roads.
   - **(3)** *Allowable activities* The Secretary may allow activities, including helisking, that have been authorized as of the date of the enactment of this Act to continue within the area designated in subsection (a). The designation under subsection (a) shall not impact future permit processes relating to such activities.
   - **(4)** *Applicable law* Any uses of the Federal land described in subsection (a), including activities described in paragraph (3), shall be in accordance with applicable law.
-- **(d)** *Withdrawal* Subject to valid existing rights, the Federal land described in subsection (a) is withdrawn from—
-  - **(1)** all forms of entry, appropriation, or disposal under the public land laws;
-  - **(2)** location, entry, and patent under the mining laws; and
-  - **(3)** disposition under all laws relating to mineral and energy leasing.
-- **(e)** *Designation as wilderness* Lands described in subsection (a) shall be designated as wilderness on the date on which the Secretary publishes in the Federal Register notice that the nonconforming use has terminated.
-- **(f)** *Administration as wilderness* Upon its designation as wilderness under subsection (e), the Sheep Mountain Special Management Area shall be—
+- **(d)** *Designation as wilderness* Lands described in subsection (a) shall be designated as wilderness on the date on which the Secretary publishes in the Federal Register notice that the nonconforming use has terminated.
+- **(e)** *Administration as wilderness* Upon its designation as wilderness under subsection (e), the Sheep Mountain Special Management Area shall be—
   - **(1)** known as the Sheep Mountain Wilderness; and
   - **(2)** administered in accordance with the Wilderness Act (16 U.S.C. 1133 et seq.) and section 3.
 
@@ -73,7 +69,7 @@ In this Act:
   - **(1)** Subject to valid rights in existence on the date of the enactment of this Act, land designated as wilderness under section 3 or section 4 shall be administered by the Secretary in accordance with—
     - **(A)** the Wilderness Act (16 U.S.C. 1131 et seq.); and
     - **(B)** this Act.
-  - **(2)** The Secretary may continue to authorize the competitive running event permitted since 1992 in the vicinity of the boundaries of the Sheep Mountain Special Management Area designated by section 4(a) and the Liberty Bell addition to the Mt. Sneffels Wilderness designated by section 3(a)(2) in a manner compatible with the preservation of such areas as wilderness.
+  - **(2)** The Secretary may continue to authorize the competitive running event permitted since 1992 in the vicinity of the boundaries of the Sheep Mountain Special Management Area designated by section 4(a), the Sheep Mountain Wilderness Area designated by section 4(f), and the Liberty Bell addition to the Mt. Sneffels Wilderness designated by section 3(a)(2) in a manner compatible with the preservation of such areas as wilderness.
 - **(b)** *Effective Date of the Wilderness Act* With respect to land designated as wilderness under section 3 or section 4, any reference in the Wilderness Act (16 U.S.C. 1131 et seq.) to the effective date of the Wilderness Act shall be deemed to be a reference to the date of the enactment of this Act or the date of the Secretary designating the land as wilderness.
 - **(c)** *Fish and Wildlife* Nothing in this Act shall affect the jurisdiction or responsibility of the State with respect to wildlife and fish.
 - **(d)** *No Buffer Zones*
@@ -83,17 +79,25 @@ In this Act:
   - **(1)** entry, appropriation, or disposal under public land laws;
   - **(2)** location, entry, and patent under mining laws; and
   - **(3)** disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
-- **(f)** *Acquired Land* Any land or interest in land located inside the boundaries of covered land that is acquired by the United States after the date of the enactment of this Act shall become part of the relevant wilderness or special management area and shall be managed in accordance with this Act and other applicable law.
-- **(g)** *Grazing* Grazing in covered land shall be administered in accordance with section 4(d)(4) of the Wilderness Act (16 U.S.C. 1133(d)(4)), as further interpreted by section 108 of Public Law 96–560, and the guidelines set forth in appendix A of the Report of the Committee on Interior and Insular Affairs to accompany H.R. 2570 of the 101st Congress (H. Rept. 101–405).
-- **(h)** *Ames Hydroelectric Project* The inclusion in the National Wilderness Preservation System or designation under section 4 of this Act as a Special Management Area as described in section 4 of this Act, shall not be construed to interfere with the operation and maintenance of the Ames Hydroelectric Project, as currently licensed by the Federal Energy Regulatory Commission, or as reauthorized in the future, including reasonable use of National Wilderness Preservation System lands or Special Management Area for any necessary repair or replacement of existing facilities, transport of water and aerial or land access. All means of access to the project that are currently permitted by the Secretary on the date of enactment of this Act shall be maintained.
+- **(f)** *Acquisition of land* The Secretary may acquire non-Federal land within the boundaries of the Special Management Area or the Wilderness only through exchange, donation, or purchase from a willing seller.
+- **(g)** *Acquired Land* Any land or interest in land located inside the boundaries of covered land that is acquired by the United States after the date of the enactment of this Act shall become part of the relevant wilderness or special management area and shall be managed in accordance with this Act and other applicable law.
+- **(h)** *State land* The Secretary is authorized to acquire by donation or exchange from the State of Colorado the parcel identified as “McKenna Peak Adjacent Parcel” on the map titled “McKenna Peak Wilderness” and dated April 15, 2010.
+- **(i)** *State trust land* Any portion of the State Trust land parcel identified as “Proposed McKenna Peak Wilderness Addition” on the map titled “McKenna Peak Wilderness” and dated April 15, 2010, that is acquired by the United States after the date of the enactment of this Act shall become part of the McKenna Peak Wilderness and shall be managed in accordance with this Act and other applicable laws.
+- **(j)** *Grazing* Within the covered lands in which grazing was established before the date of the enactment of this Act, grazing shall be allowed to continue, subject to such reasonable regulations, policies, and practices as the Secretary determines to be necessary, in accordance with—
+  - **(1)** section 4(d)(4) of the Wilderness Act (16 U.S.C. 1131(d)(4));
+  - **(2)** with respect to wilderness areas administered by the Secretary of Agriculture, the provisions of section 108 of Public Law 96-560; and
+  - **(3)** with respect to wilderness areas administered by the Secretary of the Interior, the guidelines described in appendix A of House Report 101-405 of the 101st Congress.
+- **(k)** *Ames Hydroelectric Project* The inclusion in the National Wilderness Preservation System or designation under section 4 of this Act as a Special Management Area as described in section 4 of this Act, shall not be construed to interfere with the operation and maintenance of the Ames Hydroelectric Project, as currently licensed by the Federal Energy Regulatory Commission, or as relicensed within the project boundaries set forth in the license on the date of the enactment of this Act, including reasonable use of National Wilderness Preservation System lands or Special Management Area for any necessary repair or replacement of existing facilities, transport of water and aerial or land access. All means of access to the project that are currently permitted by the Secretary on the date of enactment of this Act shall be maintained.
+- **(l)** *Prevention of Wildfires* The inclusion in the National Wilderness Preservation System under section 3 or designation under section 4 as a Special Management Area under this Act shall not be construed to interfere with the authority of the Secretary to authorize mechanical thinning of trees or underbrush to prevent or control the spread of wildfires.
+- **(m)** *Facilitation of Responsible Sport Hunting* The use of wheeled, muscle-powered carts for the removal of shot game is authorized in the areas designated under sections 3 and 4 of this Act.
 
 ## § 6. Water
 
-- **(a)** *Findings, purpose, and definition*
+- **(a)** *Findings; purpose; definition*
   - **(1)** *Findings* Congress finds that—
-    - **(A)** the lands designated as wilderness or a Special Management Area by this Act are located at the headwaters of the streams and rivers on those lands, with few, if any, actual or proposed water resource facilities located upstream from such lands and few, if any, opportunities for diversion, storage, or other uses of water occurring outside such lands that would adversely affect the wilderness values of such lands;
+    - **(A)** the lands designated as wilderness or a Special Management Area by this Act are located at the headwaters of the streams and rivers on those lands with few, if any, actual or proposed water resource facilities located upstream from such lands and few, if any, opportunities for diversion, storage, or other uses of water occurring outside such lands that would adversely affect the wilderness values of such lands;
     - **(B)** the lands designated as wilderness or Special Management Area by this Act are not suitable for use for development of new water resource facilities, or for the expansion of existing facilities; and
-    - **(C)** therefore, it is possible to provide for proper management and protection of the wilderness value of such lands in ways different from those utilized in other legislation designating as wilderness lands not sharing the attributes of the lands designated as wilderness or Special Management Area by this Act.
+    - **(C)** therefore, it is possible to provide for proper management and protection of the wilderness value of such lands in ways different from those used in other legislation designating as wilderness lands not sharing the attributes of the lands designated as wilderness or a Special Management Area by this Act.
   - **(2)** *Purpose* The purpose of this section is to protect the wilderness values of the lands designated as wilderness or Special Management Area by this Act by means other than those based on a Federal reserved water right.
   - **(3)** *Definition* As used in this section, the term water resource facility means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures.
 - **(b)** *Restrictions on rights and disclaimer of effect*
@@ -106,7 +110,7 @@ In this Act:
   - **(1)** *Access to water resource facilities* Subject to the provisions of this subsection, the Secretary shall allow reasonable access to water resource facilities in existence on the date of enactment of this Act within the areas described in sections 3 and 4, including motorized access where necessary and customarily employed on routes existing as of the date of enactment of this Act.
   - **(2)** *Access routes* Existing access routes within such areas customarily employed as of the date of enactment of this Act may be used, maintained, repaired, and replaced to the extent necessary to maintain their present function, design, and serviceable operation, so long as such activities have no increased adverse impacts on the resources and values of the areas described in sections 3 and 4 than existed as of the date of enactment of this Act.
   - **(3)** *Use of water resource facilities* Subject to the provisions of subsections (c) and (d), the Secretary shall allow water resource facilities existing on the date of enactment of this Act within areas described in sections 3 and 4 to be used, operated, maintained, repaired, and replaced to the extent necessary for the continued exercise, in accordance with Colorado State law, of vested water rights adjudicated for use in connection with such facilities by a court of competent jurisdiction prior to the date of enactment of this Act. The impact of an existing facility on the water resources and values of the area shall not be increased as a result of changes in the adjudicated type of use of such facility as of the date of enactment of this Act.
-  - **(4)** *Repair and maintainence* Water resource facilities, and access routes serving such facilities, existing within the areas described in sections 3 and 4 on the date of enactment of this Act shall be maintained and repaired when and to the extent necessary to prevent increased adverse impacts on the resources and values of the areas described in sections 3 and 4.
+  - **(4)** *Repair and maintenance* Water resource facilities, and access routes serving such facilities, existing within the areas described in sections 3 and 4 on the date of enactment of this Act shall be maintained and repaired when and to the extent necessary to prevent increased adverse impacts on the resources and values of the areas described in sections 3 and 4.
 - **(e)** *Existing Projects* Except as provided in subsections (c) and (d), the provisions of this Act related to the areas described in sections 3 and 4, and the inclusion in the National Wilderness Preservation System of the areas described in section 3 and 4, shall not be construed to affect or limit the use, operation, maintenance, repair, modification, or replacement of water resources facilities in existence on the date of enactment of this Act within the boundaries of the areas described in sections 3 and 4.
 - **(f)** *Monitoring and Implementation* The Secretaries of Agriculture and the Interior shall monitor the operation of and access to water resource facilities within the areas described in sections 3 and 4 and take all steps necessary to implement the provisions of this section.
 - **(g)** *Interstate Compacts* Nothing in this Act, and nothing in any previous Act designating any lands as wilderness, shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States. Except as expressly provided in this section, nothing in this Act shall affect or limit the development or use by existing and future holders of vested water rights of Colorado’s full apportionment of such waters.
@@ -117,4 +121,4 @@ In this Act:
   - **(1)** entry, appropriation, or disposal under public land laws;
   - **(2)** location, entry, and patent under mining laws; and
   - **(3)** disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
-- **(b)** *Land Described* The land to be protected under subsection (a) is the approximately 6,596 acres depicted on the map titled “Naturita Canyon Mineral Withdrawal Area” and dated May 2009.
+- **(b)** *Land Described* The land to be protected under subsection (a) is the approximately 6,596 acres depicted on the map titled “Naturita Canyon Mineral Withdrawal Area” and dated January 26, 2010.
