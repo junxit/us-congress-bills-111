@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4823
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4823
@@ -25,3 +25,11 @@ Sedona-Red Rock National Scenic Area Act of 2010
 - 2010-03-11 — Introduced in House
 - 2010-03-11 — Introduced in House
 - 2010-03-11 — Referred to the House Committee on Natural Resources.
+- 2010-03-16 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2010-06-10 — Subcommittee Hearings Held.
+- 2010-07-22 — Committee Consideration and Mark-up Session Held.
+- 2010-07-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-22 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2010-09-16 — Placed on the Union Calendar, Calendar No. 344.
+- 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-599.
+- 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-599.
