@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3519
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3519
@@ -84,9 +84,10 @@ Veterinarian Services Investment Act
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -101,3 +102,4 @@ Veterinarian Services Investment Act
 - 2010-09-15 — Mr. Boswell moved to suspend the rules and pass the bill, as amended.
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6707-6708)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6707-6708)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
