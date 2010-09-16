@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5282
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5282
@@ -64,9 +64,10 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - 2010-09-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6713)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6713)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
