@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4785
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4785
@@ -80,6 +80,11 @@ Rural Energy Savings Program Act
 - House — Energy and Commerce Committee
 - House — Agriculture Committee
 
+## Recorded votes (2)
+
+- 2010-09-16 — [House 111-2-529](votes/house-111-2-0529.md) — On Agreeing to the Amendment — **Agreed to** (402–0)
+- 2010-09-16 — [House 111-2-530](votes/house-111-2-0530.md) — On Passage — **Passed** (240–172)
+
 ## Actions
 
 - 2010-03-09 — Introduced in House
@@ -95,3 +100,58 @@ Rural Energy Savings Program Act
 - 2010-09-14 — Placed on the Union Calendar, Calendar No. 335.
 - 2010-09-14 — Reported (Amended) by the Committee on Agriculture. H. Rept. 111-585, Part I.
 - 2010-09-14 — Reported (Amended) by the Committee on Agriculture. H. Rept. 111-585, Part I.
+- 2010-09-15 — Rules Committee Resolution H. Res. 1620 Reported to House. Rule provides for consideration of H.R. 4785 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against the amendment in the nature of a substitute except those arising under clause 10 of rule XXI. The resolution makes in order only those amendments printed in Part B of the report. All points of order against the amendments in part B except for clauses 9 and 10 of rule XXI are waived. The resolution provides that the Chair may not entertain a motion to strike out the enacting words of the bill.
+- 2010-09-16 — Amendment (A001) offered by Mr. Holden. (consideration: CR H6785-6786, H6788; text: CR H6785)
+- 2010-09-16 — Amendment (A002) offered by Mr. Cuellar. (consideration: CR H6786; text: CR H6786)
+- 2010-09-16 — Amendment (A003) offered by Mrs. McCarthy (NY). (consideration: CR H6786-6787; text: CR H6786)
+- 2010-09-16 — Amendment (A004) offered by Mr. Butterfield. (consideration: CR H6787-6788; text: CR H6787)
+- 2010-09-16 — Amendment (A005) offered by Mr. Butterfield. (consideration: CR H6790; text: CR H6790)
+- 2010-09-16 — Amendment agreed to Committee of the Whole
+- 2010-09-16 — Amendment agreed to Committee of the Whole
+- 2010-09-16 — Amendment agreed to Committee of the Whole
+- 2010-09-16 — Amendment agreed to Committee of the Whole
+- 2010-09-16 — Amendment agreed to by House: On agreeing to the Butterfield amendment (A005) Agreed to by voice vote.
+- 2010-09-16 — Considered under the provisions of rule H. Res. 1620. (consideration: CR H6777-6791)
+- 2010-09-16 — DEBATE - Pursuant to the provisions of H.Res. 1620, the Committee of the Whole proceeded with 10 minutes of debate on the Butterfield amendment.
+- 2010-09-16 — DEBATE - Pursuant to the provisions of H.Res. 1620, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment.
+- 2010-09-16 — DEBATE - Pursuant to the provisions of H.Res. 1620, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy (NY) amendment.
+- 2010-09-16 — DEBATE - Pursuant to the provisions of H.Res. 1620, the Committee of the Whole proceeded with 20 minutes of debate on the Holden amendment.
+- 2010-09-16 — DEBATE - The House proceeded with ten minutes of debate on the Shadegg motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which requires certain provisions be met in order for funds to be made available. The amendment also states that the provisions of the Act shall be suspended and shall not apply if the Act will have a negative effect on the national budget deficit of the United States.
+- 2010-09-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4785.
+- 2010-09-16 — House amendment agreed to: On agreeing to the Butterfield amendment (A004) Agreed to by voice vote.
+- 2010-09-16 — House amendment agreed to: On agreeing to the Butterfield amendment (A005) Agreed to by voice vote.
+- 2010-09-16 — House amendment agreed to: On agreeing to the Cuellar amendment (A002) Agreed to by voice vote.
+- 2010-09-16 — House amendment agreed to: On agreeing to the Holden amendment (A001) Agreed to by recorded vote: 402 - 0 (Roll no. 529).
+- 2010-09-16 — House amendment agreed to: On agreeing to the McCarthy (NY) amendment (A003) Agreed to by voice vote.
+- 2010-09-16 — House amendment offered
+- 2010-09-16 — House amendment offered
+- 2010-09-16 — House amendment offered
+- 2010-09-16 — House amendment offered
+- 2010-09-16 — House amendment offered
+- 2010-09-16 — House amendment offered/reported by : Amendment (A001) offered by Mr. Holden.(consideration: CR H6785-6786, H6788; text: CR H6785)
+- 2010-09-16 — House amendment offered/reported by : Amendment (A002) offered by Mr. Cuellar.(consideration: CR H6786; text: CR H6786)
+- 2010-09-16 — House amendment offered/reported by : Amendment (A003) offered by Mrs. McCarthy (NY).(consideration: CR H6786-6787; text: CR H6786)
+- 2010-09-16 — House amendment offered/reported by : Amendment (A004) offered by Mr. Butterfield.(consideration: CR H6787-6788; text: CR H6787)
+- 2010-09-16 — House amendment offered/reported by : Amendment (A005) offered by Mr. Butterfield.(consideration: CR H6790; text: CR H6790)
+- 2010-09-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1620 and Rule XVIII.
+- 2010-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-16 — Mr. Shadegg moved to recommit with instructions to Energy and Commerce. (consideration: CR H6789-6790; text: CR H6789)
+- 2010-09-16 — On agreeing to the Butterfield amendment (A004) Agreed to by voice vote.
+- 2010-09-16 — On agreeing to the Butterfield amendment (A005) Agreed to by voice vote.
+- 2010-09-16 — On agreeing to the Cuellar amendment (A002) Agreed to by voice vote.
+- 2010-09-16 — On agreeing to the Holden amendment (A001) Agreed to by recorded vote: 402 - 0 (Roll no. 529).
+- 2010-09-16 — On agreeing to the McCarthy (NY) amendment (A003) Agreed to by voice vote.
+- 2010-09-16 — On motion to recommit with instructions Agreed to by voice vote.
+- 2010-09-16 — On passage Passed by recorded vote: 240 - 172 (Roll no. 530).
+- 2010-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holden amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Holden demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2010-09-16 — Passed/agreed to in House: On passage Passed by recorded vote: 240 - 172 (Roll no. 530).
+- 2010-09-16 — Roll call votes on amendments in House
+- 2010-09-16 — Rule H. Res. 1620 passed House.
+- 2010-09-16 — Rule provides for consideration of H.R. 4785 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against the amendment in the nature of a substitute except those arising under clause 10 of rule XXI. The resolution makes in order only those amendments printed in Part B of the report. All points of order against the amendments in part B except for clauses 9 and 10 of rule XXI are waived. The resolution provides that the Chair may not entertain a motion to strike out the enacting words of the bill.
+- 2010-09-16 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H6782-6785)
+- 2010-09-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4785.
+- 2010-09-16 — The Speaker designated the Honorable John T. Salazar to act as Chairman of the Committee.
+- 2010-09-16 — The previous question was ordered pursuant to the rule. (consideration: CR H6788)
+- 2010-09-16 — The previous question was ordered without objection. (consideration: CR H6790)
+- 2010-09-16 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
