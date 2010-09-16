@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5651
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5651
@@ -16,9 +16,10 @@ To designate the Federal building and United States courthouse located at 515 9t
 
 - Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the Federal building and United States courthouse located at 515 9t
 - 2010-09-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill.
 - 2010-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6714)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6714)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
