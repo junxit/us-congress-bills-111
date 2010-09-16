@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3116
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3116
@@ -88,9 +88,10 @@ Berry Amendment Extension Act
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Berry Amendment Extension Act
 - 2010-09-15 — Ms. Richardson moved to suspend the rules and pass the bill, as amended.
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6691-6692)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6691-6692)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
