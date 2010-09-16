@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4862
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4862
@@ -161,9 +161,10 @@ To permit Members of Congress to administer the oath of allegiance to applicants
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -177,3 +178,4 @@ To permit Members of Congress to administer the oath of allegiance to applicants
 - 2010-09-15 — Mr. Cohen moved to suspend the rules and pass the bill, as amended.
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6729-6730)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6729-6730)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
