@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4715
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4715
@@ -118,3 +118,7 @@ Clean Estuaries Act of 2010
 - 2010-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H2611)
 - 2010-04-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2010-04-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-06-30 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-16 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-293.
+- 2010-09-16 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 111-293.
+- 2010-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 569.
