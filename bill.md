@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To revise the Forest Service Recreation Residence Program as it applies to units of the National Forest System derived from the public domain by implementing a simple, equitable, and predictable procedure for determining cabin user fees, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Cabin Fee Act of 2010”.
+- **(a)** *Short title* This Act may be cited as the “Cabin Fee Act of 2010”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
 
@@ -19,8 +20,10 @@ In this Act:
 
 - **(1)** *Authorization* The terms “authorized” and “authorization” refer to the issuance of a special use permit for the use and occupancy of National Forest System land derived from the public domain by a cabin owner under the Recreation Residence Program.
 - **(2)** *Cabin* The term “cabin” means a privately built and owned recreation residence and related improvements on National Forest System land derived from the public domain that is authorized for private use and occupancy and may be sold or transferred between private parties.
-- **(3)** *Cabin owner* The term “cabin owner” means a person, heir, trust, or assignee authorized to use, occupy, and dispose of a cabin on National Forest System lands derived from the public domain or an heir or assignee of such a person.
-- **(4)** *Cabin transfer fee* The term “cabin transfer fee” means a fee paid to the United States upon the transfer of a cabin between private parties for money or other consideration.
+- **(3)** *Cabin owner* The term “cabin owner” means—
+  - **(A)** a person authorized by the Secretary to use and to occupy a cabin on National Forest System land derived from the public domain; and
+  - **(B)** a trust or an heir or assigns of such a person.
+- **(4)** *Cabin transfer fee* The term “cabin transfer fee” means a fee paid to the United States upon the transfer of a cabin between private parties for money or other consideration that also includes issuance of a new permit.
 - **(5)** *Cabin user fee* The term “cabin user fee” means an annual fee paid to the United States by a cabin owner pursuant to an authorization for the use and occupancy of a cabin on National Forest System land derived from the public domain.
 - **(6)** *Current cabin user fee* The term “current cabin user fee” means the most recent cabin user fee, which results from an annual adjustment to the prior cabin user fee under section 3(d).
 - **(7)** *Lot* The term “lot” means a parcel of National Forest System land derived from the public domain on which a person is authorized to build, use, occupy, and maintain a cabin.
@@ -36,28 +39,33 @@ In this Act:
   - **(2)** *Installments* Payment of the cabin user fee for a year may be made in two installments.
 - **(b)** *Initial cabin user fees*
   - **(1)** *Establishment* The Secretary shall establish initial cabin user fees in the manner required by this subsection.
-  - **(2)** *Assignment to value tiers* The Secretary shall assign each permitted lot on National Forest System land to one of five tiers based on the most recent appraised value of the typical lot to which the permitted lot is assigned, as of the date of the enactment of this Act. The tiers shall be arranged according to relative lot value, with lots having the lowest appraised value assigned to Tier 1 and lots having the highest appraised value assigned to Tier 5. The number of lots (by percentage) assigned to each tier is specified in the table contained in paragraph (3) and is intended to achieve fairness and affordability. The cabin user fee assigned shall be based on the particular tier in which a lot is placed, as specified in the table contained in paragraph (3).
-  - **(3)** *Table of initial cabin user fees* The initial cabin user fees, based on the assignments made by the Secretary under subsection (b), are as follows:
-  - **(4)** *Effective date* The initial cabin user fees required by this subsection shall take effect beginning with the first calendar year beginning after the date of the enactment of this Act.
-- **(c)** *Overpayments or underpayments*
-  - **(1)** *Overpayments* If the initial cabin user fee established for a cabin for the calendar year specified in subsection (b)(4) or the current cabin user fee in effect for a subsequent year is less than the amount of the cabin user fee already paid by the cabin owner for that calendar year, the Secretary shall remit to the cabin owner any difference that is $25 or more between the amount of the cabin user fee already paid for that calendar year and the amount of the initial cabin user fee or current cabin user fee, whichever applies.
-  - **(2)** *Underpayments* If the initial cabin user fee established for a cabin for the calendar year specified in subsection (b)(4) or the current cabin user fee in effect for a subsequent year is more than the amount of the cabin user fee already paid by the cabin owner for that calendar year, the Secretary shall collect from the cabin owner any difference that is $25 or more between the amount of the cabin user fee paid already paid for that calendar year and the amount of the initial cabin user fee or current cabin user fee, whichever applies.
+  - **(2)** *Assignment to value tiers* Upon completion of the current appraisal cycle, as required by paragraph (4), the Secretary shall assign each permitted lot on National Forest System land to one of five tiers based on the following:
+    - **(A)** All appraised lot values shall be adjusted, or normalized, for price changes from its date of value according to the national NAHB/Wells Fargo Housing Opportunity Index prior to tier assignment.
+    - **(B)** The tiers shall be established according to relative lot value, using all fully completed appraisal data with lots having the lowest adjusted appraised value assigned to Tier 1 and lots having the highest adjusted appraised value assigned to Tier 5.
+    - **(C)** The number of lots (by percentage) assigned to each tier is specified in the table contained in paragraph (3).
+    - **(D)** Data from incomplete appraisals may not be used to establish the fee tiers.
+    - **(E)** Until assigned to a tier, permitted cabin lots, including lots with incomplete appraisals, are assigned an interim fee of $4000 or their current annual fee, indexed in accordance with subsection (d), whichever is less.
+  - **(3)** *Table of initial cabin user fees* The initial cabin user fees, based on the assignments made by the Secretary under paragraph (2) are as follows:
+  - **(4)** *Deadline for completion of current appraisal cycle* The Secretary shall complete the current appraisal cycle within three years after the date of the enactment of this Act.
+  - **(5)** *Effective date* The initial cabin user fees required by this subsection shall take effect beginning with the first calendar year beginning after the completion of the current appraisal cycle.
+- **(c)** *Overpayments or underpayments* If, upon assignment to a tier under subsection (b), the Secretary determines that the fee charged to a cabin owner during the preceding three years resulted in an overpayment or underpayment totaling more than $500, the fee for the next three years shall be adjusted, if such a fee adjustment is requested by the Secretary or by the affected cabin owner, as necessary to correct the overpayment or underpayment.
 - **(d)** *Annual Adjustments of cabin user fee* The Secretary shall use changes in the Implicit Price Deflator for the Gross Domestic Product published by the Bureau of Economic Analysis of the Department of Commerce, applied on a five-year rolling average, to determine and apply an annual adjustment to cabin user fees.
-- **(e)** *Effect of destruction, substantial damage, or loss of access* If a cabin is destroyed or suffers substantial damage (greater than 50 percent), or if access to a cabin is significantly impaired, whether by catastrophic events, natural causes or governmental actions, such that the cabin is rendered unsafe or unable to be occupied as a result, the Secretary shall reduce the cabin user fee for the affected lot to $100 per year. This fee shall be in effect for the remainder of the year in which the destruction occurs and until such time as the cabin may be lawfully reoccupied and normal access has been restored.
+- **(e)** *Effect of destruction, substantial damage, or loss of access* If a cabin is destroyed or suffers substantial damage amounting to greater than 50 percent of replacement cost, or if access to a cabin is significantly impaired, whether by catastrophic events, natural causes or governmental actions, such that the cabin is rendered unsafe or unable to be occupied as a result, the Secretary shall reduce the cabin user fee for the affected lot to $100 per year. This fee shall be in effect for the remainder of the year in which the destruction occurs and until such time as the cabin may be lawfully reoccupied and normal access has been restored.
 
 ## § 4. Cabin transfer fees
 
-- **(a)** *Payment of cabin transfer fees* In conjunction with the transfer of ownership of any cabin, the transferor shall file with the Secretary a sworn statement declaring the amount of money or other value received, if any, for the transfer of the cabin. As a condition of the issuance by the Secretary of a new authorization for the use and occupancy of the cabin, the transferor shall pay, or cause to be paid, to the Secretary a cabin transfer fee in an amount determined as follows:
+- **(a)** *Payment of cabin transfer fees* In conjunction with the transfer of ownership of any cabin and the issuance of a new permit, the transferor shall file with the Secretary a sworn statement declaring the amount of money or other value received, if any, for the transfer of the cabin. As a condition of the issuance by the Secretary of a new authorization for the use and occupancy of the cabin, the transferor shall pay, or cause to be paid, to the Secretary a cabin transfer fee in an amount determined as follows:
 - **(b)** *Index* The Secretary shall use changes in the Implicit Price Deflator for the Gross Domestic Product published by the Bureau of Economic Analysis of the Department of Commerce, applied on a five-year rolling average, to determine and apply an annual adjustment to the cabin transfer fee threshold amounts ($250,000.01 and $500,000.01) set forth in the table contained in subsection (a).
 
 ## § 5. Allocation of cabin user fee and cabin transfer fee revenue
 
-The Secretary shall retain the amount of revenue from cabin user fees and cabin transfer fees necessary to fully cover the costs incurred by the Forest Service to administer the Recreation Residence Program. Revenue collected in excess of that amount shall be deposited in the Treasury.
+- **(a)** *Retained fees to cover costs* Subject to subsection (b), the Secretary shall retain the amount of revenue from cabin user fees and cabin transfer fees necessary to fully cover the costs incurred by the Forest Service to administer the Recreation Residence Program. Revenue collected in excess of that amount shall be deposited in the Treasury.
+- **(b)** *Limitation* The total retained by the Secretary under subsection (a) for a fiscal year may not exceed $500 per cabin. The Secretary shall use changes in the Implicit Price Deflator for the Gross Domestic Product published by the Bureau of Economic Analysis of the Department of Commerce, applied on a five-year rolling average, to determine and apply an annual adjustment to this limitation. Revenue collected from cabin user fees and cabin transfer fees in excess of this limitation shall be deposited in the Treasury.
 
 ## § 6. Right of appeal and judicial review
 
-- **(a)** *Right of appeal* Notwithstanding any action of a cabin owner to exercise rights in accordance with section 7, the Secretary shall by regulation grant the cabin owner the right to an administrative appeal of the determination of a new cabin user fee.
-- **(b)** *Judicial review* A cabin owner that contests a final decision of the Secretary under this Act may bring a civil action in United States district court.
+- **(a)** *Right of appeal* Notwithstanding any action of a cabin owner to exercise rights in accordance with section 7, the Secretary shall by regulation grant the cabin owner the right to an administrative appeal of the determination of a new cabin user fee, fee tier, transfer fee, or whether or not to reduce a cabin user fee under section 3(e). Such appeal shall be pursuant to the appeal process provided under subpart C (Appeal of Decisions Relating to Occupancy and Use of National Forest System Lands) of part 251 of title 36, Code of Federal Regulations (section 251.80 et seq.).
+- **(b)** *Judicial review* A cabin owner that contests a final decision of the Secretary under this Act may bring a civil action in United States district court. The venue for actions brought before the United States District Court shall be in the United States Judicial District where the cabin is located or the permit holder resides. Nothing in this Act precludes the parties from seeking mediation.
 
 ## § 7. Consistency with other law and rights
 
@@ -66,4 +74,4 @@ The Secretary shall retain the amount of revenue from cabin user fees and cabin 
 
 ## § 8. Regulations
 
-The Secretary shall promulgate regulations to carry out this Act not later than the effective date specified in section 3(b)(4).
+The Secretary shall promulgate regulations to carry out this Act not later than the December 31, 2012.
