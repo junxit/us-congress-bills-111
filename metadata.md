@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3980
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3980
@@ -51,3 +51,7 @@ Redundancy Elimination and Enhanced Performance for Preparedness Grants Act
 - 2009-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 922). (text: CR H13411-13412)
 - 2009-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 922).(text: CR H13411-13412)
 - 2009-12-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-291.
+- 2010-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-291.
+- 2010-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
