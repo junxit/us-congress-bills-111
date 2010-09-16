@@ -2,7 +2,7 @@
 legis-num: H. RES. 1613
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1613
@@ -41,7 +41,7 @@ That the House of Representatives—
 - **(5)** urges the United States Administration and the international community, including private citizens and foreign governments, to continue providing assistance to help the people of Pakistan and to help strengthen and support the capacity of the Government of Pakistan to meet the needs of its people;
 - **(6)** supports the use of funds authorized by the Enhanced Partnership with Pakistan Act of 2009 for the purposes of providing long-term recovery and rehabilitation for flood-affected areas and populations;
 - **(7)** urges a reexamination of priorities for spending the funds authorized by the Enhanced Partnership with Pakistan Act of 2009, with a view toward ensuring that the needs of the Pakistani people are appropriately addressed in the aftermath of the disaster;
-- **(8)** commends the relief and recovery actions, still underway, by the United States military, the Department, of State, and USAID to assist the people of Pakistan during this critical period;
+- **(8)** commends the relief and recovery actions, still underway, by the United States military, the Department of State, and USAID to assist the people of Pakistan during this critical period;
 - **(9)** commends the extraordinary humanitarian efforts and sustained commitment to helping the people of Pakistan by international and nongovernmental organizations;
 - **(10)** recognizes the contributions of the Pakistani-American community and United States businesses to relief and recovery efforts in Pakistan; and
 - **(11)** reaffirms the commitment of the people of the United States to partner with the people of Pakistan to respond to the immediate crisis and build the foundations for a successful and lasting recovery.
