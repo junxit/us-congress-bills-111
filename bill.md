@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3199
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,33 +11,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Emergency Medic Transition (EMT) Act of 2009”.
+This Act may be cited as the “Emergency Medic Transition Act of 2010” or the “EMT Act of 2010”.
 
-## § 2. Grants for expedited training and licensing of veterans as emergency medical technicians
+## § 2. Assisting veterans with military emergency medical training to become state-licensed or certified emergency medical technicians (EMTS)
 
-Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 330J the following new section:
+- **(a)** *In General* Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following:
+  > ## § 315. Assisting veterans with military emergency medical training to become state-licensed or certified emergency medical technicians (EMTS)
+  >
+  > - **(a)** *Program* The Secretary shall establish a program consisting of awarding grants to States to assist veterans who received and completed military emergency medical training while serving in the Armed Forces of the United States to become, upon their discharge or release from active duty service, State-licensed or certified emergency medical technicians.
+  > - **(b)** *Use of Funds* Amounts received as a grant under this section may be used to assist veterans described in subsection (a) to become State-licensed or certified emergency medical technicians as follows:
+  >   - **(1)** Providing to such veterans required course work and training that take into account, and are not duplicative of, medical course work and training received when such veterans were active members of the Armed Forces of the United States, to enable such veterans to satisfy emergency medical services personnel certification requirements in the civilian sector, as determined by the appropriate State regulatory entity.
+  >   - **(2)** Providing reimbursement for costs associated with—
+  >     - **(A)** such course work and training; or
+  >     - **(B)** applying for licensure or certification.
+  >   - **(3)** Expediting the licensing or certification process.
+  >   - **(4)** Entering into an agreement with any institution of higher education, or other educational institution certified to provide course work and training to emergency medical personnel, for purposes of providing course work and training under this section if such institution has developed a suitable curriculum that meets the requirements of paragraph (1).
+  > - **(c)** *Eligibility* To be eligible for a grant under this section, a State shall demonstrate to the Secretary’s satisfaction that the State has a shortage of emergency medical technicians.
+  > - **(d)** *Report* The Secretary shall submit to the Congress an annual report on the program under this section.
+  > - **(e)** *Authorization of Appropriations* To carry out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2011 through 2015.
 
-> ## § 330J–1. Grants for expedited licensing of veterans as emergency medical technicians
->
-> - **(a)** *Grants* The Secretary shall award grants to eligible entities to provide for the expedited training and licensing, as emergency medical technicians, of veterans who received training as emergency medical technicians while serving in the Armed Forces of the United States.
-> - **(b)** *Eligibility* An entity is eligible to receive a grant under this section if—
->   - **(1)** the entity is—
->     - **(A)** a State emergency medical services office; or
->     - **(B)** any other appropriate State entity with jurisdiction over emergency medical personnel; and
->   - **(2)** the entity prepares and submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, that includes—
->     - **(A)** a description of the activities to be carried out under the grant; and
->     - **(B)** an assurance that the eligible entity will comply with the requirements of this section.
-> - **(c)** *Use of funds*
->   - **(1)** *Recruiting and training* An eligible entity shall use amounts received under a grant made under subsection (a)—
->     - **(A)** to recruit emergency medical technicians from among veterans who received training as emergency medical technicians while serving in the Armed Forces of the United States;
->     - **(B)** to provide to such veterans required course work and training that take into account, and are not duplicative of, medical course work and training received when such veterans were active members of the Armed Forces of the United States, to enable such veterans to satisfy emergency medical services personnel certification requirements in the civilian sector, as determined by the appropriate State regulatory entity; and
->     - **(C)** to reimburse individuals who are certified as emergency medical technicians pursuant to the program under this section for the costs of receiving certification and licensing from the appropriate State entity.
->   - **(2)** *Partnerships with educational and other institutions* An eligible entity may enter into an agreement with any institution of higher education, or other educational institution certified to provide training to emergency medical personnel, for purposes of providing training under this section if such institution has developed a suitable curriculum that meets the requirements of paragraph (1)(B).
->   - **(3)** *Eligible veterans* An individual is eligible to receive training under this subsection if the individual provides to the eligible entity concerned—
->     - **(A)** proof of honorable discharge from the Armed Forces of the United States;
->     - **(B)** proof of successful completion of military emergency medical training, including a detailed description of the emergency medical curriculum completed;
->     - **(C)** a detailed description of the applicant’s clinical experience; and
->     - **(D)** such additional information as the eligible entity considers necessary.
->   - **(4)** *Priority* An eligible entity shall give priority to providing training under this subsection to individuals who will serve as emergency medical technicians in areas that provide a high volume of emergency medical services and trauma care within the State in which the eligible entity is located.
->   - **(5)** *Limitation* None of the funds received under a grant made under subsection (a) may be used by an eligible entity for its operational expenses.
-> - **(d)** *Authorization* There are authorized to be appropriated such sums as may be necessary.
+- **(b)** *GAO Study and Report* The Comptroller General of the United States shall—
+  - **(1)** conduct a study on the barriers experienced by veterans who received training as medical personnel while serving in the Armed Forces of the United States and, upon their discharge or release from active duty service, seek to become licensed or certified in a State as civilian health professionals; and
+  - **(2)** not later than 2 years after the date of the enactment of this Act, submit to the Congress a report on the results of such study, including recommendations on whether the program established under section 315 of the Public Health Service Act, as added by subsection (a), should be expanded to assist veterans seeking to become licensed or certified in a State as health providers other than emergency medical technicians.

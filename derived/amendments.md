@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3199
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 330J the following new section: | the bill names no machine-readable US Code section |
+| — | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following: | the bill names no machine-readable US Code section |
