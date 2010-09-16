@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5706
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5706
@@ -25,9 +25,10 @@ To designate the building occupied by the Government Printing Office located at 
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the building occupied by the Government Printing Office located at 
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6715)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6715)
 - 2010-09-15 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
