@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5297
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5297
@@ -305,7 +305,7 @@ Small Business Jobs Act of 2010
 
 - House — Financial Services Committee
 
-## Recorded votes (15)
+## Recorded votes (16)
 
 - 2010-06-17 — [House 111-2-371](votes/house-111-2-0371.md) — On Agreeing to the Amendment — **Agreed to** (420–0)
 - 2010-06-17 — [House 111-2-372](votes/house-111-2-0372.md) — On Agreeing to the Amendment — **Agreed to** (414–0)
@@ -322,6 +322,7 @@ Small Business Jobs Act of 2010
 - 2010-09-16 — [Senate 111-2-235](votes/senate-111-2-0235.md) — On the Motion — **Motion Rejected** (51–48)
 - 2010-09-16 — [Senate 111-2-236](votes/senate-111-2-0236.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–38)
 - 2010-09-16 — [Senate 111-2-237](votes/senate-111-2-0237.md) — On Passage of the Bill — **Bill Passed** (61–38)
+- 2010-09-23 — [House 111-2-539](votes/house-111-2-0539.md) — On Motion to Concur in the Senate Amendment — **Passed** (237–187)
 
 ## Actions
 
@@ -877,3 +878,16 @@ Small Business Jobs Act of 2010
 - 2010-09-16 — Proposed amendment SA 4598 withdrawn in Senate. (consideration: CR S7149)
 - 2010-09-16 — Senate amendment agreed to: Amendment SA 4594 agreed to in Senate by Unanimous Consent.
 - 2010-09-16 — Third cloture on the bill invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 236. (consideration: CR S7158; text: CR S7158)
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — DEBATE - Pursuant to the provisions of H.Res. 1640, the House proceeded with one hour of debate on the motion to concur in the Senate amendment to the bill H.R. 5297.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Ms. Bean moved that the House agree to the Senate amendment. (consideration: CR H6905-6939)
+- 2010-09-23 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 237 - 187 (Roll no. 539). (text as House agreed to Senate amendment: CR H6905-6930)
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Presented to President.
+- 2010-09-23 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 237 - 187 (Roll no. 539).(text as House agreed to Senate amendment: CR H6905-6930)
+- 2010-09-23 — The previous question was ordered pursuant to the rule. (consideration: CR H6938)
+- 2010-09-27 — Became Public Law No: 111-240.
+- 2010-09-27 — Became Public Law No: 111-240.
+- 2010-09-27 — Signed by President.
+- 2010-09-27 — Signed by President.

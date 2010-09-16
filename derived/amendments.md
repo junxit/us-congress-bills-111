@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5297
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-224 amendatory instructions. 2 executed, 222 stated and not applied.
+224 amendatory instructions. 0 executed, 224 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 26 U.S.C. § 6330
-
-> The heading of subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “Jeopardy and State refund collection” and inserting “Exceptions”.
-
-| | |
-|---|---|
-| Removed | `Jeopardy and State refund collection` |
-| Inserted | `Exceptions` |
-
-### 26 U.S.C. § 40
-
-> by striking “unprocessed” in the heading and inserting “certain”.
-
-| | |
-|---|---|
-| Removed | `unprocessed` |
-| Inserted | `certain` |
 
 ## Stated, not applied
 
@@ -161,7 +141,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(2) The Small Business Development Centers” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), as so designated, by inserting “(including State trade agencies),” after “local agencies”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1202, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1202, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by striking “Administrator of the Office of Federal Procurement Policy” each place it appears and inserting “Administrator for Federal Procurement Policy”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 44 as section 45; and | the bill names no machine-readable US Code section |
@@ -183,7 +163,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | The Business Opportunity Development Reform Act of 1988 (Public Law 100–656) is amended by striking title VII (15 U.S.C. 644 note). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1311, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1341, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1342, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by section 1342, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 15(h)(2) of the Small Business Act (15 U.S.C. 644(h)(2)) is amended by striking “submit them” and all that follows through “the following:” and inserting “submit to the President and the Committee on Small Business and Entreprene… | the bill names no machine-readable US Code section |
 | — | replace | Section 31(b)(2)(B) of the Small Business Act (15 U.S.C. 657a(b)(2)(B)) is amended by striking “shall” and inserting “may”. | the bill names no machine-readable US Code section |
 | — | insert | Section 15(g)(1) of the Small Business Act (15 U.S.C. 644(g)(1)) is amended in the fourth sentence by inserting “and subcontract” after “not less than 3 percent of the total value of all prime contract”. | the bill names no machine-readable US Code section |
@@ -215,7 +195,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (5), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Title II of Public Law 94–305 (15 U.S.C. 634a et seq.) is amended by striking section 207 and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (a) of section 1202 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (a) of section 1202 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “certain periods in” before “2010” in the heading, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “before January 1, 2011” and inserting “on or before the date of the enactment of the Creating Small Business Jobs Act of 2010”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 39(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -241,7 +221,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (D) of section 1400L(b)(2) of such Code is amended by striking “January 1, 2010” and inserting “January 1, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 1400N(d)(3) of such Code is amended by striking “January 1, 2010” and inserting “January 1, 2011”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 460(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (b) of section 195 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 195 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 6707A of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (4) of section 162(l) of the Internal Revenue Code of 1986 is amended by inserting “for taxable years beginning before January 1, 2010, or after December 31, 2010” before the period. | the bill names no machine-readable US Code section |
 | — | redesignate | Subparagraph (A) of section 280F(d)(4) of the Internal Revenue Code of 1986 (defining listed property) is amended by adding “‘and”’ at the end of clause (iv), by striking clause (v), and by redesignating clause (vi) as clause (v). | the bill names no machine-readable US Code section |
@@ -259,17 +239,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | Paragraph (2) of section 6721(e) of the Internal Revenue Code of 1986 is amended by striking “$100” and inserting “$250”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6721 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 6722 of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 6330` | replace | Subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “or” at the end of paragraph (2), by inserting “or” at the end of paragraph (3), and by inserting after paragraph (3) the following new paragraph: | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `26 U.S.C. § 6330` | replace | by striking all that precedes “any levy in connection with the collection” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6330` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “or” at the end of paragraph (2), by inserting “or” at the end of paragraph (3), and by inserting after paragraph (3) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking all that precedes “any levy in connection with the collection” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | The heading of subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “Jeopardy and State refund collection” and inserting “Exceptions”. | the bill names no machine-readable US Code section |
 | — | replace | Section 402A(e)(1) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 402A(e)(2) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402A(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (a) of section 72 of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 40` | strike | by striking “or” at the end of subclause (I), | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 40` | replace | by striking the period at the end of subclause (II) and inserting “, or”, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 40` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Subsection (a) of section 861 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” at the end of subclause (I), | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of subclause (II) and inserting “, or”, | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | replace | by striking “unprocessed” in the heading and inserting “certain”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (a) of section 861 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a) of section 862 of the Internal Revenue Code of 1986 is amended by striking “and” at the end of paragraph (7), by striking the period at the end of paragraph (8) and inserting “; and”, and by adding at the end the following… | the bill names no machine-readable US Code section |
 | — | replace | Clause (ii) of section 864(c)(4)(B) of the Internal Revenue Code of 1986 is amended by striking “dividends or interest” and inserting “dividends, interest, or amounts received for the provision of guarantees of indebtedness”. | the bill names no machine-readable US Code section |
-| — | amend | Section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
