@@ -2,12 +2,12 @@
 legis-num: H. RES. 1612
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1612
 
-> Expressing the support for and honoring September 17, 2010, as “Constitution Day”.
+> Expressing the support for and honoring September 17, 2010 as “Constitution Day”.
 
 ## Preamble
 
