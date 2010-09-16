@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4347
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,14 +35,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 5(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c(b)) is amended by striking “after completion of the project or undertaking referred to in the preceding subsection of this section” and inserting … | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2), by striking “economic enterprises” and all that follows through “except that” and inserting “economic enterprises (as defined in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452)), except that”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b) in the first sentence, by striking “pursuant to” and all that follows through “of this Act” and inserting “pursuant to sections 102 and 103”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (j) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “, and” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “expense related to the overhead incurred” and inserting in lieu thereof “expenses incurred by the governing body of the Indian tribe or tribal organization and overhead incurred”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking the comma at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (ii) the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(2), by inserting “subject to subsections (a) and (b) of section 102,” before “contain”; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (f)(2)(A)(ii) of the model agreement contained in subsection (c), by inserting “subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f),” before “such… | the bill names no machine-readable US Code section |
 | — | amend | Title IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | repeal | All regulatory provisions under part 1000 of title 25, Code of Federal Regulations, inconsistent with this title are repealed on the date of the enactment of the Department of the Interior Tribal Self-Governance Act of 2009. | the bill names no machine-readable US Code section |
