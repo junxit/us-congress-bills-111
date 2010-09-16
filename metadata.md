@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2039
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2039
@@ -41,10 +41,11 @@ Congressional Made in America Promise Act of 2010
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Congressional Made in America Promise Act of 2010
 - 2010-09-15 — Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 36 (Roll no. 521). (text: CR H6690)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 36 (Roll no. 521).(text: CR H6690)
+- 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

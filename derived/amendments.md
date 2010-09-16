@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2039
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
-| — | repeal | Section 69 of the Revised Statutes of the United States (2 U.S.C. 109) is repealed. | the bill names no machine-readable US Code section |
+| `41 U.S.C. § 10a` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `41 U.S.C. § 10a` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 109` | repeal | Section 69 of the Revised Statutes of the United States (2 U.S.C. 109) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
