@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5717
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5717
@@ -35,3 +35,14 @@ Smithsonian Conservation Biology Institute Enhancement Act
 - 2010-07-13 — Referred to House Transportation and Infrastructure
 - 2010-07-13 — Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-07-13 — Sponsor introductory remarks on measure. (CR E1309)
+- 2010-07-14 — Committee Consideration and Mark-up Session Held.
+- 2010-07-14 — Ordered to be Reported by Voice Vote.
+- 2010-07-14 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2010-09-20 — Placed on the Union Calendar, Calendar No. 355.
+- 2010-09-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-612, Part II.
+- 2010-09-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-612, Part II.
+- 2010-09-20 — Reported by the Committee on House Administration. H. Rept. 111-612, Part I.
+- 2010-09-20 — Reported by the Committee on House Administration. H. Rept. 111-612, Part I.
