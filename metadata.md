@@ -1,7 +1,7 @@
 ---
 measure: S. 624
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 624
@@ -16,7 +16,7 @@ Senator Paul Simon Water for the World Act of 2010
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (31)
+## Cosponsors (33)
 
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -49,6 +49,8 @@ Senator Paul Simon Water for the World Act of 2010
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -63,3 +65,12 @@ Senator Paul Simon Water for the World Act of 2010
 - 2010-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-185.
 - 2010-05-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-185.
 - 2010-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
+- 2010-09-20 — Amendment SA 4620 agreed to in Senate by Unanimous Consent.
+- 2010-09-20 — Amendment SA 4620 proposed by Senator Levin for Senator Durbin. (consideration: CR S7224) In the nature of a substitute.
+- 2010-09-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7222-7224; text of measure as reported in Senate: CR S7222-7224)
+- 2010-09-20 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-20 — Senate amendment agreed to: Amendment SA 4620 agreed to in Senate by Unanimous Consent.
+- 2010-09-20 — Senate amendment proposed (on the floor): Amendment SA 4620 proposed by Senator Levin for Senator Durbin.(consideration: CR S7224)
+- 2010-09-20 — Senate amendment submitted
+- 2010-09-20 — The committee substitute as amended agreed to by Unanimous Consent.
