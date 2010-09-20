@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4785
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4785
@@ -75,10 +75,11 @@ Rural Energy Savings Program Act
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Agriculture Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -155,3 +156,4 @@ Rural Energy Savings Program Act
 - 2010-09-16 — The previous question was ordered without objection. (consideration: CR H6790)
 - 2010-09-16 — The title of the measure was amended. Agreed to without objection.
 - 2010-09-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2010-09-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

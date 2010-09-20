@@ -2,7 +2,7 @@
 legis-num: H.R. 4785
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4785
@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** funded in significant part—
       - **(i)** by funds provided by or overseen by a State; or
       - **(ii)** through the energy loan program of the Federal National Mortgage Association.
-  - **(4)** *Qualifying energy savings measure* The term “qualifying energy savings measure” means a measure listed under subsection (c)(1) or (2) or stipulated in a whole-house analysis under subsection (c)(3).
+  - **(4)** *Qualifying energy savings measure* The term qualifying energy savings measure means a measure listed under subsection (c)(1) or (2) or stipulated in a whole-house analysis under subsection (c)(3).
 - **(b)** *Establishment* The Secretary of Energy shall establish a Home Star Energy Efficiency Loan Program under which the Secretary of Energy shall offer loans at zero percent interest to States to support financial assistance provided by qualified financing entities for the installation of qualifying energy savings measures.
 - **(c)** *Energy efficiency measures and standards* The Secretary of Energy, in consultation with the Secretary of Agriculture, shall publish—
   - **(1)** not later than 90 days after the date of enactment of this Act, a master list of residential energy efficiency measures determined to be cost-effective, readily available from commercial sources, to be permanently installed in a primary residence, and capable of supporting measurement and verification of the energy savings that results from their adoption, but which shall not include the installation or replacement of pool heaters or the installation of Energy Star televisions;
@@ -77,21 +77,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 2. Rural energy savings program
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Eligible entity* The term “eligible entity” means—
+  - **(1)** *Eligible entity* The term eligible entity means—
     - **(A)** any public or cooperative electric utility that is eligible to borrow from the Rural Utilities Service electrification program authorized under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) that serves a rural area;
     - **(B)** any current borrower of the Rural Utilities Service electrification program authorized under that Act; or
     - **(C)** any entity primarily owned or controlled by an entity described in subparagraph (A) or (B).
-  - **(2)** *Energy efficiency measure* The term “energy efficiency measure”, with respect to property served by an eligible entity, means a fixed structural improvement and investment in a cost-effective, commercial off-the-shelf technology to reduce residential energy use that is either—
+  - **(2)** *Energy efficiency measure* The term energy efficiency measure, with respect to property served by an eligible entity, means a fixed structural improvement and investment in a cost-effective, commercial off-the-shelf technology to reduce residential energy use that is either—
     - **(A)** included in the master list published under section 1(c)(1) and (2); or
     - **(B)** stipulated in a whole-house simulation conducted pursuant to section 1(c)(3).
-  - **(3)** *Farm efficiency measure* The term “farm efficiency measure” means an energy saving application that is a fixed improvement installed in or attached to a building or structure on a farm at a total loan value for that farm of $50,000 or less, that is not otherwise an energy efficiency measure, and that would achieve energy savings sufficient to repay the cost of the measure in 10 years or fewer.
-  - **(4)** *Qualified consumer* The term “qualified consumer” means a consumer served by an eligible entity that has the ability to repay a loan made under subsection (d), as determined by an eligible entity, and who has not accepted any loan as an eligible participant pursuant to section 1.
-  - **(5)** *Qualified entity* The term “qualified entity” means any organization that the Secretary of Agriculture determines has significant experience in providing eligible entities with—
+  - **(3)** *Farm efficiency measure* The term farm efficiency measure means an energy saving application that is a fixed improvement installed in or attached to a building or structure on a farm at a total loan value for that farm of $50,000 or less, that is not otherwise an energy efficiency measure, and that would achieve energy savings sufficient to repay the cost of the measure in 10 years or fewer.
+  - **(4)** *Qualified consumer* The term qualified consumer means a consumer served by an eligible entity that has the ability to repay a loan made under subsection (d), as determined by an eligible entity, and who has not accepted any loan as an eligible participant pursuant to section 1.
+  - **(5)** *Qualified entity* The term qualified entity means any organization that the Secretary of Agriculture determines has significant experience in providing eligible entities with—
     - **(A)** advice on energy, environmental, energy efficiency, and information research and technology;
     - **(B)** training, education, and consulting;
     - **(C)** guidance in energy and operational issues and rural community and economic development; and
     - **(D)** other relevant assistance, as determined by the Secretary of Agriculture.
-  - **(6)** *Rural area* The term “rural area” means any area other than—
+  - **(6)** *Rural area* The term rural area means any area other than—
     - **(A)** a city or town that has a population of greater than 50,000 inhabitants; and
     - **(B)** any urbanized area contiguous and adjacent to a city or town described in subparagraph (A).
 - **(b)** *Establishment* The Secretary of Agriculture, acting through the Rural Utility Service, shall establish the Rural Star Energy Savings Program for the purpose of making loans to eligible entities that agree to accept the loan funds authorized pursuant to this section to make loans to qualified consumers for the purpose of implementing residential energy efficiency measures or farm efficiency measures approved by the Secretary of Agriculture.
