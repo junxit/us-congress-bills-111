@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5591
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5591
@@ -25,3 +25,10 @@ To designate the airport traffic control tower located at Spokane International 
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Introduced in House
 - 2010-06-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2010-06-25 — Referred to the Subcommittee on Aviation.
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Subcommittee on Aviation Discharged.
+- 2010-09-20 — Placed on the House Calendar, Calendar No. 238.
+- 2010-09-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-611.
+- 2010-09-20 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-611.
