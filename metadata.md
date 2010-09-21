@@ -1,7 +1,7 @@
 ---
 measure: S. 3717
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3717
@@ -37,3 +37,19 @@ A bill to amend the Securities Exchange Act of 1934, the Investment Company Act 
 - 2010-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
 - 2010-09-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7298-7299; text as passed Senate: CR S7299)
 - 2010-09-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7298-7299; text as passed Senate: CR S7299)
+- 2010-09-22 — Held at the desk.
+- 2010-09-22 — Message on Senate action sent to the House.
+- 2010-09-22 — Received in the House.
+- 2010-09-23 — Cleared for White House.
+- 2010-09-23 — Considered under suspension of the rules. (consideration: CR H6952-6955)
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 3717.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2010-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6952)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6952)
+- 2010-09-24 — Presented to President.
+- 2010-09-24 — Presented to President.
+- 2010-10-05 — Became Public Law No: 111-257.
+- 2010-10-05 — Became Public Law No: 111-257.
+- 2010-10-05 — Signed by President.
+- 2010-10-05 — Signed by President.
