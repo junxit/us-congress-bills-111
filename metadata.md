@@ -1,7 +1,7 @@
 ---
 measure: S. 3717
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3717
@@ -35,3 +35,5 @@ A bill to amend the Securities Exchange Act of 1934, the Investment Company Act 
 - 2010-09-16 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2010-09-16 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2010-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
+- 2010-09-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7298-7299; text as passed Senate: CR S7299)
+- 2010-09-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7298-7299; text as passed Senate: CR S7299)
