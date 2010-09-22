@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2092
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2092
@@ -39,3 +39,8 @@ Kingman and Heritage Islands Act of 2009
 - 2009-10-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10563)
 - 2009-10-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10563)
 - 2009-10-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-10-19 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-300.
+- 2010-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-300.
+- 2010-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.
