@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2336
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2336
@@ -16,7 +16,7 @@ GREEN Act of 2010
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (14)
+## Cosponsors (23)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -32,6 +32,15 @@ GREEN Act of 2010
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Larson, John B. [D-CT-1] (L000557)
 
 ## Committees (1)
 
@@ -42,3 +51,13 @@ GREEN Act of 2010
 - 2009-05-07 — Introduced in House
 - 2009-05-07 — Introduced in House
 - 2009-05-07 — Referred to the House Committee on Financial Services.
+- 2009-06-11 — Referred to the Subcommittee on Housing and Community Opportunity.
+- 2009-06-11 — Subcommittee Hearings Held.
+- 2009-06-16 — Subcommittee Hearings Held.
+- 2010-04-22 — Committee Consideration and Mark-up Session Held.
+- 2010-04-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-04-27 — Committee Consideration and Mark-up Session Held.
+- 2010-04-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-22 — Placed on the Union Calendar, Calendar No. 361.
+- 2010-09-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-619.
+- 2010-09-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 111-619.
