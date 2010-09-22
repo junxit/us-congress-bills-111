@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5194
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5194
@@ -33,3 +33,9 @@ Mt. Andrea Lawrence Designation Act of 2010
 - 2010-09-16 — Placed on the Union Calendar, Calendar No. 340.
 - 2010-09-16 — Reported by the Committee on Natural Resources. H. Rept. 111-595.
 - 2010-09-16 — Reported by the Committee on Natural Resources. H. Rept. 111-595.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6828-6829)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5194.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6829)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6829)
