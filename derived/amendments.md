@@ -1,7 +1,7 @@
 ---
 measure: S. 2925
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+37 amendatory instructions. 0 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,31 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (B), by striking the “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 204 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044c) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 3701(c) of the Crime Control Act of 1990 (42 U.S.C. 5779(c)) is amended by inserting “, which shall include the total number of reports received and the total number of entries made to the National Crime Information Center (NCIC)… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(2)” and inserting “(3)”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “, and a photograph taken within the previous 180 days ” after “dental records”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or its own motion,” after “attorney for the Government”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or investigation” after “Federal criminal case” each place it appears; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (4), as so redesignated, by striking “(and not by reference to the complaint or other document)”; and | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (5), as so redesignated, in the second sentence, by inserting before the period at the end the following: “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the… | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 2252(b)(2) of title 18, United States Code, is amended by inserting after “but if” the following: “any visual depiction involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such p… | the bill names no machine-readable US Code section |
+| — | insert | Section 2252A(b)(2) of title 18, United States Code, is amended by inserting after “but, if” the following: “any image of child pornography involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of… | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” after “Federal health care offense;”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “children,” and inserting the following: “children; or (III) and only for the purpose of investigations by the U.S. Marshals Service of an unregistered sex offender”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph, the term” and inserting the following: “paragraph— | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, 2250” after “2243”; | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
