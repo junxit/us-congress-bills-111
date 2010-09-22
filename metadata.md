@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3553
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3553
@@ -42,3 +42,7 @@ Indian Veterans Housing Opportunity Act of 2010
 - 2010-04-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2654)
 - 2010-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2654)
 - 2010-04-22 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2010-06-30 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2010-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-299.
+- 2010-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-299.
+- 2010-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 579.

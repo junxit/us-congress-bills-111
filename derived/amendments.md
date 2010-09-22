@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3553
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
