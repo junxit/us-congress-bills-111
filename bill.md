@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 6178
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6178
+
+> To require applicants for assistance under section 811 of the Cranston-Gonzalez National Affordable Housing Act for supportive housing for persons with disabilities to hold public meetings regarding such applications.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Awareness Act of 2010”.
+
+## § 2. Community meeting requirement
+
+Section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013) is amended—
+
+- **(1)** in subsection (j), by adding at the end the following new paragraph:
+  > - **(8)** *Community meeting* The Secretary may not provide assistance under this section with respect to an application unless the applicant has held at least one meeting regarding the application that meets the following requirements:
+  >   - **(A)** Public notice of such meeting shall be provided in advance of the meeting in accordance with standards that the Secretary shall establish.
+  >   - **(B)** The meeting shall be open to the public.
+  >   - **(C)** The meeting shall be held in the neighborhood in which the housing proposed to be assisted under this section is to be located.
+  >   - **(D)** The meeting shall provide interested persons an opportunity to obtain information from the applicant regarding, and to comment on, the application for assistance under this section and the housing proposed to be assisted.
+  >   - **(E)** The meeting shall be conducted by a representative of the applicant.
+
+- **(2)** in subsection (f)—
+  - **(A)** in paragraph (6), by striking “and” at the end;
+  - **(B)** by redesignating paragraph (7) as paragraph (8); and
+  - **(C)** by inserting after paragraph (6) the following new paragraph:
+    > - **(7)** a certification from the applicant that the applicant has held a public meeting regarding the application in accordance with subsection (i)(8); and
