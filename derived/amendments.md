@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5756
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting before section 151 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in section 152(a)(1), by striking “subtitle” and inserting “part”; | the bill names no machine-readable US Code section |
+| — | replace | in section 153(a)(2)(D), by striking “subtitle” and inserting “part”; | the bill names no machine-readable US Code section |
+| — | replace | in each of subparagraphs (B) and (D) of section 154(a)(3), by striking “subtitle” and inserting “part”; | the bill names no machine-readable US Code section |
+| — | replace | in each of paragraphs (1) and (3) of section 154(d), by striking “subtitle” and inserting “part”; and | the bill names no machine-readable US Code section |
+| — | replace | in each of subsections (a)(1) and (b) of section 156, by striking “subtitle” and inserting “part”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the item relating to section 151 the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end of the items relating to subtitle D of title I the following: | the bill names no machine-readable US Code section |
