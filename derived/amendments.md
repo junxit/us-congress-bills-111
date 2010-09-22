@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (2) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

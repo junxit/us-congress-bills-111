@@ -37,14 +37,14 @@ The Director of National Drug Control Policy, in consultation with the Administr
 The Comptroller General of the United States shall—
 
 - **(1)** collect data on the delivery, transfer, and disposal of controlled substances under section 302(g) of the Controlled Substances Act, as added by section 2; and
-- **(2)** not less than 4 years after the date of the enactment of this Act, submit findings and recommendations to the Congress regarding use, effectiveness, and accessibility of disposal programs.
+- **(2)** not later than 4 years after the date of the enactment of this Act, submit findings and recommendations to the Congress regarding use, effectiveness, and accessibility of disposal programs.
 
 ## § 5. EPA study of environmental impacts
 
-- **(a)** *Study* The Administrator of the Environmental Protection Agency (in this section referred to as the Administrator) shall—
-  - **(1)** in consultation with relevant state and local officials and other sources of relevant technical expertise, conduct a study to—
-    - **(A)** examine the environmental impacts resulting from the ultimate disposal of controlled substances in existing disposal systems;
-    - **(B)** taking into consideration such impacts, the ease and cost of implementation of drug take-back programs, and participation in such programs by various communities, formulate appropriate recommendations on the destruction or ultimate disposal of prescription drugs, including controlled substances; and
-    - **(C)** identify any additional legal authority needed by the Administrator to carry out such recommendations; and
+- **(a)** *Study* The Administrator of the Environmental Protection Agency (in this section referred to as the “Administrator”) shall—
+  - **(1)** in consultation with relevant State and local officials and other sources of relevant technical expertise, conduct a study to—
+    - **(A)** examine the environmental impacts resulting from the ultimate disposal of controlled substances through existing methods;
+    - **(B)** taking into consideration such impacts, and the ease and cost of implementation of drug take-back programs and participation in such programs by various communities, formulate appropriate recommendations on the destruction or ultimate disposal of prescription drugs, including controlled substances; and
+    - **(C)** identify additional authority needed to carry out such recommendations if the Administrator determines that the Administrator’s existing legal authorities are insufficient to implement such recommendations; and
   - **(2)** not later than 18 months after the date of the enactment of this Act, submit a report to the Congress on the results of such study.
 - **(b)** *Rule of construction* Nothing in this section shall be construed to affect the Administrator’s authority under other provisions of law.
