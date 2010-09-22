@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Combat Methamphetamine Enhancement Act of 2010”.
+This Act may be cited as the “Combat Methamphetamine Enhancement Act of 2009”.
 
 ## § 2. Requirement of self-certification by all regulated persons selling scheduled listed chemicals
 
@@ -34,17 +34,13 @@ Section 402(a) of the Controlled Substances Act (21 U.S.C. 842(a)) is amended—
 - **(3)** by inserting after paragraph (14) the following:
   > - **(15)** to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in section 310(b)(3)(B), unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under section 310(e)(1)(B)(v).
 
-- **(4)** by inserting at the end the following: “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 310(e)(1)(B)(v), the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 310(e)(1)(B)(v).”.
+- **(4)** inserting at the end the following: “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 310(e)(1)(B)(v), the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 310(e)(1)(B)(v).”.
 
 ## § 5. Negligent failure to self-certify as required
 
-Section 402(a)(10) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310”.
+Section 402(a) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310 (21 U.S.C. 830)”.
 
 ## § 6. Effective date and regulations
 
 - **(a)** *Effective date* This Act and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act.
 - **(b)** *Regulations* In promulgating the regulations authorized by section 2, the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date.
-
-## § 7. Budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
