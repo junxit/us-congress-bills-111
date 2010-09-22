@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5494
 
-> To direct the Director of the National Park Service and the Secretary of the Interior to transfer certain properties to the District of Columbia.
+> To direct the Secretary of the Interior to transfer certain properties to the District of Columbia.
 
 ## § 1. Transfer of Certain Properties
 

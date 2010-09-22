@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5494
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5494
@@ -33,3 +33,10 @@ To direct the Secretary of the Interior to transfer certain properties to the Di
 - 2010-09-16 — Placed on the Union Calendar, Calendar No. 350.
 - 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-605.
 - 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-605.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6825-6826)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5494.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
+- 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6825-6826)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6825-6826)
+- 2010-09-22 — The title of the measure was amended. Agreed to without objection.
