@@ -25,7 +25,7 @@ Section 1101 is amended to read as follows:
 > ## § 1101. Definitions
 >
 > - **(a)** *Accident defined* In this chapter, the term “accident”—
->   - **(1)** means an event associated with the operation of a vehicle, aircraft, or pipeline, which results in damage to or destruction of the vehicle, aircraft or pipeline, or which results in the death of or serious injury to any person, regardless of whether the initiating event is accidental or otherwise; and
+>   - **(1)** means an event associated with the operation of a vehicle, aircraft, or pipeline, which results in damage to or destruction of the vehicle, aircraft, or pipeline, or which results in the death of or serious injury to any person, regardless of whether the initiating event is accidental or otherwise; and
 >   - **(2)** may include an incident that does not involve destruction or damage of a vehicle, aircraft, or pipeline, but affects transportation safety, as the Board prescribes by regulation.
 > - **(b)** *Applicability of definitions in other laws* The definitions contained in section 2101(17a) of title 46 and section 40102(a) of this title apply to this chapter.
 
@@ -35,19 +35,24 @@ The last sentence of section 1111(d) is amended by striking “absent” and ins
 
 ## § 5. Administrative
 
-- **(a)** *Additional powers*
+- **(a)** *General authority* Section 1113(a) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by inserting “and depositions” after “hearings”; and
+    - **(B)** by striking “subpena” and inserting “subpoena”; and
+  - **(2)** in paragraph (2) by inserting before the first sentence the following: “In the interest of promoting transportation safety, the Board shall have the authority by subpoena to summon witnesses and obtain evidence relevant to an accident investigation conducted under this chapter.”.
+- **(b)** *Additional powers*
   - **(1)** *Authority of Board to enter into contracts and other agreements with nonprofit entities* Section 1113(b)(1)(H) is amended by inserting “and other agreements” after “contracts”.
-  - **(2)** *Authority of Board to enter into and perform contracts, agreements, leases, or other transactions* Section 1113(b)(1) is amended—
+  - **(2)** *Authority of Board to enter into and perform contracts, agreements, leases, or other transactions* Section 1113(b) is amended—
     - **(A)** by striking paragraph (1)(I) and inserting the following:
       > - **(I)** negotiate, enter into, and perform contracts, agreements, leases, or other transactions with individuals, private entities, departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries on such terms and conditions as the Chairman of the Board considers appropriate to carry out the functions of the Board and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
 
     - **(B)** by adding at the end the following:
-      > - **(3)** The Authority of the Board to enter into leases shall be limited to the provision of special use space related to an accident investigation, or for general use space, at an average annual rental cost of not more than $300,000 for any individual property.
+      > - **(3)** *Lease limitation* The authority of the Board to enter into leases shall be limited to the provision of special use space related to an accident investigation, or for general use space, at an average annual rental cost of not more than $300,000 for any individual property.
 
   - **(3)** *Authority of other Federal agencies* Section 1113(b)(2) is amended to read as follows:
     > - **(2)** *Authority of other Federal agencies* Notwithstanding any other provision of law, the head of a Federal department, agency, or instrumentality may transfer to or receive from the Board, with or without reimbursement, supplies, personnel, services, and equipment (other than administrative supplies and equipment).
 
-- **(b)** *Criteria on public hearings*
+- **(c)** *Criteria on public hearings*
   - **(1)** *In general* Section 1113 is amended by adding at the end the following:
     > - **(i)** *Public hearings*
     >   - **(1)** *Development of criteria* The Board shall establish by regulation criteria to be used by the Board in determining, for each accident investigation and safety study undertaken by the Board, whether or not the Board will hold a public hearing on the investigation or study.
@@ -118,7 +123,12 @@ Section 1115(d) is amended—
   - **(2)** by striking paragraph (3) and inserting the following:
     > - **(3)** prescribe requirements for persons reporting accidents, as defined in section 1101(a), that may be investigated by the Board under this chapter;
 
-- **(b)** *Evaluation and audit* Section 1138(a) is amended by striking “conducted at least annually, but may be”.
+- **(b)** *Interim safety recommendations and measures* Section 1116 is amended by adding at the end the following:
+  > - **(c)** *Interim safety recommendations and measures* Nothing in this section shall restrict the Board from—
+  >   - **(1)** making urgent safety recommendations, identified through an ongoing safety investigation or study, to any regulatory department, agency, or instrumentality of the Federal Government or a State or local governmental authority or a person concerned with transportation safety; or
+  >   - **(2)** recommending interim measures to mitigate risks to transportation safety pending implementation of more comprehensive responses by the appropriate department, agency, instrumentality, authority, or person.
+
+- **(c)** *Evaluation and audit* Section 1138(a) is amended by striking “conducted at least annually, but may be”.
 
 ## § 9. Authorization of appropriations
 
@@ -149,10 +159,9 @@ Section 1115(d) is amended—
   - **(1)** in the matter preceding subparagraph (A) by striking “cause or probable cause” and inserting “causes or probable causes”;
   - **(2)** in subparagraph (C) by striking “a fatality or substantial property damage” and inserting “a fatality (other than a fatality involving a trespasser) or substantial property damage”;
   - **(3)** in subparagraph (E) by striking “and” at the end;
-  - **(4)** in subparagraph (F) by striking the period at the end and inserting a semicolon; and
+  - **(4)** in subparagraph (F) by striking the period at the end and inserting “; and”; and
   - **(5)** by adding at the end the following:
-    > - **(G)** an accident in response to an international request and delegation under appropriate international conventions, coordinated through the Department of State and accepted by the Board; and
-    > - **(H)** each accident involving a commercial space launch vehicle.
+    > - **(G)** an accident in response to an international request and delegation under appropriate international conventions, coordinated through the Department of State and accepted by the Board.
 
 - **(b)** *Authorities of other agencies* The second sentence of section 1131(a)(3) is amended by inserting “or relevant to” after “developed about”.
 - **(c)** *Accidents not involving Government misfeasance or nonfeasance* Section 1131(c) is amended by adding at the end the following:
@@ -176,7 +185,7 @@ Section 1115(d) is amended—
   >   - **(1)** *In general* In an investigation of a major marine casualty under section 1131(a)(1)(E), the Board, with the consent of the Secretary of the department in which the Coast Guard is operating, may delegate to the Commandant of the Coast Guard full authority to obtain the facts of the casualty. In the case of such a delegation, the Commandant, acting through the Commandant’s on-scene representative, shall have the full authority of the Board.
   >   - **(2)** *Required training, experience, and qualifications* The Board may not make a delegation under paragraph (1) unless the Board determines that the Commandant’s on-scene representatives have sufficient training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation to act in accordance with the best investigation practices of Federal and non-Federal entities.
   > - **(b)** *Notification and reporting* The Board and the Secretary shall jointly prescribe regulations governing the notification and reporting of marine casualties to the Board.
-  > - **(c)** *Participation of Commandant in marine investigations* The Board shall provide for the participation of the Commandant of the Coast Guard in an investigation by the Board of a major marine casualty under section 1131(a)(1)(E) if such participation is necessary to carry out the duties and powers of the Commandant, except that the Commandant may not participate in establishing the probable cause of the marine casualty (other than as provided section 1131(b)).
+  > - **(c)** *Participation of Commandant in marine investigations* The Board shall provide for the participation of the Commandant of the Coast Guard in an investigation by the Board of a major marine casualty under section 1131(a)(1)(E) if such participation is necessary to carry out the duties and powers of the Commandant, except that the Commandant may not participate in establishing the probable cause of the marine casualty (other than as provided in section 1131(b)).
 
 - **(b)** *Conforming amendment* The analysis for chapter 11 is amended by inserting after the item relating to section 1132 the following:
 
@@ -198,4 +207,12 @@ Section 1154(a)(1)(A) is amended by striking “; and” and inserting “; or�
 
 ## § 15. Coast Guard notification
 
-Not later than 6 months after the date of enactment of this Act, the National Transportation Safety Board and the Secretary of the department in which the Coast Guard is operating shall issue regulations to provide the Board prompt notification through the Coast Guard of all marine accidents of potential investigative interest to the Board.
+Not later than 6 months after the date of enactment of this Act, the National Transportation Safety Board and the Secretary of the department in which the Coast Guard is operating shall issue regulations to provide the Board prompt notification through the Coast Guard of all marine casualties of potential investigative interest to the Board.
+
+## § 16. Use of board name, logo, initials, and seal
+
+Section 709 of title 18, United States Code, is amended—
+
+- **(1)** by inserting “or” at the end of the paragraph immediately preceding the paragraph that begins “Shall be punished as follows:”; and
+- **(2)** by inserting the following before the paragraph that begins “Shall be punished as follows:”:
+  > -  Whoever, except with the written permission of the Chairman of the National Transportation Safety Board, knowingly uses the words “National Transportation Safety Board”, the logo of the Board, the initials “NTSB”, or the official seal of the Board, or any colorable imitation of such words, logo, initials, or seal, in connection with any advertisement, circular, book, pamphlet, or other publication, or any play, motion picture, broadcast, telecast, or other production, in a manner reasonably calculated to convey the impression that such advertisement, circular, book, pamphlet, or other publication, or such play, motion picture, broadcast, telecast, or other production, is approved, endorsed, or authorized by the National Transportation Safety Board;
