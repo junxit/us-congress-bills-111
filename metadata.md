@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 30
 congress: 111
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 30
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (25)
+## Cosponsors (40)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -43,6 +43,21 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Brown, Scott P. [R-MA] (B001268)
 
 ## Committees (1)
 
@@ -52,3 +67,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2010-05-11 — Introduced in Senate
 - 2010-05-11 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
+- 2010-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition, pursuant to 5.U.S.C. 802(c).
+- 2010-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition, pursuant to 5.U.S.C. 802(c).
