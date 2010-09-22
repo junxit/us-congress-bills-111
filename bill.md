@@ -1,0 +1,14 @@
+---
+legis-num: S. 3815
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3815
+
+> To amend the Internal Revenue Code of 1986 to reduce oil consumption and improve energy security, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting Natural Gas and Electric Vehicles Act of 2010”.
