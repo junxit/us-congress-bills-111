@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4195
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4195
@@ -87,3 +87,9 @@ To authorize the Peace Corps Commemorative Foundation to establish a commemorati
 - 2010-09-16 — Placed on the Union Calendar, Calendar No. 347.
 - 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-602.
 - 2010-09-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-602.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6826-6828)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4195.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
+- 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6826)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6826)
