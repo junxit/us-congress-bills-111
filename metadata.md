@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1508
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1508
@@ -33,3 +33,10 @@ Celebrating the 200th Anniversary of John James Audubon in Henderson, Kentucky.
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Referred to the House Committee on Natural Resources.
+- 2010-07-06 — Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6832)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1508.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
+- 2010-09-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6832)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6832)
