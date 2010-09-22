@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5710
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5710
@@ -16,7 +16,7 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Shimkus, John [R-IL-19] (S000364)
@@ -34,6 +34,8 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
 
 ## Committees (1)
 
@@ -44,3 +46,16 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Introduced in House
 - 2010-07-01 — Referred to the House Committee on Energy and Commerce.
+- 2010-07-13 — Referred to the Subcommittee on Health.
+- 2010-07-22 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2010-07-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-07-22 — Subcommittee Hearings Held.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6850-6852)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5710.
+- 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-09-22 — Placed on the Union Calendar, Calendar No. 358.
+- 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-616.
+- 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-616.

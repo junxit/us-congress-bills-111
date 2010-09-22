@@ -29,7 +29,7 @@ Section 399O of the Public Health Service Act (42 U.S.C. 280g–3) is amended—
   - **(A)** in subparagraph (A), by striking “or”;
   - **(B)** in subparagraph (B), by striking the period at the end and inserting “; or”; and
   - **(C)** by adding at the end the following:
-    > - **(C)** to maintain and operate an existing State controlled substance monitoring program.
+    > - **(C)** to maintain and operate an existing State-controlled substance monitoring program.
 
 - **(2)** by amending subsection (b) to read as follows:
   > - **(b)** *Minimum requirements* The Secretary shall maintain and, as appropriate, supplement or revise (after publishing proposed additions and revisions in the Federal Register and receiving public comments thereon) minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A).
@@ -50,11 +50,11 @@ Section 399O of the Public Health Service Act (42 U.S.C. 280g–3) is amended—
   - **(C)** in paragraph (5)—
     - **(i)** by striking “implement or improve” and inserting “establish, improve, or maintain”; and
     - **(ii)** by adding at the end the following: “The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B).”;
-- **(4)** in the matter preceding paragraph (1) in subsection (d), by striking “In implementing or improving” all that follows through “with the following:” and inserting “In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B) or (C) submit to the Secretary for approval a statement of why such compliance is not feasible and a plan for bringing the State into compliance, with the following:”;
+- **(4)** in the matter preceding paragraph (1) in subsection (d), by striking “In implementing or improving” and all that follows through “(a)(1)(B)” and inserting “In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subparagraph (B) or (C) of subsection (a)(1)”;
 - **(5)** in subsections (e), (f)(1), and (g), by striking “implementing or improving” each place it appears and inserting “establishing, improving, or maintaining”;
 - **(6)** in subsection (f)—
   - **(A)** in paragraph (1)(B) by striking “misuse of a schedule II, III, or IV substance” and inserting “misuse of a controlled substance included in schedule II, III, or IV of section 202(c) of the Controlled Substance Act”; and
-  - **(B)** add at the end the following:
+  - **(B)** by adding at the end the following:
     > - **(3)** *Evaluation and reporting* Subject to subsection (g), a State receiving a grant under subsection (a) shall provide the Secretary with aggregate data and other information determined by the Secretary to be necessary to enable the Secretary—
     >   - **(A)** to evaluate the success of the State’s program in achieving its purposes; or
     >   - **(B)** to prepare and submit the report to Congress required by subsection (k)(2).
@@ -67,7 +67,10 @@ Section 399O of the Public Health Service Act (42 U.S.C. 280g–3) is amended—
   >   - **(1)** facilitate prescriber use of the State’s controlled substance monitoring system; and
   >   - **(2)** educate prescribers on the benefits of the system both to them and society.
 
-- **(10)** in subsection (m)(1), as redesignated, by striking “establishment, implementation, or improvement” and inserting “establishment, improvement, or maintenance”;
-- **(11)** in subsection (n)(8), as redesignated, by striking “and the District of Columbia” and inserting “, the District of Columbia, and any commonwealth or territory of the United States”; and
-- **(12)** by amending subsection (o), as redesignated, to read as follows:
-  > - **(o)** *Authorization of appropriation* To carry out this section, there are authorized to be appropriated $15,000,000 for fiscal year 2011 and $10,000,000 for each of fiscal years 2012 through 2015.
+- **(10)** by amending subsection (l), as redesignated, to read as follows:
+  > - **(l)** *Preference* Beginning 3 years after the date on which funds are first appropriated to carry out this section, the Secretary, in awarding any competitive grant under title V that is related to drug abuse (as determined by the Secretary) and for which only States or tribes are eligible to apply, may give preference to eligible States with applications approved under this section, to eligible States or tribes with existing controlled substance monitoring programs that meet minimum requirements under this section, or to eligible States or tribes that put forth a good faith effort to meet those requirements (as determined by the Secretary).
+
+- **(11)** in subsection (m)(1), as redesignated, by striking “establishment, implementation, or improvement” and inserting “establishment, improvement, or maintenance”;
+- **(12)** in subsection (n)(8), as redesignated, by striking “and the District of Columbia” and inserting “, the District of Columbia, and any commonwealth or territory of the United States”; and
+- **(13)** by amending subsection (o), as redesignated, to read as follows:
+  > - **(o)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $15,000,000 for fiscal year 2011 and $10,000,000 for each of fiscal years 2012 and 2013.
