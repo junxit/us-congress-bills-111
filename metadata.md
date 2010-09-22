@@ -1,7 +1,7 @@
 ---
 measure: S. 624
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 624
@@ -52,9 +52,10 @@ Senator Paul Simon Water for the World Act of 2010
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -74,3 +75,6 @@ Senator Paul Simon Water for the World Act of 2010
 - 2010-09-20 — Senate amendment proposed (on the floor): Amendment SA 4620 proposed by Senator Levin for Senator Durbin.(consideration: CR S7224)
 - 2010-09-20 — Senate amendment submitted
 - 2010-09-20 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2010-09-21 — Message on Senate action sent to the House.
+- 2010-09-22 — Received in the House.
+- 2010-09-22 — Referred to the House Committee on Foreign Affairs.
