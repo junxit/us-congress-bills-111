@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2923
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2923
@@ -16,7 +16,7 @@ Combat Methamphetamine Enhancement Act of 2010
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Cosponsors (9)
+## Cosponsors (16)
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -27,6 +27,13 @@ Combat Methamphetamine Enhancement Act of 2010
 - Rep. Chandler, Ben [D-KY-6] (C001058)
 - Rep. Davis, Lincoln [D-TN-4] (D000599)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
 
 ## Committees (2)
 
@@ -40,3 +47,20 @@ Combat Methamphetamine Enhancement Act of 2010
 - 2009-06-17 — Referred to House Energy and Commerce
 - 2009-06-17 — Referred to House Judiciary
 - 2009-06-17 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2009-06-18 — Referred to the Subcommittee on Health.
+- 2009-07-23 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2010-07-22 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-07-28 — Ordered to be Reported by Voice Vote.
+- 2010-09-22 — Committee on Judiciary discharged.
+- 2010-09-22 — Committee on Judiciary discharged.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6846-6848)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2923.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6846-6847)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6846-6847)
+- 2010-09-22 — Placed on the Union Calendar, Calendar No. 357.
+- 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.
+- 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.

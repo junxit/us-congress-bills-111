@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2923
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,4 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (13), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (14), by striking the period and inserting “; or”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (14) the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 402(a) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310 (21 U.S.C. 830)”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end the following: “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 310(e)(1)(B)(v), the distributor may rely on a written, faxed, or el… | the bill names no machine-readable US Code section |
+| — | insert | Section 402(a)(10) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310”. | the bill names no machine-readable US Code section |
