@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 252
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 252
@@ -16,7 +16,7 @@ Affirmation of the United States Record on the Armenian Genocide Resolution
 
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Cosponsors (76)
+## Cosponsors (149)
 
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -94,6 +94,79 @@ Affirmation of the United States Record on the Armenian Genocide Resolution
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Minnick, Walter [D-ID-1] (M001175)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Schauer, Mark H. [D-MI-7] (S001178)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Chu, Judy [D-CA-32] (C001080)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
 
 ## Committees (1)
 
@@ -104,3 +177,8 @@ Affirmation of the United States Record on the Armenian Genocide Resolution
 - 2009-03-17 — Introduced in House
 - 2009-03-17 — Introduced in House
 - 2009-03-17 — Referred to the House Committee on Foreign Affairs.
+- 2010-03-04 — Committee Consideration and Mark-up Session Held.
+- 2010-03-04 — Ordered to be Reported by the Yeas and Nays: 23 - 22.
+- 2010-09-22 — Placed on the House Calendar, Calendar No. 240.
+- 2010-09-22 — Reported by the Committee on Foreign Affairs. H. Rept. 111-622.
+- 2010-09-22 — Reported by the Committee on Foreign Affairs. H. Rept. 111-622.
