@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3980
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3980
@@ -57,3 +57,16 @@ Redundancy Elimination and Enhanced Performance for Preparedness Grants Act
 - 2010-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
 - 2010-09-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7364-7365; text as passed Senate: CR S7364-7365)
 - 2010-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7364-7365; text as passed Senate: CR S7364-7365)
+- 2010-09-23 — Message on Senate action sent to the House.
+- 2010-09-28 — Cleared for White House.
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3980.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Cuellar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7073-7075)
+- 2010-09-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7073-7074)
+- 2010-09-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7073-7074)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-271.
+- 2010-10-12 — Became Public Law No: 111-271.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.
