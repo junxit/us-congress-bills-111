@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3553
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3553
@@ -46,3 +46,13 @@ Indian Veterans Housing Opportunity Act of 2010
 - 2010-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-299.
 - 2010-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-299.
 - 2010-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 579.
+- 2010-09-27 — Cleared for White House.
+- 2010-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7556)
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7556)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-269.
+- 2010-10-12 — Became Public Law No: 111-269.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.

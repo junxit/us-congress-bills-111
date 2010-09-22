@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3553
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 4103` | add-at-end | Paragraph (9) of section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(9)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Paragraph (9) of section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(9)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
