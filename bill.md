@@ -35,3 +35,7 @@ Section 1128(b)(15) of the Social Security Act (42 U.S.C. 1320a–7(b)(15)) is a
 >       - **(I)** one of the entities is a person with an ownership or control interest (as defined in section 1124(a)(3)) in the other entity (or had such an interest at the time of any of the conduct that formed a basis for the conviction or exclusion described in subparagraph (B));
 >       - **(II)** there is a person with an ownership or control interest (as defined in section 1124(a)(3)) in both entities (or had such an interest at the time of any of the conduct that formed a basis for the conviction or exclusion described in subparagraph (B)); or
 >       - **(III)** there is a person who is an officer or managing employee (as defined in section 1126(b)) of both entities (or was such an officer or managing employee at the time of any of the conduct that formed a basis for the conviction or exclusion described in subparagraph (B)).
+
+## § 3. Budgetary effects of PAYGO legislation
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

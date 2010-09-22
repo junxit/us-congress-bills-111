@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6130
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6130
@@ -16,7 +16,7 @@ Strengthening Medicare Anti-Fraud Measures Act of 2010
 
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 - Rep. Lewis, John [D-GA-5] (L000287)
@@ -38,6 +38,7 @@ Strengthening Medicare Anti-Fraud Measures Act of 2010
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
 ## Committees (2)
 
@@ -52,3 +53,9 @@ Strengthening Medicare Anti-Fraud Measures Act of 2010
 - 2010-09-15 — Referred to House Ways and Means
 - 2010-09-15 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-09-15 — Sponsor introductory remarks on measure. (CR E1637)
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6837-6839)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6130.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6837)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6837)
