@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5811
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5811
@@ -25,3 +25,9 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2010-07-21 — Introduced in House
 - 2010-07-21 — Introduced in House
 - 2010-07-21 — Referred to the House Committee on Natural Resources.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6821-6822)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5811.
+- 2010-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6821)
+- 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6821)
