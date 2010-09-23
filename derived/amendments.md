@@ -1,7 +1,7 @@
 ---
 measure: S. 1448
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 

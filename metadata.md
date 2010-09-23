@@ -1,7 +1,7 @@
 ---
 measure: S. 1448
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1448
@@ -38,3 +38,16 @@ A bill to amend the Act of August 9, 1955, to authorize the Coquille Indian Trib
 - 2010-09-23 — Message on Senate action sent to the House.
 - 2010-09-23 — Received in the House.
 - 2010-09-23 — Referred to the House Committee on Natural Resources.
+- 2010-12-14 — Cleared for White House.
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8298-8299)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 1448.
+- 2010-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-14 — Mr. Larsen (WA) moved to suspend the rules and pass the bill.
+- 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8298)
+- 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8298)
+- 2010-12-16 — Presented to President.
+- 2010-12-16 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-334.
+- 2010-12-22 — Became Public Law No: 111-334.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
