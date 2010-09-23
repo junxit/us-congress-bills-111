@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5710
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5710
@@ -41,6 +41,10 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2010-09-23 — [House 111-2-544](votes/house-111-2-0544.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (384–32)
+
 ## Actions
 
 - 2010-07-01 — Introduced in House
@@ -59,3 +63,7 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 - 2010-09-22 — Placed on the Union Calendar, Calendar No. 358.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-616.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-616.
+- 2010-09-23 — Considered as unfinished business. (consideration: CR H6942-6943)
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 32 (Roll no. 544). (text: CR 9/22/2010 H6850-6851)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 32 (Roll no. 544).(text: CR 9/22/2010 H6850-6851)
