@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4853
@@ -47,3 +47,12 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-03-17 — Referred to the Subcommittee on Highways and Transit.
 - 2010-03-18 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-03-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
+- 2010-09-23 — Amendment SA 4656 agreed to in Senate by Unanimous Consent.
+- 2010-09-23 — Amendment SA 4656 proposed by Senator Dorgan for Senator Rockefeller. (consideration: CR S7389; text: CR S7389) In the nature of a substitute.
+- 2010-09-23 — Measure laid before Senate by unanimous consent. (consideration: CR S7388-7389)
+- 2010-09-23 — Message on Senate action sent to the House.
+- 2010-09-23 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-23 — Senate amendment agreed to: Amendment SA 4656 agreed to in Senate by Unanimous Consent.
+- 2010-09-23 — Senate amendment proposed (on the floor): Amendment SA 4656 proposed by Senator Dorgan for Senator Rockefeller.(consideration: CR S7389; text: CR S7389)
+- 2010-09-23 — Senate amendment submitted
