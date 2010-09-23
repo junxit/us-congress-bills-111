@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3470
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3470
@@ -22,9 +22,10 @@ Nationally Enhancing the Wellbeing of Babies through Outreach and Research Now A
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Nationally Enhancing the Wellbeing of Babies through Outreach and Research Now A
 - 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 324 - 64 (Roll no. 533). (text: CR H6842)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 324 - 64 (Roll no. 533).(text: CR H6842)
+- 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
