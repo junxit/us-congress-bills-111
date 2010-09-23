@@ -1,7 +1,7 @@
 ---
 measure: S. 3767
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3767
@@ -16,10 +16,13 @@ Food Safety Accountability Act of 2010
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Franken, Al [D-MN] (F000457)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kohl, Herb [D-WI] (K000305)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ Food Safety Accountability Act of 2010
 - 2010-09-13 — Introduced in Senate
 - 2010-09-13 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S7038-7039)
 - 2010-09-13 — Sponsor introductory remarks on measure. (CR S7038)
+- 2010-09-23 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-23 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-09-23 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 584.
