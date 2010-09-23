@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1582
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1582
@@ -16,7 +16,7 @@ Honoring and saluting Americans for the Arts on its 50th anniversary.
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Cosponsors (19)
+## Cosponsors (29)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -37,6 +37,16 @@ Honoring and saluting Americans for the Arts on its 50th anniversary.
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
 ## Committees (1)
 
@@ -48,3 +58,10 @@ Honoring and saluting Americans for the Arts on its 50th anniversary.
 - 2010-07-29 — Introduced in House
 - 2010-07-29 — Referred to the House Committee on Education and Labor.
 - 2010-07-29 — Sponsor introductory remarks on measure. (CR E1473)
+- 2010-09-23 — Considered under suspension of the rules. (consideration: CR H6948-6950)
+- 2010-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1582.
+- 2010-09-23 — DEBATE - The House resumed debate on H.Res. 1582.
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — Mr. Polis (CO) moved to suspend the rules and agree to the resolution.
+- 2010-09-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6948)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6948)
