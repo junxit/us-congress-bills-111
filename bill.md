@@ -7,13 +7,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5756
 
-> To amend title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 to provide for grants and technical assistance to improve services rendered to children and adults with autism, and their families, and to expand the number of University Centers for Excellence in Developmental Disabilities Education, Research, and Service.
+> To amend subtitle D of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 to provide grants and technical assistance to University Centers for Excellence in Developmental Disabilities Education, Research, and Service to improve services rendered to children and adults on the autism spectrum, and their families, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Training and Research for Autism Improvements Nationwide Act of 2010” or the “TRAIN Act of 2010”.
 
-## § 2. University Centers of Excellence initiatives on autism spectrum disorders
+## § 2. University Centers for Excellence initiatives on autism spectrum disorders
 
 - **(a)** *In general* Subtitle D of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15061 et seq.) is amended—
   - **(1)** by inserting before section 151 the following:

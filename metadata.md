@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5756
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5756
@@ -24,6 +24,10 @@ Training and Research for Autism Improvements Nationwide Act of 2010
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2010-09-23 — [House 111-2-541](votes/house-111-2-0541.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–24)
+
 ## Actions
 
 - 2010-07-15 — Introduced in House
@@ -41,3 +45,8 @@ Training and Research for Autism Improvements Nationwide Act of 2010
 - 2010-09-22 — Placed on the Union Calendar, Calendar No. 359.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-617.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-617.
+- 2010-09-23 — Considered as unfinished business. (consideration: CR H6940)
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 541). (text: CR 9/22/2010 H6843-6844)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 541).(text: CR 9/22/2010 H6843-6844)
+- 2010-09-23 — The title of the measure was amended. Agreed to without objection.
