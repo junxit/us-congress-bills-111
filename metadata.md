@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5194
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5194
@@ -16,9 +16,10 @@ Mt. Andrea Lawrence Designation Act of 2010
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Mt. Andrea Lawrence Designation Act of 2010
 - 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6829)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6829)
+- 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
