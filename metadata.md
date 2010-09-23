@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5152
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5152
@@ -22,9 +22,10 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010
 - 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6828)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6828)
+- 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
