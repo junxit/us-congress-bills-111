@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6190
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6190
@@ -41,3 +41,13 @@ Airport and Airway Extension Act of 2010, Part III
 - 2010-09-23 — Referred to House Transportation and Infrastructure
 - 2010-09-23 — Referred to House Ways and Means
 - 2010-09-23 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-09-24 — Cleared for White House.
+- 2010-09-24 — Message on Senate action sent to the House.
+- 2010-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7454)
+- 2010-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7454)
+- 2010-09-28 — Presented to President.
+- 2010-09-28 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-249.
+- 2010-09-30 — Became Public Law No: 111-249.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
