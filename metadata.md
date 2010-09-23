@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 294
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 294
@@ -34,9 +34,10 @@ Commemorating the 75th Anniversary of the Blue Ridge Parkway.
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Commemorating the 75th Anniversary of the Blue Ridge Parkway.
 - 2010-09-22 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
 - 2010-09-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6829-6830)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6829-6830)
+- 2010-09-23 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
