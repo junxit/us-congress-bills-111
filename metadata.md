@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5815
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5815
@@ -29,3 +29,8 @@ Inspector General Authority Improvement Act of 2010
 - 2010-07-22 — Introduced in House
 - 2010-07-22 — Introduced in House
 - 2010-07-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-23 — Placed on the Union Calendar, Calendar No. 363.
+- 2010-09-23 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-623.
+- 2010-09-23 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-623.

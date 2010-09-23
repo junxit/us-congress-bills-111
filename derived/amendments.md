@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5815
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 0 executed, 35 stated and not applied.
+39 amendatory instructions. 0 executed, 39 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,6 +45,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (5), (6), and (7), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8G of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | repeal | Section 4(b) of the Inspector General Reform Act of 2008 (Public Law 110–409; 122 Stat. 4304; 5 U.S.C. App. 3 note) is repealed. | the bill names no machine-readable US Code section |
 | — | amend | The Inspector General Act of 1978 (5 U.S.C. App.) is amended by adding after section 8L the following new section: | the bill names no machine-readable US Code section |
@@ -60,9 +64,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 8G(d), by striking “subpena” and inserting “subpoena”. | the bill names no machine-readable US Code section |
 | — | replace | in section 6(a)(4), by striking “information, as well as any tangible thing)” and inserting “information), as well as any tangible thing”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 8G(g)(3), by striking “8C” and inserting “8D”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7(c)(2) of the Inspector General Reform Act of 2008 (Public Law 110–409; 122 Stat. 4313; 31 U.S.C. 501 note) is amended by striking “12933” and inserting “12993”. | the bill names no machine-readable US Code section |
+| — | replace | Section 7(c)(2) of the Inspector General Reform Act of 2008 (Public Law 110–409; 122 Stat. 4313; 31 U.S.C. 501 note) 5 U.S.C. App. 11 note) is amended by striking “12933” and inserting “12993”. | the bill names no machine-readable US Code section |
 | — | replace | in section 8L, by striking “agency” and inserting “Federal agency, establishment, or designated Federal entity” each place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | in section 11(c)(3)(A)(ii), by striking “department, agency, or entity of the executive branch” and inserting “Federal agency, establishment, or designated Federal entity”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “report or audit (or portion of any report or audit)” and inserting “audit report, inspection report, or evaluation report (or portion of any such report)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “report or audit (or portion of that report or audit)” and inserting “report (or portion of that report)” each place it appears. | the bill names no machine-readable US Code section |
-| — | repeal | Section 744 of the Financial Services and General Government Appropriations Act, 2009 (division D of Public Law 111–8; 123 Stat. 693; 5 U.S.C. App. 8L) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 744 of the Financial Services and General Government Appropriations Act, 2009 (division D of Public Law 111–8; 123 Stat. 693; 5 U.S.C. App. 8L note) is repealed. | the bill names no machine-readable US Code section |
