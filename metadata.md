@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5809
@@ -32,10 +32,11 @@ Diesel Emissions Reduction Act of 2010
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Diesel Emissions Reduction Act of 2010
 - 2010-09-22 — Placed on the Union Calendar, Calendar No. 360.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-618, Part I.
 - 2010-09-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-618, Part I.
+- 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
