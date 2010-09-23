@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2923
 congress: 111
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2923
@@ -64,3 +64,4 @@ Combat Methamphetamine Enhancement Act of 2010
 - 2010-09-22 — Placed on the Union Calendar, Calendar No. 357.
 - 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.
 - 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.
+- 2010-09-23 — Received in the Senate, read twice.
