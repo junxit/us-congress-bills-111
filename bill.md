@@ -36,3 +36,7 @@ Section 1130 of the Social Security Act (42 U.S.C. 1320a–9) is amended—
 
 - **(4)** by adding at the end the following:
   > - **(h)** *Indian tribes considered States* An Indian tribe (as defined in section 479B(a)) shall be considered a State for purposes of this section.
+
+## § 2. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
