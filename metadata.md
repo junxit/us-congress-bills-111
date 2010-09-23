@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1745
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1745
@@ -26,6 +26,10 @@ Family Health Care Accessibility Act of 2010
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2010-09-23 — [House 111-2-543](votes/house-111-2-0543.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–1)
+
 ## Actions
 
 - 2009-03-26 — Introduced in House
@@ -39,3 +43,11 @@ Family Health Care Accessibility Act of 2010
 - 2010-09-16 — Placed on the Union Calendar, Calendar No. 352.
 - 2010-09-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-607.
 - 2010-09-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-607.
+- 2010-09-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-09-22 — Considered under suspension of the rules. (consideration: CR H6848-6850)
+- 2010-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1745.
+- 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-09-23 — Considered as unfinished business. (consideration: CR H6941-6942)
+- 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 543). (text: CR 9/22/2010 H6848-6849)
+- 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 543).(text: CR 9/22/2010 H6848-6849)
