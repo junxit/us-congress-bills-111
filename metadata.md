@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2923
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2923
@@ -65,3 +65,13 @@ Combat Methamphetamine Enhancement Act of 2010
 - 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.
 - 2010-09-22 — Reported by the Committee on Energy and Commerce. H. Rept. 111-615, Part I.
 - 2010-09-23 — Received in the Senate, read twice.
+- 2010-09-27 — Cleared for White House.
+- 2010-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7562)
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7562)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-268.
+- 2010-10-12 — Became Public Law No: 111-268.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.
