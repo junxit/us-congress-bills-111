@@ -1,7 +1,7 @@
 ---
 measure: S. 2971
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2971
@@ -16,6 +16,10 @@ Foreign Relations Authorization Act, Fiscal Years 2010 and 2011
 
 - Sen. Kerry, John F. [D-MA] (K000148)
 
+## Cosponsors (1)
+
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +28,7 @@ Foreign Relations Authorization Act, Fiscal Years 2010 and 2011
 
 - 2010-01-29 — Introduced in Senate
 - 2010-01-29 — Read twice and referred to the Committee on Foreign Relations.
+- 2010-04-27 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-23 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-301. Minority views filed.
+- 2010-09-23 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 111-301. Minority views filed.
+- 2010-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
