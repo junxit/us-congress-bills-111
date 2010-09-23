@@ -28,4 +28,4 @@ That the Senate—
 
 - **(1)** supports the designation of 2011 as “World Veterinary Year”;
 - **(2)** supports the goals and ideals of World Veterinary Year of bringing attention to and expressing appreciation for the contributions that the veterinary profession has made and continues to make to animal health, public health, animal welfare, and food safety; and
-- **(3)** requests that the President issue a proclamation calling upon the people of the United States to observe 2011 as World Veterinary Year with appropriate programs, ceremonies, and activities.
+- **(3)** urges the people of the United States to observe 2011 as World Veterinary Year with appropriate programs, ceremonies, and activities.
