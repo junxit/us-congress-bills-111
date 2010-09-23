@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6130
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6130
@@ -40,10 +40,11 @@ Strengthening Medicare Anti-Fraud Measures Act of 2010
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Strengthening Medicare Anti-Fraud Measures Act of 2010
 - 2010-09-22 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6837)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6837)
+- 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on Finance.
