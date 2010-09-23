@@ -1,7 +1,7 @@
 ---
 measure: S. 1448
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1448
@@ -20,9 +20,10 @@ A bill to amend the Act of August 9, 1955, to authorize the Coquille Indian Trib
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to amend the Act of August 9, 1955, to authorize the Coquille Indian Trib
 - 2010-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
 - 2010-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7364; text as passed Senate: CR S7364)
 - 2010-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7364; text as passed Senate: CR S7364)
+- 2010-09-23 — Message on Senate action sent to the House.
+- 2010-09-23 — Received in the House.
+- 2010-09-23 — Referred to the House Committee on Natural Resources.
