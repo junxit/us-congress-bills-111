@@ -25,16 +25,16 @@ This Act may be cited as the “Pre-Election Presidential Transition Act of 2010
   >       - **(i)** in the case of a candidate of a major party (as defined in section 9002(6) of the Internal Revenue Code of 1986), on one of the first 3 business days following the last nominating convention for such major parties; and
   >       - **(ii)** in the case of any other candidate, as soon as practicable after an individual becomes an eligible candidate (or, if later, at the same time as notice is provided under clause (i)).
   >     - **(C)**
-  >       - **(i)** The Administrator shall, not later than January 1 of 2012 and of every 4th year thereafter, prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
+  >       - **(i)** The Administrator shall, not later than 12 months before the date of each general election for President and Vice-President (beginning with the election to be held in 2012), prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
   >       - **(ii)** The Administrator shall promptly make the report under clause (i) generally available to the public (including through electronic means) and shall include such report with the notice provided to each eligible candidate under subparagraph (A)(i).
   >   - **(2)**
-  >     - **(A)** Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), and (7) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
+  >     - **(A)** Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
   >     - **(B)** The Administrator—
   >       - **(i)** shall determine the location of any office space provided to an eligible candidate under this subsection;
   >       - **(ii)** shall, as appropriate, ensure that any computers or communications services provided to an eligible candidate under this subsection are secure;
   >       - **(iii)** shall offer information and other assistance to eligible candidates on an equal basis and without regard to political affiliation; and
   >       - **(iv)** may modify the scope of any services to be provided under this subsection to reflect that the services are provided to eligible candidates rather than the President-elect or Vice-President-elect, except that any such modification must apply to all eligible candidates.
-  >     - **(C)** An eligible candidate, or any person on behalf of the candidate, shall not use any services or facilities provided under this subsection other than for the purposes described in subparagraph (A), and the candidate or the candidate's campaign shall reimburse the Administrator for any unauthorized use of such services or facilities.
+  >     - **(C)** An eligible candidate, or any person on behalf of the candidate, shall not use any services or facilities provided under this subsection other than for the purposes described in subparagraph (A), and the candidate or the candidate’s campaign shall reimburse the Administrator for any unauthorized use of such services or facilities.
   >   - **(3)**
   >     - **(A)** Notwithstanding any other provision of law, an eligible candidate may establish a separate fund for the payment of expenditures in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President, including expenditures in connection with any services or facilities provided under this subsection (whether before such services or facilities are available under this section or to supplement such services or facilities when so provided). Such fund shall be established and maintained in such manner as to qualify such fund for purposes of section 501(c)(4) of the Internal Revenue Code of 1986.
   >     - **(B)**
@@ -46,10 +46,10 @@ This Act may be cited as the “Pre-Election Presidential Transition Act of 2010
   >   - **(4)**
   >     - **(A)** In this subsection, the term eligible candidate means, with respect to any presidential election (as defined in section 9002(10) of the Internal Revenue Code of 1986)—
   >       - **(i)** a candidate of a major party (as defined in section 9002(6) of such Code) for President or Vice-President of the United States; and
-  >       - **(ii)** any other candidate who has been determined by the Administrator to be among the principle contenders for the general election to such offices.
+  >       - **(ii)** any other candidate who has been determined by the Administrator to be among the principal contenders for the general election to such offices.
   >     - **(B)** In making a determination under subparagraph (A)(ii), the Administrator shall—
   >       - **(i)** ensure that any candidate determined to be an eligible candidate under such subparagraph—
-  >         - **(I)** meets the requirements described in article II, section 1, of the United States Constitution for eligibility to the office of President;
+  >         - **(I)** meets the requirements described in Article II, Section 1, of the United States Constitution for eligibility to the office of President;
   >         - **(II)** has qualified to have his or her name appear on the ballots of a sufficient number of States such that the total number of electors appointed in those States is greater than 50 percent of the total number of electors appointed in all of the States; and
   >         - **(III)** has demonstrated a significant level of public support in national public opinion polls, so as to be realistically considered among the principal contenders for President or Vice-President of the United States; and
   >       - **(ii)** consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
@@ -64,17 +64,17 @@ This Act may be cited as the “Pre-Election Presidential Transition Act of 2010
 
     - **(B)** by striking “major party candidate” in paragraph (2) and inserting “eligible candidate”.
   - **(2)** *Presidentially appointed positions* Section 8403(b)(2)(B) of such Act (5 U.S.C. 1101 note) is amended to read as follows:
-    > - **(B)** *Other candidates* After making transmittals under subparagraph (B), the Office of Personnel Management shall transmit such electronic record to any other candidate for President who is an eligible candidate described in section 3(h)(4)(B) of the Presidential Transition Act of 1963 (3 U.S.C. 102 note) and may transmit such electronic record to any other candidate for President.
+    > - **(B)** *Other candidates* After making transmittals under subparagraph (A), the Office of Personnel Management shall transmit such electronic record to any other candidate for President who is an eligible candidate described in section 3(h)(4)(B) of the Presidential Transition Act of 1963 (3 U.S.C. 102 note) and may transmit such electronic record to any other candidate for President.
 
 - **(d)** *Conforming amendments* Section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note) is amended—
   - **(1)** in subsection (a)(8)(B), by striking “President-elect” and inserting “President-elect or eligible candidate (as defined in subsection (h)(4)) for President”; and
   - **(2)** in subsection (e), by inserting “, or eligible candidate (as defined in subsection (h)(4)) for President or Vice-President,” before “may designate”.
 
-## § 3. Authorization of transition activities by the outgoing administration
+## § 3. Authorization of transition activities by the incumbent administration
 
 - **(a)** *In general* The President of the United States, or the President's delegate, may take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including—
   - **(1)** the establishment and operation of a transition coordinating council comprised of—
-    - **(A)** high-level officials of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator of the General Services Administration, and the Director of the Office of Personnel Management; and
+    - **(A)** high-level officials of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator of the General Services Administration, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States, and
     - **(B)** any other persons the President determines appropriate;
   - **(2)** the establishment and operation of an agency transition directors council which includes career employees designated to lead transition efforts within Executive Departments or agencies;
   - **(3)** the development of guidance to Executive Departments and agencies regarding briefing materials for an incoming administration, and the development of such materials; and
@@ -82,4 +82,7 @@ This Act may be cited as the “Pre-Election Presidential Transition Act of 2010
 - **(b)** *Reports*
   - **(1)** *In general* The President of the United States, or the President's delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
   - **(2)** *Timing* The reports under paragraph (1) shall be provided six months and three months before the date of the general election for the Office of President of the United States.
-- **(c)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+
+## § 4. Authorization of appropriations
+
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act.

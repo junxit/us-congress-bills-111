@@ -1,7 +1,7 @@
 ---
 measure: S. 3196
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
