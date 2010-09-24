@@ -1,7 +1,7 @@
 ---
 measure: S. 3196
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3196
@@ -48,3 +48,21 @@ Pre-Election Presidential Transition Act of 2010
 - 2010-09-24 — Senate amendment agreed to: Amendment SA 4658 agreed to in Senate by Unanimous Consent.
 - 2010-09-24 — Senate amendment proposed (on the floor): Amendment SA 4658 proposed by Senator Brown OH for Senator Kaufman.(consideration: CR S7450-7451; text: CR S7450-7451)
 - 2010-09-24 — Senate amendment submitted
+- 2010-09-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilbray objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7039-7040)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3196.
+- 2010-09-28 — Held at the desk.
+- 2010-09-28 — Ms. Chu moved to suspend the rules and pass the bill.
+- 2010-09-28 — Received in the House.
+- 2010-09-28 — Received in the House.
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Considered as unfinished business. (consideration: CR H7379)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7039-7040)
+- 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7039-7040)
+- 2010-10-04 — Presented to President.
+- 2010-10-04 — Presented to President.
+- 2010-10-15 — Became Public Law No: 111-283.
+- 2010-10-15 — Became Public Law No: 111-283.
+- 2010-10-15 — Signed by President.
+- 2010-10-15 — Signed by President.
