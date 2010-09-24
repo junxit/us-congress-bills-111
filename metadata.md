@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5710
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5710
@@ -37,9 +37,10 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -67,3 +68,4 @@ National All Schedules Prescription Electronic Reporting Reauthorization Act of 
 - 2010-09-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 32 (Roll no. 544). (text: CR 9/22/2010 H6850-6851)
 - 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 32 (Roll no. 544).(text: CR 9/22/2010 H6850-6851)
+- 2010-09-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
