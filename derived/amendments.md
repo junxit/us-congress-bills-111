@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5307
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (g) as subsection (h); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 1590` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1590` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5307
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5307
@@ -27,9 +27,10 @@ Ultralight Smuggling Prevention Act of 2010
 - Rep. Tanner, John S. [D-TN-8] (T000038)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Ultralight Smuggling Prevention Act of 2010
 - 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 540). (text: CR H6898)
 - 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 540).(text: CR H6898)
 - 2010-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
