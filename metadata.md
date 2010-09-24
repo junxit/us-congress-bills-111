@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6156
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6156
@@ -20,9 +20,10 @@ To renew the authority of the Secretary of Health and Human Services to approve 
 
 - Rep. Linder, John [R-GA-7] (L000321)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To renew the authority of the Secretary of Health and Human Services to approve 
 - 2010-09-23 — Mr. McDermott moved to suspend the rules and pass the bill, as amended.
 - 2010-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6896)
 - 2010-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6896)
+- 2010-09-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
