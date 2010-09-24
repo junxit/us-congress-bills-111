@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 573
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 573
@@ -16,10 +16,11 @@ A resolution urging the development of a comprehensive strategy to ensure stabil
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution urging the development of a comprehensive strategy to ensure stabil
 
 - 2010-06-29 — Introduced in Senate
 - 2010-06-29 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S5544-5545)
+- 2010-09-21 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-24 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2010-09-24 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2010-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 588.
