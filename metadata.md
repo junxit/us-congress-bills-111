@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2701
@@ -16,9 +16,10 @@ Intelligence Authorization Act for Fiscal Year 2010
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- House — Homeland Security Committee
 
 ## Recorded votes (5)
 
@@ -153,3 +154,4 @@ Intelligence Authorization Act for Fiscal Year 2010
 - 2010-02-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2701.
 - 2010-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H948)
 - 2010-02-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2010-09-24 — Received in the Senate.
