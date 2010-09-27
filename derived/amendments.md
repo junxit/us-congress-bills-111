@@ -1,7 +1,7 @@
 ---
 measure: S. 1689
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 2103(b) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 431 note; Public Law 111–11; 123 Stat. 1097) is amended by striking “December 17, 2008” and inserting “July 30, 2009”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2103 of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 431 note; Public Law 111–11; 123 Stat. 1097) is amended by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
