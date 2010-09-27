@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4252
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4252
@@ -44,3 +44,8 @@ Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010
 - 2010-03-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1613-1614)
 - 2010-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1613-1614)
 - 2010-03-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-06-09 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2010-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-328.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-328.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 614.
