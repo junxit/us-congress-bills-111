@@ -29,17 +29,17 @@ Congress finds that—
 - **(10)** Ted Stevens unconditionally supported the needs of the Armed Forces of the United States through visits to soldiers, sailors, airmen, marines, and Coast Guardsmen in every major military conflict and war zone where United States military personnel have been assigned during his service in the Senate, including Vietnam, Kuwait, Bosnia, Kosovo, Iraq, and Afghanistan, and in his role as Chairman and Ranking Member of the Subcommittee on Defense Appropriations for more than 20 years;
 - **(11)** Ted Stevens was a devoted husband, father, and grandfather who worked to promote family-friendly policies in the Federal government;
 - **(12)** Ted Stevens was well-respected for reaching across the aisle to forge bipartisan alliances and enjoyed many close friendships with colleagues in both political parties and with his staff, who were deeply loyal to him; and
-- **(13)** the designation of the unnamed highest peak in the State of Alaska, along with an icefield in the Chugach Forest in that State, in honor of Ted Stevens would be a fitting tribute to his honorable life and legacy.
+- **(13)** the designation of the unnamed highest peak in the State of Alaska, along with an icefield in the Chugach National Forest in that State, in honor of Ted Stevens would be a fitting tribute to his honorable life and legacy.
 
 ## § 3. Designation of Mount Stevens
 
-- **(a)** *Designation* Not later than 30 days after the date of enactment of this Act, the United States Board on Geographic Names (referred to in this Act as the Board) shall designate the unnamed, 13,895-foot peak in the Alaska Range near Denali Park in the State of Alaska, located at latitude 62.920469308 and longitude 151.066510314, as the “Mount Stevens”.
+- **(a)** *Designation* Not later than 30 days after the date of enactment of this Act, the United States Board on Geographic Names (referred to in this Act as the Board) shall designate the unnamed, 13,895-foot peak in the Alaska Range in Denali National Park and Preserve in the State of Alaska, located at latitude 62.920469308 and longitude –151.066510314, as the “Mount Stevens”.
 - **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the peak referred to in subsection (a) shall be deemed to be a reference to the “Mount Stevens”.
 
 ## § 4. Designation of Ted Stevens Icefield
 
-- **(a)** *Definition of icefield* In this section, the term icefield means the icefield in the northern Chugach Forest in the State of Alaska—
-  - **(1)** comprising approximately 8,340 square miles, as delineated by such map as shall be provided and made available for public inspection by the Forest Service; and
+- **(a)** *Definition of icefield* In this section, the term icefield means the icefield in the northern Chugach National Forest in the State of Alaska—
+  - **(1)** comprising approximately 8,340 square miles, as delineated by the map entitled “Ice Field Name Proposal in Honor of Stevens” dated September 24, 2010, as prepared by the Forest Service and available for inspection at Forest Service headquarters in Washington, District of Columbia; and
   - **(2)** including the Harvard, Yale, Columbia, Nelchina, Tazlina, Valdez, and Shoup Glaciers.
 - **(b)** *Designation* Not later than 30 days after the date of enactment of this Act, the Board shall designate the icefield as the “Ted Stevens Icefield”.
 - **(c)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the icefield shall be deemed to be a reference to the “Ted Stevens Icefield”.
