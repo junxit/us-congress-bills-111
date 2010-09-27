@@ -2,12 +2,14 @@
 legis-num: H.R. 2701
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2701
 
-> To authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
+That the bill from the House of Representatives (H.R. 2701) entitled “An Act to authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes. ”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; table of contents
 
@@ -18,7 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 In this Act:
 
-- **(1)** *Congressional intelligence committees* The term congressional intelligence committees means—
-  - **(A)** the Permanent Select Committee on Intelligence of the House of Representatives; and
-  - **(B)** the Select Committee on Intelligence of the Senate.
-- **(2)** *Intelligence community* The term intelligence community has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+- **(1)** *Congressional intelligence committees* The term “congressional intelligence committees” means—
+  - **(A)** the Select Committee on Intelligence of the Senate; and
+  - **(B)** the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(2)** *Intelligence community* The term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).

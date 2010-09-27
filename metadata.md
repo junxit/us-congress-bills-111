@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2701
@@ -15,6 +15,10 @@ Intelligence Authorization Act for Fiscal Year 2010
 ## Sponsor
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
+
+## Cosponsors (1)
+
+- Sen. Bond, Christopher S. [R-MO] (B000611)
 
 ## Committees (2)
 
@@ -155,3 +159,11 @@ Intelligence Authorization Act for Fiscal Year 2010
 - 2010-02-26 — The previous question was ordered pursuant to the rule. (consideration: CR H948)
 - 2010-02-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2010-09-24 — Received in the Senate.
+- 2010-09-27 — Amendment SA 4665 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Amendment SA 4665 proposed by Senator Casey for Senator Feinstein. (consideration: CR S7559) In the nature of a substitute.
+- 2010-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S7558-7559)
+- 2010-09-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-27 — Senate amendment agreed to: Amendment SA 4665 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4665 proposed by Senator Casey for Senator Feinstein.(consideration: CR S7559)
+- 2010-09-27 — Senate amendment submitted
