@@ -1,7 +1,7 @@
 ---
 measure: H.R. 946
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 946
@@ -16,7 +16,7 @@ Plain Writing Act of 2010
 
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
@@ -28,6 +28,7 @@ Plain Writing Act of 2010
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 
 ## Committees (1)
 
@@ -56,3 +57,12 @@ Plain Writing Act of 2010
 - 2010-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 33 (Roll no. 126). (text: CR H1538)
 - 2010-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 33 (Roll no. 126).(text: CR H1538)
 - 2010-03-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.
+- 2010-09-21 — Senate amendment submitted
+- 2010-09-27 — Amendment SA 4663 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Amendment SA 4663 proposed by Senator Casey for Senator Akaka. (consideration: CR S7556; text: CR S7556) To modify the definition of plain writing, and for other purposes.
+- 2010-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S7556)
+- 2010-09-27 — Passed Senate with amendments by Unanimous Consent. (text: CR S7556)
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S7556)
+- 2010-09-27 — Senate amendment agreed to: Amendment SA 4663 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4663 proposed by Senator Casey for Senator Akaka.(consideration: CR S7556; text: CR S7556)
+- 2010-09-27 — Senate amendment submitted
