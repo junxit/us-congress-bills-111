@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3388
@@ -47,3 +47,8 @@ Petersburg National Battlefield Boundary Modification Act
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-359, Part I.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-359, Part I.
 - 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-05-19 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-08-05 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-327.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-327.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
