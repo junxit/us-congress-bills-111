@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2701
@@ -25,13 +25,14 @@ Intelligence Authorization Act for Fiscal Year 2010
 - House — Intelligence (Permanent Select) Committee
 - House — Homeland Security Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2010-02-26 — [House 111-2-69](votes/house-111-2-0069.md) — On Agreeing to the Amendment — **Agreed to** (246–166)
 - 2010-02-26 — [House 111-2-70](votes/house-111-2-0070.md) — On Agreeing to the Amendment — **Agreed to** (401–11)
 - 2010-02-26 — [House 111-2-71](votes/house-111-2-0071.md) — On Agreeing to the Amendment — **Agreed to** (410–1)
 - 2010-02-26 — [House 111-2-72](votes/house-111-2-0072.md) — On Motion to Recommit with Instructions — **Failed** (186–217)
 - 2010-02-26 — [House 111-2-73](votes/house-111-2-0073.md) — On Passage — **Passed** (235–168)
+- 2010-09-29 — [House 111-2-558](votes/house-111-2-0558.md) — On Motion to Concur in the Senate Amendment — **Passed** (244–181)
 
 ## Actions
 
@@ -167,3 +168,20 @@ Intelligence Authorization Act for Fiscal Year 2010
 - 2010-09-27 — Senate amendment agreed to: Amendment SA 4665 agreed to in Senate by Unanimous Consent.
 - 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4665 proposed by Senator Casey for Senator Feinstein.(consideration: CR S7559)
 - 2010-09-27 — Senate amendment submitted
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — Considered as unfinished business. (consideration: CR H7368-7369)
+- 2010-09-29 — Considered under the provisions of rule H. Res. 1674. (consideration: CR H7276-7312)
+- 2010-09-29 — DEBATE - Pursuant to H.Res. 1674, the House proceeded with 1 hour of debate on the motion to concur in the Senate amendment to H.R. 2701.
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Reyes moved that the House agree to the Senate amendment
+- 2010-09-29 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 244 - 181 (Roll no. 558). (text as House agreed to Senate amendment: CR H7276-7301)
+- 2010-09-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to concur in the Senate amendment to H.R. 2701, the Chair postponed further proceedings until later in the legislative day.
+- 2010-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 244 - 181 (Roll no. 558).(text as House agreed to Senate amendment: CR H7276-7301)
+- 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7368)
+- 2010-10-01 — Presented to President.
+- 2010-10-01 — Presented to President.
+- 2010-10-07 — Became Public Law No: 111-259.
+- 2010-10-07 — Became Public Law No: 111-259.
+- 2010-10-07 — Signed by President.
+- 2010-10-07 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2701
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2701
 
-That the bill from the House of Representatives (H.R. 2701) entitled “An Act to authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
 
 ## § 1. Short title; table of contents
 

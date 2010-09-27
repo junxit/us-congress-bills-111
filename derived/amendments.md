@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -88,7 +88,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(d) The President” and inserting “(d)(1) The President”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), as designated by subparagraph (A), by inserting “in writing” after “notified”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.), as amended by section 325 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947, as amended by section 325 of this Act, is further amended by inserting after the item related to section 507 the following new item: | the bill names no machine-readable US Code section |
