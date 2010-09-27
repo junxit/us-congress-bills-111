@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5026
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 824` | amend | Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended by adding after section 215 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 824` | insert | Section 201(b)(2) of the Federal Power Act (16 U.S.C. 824(b)(2)) is amended by inserting “215A,” after “215,” each place it appears. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 824` | insert | Section 201(e) of the Federal Power Act (16 U.S.C. 824(e)) is amended by inserting “215A,” after “215,”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
