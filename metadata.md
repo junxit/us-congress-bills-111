@@ -1,7 +1,7 @@
 ---
 measure: H.R. 946
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 946
@@ -34,9 +34,10 @@ Plain Writing Act of 2010
 
 - House — Oversight and Accountability Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2010-03-17 — [House 111-2-126](votes/house-111-2-0126.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (386–33)
+- 2010-09-29 — [House 111-2-562](votes/house-111-2-0562.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (341–82)
 
 ## Actions
 
@@ -66,3 +67,18 @@ Plain Writing Act of 2010
 - 2010-09-27 — Senate amendment agreed to: Amendment SA 4663 agreed to in Senate by Unanimous Consent.
 - 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4663 proposed by Senator Casey for Senator Akaka.(consideration: CR S7556; text: CR S7556)
 - 2010-09-27 — Senate amendment submitted
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — Considered as unfinished business. (consideration: CR H7371-7372)
+- 2010-09-29 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 946.
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Clay moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H7314-7316)
+- 2010-09-29 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 341 - 82 (Roll no. 562). (text as House agreed to Senate amendments: CR H7314)
+- 2010-09-29 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 341 - 82 (Roll no. 562).(text as House agreed to Senate amendments: CR H7314)
+- 2010-10-01 — Presented to President.
+- 2010-10-01 — Presented to President.
+- 2010-10-13 — Became Public Law No: 111-274.
+- 2010-10-13 — Became Public Law No: 111-274.
+- 2010-10-13 — Signed by President.
+- 2010-10-13 — Signed by President.
