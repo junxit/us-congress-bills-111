@@ -1,7 +1,7 @@
 ---
 measure: S. 3396
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
