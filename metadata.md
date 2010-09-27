@@ -1,7 +1,7 @@
 ---
 measure: S. 1338
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1338
@@ -28,3 +28,7 @@ A bill to require the accreditation of English language training programs, and f
 
 - 2009-06-24 — Introduced in Senate
 - 2009-06-24 — Read twice and referred to the Committee on the Judiciary.
+- 2010-09-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S7559)
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7559)
+- 2010-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7559)
+- 2010-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7559)
