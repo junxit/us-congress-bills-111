@@ -2,25 +2,13 @@
 legis-num: H.R. 2092
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2092
 
-> To amend the National Children’s Island Act of 1995 to expand allowable uses for Kingman and Heritage Islands by the District of Columbia, and for other purposes.
+That the bill from the House of Representatives (H.R. 2092) entitled “An Act to amend the National Children’s Island Act of 1995 to expand allowable uses for Kingman and Heritage Islands by the District of Columbia, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*(1)On page 4, line 3, strike the and insert a portion of the*
 
-This Act may be cited as the “Kingman and Heritage Islands Act of 2009”.
-
-## § 2. Amendments to National Children’s Island Act of 1995
-
-- **(a)** *Expansion of Allowable Uses for Kingman and Heritage Island* The National Children’s Island Act of 1995 (sec. 10–1401 et seq., D.C. Official Code) is amended by adding at the end the following:
-  > ## § 7. Comprehensive and Anacostia Waterfront Framework Plans
-  >
-  > - **(a)** *Compliance with Plans* Notwithstanding any other provision of this Act, it is not a violation of the terms and conditions of this Act for the District of Columbia to use the lands conveyed and the easements granted under this Act in accordance with the Anacostia Waterfront Framework Plan and the Comprehensive Plan.
-  > - **(b)** *Definitions* For purposes of this section, the following definitions apply:
-  >   - **(1)** *Anacostia Waterfront Framework Plan* The term Anacostia Waterfront Framework Plan means the November 2003 Anacostia Waterfront Framework Plan to redevelop and revitalize the Anacostia waterfront in the District of Columbia, as may be amended from time to time, developed pursuant to a memorandum of understanding dated March 22, 2000, between the General Services Administration, Government of the District of Columbia, Office of Management and Budget, Naval District Washington, Military District Washington, Marine Barracks Washington, Department of Labor, Department of Transportation, National Park Service, Army Corps of Engineers, Environmental Protection Agency, Washington Metropolitan Area Transit Authority, National Capital Planning Commission, National Arboretum, and Small Business Administration.
-  >   - **(2)** *Comprehensive Plan* The term Comprehensive Plan means the Comprehensive Plan of the District of Columbia approved by the Council of the District of Columbia on December 28, 2006, as such plan may be amended or superseded from time to time.
-
-- **(b)** *Modification of reversionary interest* Paragraph (1) of section 3(d) of the National Children’s Island Act of 1995 (sec. 10–1402(d)(1), D.C. Official Code) is amended by striking “The transfer under subsection (a)” and all that follows and inserting the following: “Title in the property transferred under subsection (a) and the easements granted under subsection (b) shall revert to the United States upon the expiration of the 60-day period which begins on the date on which the Secretary provides written notice to the District that the Secretary has determined that thea portion of the District is not using the property for recreational, environmental, or educational purposes in accordance with National Children’s Island, the Anacostia Waterfront Framework Plan, or for another recreational, environmental, or educational purpose, except that the reversionary interest of the United States under this paragraph shall expire upon the expiration of the 30-year period which begins on the date of the enactment of the Kingman and Heritage Islands Act of 2009.the Comprehensive Plan. Such notice shall be made in accordance with chapter 5 of title 5, United States Code (relating to administrative procedures).”.
+*(2)On page 4, line 6, strike for another recreational, environmental, or educational purpose, except that the reversionary interest of the United States under this paragraph shall expire upon the expiration of the 30-year period which begins on the date of the enactment of the Kingman and Heritage Islands Act of 2009. and insert the Comprehensive Plan.*
