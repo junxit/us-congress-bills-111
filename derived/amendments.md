@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6)(C), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon and “and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding paragraph (1), by striking “, in consultation with the Information Sharing Council,”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period at the end and inserting a semicolon and “and”; and | the bill names no machine-readable US Code section |

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 553
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 553
 
-That the bill from the House of Representatives (H.R. 553) entitled “An Act to require the Secretary of Homeland Security to develop a strategy to prevent the over-classification of homeland security and other information and to promote the sharing of unclassified homeland security and other information, and for other purposes.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To require the Secretary of Homeland Security to develop a strategy to prevent the over-classification of homeland security and other information and to promote the sharing of unclassified homeland security and other information, and for other purposes.
 
 ## § 1. Short title
 

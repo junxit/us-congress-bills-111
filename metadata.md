@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 553
@@ -46,3 +46,16 @@ Reducing Over-Classification Act
 - 2010-09-27 — Senate amendment agreed to: Amendment SA 4661 agreed to in Senate by Unanimous Consent.
 - 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4661 proposed by Senator Durbin for Senator Lieberman.(consideration: CR S7556)
 - 2010-09-27 — Senate amendment submitted
+- 2010-09-28 — Cleared for White House.
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 553.
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Ms. Harman moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7075-7077)
+- 2010-09-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7075-7076)
+- 2010-09-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7075-7076)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-07 — Became Public Law No: 111-258.
+- 2010-10-07 — Became Public Law No: 111-258.
+- 2010-10-07 — Signed by President.
+- 2010-10-07 — Signed by President.
