@@ -1,7 +1,7 @@
 ---
 measure: H.R. 685
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 685
@@ -78,3 +78,8 @@ United States Civil Rights Trail Special Resource Study Act of 2009
 - 2009-09-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-267.
 - 2009-09-29 — The title of the measure was amended. Agreed to without objection.
 - 2009-09-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-05-19 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-322.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-322.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
