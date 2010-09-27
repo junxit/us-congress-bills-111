@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2442
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2442
@@ -77,3 +77,8 @@ Bay Area Regional Water Recycling Program Expansion Act of 2009
 - 2009-10-15 — Rule provides for consideration of H.R. 2442 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
 - 2009-10-15 — The previous question was ordered pursuant to the rule. (consideration: CR H11428)
 - 2009-10-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-04-27 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2010-08-05 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 111-325.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 111-325.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.

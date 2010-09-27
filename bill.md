@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2442
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -58,7 +58,7 @@ This Act may be cited as the “Bay Area Regional Water Recycling Program Expans
   > - **(c)** *Limitation* The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
   > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $7,000,000.
 
-- **(b)** *Project implementation* In carrying out sections 1642 through 1648 of the Reclamation Wastewater and Groundwater Study and Facilities Act, and the sections added to such Act by subsection (a), the Secretary shall enter into individual agreements with the San Francisco Bay Area Regional Water Recycling implementing agencies to fund the projects through the Bay Area Clean Water Agencies (BACWA) or its successor, and shall include in such agreements a provision for the reimbursement of construction costs, including those construction costs incurred prior to the enactment of this Act, subject to appropriations made available for the Federal share of the project under sections 1642 through 1648 of the Reclamation Wastewater and Groundwater Study and Facilities Act and the sections added to such Act by subsection (a).
+- **(b)** *Project implementation* In carrying out sections 1642 through 1648 of the Reclamation Wastewater and Groundwater Study and Facilities Act, and the sections added to such Act by subsection (a), the Secretary shall enter into individual agreements with the San Francisco Bay Area Regional Water Recycling implementing agencies to fund the projects through the Bay Area Clean Water Agencies (BACWA) or its successor, and shall may include in such agreements a provision for the reimbursement of construction costs, including those construction costs incurred prior to the enactment of this Act, subject to appropriations made available for the Federal share of the project under sections 1642 through 1648 of the Reclamation Wastewater and Groundwater Study and Facilities Act and the sections added to such Act by subsection (a).
 - **(c)** *Clerical amendments* The table of contents of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. prec. 371) (as amended by section 512(a) of the Consolidated Natural Resources Act of 2008) is amended by adding at the end the following:
 
 ## § 3. Modification to authorized projects
