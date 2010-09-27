@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1612
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1612
@@ -164,3 +164,7 @@ Public Lands Service Corps Act of 2010
 - 2010-03-20 — The title of the measure was amended. Agreed to without objection.
 - 2010-03-25 — CORRECTION TO ENGROSSMENT - Mr. Heinrich asked unanimous consent that in the engrossment of H.R. 1612, the Clerk be directed to execute the sixth instruction in the amendment conveyed by the motion to recommit in the form that was placed at the desk. Agreed to without objection.
 - 2010-03-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-323.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-323.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 609.

@@ -77,7 +77,7 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 - **(e)** *Public lands service corps program* Section 204 of the Act is amended as follows:
   - **(1)** In subsection (a)—
-    - **(A)** in the heading, by adding at the end “Program”;
+    - **(A)** in the heading, by adding at the end “Program”
     - **(B)** by striking “and the Department of Agriculture a” and inserting “, the Department of Agriculture, and the Department of Commerce a service and training program titled the”; and
     - **(C)** by adding at the end the following: “The Secretary of the Interior shall establish a department-level office to coordinate Public Lands Service Corps activities within the Department of the Interior. The Secretary of Agriculture shall establish within the U.S. Forest Service an office to coordinate Public Lands Service Corps activities within that agency. The Secretary of Commerce shall establish within the National Oceanic and Atmospheric Administration an office to coordinate Public Lands Service Corps activities within that agency. The Secretary of each department shall designate a Public Lands Service Corps coordinator for each agency within that department that administers Public Lands Service Corps activities.”.
   - **(2)** By amending subsection (b) to read as follows:
