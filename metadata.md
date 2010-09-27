@@ -1,7 +1,7 @@
 ---
 measure: H.R. 553
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 553
@@ -38,3 +38,11 @@ Reducing Over-Classification Act
 - 2010-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-200.
 - 2010-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 111-200.
 - 2010-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
+- 2010-09-27 — Amendment SA 4661 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Amendment SA 4661 proposed by Senator Durbin for Senator Lieberman. (consideration: CR S7556) In the nature of a substitute.
+- 2010-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S7554-7556; text of measure as reported in Senate: CR S7554-7556)
+- 2010-09-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-27 — Senate amendment agreed to: Amendment SA 4661 agreed to in Senate by Unanimous Consent.
+- 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4661 proposed by Senator Durbin for Senator Lieberman.(consideration: CR S7556)
+- 2010-09-27 — Senate amendment submitted
