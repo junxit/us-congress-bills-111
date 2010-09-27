@@ -1,7 +1,7 @@
 ---
 measure: S. 3460
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3460
@@ -16,7 +16,7 @@ version: Introduced in Senate
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
 
-## Cosponsors (14)
+## Cosponsors (16)
 
 - Sen. Specter, Arlen [D-PA] (S000709)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
@@ -32,6 +32,8 @@ version: Introduced in Senate
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -41,3 +43,8 @@ version: Introduced in Senate
 
 - 2010-06-07 — Introduced in Senate
 - 2010-06-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-06-15 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 111-699.
+- 2010-08-05 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-332.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-332.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.
