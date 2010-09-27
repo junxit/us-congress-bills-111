@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1651
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,9 +25,11 @@ Congress finds that—
 
 ## § 2. Modification of land grant patent issued by Secretary of the Interior
 
-The Secretary of the Interior shall modify the matter under the heading “Subject also to the following conditions” of paragraph 6 of United States Patent Number 61–2000–0007 by striking “Whitefish Point Comprehensive Plan of October 1992, or a gift shop” and inserting “Human Use/Natural Resource Plan for Whitefish Point, dated December 2002”.
+## § SECTION 1. Modification of land grant patent issued by Secretary of the Interior
 
-## § 3. Review of modifications and undertakings
+The Secretary of the Interior shall modify the matter under the heading “Subject also to the following conditions” of paragraph 6 of United States Patent Number 61–2000–0007 by striking “Whitefish Point Comprehensive Plan of October 1992, or a 1992 or for a gift shop” and inserting “Human Use/Natural Resource Plan for Whitefish Point, dated December 2002”.
+
+## § 32. Review of modifications and undertakings
 
 - **(a)** *Modifications to Human Use/Natural Resource Plan for Whitefish Point* Each modification to the Human Use/Natural Resource Plan for Whitefish Point, dated December 2002, described in the matter under the heading “Subject also to the following conditions” of paragraph 6 of United States Patent Number 61–2000–0007 shall be subject to the review process established under—
   - **(1)** section 106 of the National Historic Preservation Act (16 U.S.C. 470f); and
@@ -36,7 +38,7 @@ The Secretary of the Interior shall modify the matter under the heading “Subje
   - **(1)** section 106 of the National Historic Preservation Act (16 U.S.C. 470f); and
   - **(2)** part 800 of title 36, Code of Federal Regulations.
 
-## § 4. Effective date
+## § 43. Effective date
 
-- **(a)** *In general* The modification of United States Patent Number 61–2000–0007 in accordance with section 2 shall become effective on the date of the recording of the modification in the Office of the Register of Deeds of Chippewa County of the State of Michigan.
+- **(a)** *In general* The modification of United States Patent Number 61–2000–0007 in accordance with section 1 shall become effective on the date of the recording of the modification in the Office of the Register of Deeds of Chippewa County of the State of Michigan.
 - **(b)** *Endorsement* The Office of the Register of Deeds of Chippewa County of the State of Michigan is requested to endorse on the recorded copy of United States Patent Number 61–2000–0007 the fact that the Patent Number has been modified in accordance with this Act.
