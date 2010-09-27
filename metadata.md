@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4349
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4349
@@ -87,3 +87,7 @@ Hoover Power Allocation Act of 2010
 - 2010-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4219-4221)
 - 2010-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4219-4221)
 - 2010-06-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-329.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-329.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
