@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4395
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4395
@@ -47,3 +47,8 @@ To revise the boundaries of the Gettysburg National Military Park to include the
 - 2010-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 31 (Roll no. 144). (text: CR 3/18/2010 H16211)
 - 2010-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 31 (Roll no. 144).(text: CR 3/18/2010 H16211)
 - 2010-03-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-05-19 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2010-08-05 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-330.
+- 2010-09-27 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-330.
+- 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.
