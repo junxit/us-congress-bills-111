@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4168
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 0 executed, 23 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,26 +31,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Paragraph (4) of section 40(a) of the Internal Revenue Code of 1986 is amended by inserting “and algae-based” after “cellulosic”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and algae-based” after “Cellulosic” in the heading, | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (F), (G), and (H) as subparagraphs (I), (J), and (K), respectively, | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting “and algae-based” after “cellulosic” in the heading of subparagraph (I), as so redesignated, | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting “or algae-based biofuel, whichever is appropriate,” after “cellulosic biofuel” in subparagraph (J), as so redesignated, | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting “and qualified algae-based biofuel production” after “qualified cellulosic biofuel production” in subparagraph (K), as so redesignated, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (E) the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and algae-based” after “cellulosic” in the heading, | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or (b)(6)(F)” after “(b)(6)(C)” in clause (ii), and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or algae-based” after “such cellulosic”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and algae-based” after “cellulosic” in the heading, and | the bill names no machine-readable US Code section |
-| — | replace | by striking the first sentence and inserting “No cellulosic and algae-based biofuel producer credit shall be determined under subsection (a) with respect to any cellulosic or algae-based biofuel unless such cellulosic or algae-based biof… | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (3) of section 40(e) of such Code is amended by inserting “and algae-based” after “cellulosic” in the heading. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or algae-based” after “cellulosic”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and 40(b)(6)(H), respectively” after “section 40(b)(6)(E)”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and algae-based” after “cellulosic” in the heading, | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and any qualified algae-based biofuel plant property” after “qualified cellulosic biofuel plant property” in paragraph (1), | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (4) through (8) as paragraphs (6) through (10), respectively, | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting “or qualified algae-based biofuel plant property” after “cellulosic biofuel plant property” in paragraph (7)(C), as so redesignated, | the bill names no machine-readable US Code section |
-| — | replace | by striking “with respect to” and all that follows in paragraph (9), as so redesignated, and inserting “with respect to any qualified cellulosic biofuel plant property and any qualified algae-based biofuel plant property which ceases to … | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting “or qualified algae-based biofuel plant property” after “cellulosic biofuel plant property” in paragraph (10), as so redesignated, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (3) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | amend | Subclause (I) of section 40(b)(6)(E)(i) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Paragraph (6) of section 40(b) of such Code is amended by redesignating subparagraphs (F), (G), and (H) as subparagraphs (H), (I), and (J), respectively, and by inserting after subparagraph (E) the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (A) of section 168(l)(2) of such Code is amended by striking “solely to produce cellulosic biofuel” and inserting “solely to produce second generation biofuel (as defined in section 40(b)(6)(E)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “cellulosic biofuel” each place it appears in the text thereof and inserting “second generation biofuel”, | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (3) and redesignating paragraphs (4) through (8) as paragraphs (3) through (7), respectively, | the bill names no machine-readable US Code section |
+| — | replace | by striking “Cellulosic” in the heading of such subsection and inserting “Second Generation”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “cellulosic” in the heading of paragraph (2) and inserting “second generation”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “cellulosic biofuel” each place it appears in the text thereof and inserting “second generation biofuel”, | the bill names no machine-readable US Code section |
+| — | replace | by striking “Cellulosic” in the headings of subsections (b)(6), (b)(6)(E), and (d)(3)(D) and inserting “Second generation”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “cellulosic” in the headings of subsections (b)(6)(C), (b)(6)(D), (b)(6)(H), (d)(6), and (e)(3) and inserting “second generation”. | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 40(b)(6)(E) of such Code is amended by striking “Such term shall not” and inserting “The term second generation biofuel shall not”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (1) of section 4101(a) of such Code is amended by striking “cellulosic biofuel” and inserting “second generation biofuel”. | the bill names no machine-readable US Code section |
