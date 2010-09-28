@@ -11,24 +11,50 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Gestational Diabetes Act of 2009” or the “GEDI Act” .
+This Act may be cited as the “Gestational Diabetes Act of 2010” or the “GEDI Act”.
 
-## § 2. Findings
+## § 2. Gestational diabetes
 
-The Congress finds the following:
+Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by adding after section 317H the following:
 
-- **(1)** The prevalence of gestational diabetes among pregnant women in the United States is increasing.
-- **(2)** Gestational diabetes, which is similar to chronic forms of diabetes, normally appears at 24 to 28 weeks gestation and occurs in approximately 4 to 8 percent of pregnant women.
-- **(3)** The associated risk factors for gestational diabetes include overweight, obesity, lack of physical activity, genetics, ethnicity, and age.
-- **(4)** There is disagreement among physicians about how to treat gestational diabetes, as well as the effectiveness of current treatment regimens.
-- **(5)** Gestational diabetes, which increases the risk of preeclampsia, also increases a pregnant woman’s risk for developing gestational diabetes in subsequent pregnancies.
-- **(6)** Infants of women who develop gestational diabetes may have extreme increases in birth weight and the risks related to difficulties during the birthing process, and infants born to these women—
-  - **(A)** may subsequently have low blood sugar or jaundice during the newborn period;
-  - **(B)** are at increased risk for birth trauma; and
-  - **(C)** may be at increased risk of developing type 2 diabetes and obesity as an adolescent or adult.
-- **(7)** Improved nutrition and increased physical activity before, during, and after pregnancy may significantly decrease the rates of gestational diabetes and its recurrence.
-- **(8)** Obese pregnant women have a three-fold risk for the development of gestational diabetes as compared with normal weight women.
-
-## § 3. Gestational diabetes
-
-The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by adding at the end the following:
+> ## § 317H–1. Gestational diabetes
+>
+> - **(a)** *Understanding and monitoring gestational diabetes*
+>   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, in consultation with the Diabetes Mellitus Interagency Coordinating Committee established under section 429 and representatives of appropriate national health organizations, shall develop a multisite gestational diabetes research project within the diabetes program of the Centers for Disease Control and Prevention to expand and enhance surveillance data and public health research on gestational diabetes.
+>   - **(2)** *Areas to be addressed* The research project developed under paragraph (1) shall address—
+>     - **(A)** procedures to establish accurate and efficient systems for the collection of gestational diabetes data within each State and commonwealth, territory, or possession of the United States;
+>     - **(B)** the progress of collaborative activities with the National Vital Statistics System, the National Center for Health Statistics, and State health departments with respect to the standard birth certificate, in order to improve surveillance of gestational diabetes;
+>     - **(C)** postpartum methods of tracking women with gestational diabetes after delivery as well as targeted interventions proven to lower the incidence of type 2 diabetes in that population;
+>     - **(D)** variations in the distribution of diagnosed and undiagnosed gestational diabetes, and of impaired fasting glucose tolerance and impaired fasting glucose, within and among groups of women; and
+>     - **(E)** factors and culturally sensitive interventions that influence risks and reduce the incidence of gestational diabetes and related complications during childbirth, including cultural, behavioral, racial, ethnic, geographic, demographic, socioeconomic, and genetic factors.
+>   - **(3)** *Report* Not later than 2 years after the date of the enactment of this section, and annually thereafter, the Secretary shall generate a report on the findings and recommendations of the research project including prevalence of gestational diabetes in the multisite area and disseminate the report to the appropriate Federal and non-Federal agencies.
+> - **(b)** *Expansion of gestational diabetes research*
+>   - **(1)** *In General* The Secretary shall expand and intensify public health research regarding gestational diabetes. Such research may include—
+>     - **(A)** developing and testing novel approaches for improving postpartum diabetes testing or screening and for preventing type 2 diabetes in women with a history of gestational diabetes; and
+>     - **(B)** conducting public health research to further understanding of the epidemiologic, socioenvironmental, behavioral, translation, and biomedical factors and health systems that influence the risk of gestational diabetes and the development of type 2 diabetes in women with a history of gestational diabetes.
+>   - **(2)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this subsection $5,000,000 for each fiscal year 2012 through 2016.
+> - **(c)** *Demonstration grants to lower the rate of gestational diabetes*
+>   - **(1)** *In General* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award grants, on a competitive basis, to eligible entities for demonstration projects that implement evidence-based interventions to reduce the incidence of gestational diabetes, the recurrence of gestational diabetes in subsequent pregnancies, and the development of type 2 diabetes in women with a history of gestational diabetes.
+>   - **(2)** *Priority* In making grants under this subsection, the Secretary shall give priority to projects focusing on—
+>     - **(A)** helping women who have 1 or more risk factors for developing gestational diabetes;
+>     - **(B)** working with women with a history of gestational diabetes during a previous pregnancy;
+>     - **(C)** providing postpartum care for women with gestational diabetes;
+>     - **(D)** tracking cases where women with a history of gestational diabetes developed type 2 diabetes;
+>     - **(E)** educating mothers with a history of gestational diabetes about the increased risk of their child developing diabetes;
+>     - **(F)** working to prevent gestational diabetes and prevent or delay the development of type 2 diabetes in women with a history of gestational diabetes; and
+>     - **(G)** achieving outcomes designed to assess the efficacy and cost-effectiveness of interventions that can inform decisions on long-term sustainability, including third-party reimbursement.
+>   - **(3)** *Application* An eligible entity desiring to receive a grant under this subsection shall submit to the Secretary—
+>     - **(A)** an application at such time, in such manner, and containing such information as the Secretary may require; and
+>     - **(B)** a plan to—
+>       - **(i)** lower the rate of gestational diabetes during pregnancy; or
+>       - **(ii)** develop methods of tracking women with a history of gestational diabetes and develop effective interventions to lower the incidence of the recurrence of gestational diabetes in subsequent pregnancies and the development of type 2 diabetes.
+>   - **(4)** *Uses of Funds* An eligible entity receiving a grant under this subsection shall use the grant funds to carry out demonstration projects described in paragraph (1), including—
+>     - **(A)** expanding community-based health promotion education, activities, and incentives focused on the prevention of gestational diabetes and development of type 2 diabetes in women with a history of gestational diabetes;
+>     - **(B)** aiding State- and tribal-based diabetes prevention and control programs to collect, analyze, disseminate, and report surveillance data on women with, and at risk for, gestational diabetes, the recurrence of gestational diabetes in subsequent pregnancies, and, for women with a history of gestational diabetes, the development of type 2 diabetes; and
+>     - **(C)** training and encouraging health care providers—
+>       - **(i)** to promote risk assessment, high-quality care, and self-management for gestational diabetes and the recurrence of gestational diabetes in subsequent pregnancies; and
+>       - **(ii)** to prevent the development of type 2 diabetes in women with a history of gestational diabetes, and its complications in the practice settings of the health care providers.
+>   - **(5)** *Report* Not later than 4 years after the date of the enactment of this section, the Secretary shall prepare and submit to the Congress a report concerning the results of the demonstration projects conducted through the grants awarded under this subsection.
+>   - **(6)** *Definition of Eligible Entity* In this subsection, the term eligible entity means a nonprofit organization (such as a nonprofit academic center or community health center) or a State, tribal, or local health agency.
+>   - **(7)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this subsection $5,000,000 for each fiscal year 2012 through 2016.
+> - **(d)** *Postpartum follow-up regarding gestational diabetes* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall work with the State- and tribal-based diabetes prevention and control programs assisted by the Centers to encourage postpartum follow-up after gestational diabetes, as medically appropriate, for the purpose of reducing the incidence of gestational diabetes, the recurrence of gestational diabetes in subsequent pregnancies, the development of type 2 diabetes in women with a history of gestational diabetes, and related complications.

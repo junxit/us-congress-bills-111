@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5354
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by adding after section 317H the following: | the bill names no machine-readable US Code section |
