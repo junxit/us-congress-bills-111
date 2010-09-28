@@ -15,29 +15,22 @@ This Act may be cited as the “Birth Defects Prevention, Risk Reduction, and Aw
 
 ## § 2. Birth defects prevention, risk reduction, and awareness
 
-- **(a)** *In general* The Secretary shall establish and implement a birth defects prevention and public awareness program, consisting of the activities described in subsections (c) and (d).
-- **(b)** *Definitions* In this Act:
-  - **(1)** The term pregnancy and breastfeeding information services includes only—
-    - **(A)** information services to provide accurate, evidence-based, clinical information regarding maternal exposures during pregnancy that may be associated with birth defects or other health risks, such as exposures to medications, chemicals, infections, foodborne pathogens, illnesses, nutrition, or lifestyle factors;
-    - **(B)** information services to provide accurate, evidence-based, clinical information regarding maternal exposures during breastfeeding that may be associated with health risks to a breast-fed infant, such as exposures to medications, chemicals, infections, foodborne pathogens, illnesses, nutrition, or lifestyle factors;
-    - **(C)** the provision of accurate, evidence-based information weighing risks of exposures during breastfeeding against the benefits of breastfeeding; and
-    - **(D)** the provision of information described in subparagraph (A), (B), or (C) through counselors, Web sites, fact sheets, telephonic or electronic communication, community outreach efforts, or other appropriate means.
-  - **(2)** The term Secretary means the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention.
-- **(c)** *Nationwide media campaign* In carrying out subsection (a), the Secretary shall conduct or support a nationwide media campaign to increase awareness among health care providers and at-risk populations about pregnancy and breastfeeding information services.
-- **(d)** *Grants for pregnancy and breastfeeding information services*
-  - **(1)** *In general* In carrying out subsection (a), the Secretary shall award grants to State or regional agencies or organizations for any of the following:
-    - **(A)** *Information services* The provision of, or campaigns to increase awareness about, pregnancy and breastfeeding information services.
-    - **(B)** *Surveillance and research* The conduct or support of—
-      - **(i)** surveillance of or research on—
-        - **(I)** maternal exposures and maternal health conditions that may influence the risk of birth defects, prematurity, or other adverse pregnancy outcomes; and
-        - **(II)** maternal exposures that may influence health risks to a breastfed infant; or
-      - **(ii)** networking to facilitate surveillance or research described in this subparagraph.
-  - **(2)** *Preference for certain States* The Secretary, in making any grant under this subsection, shall give preference to States, otherwise equally qualified, that have or had a pregnancy and breastfeeding information service in place on or after January 1, 2006.
-  - **(3)** *Matching funds* The Secretary may only award a grant under this subsection to a State or regional agency or organization that agrees, with respect to the costs to be incurred in carrying out the grant activities, to make available (directly or through donations from public or private entities) non-Federal funds toward such costs in an amount equal to not less than 25 percent of the amount of the grant.
-  - **(4)** *Coordination* The Secretary shall ensure that activities funded through a grant under this subsection are coordinated, to the maximum extent practicable, with other birth defects prevention and environmental health activities of the Federal Government, including with respect to pediatric environmental health specialty units and children’s environmental health centers.
-- **(e)** *Evaluation* In furtherance of the program under subsection (a), the Secretary shall provide for an evaluation of pregnancy and breastfeeding information services to identify efficient and effective models of—
-  - **(1)** providing information;
-  - **(2)** raising awareness and increasing knowledge about birth defects prevention measures;
-  - **(3)** modifying risk behaviors; or
-  - **(4)** other outcome measures as determined appropriate by the Secretary.
-- **(f)** *Authorization of appropriations* To carry out this Act, there are authorized to be appropriated $5,000,000 for fiscal year 2011, $6,000,000 for fiscal year 2012, $7,000,000 for fiscal year 2013, $8,000,000 for fiscal year 2014, and $9,000,000 for fiscal year 2015.
+- **(a)** *Program* The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by inserting after section 317T (42 U.S.C. 247b-22) the following new section:
+  > ## § 317U. Birth defects prevention, risk reduction, and awareness
+  >
+  > - **(a)** *Grant program* The Secretary shall establish and implement a birth defects prevention and public awareness program to award grants to States or organizations for the provision of pregnancy and breastfeeding information services.
+  > - **(b)** *Preference* In the case of States or organizations that are otherwise equally qualified, the Secretary, in awarding a grant under this section, shall give preference to—
+  >   - **(1)** States that made pregnancy and breastfeeding information services available on January 1, 2006; and
+  >   - **(2)** organizations that will provide pregnancy and breastfeeding information services in such States.
+  > - **(c)** *Matching funds* The Secretary may only award a grant under this section to a State or organization that agrees, with respect to the costs to be incurred in carrying out the grant activities, to make available (directly or through donations from public or private entities) non-Federal funds toward such costs in an amount equal to not less than 25 percent of the amount of the grant.
+  > - **(d)** *Coordination* The Secretary shall ensure that activities carried out using a grant under this section are coordinated, to the maximum extent practicable, with other birth defects prevention and environmental health activities of the Federal Government, including activities carried out by the Health Resources and Services Administration and the Centers for Disease Control and Prevention with respect to pediatric environmental health specialty units and children’s environmental health centers.
+  > - **(e)** *Evaluation* In furtherance of the program established under subsection (a), the Secretary shall provide for an evaluation of pregnancy and breastfeeding information services to identify efficient and effective models of—
+  >   - **(1)** providing information;
+  >   - **(2)** raising awareness and increasing knowledge about birth defects prevention measures;
+  >   - **(3)** modifying risk behaviors; or
+  >   - **(4)** other outcome measures as determined appropriate by the Secretary.
+  > - **(f)** *Pregnancy and breastfeeding information services defined* For purposes of this section, the term “pregnancy and breastfeeding information services” includes only—
+  >   - **(1)** information services to provide accurate, evidence-based, clinical information regarding maternal exposures during pregnancy or breastfeeding that may be associated with birth defects or other health risks to an infant that is breastfed, such as exposures to medications, chemicals, infections, foodborne pathogens, illnesses, nutrition, or lifestyle factors;
+  >   - **(2)** the provision of accurate, evidence-based information weighing risks of exposures during breastfeeding against the benefits of breastfeeding; and
+  >   - **(3)** the provision of information described in paragraph (1) or (2) through counselors, Web sites, fact sheets, telephonic or electronic communication, community outreach efforts, or other appropriate means.
+  > - **(g)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $4,500,000 for fiscal year 2012, $5,500,000 for fiscal year 2013, $6,500,000 for fiscal year 2014, $7,500,000 for fiscal year 2015, and $8,500,000 for fiscal year 2016.
