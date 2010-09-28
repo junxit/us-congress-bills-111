@@ -2,7 +2,7 @@
 legis-num: H. RES. 1631
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1631
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas the Government of Turkey invaded the northern area of the Republic of Cyprus on July 20, 1974, and the Turkish military continues to illegally occupy the territory to this day;
 - Whereas the Church of Cyprus has filed an application against Turkey with the European Court of Human Rights for violations of freedom of religion and association as Greek Cypriots in the occupied areas are unable to worship freely due to the restricted access to religious sites and continued destruction of the property of the Church of Cyprus;
-- Whereas according to the United Nations-brokered Vienna III Agreement of August 2, 1975, “Greek-Cypriots in the north of the island are free to stay and they will be given every help to lead a normal life, including facilities for education and for the practice of their religion …”;
+- Whereas according to the United Nations-brokered Vienna III Agreement of August 2, 1975, “Greek-Cypriots in the north of the island are free to stay and they will be given every help to lead a normal life, including facilities for education and for the practice of their religion * * * ”;
 - Whereas according to the Secretary General’s Report on the United Nations Operation in Cyprus in June 1996, the Greek Cypriots and Maronites living in the northern part of the island “were subjected to severe restrictions and limitations in many basic freedoms, which had the effect of ensuring that inexorably, with the passage of time, the communities would cease to exist.”;
 - Whereas the very future and existence of historic Greek Cypriot, Maronite, and Armenian communities are now in grave danger of extinction;
 - Whereas the Abbot of the Monastery of the Apostle Barnabas is routinely denied permission to hold services or reside in the monastery of the founder of the Church of Cyprus and the Bishop of Karpass has been refused permission to perform the Easter Service for the few enclaved people in his occupied diocese;
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 80 Christian churches have been converted into mosques, 28 are being used by the Turkish army as stores and barracks, 6 have been turned into museums, and many others are used for other nonreligious purposes such as coffee shops, hotels, public baths, nightclubs, stables, cultural centers, theaters, barns, workshops, and one is even used as a mortuary;
 - Whereas expert reports indicate that since 2004 several churches have been leveled, such as St. Catherine Church in Gerani which was bulldozed in mid-2008, the northern wall of the Chapel of St. Euphemianos in Lysi which was destroyed by looters as they removed all metal objects within the wall, the Church of the Holy Virgin in the site of Trachonas was used as a dancing school until the Turkish occupiers built a road that destroyed part of it in March 2010, the Church of the Templars was converted into a night club, and the Church of Panagia Trapeza in Acheritou village was used as a sheep stall before it was recently destroyed by looters removing metal objects from medieval graves within the church;
 - Whereas the Republic of Cyprus discovered iron-inscribed crosses stolen from Greek cemeteries in the north in trucks owned by a Turkish-Cypriot firm that intended to send them to India to be recycled;
-- Whereas United States art dealer Peggy Goldberg was found culpable for illegally marketing 6th century mosaics from the Panagia Kanakaria church because the judge found that a “thief obtains no title or right of possession of stolen items” and therefore “a thief cannot pass any right of ownership … to subsequent purchasers.”;
+- Whereas United States art dealer Peggy Goldberg was found culpable for illegally marketing 6th century mosaics from the Panagia Kanakaria church because the judge found that a “thief obtains no title or right of possession of stolen items” and therefore “a thief cannot pass any right of ownership * * * to subsequent purchasers.”;
 - Whereas the extent of the illicit trade of religious artifacts from the churches in the Turkish occupied areas of northern Cyprus by Turkish black market dealer Aydin Dikmen was exposed following a search of his property by the Bavarian central department of crime which confiscated Byzantine mosaics, frescoes, and icons valued at over €30 million;
 - Whereas a report prepared by the Law Library of Congress on the “Destruction of Cultural Property in the Northern Part of Cyprus and Violations of International Law” for the U.S. Helsinki Commission details what obligations the Government of Turkey has as the occupying power in northern Cyprus for the destruction of religious and cultural property there under international law;
 - Whereas the Hague Convention of 1954 for the Protection of Cultural Property During Armed Conflict, of which Turkey is a party, states in article 4(3) that the occupying power undertakes to “Prohibit, prevent and, if necessary, put a stop to any form of theft, pillage or misappropriation of any acts of vandalism directed against cultural property”;
