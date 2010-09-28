@@ -1,7 +1,7 @@
 ---
 measure: S. 1338
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1338
@@ -20,9 +20,10 @@ A bill to require the accreditation of English language training programs, and f
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A bill to require the accreditation of English language training programs, and f
 - 2010-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7559)
 - 2010-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7559)
 - 2010-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7559)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Received in the House.
+- 2010-09-28 — Referred to the House Committee on the Judiciary.
