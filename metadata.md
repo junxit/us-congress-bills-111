@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5986
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5986
@@ -40,3 +40,15 @@ Neglected Infections of Impoverished Americans Act of 2010
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Referred to the House Committee on Energy and Commerce.
+- 2010-08-09 — Referred to the Subcommittee on Health.
+- 2010-09-15 — Subcommittee Hearings Held.
+- 2010-09-16 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-09-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-09-23 — Committee Consideration and Mark-up Session Held.
+- 2010-09-23 — Ordered to be Reported by Voice Vote.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7191-7192)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5986.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2010-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7191)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7191)
