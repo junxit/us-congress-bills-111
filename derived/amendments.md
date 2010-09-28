@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6132
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,12 +41,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “and (2)” and inserting “(2)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: “, and (3) any form or application required by the Secretary to appeal such decision”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “In order” and inserting “(1) Except as provided in paragraph (2), in order”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (5) of section 1503(a) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (10); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (11) as paragraph (12); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (10) the following new paragraph (11): | the bill names no machine-readable US Code section |
 | — | replace | Section 5317 of title 38, United States Code, is amended by striking “September 30, 2011” and inserting “September 30, 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1562(a) of title 38, United States Code, is amended by striking “$1,000” and inserting “$2,000”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 55 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 55 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |

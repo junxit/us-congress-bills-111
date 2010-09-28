@@ -127,11 +127,6 @@ Section 5317 of title 38, United States Code, is amended by striking “Septembe
 
 Section 1562(a) of title 38, United States Code, is amended by striking “$1,000” and inserting “$2,000”.
 
-## § 9. Conditions for treatment of certain persons as adjudicated mentally incompetent
+## § 9. Compliance with Statutory Pay-As-You-Go Act of 2010
 
-- **(a)** *In general* Chapter 55 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 5511. Conditions for treatment of certain persons as adjudicated mentally incompetent
-  >
-  > In any case arising out of the administration by the Secretary of laws and benefits under this title, a person who is mentally incapacitated, deemed mentally incompetent, or experiencing an extended loss of consciousness shall not be considered adjudicated as a mental defective for any purpose without the order or finding of a judge, magistrate, or other judicial authority of competent jurisdiction that such person is a danger to himself or herself or others.
-
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 55 of such title is amended by adding at the end the following new item:
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
