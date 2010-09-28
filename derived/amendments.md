@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6008
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,8 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 601 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “, or 60118(a)” and inserting “60118(a), or 60138”; | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, or has obstructed or prevented the Secretary from carrying out an inspection or investigation under this chapter,” after “under this chapter”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$100,000” and inserting “$250,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in the last sentence by striking “$1,000,000” and inserting “$2,500,000”. | the bill names no machine-readable US Code section |
