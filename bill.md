@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2818
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Methamphetamine Education, Treatment, and Hope Act of 2009”.
+This Act may be cited as the “Methamphetamine Education, Treatment, and Hope Act of 2010”.
 
 ## § 2. Enhancing health care provider awareness of methamphetamine addiction
 
@@ -30,53 +30,41 @@ Section 508 of the Public Health Service Act (42 U.S.C. 290bb–1) is amended—
 - **(1)** in subsection (a)—
   - **(A)** in the matter preceding paragraph (1), by striking “postpartum women treatment for substance abuse” and inserting “parenting women treatment for substance abuse (including treatment for addiction to methamphetamine)”;
   - **(B)** in paragraph (1), by striking “reside in” and inserting “reside in or receive outpatient treatment services from”; and
-  - **(C)** in paragraph (2), by striking “reside with the women in” and inserting “reside with the women in, or receive outpatient treatment services from,”;
+  - **(C)** in paragraph (2), by striking “the minor children of the women reside with the women in such facilities” and inserting “the minor children of the women who reside in such facilities reside with such women”;
 - **(2)** in subsection (d), by amending paragraph (2) to read as follows:
   > - **(2)** Referrals for necessary hospital and dental services.
 
-- **(3)** by amending subsection (h) to read as follows:
-  > - **(h)** *Accessibility of program* A funding agreement for an award under subsection (a) for an applicant is that the program operated pursuant to such subsection will be accessible to—
-  >   - **(1)** pregnant and parenting women in low-income households; and
-  >   - **(2)** pregnant and parenting women in health disparity populations.
-
-- **(4)** by amending subsection (m) to read as follows:
+- **(3)** by amending subsection (m) to read as follows:
   > - **(m)** *Allocation of awards* In making awards under subsection (a), the Director shall give priority to any entity that agrees to use the award for a program serving an area that—
   >   - **(1)** is a rural area, an area designated under section 332 by the Administrator of the Health Resources and Services Administration as a health professional shortage area with a shortage of mental health professionals, or an area determined by the Director to have a shortage of family-based substance abuse treatment options; and
   >   - **(2)** is determined by the Director to have high rates of addiction to methamphetamine or other drugs.
 
-- **(5)** in subsection (p)—
-  - **(A)** by striking “October 1, 1994” and inserting “October 1, 2010”;
-  - **(B)** by inserting “In submitting reports under this subsection, the Director may use data collected under this section or other provisions of law.” after “biennial report under section 501(k).”; and
+- **(4)** in subsection (p)—
+  - **(A)** by striking “October 1, 1994” and inserting “one year after the date of the enactment of the Methamphetamine Education, Treatment, and Hope Act of 2010” ;
+  - **(B)** by inserting “In submitting reports under this subsection, the Director may use data collected under this section or other provisions of law, insofar as such data is used in a manner consistent with all Federal privacy laws applicable to the use of data collected under this section or other provision, respectively.” after “biennial report under section 501(k).”; and
   - **(C)** by striking “Each report under this subsection shall include” and all that follows and inserting
     > Each report under this subsection shall, with respect to the period for which the report is prepared, include the following:
     > - **(1)** A summary of any evaluations conducted under subsection (o).
-    > - **(2)** Data on the number of pregnant and parenting women in need of, but not receiving, treatment for substance abuse under programs carried out pursuant to this section. Such data shall include, but not be limited to, the number of pregnant and parenting women in need of, but not receiving, treatment for methamphetamine abuse under such programs, disaggregated by State and tribe.
+    > - **(2)** Data on the number of pregnant and parenting women in need of, but not receiving, treatment for substance abuse. Such data shall include, but not be limited to, the number of pregnant and parenting women in need of, but not receiving, treatment for methamphetamine abuse, disaggregated by State and tribe.
     > - **(3)** Data on recovery and relapse rates of women receiving treatment for substance abuse under programs carried out pursuant to this section, including data disaggregated with respect to treatment for methamphetamine abuse.
 
-- **(6)** by redesignating subsections (q) and (r) as subsections (r) and (s), respectively;
-- **(7)** by inserting after subsection (p) the following:
+- **(5)** by redesignating subsections (q) and (r) as subsections (r) and (s), respectively;
+- **(6)** by inserting after subsection (p) the following:
   > - **(q)** *Methamphetamine addiction* In carrying out this section, the Director shall expand, intensify, and coordinate efforts to provide pregnant and parenting women treatment for addiction to methamphetamine or other drugs.
 
-- **(8)** in subsection (r) (as so redesignated)—
-  - **(A)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
-  - **(B)** by inserting after paragraph (3) the following:
-    > - **(4)** The term health disparity population means a population in which there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
+- **(7)** in subsection (s) (as so redesignated), by striking “such sums as may be necessary to fiscal years 2001 through 2003” and inserting “$16,000,000 for fiscal year 2012, $16,500,000 for fiscal year 2013, $17,000,000 for fiscal year 2014, $17,500,000 for fiscal year 2015, and $18,000,000 for fiscal year 2016”.
 
-- **(9)** in subsection (s) (as so redesignated), by striking “such sums as may be necessary to fiscal years 2001 through 2003” and inserting “$20,000,000 for fiscal year 2010, $21,000,000 for fiscal year 2011, $22,050,000 for fiscal year 2012, $23,152,500 for fiscal year 2013, and $24,310,125 for fiscal year 2014”.
-
-## § 4. Drug-free workplace information clearinghouse
+## § 4. Workplace information clearinghouse
 
 Section 515(b) of the Public Health Service Act (42 U.S.C. 290bb–21(b)) is amended—
 
 - **(1)** in paragraph (10), by striking “and” at the end;
-- **(2)** by redesignating paragraph (11) as paragraph (12); and
-- **(3)** by inserting after paragraph (10) the following:
-  > - **(11)** develop a clearinghouse that provides information and educational materials to employers and employees about drug testing policies and programs; and
+- **(2)** by redesignating paragraph (11) as paragraph (13); and
+- **(3)** by inserting after paragraph (10) the following new paragraph:
+  > - **(11)** maintain a clearinghouse that provides information and educational materials to employers and employees about comprehensive drug-free workplace programs and substance abuse prevention and treatment resources;
 
-## § 5. Student-driven methamphetamine awareness project
+## § 5. Youth involvement in prevention strategies
 
-Section 519E(c)(1) of the Public Health Service Act (42 U.S.C. 290bb–25e(c)(1)) is amended—
+Section 515(b) of the Public Health Service Act (42 U.S.C. 290bb–21(b)), as amended by section 4, is further amended by inserting after paragraph (11) the following new paragraph:
 
-- **(1)** by redesignating subparagraphs (B) through (G) as subparagraphs (C) through (H), respectively; and
-- **(2)** by inserting after subparagraph (A) the following:
-  > - **(B)** to develop, with the guidance of adult mentors and professionals, a student-driven methamphetamine awareness project such as a public service announcement or a television, radio, or print advertisement;
+> - **(12)** support the involvement of youth in the development and implementation of prevention strategies focused on youth, with regard to methamphetamine and other drugs; and
