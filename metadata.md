@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6200
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6200
@@ -38,3 +38,13 @@ WIPA and PABSS Extension Act of 2010
 - 2010-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7063-7064)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7063-7064)
 - 2010-09-28 — Received in the Senate, read twice.
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7763)
+- 2010-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7763)
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-10-01 — Presented to President.
+- 2010-10-01 — Presented to President.
+- 2010-10-13 — Became Public Law No: 111-280.
+- 2010-10-13 — Became Public Law No: 111-280.
+- 2010-10-13 — Signed by President.
+- 2010-10-13 — Signed by President.
