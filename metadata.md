@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6191
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6191
@@ -33,3 +33,9 @@ To amend the Small Business Jobs Act of 2010 to include certain construction and
 - 2010-09-23 — Introduced in House
 - 2010-09-23 — Introduced in House
 - 2010-09-23 — Referred to the House Committee on Financial Services.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7081-7082)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6191.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Miller (NC) moved to suspend the rules and pass the bill.
+- 2010-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7081)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7081)
