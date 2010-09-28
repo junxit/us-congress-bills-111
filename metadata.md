@@ -1,7 +1,7 @@
 ---
 measure: S. 3751
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3751
@@ -52,3 +52,14 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2010
 - 2010-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7650-7653; text as passed Senate: CR S7650-7651)
 - 2010-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7650-7653; text as passed Senate: CR S7650-7651)
 - 2010-09-28 — Received in the House.
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Considered as unfinished business. (consideration: CR H7380)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7186-7188)
+- 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7186-7188)
+- 2010-10-04 — Presented to President.
+- 2010-10-04 — Presented to President.
+- 2010-10-08 — Became Public Law No: 111-264.
+- 2010-10-08 — Became Public Law No: 111-264.
+- 2010-10-08 — Signed by President.
+- 2010-10-08 — Signed by President.
