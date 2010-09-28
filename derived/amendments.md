@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in the matter preceding subparagraph (A), by inserting “dental and” before “mental health facilities”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), by inserting “and dental” after “medical”. | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting “and which may include dental health facilities” after “mental health facilities”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting “(which may include such dental health assets)” after “medical assets”. | the bill names no machine-readable US Code section |
 | — | replace | Section 319F(a)(5)(B) of the Public Health Service Act (42 U.S.C. 247d–6(a)(5)(B)) is amended by striking “public health or medical” and inserting “public health, medical, or dental”. | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (6) of section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101) is amended by inserting “and dental” after “emergency medical”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 653(b)(4) of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 753(b)(4)) is amended by striking “public health and medical” and inserting “public health, medical, and dental”. | the bill names no machine-readable US Code section |
