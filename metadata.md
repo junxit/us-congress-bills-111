@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1032
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1032
@@ -16,7 +16,7 @@ HEART for Women Act
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 
-## Cosponsors (101)
+## Cosponsors (167)
 
 - Rep. Bono Mack, Mary [R-CA-45] (B001228)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -119,6 +119,72 @@ HEART for Women Act
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Kirkpatrick, Ann [D-AZ-1] (K000368)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Cao, Anh "Joseph" [R-LA-2] (C001079)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -129,3 +195,16 @@ HEART for Women Act
 - 2009-02-12 — Introduced in House
 - 2009-02-12 — Introduced in House
 - 2009-02-12 — Referred to the House Committee on Energy and Commerce.
+- 2009-02-13 — Referred to the Subcommittee on Health.
+- 2010-09-15 — Subcommittee Hearings Held.
+- 2010-09-16 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2010-09-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-09-23 — Committee Consideration and Mark-up Session Held.
+- 2010-09-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burgess objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7189-7190)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1032.
+- 2010-09-28 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-09-28 — Placed on the Union Calendar, Calendar No. 379.
+- 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-639.
+- 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-639.
