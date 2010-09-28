@@ -1,16 +1,19 @@
 ---
 legis-num: H.R. 3787
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3787
 
-> To amend title 38, United States Code, to deem certain service in the Reserve components as active service for purposes of laws administered by the Secretary of Veterans Affairs.
+> To amend title 38, United States Code, to recognize the service in the reserve components of certain persons by honoring them with status as veterans under law.
 
-## § 1. Certain service performed in the reserve components deemed active service
+## § 1. Provision of status under law by honoring certain members of the reserve components as veterans
 
-Section 106 of title 38, United States Code, is amended by adding at the end the following new subsection:
+- **(a)** *In general* Chapter 1 of title 38, United States Code, is amended by inserting after section 107 the following new section:
+  > ## § 107A. Honoring as veterans certain persons who performed service in the reserve components
+  >
+  > Any person who is entitled under chapter 1223 of title 10 to retired pay for nonregular service or, but for age, would be entitled under such chapter to retired pay for nonregular service shall be honored as a veteran but shall not be entitled to any benefit by reason of this section.
 
-> - **(g)** Any person who has not otherwise performed qualifying active duty service shall be deemed to have been on active duty for purposes of all laws administered by the Secretary if the person is entitled under chapter 1223 of title 10 to retired pay for nonregular service or, but for age, would be entitled under such chapter to retired pay for nonregular service.
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 107 the following new item:
