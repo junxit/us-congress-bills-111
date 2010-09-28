@@ -1,7 +1,7 @@
 ---
 measure: S. 3839
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3839
@@ -39,3 +39,9 @@ A bill to provide for an additional temporary extension of programs under the Sm
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7090)
 - 2010-09-28 — Received in the House.
 - 2010-09-28 — Referred to the House Committee on Small Business.
+- 2010-09-29 — Presented to President.
+- 2010-09-29 — Presented to President.
+- 2010-09-30 — Became Public Law No: 111-251.
+- 2010-09-30 — Became Public Law No: 111-251.
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
