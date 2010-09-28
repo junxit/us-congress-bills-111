@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3940
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3940
 
-That the bill from the House of Representatives (H.R. 3940) entitled “An Act to amend Public Law 96–597 to clarify the authority of the Secretary of the Interior to extend grants and other assistance to facilitate political status public education programs for the peoples of the non-self-governing territories of the United States.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To clarify the availability of existing funds for political status education in the Territory of Guam, and for other purposes.
 
 ## § 1. Sense of Congress regarding political status education in Guam
 

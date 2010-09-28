@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3940
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3940
@@ -27,6 +27,10 @@ To clarify the availability of existing funds for political status education in 
 
 - House — Natural Resources Committee
 - Senate — Energy and Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2010-09-30 — [House 111-2-565](votes/house-111-2-0565.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (386–5)
 
 ## Actions
 
@@ -67,3 +71,16 @@ To clarify the availability of existing funds for political status education in 
 - 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4670 proposed by Senator Durbin for Senator Bingaman.(consideration: CR S7656; text: CR S7656)
 - 2010-09-28 — Senate amendment submitted
 - 2010-09-28 — Senate amendment submitted
+- 2010-09-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-09-29 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 3940.
+- 2010-09-29 — Mr. Miller, George moved that the House suspend the rules an agree to the Senate amendments. (consideration: CR H7361-7364, H7377)
+- 2010-09-30 — Became Public Law No: 111-244.
+- 2010-09-30 — Became Public Law No: 111-244.
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 386 - 5 (Roll no. 565). (text as House agreed to Senate amendments: CR H7361)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 386 - 5 (Roll no. 565).(text as House agreed to Senate amendments: CR H7361)
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.
