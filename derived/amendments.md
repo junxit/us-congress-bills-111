@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4714
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-54 amendatory instructions. 0 executed, 54 stated and not applied.
+65 amendatory instructions. 0 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,10 +44,19 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1113 is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the subsection heading and inserting the following: “Trade secrets, commercial information, and financial information”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting ‘‘submitted to the Board in the course of a Board investigation or study and’’ after ‘‘information’’; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting ‘‘, or commercial or financial information if the information would otherwise be withheld under section 552(b)(4) of title 5,’’ after ‘‘title 18’’; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking ‘‘paragraph (1) of this subsection’’ and inserting ‘‘subparagraphs (A) through (C) of paragraph (1)’’; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | The second sentence of section 1114(d)(1) is amended by striking ‘‘that’’ after ‘‘information’’. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1) by striking “and (f)” and inserting “(e), and (g)”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (d)(1) by striking “or vessel”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A) by striking ‘‘shall’’ and inserting ‘‘may’’; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2) by inserting ‘‘, or other relevant information authorized for disclosure under this chapter,’’ after ‘‘information’’. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1114 is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the section heading by striking “Aviation enforcement” and inserting “Enforcement”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “1114(h),” before “1132,” in each of subsections (a), (b)(1), and (c). | the bill names no machine-readable US Code section |
@@ -80,6 +89,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | The analysis for chapter 11 is amended by inserting after the item relating to section 1132 the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “officer or employee” and inserting “officer, employee, or Federal designee”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “in the conduct of any accident investigation or study” after “National Transportation Safety Board”. | the bill names no machine-readable US Code section |
+| — | amend | Section 1134(b) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1134(c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1154(a)(1)(A) is amended by striking “; and” and inserting “; or”. | the bill names no machine-readable US Code section |
 | — | insert | Section 41113(b)(7) is amended by inserting before the period at the end the following: “, and that at least 60 days before the planned destruction of any unclaimed possession of a passenger a reasonable attempt will be made to notify th… | the bill names no machine-readable US Code section |
 | — | insert | Section 41313(c)(7) is amended by inserting before the period at the end the following: “, and that at least 60 days before the planned destruction of any unclaimed possession of a passenger a reasonable attempt will be made to notify th… | the bill names no machine-readable US Code section |

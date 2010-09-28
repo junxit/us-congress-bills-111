@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4714
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4714
@@ -42,3 +42,9 @@ National Transportation Safety Board Reauthorization Act of 2010
 - 2010-09-22 — Placed on the Union Calendar, Calendar No. 356.
 - 2010-09-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-613.
 - 2010-09-22 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-613.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7096-7101)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4714.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Oberstar moved to suspend the rules and pass the bill, as amended.
+- 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7096-7099)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7096-7099)

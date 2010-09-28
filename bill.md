@@ -71,35 +71,59 @@ The last sentence of section 1111(d) is amended by striking “absent” and ins
     - **(C)** by adding at the end the following:
       > - **(7)** an analysis of the Board’s implementation of the criteria established pursuant to section 1113(i) during the prior calendar year, including an explanation of any instance in which the Board did not hold a public hearing for an investigation of an accident that has caused significant loss of life or property damage or that may involve a national transportation safety issue.
 
-## § 6. Recordings, transcripts, and investigations
+- **(d)** *Accidental death and dismemberment insurance* Section 1113 is further amended by adding at the end the following:
+  > - **(j)** *Accidental death and dismemberment insurance*
+  >   - **(1)** *Authority to provide insurance* The Board may procure accidental death and dismemberment insurance for an employee of the Board who travels for an accident investigation or other activity of the Board outside the United States or inside the United States under hazardous circumstances, as defined by the Board.
+  >   - **(2)** *Crediting of insurance benefits to offset United States tort liability* Any amounts paid to a person under insurance coverage procured under this subsection shall be credited as offsetting any liability of the United States to pay damages to that person under section 1346(b) of title 28, chapter 171 of title 28, chapter 163 of title 10, or any other provision of law authorizing recovery based upon tort liability of the United States in connection with the injury or death resulting in the insurance payment.
+  >   - **(3)** *Treatment of insurance benefits* Any amounts paid under insurance coverage procured under this subsection shall not—
+  >     - **(A)** be considered additional pay or allowances for purposes of section 5536 of title 5; or
+  >     - **(B)** offset any benefits an employee may have as a result of government service, including compensation under chapter 81 of title 5.
+  >   - **(4)** *Entitlement to other insurance* Nothing in this subsection shall be construed as affecting the entitlement of an employee to insurance under section 8704(b) of title 5.
 
-- **(a)** *Vessel recordings and transcripts* Section 1114 is amended—
+## § 6. Disclosure, availability, and use of information
+
+- **(a)** *Trade secrets, commercial information, and financial information* Section 1114(b) is amended—
+  - **(1)** by striking the subsection heading and inserting the following: “Trade secrets, commercial information, and financial information”;
+  - **(2)** in paragraph (1) in the matter preceding subparagraph (A)—
+    - **(A)** by inserting ‘‘submitted to the Board in the course of a Board investigation or study and’’ after ‘‘information’’; and
+    - **(B)** by inserting ‘‘, or commercial or financial information if the information would otherwise be withheld under section 552(b)(4) of title 5,’’ after ‘‘title 18’’;
+  - **(3)** in paragraph (2) by striking ‘‘paragraph (1) of this subsection’’ and inserting ‘‘subparagraphs (A) through (C) of paragraph (1)’’; and
+  - **(4)** by adding at the end the following:
+    > - **(4)** *Annotation of controlled information* Each person submitting to the Board trade secrets, commercial information, financial information, or information that could be classified as controlled under the International Traffic in Arms Regulations shall appropriately annotate the information to indicate the restricted nature of the information in order to facilitate proper handling of such materials by the Board. In this paragraph, the term ‘International Traffic in Arms Regulations’ means those regulations contained in parts 120 through 130 of title 22, Code of Federal Regulations (or any successor regulations).
+    > - **(5)** *Disclosures to protect public health and safety* Disclosures of information under paragraph (1)(D) may include disclosures through accident investigation reports, safety studies, and safety recommendations.
+
+- **(b)** *Surface vehicle recordings and transcripts* The second sentence of section 1114(d)(1) is amended by striking ‘‘that’’ after ‘‘information’’.
+- **(c)** *Vessel recordings and transcripts* Section 1114 is amended—
   - **(1)** in subsection (a)(1) by striking “and (f)” and inserting “(e), and (g)”;
   - **(2)** in subsection (d)(1) by striking “or vessel”;
   - **(3)** by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and
   - **(4)** by inserting after subsection (d) the following:
     > - **(e)** *Vessel recordings and transcripts*
-    >   - **(1)** *Confidentiality of recordings and transcripts* The Board may not disclose publicly any part of a vessel’s voice or video recorder recording or transcript of oral communications by or among the crew, pilots, or docking masters of a vessel, vessel traffic services, or other vessels, or between the vessel’s crew and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
-    >     - **(A)** if the Board holds a public hearing on the accident, at the time of the hearing; or
-    >     - **(B)** if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
+    >   - **(1)** *Confidentiality of recordings and transcripts* The Board may not disclose publicly any part of a vessel’s voice or video recorder recording or transcript of oral communications by or among the crew, pilots, or docking masters of a vessel, vessel traffic services, or other vessels, or between the vessel’s crew and company communication centers, related to a marine casualty investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the marine casualty—
+    >     - **(A)** if the Board holds a public hearing on the marine casualty, at the time of the hearing; or
+    >     - **(B)** if the Board does not hold a public hearing, at the time a majority of the other factual reports on the marine casualty are placed in the public docket.
     >   - **(2)** *References to information in making safety recommendations* This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
 
-- **(b)** *Party representatives to NTSB investigations*
+- **(d)** *Foreign investigations* Section 1114(g) (as redesignated by subsection (c)(3) of this section) is amended—
+  - **(1)** in paragraph (1)(A) by striking ‘‘shall’’ and inserting ‘‘may’’; and
+  - **(2)** in paragraph (2) by inserting ‘‘, or other relevant information authorized for disclosure under this chapter,’’ after ‘‘information’’.
+- **(e)** *Party representatives to NTSB investigations*
   - **(1)** *In general* Section 1114 is further amended by adding at the end the following:
     > - **(h)** *Party representatives to NTSB investigations*
-    >   - **(1)** *Prohibition on disclosure of information* A party representative to an accident investigation of the Board is prohibited from disclosing, orally or in written form, investigative information, as defined by the Board, to anyone who is not an employee of the Board or who is not a party representative to such investigation, except—
+    >   - **(1)** *Prohibition on disclosure of information* A party representative to an accident or marine casualty investigation of the Board is prohibited from disclosing, orally or in written form, investigative information, as defined by the Board, to anyone who is not an employee of the Board or who is not a party representative to such investigation, except—
     >     - **(A)** as provided in paragraph (2); or
     >     - **(B)** at the conclusion of the fact finding stage of an investigation, which the investigator-in-charge shall announce by formal posting of a notice in the publicly available investigation docket.
-    >   - **(2)** *Exception* If the investigator-in-charge determines that a disclosure of information related to an accident investigation is necessary to prevent additional accidents, to address a perceived safety deficiency, or to assist in the conduct of the investigation, the investigator-in-charge may at any time authorize in writing a party representative to disclose such information under conditions approved by the investigator-in-charge. Such conditions shall ensure that, until the posting of a formal notice described in paragraph (1)(B), or until the information disclosed pursuant to this paragraph becomes publicly available by any other means, neither the entity represented by the party representative nor any other person may use such information in preparation for the prosecution of any claim or defense in litigation in connection with the accident being investigated or to make or deny any insurance claim in connection with such accident.
+    >   - **(2)** *Exception* If the investigator-in-charge determines that a disclosure of information related to an accident or marine casualty investigation is necessary to prevent additional accidents or marine casualties, to address a perceived safety deficiency, or to assist in the conduct of the investigation, the investigator-in-charge may at any time authorize in writing a party representative to disclose such information under conditions approved by the investigator-in-charge. Such conditions shall ensure that, until the posting of a formal notice described in paragraph (1)(B), or until the information disclosed pursuant to this paragraph becomes publicly available by any other means, neither the entity represented by the party representative nor any other person may use such information in preparation for the prosecution of any claim or defense in litigation in connection with the accident or marine casualty being investigated or to make or deny any insurance claim in connection with such accident or marine casualty.
     >   - **(3)** *Compliance* The Board shall require any individual who is a party representative to an investigation of the Board to sign a party agreement that includes language informing the individual of the prohibition in paragraph (1).
     >   - **(4)** *Representatives of Federal agencies* Paragraph (3) shall not apply to an individual who is a representative of the Secretary of Transportation, the Secretary of the department in which the Coast Guard is operating, or any other Federal department, agency, or instrumentality participating in the investigation and deemed by the Board to be performing a law enforcement or similar function.
-    >   - **(5)** *Party representative defined* In this subsection, the term “party representative” means an individual representing a party to an investigation pursuant to section 831.11 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this subsection.
+    >   - **(5)** *Compliance with FAA statutory obligations* Nothing in this subsection prohibits the Federal Aviation Administration from fulfilling statutory obligations to ensure safe operations.
+    >   - **(6)** *Party representative defined* In this subsection, the term “party representative” means an individual representing a party to an investigation pursuant to section 831.11 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this subsection.
 
   - **(2)** *Civil penalty* Section 1151 is amended—
     - **(A)** in the section heading by striking “Aviation enforcement” and inserting “Enforcement”; and
     - **(B)** by inserting “1114(h),” before “1132,” in each of subsections (a), (b)(1), and (c).
   - **(3)** *Conforming amendment* The analysis for chapter 11 is amended by striking the item relating to section 1151 and inserting the following:
-- **(c)** *GAO study of party process*
+- **(f)** *GAO study of party process*
   - **(1)** *In general* The Comptroller General shall conduct a study on the use of party representatives in investigations conducted by the National Transportation Safety Board.
   - **(2)** *Contents* In conducting the study, the Comptroller General shall examine, at a minimum—
     - **(A)** whether the composition of the party representatives should be broadened to include on-going representatives from other entities that could provide independent, technically qualified representatives to a Board investigation;
@@ -123,10 +147,12 @@ Section 1115(d) is amended—
   - **(2)** by striking paragraph (3) and inserting the following:
     > - **(3)** prescribe requirements for persons reporting accidents, as defined in section 1101(a), that may be investigated by the Board under this chapter;
 
-- **(b)** *Interim safety recommendations and measures* Section 1116 is amended by adding at the end the following:
-  > - **(c)** *Interim safety recommendations and measures* Nothing in this section shall restrict the Board from—
-  >   - **(1)** making urgent safety recommendations, identified through an ongoing safety investigation or study, to any regulatory department, agency, or instrumentality of the Federal Government or a State or local governmental authority or a person concerned with transportation safety; or
-  >   - **(2)** recommending interim measures to mitigate risks to transportation safety pending implementation of more comprehensive responses by the appropriate department, agency, instrumentality, authority, or person.
+- **(b)** *Urgent safety recommendations and interim measures* Section 1116 is amended by adding at the end the following:
+  > - **(c)** *Urgent safety recommendations and interim measures*
+  >   - **(1)** *Limitation on statutory construction* Nothing in this section shall restrict the Board from—
+  >     - **(A)** making urgent safety recommendations, as identified by the Board during an ongoing safety investigation or study, to any department, agency, or instrumentality of the Federal Government, a State or local governmental authority, or a person concerned with transportation safety; or
+  >     - **(B)** recommending interim measures, as identified by the Board, to a department, agency, instrumentality, authority, or person described in subparagraph (A) to mitigate risks to transportation safety pending implementation of more comprehensive responses by the department, agency, instrumentality, authority, or person.
+  >   - **(2)** *Inclusion in final accident reports* If the Board makes an urgent safety recommendation or recommends an interim measure before completing a relevant final accident report, if any, the urgent safety recommendation or interim measure shall also be reflected in the final accident report.
 
 - **(c)** *Evaluation and audit* Section 1138(a) is amended by striking “conducted at least annually, but may be”.
 
@@ -134,8 +160,8 @@ Section 1115(d) is amended—
 
 - **(a)** *In general* Section 1118(a) is amended to read as follows:
   > - **(a)** *In general* There is authorized to be appropriated for the purposes of this chapter—
-  >   - **(1)** $117,368,000 for fiscal year 2011;
-  >   - **(2)** $120,258,000 for fiscal year 2012;
+  >   - **(1)** $107,583,000 for fiscal year 2011;
+  >   - **(2)** $115,347,000 for fiscal year 2012;
   >   - **(3)** $122,187,000 for fiscal year 2013; and
   >   - **(4)** $124,158,000 for fiscal year 2014.
 
@@ -176,25 +202,42 @@ Section 1115(d) is amended—
   >   - **(3)** *Board Authority* Nothing in this paragraph negates the authority of the Board to investigate an incident.
   >   - **(4)** *Incident defined* In this subsection, the term “incident” means an incident described in regulations issued under section 1101(a)(2).
 
-## § 11. Maritime casualty investigations
+## § 11. Marine casualty investigations
 
 - **(a)** *In general* Chapter 11 is amended by inserting after section 1132 the following:
-  > ## § 1132a. Maritime casualty investigations
+  > ## § 1132a. Marine casualty investigations
   >
   > - **(a)** *Delegation of authority to Coast Guard*
   >   - **(1)** *In general* In an investigation of a major marine casualty under section 1131(a)(1)(E), the Board, with the consent of the Secretary of the department in which the Coast Guard is operating, may delegate to the Commandant of the Coast Guard full authority to obtain the facts of the casualty. In the case of such a delegation, the Commandant, acting through the Commandant’s on-scene representative, shall have the full authority of the Board.
   >   - **(2)** *Required training, experience, and qualifications* The Board may not make a delegation under paragraph (1) unless the Board determines that the Commandant’s on-scene representatives have sufficient training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation to act in accordance with the best investigation practices of Federal and non-Federal entities.
-  > - **(b)** *Notification and reporting* The Board and the Secretary shall jointly prescribe regulations governing the notification and reporting of marine casualties to the Board.
-  > - **(c)** *Participation of Commandant in marine investigations* The Board shall provide for the participation of the Commandant of the Coast Guard in an investigation by the Board of a major marine casualty under section 1131(a)(1)(E) if such participation is necessary to carry out the duties and powers of the Commandant, except that the Commandant may not participate in establishing the probable cause of the marine casualty (other than as provided in section 1131(b)).
+  > - **(b)** *Participation of Commandant in marine investigations* The Board shall provide for the participation of the Commandant of the Coast Guard in an investigation by the Board of a major marine casualty under section 1131(a)(1)(E) if such participation is necessary to carry out the duties and powers of the Commandant, except that the Commandant may not participate in establishing the probable cause of the marine casualty (other than as provided in section 1131(b)).
 
 - **(b)** *Conforming amendment* The analysis for chapter 11 is amended by inserting after the item relating to section 1132 the following:
 
 ## § 12. Inspections and autopsies
 
-Section 1134(a) is amended in the matter preceding paragraph (1)—
+- **(a)** *Entry and inspection* Section 1134(a) is amended in the matter preceding paragraph (1)—
+  - **(1)** by striking “officer or employee” and inserting “officer, employee, or Federal designee”; and
+  - **(2)** by inserting “in the conduct of any accident investigation or study” after “National Transportation Safety Board”.
+- **(b)** *Inspection, testing, preservation, and moving of aircraft and parts* Section 1134(b) is amended to read as follows:
+  > - **(b)** *Inspection, testing, preservation, and moving of aircraft and parts*
+  >   - **(1)** *Inspection and testing* In investigating an aircraft accident under this chapter, the Board may—
+  >     - **(A)** inspect and test, to the extent necessary, any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce;
+  >     - **(B)** seize or otherwise obtain any recording device and recording pertinent to the accident; and
+  >     - **(C)** require specific information only available from the manufacturer to enable the Board to read and interpret any flight parameter or navigation storage device or media on board the aircraft involved in the accident.
+  >   - **(2)** *Moving of aircraft and parts* Any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce shall be preserved, and may be moved, only as provided by regulations of the Board.
+  >   - **(3)** *Trade secrets, commercial information, and financial information* The provisions of section 1114(b) shall apply to materials provided under paragraph (1)(C) and properly identified as trade secrets, commercial information, or financial information.
 
-- **(1)** by striking “officer or employee” and inserting “officer, employee, or Federal designee”; and
-- **(2)** by inserting “in the conduct of any accident investigation or study” after “National Transportation Safety Board”.
+- **(c)** *Avoiding unnecessary interference; preserving evidence* Section 1134(c) is amended to read as follows:
+  > - **(c)** *Avoiding unnecessary interference; preserving evidence*
+  >   - **(1)** *Inspection and testing* In carrying out subsection (a)(1), an officer or employee may—
+  >     - **(A)** examine or test any vehicle, vessel, rolling stock, track, or pipeline component;
+  >     - **(B)** seize or otherwise obtain any recording device and recording pertinent to the accident; and
+  >     - **(C)** require the production of specific information only available from the manufacturer to enable the Board to read and interpret any operational parameter or navigation storage device or media on board the vehicle, vessel, or rolling stock involved in the accident.
+  >   - **(2)** *Trade secrets, commercial information, and financial information* The provisions of section 1114(b) shall apply to materials provided under paragraph (1)(C) and properly identified as trade secrets, commercial information, or financial information.
+  >   - **(3)** *Conduct of examinations and tests* An examination or test under paragraph (1)(A) shall be conducted in a way that—
+  >     - **(A)** does not interfere unnecessarily with transportation services provided by the owner or operator of the vehicle, vessel, rolling stock, track, or pipeline component; and
+  >     - **(B)** to the maximum extent feasible, preserves evidence related to the accident, consistent with the needs of the investigation and with the cooperation of that owner or operator.
 
 ## § 13. Discovery and use of cockpit and surface vehicle recordings and transcripts
 
@@ -205,9 +248,9 @@ Section 1154(a)(1)(A) is amended by striking “; and” and inserting “; or�
 - **(a)** *Family assistance in commercial aviation accidents* Section 41113(b)(7) is amended by inserting before the period at the end the following: “, and that at least 60 days before the planned destruction of any unclaimed possession of a passenger a reasonable attempt will be made to notify the family of the passenger”.
 - **(b)** *Family assistance in commercial aviation accidents involving foreign carriers* Section 41313(c)(7) is amended by inserting before the period at the end the following: “, and that at least 60 days before the planned destruction of any unclaimed possession of a passenger a reasonable attempt will be made to notify the family of the passenger”.
 
-## § 15. Coast Guard notification
+## § 15. Notification of marine casualties
 
-Not later than 6 months after the date of enactment of this Act, the National Transportation Safety Board and the Secretary of the department in which the Coast Guard is operating shall issue regulations to provide the Board prompt notification through the Coast Guard of all marine casualties of potential investigative interest to the Board.
+Not later than 6 months after the date of enactment of this Act, the National Transportation Safety Board and the Secretary of the department in which the Coast Guard is operating shall jointly prescribe regulations to ensure the prompt notification and reporting of marine casualties by the Coast Guard to the Board.
 
 ## § 16. Use of board name, logo, initials, and seal
 
