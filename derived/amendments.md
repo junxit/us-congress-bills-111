@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4113
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,38 +36,38 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “any State” and inserting “every State and foreign state”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “the State” and inserting “the State or foreign state”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking all that follows “party-defendant,” and inserting | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1332 of title 28, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Section 1332(a) of title 28, United States Code, is amended by inserting “as adjusted under subsection (f),” after “$75,000,”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1441(a) of title 28, United States Code, is amended by adding at the end the following new sentence: “If the plaintiff has filed a declaration in State court, as part of or in addition to the initial pleading, providing that the … | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1447 of title 28, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), by striking “under this section” and inserting “under this title or other applicable law”. | the bill names no machine-readable US Code section |
+| — | replace | The section heading is amended by striking “Actions removable generally” and inserting “Removal of civil actions”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a) Except” and inserting “(a) Generally.—Except”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the last sentence; | the bill names no machine-readable US Code section |
+| — | amend | Subsection (b) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Subsection (d) is amended by striking “(d) Any” and inserting “(d) Actions against foreign states.—Any”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (e) is amended by striking “(e)(1) Notwithstanding” and inserting “(e) Multiparty, multiforum jurisdiction.—(1) Notwithstanding”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(f) The court” and inserting “(f) Derivative removal jurisdiction.—The court”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “under this section” and inserting “under this title or other applicable law”. | the bill names no machine-readable US Code section |
 | — | amend | The section heading is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | Subsection (a) is amended by striking “or criminal prosecution”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” after “(b)”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (1) (as designated by subparagraph (A) of this paragraph) the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3) (as designated by subparagraph (B) of this paragraph), by striking “action.” and inserting “action, unless equitable considerations warrant removal. Such equitable considerations include whether the plaintiff has acted i… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “thirty days” each place it appear and inserting “30 days”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (c) and (e); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (d) and (f) as subsections (c) and (d), respectively. | the bill names no machine-readable US Code section |
-| — | insert | Chapter 89 of title 28, United States Code, is amended by inserting after section 1446 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a) A defendant” and inserting “(a) Generally.—A defendant”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “or criminal prosecution”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(b) The notice” and inserting “(b) Requirements; generally.—(1) The notice”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the second paragraph and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “(d) Promptly” and inserting “(d) Notice to adverse parties and State court.—Promptly”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “thirty days” each place it appears and inserting “30 days”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e); and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), by striking “(f) With respect” and inserting “(e) Counterclaim in 337 proceeding.—With respect”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 89 of title 28, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to section 1441, by striking “Actions removable generally” and inserting “Removal of civil actions”; | the bill names no machine-readable US Code section |
 | — | insert | in the item relating to section 1446, by inserting “of civil actions” after “removal”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to section 1446 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 1453(b) of title 28, United States Code, is amended by striking “1446(b)” and inserting “1446(c)(1)”. | the bill names no machine-readable US Code section |
 | — | insert | Chapter 87 of title 28, United States Code, is amended by inserting before section 1391 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 87 of title 28, United States Code, is amended by inserting before the item relating to section 1391 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | By striking subsections (a) through (d) and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | By redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively, and inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1)”, “(2)”, and “(3)” and inserting “(A)”, “(B)”, and “(C)”, respectively; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “(f) A civil action” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(e) A civil action” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the second undesignated paragraph by striking “The summons and complaint” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | In subsection (g), as redesignated, by striking “(g) A civil action” and inserting “(g) Civil actions against a foreign state.—A civil action”. | the bill names no machine-readable US Code section |
-| — | replace | In subsection (h), as redesignated, by striking “(h) A civil action” and inserting “(h) Multiparty, multiforum, litigation.—A civil action”. | the bill names no machine-readable US Code section |
+| — | replace | In subsection (f), by striking “(f) A civil action” and inserting “(f) Civil actions against a foreign state.—A civil action”. | the bill names no machine-readable US Code section |
+| — | replace | In subsection (g), by striking “(g) A civil action” and inserting “(g) Multiparty, multiforum litigation.—A civil action”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1392 of title 28, United States Code, and the item relating to that section in the table of sections at the beginning of chapter 87 of such title, are repealed. | the bill names no machine-readable US Code section |
-| — | strike | in subsection (a), by striking “or division where it might have been brought”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking the first sentence and inserting the following: “Any civil action may, in the discretion of the district court, be transferred anywhere within the district for trial or for any other phase of the litigation.”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (d) as subsection (c); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “As used in this section” and inserting “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands sha… | the bill names no machine-readable US Code section |
-| — | strike | by striking “division or”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “or division”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting before the period at the end the following: “or to any district or division to which all parties have consented”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “As used in this section” and inserting “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the… | the bill names no machine-readable US Code section |
