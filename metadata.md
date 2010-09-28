@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5993
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5993
@@ -16,11 +16,16 @@ Securing America's Veterans Insurance Needs and Goals Act of 2010
 
 - Rep. Halvorson, Deborah L. [D-IL-11] (H001044)
 
-## Cosponsors (3)
+## Cosponsors (8)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Garamendi, John [D-CA-10] (G000559)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
 ## Committees (1)
 
@@ -31,3 +36,12 @@ Securing America's Veterans Insurance Needs and Goals Act of 2010
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Referred to the House Committee on Veterans' Affairs.
+- 2010-09-15 — Committee Consideration and Mark-up Session Held.
+- 2010-09-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7020-7027)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5993.
+- 2010-09-28 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2010-09-28 — Placed on the Union Calendar, Calendar No. 368.
+- 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-628.
+- 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-628.

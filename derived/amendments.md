@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5993
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 1966 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Office” and inserting “(1) The Office”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary” and inserting “(1) The Secretary”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

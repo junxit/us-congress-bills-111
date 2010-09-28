@@ -18,19 +18,25 @@ This Act may be cited as the “Securing America’s Veterans Insurance Needs an
 - **(a)** *Financial counseling and disclosure information*
   - **(1)** *In general* Section 1966 of title 38, United States Code, is amended by adding at the end the following new subsection:
     > - **(e)**
-    >   - **(1)** In order to be an eligible life insurance company under this section, a life insurance company shall provide financial counseling to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) of this title.
-    >   - **(2)** The financial counseling provided pursuant to paragraph (1) shall—
+    >   - **(1)** In order to be an eligible life insurance company under this section, a life insurance company shall—
+    >     - **(A)** make available, both orally and in writing, financial counseling to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) of this title; and
+    >     - **(B)** at the time that such beneficiary or other person entitled to payment establishes a valid claim under section 1970(a), provide to such beneficiary or other person the disclosures described in paragraph (2).
+    >   - **(2)** The disclosures provided pursuant to paragraph (1)(B) shall—
     >     - **(A)** be provided both orally and in writing; and
-    >     - **(B)** include full disclosure with respect to the payment of the claim, including, at a minimum—
-    >       - **(i)** a comparison of the advantages and disadvantages of maintaining such payment with the life insurance company and maintaining such payment with a financial institution;
-    >       - **(ii)** a comparison of the rate of interest bearing to such payment if the payment is maintained with the life insurance company and if the payment is maintained with a financial institution;
-    >       - **(iii)** an explanation of whether maintaining such payment with the life insurance company results in the payment not being insured by the Federal Deposit Insurance Corporation; and
+    >     - **(B)** include information with respect to the payment of the claim, including—
+    >       - **(i)** an explanation of the methods available to receive such payment, including—
+    >         - **(I)** allowing the insurance company to maintain the payment;
+    >         - **(II)** lump-sum payment; and
+    >         - **(III)** any alternative methods;
+    >       - **(ii)** an explanation that any such payment that is maintained by the life insurance company is not insured by the Federal Deposit Insurance Corporation;
+    >       - **(iii)** an explanation that interest earned on any such payment that is maintained by the life insurance company will be comparable to on-demand account interest rates; and
     >       - **(iv)** other relevant information.
     >   - **(3)** In order to be an eligible life insurance company under this section, a life insurance company may not charge any fees to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) with respect to maintaining such payment with the company.
     >   - **(4)** The Secretary shall include in each annual performance and accountability report submitted by the Secretary to Congress information concerning—
-    >     - **(A)** the number of individuals who received financial counseling under paragraph (1);
-    >     - **(B)** the information received by such individuals during such counseling; and
-    >     - **(C)** any recommendations, complaints, or other information with respect to such counseling that the Secretary considers relevant.
+    >     - **(A)** the number of individuals who received financial counseling under paragraph (1)(A);
+    >     - **(B)** the number of individuals who received the disclosures under paragraph (1)(B);
+    >     - **(C)** the information received by such individuals during such counseling; and
+    >     - **(D)** any recommendations, complaints, or other information with respect to such counseling that the Secretary considers relevant.
 
   - **(2)** *Regulations* The Secretary of Veterans Affairs shall prescribe regulations to carry out section 1966(e) of title 38, United States Code, as added by paragraph (1).
 - **(b)** *Office of Survivors Assistance*
