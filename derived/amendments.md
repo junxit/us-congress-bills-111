@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6200
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1150(h) of such Act (42 U.S.C. 1320b–21(h)) is amended by striking “2010” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 1149 of the Social Security Act (as amended by section 2(a)) is further amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(4) Allocation of costs.—The costs” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
