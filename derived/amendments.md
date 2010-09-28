@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-126 amendatory instructions. 0 executed, 126 stated and not applied.
+127 amendatory instructions. 0 executed, 127 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,8 +59,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, | the bill names no machine-readable US Code section |
 | — | replace | by striking “(B)” and inserting “(5)”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraph (A)(i)” and inserting “paragraph (4)(A)”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subparagraph (A)(ii)” and inserting “paragraph (4)(B)”, and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (C) as paragraph (6), | the bill names no machine-readable US Code section |
+| — | replace | by striking “subparagraph (A)(ii)” and inserting “paragraph (4)(B)”, | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (C) as paragraph (6), and | the bill names no machine-readable US Code section |
 | — | strike | by striking “728(a), 728(b),”, and | the bill names no machine-readable US Code section |
 | — | strike | by striking “1146(a), 1146(b),”, and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (f)(1)(C)(i) by inserting “of the filing” after “date”, | the bill names no machine-readable US Code section |
@@ -86,7 +86,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c)(1) by striking “section 523(a)(5)” and inserting “such paragraph”, | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(C)(ii)(II) by striking the period at the end and inserting a semicolon, and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking “521(1)” and inserting “521(a)(1)”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “security property” and inserting “secured property” each place it appears, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “security property” the 1st place it appears and inserting “property securing the lien”, | the bill names no machine-readable US Code section |
+| — | replace | by striking “current value of the security property” and inserting “amount of the allowed secured claim”, and | the bill names no machine-readable US Code section |
 | — | insert | in the last sentence by inserting “must” after “you”, and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5)(B) by striking “that” and inserting “that,”, | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “untrue and” and inserting “untrue or”, and | the bill names no machine-readable US Code section |

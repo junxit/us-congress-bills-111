@@ -58,8 +58,8 @@ This Act may be cited as the “Bankruptcy Technical Corrections Act of 2010”.
       - **(ii)** in subparagraph (B)—
         - **(I)** by striking “(B)” and inserting “(5)”,
         - **(II)** by striking “subparagraph (A)(i)” and inserting “paragraph (4)(A)”, and
-        - **(III)** by striking “subparagraph (A)(ii)” and inserting “paragraph (4)(B)”, and
-      - **(iii)** by redesignating subparagraph (C) as paragraph (6),
+        - **(III)** by striking “subparagraph (A)(ii)” and inserting “paragraph (4)(B)”,
+      - **(iii)** by redesignating subparagraph (C) as paragraph (6), and
   - **(11)** in section 348—
     - **(A)** in subsection (b)—
       - **(i)** by striking “728(a), 728(b),”, and
@@ -102,8 +102,9 @@ This Act may be cited as the “Bankruptcy Technical Corrections Act of 2010”.
     - **(B)** in paragraph (3) by striking “521(1)” and inserting “521(a)(1)”,
   - **(19)** in section 524(k)—
     - **(A)** in the last undesignated paragraph of the quoted matter in paragraph (3)(J)(i)—
-      - **(i)** by striking “security property” and inserting “secured property” each place it appears, and
-      - **(ii)** in the last sentence by inserting “must” after “you”, and
+      - **(i)** by striking “security property” the 1st place it appears and inserting “property securing the lien”,
+      - **(ii)** by striking “current value of the security property” and inserting “amount of the allowed secured claim”, and
+      - **(iii)** in the last sentence by inserting “must” after “you”, and
     - **(B)** in paragraph (5)(B) by striking “that” and inserting “that,”,
   - **(20)** in section 526(a)—
     - **(A)** in paragraph (2) by striking “untrue and” and inserting “untrue or”, and
@@ -156,7 +157,7 @@ This Act may be cited as the “Bankruptcy Technical Corrections Act of 2010”.
       - **(ii)** by adding at the end the following:
         > - **(iii)** subparagraph (C) permits the court to grant a discharge; and
 
-    - **(B)** in subparagraph (C)—
+    - **(B)** in subparagraph (C) —
       - **(i)** by striking “unless” and inserting “the court may grant a discharge if,”,
       - **(ii)** in clause (ii) by striking the period at the end and inserting a semicolon, and
       - **(iii)** by adding at the end the following:
