@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 39
 congress: 111
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 39
@@ -24,3 +24,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2010-09-21 — Introduced in Senate
 - 2010-09-21 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
+- 2010-09-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition, pursuant to 5 U.S.C. 802(c). (consideration: CR S7613)
+- 2010-09-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition, pursuant to 5 U.S.C. 802(c).(consideration: CR S7613)
