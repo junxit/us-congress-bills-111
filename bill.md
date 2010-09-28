@@ -2,7 +2,7 @@
 legis-num: H. RES. 1378
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1378
@@ -15,7 +15,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 2002, Congress declared the Mojave Cross a national memorial, the only such memorial dedicated to the war dead of World War I;
 - Whereas in 2003, Congress passed legislation to protect the Mojave Cross memorial by providing for a land swap that would leave the cross on private land, to be maintained by the Veterans of Foreign Wars;
 - Whereas, on April 28, 2010, the United States Supreme Court, in Salazar v. Buono, reversed a Court of Appeals judgment that invalidated an effort by Congress to preserve the Mojave Cross memorial through a land transfer and remanded the case for further proceedings; and
-- Whereas, on May 9, 2010, the Mojave Cross memorial was reportedly vandalized and stolen: Now therefore, be it
+- Whereas, on May 9, 2010, the Mojave Cross memorial was reportedly vandalized and stolen: Now, therefore, be it
 
 That the House of Representatives—
 
