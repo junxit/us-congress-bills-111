@@ -1,7 +1,7 @@
 ---
 measure: S. 3751
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3751
@@ -16,7 +16,7 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2010
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Burr, Richard [R-NC] (B001135)
@@ -26,6 +26,10 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2010
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Burris, Roland [D-IL] (B001266)
+- Sen. Brownback, Sam [R-KS] (B000953)
 
 ## Committees (1)
 
@@ -40,3 +44,11 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2010
 - 2010-09-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-09-23 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 587.
+- 2010-09-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burgess objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7186-7189)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3751.
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2010-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7650-7653; text as passed Senate: CR S7650-7651)
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7650-7653; text as passed Senate: CR S7650-7651)
+- 2010-09-28 — Received in the House.

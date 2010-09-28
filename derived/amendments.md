@@ -1,7 +1,7 @@
 ---
 measure: S. 3751
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 0 executed, 50 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,28 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a), by inserting “at least” before “150,000”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (c)(3), by inserting “at least” before “150,000”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “; and” and inserting “;”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (3) as paragraph (5); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “10 years” and inserting “a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second sentence and inserting “The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as pro… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Subject to paragraph (1)(B), the” and inserting “The”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “3” and inserting “5”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “at least” before “150,000”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “; and” and inserting “;”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “meeting the requirements under subsection (d)” after “receive an application for a contract under this section”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “or the Secretary” and all that follows through the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (g)(4), by striking “or parent”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “in each of fiscal years 2007 through 2009” and inserting “for fiscal years 2011 through 2015”. | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (a)(6) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (d)(2)(D) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (f)(5)(A) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 379B of the Public Health Service Act (42 U.S.C. 274m) is amended by striking “$34,000,000” and all that follows through the period at the end, and inserting “$30,000,000 for each of fiscal years 2011 through 2014 and $33,000,000… | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “the inventory goal of at least” before “150,000”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “or is transferred” and all that follows through the period and inserting “for a first-degree relative.”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “150,000”; | the bill names no machine-readable US Code section |
