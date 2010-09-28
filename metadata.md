@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5360
 congress: 111
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 5360
