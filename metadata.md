@@ -1,7 +1,7 @@
 ---
 measure: S. 3802
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3802
@@ -43,3 +43,17 @@ Mount Stevens and Ted Stevens Icefield Designation Act
 - 2010-09-28 — Message on Senate action sent to the House.
 - 2010-09-28 — Received in the House.
 - 2010-09-28 — Referred to the House Committee on Natural Resources.
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Committee on Natural Resources discharged.
+- 2010-09-30 — Committee on Natural Resources discharged.
+- 2010-09-30 — Considered by unanimous consent. (consideration: CR H7384-7385)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — Mr. Oberstar asked unanimous consent to discharge from committee and consider.
+- 2010-09-30 — On passage Passed without objection. (text: CR H7384-7385)
+- 2010-09-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7384-7385)
+- 2010-10-12 — Presented to President.
+- 2010-10-12 — Presented to President.
+- 2010-10-18 — Became Public Law No: 111-284.
+- 2010-10-18 — Became Public Law No: 111-284.
+- 2010-10-18 — Signed by President.
+- 2010-10-18 — Signed by President.
