@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 319
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 319
@@ -16,7 +16,7 @@ Recognizing the anniversary of the tragic shootings that occurred at Fort Hood, 
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Cosponsors (85)
+## Cosponsors (111)
 
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
@@ -103,6 +103,32 @@ Recognizing the anniversary of the tragic shootings that occurred at Fort Hood, 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
 
 ## Committees (1)
 
@@ -113,3 +139,9 @@ Recognizing the anniversary of the tragic shootings that occurred at Fort Hood, 
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Referred to the House Committee on Armed Services.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7003-7005)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 319.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Critz moved to suspend the rules and agree to the resolution.
+- 2010-09-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7003)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7003)
