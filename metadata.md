@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 469
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 469
@@ -34,3 +34,5 @@ A resolution recognizing the 60th Anniversary of the Fulbright Program in Thaila
 - 2010-05-25 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-05-25 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2010-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 408.
+- 2010-09-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7665; text as passed Senate: CR S7665)
+- 2010-09-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7665; text as passed Senate: CR S7665)
