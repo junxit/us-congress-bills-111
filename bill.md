@@ -2,7 +2,7 @@
 legis-num: H. RES. 1630
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1630
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas thousands of these Americans serving overseas were detained and interned as prisoners of war (“POW”) or went missing in action (“MIA”) during their wartime service;
 - Whereas more than 138,000 members of the United States Armed Forces who fought in World War II, the Korean War, the Vietnam War, the Cold War, the Gulf War, and Operation Iraqi Freedom were detained or interned as POWs, many suffering and thousands dying from starvation, forced labor, and severe torture;
 - Whereas, in addition to those POWs, more than 84,000 members of the Armed Forces who served in those wars remain listed by the Department of Defense as unaccounted for;
-- Whereas there remains today members of the Armed Forces being held captive in Iraq and Afghanistan;
+- Whereas there remains today members of the Armed Forces being held in Iraq and Afghanistan;
 - Whereas these thousands of American POWs and MIAs gave an immeasurable sacrifice for their country and for the well-being of their fellow Americans;
 - Whereas their bravery and sacrifice should be forever memorialized and honored by all Americans;
 - Whereas the uncertainty, hardship, and pain endured by the families and loved ones of POWs and MIAs should not be forgotten;

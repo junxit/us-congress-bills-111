@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1630
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1630
@@ -16,7 +16,7 @@ Expressing support for National POW/MIA Recognition Day.
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (49)
+## Cosponsors (52)
 
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
@@ -67,6 +67,9 @@ Expressing support for National POW/MIA Recognition Day.
 - Rep. Linder, John [R-GA-7] (L000321)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
 ## Committees (1)
 
@@ -77,3 +80,9 @@ Expressing support for National POW/MIA Recognition Day.
 - 2010-09-16 — Introduced in House
 - 2010-09-16 — Introduced in House
 - 2010-09-16 — Referred to the House Committee on Armed Services.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7005-7006)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1630.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Critz moved to suspend the rules and agree to the resolution, as amended.
+- 2010-09-28 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7005)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7005)
