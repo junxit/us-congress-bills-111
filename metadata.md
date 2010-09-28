@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1605
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1605
@@ -16,7 +16,7 @@ Recognizing the service of the medical and air crews in helping our wounded warr
 
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 
-## Cosponsors (42)
+## Cosponsors (76)
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
@@ -60,6 +60,40 @@ Recognizing the service of the medical and air crews in helping our wounded warr
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Garamendi, John [D-CA-10] (G000559)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Schauer, Mark H. [D-MI-7] (S001178)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Kratovil, Frank,  Jr. [D-MD-1] (K000371)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
 
 ## Committees (1)
 
@@ -70,3 +104,10 @@ Recognizing the service of the medical and air crews in helping our wounded warr
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Introduced in House
 - 2010-07-30 — Referred to the House Committee on Armed Services.
+- 2010-09-16 — Referred to the Subcommittee on Military Personnel.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7002-7003)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1605.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Critz moved to suspend the rules and agree to the resolution, as amended.
+- 2010-09-28 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7002)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7002)
