@@ -1,7 +1,7 @@
 ---
 measure: S. 1338
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
