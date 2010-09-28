@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4387
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4387
@@ -32,3 +32,9 @@ To designate the Federal building located at 100 North Palafox Street in Pensaco
 - 2010-09-20 — Placed on the House Calendar, Calendar No. 237.
 - 2010-09-20 — Reported by the Committee on Transportation. H. Rept. 111-610.
 - 2010-09-20 — Reported by the Committee on Transportation. H. Rept. 111-610.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7092-7093)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4387.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Schauer moved to suspend the rules and pass the bill.
+- 2010-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7092)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7092)
