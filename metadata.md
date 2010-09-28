@@ -1,7 +1,7 @@
 ---
 measure: S. 3243
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3243
@@ -30,3 +30,8 @@ Anti-Border Corruption Act of 2010
 - 2010-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
 - 2010-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment and an amendment to the title. Without written report.
 - 2010-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 619.
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7654-7655; text as passed Senate: CR S7655)
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7654-7655; text as passed Senate: CR S7655)
+- 2010-09-28 — Received in the House.
+- 2010-09-28 — Referred to the House Committee on Homeland Security.

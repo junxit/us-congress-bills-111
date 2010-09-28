@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 3243
 
-> To require U.S. Customs and Border Protection to administer polygraph examinations to all applicants for law enforcement positions with U.S. Customs and Border Protection, to require U.S. Customs and Border Protection to complete all periodic background reinvestigations of certain law enforcement personnel, and for other purposes.
+> To require U.S. Customs and Border Protection to administer polygraph examinations to all applicants for law enforcement positions with U.S. Customs and Border Protection, to require U.S. Customs and Border Protection to initiate all periodic background reinvestigations of certain law enforcement personnel, and for other purposes.
 
 ## § 1. Short title
 
@@ -31,7 +31,7 @@ Congress makes the following findings:
 The Secretary of Homeland Security shall ensure that—
 
 - **(1)** by not later than 2 years after the date of the enactment of this Act, all applicants for law enforcement positions with U.S. Customs and Border Protection receive polygraph examinations before being hired for such a position; and
-- **(2)** by not later than 180 days after the date of the enactment of this Act, U.S. Customs and Border Protection initiates or completes all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before the date of the enactment of this Act.
+- **(2)** by not later than 180 days after the date of the enactment of this Act, U.S. Customs and Border Protection initiates all periodic background reinvestigations for all law enforcement personnel of U.S. Customs and Border Protection that should receive periodic background reinvestigations pursuant to relevant policies of U.S. Customs and Border Protection in effect on the day before the date of the enactment of this Act.
 
 ## § 4. Progress report
 
