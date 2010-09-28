@@ -1,7 +1,7 @@
 ---
 measure: S. 3243
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3243
