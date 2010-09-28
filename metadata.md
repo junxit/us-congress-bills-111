@@ -1,7 +1,7 @@
 ---
 measure: S. 2843
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2843
@@ -16,11 +16,13 @@ Advanced Vehicle Technology Act of 2010
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Bayh, Evan [D-IN] (B001233)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Advanced Vehicle Technology Act of 2010
 
 - 2009-12-07 — Introduced in Senate
 - 2009-12-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2010-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-09-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-335.
+- 2010-09-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-335.
+- 2010-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 622.
