@@ -22,7 +22,7 @@ This Act may be cited as the “Smithsonian Conservation Biology Institute Enhan
 
 ## § 3. Agreements for housing and other services
 
-- **(a)** *In general* The Board of Regents of the Smithsonian Institution is authorized to enter into agreements for the provision of housing and other services to the participants in the programs described in section 1.
+- **(a)** *In general* The Board of Regents of the Smithsonian Institution is authorized to enter into agreements for the provision of housing and other services to the participants in the programs referenced in section 2.
 - **(b)** *Costs* The housing and other services described in subsection (a) shall be provided at no cost to the Smithsonian Institution.
 
 ## § 4. Animal holding facility
