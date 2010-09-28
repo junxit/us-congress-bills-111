@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -101,7 +101,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), as so designated by paragraph (1) of this subsection, by striking “in subsection (c) of this section” and inserting “in paragraph (2) and subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(5)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 5503(d)(7) is amended by striking “September 30, 2011” and inserting “May 31, 2015”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “$3,550” and inserting “$11,830”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$4,651” and inserting “$15,493”; and | the bill names no machine-readable US Code section |

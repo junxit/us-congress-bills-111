@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3219
@@ -86,3 +86,16 @@ Veterans' Benefits Act of 2010
 - 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4672 proposed by Senator Durbin for Senator Akaka.(consideration: CR S7665; text: CR S7665)
 - 2010-09-28 — Senate amendment submitted
 - 2010-09-28 — Senate amendment submitted
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — DEBATE - The House continued with further debate on H.R. 3219.
+- 2010-09-29 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 3219.
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Filner moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H7321-7342)
+- 2010-09-29 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H7321-7330)
+- 2010-09-29 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H7321-7330)
+- 2010-10-01 — Presented to President.
+- 2010-10-01 — Presented to President.
+- 2010-10-13 — Became Public Law No: 111-275.
+- 2010-10-13 — Became Public Law No: 111-275.
+- 2010-10-13 — Signed by President.
+- 2010-10-13 — Signed by President.
