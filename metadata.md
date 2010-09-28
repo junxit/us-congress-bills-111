@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3619
@@ -159,3 +159,14 @@ Coast Guard Authorization Act of 2010
 - 2009-10-23 — The previous question was ordered pursuant to the rule. (consideration: CR H11723)
 - 2009-10-26 — Received in the Senate.
 - 2009-11-02 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
+- 2010-05-07 — Amendment SA 3912 agreed to in Senate by Unanimous Consent.
+- 2010-05-07 — Amendment SA 3912 proposed by Senator Whitehouse for Senator Cantwell. (consideration: CR S3432) To substitute the text of S. 1194, as reported by the Committee on Commerce, Science, and Transportation, with modifications.
+- 2010-05-07 — Measure laid before Senate by unanimous consent. (consideration: CR S3431-3432)
+- 2010-05-07 — Message on Senate action sent to the House.
+- 2010-05-07 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-05-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-05-07 — Senate amendment agreed to: Amendment SA 3912 agreed to in Senate by Unanimous Consent.
+- 2010-05-07 — Senate amendment proposed (on the floor): Amendment SA 3912 proposed by Senator Whitehouse for Senator Cantwell.(consideration: CR S3432)
+- 2010-05-07 — Senate amendment submitted
+- 2010-09-28 — House agreed to Senate amendment with amendments pursuant to H. Res. 1665.
+- 2010-09-28 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 1665.
