@@ -1,23 +1,27 @@
 ---
 legis-num: H.R. 3940
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3940
 
-> To amend Public Law 96–597 to clarify the authority of the Secretary of the Interior to extend grants and other assistance to facilitate political status public education programs for the peoples of the non-self-governing territories of the United States.
+That the bill from the House of Representatives (H.R. 3940) entitled “An Act to amend Public Law 96–597 to clarify the authority of the Secretary of the Interior to extend grants and other assistance to facilitate political status public education programs for the peoples of the non-self-governing territories of the United States.”, do pass with the following
 
-## § 1. Sense of Congress
+*Strike all after the enacting clause and insert the following:*
 
-Congress reaffirms that it is the responsibility of the Secretary of the Interior to advance the economic, social, and political development of the territories of the United States.
+## § 1. Sense of Congress regarding political status education in Guam
 
-## § 2. Assistance for political status public education programs
+It is the sense of Congress that the Secretary of the Interior may provide technical assistance to the Government of Guam under section 601(a) of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved December 24, 1980 (48 U.S.C. 1469d(a)), for public education regarding political status options only if the political status options are consistent with the Constitution of the United States.
 
-- **(a)** *In general* Section 601 of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved December 24, 1980 (48 U.S.C. 1469d), is amended—
-  - **(1)** by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and
-  - **(2)** by inserting after subsection (a) the following new subsection:
-    > - **(b)** The Secretary of the Interior may extend to the governments of American Samoa, Guam, and the United States Virgin Islands, and their agencies and instrumentalities, assistance, including assistance in the form of grants, research, planning assistance, studies, and agreements with Federal agencies, to facilitate public education programs regarding political status options for their respective territories.
+## § 2. Minimum wage in American samoa and the commonwealth of the northern mariana islands
 
-- **(b)** *Conforming amendment* Section 19(a)(2)(C) of the Food Stamp Act of 1977 (7 U.S.C. 2028(a)(2)(C)) is amended by striking “section 601(c) of Public Law 96–597 (48 U.S.C. 1469d(c))” and inserting “section 601(d) of Public Law 96–597 (48 U.S.C. 1469d(d))”.
+- **(a)** *Delayed effective date* Section 8103(b) of the Fair Minimum Wage Act of 2007 (29 U.S.C. 206 note) (as amended by section 520 of division D of Public Law 111–117) is amended—
+  - **(1)** in paragraph (1)(B), by inserting “(except 2011 when there shall be no increase)” after “thereafter” the second place it appears; and
+  - **(2)** in paragraph (2)(C), by striking “except that, beginning in 2010” and inserting “except that there shall be no such increase in 2010 or 2011 and, beginning in 2012”.
+- **(b)** *GAO report* Section 8104 of such Act (as amended) is amended—
+  - **(1)** by striking subsections (a) and (b) and inserting the following:
+    > - **(a)** *Report* The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103, and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2013, and every 2 years thereafter until the minimum wage in the respective territory meets the federal minimum wage.
+
+  - **(2)** by redesignating subsection (c) as subsection (b).

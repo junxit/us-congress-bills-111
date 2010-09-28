@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3940
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 19(a)(2)(C) of the Food Stamp Act of 1977 (7 U.S.C. 2028(a)(2)(C)) is amended by striking “section 601(c) of Public Law 96–597 (48 U.S.C. 1469d(c))” and inserting “section 601(d) of Public Law 96–597 (48 U.S.C. 1469d(d))”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1)(B), by inserting “(except 2011 when there shall be no increase)” after “thereafter” the second place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(C), by striking “except that, beginning in 2010” and inserting “except that there shall be no such increase in 2010 or 2011 and, beginning in 2012”. | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (b). | the bill names no machine-readable US Code section |
