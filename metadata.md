@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1345
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1345
@@ -41,3 +41,8 @@ District of Columbia Hatch Act Reform Act of 2010
 - 2009-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9298)
 - 2009-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9298)
 - 2009-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2009-10-19 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2010-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2010-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2010-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.

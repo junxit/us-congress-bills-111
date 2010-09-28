@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1345
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,6 +35,24 @@ to guess them.
 
 ### 5 U.S.C. § 1501
 
+> by striking “or municipality” and inserting “, municipality, or the District of Columbia”; and
+
+| | |
+|---|---|
+| Removed | `or municipality` |
+| Inserted | `, municipality, or the District of Columbia` |
+
+### 5 U.S.C. § 1501
+
+> by striking “or municipal” and inserting “, municipal, or the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `or municipal` |
+| Inserted | `, municipal, or the District of Columbia` |
+
+### 5 U.S.C. § 1501
+
 > by striking “services;” and inserting “services or an individual employed or holding office in the government of the District of Columbia;”.
 
 | | |
@@ -51,6 +69,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 1501` | insert | Section 1501(2) of title 5, United States Code, is amended by inserting “, or the District of Columbia, or an agency or department thereof ” before the semicolon. | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 1501` | replace | Section 1501(4) of title 5, United States Code, is amended by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1501` | insert | Section 1506(a)(2) of title 5, United States Code, is amended by inserting “(or in the case of the District of Columbia, in the District of Columbia)” after “the same State”. | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 1501` | insert | by inserting “or” at the end of subparagraph (A); | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 1501` | strike | by striking “or” at the end of subparagraph (B); | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 1501` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
