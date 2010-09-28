@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3427
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,10 +11,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “State Ethics Law Protection Act of 2009”.
+This Act may be cited as the “State Ethics Law Protection Act of 2010”.
 
 ## § 2. Pay to play reform
 
 Section 112 of title 23, United States Code, is amended by adding at the end the following:
 
-> - **(h)** *Pay To play reform* A State shall not be considered to have violated a requirement of this section solely because the State has in effect a law or an order that limits the amount of money an individual, who is doing business with a State agency with respect to a Federal-aid highway project, may contribute to a political campaign.
+> - **(h)** *Pay To play reform* A State transportation department shall not be considered to have violated a requirement of this section solely because the State in which that State transportation department is located, or a local government within that State, has in effect a law or an order that limits the amount of money an individual or entity that is doing business with a State or local agency with respect to a Federal-aid highway project may contribute to a political party, campaign, or elected official.
