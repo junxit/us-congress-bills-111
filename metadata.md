@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3219
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3219
@@ -70,3 +70,19 @@ Veterans' Benefits Act of 2010
 - 2009-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8814-8815)
 - 2009-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8814-8815)
 - 2009-07-28 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2010-09-28 — Amendment SA 4671 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Amendment SA 4671 proposed by Senator Durbin for Senator Akaka. (consideration: CR S7665) In the nature of a substitute.
+- 2010-09-28 — Amendment SA 4672 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Amendment SA 4672 proposed by Senator Durbin for Senator Akaka. (consideration: CR S7665; text: CR S7665) To amend the title.
+- 2010-09-28 — Measure laid before Senate by unanimous consent. (consideration: CR S7656-7665)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-09-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2010-09-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2010-09-28 — Senate amendment agreed to: Amendment SA 4671 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Senate amendment agreed to: Amendment SA 4672 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4671 proposed by Senator Durbin for Senator Akaka.(consideration: CR S7665)
+- 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4672 proposed by Senator Durbin for Senator Akaka.(consideration: CR S7665; text: CR S7665)
+- 2010-09-28 — Senate amendment submitted
+- 2010-09-28 — Senate amendment submitted
