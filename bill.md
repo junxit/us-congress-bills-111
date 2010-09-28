@@ -19,9 +19,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Appropriate Congressional committees* The term appropriate Congressional committees means the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate.
-- **(2)** *Center* The term Center means the Research and Development Information Center established in section 101(b).
-- **(3)** *Department* The term Department means the Department of Energy.
-- **(4)** *Rare earth materials* The term rare earth materials means any of the following chemical elements in any of their physical forms or chemical combinations:
+- **(2)** *Department* The term Department means the Department of Energy.
+- **(3)** *Rare earth materials* The term rare earth materials means any of the following chemical elements in any of their physical forms or chemical combinations:
   - **(A)** Scandium.
   - **(B)** Yttrium.
   - **(C)** Lanthanum.
@@ -39,4 +38,4 @@ In this Act:
   - **(O)** Thulium.
   - **(P)** Ytterbium.
   - **(Q)** Lutetium.
-- **(5)** *Secretary* The term Secretary means the Secretary of Energy.
+- **(4)** *Secretary* The term Secretary means the Secretary of Energy.
