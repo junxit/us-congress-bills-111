@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2378
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,18 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subtitle D of title VII of the Tariff Act of 1930 (19 U.S.C. 1677 et seq.) is amended by inserting after section 771B the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents of title VII of the Tariff Act of 1930 is amended by inserting after the item relating to section 771B the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 771(5)(D) of the Tariff Act of 1930 (19 U.S.C. 1677(5)(D)) is amended by adding at the end the following new sentence: | the bill names no machine-readable US Code section |
 | — | strike | in clause (iii), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv), by striking the period at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (iv) the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 771(5A)(B) of the Tariff Act of 1930 (19 U.S.C. 1677(5A)(B)) is amended by adding at the end the following new sentence: “For purposes of this subparagraph, a fundamentally and actionably undervalued currency (as determined under… | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (B) by striking “and” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A) by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking the period at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | strike | in clause (v), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (vi) as clause (vii); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (v) the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 771(5A)(B) of the Tariff Act of 1930 (19 U.S.C. 1677(5A)(B)) is amended by adding at the end the following new sentence: “In the case of a subsidy relating to a fundamentally undervalued currency, the fact that the subsidy may al… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677), as amended by subsection (c) of this section, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
