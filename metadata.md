@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5566
@@ -16,7 +16,7 @@ Animal Crush Video Prohibition Act of 2010
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
-## Cosponsors (262)
+## Cosponsors (268)
 
 - Rep. Peters, Gary C. [D-MI-9] (P000595)
 - Rep. Moran, James P. [D-VA-8] (M000933)
@@ -280,6 +280,12 @@ Animal Crush Video Prohibition Act of 2010
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Walden, Greg [R-OR-2] (W000791)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (2)
 
@@ -310,3 +316,14 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 459).(text: 7/20/2010 CR H5788-5789)
 - 2010-07-22 — Received in the Senate.
 - 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
+- 2010-09-28 — Amendment SA 4668 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Amendment SA 4668 proposed by Senator Durbin for Senator Kyl. (consideration: CR S7654; text: CR S7654) In the nature of a substitute.
+- 2010-09-28 — Measure laid before Senate by unanimous consent. (consideration: CR S7653-7654)
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-09-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-09-28 — Senate amendment agreed to: Amendment SA 4668 agreed to in Senate by Unanimous Consent.
+- 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4668 proposed by Senator Durbin for Senator Kyl.(consideration: CR S7654; text: CR S7654)
+- 2010-09-28 — Senate amendment submitted
