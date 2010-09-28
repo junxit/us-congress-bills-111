@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 679
@@ -30,3 +30,8 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009
 - 2009-03-24 — Introduced in Senate
 - 2009-03-24 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3670-3671)
 - 2009-03-24 — Sponsor introductory remarks on measure. (CR S3670)
+- 2010-06-15 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 111-699.
+- 2010-08-05 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2010-09-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-334.
+- 2010-09-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-334.
+- 2010-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.
