@@ -1,7 +1,7 @@
 ---
 measure: S. 3802
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3802
@@ -20,9 +20,10 @@ Mount Stevens and Ted Stevens Icefield Designation Act
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Mount Stevens and Ted Stevens Icefield Designation Act
 - 2010-09-27 — Senate amendment agreed to: Amendment SA 4666 agreed to in Senate by Unanimous Consent.
 - 2010-09-27 — Senate amendment proposed (on the floor): Amendment SA 4666 proposed by Senator Casey for Senator Murkowski.(consideration: CR S7559-7560; text: CR S7559-7560)
 - 2010-09-27 — Senate amendment submitted
+- 2010-09-28 — Message on Senate action sent to the House.
+- 2010-09-28 — Received in the House.
+- 2010-09-28 — Referred to the House Committee on Natural Resources.
