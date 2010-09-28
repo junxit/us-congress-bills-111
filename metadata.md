@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3619
@@ -170,3 +170,28 @@ Coast Guard Authorization Act of 2010
 - 2010-05-07 — Senate amendment submitted
 - 2010-09-28 — House agreed to Senate amendment with amendments pursuant to H. Res. 1665.
 - 2010-09-28 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 1665.
+- 2010-09-29 — Amendment SA 4684 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Amendment SA 4684 proposed by Senator Cantwell. (consideration: CR S7718-7719; text: CR S7718) To make certain conforming amendments.
+- 2010-09-29 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2010-09-29 — Resolving differences -- Senate actions: Senate agreed to the House Amendment to the title by Unanimous Consent.
+- 2010-09-29 — Resolving differences -- Senate actions: Senate concurred in House amendment with amendments (SA 4684) by Unanimous Consent.(consideration: CR S7718-7719, S7730-7731)
+- 2010-09-29 — Senate agreed to the House Amendment to the title by Unanimous Consent.
+- 2010-09-29 — Senate amendment agreed to: Amendment SA 4684 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4684 proposed by Senator Cantwell.(consideration: CR S7718-7719; text: CR S7718)
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — Senate concurred in House amendment with amendments (SA 4684) by Unanimous Consent. (consideration: CR S7718-7719, S7730-7731)
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — Mr. Oberstar asked unanimous consent that the House agree to the Senate amendments to the House amendments to the Senate amendment. (consideration: CR H7383-7384)
+- 2010-09-30 — On motion that the House agree to the Senate amendments to the House amendment to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendments to House amendment to Senate amendment: CR H7383-7384)
+- 2010-09-30 — On motion that the House agree to the Senate amendments to the House amendments to the Senate amendment Agreed to without objection.
+- 2010-09-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments to the House amendment to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendments to House amendment to Senate amendment: CR H7383-7384)
+- 2010-09-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments to the House amendments to the Senate amendment Agreed to without objection.
+- 2010-10-04 — Presented to President.
+- 2010-10-04 — Presented to President.
+- 2010-10-15 — Became Public Law No: 111-281.
+- 2010-10-15 — Became Public Law No: 111-281.
+- 2010-10-15 — Signed by President.
+- 2010-10-15 — Signed by President.

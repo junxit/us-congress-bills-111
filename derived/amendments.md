@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -384,7 +384,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or” after the semicolon in subparagraph (B); | the bill names no machine-readable US Code section |
 | — | replace | by striking “faith; or” in subparagraph (C) and inserting “faith.”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (D). | the bill names no machine-readable US Code section |
-| — | amend | Section 2237(b) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (b) of section 2237 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).” and inserting “section 70502 of title 46; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

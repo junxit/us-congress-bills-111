@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3619
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3619
 
-That the House agree to the amendment of the Senate to the bill (H.R. 3619) entitled “An Act to authorize appropriations for the Coast Guard for fiscal year 2010, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To authorize appropriations for the Coast Guard for fiscal year 2011, and for other purposes.
 
 ## § 1. Short title; table of contents
 
