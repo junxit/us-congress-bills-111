@@ -1,35 +1,46 @@
 ---
 legis-num: H.R. 3960
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3960
 
-> To provide authority and sanction for the granting and issuance of programs for residential and commuter toll, user fee and fare discounts by States, municipalities, other localities, as well as all related agencies and departments thereof, and for other purposes.
+> To clarify the existing authority of, and as necessary provide express authorization for, public authorities to offer discounts in transportation tolls to captive tollpayers, and for other purposes.
 
-## § 1. Short title; findings
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “The Residential and Commuter Toll Fairness Act of 2009”.
-- **(b)** *Findings* Congress finds the following:
-  - **(1)** Residents of, or commuters residing in, various localities and political subdivisions throughout the United States are subject to pay tolls, user fees and fares to access certain roads, highways, bridges, rail, bus, ferry or other transportation systems.
-  - **(2)** Revenue generated from transportation tolls, user fees and fares is used to support various infrastructure maintenance and capital improvement projects that benefit not only the users of these facilities, but the regional and national economy as well.
-  - **(3)** Due to specific geographic factors, as well as the location of access points to roads, highways, bridges, rail, bus, ferry or other transportation systems, residents of, or commuters residing in, certain municipalities, counties or other localities or subdivisions thereof are forced to endure significant or undue toll burdens when compared with residents of, or commuters residing in, other areas who can choose among a greater number of transportation options.
-  - **(4)** Residents of, or commuters residing in, certain municipalities, counties or other localities or subdivisions thereof that endure significant or undue toll, user fee or fare burdens often are residents of, or commuters residing in, islands, peninsulas, or other places that have no other way of accessing those areas other than through a means that requires them to pay a toll, user fee or fare.
-  - **(5)** Residents of, or commuters residing in, certain municipalities, counties or other localities or subdivisions thereof that endure significant or undue toll, user fee or fare burdens often pay far more for transportation access than residents of surrounding jurisdictions, or in jurisdictions across the country, for similar transportation options.
-  - **(6)** To address this inequality, and to reduce the financial hardship often imposed on residents of, or commuters residing in certain municipalities, counties or other localities or subdivisions thereof that endure significant or undue toll burdens, several State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as bi-State or multi-State transportation authorities or agencies, have developed and implemented programs to issue or grant discounted tolls, user fees or fares to these residents and commuters.
-  - **(7)** Transportation toll, user fee or fare discount programs issued based on residential status do not discriminate against those individuals who do not receive these discounts, but instead address actual unequal and undue financial burdens placed on residents of, or commuters residing in, certain jurisdictions that have no other way of accessing those areas other than through a means that requires them to pay a toll, user fee or fare.
-  - **(8)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, in order to alleviate significant or undue toll burdens for residents or particular jurisdictions, do not disadvantage or discriminate against those individuals ineligible for residential toll, user fee or fare discount programs.
-  - **(9)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, in order to alleviate significant or undue toll burdens for residents or particular jurisdictions, are not designed to favor the interests, promote the domestic industry or the economic development of the State implementing these programs.
-  - **(10)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, do not interfere or impose undue burdens on commerce with foreign nations, nor do they interfere or impose any undue burdens on commerce among the several States, or commerce within particular States.
-  - **(11)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, do not interfere or impose undue burdens on the ability of individuals to travel among, or within, the several States.
-  - **(12)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, do not constitute inequitable treatment nor do they deny any person within the jurisdiction of the United States the equal protection of the laws.
-  - **(13)** Transportation toll, user fee or fare discount programs issued based on residential status by State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions thereof, as well as all bi-State or multi-State transportation authorities or agencies, do not in any way abridge the privileges or immunities of citizens of the United States.
-  - **(14)** The Residential and Commuter Toll Fairness Act of 2009 seeks to provide clarification of the existing authority of, and where necessary to provide express Congressional authorization for, State and municipal governments, as well as agencies, departments, bureaus, offices, or subdivisions divisions thereof, as well as all bis-tate or multi-State transportation authorities or agencies, to issue or grant transportation toll, user fee or fare discount programs based on residential status.
+This Act may be cited as the “Residential and Commuter Toll Fairness Act of 2010”.
 
-## § 2. Authorization of local residential or commuter toll, user fee or fare discount programs
+## § 2. Findings
 
-- **(a)** *Authority To provide residential or commuter toll, user fee or fare discount programs* State and municipal governments, as well as all agencies, departments, bureaus, offices, or subdivisions divisions thereof empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems, as well as all bi-State or multi-State transportation authorities or agencies empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems, shall each be authorized to design and implement programs to issue or grant reductions or discounts in tolls, user fees, or other transportation fares to residents of, or commuters residing in, specific localities, municipalities or subdivisions thereof in order to reduce or alleviate toll burdens imposed upon residents of, or commuters residing in, those areas.
-- **(b)** *Rulemaking with respect to the state, local, or agency provision of toll, user fee or fare discount programs to local residents or commuters* State and municipal governments, as well as all agencies, departments, bureaus, offices, or subdivisions thereof empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems, as well as all bi-State or multi-State transportation authorities or agencies empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems, shall each be authorized to enact such rules or regulations that may be necessary to carry out the authority provided in subsection (a).
-- **(c)** *Rule of construction* Nothing in this Act shall be construed as limiting in any way or otherwise interfering with existing authority of State and municipal governments, as well as all agencies, departments, bureaus, offices, or subdivisions divisions thereof empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems, as well as all bi-State or multi-State transportation authorities or agencies empowered to operate or manage roads, highways, bridges, rail, bus, ferry, or other transportation systems as of the enactment date of this Act.
+Congress finds the following:
+
+- **(1)** Residents of, and regular commuters to, certain localities in the United States are subject to a transportation toll when using a transportation facility to access or depart the locality.
+- **(2)** Revenue generated from these tolls is sometimes used to support infrastructure maintenance and capital improvement projects that benefit not only the users of these transportation facilities, but the regional and national economy as well.
+- **(3)** Certain localities in the United States are situated on islands, peninsulas, or other areas in which transportation access is substantially constrained by geography, sometimes leaving residents of, or regular commuters to, these localities with no reasonable means of accessing or departing their neighborhood or place of employment without paying a transportation toll.
+- **(4)** Residents of, or regular commuters to, these localities often pay far more for transportation access than residents of, and commuters to, other areas for similar transportation options, and these increased transportation costs can impose a significant and unfair burden on these residents and commuters.
+- **(5)** To address this inequality, and to reduce the financial hardship often imposed on captive tollpayers, several public authorities have developed and implemented programs to provide discounts in transportation tolls.
+
+## § 3. Purpose
+
+The purpose of this Act is to clarify the existing authority of, and as necessary provide express authorization for, public authorities to offer discounts in transportation tolls to captive tollpayers.
+
+## § 4. Transportation tolls
+
+- **(a)** *Authority To provide discounts* A public authority is authorized to carry out a program that offers discounts in transportation tolls to captive tollpayers.
+- **(b)** *Limitations on statutory construction* Nothing in this Act may be construed to—
+  - **(1)** limit any other authority of a public authority, including the authority to offer discounts in transportation tolls to other tollpayers; or
+  - **(2)** affect, alter, or limit the applicability of a State or local law with respect to the authority of a public authority to impose toll discounts.
+
+## § 5. Definitions
+
+In this Act, the following definitions apply:
+
+- **(1)** *Captive tollpayer* The term “captive tollpayer” means an individual who—
+  - **(A)** is a resident of, or regular commuter to, a locality in the United States that is situated on an island, peninsula, or other area where transportation access is substantially constrained by geography; and
+  - **(B)** is subject to a transportation toll when using a transportation facility to access or depart the locality.
+- **(2)** *Public authority* The term “public authority” has the meaning given that term by section 101 of title 23, United States Code.
+- **(3)** *Transportation facility* The term “transportation facility” includes a road, highway, bridge, rail, bus, or ferry facility.
+- **(4)** *Transportation toll* The term “transportation toll” means a toll or fare required for use of a transportation facility.
