@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1421
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1421
@@ -33,3 +33,9 @@ Recognizing the 40th anniversary of the Apollo 13 mission and the heroic actions
 - 2010-05-28 — Introduced in House
 - 2010-05-28 — Introduced in House
 - 2010-05-28 — Referred to the House Committee on Science and Technology.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7059-7060)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1421.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mr. Gordon (TN) moved to suspend the rules and agree to the resolution.
+- 2010-09-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7060)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7060)
