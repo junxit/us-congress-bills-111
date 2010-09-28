@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1636
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1636
@@ -16,7 +16,7 @@ Celebrating the 75th anniversary of the Hoover Dam.
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Cosponsors (23)
+## Cosponsors (29)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
@@ -41,6 +41,12 @@ Celebrating the 75th anniversary of the Hoover Dam.
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
 
 ## Committees (1)
 
@@ -51,3 +57,9 @@ Celebrating the 75th anniversary of the Hoover Dam.
 - 2010-09-16 — Introduced in House
 - 2010-09-16 — Introduced in House
 - 2010-09-16 — Referred to the House Committee on Natural Resources.
+- 2010-09-28 — Considered under suspension of the rules. (consideration: CR H7007-7008)
+- 2010-09-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1636.
+- 2010-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-28 — Mrs. Napolitano moved to suspend the rules and agree to the resolution.
+- 2010-09-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7007)
+- 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7007)
