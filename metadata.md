@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6132
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6132
@@ -45,3 +45,4 @@ Veterans Benefits and Economic Welfare Improvement Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 370.
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-630.
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-630.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

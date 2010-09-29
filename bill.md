@@ -2,7 +2,7 @@
 legis-num: H.R. 6132
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6132
@@ -28,7 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(D)**
   >       - **(i)** has been unemployed for at least 90 days during the 180-day period preceding the date of application for the program established under this section; or
   >       - **(ii)** during such 180-day period received a maximum hourly rate of pay of not more than 150 percent of the Federal minimum wage.
-  > - **(b)** *Apprenticeship or on-the-job training program* The program established under this section shall provide for payments to employers who provide for eligible veterans a program of apprenticeship or on-the-job training if—
+  > - **(b)** *Apprenticeship or on-the-Job training program* The program established under this section shall provide for payments to employers who provide for eligible veterans a program of apprenticeship or on-the-job training if—
   >   - **(1)** such program is approved as provided in paragraph (1) or (2) of section 3687(a) of this title;
   >   - **(2)** the rate of pay for veterans participating in the program is not less than the rate of pay for nonveterans in similar jobs; and
   >   - **(3)** the Assistant Secretary of Labor for Veterans’ Employment and Training reasonably expects that—
@@ -52,7 +52,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Conforming amendments*
   - **(1)** Subsection (a)(1) of section 3034 of such title is amended by striking “and 3687” and inserting “3687, and 4115”.
   - **(2)** Subsections (a)(1) and (c) of section 3241 of such title are each amended by striking “section 3687” and inserting “sections 3687 and 4115”.
-  - **(3)** Subsection (d)(1) of section 3672 of such title is amended by striking “and 3687” and inserting “, 3687, and 4115”.
+  - **(3)** Subsection (d)(1) of section 3672 of such title is amended by striking “and 3687” and inserting “3687, and 4115”.
   - **(4)** Paragraph (3) of section 4102A(b) of such title is amended by striking “section 3687” and inserting “section 3687 or 4115”.
 - **(d)** *Effective date* The amendments made by this section shall take effect on the date that is one year after the date of the enactment of this Act.
 
@@ -127,11 +127,6 @@ Section 5317 of title 38, United States Code, is amended by striking “Septembe
 
 Section 1562(a) of title 38, United States Code, is amended by striking “$1,000” and inserting “$2,000”.
 
-## § 9. Conditions for treatment of certain persons as adjudicated mentally incompetent
+## § 9. Compliance with Statutory Pay-As-You-Go Act of 2010
 
-- **(a)** *In general* Chapter 55 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 5511. Conditions for treatment of certain persons as adjudicated mentally incompetent
-  >
-  > In any case arising out of the administration by the Secretary of laws and benefits under this title, a person who is mentally incapacitated, deemed mentally incompetent, or experiencing an extended loss of consciousness shall not be considered adjudicated as a mental defective for any purpose without the order or finding of a judge, magistrate, or other judicial authority of competent jurisdiction that such person is a danger to himself or herself or others.
-
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 55 of such title is amended by adding at the end the following new item:
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
