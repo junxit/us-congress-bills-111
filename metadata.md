@@ -1,7 +1,7 @@
 ---
 measure: S. 3397
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3397
@@ -60,3 +60,9 @@ Secure and Responsible Drug Disposal Act of 2010
 - 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7316)
 - 2010-09-29 — Resolving differences -- Senate actions: Senate concurred in House Amendment to Senate bill by Unanimous Consent.(consideration: CR S7770; text as Senate agreed to House amendment in Senate: CR S7770)
 - 2010-09-29 — Senate concurred in House Amendment to Senate bill by Unanimous Consent. (consideration: CR S7770; text as Senate agreed to House amendment in Senate: CR S7770)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-10-12 — Became Public Law No: 111-273.
+- 2010-10-12 — Became Public Law No: 111-273.
+- 2010-10-12 — Signed by President.
+- 2010-10-12 — Signed by President.

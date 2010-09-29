@@ -1,7 +1,7 @@
 ---
 measure: S. 3397
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
