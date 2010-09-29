@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5591
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5591
@@ -16,9 +16,10 @@ To designate the airport traffic control tower located at Spokane International 
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,15 @@ To designate the airport traffic control tower located at Spokane International 
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7093)
 - 2010-09-28 — The title of the measure was amended. Agreed to without objection.
 - 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2010-12-09 — Cleared for White House.
+- 2010-12-09 — Passed Senate without amendment by Unanimous Consent.
+- 2010-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S8690)
+- 2010-12-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S8690)
+- 2010-12-10 — Message on Senate action sent to the House.
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-326.
+- 2010-12-22 — Became Public Law No: 111-326.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
