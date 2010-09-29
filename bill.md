@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2378
 
-> To amend title VII of the Tariff Act of 1930 to clarify that fundamental exchange-rate misalignment by any foreign nation is actionable under United States countervailing and antidumping duty laws, and for other purposes.
+> To amend title VII of the Tariff Act of 1930 to clarify that countervailing duties may be imposed to address subsidies relating to a fundamentally undervalued currency of any foreign country.
 
 ## § 1. Short title
 

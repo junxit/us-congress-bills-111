@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2378
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2378
@@ -182,6 +182,10 @@ Currency Reform for Fair Trade Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2010-09-29 — [House 111-2-554](votes/house-111-2-0554.md) — On Passage — **Passed** (348–79)
+
 ## Actions
 
 - 2009-05-13 — Introduced in House
@@ -190,3 +194,15 @@ Currency Reform for Fair Trade Act
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 386.
 - 2010-09-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-646.
 - 2010-09-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 111-646.
+- 2010-09-29 — Considered under the provisions of rule H. Res. 1674. (consideration: CR H7259-7273)
+- 2010-09-29 — DEBATE - Pursuant to the provisions of H.Res. 1674, the House proceeded with one hour of debate on H.R. 2378, as amended.
+- 2010-09-29 — House amendment offered
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — On passage Passed by recorded vote: 348 - 79 (Roll no. 554). (text: CR H7259-7260)
+- 2010-09-29 — Passed/agreed to in House: On passage Passed by recorded vote: 348 - 79 (Roll no. 554).(text: CR H7259-7260)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2010-09-29 — Rule H. Res. 1674 passed House.
+- 2010-09-29 — Rule provides for consideration of H.R. 847 and H.R. 2378. With respect to H.R. 847, the rule grants a closed rule providing one hour of debate in the House, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means.
+- 2010-09-29 — Rules Committee Resolution H. Res. 1674 Reported to House. Rule provides for consideration of H.R. 847 and H.R. 2378. With respect to H.R. 847, the rule grants a closed rule providing one hour of debate in the House, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means.
+- 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7272)
+- 2010-09-29 — The title of the measure was amended. Agreed to without objection.
