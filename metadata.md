@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4543
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4543
@@ -101,3 +101,10 @@ To designate the facility of the United States Postal Service located at 4285 Pa
 - 2010-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7764)
 - 2010-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7764)
 - 2010-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-10-01 — Presented to President.
+- 2010-10-01 — Presented to President.
+- 2010-10-13 — Became Public Law No: 111-276.
+- 2010-10-13 — Became Public Law No: 111-276.
+- 2010-10-13 — Signed by President.
+- 2010-10-13 — Signed by President.
