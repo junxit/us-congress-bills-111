@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3081
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3081
@@ -24,7 +24,7 @@ Continuing Appropriations Act, 2011
 
 - House — Appropriations Committee
 
-## Recorded votes (14)
+## Recorded votes (15)
 
 - 2009-07-09 — [House 111-1-516](votes/house-111-1-0516.md) — On Agreeing to the Amendment — **Agreed to** (261–168)
 - 2009-07-09 — [House 111-1-517](votes/house-111-1-0517.md) — On Agreeing to the Amendment — **Failed** (156–271)
@@ -40,6 +40,7 @@ Continuing Appropriations Act, 2011
 - 2010-09-29 — [Senate 111-2-245](votes/senate-111-2-0245.md) — On the Amendment — **Amendment Rejected** (48–51)
 - 2010-09-29 — [Senate 111-2-246](votes/senate-111-2-0246.md) — On the Amendment — **Amendment Rejected** (39–60)
 - 2010-09-29 — [Senate 111-2-247](votes/senate-111-2-0247.md) — On Passage of the Bill — **Bill Passed** (69–30)
+- 2010-09-30 — [House 111-2-564](votes/house-111-2-0564.md) — On Motion to Concur in the Senate Amendments — **Passed** (228–194)
 
 ## Actions
 
@@ -173,3 +174,13 @@ Continuing Appropriations Act, 2011
 - 2010-09-29 — Senate amendment submitted
 - 2010-09-29 — Senate amendment submitted
 - 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7376)
+- 2010-09-30 — Became Public Law No: 111-242.
+- 2010-09-30 — Became Public Law No: 111-242.
+- 2010-09-30 — Cleared for White House.
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion that the House agree to the Senate amendments Agreed to by recorded vote: 228 - 194 (Roll no. 564). (text as House agreed to Senate amendments: CR H7372-7375)
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Presented to President.
+- 2010-09-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by recorded vote: 228 - 194 (Roll no. 564).(text as House agreed to Senate amendments: CR H7372-7375)
+- 2010-09-30 — Signed by President.
+- 2010-09-30 — Signed by President.

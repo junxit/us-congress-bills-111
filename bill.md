@@ -1,15 +1,15 @@
 ---
 legis-num: H.R. 3081
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3081
 
-That the bill from the House of Representatives (H.R. 3081) entitled “An Act making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2010, and for other purposes.”, do pass with the following
+> Making continuing appropriations for fiscal year 2011, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
+That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2011, and for other purposes, namely:
 
 ## § 101.
 
@@ -245,3 +245,5 @@ Notwithstanding any other provision of law or of this Act, for mortgages for whi
 
 - **(a)** *Loan limit floor based on 2008 levels* For mortgages originated during fiscal year 2011, if the limitation on the maximum original principal obligation of a mortgage that may be purchased by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation determined under section 302(b)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)(2)) or section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1754(a)(2)) respectively, for any size residence for any area is less than such maximum original principal obligation limitation that was in effect for such size residence for such area for 2008 pursuant to section 201 of the Economic Stimulus Act of 2008 (Public Law 110–185; 122 Stat. 619), notwithstanding any other provision of law or of this Act, the limitation on the maximum original principal obligation of a mortgage for such Association and Corporation for such size residence for such area shall be such maximum limitation in effect for such size residence for such area for 2008.
 - **(b)** *Discretionary authority for sub-areas* Notwithstanding any other provision of law or of this Act, if the Director of the Federal Housing Finance Agency determines, for any geographic area that is smaller than an area for which limitations on the maximum original principal obligation of a mortgage are determined for the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, that a higher such maximum original principal obligation limitation is warranted for any particular size or sizes of residences in such sub-area by higher median home prices in such sub-area, the Director may, for mortgages originated during fiscal year 2011, increase the maximum original principal obligation limitation for such size or sizes of residences for such sub-area that is otherwise in effect (including pursuant to subsection (a) of this section) for such Association and Corporation, but in no case to an amount that exceeds the amount specified in the matter following the comma in section 201(a)(l)(B) of the Economic Stimulus Act of 2008.
+
+This Act may be cited as the “Continuing Appropriations Act, 2011”.
