@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 74
 congress: 111
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 74
