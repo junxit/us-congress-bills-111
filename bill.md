@@ -18,5 +18,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Congress expresses support for—
 
-- **(1)** the designation of March 20 as a National Day of Recognition for Long-Term Care Physicians; and
+- **(1)** the designation of March 20, 2010 as a National Day of Recognition for Long-Term Care Physicians; and
 - **(2)** the goals and ideals of a National Day of Recognition for Long-Term Care Physicians.
