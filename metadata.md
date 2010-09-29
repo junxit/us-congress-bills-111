@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4347
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4347
@@ -55,3 +55,5 @@ Department of the Interior Tribal Self-Governance Act of 2010
 - 2010-09-22 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
 - 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6814-6820)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6814-6820)
+- 2010-09-23 — Received in the Senate.
+- 2010-09-29 — Read twice and referred to the Committee on Indian Affairs.
