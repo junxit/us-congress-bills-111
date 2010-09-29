@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3787
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3787
@@ -87,3 +87,4 @@ To amend title 38, United States Code, to recognize the service in the reserve c
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-625.
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-625.
 - 2010-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
