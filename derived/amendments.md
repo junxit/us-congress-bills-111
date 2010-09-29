@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -38,7 +38,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “the Federal Emergency” and all that follows through “Agency, and”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “appropriate shall” and inserting “appropriate, shall”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (2), by striking “in the case” and all that follows through “subsection,” | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “in the case” and all that follows through “subsection,”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (1); and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (d) and (e); and | the bill names no machine-readable US Code section |

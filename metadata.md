@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6160
@@ -29,6 +29,10 @@ Rare Earths and Critical Materials Revitalization Act of 2010
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2010-09-29 — [House 111-2-555](votes/house-111-2-0555.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (325–98)
+
 ## Actions
 
 - 2010-09-22 — Introduced in House
@@ -41,3 +45,8 @@ Rare Earths and Critical Materials Revitalization Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 384.
 - 2010-09-28 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-644.
 - 2010-09-28 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-644.
+- 2010-09-29 — Considered as unfinished business. (consideration: CR H7273)
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 98 (Roll no. 555). (text: CR 9/28/2010 H7060-7061)
+- 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 98 (Roll no. 555).(text: CR 9/28/2010 H7060-7061)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
