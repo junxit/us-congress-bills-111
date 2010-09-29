@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3081
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3081
@@ -16,11 +16,15 @@ Continuing Appropriations Act, 2011
 
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
+## Cosponsors (1)
+
+- Sen. Nelson, Bill [D-FL] (N000032)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (10)
+## Recorded votes (14)
 
 - 2009-07-09 — [House 111-1-516](votes/house-111-1-0516.md) — On Agreeing to the Amendment — **Agreed to** (261–168)
 - 2009-07-09 — [House 111-1-517](votes/house-111-1-0517.md) — On Agreeing to the Amendment — **Failed** (156–271)
@@ -32,6 +36,10 @@ Continuing Appropriations Act, 2011
 - 2009-07-09 — [House 111-1-523](votes/house-111-1-0523.md) — Table Appeal of the Ruling of the Chair — **Passed** (238–180)
 - 2009-07-09 — [House 111-1-524](votes/house-111-1-0524.md) — On Motion to Recommit with Instructions — **Failed** (192–233)
 - 2009-07-09 — [House 111-1-525](votes/house-111-1-0525.md) — On Passage — **Passed** (318–106)
+- 2010-09-28 — [Senate 111-2-243](votes/senate-111-2-0243.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–14)
+- 2010-09-29 — [Senate 111-2-245](votes/senate-111-2-0245.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2010-09-29 — [Senate 111-2-246](votes/senate-111-2-0246.md) — On the Amendment — **Amendment Rejected** (39–60)
+- 2010-09-29 — [Senate 111-2-247](votes/senate-111-2-0247.md) — On Passage of the Bill — **Bill Passed** (69–30)
 
 ## Actions
 
@@ -126,3 +134,42 @@ Continuing Appropriations Act, 2011
 - 2009-07-09 — The previous question was ordered pursuant to the rule. (consideration: CR H7914)
 - 2009-07-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-07-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
+- 2010-09-24 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S7454; text: CR S7454)
+- 2010-09-24 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7454)
+- 2010-09-28 — Cloture on the motion to proceed to the bill invoked in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 243. (consideration: CR S7585; text: CR S7585)
+- 2010-09-29 — Amendment SA 4674 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Amendment SA 4674 proposed by Senator Inouye. (consideration: CR S7705-7706) In the nature of a substitute.
+- 2010-09-29 — Amendment SA 4676 proposed by Senator Thune to Amendment SA 4674. (consideration: CR S7706-7709, S7714; text: CR S7706-7707) To reduce spending other than national security spending by 5 percent.
+- 2010-09-29 — Amendment SA 4676 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 245. (consideration: CR S7714)
+- 2010-09-29 — Amendment SA 4677 proposed by Senator DeMint to Amendment SA 4674. (consideration: CR S7709-7714, S7715) To extend funding at the level provided until February 4, 2011.
+- 2010-09-29 — Amendment SA 4677 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 246. (consideration: CR S7715)
+- 2010-09-29 — Amendment SA 4682 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Amendment SA 4682 proposed by Senator Inouye. (consideration: CR S7715) To amend the title.
+- 2010-09-29 — DEBATE - The House proceeded with 1 hour of debate on the motion to agree in the Senate amendments to H.R. 3081.
+- 2010-09-29 — Measure laid before Senate by unanimous consent. (consideration: CR S7703-7715)
+- 2010-09-29 — Message on Senate action sent to the House.
+- 2010-09-29 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Motion to proceed to measure considered in Senate. (consideration: CR S7693-7703)
+- 2010-09-29 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 69 - 30. Record Vote Number: 247.
+- 2010-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 69 - 30. Record Vote Number: 247.
+- 2010-09-29 — Proposed amendment SA 4676 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was withdrawn in Senate. (consideration: CR S7714)
+- 2010-09-29 — Proposed amendment SA 4677 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was withdrawn in Senate. (consideration: CR S7715)
+- 2010-09-29 — Pursuant to the provisions of H. Res. 1682, the House moved to agree to the Senate amendments. (consideration: CR H7372-7377)
+- 2010-09-29 — Roll call votes on amendments in Senate: Amendment SA 4676 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 245.(consideration: CR S7714)
+- 2010-09-29 — Roll call votes on amendments in Senate: Amendment SA 4677 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 246.(consideration: CR S7715)
+- 2010-09-29 — Rule H. Res. 1682 passed House.
+- 2010-09-29 — Rules Committee Resolution H. Res. 1682 Reported to House. Upon the adoption of the resolution it shall be in order for the Chairman of the Committee on Appropriations to make a motion that the House concur in the amendments of the Senate to H.R. 3081. The motion shall be debatable for one hour equally divided and controlled.
+- 2010-09-29 — Senate amendment agreed to: Amendment SA 4674 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Senate amendment agreed to: Amendment SA 4682 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Senate amendment not agreed to: Amendment SA 4676 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 245.(consideration: CR S7714)
+- 2010-09-29 — Senate amendment not agreed to: Amendment SA 4677 under the order of 9/29/2010, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 246.(consideration: CR S7715)
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4674 proposed by Senator Inouye.(consideration: CR S7705-7706)
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4676 proposed by Senator Thune to Amendment SA 4674.(consideration: CR S7706-7709, S7714; text: CR S7706-7707)
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4677 proposed by Senator DeMint to Amendment SA 4674.(consideration: CR S7709-7714, S7715)
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4682 proposed by Senator Inouye.(consideration: CR S7715)
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — Senate amendment submitted
+- 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7376)
