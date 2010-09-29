@@ -1,7 +1,7 @@
 ---
 measure: S. 2989
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+47 amendatory instructions. 0 executed, 47 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,3 +53,28 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by striking “Administrator of the Office of Federal Procurement Policy” each place it appears and inserting “Administrator for Federal Procurement Policy”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 44 as section 45; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 43 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8 of the Small Business Act (15 U.S.C. 637) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(A)” after “(2)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Goals established” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Whenever” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “For the purpose of” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The head of each Federal agency, in attempting to attain such participation” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(A) contracts” and inserting “(i) contracts”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(B) contracts” and inserting “(ii) contracts”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | The Business Opportunity Development Reform Act of 1988 (Public Law 100–656) is amended by striking title VII (15 U.S.C. 644 note). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3 of the Small Business Act (15 U.S.C. 632), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of the Small Business Act (15 U.S.C. 631) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 15(h)(2) of the Small Business Act (15 U.S.C. 644(h)(2)) is amended by striking “submit them” and all that follows through “the following:” and inserting “submit to the President and the Committee on Small Business and Entreprene… | the bill names no machine-readable US Code section |
+| — | repeal | Section 508(f) of division A of the American Recovery and Reinvestment Act of 2009 (15 U.S.C. 694a note) is repealed. | the bill names no machine-readable US Code section |
