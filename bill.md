@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5993
 
-> To amend title 38, United States Code, to ensure that beneficiaries of Servicemembers’ Group Life Insurance receive financial counseling and disclosure information regarding life insurance payments, and for other purposes.
+> To amend title 38, United States Code, to ensure that beneficiaries of Servicemembers' Group Life Insurance receive financial counseling and disclosure information regarding life insurance payments, and for other purposes.
 
 ## § 1. Short title
 
@@ -20,22 +20,23 @@ This Act may be cited as the “Securing America’s Veterans Insurance Needs an
     > - **(e)**
     >   - **(1)** In order to be an eligible life insurance company under this section, a life insurance company shall—
     >     - **(A)** make available, both orally and in writing, financial counseling to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) of this title; and
-    >     - **(B)** at the time that such beneficiary or other person entitled to payment establishes a valid claim under section 1970(a), provide to such beneficiary or other person the disclosures described in paragraph (2).
+    >     - **(B)** at the time that such beneficiary or other person entitled to payment establishes a valid claim under section 1970(a) of this title, provide to such beneficiary or other person the disclosures described in paragraph (2).
     >   - **(2)** The disclosures provided pursuant to paragraph (1)(B) shall—
     >     - **(A)** be provided both orally and in writing; and
     >     - **(B)** include information with respect to the payment of the claim, including—
     >       - **(i)** an explanation of the methods available to receive such payment, including—
-    >         - **(I)** allowing the insurance company to maintain the payment;
-    >         - **(II)** lump-sum payment; and
-    >         - **(III)** any alternative methods;
-    >       - **(ii)** an explanation that any such payment that is maintained by the life insurance company is not insured by the Federal Deposit Insurance Corporation;
-    >       - **(iii)** an explanation that interest earned on any such payment that is maintained by the life insurance company will be comparable to on-demand account interest rates; and
+    >         - **(I)** receipt of a lump-sum payment;
+    >         - **(II)** allowing the insurance company to maintain the lump-sum payment;
+    >         - **(III)** receipt of thirty-six equal monthly installments; and
+    >         - **(IV)** any alternative methods;
+    >       - **(ii)** an explanation that any such payment that is maintained by the life insurance company or paid in thirty-six equal monthly installments by the company is not insured by the Federal Deposit Insurance Corporation;
+    >       - **(iii)** an explanation of the interest rate earned on any such payment that is maintained by the life insurance company or paid in thirty-six equal monthly installments by the company and how such rate compares to the interest rate earned by accounts at financial institutions, including demand accounts; and
     >       - **(iv)** other relevant information.
-    >   - **(3)** In order to be an eligible life insurance company under this section, a life insurance company may not charge any fees to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) with respect to maintaining such payment with the company.
+    >   - **(3)** In order to be an eligible life insurance company under this section, a life insurance company may not charge any fees to a beneficiary or other person otherwise entitled to payment upon the establishment of a valid claim under section 1970(a) of this title for any purpose, including for maintaining such payment with the company.
     >   - **(4)** The Secretary shall include in each annual performance and accountability report submitted by the Secretary to Congress information concerning—
     >     - **(A)** the number of individuals who received financial counseling under paragraph (1)(A);
     >     - **(B)** the number of individuals who received the disclosures under paragraph (1)(B);
-    >     - **(C)** the information received by such individuals during such counseling; and
+    >     - **(C)** the type of information received by such individuals during such counseling; and
     >     - **(D)** any recommendations, complaints, or other information with respect to such counseling that the Secretary considers relevant.
 
   - **(2)** *Regulations* The Secretary of Veterans Affairs shall prescribe regulations to carry out section 1966(e) of title 38, United States Code, as added by paragraph (1).
