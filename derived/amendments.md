@@ -1,7 +1,7 @@
 ---
 measure: S. 3794
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in clause (viii), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ix), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

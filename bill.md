@@ -20,4 +20,7 @@ Section 549(c)(3)(B) of title 40, United States Code, is amended—
 - **(1)** in clause (viii), by striking “or” after the semicolon;
 - **(2)** in clause (ix), by striking the period and inserting “; or”; and
 - **(3)** by adding at the end the following:
-  > - **(x)** an organization whose membership comprises substantially veterans (as defined under section 101 of title 38).
+  > - **(x)** an organization whose—
+
+  > - **(I)** membership comprises substantially veterans (as defined under section 101 of title 38); and
+  > - **(II)** representatives are recognized by the Secretary of Veterans Affairs under section 5902 of title 38.
