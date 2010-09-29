@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3685
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3685
@@ -19,6 +19,10 @@ To require the Secretary of Veterans Affairs to include on the main page of the 
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-09-29 — [House 111-2-551](votes/house-111-2-0551.md) — On Motion to Suspend the Rules and Pass — **Passed** (425–0)
 
 ## Actions
 
@@ -38,3 +42,8 @@ To require the Secretary of Veterans Affairs to include on the main page of the 
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 364.
 - 2010-09-28 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-624.
 - 2010-09-28 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-624.
+- 2010-09-29 — Considered as unfinished business. (consideration: CR H7257-7258)
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 551). (text: CR 9/28/2010 H7017)
+- 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 551).(text: CR 9/28/2010 H7017)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
