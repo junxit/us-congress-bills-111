@@ -1,0 +1,63 @@
+---
+legis-num: H.R. 6286
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6286
+
+> To amend the Federal Election Campaign Act of 1971 to repeal the limitation on the annual aggregate amount of contributions individuals may make to candidates for election for Federal office, to repeal the limitations on the amount of coordinated expenditures by political parties, and to protect uncompensated Internet activity by individuals from treatment as a contribution or expenditure under the Act.
+
+## § 1. Short Title
+
+This Act may be cited as the “Free Speech and Citizen Fairness Act of 2010”.
+
+## § 2. Repeal of Annual Aggregate Limit on Amount of Contributions by Individuals
+
+- **(a)** *In General* Section 315(a) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)) is amended by striking paragraph (3).
+- **(b)** *Conforming Amendments* Section 315(c) of such Act (2 U.S.C. 441a(c)) is amended—
+  - **(1)** in paragraph (1)(B)(i), by striking “(a)(3),”;
+  - **(2)** in paragraph (1)(C), by striking “(a)(3),”; and
+  - **(3)** in paragraph (2)(B)(ii), by striking “(a)(3),”.
+
+## § 3. Repeal of Limitations on Amount of Coordinated Expenditures by Political Parties
+
+- **(a)** *In General* Section 315(d) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(d)) is amended—
+  - **(1)** by striking “(d)(1)” and inserting “(d)”;
+  - **(2)** by striking “, subject to the limitations contained in paragraphs (2), (3), and (4) of this subsection”; and
+  - **(3)** by striking paragraphs (2), (3), and (4).
+- **(b)** *Conforming Amendments* Section 315(c) of such Act (2 U.S.C. 441a(c)) is amended—
+  - **(1)** in paragraph (1)(B)(i), by striking “(d),”; and
+  - **(2)** in paragraph (2)(B)(i), by striking “subsections (b) and (d),” and inserting “subsection (b),”.
+
+## § 4. Blogger Protection
+
+- **(a)** *Exemption of Uncompensated Individual Internet Activity From Treatment as Contribution or Expenditure*
+  - **(1)** *Exemptions*
+    - **(A)** *Exemption from treatment as contribution* Section 301(8)(B) of the Federal Election Campaign Act of 1971 (2 U.S.C. 431(8)(B)) is amended—
+      - **(i)** by striking “and” at the end of clause (xiii);
+      - **(ii)** by striking the period at the end of clause (xiv) and inserting “; and”; and
+      - **(iii)** by adding at the end the following new clause:
+        > - **(xv)** any uncompensated personal services related to Internet activities, or use of equipment or services for uncompensated Internet activities, that are engaged in by any individual, group of individuals, or corporation wholly owned by one or more individuals that engages primarily in Internet activities and does not derive a substantial portion of its revenue from sources other than income from its Internet activities, other than—
+        >   - **(I)** any payment for a public communication (other than a nominal fee),
+        >   - **(II)** any payment for the purchase or rental of an email address list made at the direction of a political committee, or
+        >   - **(III)** any payment for an email address list that is transferred to a political committee.
+
+    - **(B)** *Exemption from treatment as expenditure* Section 301(9)(B) of such Act (2 U.S.C. 431(9)(B)) is amended—
+      - **(i)** by striking “and” at the end of clause (ix);
+      - **(ii)** by striking the period at the end of clause (x) and inserting “; and”; and
+      - **(iii)** by adding at the end the following new clause:
+        > - **(xi)** any uncompensated personal services related to Internet activities, or use of equipment or services for uncompensated Internet activities, that are engaged in by any individual, group of individuals, or corporation wholly owned by one or more individuals that engages primarily in Internet activities and does not derive a substantial portion of its revenue from sources other than income from its Internet activities, other than—
+        >   - **(I)** any payment for a public communication (other than a nominal fee),
+        >   - **(II)** any payment for the purchase or rental of an email address list made at the direction of a political committee, or
+        >   - **(III)** any payment for an email address list that is transferred to a political committee.
+
+  - **(2)** *Internet Activity Defined* Section 301 of such Act (2 U.S.C. 431) is amended by adding at the end the following new paragraph:
+    > - **(27)** *Internet activity* The term Internet activity includes sending or forwarding electronic messages, providing a hyperlink or other direct access to another person’s Web site, blogging, creating, maintaining, or hosting a Web site, paying a nominal fee for the use of another person’s Web site, and any other form of communication distributed over the Internet.
+
+- **(b)** *Coverage of Blogs and Other Internet and Electronic Publications Under General Media Exemption* Section 301(9)(B)(i) of such Act (2 U.S.C. 431(9)(B)(i)) is amended by inserting “including any Internet or electronic publication (including a blog),” after “periodical publication,”.
+
+## § 5. Effective Date
+
+The amendments made by this Act shall apply with respect to expenditures and disbursements made during 2010 or any succeeding year.
