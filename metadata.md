@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1061
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1061
@@ -56,3 +56,17 @@ Hoh Indian Tribe Safe Homelands Act
 - 2010-09-29 — Senate amendment agreed to: Amendment SA 4686 agreed to in Senate by Unanimous Consent.
 - 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4686 proposed by Senator Durbin for Senator Cantwell.(consideration: CR S7763; text: CR S7763)
 - 2010-09-29 — Senate amendment submitted
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-12-14 — Cleared for White House.
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8300-8302)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 1061.
+- 2010-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-14 — Mr. Rahall moved that the House suspend the rules and agree to the Senate amendments.
+- 2010-12-14 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment: CR H8300)
+- 2010-12-14 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment: CR H8300)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-323.
+- 2010-12-22 — Became Public Law No: 111-323.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
