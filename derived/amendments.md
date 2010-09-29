@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 0 executed, 56 stated and not applied.
+57 amendatory instructions. 0 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 221(a)(4)(E) of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b(a)(4)(E)) is amended by striking clause (ii) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(b)” and all that follows through “The term” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 221(c) of such Act (42 U.S.C. 1962d–5b(c)) is amended by striking “enforcible” and inserting “enforceable”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “for damages to ecological resources, including terrestrial and aquatic resources, and” after “mitigate”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “ecological resources and” after “impact on”; and | the bill names no machine-readable US Code section |
@@ -47,7 +47,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 2034(c)(4) of such Act (33 U.S.C. 2343(c)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 2034(f) of such Act (33 U.S.C. 2343(f)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2035 of the Water Resources Development Act of 2007 (33 U.S.C. 2344) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 2035 of the Water Resources Development Act of 2007 (33 U.S.C. 2344) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “permits under the jurisdiction” and inserting “permits of such entities related to projects for a public purpose under the jurisdiction”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (e); | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
@@ -55,7 +55,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1135(d) of the Water Resources Development Act of 1986 (33 U.S.C. 2309a(d)) is amended by striking “$5,000,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 206(d) of the Water Resources Development Act of 1996 (33 U.S.C. 2330(d)) is amended by striking “$5,000,000” and inserting “$10,000,000”. | the bill names no machine-readable US Code section |
 | — | amend | Section 314 of the Water Resources Development Act of 1990 (33 U.S.C. 2321) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | repeal | Section 211 of the Water Resources Development Act of 2000 (31 U.S.C. 6505 note; 114 Stat. 2592) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | The table of contents contained in section 1(b) of such Act is amended by striking the item relating to section 314 and inserting the following: | the bill names no machine-readable US Code section |
+| — | repeal | Section 211 of the Water Resources Development Act of 2000 (31 U.S.C. 6505 note; 114 Stat. 2592), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 905(a) of the Water Resources Development Act of 1986 (33 U.S.C. 2282) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
@@ -67,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by striking “and” at the end of subparagraph (E) (as redesignated by paragraph (3) of this subsection); | the bill names no machine-readable US Code section |
 | — | redesignate | by striking the period at the end of subparagraph (F) (as redesignated by paragraph (3) of this subsection) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 3061(b)(2) of such Act (121 Stat. 1121) is amended by striking “paragraph (1)(E)” and inserting “paragraph (1)(F)”. | the bill names no machine-readable US Code section |
 | — | amend | Section 3061(d) of such Act (121 Stat. 1121) is amended by adding the end the following: “The study shall include a fully developed analysis of an alternative for hydrologic separation between the Great Lakes and the Mississippi River ba… | the bill names no machine-readable US Code section |
 | — | replace | Section 522 of the Water Resources Development Act of 2000 (114 Stat. 2656) is amended by striking “draft evaluation report of the New England District Engineer entitled Phase I Muddy River Master Plan, dated June 2000” and inserting “Fi… | the bill names no machine-readable US Code section |
@@ -76,14 +77,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1001(37)(B)(iii) of the Water Resources Development Act of 2007 (121 Stat. 1055) is amended by striking “$1,270,000” and inserting “$12,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 536(g) of the Water Resources Development Act of 2000 (114 Stat. 2662) is amended by striking “$30,000,000” and inserting “$45,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4070 of the Water Resources Development Act of 2007 (121 Stat. 1183) is amended by striking “Ohio River” and inserting “Ohio River and tributaries”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “Mahoning River basin, Pennsylvania” and inserting “Mahoning River basin, Pennsylvania, the Monongahela River basin, Pennsylvania,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “Shaler Township” and inserting “Shaler Township, Hampton Township, Harmar Township,”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “Mahoning River basin, Pennsylvania” and inserting “Mahoning River basin, Pennsylvania, the Monongahela River basin, Pennsylvania”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “Shaler Township” and inserting “Shaler Township, Hampton Township, Harmar Township”. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(1) by striking “pilot”; | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (d(2)) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d)(2) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e), (f), (g), (h), and (i) as subsections (f), (g), (h), (i), and (j), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (g) (as redesignated by paragraph (3) of this subsection) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (j) (as redesignated by paragraph (3) of this subsection) by striking “$40,000,000” and inserting “$50,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5015(a) of the Water Resources Development Act of 2007 (121 Stat. 1196) is amended by striking “$134,650,000” and inserting “$185,638,028”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9) by striking “Esopus, Plattekill, and Rondout Creeks” and inserting “Esopus, Rondout, and Wallkill watersheds”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
