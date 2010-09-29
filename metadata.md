@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1722
@@ -16,7 +16,7 @@ Telework Enhancement Act of 2010
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
@@ -32,6 +32,7 @@ Telework Enhancement Act of 2010
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 
 ## Committees (2)
 
@@ -86,3 +87,13 @@ Telework Enhancement Act of 2010
 - 2010-07-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5588)
 - 2010-07-14 — The previous question was ordered pursuant to the rule. (consideration: CR H5586)
 - 2010-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-09-29 — Amendment SA 4689 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Amendment SA 4689 proposed by Senator Durbin for Senator Akaka. (consideration: CR S7770) In the nature of a substitute.
+- 2010-09-29 — Measure laid before Senate by unanimous consent. (consideration: CR S7770)
+- 2010-09-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-09-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-09-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-09-29 — Senate amendment agreed to: Amendment SA 4689 agreed to in Senate by Unanimous Consent.
+- 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4689 proposed by Senator Durbin for Senator Akaka.(consideration: CR S7770)
+- 2010-09-29 — Senate amendment submitted
