@@ -1,7 +1,7 @@
 ---
 measure: S. 2869
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+23 amendatory instructions. 0 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,3 +53,4 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 502(7) of the Small Business Investment Act of 1958 (15 U.S.C. 696(7)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Effective 2 years after the date of enactment of this Act, section 502(7) of the Small Business Investment Act of 1958 (15 U.S.C. 696(7)) is amended by striking subparagraph (C). | the bill names no machine-readable US Code section |
 | — | replace | Section 502(2)(A)(i) of the Small Business Investment Act of 1958 (15 U.S.C. 696(2)(A)(i)) is amended by striking “subparagraph (B) or (C)” and inserting “clause (ii), (iii), (iv), or (v)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by striking subsection (l) and inserting the following: | the bill names no machine-readable US Code section |
