@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3421
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
