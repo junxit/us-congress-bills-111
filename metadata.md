@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 573
 congress: 111
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 573
@@ -34,3 +34,5 @@ A resolution urging the development of a comprehensive strategy to ensure stabil
 - 2010-09-24 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2010-09-24 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2010-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 588.
+- 2010-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S7770-7771; text as passed Senate: CR S7770-7771)
+- 2010-09-29 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S7770-7771; text as passed Senate: CR S7770-7771)
