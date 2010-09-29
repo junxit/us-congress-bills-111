@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5897
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5897
@@ -16,7 +16,7 @@ Economic Revitalization and Innovation Act of 2010
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -31,6 +31,7 @@ Economic Revitalization and Innovation Act of 2010
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
 ## Committees (2)
 
@@ -45,3 +46,14 @@ Economic Revitalization and Innovation Act of 2010
 - 2010-07-28 — Referred to House Transportation and Infrastructure
 - 2010-07-28 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2010-07-28 — Sponsor introductory remarks on measure. (CR E1450-1452)
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Committee Consideration and Mark-up Session Held.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2010-07-29 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2010-07-29 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2010-09-29 — Committee on Financial Services discharged.
+- 2010-09-29 — Committee on Financial Services discharged.
+- 2010-09-29 — Placed on the Union Calendar, Calendar No. 390.
+- 2010-09-29 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-652, Part I.
+- 2010-09-29 — Reported (Amended) by the Committee on Transportation. H. Rept. 111-652, Part I.

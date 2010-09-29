@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5897
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 2(b) (42 U.S.C. 3121(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1) by inserting after “nonprofit organizations” the following: “, including economic development districts and university centers,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraphs (2) and (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 101(c) (42 U.S.C. 3131(c)) is amended by inserting after “government agencies” the following: “and appropriate economic development districts”. | the bill names no machine-readable US Code section |
@@ -43,17 +43,17 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of contents in section 1(b) is amended by inserting after the item relating to section 103 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I (42 U.S.C. 3131 et seq.), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b), as amended by this Act, is further amended by inserting after the item relating to section 104 the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 201(a)(1) (42 U.S.C. 3141(a)(1)) is amended by inserting after “development facility” the following: “(including a facility of a business incubator or a science and research park (as such terms are defined in section 208(a))”. | the bill names no machine-readable US Code section |
+| — | insert | Section 201(a)(1) (42 U.S.C. 3141(a)(1)) is amended by inserting after “development facility” the following: “(including a facility of a business incubator or a science and research park (as such terms are defined in section 208(a)))”. | the bill names no machine-readable US Code section |
 | — | insert | Section 203(a) (42 U.S.C. 3143(a)) is amended by inserting after “administrative expenses” the following: “(including indirect costs determined eligible in an applicable Office of Management and Budget circular)”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4) by striking “and increase incomes.” and inserting “and systemic economic distress and increase incomes by fostering entrepreneurship and innovation across all regional industry sectors; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A) by inserting after “public works” the following: “and other types of assistance”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C) by inserting after “environment” the following: “, including through efficient energy production, utilization, and facility development”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “use” the following: “and deployment”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting after “State or political subdivision” the following: “or that the Secretary determines has been affected by substantial declines in tax revenue”; and | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Training” and inserting “Planning, training”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 207” and inserting “section 203 or 207”; and | the bill names no machine-readable US Code section |
@@ -71,11 +71,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after “their economies” the following: “or supporting the economic adjustment activities of the Secretary of Defense”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4) by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking “manufacturing jobs” and inserting “manufacturing, information technology, natural resource, agricultural, or service sector jobs”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “;”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 218 (42 U.S.C. 3154d) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of contents in section 1(b), as amended by this Act, is further amended by striking the item relating to section 218 and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title II (42 U.S.C. 3141 et seq.), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -105,7 +105,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of contents in section 1(b), as amended by this Act, is further amended by inserting after the item relating to section 508 the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(B) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VI (42 U.S.C. 3211 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b), as amended by this Act, is further amended by inserting after the item relating to section 612 the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 701(a) (42 U.S.C. 3231(a)) is amended by striking “until expended” and all that follows through the period at the end and inserting the following: “until expended, $500,000,000 for each of fiscal years 2011 through 2015.”. | the bill names no machine-readable US Code section |
