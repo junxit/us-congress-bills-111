@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5494
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5494
@@ -40,3 +40,5 @@ To direct the Secretary of the Interior to transfer certain properties to the Di
 - 2010-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6825-6826)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6825-6826)
 - 2010-09-22 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-23 — Received in the Senate.
+- 2010-09-29 — Read twice and referred to the Committee on Energy and Natural Resources.
