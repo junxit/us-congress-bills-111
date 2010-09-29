@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 903
@@ -56,3 +56,4 @@ Dental Emergency Responder Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 387.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-647.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-647.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
