@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 319
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 319
@@ -147,3 +147,4 @@ Recognizing the anniversary of the tragic shootings that occurred at Fort Hood, 
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7003)
 - 2010-09-29 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S7772)
 - 2010-09-29 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7772)
+- 2010-09-30 — Message on Senate action sent to the House.
