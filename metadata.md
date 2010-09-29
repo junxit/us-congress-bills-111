@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 847
@@ -139,6 +139,12 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2010-07-29 — [House 111-2-491](votes/house-111-2-0491.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (255–159)
+- 2010-09-29 — [House 111-2-549](votes/house-111-2-0549.md) — On Motion to Recommit with Instructions — **Failed** (185–244)
+- 2010-09-29 — [House 111-2-550](votes/house-111-2-0550.md) — On Passage — **Passed** (268–160)
+
 ## Actions
 
 - 2009-02-04 — Introduced in House
@@ -168,3 +174,22 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - 2010-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-560, Part I.
 - 2010-07-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-560, Part II.
 - 2010-07-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-560, Part II.
+- 2010-07-29 — Considered under suspension of the rules. (consideration: CR H6382-6400)
+- 2010-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 847.
+- 2010-07-29 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 255 - 159 (Roll no. 491).(text: CR H6382-6394)
+- 2010-07-29 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2010-07-29 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 255 - 159 (Roll no. 491). (text: CR H6382-6394)
+- 2010-09-29 — Considered under the provisions of rule H. Res. 1674. (consideration: CR H7230-7257)
+- 2010-09-29 — DEBATE - Mr. Waxman reserved a point of order against the Lee (NY) motion to recommit with instructions. Subsequently, the reservation was withdrawn. The House proceeded with 10 minutes of debate on the Lee (NY) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to repeal specified spending provisions in patient protection and affordable care.
+- 2010-09-29 — DEBATE - Pursuant to the provisions of H.Res. 1674, the House proceeded with one hour of debate on H.R. 847, as amended.
+- 2010-09-29 — House amendment offered
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Lee (NY) moved to recommit with instructions to Energy and Commerce. (consideration: CR H7252-7256; text: CR H7252-7255)
+- 2010-09-29 — On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 244 (Roll no. 549).
+- 2010-09-29 — On passage Passed by recorded vote: 268 - 160 (Roll no. 550). (text: CR H7230-7242)
+- 2010-09-29 — Passed/agreed to in House: On passage Passed by recorded vote: 268 - 160 (Roll no. 550).(text: CR H7230-7242)
+- 2010-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-09-29 — Rule provides for consideration of H.R. 847 and H.R. 2378. With respect to H.R. 847, the rule grants a closed rule providing one hour of debate in the House, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means.
+- 2010-09-29 — Rules Committee Resolution H. Res. 1674 Reported to House. Rule provides for consideration of H.R. 847 and H.R. 2378. With respect to H.R. 847, the rule grants a closed rule providing one hour of debate in the House, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means.
+- 2010-09-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7256)
+- 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7252)
