@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1362
@@ -251,3 +251,4 @@ National Neurological Diseases Surveillance System Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 376.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-636.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-636.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
