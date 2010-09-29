@@ -1,0 +1,45 @@
+---
+measure: H.R. 6299
+congress: 111
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 6299 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+12 amendatory instructions. 0 executed, 12 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | amend | Section 327(a)(2)(B)(ii)(I) of title 23, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 327(a)(2) of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading by striking “Number of participating States” and inserting “In general”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “not more than 5” and all that follows through “Texas)” and inserting “any State that meets the selection criteria contained in paragraph (4)”. | the bill names no machine-readable US Code section |
+| — | amend | Section 327(c) of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in the subsection heading by inserting “and monitoring” after “Audits”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (3) (as redesignated by subparagraph (B) of this paragraph) by inserting after “paragraph (1)” the following: “, and the results of monitoring conducted under paragraph (2),”. | the bill names no machine-readable US Code section |
+| — | amend | Section 327(h) of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 327(i)(1) of such title is amended by striking “date of enactment of this section” and inserting “date of enactment of the Jobs Through Environmental Safeguarding and Streamlining Act of 2010”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 327 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
