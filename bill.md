@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 512
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short Title
 
-This Act may be cited as the “Federal Election Integrity Act of 2009”.
+This Act may be cited as the “Federal Election Integrity Act of 2010”.
 
 ## § 2. Findings
 
@@ -39,4 +39,8 @@ Congress finds that—
   >   - **(1)** *In general* This section does not apply to a chief State election administration official with respect to an election for Federal office in which the official or an immediate family member of the official is a candidate.
   >   - **(2)** *Immediate family member defined* In paragraph (1), the term “immediate family member” means, with respect to a candidate, a father, mother, son, daughter, brother, sister, husband, wife, father-in-law, or mother-in-law.
 
-- **(b)** *Effective Date* The amendments made by subsection (a) shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.
+- **(b)** *Effective Date* The amendments made by subsection (a) shall apply with respect to elections for Federal office held after December 2010.
+
+## § 4. Compliance with statutory pay-as-you-go act of 2010
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
