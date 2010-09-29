@@ -1,7 +1,7 @@
 ---
 measure: S. 3397
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 3397
@@ -29,9 +29,11 @@ Secure and Responsible Drug Disposal Act of 2010
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -48,3 +50,13 @@ Secure and Responsible Drug Disposal Act of 2010
 - 2010-08-09 — Referred to House Energy and Commerce
 - 2010-08-09 — Referred to House Judiciary
 - 2010-08-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-09-29 — Cleared for White House.
+- 2010-09-29 — Considered under suspension of the rules. (consideration: CR H7316-7318)
+- 2010-09-29 — DEBATE - The House proceeded with forty minutes of debate on S. 3397.
+- 2010-09-29 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Inslee moved to suspend the rules and pass the bill, as amended.
+- 2010-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7316)
+- 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7316)
+- 2010-09-29 — Resolving differences -- Senate actions: Senate concurred in House Amendment to Senate bill by Unanimous Consent.(consideration: CR S7770; text as Senate agreed to House amendment in Senate: CR S7770)
+- 2010-09-29 — Senate concurred in House Amendment to Senate bill by Unanimous Consent. (consideration: CR S7770; text as Senate agreed to House amendment in Senate: CR S7770)
