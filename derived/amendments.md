@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2378
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in clause (iii), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in clause (iv), by striking the period at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (iv) the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 771(5A)(B) of the Tariff Act of 1930 (19 U.S.C. 1677(5A)(B)) is amended by adding at the end the following new sentence: “In the case of a subsidy relating to a fundamentally undervalued currency, the fact that the subsidy may al… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677), as amended by subsection (c) of this section, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 1677` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1677` | replace | in clause (iv), by striking the period at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1677` | insert | by inserting after clause (iv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | add-at-end | Section 771(5A)(B) of the Tariff Act of 1930 (19 U.S.C. 1677(5A)(B)) is amended by adding at the end the following new sentence: “In the case of a subsidy relating to a fundamentally undervalued currency, the fact that the subsidy may al… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1677` | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677), as amended by subsection (c) of this section, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
