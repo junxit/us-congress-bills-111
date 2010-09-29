@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5630
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5630
@@ -37,3 +37,4 @@ To amend title 38, United States Code, to provide for qualifications for vocatio
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 367.
 - 2010-09-28 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-627.
 - 2010-09-28 — Reported by the Committee on Veterans' Affairs. H. Rept. 111-627.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
