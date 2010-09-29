@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 72
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 72
@@ -16,6 +16,10 @@ A concurrent resolution recognizing the 45th anniversary of the White House Fell
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 
+## Cosponsors (1)
+
+- Sen. Reed, Jack [D-RI] (R000122)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -24,3 +28,7 @@ A concurrent resolution recognizing the 45th anniversary of the White House Fell
 
 - 2010-09-22 — Introduced in Senate
 - 2010-09-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7361)
+- 2010-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S7772)
+- 2010-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7772)
+- 2010-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7772)
+- 2010-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7772)
