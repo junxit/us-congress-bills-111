@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5717
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5717
@@ -52,3 +52,4 @@ Smithsonian Conservation Biology Institute Enhancement Act
 - 2010-09-28 — Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7157)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7157)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
