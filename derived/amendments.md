@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 5112` | add-at-end | in subsection (a), by adding at the end the following new paragraph; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 5112` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | in subsection (a), by adding at the end the following new paragraph; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

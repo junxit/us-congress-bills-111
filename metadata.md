@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6166
@@ -16,9 +16,10 @@ American Eagle Palladium Bullion Coin Act of 2010
 
 - Rep. Rehberg, Denny [R-MT-At Large] (R000571)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,15 @@ American Eagle Palladium Bullion Coin Act of 2010
 - 2010-09-29 — On passage Passed without objection.
 - 2010-09-29 — Passed/agreed to in House: On passage Passed without objection.
 - 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2010-11-30 — Cleared for White House.
+- 2010-11-30 — Passed Senate without amendment by Unanimous Consent.
+- 2010-11-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-11-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S8292)
+- 2010-11-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S8292)
+- 2010-12-01 — Message on Senate action sent to the House.
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-14 — Became Public Law No: 111-303.
+- 2010-12-14 — Became Public Law No: 111-303.
+- 2010-12-14 — Signed by President.
+- 2010-12-14 — Signed by President.
