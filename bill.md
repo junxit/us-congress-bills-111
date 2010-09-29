@@ -2,7 +2,7 @@
 legis-num: H. RES. 1674
 congress: 111th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1674
@@ -17,4 +17,4 @@ Upon the adoption of this resolution it shall be in order to consider in the Hou
 
 ## § 3.
 
-upon adoption of this resolution, it shall be in order to take from the Speaker's table the bill (H.R. 2701) to authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 of rule XXI, a motion offered by the chair of the Permanent Select Committee on Intelligence or his designee that the House concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Permanent Select Committee on Intelligence. The previous question shall be considered as ordered on the motion to final adoption without intervening motion.
+Upon adoption of this resolution, it shall be in order to take from the Speaker's table the bill (H.R. 2701) to authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 of rule XXI, a motion offered by the chair of the Permanent Select Committee on Intelligence or his designee that the House concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Permanent Select Committee on Intelligence. The previous question shall be considered as ordered on the motion to final adoption without intervening motion.
