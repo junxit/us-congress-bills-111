@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6166
@@ -25,3 +25,17 @@ American Eagle Palladium Bullion Coin Act of 2010
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Referred to the House Committee on Financial Services.
+- 2010-09-29 — Amendment (A001) offered by Mr. Watt. (consideration: CR H7313-7314; text: CR H7313-7314)
+- 2010-09-29 — Amendment agreed to by House: On agreeing to the Watt amendment (A001) Agreed to without objection.
+- 2010-09-29 — Committee on Financial Services discharged.
+- 2010-09-29 — Committee on Financial Services discharged.
+- 2010-09-29 — Considered by unanimous consent. (consideration: CR H7313-7314; text of measure as introduced: CR H7313)
+- 2010-09-29 — House amendment agreed to: On agreeing to the Watt amendment (A001) Agreed to without objection.
+- 2010-09-29 — House amendment offered
+- 2010-09-29 — House amendment offered/reported by : Amendment (A001) offered by Mr. Watt.(consideration: CR H7313-7314; text: CR H7313-7314)
+- 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-29 — Mr. Watt asked unanimous consent to discharge from committee and consider.
+- 2010-09-29 — On agreeing to the Watt amendment (A001) Agreed to without objection.
+- 2010-09-29 — On passage Passed without objection.
+- 2010-09-29 — Passed/agreed to in House: On passage Passed without objection.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

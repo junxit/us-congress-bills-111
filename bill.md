@@ -22,7 +22,7 @@ Section 5112 of title 31, United States Code, is amended—
 
 - **(2)** by adding at the end the following new subsection:
   > - **(v)** *Palladium bullion investment coins*
-  >   - **(1)** *In general* Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 6 months after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
+  >   - **(1)** *In general* Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
   >   - **(2)** *Source of bullion*
   >     - **(A)** *In general* The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
   >     - **(B)** *Price of bullion* The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
@@ -37,3 +37,7 @@ Section 5112 of title 31, United States Code, is amended—
   >     - **(C)** the coin shall bear such other inscriptions, including “Liberty”, “In God We Trust”, “United States of America”, the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
   >   - **(7)** *Mint facility* Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
   >   - **(8)** *Marketing study defined* The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
+
+## § 3. Budgetary effect
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
