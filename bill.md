@@ -1,0 +1,34 @@
+---
+legis-num: H. RES. 1708
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1708
+
+> Recognizing the destructive role of the Government of Eritrea and calling on the Secretary of State to designate Eritrea as a country that has provided support for international terrorism.
+
+## Preamble
+
+- Whereas the State of Eritrea is supporting al Qaeda linked militants in the Horn of Africa, including al Shabaab, which has been designated a foreign terrorist organization under section 219 of the Immigration and Nationality Act and as a specially designated global terrorist under section 1(b) of Executive Order 13224, and is of increasing concern to United States counterterrorism officials;
+- Whereas the United Nations Sanctions Monitoring Group on Somalia, established by a committee of the United Nations Security Council pursuant to Resolutions 751 (1992) and 1519 (2003), reported in July 2007 “that huge quantities of arms have been provided to the Shabaab by and through Eritrea”, and “the weapons in caches and otherwise in possession of the Shabaab include an unknown number of surface-to-air missiles, suicide belts, and explosives with timers and detonators”;
+- Whereas in April 2008, the United Nations Sanctions Monitoring Group on Somalia reported, “the Government of Eritrea continues to provide support to groups that oppose the Transitional Federal Government in the form of arms and military training to fighters of the Shabaab”, and that on or about January 8, 2008, an arms shipment from Eritrea arrived in Mogadishu containing dismantled RPG–7s, hand grenades, anti-tank mines, detonators, pistols, mortar shells, AK–47 assault rifles, PKM machine guns, RPG–2s, small mortars, FAL assault rifles, rifle-fired grenades for the FAL, M–16s, and explosives;
+- Whereas the April 2008 report of the United Nations Sanctions Monitoring Group on Somalia also found that, “towards the end of 2007, about 120 fighters of the Shabaab travelled to Eritrea for the purpose of attending military training at a military base located near the Ethiopian border.”;
+- Whereas in its December 2008 report, the United Nations Sanctions Monitoring Group on Somalia identified Eritrea as a “principal violator” of the arms embargo on Somalia and asserted that “Eritrean arms embargo violations take place with the knowledge and authorization of senior officials within the Eritrean Government and the ruling People's Front for Democracy and Justice (PFDJ).”;
+- Whereas, on May 20, 2009, Assistant Secretary of State for Africa Affairs Johnnie Carson testified before the Senate Foreign Relations Committee that, “We have clear evidence that Eritrea is supporting these extremist elements [inside Somalia], including credible reports that the Government of Eritrea continues to supply weapons and munitions to extremists and terrorist elements.”;
+- Whereas, on December 23, 2009, largely at the behest of African governments, the United Nations Security Council in Resolution 1907 (2009) demanded that all Member States, in particular Eritrea, cease to arm, train, and equip armed groups, including al Shabaab, that aim to destabilize the region and subsequently imposed a ban on the sale or supply of weapons, training, and related materiel to or from Eritrea;
+- Whereas in its March 2010 report, the United Nations Sanctions Monitoring Group on Somalia noted that “the Government of Eritrea has provided significant and sustained political, financial and material support, including arms, ammunition and training to armed opposition groups in Somalia since at least 2007.”;
+- Whereas the March 2010 report by the United Nations Sanctions Monitoring Group on Somalia further noted that the Government of Eritrea has provided Eritrean passports to senior al Shabaab leaders, including Mukhtar Robow, who the United States Department of the Treasury has identified as al Shabaab’s spokesman, spiritual leader, and military commander in southern Somalia and is subject to United States sanctions;
+- Whereas the United Nations Sanctions Monitoring Group on Somalia also accuses Eritrea of providing “direct and overt support” for the return to Somalia of Hassan Dahir Aweys, who leads the radical Islamist Hizbul Islam insurgent group in Somalia and is subject to United States sanctions pursuant to Executive Order 13224 and United Nations sanctions pursuant to United Nations Security Council Resolution 1267;
+- Whereas, on March 24, 2010, Assistant Secretary of State for African Affairs Johnnie Carson testified before the House Foreign Affairs Committee, Subcommittee on Africa and Global Health, “There is no doubt that al Shabaab is a terrorist organization. There is no doubt that Eritrea has supported the elements of al Shabaab”;
+- Whereas, on April 10, 2010, Yemane Gebreab, Head of Political Affairs and Presidential Adviser in the Government of Eritrea, was included on a list of persons contributing to the conflict in Somalia and subject to United States sanctions pursuant to Executive Order 13536;
+- Whereas al Shabaab has claimed responsibility for the July 11, 2010, attacks in Kampala, Uganda, which killed more than 70 people, including a United States citizen, who had gathered to watch the World Cup finals, demonstrating the growing sophistication and reach of al Shabbab’s operations;
+- Whereas United States law enforcement and counter terrorism officials have been increasingly concerned by reports of Somali-American youths disappearing from United States locales to train with al Shabaab in Somalia, and the head of Great Britain’s domestic intelligence service warned recently that it is “only a matter of time before we see terrorism on our streets inspired by those who are today fighting alongside al-Shabaab”; and
+- Whereas section 6(j) of the Export Administration Act of 1979, section 40 of the Arms Export Control Act, and section 620A of the Foreign Assistance Act of 1961 stipulate that a designated state sponsor of terrorism is one “that repeatedly provides support to acts of international terrorism”: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** given the growing security threat from al Shabaab, a United States-designated foreign terrorist organization, every effort should be made to tackle its outside sources of support;
+- **(2)** Eritrea’s ongoing and well-documented support for armed insurgents in Somalia, including al Shabaab, poses a significant threat to the national security interests of the United States and East African nations; and
+- **(3)** the Secretary of State should designate the State of Eritrea as a state sponsor of terrorism pursuant to section 6(j) of the Export Administration Act of 1979, section 40 of the Arms Export Control Act, and section 620A of the Foreign Assistance Act of 1961.
