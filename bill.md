@@ -2,7 +2,7 @@
 legis-num: H.R. 3960
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3960
@@ -38,9 +38,9 @@ The purpose of this Act is to clarify the existing authority of, and as necessar
 
 In this Act, the following definitions apply:
 
-- **(1)** *Captive tollpayer* The term “captive tollpayer” means an individual who—
+- **(1)** *Captive tollpayer* The term captive tollpayer means an individual who—
   - **(A)** is a resident of, or regular commuter to, a locality in the United States that is situated on an island, peninsula, or other area where transportation access is substantially constrained by geography; and
   - **(B)** is subject to a transportation toll when using a transportation facility to access or depart the locality.
-- **(2)** *Public authority* The term “public authority” has the meaning given that term by section 101 of title 23, United States Code.
-- **(3)** *Transportation facility* The term “transportation facility” includes a road, highway, bridge, rail, bus, or ferry facility.
-- **(4)** *Transportation toll* The term “transportation toll” means a toll or fare required for use of a transportation facility.
+- **(2)** *Public authority* The term public authority has the meaning given that term by section 101 of title 23, United States Code.
+- **(3)** *Transportation facility* The term transportation facility includes a road, highway, bridge, rail, bus, or ferry facility.
+- **(4)** *Transportation toll* The term transportation toll means a toll or fare required for use of a transportation facility.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3960
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3960
@@ -38,3 +38,4 @@ Residential and Commuter Toll Fairness Act of 2010
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7142)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7142)
 - 2010-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
