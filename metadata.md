@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4168
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4168
@@ -47,3 +47,4 @@ Algae-based Renewable Fuel Promotion Act of 2010
 - 2010-09-28 — Mr. Van Hollen moved to suspend the rules and pass the bill, as amended.
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7070-7071)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7070-7071)
+- 2010-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
