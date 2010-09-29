@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4416
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | In section 4 (16 U.S.C. 6303), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | In section 4 (16 U.S.C. 6303), by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (4), and inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | replace | In section 5(b)(2) (16 U.S.C. 6304(b)(2)), by striking “$100,000” and inserting “$150,000”. | the bill names no machine-readable US Code section |
+| — | replace | In section 5(b)(2) (16 U.S.C. 6304 (b)(2)), by striking “$100,000” and inserting “$150,000”. | the bill names no machine-readable US Code section |
 | — | amend | By amending section 6 (16 U.S.C. 6305) to read as follows: | the bill names no machine-readable US Code section |
