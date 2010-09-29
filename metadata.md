@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6016
@@ -33,3 +33,4 @@ Audit the BP Fund Act of 2010
 - 2010-09-28 — Mr. McMahon moved to suspend the rules and pass the bill, as amended.
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7143)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7143)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
