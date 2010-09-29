@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1722
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1722
 
-That the bill from the House of Representatives (H.R. 1722) entitled “An Act to require the head of each executive agency to establish and implement a policy under which employees shall be authorized to telework, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the head of each executive agency to establish and implement a policy under which employees shall be authorized to telework, and for other purposes.
 
 ## § 1. Short title
 

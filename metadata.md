@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1722
@@ -39,11 +39,12 @@ Telework Enhancement Act of 2010
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2010-05-06 — [House 111-2-251](votes/house-111-2-0251.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (268–147)
 - 2010-07-14 — [House 111-2-440](votes/house-111-2-0440.md) — On Motion to Recommit with Instructions — **Passed** (303–119)
 - 2010-07-14 — [House 111-2-441](votes/house-111-2-0441.md) — On Passage — **Passed** (290–131)
+- 2010-11-18 — [House 111-2-578](votes/house-111-2-0578.md) — On Motion to Concur in the Senate Amendment — **Passed** (254–152)
 
 ## Actions
 
@@ -97,3 +98,19 @@ Telework Enhancement Act of 2010
 - 2010-09-29 — Senate amendment agreed to: Amendment SA 4689 agreed to in Senate by Unanimous Consent.
 - 2010-09-29 — Senate amendment proposed (on the floor): Amendment SA 4689 proposed by Senator Durbin for Senator Akaka.(consideration: CR S7770)
 - 2010-09-29 — Senate amendment submitted
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-11-18 — Cleared for White House.
+- 2010-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-18 — Mr. Lynch moved that the House agree to the Senate amendment (consideration: CR H7560-7569, H7575)
+- 2010-11-18 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 254 - 152 (Roll no. 578). (consideration: CR H7563-7568, H7575; text as House agreed to Senate amendment: CR H7560-7563)
+- 2010-11-18 — POSTPONED PROCEEDINGS - Pursuant to H.Res. 1721, further proceedings on the motion to agree to the Senate amendment to H.R. 1722 has been postponed.
+- 2010-11-18 — Pursuant to the provisions of H.Res. 1721, Mr. Lynch took from the Speaker's table H.R. 1722 with the Senate amendment thereto, and was recognized for a motion.
+- 2010-11-18 — Pursuant to the provisions of H.Res. 1721, the House proceeded with one hour of debate on the Lynch motion to agree to the Senate amendment to H.R. 1722.
+- 2010-11-18 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 254 - 152 (Roll no. 578).(consideration: CR H7563-7568, H7575; text as House agreed to Senate amendment: CR H7560-7563)
+- 2010-11-18 — The previous question was ordered pursuant to the rule. (consideration: CR H7575)
+- 2010-11-29 — Presented to President.
+- 2010-11-29 — Presented to President.
+- 2010-12-09 — Became Public Law No: 111-292.
+- 2010-12-09 — Became Public Law No: 111-292.
+- 2010-12-09 — Signed by President.
+- 2010-12-09 — Signed by President.
