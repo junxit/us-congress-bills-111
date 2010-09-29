@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 847
