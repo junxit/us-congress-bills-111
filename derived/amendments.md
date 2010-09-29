@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6162
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 3 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 31 U.S.C. § 5112
+
+> Subsections (e) and (i) of section 5112 of title 31, United States Code are each amended by striking “quantities” and inserting “qualities and quantities that the Secretary determines are”.
+
+| | |
+|---|---|
+| Removed | `quantities` |
+| Inserted | `qualities and quantities that the Secretary determines are` |
+
+### 31 U.S.C. § 5112
+
+> by striking “exact duplicates” and inserting “likenesses”;
+
+| | |
+|---|---|
+| Removed | `exact duplicates` |
+| Inserted | `likenesses` |
+
+### 31 U.S.C. § 5112
+
+> in subparagraph (A), by striking “of 3.0 inches” and inserting “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches”.
+
+| | |
+|---|---|
+| Removed | `of 3.0 inches` |
+| Inserted | `determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches` |
 
 ## Stated, not applied
 
@@ -31,8 +60,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Subsections (e) and (i) of section 5112 of title 31, United States Code are each amended by striking “quantities” and inserting “qualities and quantities that the Secretary determines are”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “exact duplicates” and inserting “likenesses”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (C); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “of 3.0 inches” and inserting “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches”. | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 5112` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 5112` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
