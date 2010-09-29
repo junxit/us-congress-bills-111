@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5458
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5458
@@ -64,3 +64,4 @@ Christopher Bryski Student Loan Protection Act
 - 2010-09-28 — Mr. Adler (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7078)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7078)
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

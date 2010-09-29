@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5458
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 140 of the Truth in Lending Act (15 U.S.C. 1650) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (a) of section 140 of the Truth in Lending Act (15 U.S.C. 1650(a)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 485(l)(2) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1650` | add-at-end | Section 140 of the Truth in Lending Act (15 U.S.C. 1650) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1650` | add-at-end | Subsection (a) of section 140 of the Truth in Lending Act (15 U.S.C. 1650(a)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | add-at-end | Section 485(l)(2) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
