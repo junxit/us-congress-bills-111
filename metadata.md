@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5360
 congress: 111
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5360
@@ -49,3 +49,4 @@ HELP Veterans Act of 2010
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-626.
 - 2010-09-28 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-626.
 - 2010-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
