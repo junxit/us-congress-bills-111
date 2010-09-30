@@ -2,7 +2,7 @@
 legis-num: H. RES. 1442
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1442
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the founding of the United States and its continued existence can be documented through the actions, leadership, and protection of its freedoms through the efforts of the United States Armed Forces;
 - Whereas November 11 was originally declared Armistice Day to commemorate the sacrifices of United States soldiers in World War I and later designated by President Dwight D. Eisenhower in 1954 as a day to honor all United States veterans;
 - Whereas members of the United States Armed Forces have played and continue to play a critical economic, cultural, and societal role in protecting the life of the Nation by their dedicated service, prowess, and resolve;
-- Whereas despite these contributions, the role of veterans and the wars in which they served have been consistently undervalued and overlooked in the history of the Nation, and their stories diminished in American education:
+- Whereas despite these contributions, the role of veterans and the wars in which they served have been consistently undervalued and overlooked in the history of the Nation, and their stories diminished in American education;
 - Whereas November would be an appropriate month to designate as United States Military History Month and State legislatures and assemblies have been requested to issue proclamations designating November as United States Military History month and to encourage students to study this vital subject and participate in Veterans Day activities: Now, therefore, be it
 
 That the House of Representatives—
