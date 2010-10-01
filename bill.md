@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1230
 
-> To amend the Public Health Service Act to provide for the establishment of a National Acquired Bone Marrow Failure Disease Registry, to authorize research on acquired bone marrow failure diseases, and for other purposes.
+> To amend the Public Health Service Act to provide for research on acquired bone marrow failure diseases, minority-focused programs on such diseases, and the development of best practices for diagnosis of and care for individuals with such diseases.
 
 ## § 1. Short title
 

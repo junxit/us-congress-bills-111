@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1230
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1230
@@ -103,3 +103,8 @@ Acquired Bone Marrow Failure Disease Research and Treatment Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 377.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-637.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-637.
+- 2010-09-30 — Considered as unfinished business. (consideration: CR H7380)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7193)
+- 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7193)
+- 2010-09-30 — The title of the measure was amended. Agreed to without objection.
