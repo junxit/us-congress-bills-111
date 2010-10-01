@@ -40,7 +40,7 @@ Section 508 of the Public Health Service Act (42 U.S.C. 290bb–1) is amended—
   >   - **(2)** is determined by the Director to have high rates of addiction to methamphetamine or other drugs.
 
 - **(4)** in subsection (p)—
-  - **(A)** by striking “October 1, 1994” and inserting “one year after the date of the enactment of the Methamphetamine Education, Treatment, and Hope Act of 2010” ;
+  - **(A)** by striking “October 1, 1994” and inserting “one year after the date of the enactment of the Methamphetamine Education, Treatment, and Hope Act of 2010”;
   - **(B)** by inserting “In submitting reports under this subsection, the Director may use data collected under this section or other provisions of law, insofar as such data is used in a manner consistent with all Federal privacy laws applicable to the use of data collected under this section or other provision, respectively.” after “biennial report under section 501(k).”; and
   - **(C)** by striking “Each report under this subsection shall include” and all that follows and inserting
     > Each report under this subsection shall, with respect to the period for which the report is prepared, include the following:
