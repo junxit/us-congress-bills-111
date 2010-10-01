@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1032
 
-> To amend the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act to improve the prevention, diagnosis, and treatment of heart disease, stroke, and other cardiovascular diseases in women.
+> To amend the Public Health Service Act to improve the prevention, diagnosis, and treatment of heart disease, stroke, and other cardiovascular diseases in women.
 
 ## § 1. Short title
 
