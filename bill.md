@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5462
 
-> To authorize the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, to establish and implement a birth defects prevention, risk reduction, and public awareness program.
+> To amend title III of the Public Health Service Act to authorize the Secretary of Health and Human Services to establish and implement a birth defects prevention, risk reduction, and public awareness program.
 
 ## § 1. Short title
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Birth Defects Prevention, Risk Reduction, and Aw
 
 ## § 2. Birth defects prevention, risk reduction, and awareness
 
-- **(a)** *Program* The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by inserting after section 317T (42 U.S.C. 247b-22) the following new section:
+- **(a)** *Program* The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by inserting after section 317T (42 U.S.C. 247b–22) the following new section:
   > ## § 317U. Birth defects prevention, risk reduction, and awareness
   >
   > - **(a)** *Grant program* The Secretary shall establish and implement a birth defects prevention and public awareness program to award grants to States or organizations for the provision of pregnancy and breastfeeding information services.

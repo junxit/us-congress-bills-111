@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5462
 congress: 111
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by inserting after section 317T (42 U.S.C. 247b-22) the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by inserting after section 317T (42 U.S.C. 247b–22) the following new section: | the bill names no machine-readable US Code section |
