@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2408
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2408
@@ -146,3 +146,7 @@ Scleroderma Research and Awareness Act of 2010
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 371.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-631.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-631.
+- 2010-09-30 — Considered as unfinished business. (consideration: CR H7380)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7191)
+- 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7191)
