@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5354
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5354
@@ -67,3 +67,8 @@ GEDI Act
 - 2010-09-28 — Placed on the Union Calendar, Calendar No. 373.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-633.
 - 2010-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-633.
+- 2010-09-30 — Considered as unfinished business. (consideration: CR H7379)
+- 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7178-7179)
+- 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7178-7179)
+- 2010-09-30 — The title of the measure was amended. Agreed to without objection.

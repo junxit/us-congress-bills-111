@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5354
 
-> To establish an Advisory Committee on Gestational Diabetes, to provide grants to better understand and reduce gestational diabetes, and for other purposes.
+> To provide grants to better understand and reduce gestational diabetes, and for other purposes.
 
 ## § 1. Short title
 
