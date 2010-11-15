@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 5566
@@ -327,3 +327,5 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-09-28 — Senate amendment agreed to: Amendment SA 4668 agreed to in Senate by Unanimous Consent.
 - 2010-09-28 — Senate amendment proposed (on the floor): Amendment SA 4668 proposed by Senator Durbin for Senator Kyl.(consideration: CR S7654; text: CR S7654)
 - 2010-09-28 — Senate amendment submitted
+- 2010-11-15 — House agreed to Senate amendment with amendment pursuant to H. Res. 1712. (consideration: CR H7403-7405; text as House agreed to Senate amendment with an amendment: CR H7403-7404)
+- 2010-11-15 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 1712.(consideration: CR H7403-7405; text as House agreed to Senate amendment with an amendment: CR H7403-7404)

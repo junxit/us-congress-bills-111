@@ -2,14 +2,14 @@
 legis-num: H.R. 5566
 congress: 111th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 5566
 
-That the bill from the House of Representatives (H.R. 5566) entitled “An Act to amend title 18, United States Code, to prohibit interstate commerce in animal crush videos, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 5566) entitled “An Act to amend title 18, United States Code, to prohibit interstate commerce in animal crush videos, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
 
 ## § 1. Short title
 
@@ -45,13 +45,13 @@ The Congress finds the following:
   >   - **(1)** depicts actual conduct in which 1 or more living non-human mammals, birds, reptiles, or amphibians is intentionally crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242); and
   >   - **(2)** is obscene.
   > - **(b)** *Prohibitions*
-  >   - **(1)** *Creation of animal crush videos* It shall be unlawful for any person to knowingly create an animal crush video, or to attempt or conspire to do so, if—
+  >   - **(1)** *Creation of animal crush videos* It shall be unlawful for any person to knowingly create an animal crush video, if—
   >     - **(A)** the person intends or has reason to know that the animal crush video will be distributed in, or using a means or facility of, interstate or foreign commerce; or
   >     - **(B)** the animal crush video is distributed in, or using a means or facility of, interstate or foreign commerce.
-  >   - **(2)** *Distribution of animal crush videos* It shall be unlawful for any person to knowingly sell, market, advertise, exchange, or distribute an animal crush video in, or using a means or facility of, interstate or foreign commerce, or to attempt or conspire to do so.
-  > - **(c)** *Extraterritorial application* Subsection (b) shall apply to the knowing sale, marketing, advertising, exchange, distribution, or creation of an animal crush video outside of the United States, or any attempt or conspiracy to do so, if—
+  >   - **(2)** *Distribution of animal crush videos* It shall be unlawful for any person to knowingly sell, market, advertise, exchange, or distribute an animal crush video in, or using a means or facility of, interstate or foreign commerce.
+  > - **(c)** *Extraterritorial application* Subsection (b) shall apply to the knowing sale, marketing, advertising, exchange, distribution, or creation of an animal crush video outside of the United States, if—
   >   - **(1)** the person engaging in such conduct intends or has reason to know that the animal crush video will be transported into the United States or its territories or possessions; or
-  >   - **(2)** the animal crush video is transported into the United States or its territories or possessions.”
+  >   - **(2)** the animal crush video is transported into the United States or its territories or possessions.
   > - **(d)** *Penalty* Any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 7 years, or both.
   > - **(e)** *Exceptions*
   >   - **(1)** *In general* This section shall not apply with regard to any visual depiction of—
@@ -65,3 +65,7 @@ The Congress finds the following:
 
 - **(b)** *Clerical amendment* The item relating to section 48 in the table of sections for chapter 3 of title 18, United States Code, is amended to read as follows:
 - **(c)** *Severability* If any provision of section 48 of title 18, United States Code (as amended by this section), or the application of the provision to any person or circumstance, is held to be unconstitutional, the provision and the application of the provision to other persons or circumstances shall not be affected thereby.
+
+## § 4. PAYGO compliance
+
+The budgetary effects of this Act, for purposes of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendments between the Houses.
