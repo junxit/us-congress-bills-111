@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 74
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 74
@@ -20,8 +20,15 @@ A concurrent resolution honoring the 28th Infantry Division for serving and prot
 
 - Sen. Specter, Arlen [D-PA] (S000709)
 
+## Committees (1)
+
+- House — Armed Services Committee
+
 ## Actions
 
 - 2010-09-29 — Introduced in Senate
 - 2010-09-29 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S7772-7773; text as passed Senate: CR S7772-7773; text of measure as introduced: CR S7841)
 - 2010-09-29 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7772-7773; text as passed Senate: CR S7772-7773; text of measure as introduced: CR S7841)
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-11-15 — Received in the House.
+- 2010-11-15 — Referred to the House Committee on Armed Services.
