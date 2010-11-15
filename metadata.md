@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5605
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5605
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 47 East
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ To designate the facility of the United States Postal Service located at 47 East
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7030)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7030)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
