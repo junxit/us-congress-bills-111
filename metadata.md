@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4602
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4602
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 1332 Sh
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 1332 Sh
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7029)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7029)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
