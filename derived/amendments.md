@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1032
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 300n-4a
+
+> in subsection (d)(1), by striking “there are authorized” and all that follows through the period and inserting “there are authorized to be appropriated $23,000,000 for fiscal year 2012, $25,300,000 for fiscal year 2013, $27,800,000 for fiscal year 2014, $30,800,000 for fiscal year 2015, and $34,000,000 for fiscal year 2016.”.
+
+| | |
+|---|---|
+| Removed | `there are authorized` |
+| Inserted | `there are authorized to be appropriated $23,000,000 for fiscal year 2012, $25,300,000 for fiscal year 2013, $27,800,000 for fiscal year 2014, $30,800,000 for fiscal year 2015, and $34,000,000 for fiscal year 2016.` |
 
 ## Stated, not applied
 
@@ -31,7 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the heading and inserting “In general.—”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding paragraph (1), by striking “may make grants” and all that follows through “purpose” and inserting the following: “may make grants to such States for the purpose”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(1), by striking “there are authorized” and all that follows through the period and inserting “there are authorized to be appropriated $23,000,000 for fiscal year 2012, $25,300,000 for fiscal year 2013, $27,800,000 for f… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300n-4a` | replace | by striking the heading and inserting “In general.—”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300n-4a` | replace | in the matter preceding paragraph (1), by striking “may make grants” and all that follows through “purpose” and inserting the following: “may make grants to such States for the purpose”; and | the bill quotes the text struck but describes what replaces it |
