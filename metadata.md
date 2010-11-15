@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2941
@@ -175,9 +175,10 @@ To reauthorize and enhance Johanna's Law to increase public awareness and knowle
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -202,3 +203,4 @@ To reauthorize and enhance Johanna's Law to increase public awareness and knowle
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7194)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7194)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
