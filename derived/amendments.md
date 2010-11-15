@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4337
 congress: 111
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 

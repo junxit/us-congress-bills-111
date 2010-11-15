@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4337
 congress: 111
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4337
@@ -39,3 +39,4 @@ Regulated Investment Company Modernization Act of 2010
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7064-7069)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7064-7069)
 - 2010-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2010-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.
