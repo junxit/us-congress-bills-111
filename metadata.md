@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 5566
@@ -329,3 +329,14 @@ Animal Crush Video Prohibition Act of 2010
 - 2010-09-28 — Senate amendment submitted
 - 2010-11-15 — House agreed to Senate amendment with amendment pursuant to H. Res. 1712. (consideration: CR H7403-7405; text as House agreed to Senate amendment with an amendment: CR H7403-7404)
 - 2010-11-15 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 1712.(consideration: CR H7403-7405; text as House agreed to Senate amendment with an amendment: CR H7403-7404)
+- 2010-11-17 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-11-19 — Cleared for White House.
+- 2010-11-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to Senate amendment by Unanimous Consent.(consideration: CR S8202-8204; text as Senate agreed to House amendment: CR S8202-8203)
+- 2010-11-19 — Senate agreed to the House amendment to Senate amendment by Unanimous Consent. (consideration: CR S8202-8204; text as Senate agreed to House amendment: CR S8202-8203)
+- 2010-11-22 — Message on Senate action sent to the House.
+- 2010-11-30 — Presented to President.
+- 2010-11-30 — Presented to President.
+- 2010-12-09 — Became Public Law No: 111-294.
+- 2010-12-09 — Became Public Law No: 111-294.
+- 2010-12-09 — Signed by President.
+- 2010-12-09 — Signed by President.

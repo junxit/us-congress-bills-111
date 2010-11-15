@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5566
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
