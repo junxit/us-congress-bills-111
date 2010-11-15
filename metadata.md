@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2853
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2853
@@ -29,9 +29,10 @@ All-American Flag Act
 - Rep. Foster, Bill [D-IL-14] (F000454)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ All-American Flag Act
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7027)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7027)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
