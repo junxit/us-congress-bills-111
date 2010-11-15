@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5606
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5606
@@ -58,3 +58,15 @@ To designate the facility of the United States Postal Service located at 47 Sout
 - 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7029)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7029)
 - 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-362.
+- 2011-01-04 — Became Public Law No: 111-362.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
