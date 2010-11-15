@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2408
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 284` | add-at-end | Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
