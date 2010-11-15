@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 111
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 847
@@ -193,3 +193,4 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - 2010-09-29 — Rules Committee Resolution H. Res. 1674 Reported to House. Rule provides for consideration of H.R. 847 and H.R. 2378. With respect to H.R. 847, the rule grants a closed rule providing one hour of debate in the House, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means.
 - 2010-09-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7256)
 - 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7252)
+- 2010-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 641.
