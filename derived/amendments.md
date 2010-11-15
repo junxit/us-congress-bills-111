@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Title III of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) is amended by inserting after section 319 the following new section: | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 431` | insert | Title III of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) is amended by inserting after section 319 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

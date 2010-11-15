@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 512
@@ -21,9 +21,10 @@ Federal Election Integrity Act of 2010
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Federal Election Integrity Act of 2010
 - 2010-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 129 (Roll no. 563). (text: CR 9/28/2010 H7145-7146)
 - 2010-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 129 (Roll no. 563).(text: CR 9/28/2010 H7145-7146)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
