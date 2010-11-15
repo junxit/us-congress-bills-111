@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5354
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5354
@@ -45,9 +45,10 @@ GEDI Act
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ GEDI Act
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7178-7179)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7178-7179)
 - 2010-09-30 — The title of the measure was amended. Agreed to without objection.
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
