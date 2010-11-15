@@ -1,7 +1,7 @@
 ---
 measure: S. 3794
 congress: 111
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 3794
@@ -21,9 +21,10 @@ FOR VETS Act of 2010
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ FOR VETS Act of 2010
 - 2010-09-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7769-7770; text of measure as reported in Senate: CR S7769; text as passed Senate: CR S7769-7770)
 - 2010-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7769-7770; text of measure as reported in Senate: CR S7769; text as passed Senate: CR S7769-7770)
 - 2010-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-11-15 — Received in the House.
+- 2010-11-15 — Referred to the House Committee on Oversight and Government Reform.
