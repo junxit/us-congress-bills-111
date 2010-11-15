@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1210
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1210
@@ -198,9 +198,10 @@ Arthritis Prevention, Control, and Cure Act of 2010
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -223,3 +224,4 @@ Arthritis Prevention, Control, and Cure Act of 2010
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7196-7197)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7196-7197)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
