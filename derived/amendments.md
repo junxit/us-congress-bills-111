@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3243
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 5542` | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

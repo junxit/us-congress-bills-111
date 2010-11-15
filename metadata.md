@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3243
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3243
@@ -27,9 +27,10 @@ To amend section 5542 of title 5, United States Code, to provide that any hours 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To amend section 5542 of title 5, United States Code, to provide that any hours 
 - 2010-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-09-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/28/2010 H7038)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/28/2010 H7038)
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
