@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 72
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 72
@@ -20,9 +20,10 @@ A concurrent resolution recognizing the 45th anniversary of the White House Fell
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A concurrent resolution recognizing the 45th anniversary of the White House Fell
 - 2010-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7772)
 - 2010-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7772)
 - 2010-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7772)
+- 2010-09-30 — Message on Senate action sent to the House.
+- 2010-11-15 — Received in the House.
+- 2010-11-15 — Referred to the House Committee on Oversight and Government Reform.
