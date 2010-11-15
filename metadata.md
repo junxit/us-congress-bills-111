@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5462
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5462
@@ -68,9 +68,10 @@ Birth Defects Prevention, Risk Reduction, and Awareness Act of 2010
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -96,3 +97,4 @@ Birth Defects Prevention, Risk Reduction, and Awareness Act of 2010
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7195)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7195)
 - 2010-09-30 — The title of the measure was amended. Agreed to without objection.
+- 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
