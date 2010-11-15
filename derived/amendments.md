@@ -1,7 +1,7 @@
 ---
 measure: S. 3689
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 512(c)(2) is amended, in the matter following subparagraph (B), by striking “, in both electronic and hard copy formats”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 205(a) is amended by adding at the end the following: “A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.”. | the bill names no machine-readable US Code section |
+| — | amend | Section 205(a) is amended by adding at the end the following: “A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 601, and the item relating to such section in the table of sections for chapter 6, are repealed. | the bill names no machine-readable US Code section |
 | — | amend | The heading for chapter 6 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The item relating to chapter 6 in the table of chapters is amended to read as follows: | the bill names no machine-readable US Code section |

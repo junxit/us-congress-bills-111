@@ -1,7 +1,7 @@
 ---
 measure: S. 3689
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3689
@@ -48,3 +48,14 @@ Copyright Cleanup, Clarification, and Corrections Act of 2010
 - 2010-11-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0, 1 Present (Roll no. 566). (text: CR H7411-7412)
 - 2010-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0, 1 Present (Roll no. 566).(text: CR H7411-7412)
 - 2010-11-15 — The title of the measure was amended. Agreed to without objection.
+- 2010-11-17 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2010-11-19 — Cleared for White House.
+- 2010-11-19 — Resolving differences -- Senate actions: Senate agreed to the House amendments by Unanimous Consent.(consideration: CR S8204; text as Senate agreed to House amendment: CR S8204)
+- 2010-11-19 — Senate agreed to the House amendments by Unanimous Consent. (consideration: CR S8204; text as Senate agreed to House amendment: CR S8204)
+- 2010-11-22 — Message on Senate action sent to the House.
+- 2010-11-30 — Presented to President.
+- 2010-11-30 — Presented to President.
+- 2010-12-09 — Became Public Law No: 111-295.
+- 2010-12-09 — Became Public Law No: 111-295.
+- 2010-12-09 — Signed by President.
+- 2010-12-09 — Signed by President.
