@@ -2,7 +2,7 @@
 legis-num: H. RES. 1494
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1494
@@ -26,6 +26,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** congratulates all the contestants of the 83rd Annual Scripps National Spelling Bee;
-- **(2)** recognizes the dedication and achievement of competition winner Anamika Veeramani and the other finalists Adrian Gunawan, Elizabeth Platz, Shantanu Srivatsa, Laura Newcombe, Lanson Tang, Joanna Ye, and Andrew Grose; and
-- **(3)** directs the Clerk of the House of Representatives to make available enrolled copies of this resolution to the families and schools of such winner and finalists.
+- **(1)** congratulates all the contestants of the 83rd Annual Scripps National Spelling Bee; and
+- **(2)** recognizes the dedication and achievement of competition winner Anamika Veeramani and the other finalists Adrian Gunawan, Elizabeth Platz, Shantanu Srivatsa, Laura Newcombe, Lanson Tang, Joanna Ye, and Andrew Grose.
