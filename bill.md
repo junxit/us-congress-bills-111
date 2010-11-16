@@ -2,21 +2,20 @@
 legis-num: H. RES. 1654
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1654
 
-> Expressing support for designation of the week of October 24, 2010, as “Undergraduate Research Week”.
+> Expressing support for designation of the week of April 11, 2011, as “Undergraduate Research Week”.
 
 ## Preamble
 
 - Whereas close to 600 colleges and universities in the United States and thousands of undergraduate students and faculty pursue undergraduate research every year, providing research opportunities that will shape the trajectory of students’ lives and careers and researchers’ and institutions’ purpose and contributions to academia and the research enterprise;
 - Whereas students and faculty engaged in undergraduate research contribute to research across many disciplines, including arts and humanities, biology, chemistry, health sciences, geosciences, mathematics, computer science, physics and astronomy, psychology, and social sciences;
 - Whereas research at the undergraduate level provides both students and faculty members opportunities for improving and assessing the research environment at their institution, develops critical thinking, creativity, problem solving, and intellectual independence, and promotes an innovation-oriented culture;
-- Whereas undergraduate research is essential to pushing the Nation’s innovation agenda forward by increasing the interest and persistence among young people in the crucial science, technology, engineering, and mathematics (STEM) disciplines, and to cultivating the interest of would-be researchers who pursue a new aspiration of graduate education after participating in undergraduate research;
-- Whereas the combining of two national organizations that advocate for important investments and support for undergraduate research and undergraduate researchers, the Council on Undergraduate Research and the National Conferences on Undergraduate Research, have come together to support the endeavor warrants recognition; and
-- Whereas the week of October 24, 2010, would be an appropriate week to designate as “Undergraduate Research Week”: Now, therefore, be it
+- Whereas undergraduate research is essential to pushing the Nation’s innovation agenda forward by increasing the interest and persistence among young people in the crucial science, technology, engineering, and mathematics (STEM) disciplines, and to cultivating the interest of would-be researchers who pursue a new aspiration of graduate education after participating in undergraduate research; and
+- Whereas the week of April 11, 2011, would be an appropriate week to designate as “Undergraduate Research Week”: Now, therefore, be it
 
 That the House of Representatives—
 
