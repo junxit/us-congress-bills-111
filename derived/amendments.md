@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5702
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 401(d)(1) of the District of Columbia Home Rule Act (sec. 1–204.01(d)(1), D.C. Official Code) is amended by striking “one hundred and fourteen days” and inserting “seventy days”. | the bill names no machine-readable US Code section |
+| — | replace | Section 401(b)(3) of the District of Columbia Home Rule Act (sec. 1–204.01(b)(3), D.C. Official Code) is amended by striking “one hundred and fourteen days” and inserting “seventy days”. | the bill names no machine-readable US Code section |
+| — | replace | Section 401(d)(1) of such Act (sec. 1–204.01(d)(1), D.C. Official Code) is amended by striking “one hundred and fourteen days” and inserting “seventy days”. | the bill names no machine-readable US Code section |
+| — | replace | Section 401(d)(2) of such Act (sec. 1–204.01(d)(2), D.C. Official Code) is amended by striking “one hundred and fourteen days” and inserting “seventy days”. | the bill names no machine-readable US Code section |
+| — | replace | Section 421(c)(2) of such Act (sec. 1—204.21(c)(2), D.C. Official Code) is amended by striking “one hundred and fourteen days” and inserting “seventy days”. | the bill names no machine-readable US Code section |
