@@ -2,7 +2,7 @@
 legis-num: H. RES. 1652
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1652
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas principals set the academic tone for their schools and work collaboratively with teachers to develop and maintain high curriculum standards, develop mission statements, and set performance goals and objectives;
 - Whereas the vision, dedication, and determination of a school leader provides the mobilizing force behind a school reform effort;
 - Whereas leadership is second only to classroom instruction among all school-related factors that contribute to student achievement, according to research conducted by the Wallace Foundation;
-- Whereas nearly 60 percent of a school’s impact on student achievement is due to the combination of principal and teacher effectiveness, and studies find no examples of success in turnaround schools without effective principal leadership, according to New Leaders for New Schools;
+- Whereas principal and teacher effectiveness have a significant impact on student achievement, and studies find no examples of success in turnaround schools without effective principal leadership, according to New Leaders for New Schools;
 - Whereas the U.S. Bureau of Labor Statistics estimates that approximately 1 in 3 education administrators works more than 40 hours a week and often works an additional 15 to 20 hours each week supervising school activities at night and on weekends;
 - Whereas assistant principals also play a crucial role providing leadership and charting a successful course at a school;
 - Whereas the NAESP National Distinguished Principals program honors exemplary elementary and middle level public, private, and independent school leaders as well as leaders from the U.S. Department of Defense Schools and the U.S. Department of State Overseas Schools, for outstanding leadership for student learning and the profession;
