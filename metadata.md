@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5655
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5655
@@ -16,7 +16,7 @@ To designate the Little River Branch facility of the United States Postal Servic
 
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 
-## Cosponsors (20)
+## Cosponsors (24)
 
 - Rep. Boyd, Allen [D-FL-2] (B000716)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
@@ -38,6 +38,10 @@ To designate the Little River Branch facility of the United States Postal Servic
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
 ## Committees (1)
 
@@ -48,3 +52,11 @@ To designate the Little River Branch facility of the United States Postal Servic
 - 2010-06-30 — Introduced in House
 - 2010-06-30 — Introduced in House
 - 2010-06-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-07-28 — Committee Consideration and Mark-up Session Held.
+- 2010-07-28 — Ordered to be Reported by Unanimous Consent.
+- 2010-11-16 — Considered under suspension of the rules. (consideration: CR H7463)
+- 2010-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5655.
+- 2010-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7463)
+- 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7463)
