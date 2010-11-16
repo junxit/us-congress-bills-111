@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6237
@@ -80,3 +80,9 @@ To designate the facility of the United States Postal Service located at 1351 2n
 - 2010-09-28 — Introduced in House
 - 2010-09-28 — Introduced in House
 - 2010-09-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-11-16 — Considered under suspension of the rules. (consideration: CR H7469-7470)
+- 2010-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6237.
+- 2010-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2010-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7469)
+- 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7469)
