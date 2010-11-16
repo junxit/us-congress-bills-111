@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 716
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 716
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas in a study conducted by the Department of Justice and the Centers for Disease Control and Prevention, researchers found that 1 in 6 women are victims of rape or attempted rape;
-- Whereas on average, a person is sexually assaulted in the United States every 21/2 minutes;
+- Whereas on average, a person is sexually assaulted in the United States every 2½ minutes;
 - Whereas Gail Abarbanel, the founder and director of the Rape Treatment Center at the Santa Monica–UCLA Medical Center, created the Fast Track Forensics Program, an innovative program that speeds up the processing of DNA evidence to assist local law enforcement agencies;
 - Whereas delays in processing rape kits hamper investigations, jeopardize public safety, and result in lost justice for the victims who report their rape to the police and consent to the 4- to 6-hour rape kit collection process;
 - Whereas the Rape Treatment Center is nationally recognized for its exemplary treatment, education, and prevention programs; and
