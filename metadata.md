@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 332
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 332
@@ -29,3 +29,6 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2010-11-17 — On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 184 (Roll no. 572). (text: CR H7506)
 - 2010-11-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 184 (Roll no. 572).(text: CR H7506)
 - 2010-11-17 — Received in the Senate.
+- 2010-11-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8108-8109; text as passed Senate: CR S8108-8109)
+- 2010-11-18 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8108-8109; text as passed Senate: CR S8108-8109)
+- 2010-11-19 — Message on Senate action sent to the House.
