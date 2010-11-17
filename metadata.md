@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6399
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6399
@@ -33,3 +33,15 @@ To improve certain administrative operations of the Office of the Architect of t
 - 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7471)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7471)
 - 2010-11-17 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2010-12-04 — Cleared for White House.
+- 2010-12-04 — Passed Senate without amendment by Unanimous Consent.
+- 2010-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S8537-8538)
+- 2010-12-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S8537-8538)
+- 2010-12-06 — Message on Senate action sent to the House.
+- 2010-12-09 — Presented to President.
+- 2010-12-09 — Presented to President.
+- 2010-12-18 — Became Public Law No: 111-316.
+- 2010-12-18 — Became Public Law No: 111-316.
+- 2010-12-18 — Signed by President.
+- 2010-12-18 — Signed by President.
