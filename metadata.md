@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1672
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1672
@@ -16,7 +16,7 @@ Commemorating the Persian Gulf War and reaffirming the commitment of the United 
 
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Cosponsors (37)
+## Cosponsors (38)
 
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
@@ -55,6 +55,7 @@ Commemorating the Persian Gulf War and reaffirming the commitment of the United 
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (3)
 
@@ -70,3 +71,11 @@ Commemorating the Persian Gulf War and reaffirming the commitment of the United 
 - 2010-09-28 — Referred to House Foreign Affairs
 - 2010-09-28 — Referred to House Veterans' Affairs
 - 2010-09-28 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-10-20 — Referred to the Subcommittee on Military Personnel.
+- 2010-11-17 — Considered under suspension of the rules. (consideration: CR H7512-7515)
+- 2010-11-17 — DEBATE - The House concluded debate on H. Res. 1672.
+- 2010-11-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1672.
+- 2010-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-17 — Ms. Watson moved to suspend the rules and agree to the resolution, as amended.
+- 2010-11-17 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7512)
+- 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7512)
