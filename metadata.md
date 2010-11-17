@@ -1,7 +1,7 @@
 ---
 measure: S. 1421
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1421
@@ -44,3 +44,19 @@ Asian Carp Prevention and Control Act
 - 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.
 - 2010-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7992; text as passed Senate: CR S7992)
 - 2010-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7992; text as passed Senate: CR S7992)
+- 2010-11-18 — Held at the desk.
+- 2010-11-18 — Message on Senate action sent to the House.
+- 2010-11-18 — Received in the House.
+- 2010-12-01 — Cleared for White House.
+- 2010-12-01 — Considered under suspension of the rules. (consideration: CR H7821-7822)
+- 2010-12-01 — DEBATE - The House proceeded with forty minutes of debate on S. 1421.
+- 2010-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-01 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2010-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7821)
+- 2010-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7821)
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-14 — Became Public Law No: 111-307.
+- 2010-12-14 — Became Public Law No: 111-307.
+- 2010-12-14 — Signed by President.
+- 2010-12-14 — Signed by President.
