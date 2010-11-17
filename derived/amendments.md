@@ -1,7 +1,7 @@
 ---
 measure: S. 1421
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 

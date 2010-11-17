@@ -1,7 +1,7 @@
 ---
 measure: S. 1421
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1421
@@ -42,3 +42,5 @@ Asian Carp Prevention and Control Act
 - 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-181.
 - 2010-05-05 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-181.
 - 2010-05-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.
+- 2010-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7992; text as passed Senate: CR S7992)
+- 2010-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7992; text as passed Senate: CR S7992)
