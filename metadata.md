@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6387
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6387
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 337 Wes
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To designate the facility of the United States Postal Service located at 337 Wes
 - 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7470)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7470)
+- 2010-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
