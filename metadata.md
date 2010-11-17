@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1648
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1648
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Adoption Day and National Adoption M
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (33)
+## Cosponsors (43)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
@@ -51,6 +51,16 @@ Supporting the goals and ideals of National Adoption Day and National Adoption M
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
 
 ## Committees (1)
 
@@ -61,3 +71,9 @@ Supporting the goals and ideals of National Adoption Day and National Adoption M
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Referred to the House Committee on Ways and Means.
+- 2010-11-17 — Considered under suspension of the rules. (consideration: CR H7518-7521)
+- 2010-11-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1648.
+- 2010-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-17 — Mr. McDermott moved to suspend the rules and agree to the resolution.
+- 2010-11-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7518)
+- 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7518)
