@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5655
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5655
@@ -43,9 +43,10 @@ To designate the Little River Branch facility of the United States Postal Servic
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ To designate the Little River Branch facility of the United States Postal Servic
 - 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7463)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7463)
+- 2010-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
