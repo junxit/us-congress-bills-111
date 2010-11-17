@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6399
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 108 of the Legislative Branch Appropriations Act, 1991 (2 U.S.C. 1849) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | Section 1203(e) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1805(e)) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 1849` | amend | Section 108 of the Legislative Branch Appropriations Act, 1991 (2 U.S.C. 1849) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1805` | strike | Section 1203(e) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1805(e)) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

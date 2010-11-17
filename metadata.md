@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6399
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6399
@@ -16,9 +16,10 @@ To improve certain administrative operations of the Office of the Architect of t
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To improve certain administrative operations of the Office of the Architect of t
 - 2010-11-16 — Mrs. Davis (CA) moved to suspend the rules and pass the bill.
 - 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7471)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7471)
+- 2010-11-17 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
