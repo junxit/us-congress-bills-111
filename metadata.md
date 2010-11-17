@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 328
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 328
@@ -35,9 +35,10 @@ Expressing the sense of the Congress regarding the successful and substantial co
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Expressing the sense of the Congress regarding the successful and substantial co
 - 2010-11-15 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 568). (text: CR H7410)
 - 2010-11-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 568).(text: CR H7410)
 - 2010-11-15 — Referred to the House Committee on the Judiciary.
+- 2010-11-17 — Received in the Senate and referred to the Committee on the Judiciary.
