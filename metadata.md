@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1715
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1715
@@ -16,7 +16,7 @@ Congratulating Joe Paterno on his 400th win as Penn State Nittany Lions football
 
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 
-## Cosponsors (29)
+## Cosponsors (31)
 
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
@@ -47,13 +47,27 @@ Congratulating Joe Paterno on his 400th win as Penn State Nittany Lions football
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Murphy, Patrick J. [D-PA-8] (M001168)
 - Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2010-11-17 — [House 111-2-575](votes/house-111-2-0575.md) — On Motion to Suspend the Rules and Agree — **Passed** (417–3)
 
 ## Actions
 
 - 2010-11-15 — Introduced in House
 - 2010-11-15 — Introduced in House
 - 2010-11-15 — Referred to the House Committee on Education and Labor.
+- 2010-11-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-11-16 — Considered under suspension of the rules. (consideration: CR H7481-7482)
+- 2010-11-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1715.
+- 2010-11-16 — Ms. Hirono moved to suspend the rules and agree to the resolution.
+- 2010-11-17 — Considered as unfinished business. (consideration: CR H7509-7510)
+- 2010-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 575). (text: CR 11/16/2010 H7481)
+- 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 575).(text: CR 11/16/2010 H7481)
