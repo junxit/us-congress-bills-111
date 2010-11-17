@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6278
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6278
@@ -31,3 +31,4 @@ Kingman and Heritage Islands Act of 2010
 - 2010-11-16 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2010-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7464)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7464)
+- 2010-11-17 — Received in the Senate, read twice.
