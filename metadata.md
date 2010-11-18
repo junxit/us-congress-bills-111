@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 329
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 329
@@ -28,9 +28,10 @@ Recognizing the 35th anniversary of the enactment of the Education for All Handi
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -41,3 +42,8 @@ Recognizing the 35th anniversary of the enactment of the Education for All Handi
 - 2010-11-16 — Introduced in House
 - 2010-11-16 — Ms. Hirono moved to suspend the rules and agree to the resolution.
 - 2010-11-16 — Referred to the House Committee on Education and Labor.
+- 2010-11-18 — Considered as unfinished business. (consideration: CR H7578)
+- 2010-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 11/16/2010 H7482-7483)
+- 2010-11-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 11/16/2010 H7482-7483)
+- 2010-11-18 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
