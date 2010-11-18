@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 329
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 329

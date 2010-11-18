@@ -2,7 +2,7 @@
 legis-num: H. CON. RES. 329
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 329
@@ -31,9 +31,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the challenges associated with providing a free appropriate public education to every child with a disability continue despite 35 years of IDEA implementation, including low expectations and an insufficient focus on applying replicable research on proven methods of teaching and learning for children with disabilities, requiring a continued commitment to improvement; and
 - Whereas IDEA continues to serve as the framework to marshal the resources of this Nation to implement the promise of full participation in society of children with disabilities: Now, therefore, be it
 
-That
-
-the Congress—
+That the Congress—
 
 - **(1)** recognizes the 35th anniversary of the enactment of the Education for All Handicapped Children Act of 1975 (Public Law 94–142);
 - **(2)** acknowledges the many and varied contributions of children with disabilities and their parents, teachers, related services personnel, and administrators; and
