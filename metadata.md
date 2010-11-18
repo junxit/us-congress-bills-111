@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 647
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 647
@@ -16,7 +16,7 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Cosponsors (30)
+## Cosponsors (32)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
@@ -48,6 +48,8 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -57,3 +59,7 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 
 - 2010-09-27 — Introduced in Senate
 - 2010-09-27 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S7515)
+- 2010-11-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8107)
+- 2010-11-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8107)
+- 2010-11-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8107)
+- 2010-11-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8107)
