@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5866
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5866
@@ -16,11 +16,12 @@ Nuclear Energy Research and Development Act of 2010
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 - Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
 
 ## Committees (1)
 
@@ -32,3 +33,8 @@ Nuclear Energy Research and Development Act of 2010
 - 2010-07-27 — Introduced in House
 - 2010-07-27 — Referred to the House Committee on Science and Technology.
 - 2010-07-27 — Referred to the Subcommittee on Energy and Environment.
+- 2010-07-28 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2010-07-28 — Subcommittee Consideration and Mark-up Session Held.
+- 2010-11-18 — Placed on the Union Calendar, Calendar No. 392.
+- 2010-11-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-658.
+- 2010-11-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-658.
