@@ -1,7 +1,7 @@
 ---
 measure: S. 2991
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,3 +39,12 @@ complete account of the bill's effect, which it is not.
 | — | amend | Paragraph (4) of section 711 of title 31, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “or planned” after “action taken”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a)” and inserting “(2)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the section heading the following: | the bill names no machine-readable US Code section |
+| — | repeal | The Comptroller General is authorized to obtain such agency records as the Comptroller General requires to discharge his duties (including audit, evaluation, and investigative duties), including through the bringing of civil actions unde… | the bill names no machine-readable US Code section |
+| — | replace | Section 716(a) of title 31, United States Code, as amended by subsection (a), is further amended in the second sentence of paragraph (2) by striking “inspect an agency record” and inserting “inspect, and make and retain copies of, an age… | the bill names no machine-readable US Code section |
+| — | replace | Section 711 of title 31, United States Code, is amended by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following: | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding paragraph (1), by inserting “or planned” after “action taken”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
