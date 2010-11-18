@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 259
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 259
@@ -69,9 +69,10 @@ Recognizing the 500th anniversary of the birth of Italian architect Andrea Palla
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ Recognizing the 500th anniversary of the birth of Italian architect Andrea Palla
 - 2010-11-17 — Ms. Watson moved to suspend the rules and agree to the resolution.
 - 2010-11-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7515)
 - 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7515)
+- 2010-11-18 — Received in the Senate and referred to the Committee on the Judiciary.
