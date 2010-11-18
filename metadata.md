@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5712
@@ -16,12 +16,13 @@ Physician Payment and Therapy Relief Act of 2010
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (3)
 
@@ -46,3 +47,16 @@ Physician Payment and Therapy Relief Act of 2010
 - 2010-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5563-5564)
 - 2010-07-15 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-07-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
+- 2010-11-18 — Amendment SA 4711 agreed to in Senate by Unanimous Consent.
+- 2010-11-18 — Amendment SA 4711 proposed by Senator Reid for Senator Baucus. (consideration: CR S8046; text: CR S8046) In the nature of a substitute.
+- 2010-11-18 — Amendment SA 4712 agreed to in Senate by Unanimous Consent.
+- 2010-11-18 — Amendment SA 4712 proposed by Senator Reid for Senator Baucus. (consideration: CR S8046; text: CR S8046) To amend the title.
+- 2010-11-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8046)
+- 2010-11-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-11-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-11-18 — Senate amendment agreed to: Amendment SA 4711 agreed to in Senate by Unanimous Consent.
+- 2010-11-18 — Senate amendment agreed to: Amendment SA 4712 agreed to in Senate by Unanimous Consent.
+- 2010-11-18 — Senate amendment proposed (on the floor): Amendment SA 4711 proposed by Senator Reid for Senator Baucus.(consideration: CR S8046; text: CR S8046)
+- 2010-11-18 — Senate amendment proposed (on the floor): Amendment SA 4712 proposed by Senator Reid for Senator Baucus.(consideration: CR S8046; text: CR S8046)
+- 2010-11-18 — Senate amendment submitted
+- 2010-11-18 — Senate amendment submitted

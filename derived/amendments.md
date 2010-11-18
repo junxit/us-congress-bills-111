@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,69 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 6 executed, 13 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 42 U.S.C. § 256b
-
-> Subsection (e) of section 340B of the Public Health Service Act (42 U.S.C. 256b) is amended by striking “covered entities described in subparagraph (M)” and inserting “covered entities described in subparagraph (M) (other than a children’s hospital described in subparagraph (M))”.
-
-| | |
-|---|---|
-| Removed | `covered entities described in subparagraph (M)` |
-| Inserted | `covered entities described in subparagraph (M) (other than a children’s hospital described in subparagraph (M))` |
-
-### 42 U.S.C. § 1397jj
-
-> by striking “each employee” and inserting “employees”; and
-
-| | |
-|---|---|
-| Removed | `each employee` |
-| Inserted | `employees` |
-
-### 42 U.S.C. § 1396b
-
-> in paragraph (3)(E), by striking “reduced by any payment that is made to such Medicaid provider from any other source (other than under this subsection or by a State or local government)” and inserting “reduced by the average payment the Secretary estimates will be made to such Medicaid providers (determined on a percentage or other basis for such classes or types of providers as the Secretary may specify) from other sources (other than under this subsection, or by the Federal government or a State or local government)”; and
-
-| | |
-|---|---|
-| Removed | `reduced by any payment that is made to such Medicaid provider from any other source (other than under this subsection or by a State or local government)` |
-| Inserted | `reduced by the average payment the Secretary estimates will be made to such Medicaid providers (determined on a percentage or other basis for such classes or types of providers as the Secretary may specify) from other sources (other than under this subsection, or by the Federal government or a State or local government)` |
-
-### 42 U.S.C. § 1396a
-
-> in subsection (a)(10), in the matter following subparagraph (G), by striking “and” before “(XVI) the medical” and by striking “(XVI) if” and inserting “(XVII) if”; and
-
-| | |
-|---|---|
-| Removed | `and” before “(XVI) the medical” and by striking “(XVI) if` |
-| Inserted | `(XVII) if` |
-
-### 42 U.S.C. § 1396a
-
-> in subsection (ii)(2), by striking “(XV)” and inserting “(XVI)”.
-
-| | |
-|---|---|
-| Removed | `(XV)` |
-| Inserted | `(XVI)` |
-
-### 42 U.S.C. § 1395
-
-> Section 106(a) of division B of the Tax Relief and Health Care Act of 2006 (42 U.S.C. 1395 note), as amended by section 117 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173), section 124 of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110–275), and sections 3137(a) and 10317 of Public Law 111–148, is amended by striking “September 30, 2010” and inserting “September 30, 2011”.
-
-| | |
-|---|---|
-| Removed | `September 30, 2010` |
-| Inserted | `September 30, 2011` |
 
 ## Stated, not applied
 
@@ -87,16 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Effective as if included in the enactment of Public Law 111–148, section 3110(a)(2) of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | repeal | Effective as if included in the enactment of Public Law 111–148, section 10325 of such Act is repealed. | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1395ww` | add-at-end | Effective as if included in the enactment of section 5503(a) of Public Law 111–148, section 1886(h)(8) of the Social Security Act (42 U.S.C. 1395ww(h)(8)), as added by such section 5503(a), is amended by adding at the end the following n… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | replace | Subparagraph (B) of section 1927(a)(5) of the Social Security Act (42 U.S.C. 1396r–8(a)(5)) is amended by striking “and a children’s hospital” and all that follows through the end of the subparagraph and inserting a period. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1397jj` | repeal | Section 6502 of Public Law 111–148 is repealed and the provisions of law amended by such section are restored as if such section had never been enacted. Nothing in the previous sentence shall affect the execution or placement of the inse… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397jj` | replace | Effective as if included in the enactment of Public Law 111–148, section 2001(a)(5)(B) of such Act is amended by striking all that follows “is amended” and inserting the following: “by inserting after 100 percent the following: (or, begi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397jj` | add-at-end | Section 601(b) of the Children’s Health Insurance Program Reauthorization Act of 2009 (Public Law 111–3) is amended by adding at the end the following: ‘‘The Secretary is not required under this subsection to calculate or publish a natio… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397jj` | strike | by striking “per person” in the heading; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1397jj` | strike | in subparagraph (C), by striking “, on a case-by-case basis,”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396b` | insert | in paragraph (6)(B), by inserting before the period the following: “and shall be determined to have met such responsibility to the extent that the payment to the Medicaid provider is not in excess of 85 percent of the net average allowab… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397gg` | redesignate | Section 2107(e)(1) of the Social Security Act (42 U.S.C. 1397gg(e)(1)) is amended by redesignating the subparagraph (N) of that section added by 2101(e) of Public Law 111–148 as subparagraph (O). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395` | insert | Section 117(a)(3) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173), is amended by inserting “in fiscal years 2008 and 2009” after “For purposes of implementation of this subsection”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395iii` | replace | Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking subparagraphs (A) and (B) and inserting the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in the heading, by striking “november” and inserting “december”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “November 30” and inserting “December 31”; and | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “remaining portion of 2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “the period beginning on December 1, 2010, and ending on December 31, 2010, and for”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 1848(c)(2)(B)(v) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
