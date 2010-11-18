@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1721
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1721
@@ -20,6 +20,11 @@ Providing for the consideration of the Senate amendment to the bill (H.R. 1722) 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2010-11-18 — [House 111-2-576](votes/house-111-2-0576.md) — On Ordering the Previous Question — **Passed** (239–171)
+- 2010-11-18 — [House 111-2-577](votes/house-111-2-0577.md) — On Agreeing to the Resolution — **Passed** (235–171)
+
 ## Actions
 
 - 2010-11-17 — Introduced in House
@@ -27,3 +32,9 @@ Providing for the consideration of the Senate amendment to the bill (H.R. 1722) 
 - 2010-11-17 — Placed on the House Calendar, Calendar No. 244.
 - 2010-11-17 — The House Committee on Rules reported an original measure, H. Rept. 111-657, by Mr. Arcuri.
 - 2010-11-17 — The House Committee on Rules reported an original measure, H. Rept. 111-657, by Mr. Arcuri.
+- 2010-11-18 — Considered as privileged matter. (consideration: CR H7553-7560)
+- 2010-11-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 1721.
+- 2010-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-18 — On agreeing to the resolution Agreed to by recorded vote: 235 - 171 (Roll no. 577). (text: CR H7553)
+- 2010-11-18 — On ordering the previous question Agreed to by the Yeas and Nays: 239 - 171 (Roll no. 576). (consideration: CR H7558-7559; text: CR H7558-7559)
+- 2010-11-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 235 - 171 (Roll no. 577).(text: CR H7553)
