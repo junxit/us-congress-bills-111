@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 327
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 327
@@ -80,3 +80,6 @@ Recognizing and supporting the efforts of the USA Bid Committee to bring the 202
 - 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7516-7517)
 - 2010-11-17 — The title of the measure was amended. Agreed to without objection.
 - 2010-11-18 — Received in the Senate.
+- 2010-11-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8205)
+- 2010-11-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8205)
+- 2010-11-22 — Message on Senate action sent to the House.
