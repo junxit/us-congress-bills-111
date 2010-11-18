@@ -25,7 +25,7 @@ This Act may be cited as the “Census Oversight Efficiency and Management Refor
   > - **(b)** *Director of the Census*
   >   - **(1)** *Appointment*
   >     - **(A)** *In general* The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate.
-  >     - **(B)** *Qualifications* Such appointment shall be made from individuals who have a demonstrated ability in management and experience in the collection, analysis, and use of statistical data.
+  >     - **(B)** *Qualifications* Such appointment shall be made from individuals who have a demonstrated ability in managementmanaging large organizations and experience in the collection, analysis, and use of statistical data.
   >   - **(2)** *General authority and duties*
   >     - **(A)** *In general* The Director shall report directly to the Secretary without being required to report through any other official of the Department of Commerce.
   >     - **(B)** *Duties* The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary.
@@ -33,7 +33,7 @@ This Act may be cited as the “Census Oversight Efficiency and Management Refor
   >   - **(3)** *Term of office*
   >     - **(A)** *In general* The term of office of the Director shall be 5 years, and shall begin on January 1, 2012, and every fifth year thereafter. An individual may not serve more than 2 full terms as Director.
   >     - **(B)** *Vacancies* Any individual appointed to fill a vacancy in such position, occurring before the expiration of the term for which such individual's predecessor was appointed, shall be appointed for the remainder of that term. The Director may serve after the end of the Director's term until reappointed or until a successor has been appointed, but in no event longer than 1 year after the end of such term.
-  >     - **(C)** *Removal* An individual serving as Director may be removed from office by the President. The President shall communicate in writing the reasons for any such removal to both Houses of Congress not later than 30 days before the removal.
+  >     - **(C)** *Removal* An individual serving as Director may be removed from office by the President. The President shall communicate in writing the reasons for any such removal to both Houses of Congress not later than 30 days60 days before the removal.
   >   - **(4)** *Functions* The Director shall be responsible for the exercise of all powers and the discharge of all duties of the Bureau, and shall have authority and control over all personnel and activities thereof.
   >   - **(5)** *Organization* The Director may establish, alter, consolidate, or discontinue such organizational units or components within the Bureau as the Director considers necessary or appropriate, except that this paragraph shall not apply with respect to any unit or component provided for by law.
   >   - **(6)** *Advisory committees* The Director may establish advisory committees to provide advice with respect to any function of the Director. Members of any such committee shall serve without compensation, but shall be entitled to transportation expenses and per diem in lieu of subsistence in accordance with section 5703 of title 5.

@@ -1,7 +1,7 @@
 ---
 measure: S. 3167
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3167
@@ -29,3 +29,8 @@ Census Oversight Efficiency and Management Reform Act of 2010
 - 2010-03-25 — Introduced in Senate
 - 2010-03-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2118-2119)
 - 2010-03-25 — Sponsor introductory remarks on measure. (CR S2117-2118)
+- 2010-04-22 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-04-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-351.
+- 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-351.
+- 2010-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 647.
