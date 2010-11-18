@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 259
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 259
@@ -86,3 +86,8 @@ Recognizing the 500th anniversary of the birth of Italian architect Andrea Palla
 - 2010-11-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7515)
 - 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7515)
 - 2010-11-18 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2010-12-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-12-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2010-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8557)
+- 2010-12-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8557)
+- 2010-12-07 — Message on Senate action sent to the House.
