@@ -2,17 +2,17 @@
 legis-num: H. RES. 1677
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1677
 
-> Condemning the Burmese regime’s undemocratic upcoming elections on November 7, 2010.
+> Condemning the Burmese regime’s undemocratic elections on November 7, 2010.
 
 ## Preamble
 
 - Whereas the current military regime, officially known as the State Peace and Development Council (SPDC), known previously as the State Law and Order Restoration Council (SLORC), held multi-party elections in 1990;
-- Whereas despite the threat and pressure by the military regime to vote for the candidates of the military-backed National Unity Party (NUP), the people of Burma voted 82 percent of parliament seats for the candidates of the National League for Democracy (NLD) party, led by detained leader Daw Aung San Suu Kyi and allied ethnic political parties;
+- Whereas despite the threat and pressure by the military regime to vote for the candidates of the military-backed National Unity Party (NUP), the people of Burma voted 82 percent of parliament seats for the candidates of the National League for Democracy (NLD) party, led by formerly detained leader Daw Aung San Suu Kyi and allied ethnic political parties;
 - Whereas the military regime refused to honor the election results and arrested and imprisoned both democracy activists and elected members of parliament;
 - Whereas the SPDC over a period of 14 years held a National Convention to draft a new constitution in which the process was tightly controlled, repressive, and undemocratic;
 - Whereas the NLD walked out of the convention in 1995 because participants were not allowed to table alternative proposals or voice disagreement with the military regime;
@@ -27,23 +27,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the amnesty provision of the constitution removes any rights for civil redress for victims of crimes committed by the military and leaders of the democratic opposition have refused to accept this constitution;
 - Whereas the amnesty provision is a blatant attempt to legitimize the systematic violence in the country for all junta inflicted crimes;
 - Whereas the ruling military junta in Burma has one of the worst human rights records in the world and routinely violates the rights of Burmese citizens, including the systematic use of rape as a weapon of war, extrajudicial killings, arbitrary arrests and detention, torture, as well as slave and child labor, including child soldiers;
-- Whereas the detention of Aung San Suu Kyi by the Burmese military regime contravenes Article 9 of the Universal Declaration of Human Rights and has drawn widespread condemnation from around the world;
+- Whereas the previous detention of Aung San Suu Kyi by the Burmese military regime contravenes Article 9 of the Universal Declaration of Human Rights and has drawn widespread condemnation from around the world;
 - Whereas in March 2010, the military regime announced laws governing the elections, including the Union Election Commission Law, giving their handpicked members complete authority to convene the election, along with final decisionmaking power, regarding election postponement, rejection, monitoring, forming sub-commissions, formation of constituencies, compiling list of eligible voters, and forming of tribunals to judge election dispute;
 - Whereas articles 4 and 10 of the Political Parties Registration Law bans all monks, nuns, and leaders of other religions, government staff, political prisoners and prisoners, foreigners, and members of and those related to unlawful associations and insurgent groups from forming and participating in a political party, further stating that failure to expel such individuals from your political party will result in abolishment of the political party;
 - Whereas article 6 of the Political Parties Registration Law states that all political parties must pledge to abide and protect the military regime’s undemocratic and fraudulent 2008 constitution;
 - Whereas the NLD refused to re-register under such unjust election laws that would have forced them to expel their leader Aung San Suu Kyi and pledge support for the regime’s undemocratic constitution;
 - Whereas the military regime’s election commission released severely restrictive political party campaign rules banning all marches, chanting, and flags and also prohibits any speeches or publications that criticize the military regime;
-- Whereas the election commission can de-register any political party at their discretion; and
-- Whereas it is impossible under the regime’s 2008 constitution and 2010 election laws for the election to be free, fair, inclusive, or democratic: Now, therefore, be it
+- Whereas the election commission can de-register any political party at their discretion;
+- Whereas it is impossible under the regime’s 2008 constitution and 2010 election laws for the election to be free, fair, inclusive, or democratic; and
+- Whereas the November 7 election was marked by widespread fraud, voter intimidation, cheating, and irregularities reported throughout the country: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** denounces the one-sided, undemocratic, and illegitimate actions of the State Peace and Development Council (SPDC) that seek to legitimize military rule through a flawed election process;
 - **(2)** denounces the military regime’s dissolution of the National League for Democracy and insists that no government in Burma can be considered democratic or legitimate without the participation of Aung San Suu Kyi, the National League for Democracy, and ethnic nationalities and the full restoration of democracy, freedom of assembly, freedom of movement, freedom of speech, freedom of the press, and internationally recognized human rights for all Burmese citizens;
 - **(3)** insists that Burma's military regime begin an immediate transition toward national reconciliation, and the full restoration of democracy, freedom of assembly, freedom of movement, freedom of speech, freedom of the press, and internationally recognized human rights for all Burmese citizens;
-- **(4)** demands the immediate and unconditional release of Aung San Suu Kyi, detained Buddhist monks, and all other political prisoners and prisoners of conscience;
+- **(4)** demands the immediate and unconditional release of detained Buddhist monks and all other political prisoners and prisoners of conscience;
 - **(5)** calls on the Administration to not support or recognize the military regime’s elections as legitimate;
-- **(6)** calls on the Burmese junta to change the current flawed constitution by permitting members of the democratic opposition and ethnic minorities to participate in government and that these changes are made before the 2010 elections;
+- **(6)** calls on the Burmese junta to change the current flawed constitution by permitting members of the democratic opposition and ethnic minorities to participate in government;
 - **(7)** calls for full accountability of those responsible for human rights violations;
 - **(8)** urges support for a credible and robust international inquiry to investigate the Burmese regime’s war crimes, crimes against humanity, and system of impunity; and
-- **(9)** calls for the Administration to fully implement the Tom Lantos Block Burmese JADE Act of 2008 by nominating the Special Representative and Policy Coordinator on Burma and by imposing the required financial sanctions as soon as possible.
+- **(9)** calls for the Administration to fully implement the Tom Lantos Block Burmese JADE Act of 2008 by nominating the Special Representative and Policy Coordinator on Burma and imposing appropriate financial sanctions to facilitate the priorities expressed in paragraphs (1) through (8).
