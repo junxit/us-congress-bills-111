@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the heading, by striking “remaining portion of 2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “the period beginning on December 1, 2010, and ending on December 31, 2010, and for”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 1848(c)(2)(B)(v) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1848(c)(2)(B)(v) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
