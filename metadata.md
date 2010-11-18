@@ -1,7 +1,7 @@
 ---
 measure: S. 3650
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3650
@@ -33,3 +33,7 @@ Jessica Ann Ellis Gold Star Fathers Act of 2010
 - 2010-07-26 — Introduced in Senate
 - 2010-07-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6247)
 - 2010-07-26 — Sponsor introductory remarks on measure. (CR S6247)
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
