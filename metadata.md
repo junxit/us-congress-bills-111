@@ -1,7 +1,7 @@
 ---
 measure: S. 3650
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3650
@@ -37,3 +37,11 @@ Jessica Ann Ellis Gold Star Fathers Act of 2010
 - 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2010-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
+- 2010-11-19 — Amendment SA 4717 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Amendment SA 4717 proposed by Senator Reid for Senator Wyden. (consideration: CR S8204; text: CR S8204) To strike the short title.
+- 2010-11-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8204)
+- 2010-11-19 — Passed Senate with amendments by Unanimous Consent. (text: CR S8204)
+- 2010-11-19 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S8204)
+- 2010-11-19 — Senate amendment agreed to: Amendment SA 4717 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4717 proposed by Senator Reid for Senator Wyden.(consideration: CR S8204; text: CR S8204)
+- 2010-11-19 — Senate amendment submitted

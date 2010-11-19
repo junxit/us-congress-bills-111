@@ -9,11 +9,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend chapter 21 of title 5, United States Code, to provide that fathers of certain permanently disabled or deceased veterans shall be included with mothers of such veterans as preference eligibles for treatment in the civil service.
 
-## § 1. Short title
-
-This Act may be cited as the “Jessica Ann Ellis Gold Star Fathers Act of 2010”.
-
-## § 2. Preference eligible treatment for fathers of certain permanently disabled or deceased veterans
+## § 1. Preference eligible treatment for fathers of certain permanently disabled or deceased veterans
 
 Section 2108(3) of title 5, United States Code, is amended by striking subparagraphs (F) and (G) and inserting the following:
 
@@ -24,6 +20,6 @@ Section 2108(3) of title 5, United States Code, is amended by striking subparagr
 >   - **(i)** the spouse of that parent is totally and permanently disabled; or
 >   - **(ii)** that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse; and
 
-## § 3. Effective date
+## § 2. Effective date
 
 The amendment made by this Act shall take effect 90 days after the date of enactment of this Act.
