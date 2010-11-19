@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6198
@@ -49,3 +49,16 @@ Bankruptcy Technical Corrections Act of 2010
 - 2010-11-19 — Senate amendment agreed to: Amendment SA 4718 agreed to in Senate by Unanimous Consent.
 - 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4718 proposed by Senator Reid for Senator Hatch.(consideration: CR S8205; text: CR S8205)
 - 2010-11-19 — Senate amendment submitted
+- 2010-11-22 — Message on Senate action sent to the House.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 6198.
+- 2010-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-16 — Ms. Chu moved that the House suspend the rules and agree to the Senate amendment.
+- 2010-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H8535; text as House agreed to Senate amendment: CR H8535)
+- 2010-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H8535; text as House agreed to Senate amendment: CR H8535)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-327.
+- 2010-12-22 — Became Public Law No: 111-327.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
