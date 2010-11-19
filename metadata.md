@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6198
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6198
@@ -21,9 +21,10 @@ Bankruptcy Technical Corrections Act of 2010
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,13 @@ Bankruptcy Technical Corrections Act of 2010
 - 2010-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7158-7161)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7158-7161)
 - 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-11-19 — Amendment SA 4718 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Amendment SA 4718 proposed by Senator Reid for Senator Hatch. (consideration: CR S8205; text: CR S8205) To make a technical correction.
+- 2010-11-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8205)
+- 2010-11-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-11-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-11-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-11-19 — Senate amendment agreed to: Amendment SA 4718 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4718 proposed by Senator Reid for Senator Hatch.(consideration: CR S8205; text: CR S8205)
+- 2010-11-19 — Senate amendment submitted
