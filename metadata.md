@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4783
@@ -16,7 +16,7 @@ Claims Resolution Act of 2010
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Cosponsors (22)
+## Cosponsors (23)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -40,6 +40,7 @@ Claims Resolution Act of 2010
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
 
 ## Committees (3)
 
@@ -62,3 +63,18 @@ Claims Resolution Act of 2010
 - 2010-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1242-1243)
 - 2010-03-10 — Received in the Senate.
 - 2010-03-26 — Read twice and referred to the Committee on Finance.
+- 2010-11-19 — Amendment SA 4719 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Amendment SA 4719 proposed by Senator Reid for Senator Baucus. (consideration: CR S8172) In the nature of a substitute.
+- 2010-11-19 — Amendment SA 4720 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Amendment SA 4720 proposed by Senator Reid for Senator Baucus. (consideration: CR S8172; text: CR S8172) To amend the title.
+- 2010-11-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8172-8202)
+- 2010-11-19 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S8174-8202)
+- 2010-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S8174-8202)
+- 2010-11-19 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-11-19 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-11-19 — Senate amendment agreed to: Amendment SA 4719 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Senate amendment agreed to: Amendment SA 4720 agreed to in Senate by Unanimous Consent.
+- 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4719 proposed by Senator Reid for Senator Baucus.(consideration: CR S8172)
+- 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4720 proposed by Senator Reid for Senator Baucus.(consideration: CR S8172; text: CR S8172)
+- 2010-11-19 — Senate amendment submitted
+- 2010-11-19 — Senate amendment submitted
