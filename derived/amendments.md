@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -72,7 +72,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before clause (i) (as redesignated by paragraph (1)), the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) of subparagraph (A) (as redesignated by paragraphs (1) and (2)), by striking “subparagraph (A)” and inserting “clause (i)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 409(b)(2) of such Act (42 U.S.C. 609(b)(2)) is amended by inserting before the period the following: “and, with respect to the penalty under paragraph (2)(B) of subsection (a), shall only apply to the extent the Secretary determi… | the bill names no machine-readable US Code section |
 | — | insert | Section 409(c)(4) of such Act (42 U.S.C. 609(c)(4)) is amended by inserting “(2)(B),” after “paragraph”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “December 10, 2018” and inserting “September 30, 2019”; and | the bill names no machine-readable US Code section |

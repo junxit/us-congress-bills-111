@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4783
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4783
@@ -48,6 +48,10 @@ Claims Resolution Act of 2010
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
+## Recorded votes (1)
+
+- 2010-11-30 — [House 111-2-584](votes/house-111-2-0584.md) — On Motion to Concur in the Senate Amendments — **Passed** (256–152)
+
 ## Actions
 
 - 2010-03-09 — Introduced in House
@@ -78,3 +82,21 @@ Claims Resolution Act of 2010
 - 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4720 proposed by Senator Reid for Senator Baucus.(consideration: CR S8172; text: CR S8172)
 - 2010-11-19 — Senate amendment submitted
 - 2010-11-19 — Senate amendment submitted
+- 2010-11-22 — Message on Senate action sent to the House.
+- 2010-11-29 — Rules Committee Resolution H. Res. 1736 Reported to House. The resolution provides for consideration of the Senate amendments to H.R. 4783. The resolution provides one hour of debate on the motion made in order by the chair of the Committee on Natural Resources that the House concur in the Senate amendments to H.R. 4783. The resolution waives all points of order against consideration of the motion.
+- 2010-11-30 — Cleared for White House.
+- 2010-11-30 — DEBATE - Pursuant to the provisions of H.Res. 1736, the House proceeded with one hour of debate on the Rahall motion to agree to the Senate amendments to H.R. 4783.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Rahall moved that the House agree to the Senate amendments. (consideration: CR H7685)
+- 2010-11-30 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 256 - 152 (Roll no. 584). (text as House agreed to Senate amendments: CR H7658-7685)
+- 2010-11-30 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair announced that further proceedings on the Rahall motion to agree to the Senate amendments to H.R. 4783 would be postponed until a time to be announced.
+- 2010-11-30 — Pursuant to the provisions of H.Res. 1736, Mr. Rahall took from the Speaker's table H.R. 4783 with the Senate amendments thereto, and was recognized for a motion. (consideration: CR H7658-7695, H7700-7701)
+- 2010-11-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 256 - 152 (Roll no. 584).(text as House agreed to Senate amendments: CR H7658-7685)
+- 2010-11-30 — Rule H. Res. 1736 passed House.
+- 2010-11-30 — The previous question was ordered pursuant to the rule. (consideration: CR H7700)
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-08 — Became Public Law No: 111-291.
+- 2010-12-08 — Became Public Law No: 111-291.
+- 2010-12-08 — Signed by President.
+- 2010-12-08 — Signed by President.

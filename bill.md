@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4783
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4783
 
-That the bill from the House of Representatives (H.R. 4783) entitled “An Act to accelerate the income tax benefits for charitable cash contributions for the relief of victims of the earthquake in Chile, and to extend the period from which such contributions for the relief of victims of the earthquake in Haiti may be accelerated.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> This Act may be cited as “The Claims Resettlement Act of 2010.”.
 
 ## § 1. Short title; table of contents
 
