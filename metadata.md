@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 76
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 76
@@ -16,7 +16,7 @@ A concurrent resolution to recognize and honor the commitment and sacrifices of 
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -36,9 +36,18 @@ A concurrent resolution to recognize and honor the commitment and sacrifices of 
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
+## Committees (1)
+
+- House — Armed Services Committee
 
 ## Actions
 
 - 2010-11-18 — Introduced in Senate
 - 2010-11-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S8106-8107; text as passed Senate: CR S8106-8107; text of measure as introduced: CR S8066)
 - 2010-11-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8106-8107; text as passed Senate: CR S8106-8107; text of measure as introduced: CR S8066)
+- 2010-11-19 — Message on Senate action sent to the House.
+- 2010-11-29 — Received in the House.
+- 2010-11-29 — Referred to the House Committee on Armed Services.
