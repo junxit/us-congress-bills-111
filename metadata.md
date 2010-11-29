@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 75
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 75
@@ -28,3 +28,9 @@ A concurrent resolution authorizing the use of the rotunda of the Capitol for an
 - 2010-11-19 — Message on Senate action sent to the House.
 - 2010-11-29 — Received in the House.
 - 2010-11-29 — Referred to the House Committee on House Administration.
+- 2010-12-01 — Considered under suspension of the rules. (consideration: CR H7823)
+- 2010-12-01 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 75.
+- 2010-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-01 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2010-12-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7823)
+- 2010-12-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7823)
