@@ -1,7 +1,7 @@
 ---
 measure: S. 3650
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3650
@@ -24,9 +24,10 @@ Jessica Ann Ellis Gold Star Fathers Act of 2010
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Jessica Ann Ellis Gold Star Fathers Act of 2010
 - 2010-11-19 — Senate amendment agreed to: Amendment SA 4717 agreed to in Senate by Unanimous Consent.
 - 2010-11-19 — Senate amendment proposed (on the floor): Amendment SA 4717 proposed by Senator Reid for Senator Wyden.(consideration: CR S8204; text: CR S8204)
 - 2010-11-19 — Senate amendment submitted
+- 2010-11-22 — Message on Senate action sent to the House.
+- 2010-11-29 — Received in the House.
+- 2010-11-29 — Referred to the House Committee on Oversight and Government Reform.
