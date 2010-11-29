@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 75
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 75
@@ -16,8 +16,15 @@ A concurrent resolution authorizing the use of the rotunda of the Capitol for an
 
 - Sen. Kerry, John F. [D-MA] (K000148)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2010-11-18 — Introduced in Senate
 - 2010-11-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S8106; text as passed Senate: CR S8106; text of measure as introduced: CR S8066)
 - 2010-11-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8106; text as passed Senate: CR S8106; text of measure as introduced: CR S8066)
+- 2010-11-19 — Message on Senate action sent to the House.
+- 2010-11-29 — Received in the House.
+- 2010-11-29 — Referred to the House Committee on House Administration.
