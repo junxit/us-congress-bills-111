@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1644
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1644
@@ -16,9 +16,11 @@ Expressing support for designation of a "National Veterans History Project Week"
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
 
 ## Committees (1)
 
@@ -29,3 +31,9 @@ Expressing support for designation of a "National Veterans History Project Week"
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Introduced in House
 - 2010-09-22 — Referred to the House Committee on Veterans' Affairs.
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7739-7742)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1644.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Filner moved to suspend the rules and agree to the resolution.
+- 2010-11-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7739)
+- 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7739)
