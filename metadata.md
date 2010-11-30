@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5651
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5651
@@ -44,3 +44,13 @@ To designate the Federal building and United States courthouse located at 515 9t
 - 2010-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 659.
+- 2010-12-01 — Cleared for White House.
+- 2010-12-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8355)
+- 2010-12-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8355)
+- 2010-12-02 — Message on Senate action sent to the House.
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-14 — Became Public Law No: 111-298.
+- 2010-12-14 — Became Public Law No: 111-298.
+- 2010-12-14 — Signed by President.
+- 2010-12-14 — Signed by President.
