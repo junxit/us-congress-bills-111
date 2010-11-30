@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1740
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1740
@@ -16,7 +16,7 @@ Recognizing and honoring the National Guard on the occasion of its 374rd anniver
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (56)
+## Cosponsors (57)
 
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -74,13 +74,26 @@ Recognizing and honoring the National Guard on the occasion of its 374rd anniver
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2010-11-30 — [House 111-2-586](votes/house-111-2-0586.md) — On Motion to Suspend the Rules and Agree — **Passed** (404–0)
 
 ## Actions
 
 - 2010-11-29 — Introduced in House
 - 2010-11-29 — Introduced in House
 - 2010-11-29 — Referred to the House Committee on Armed Services.
+- 2010-11-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Rogers (AL) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-11-30 — Considered as unfinished business. (consideration: CR H7703)
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7696-7698)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1740.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Garamendi moved to suspend the rules and agree to the resolution.
+- 2010-11-30 — On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 404 - 0 (Roll no. 586). (text: CR H7696)
+- 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 404 - 0 (Roll no. 586).(text: CR H7696)
