@@ -1,7 +1,7 @@
 ---
 measure: S. 3987
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 3987
