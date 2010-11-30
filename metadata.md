@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5562
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5562
@@ -16,6 +16,10 @@ Homeland Security Grant Management Improvement Act
 
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
+## Cosponsors (1)
+
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -25,3 +29,8 @@ Homeland Security Grant Management Improvement Act
 - 2010-06-21 — Introduced in House
 - 2010-06-21 — Introduced in House
 - 2010-06-21 — Referred to the House Committee on Homeland Security.
+- 2010-06-23 — Committee Consideration and Mark-up Session Held.
+- 2010-06-23 — Ordered to be Reported by Voice Vote.
+- 2010-11-30 — Placed on the Union Calendar, Calendar No. 395.
+- 2010-11-30 — Reported by the Committee on Homeland Security. H. Rept. 111-663.
+- 2010-11-30 — Reported by the Committee on Homeland Security. H. Rept. 111-663.
