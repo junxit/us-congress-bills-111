@@ -1,0 +1,27 @@
+---
+legis-num: S. 3987
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3987
+
+> To amend the Fair Credit Reporting Act with respect to the applicability of identity theft guidelines to creditors.
+
+## § 1. Short title
+
+This Act may be cited as the “Red Flag Program Clarification Act of 2010”.
+
+## § 2. Scope of certain creditor requirements
+
+- **(a)** *Amendment to FCRA* Section 615(e) of the Fair Credit Reporting Act (15 U.S.C. 1681m(e)) is amended by adding at the end the following:
+  > - **(4)** *Definitions* As used in this subsection, the term creditor—
+  >   - **(A)** means a creditor, as defined in section 702 of the Equal Credit Opportunity Act (15 U.S.C. 1691a), that regularly and in the ordinary course of business—
+  >     - **(i)** obtains or uses consumer reports, directly or indirectly, in connection with a credit transaction;
+  >     - **(ii)** furnishes information to consumer reporting agencies, as described in section 623, in connection with a credit transaction; or
+  >     - **(iii)** advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
+  >   - **(B)** does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
+  >   - **(C)** includes any other type of creditor, as defined in that section 702, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
+
+- **(b)** *Effective date* The amendment made by this section shall become effective on the date of enactment of this Act.
