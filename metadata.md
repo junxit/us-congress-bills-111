@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5877
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5877
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 655 Cen
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 - Rep. Delahunt, Bill [D-MA-10] (D000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 655 Cen
 - 2010-11-29 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2010-11-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 581). (text: CR H7621)
 - 2010-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 581).(text: CR H7621)
+- 2010-11-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
