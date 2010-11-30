@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5953
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5953
@@ -25,3 +25,10 @@ To direct the Secretary of Veterans Affairs to display in each facility of the D
 - 2010-07-29 — Introduced in House
 - 2010-07-29 — Introduced in House
 - 2010-07-29 — Referred to the House Committee on Veterans' Affairs.
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7735-7739)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5953.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7735-7736)
+- 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7735-7736)
+- 2010-11-30 — The title of the measure was amended. Agreed to without objection.
