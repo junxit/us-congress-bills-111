@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5866
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5866
@@ -38,3 +38,9 @@ Nuclear Energy Research and Development Act of 2010
 - 2010-11-18 — Placed on the Union Calendar, Calendar No. 392.
 - 2010-11-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-658.
 - 2010-11-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-658.
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7730-7733)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5866.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Gordon (TN) moved to suspend the rules and pass the bill, as amended.
+- 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7730-7732)
+- 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7730-7732)
