@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4387
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4387
@@ -16,9 +16,10 @@ To designate the Federal building located at 100 North Palafox Street in Pensaco
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,7 @@ To designate the Federal building located at 100 North Palafox Street in Pensaco
 - 2010-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7092)
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7092)
 - 2010-09-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-11-30 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2010-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2010-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 658.
