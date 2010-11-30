@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6392
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6392
@@ -44,3 +44,4 @@ To designate the facility of the United States Postal Service located at 5003 We
 - 2010-11-29 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2010-11-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7623)
 - 2010-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7623)
+- 2010-11-30 — Received in the Senate, read twice.
