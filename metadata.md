@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6411
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6411
@@ -33,3 +33,9 @@ To provide for the approval of the Agreement Between the Government of the Unite
 - 2010-11-16 — Introduced in House
 - 2010-11-16 — Introduced in House
 - 2010-11-16 — Referred to the House Committee on Foreign Affairs.
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7723-7724)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6411.
+- 2010-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-11-30 — Mr. Tanner moved to suspend the rules and pass the bill.
+- 2010-11-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7723)
+- 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7723)
