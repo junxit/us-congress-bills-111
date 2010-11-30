@@ -2,7 +2,7 @@
 legis-num: H. RES. 1622
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1622
@@ -24,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas we must honor and express the Nation’s gratitude to all veterans for their unwavering commitment to country, justice, and democracy; and
 - Whereas as the Nation reaffirms its obligation to provide veterans and their families with the essential support they were promised and have earned: Now, therefore, be it
 
-that the House of Representatives—
+That the House of Representatives—
 
 - **(1)** recognizes and honors the courage, service, and sacrifice of all veterans and their historic contributions to the United States;
 - **(2)** encourages the people of the United States to demonstrate their support for Veterans Day each year by treating that day as a special day of reflection;
