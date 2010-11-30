@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2267
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 53 of title 31, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (J) and (K) as subparagraphs (K) and (L), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (J) as subparagraph (K); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (I) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of subchapters and sections for chapter 53 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 53 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
