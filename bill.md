@@ -21,3 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(II)** a trust account established by an attorney or law firm on behalf of a client, commonly known as an “Interest on Lawyers Trust Account”, or a functionally equivalent account, as determined by the Corporation.
 
 - **(b)** *Effective date* The amendments made by subsection (a) shall take effect on December 31, 2010.
+
+## § 2. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
