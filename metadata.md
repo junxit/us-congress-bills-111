@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5953
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5953
@@ -16,9 +16,10 @@ To direct the Secretary of Veterans Affairs to display in each facility of the D
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To direct the Secretary of Veterans Affairs to display in each facility of the D
 - 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7735-7736)
 - 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7735-7736)
 - 2010-11-30 — The title of the measure was amended. Agreed to without objection.
+- 2010-12-01 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
