@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subclauses (I), (II), and (III) as items (aa), (bb), and (cc), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
 | — | replace | by striking “means a deposit” and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in item (cc), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

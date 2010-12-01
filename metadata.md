@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6398
@@ -37,3 +37,13 @@ To require the Federal Deposit Insurance Corporation to fully insure Interest on
 - 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7727)
 - 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7727)
 - 2010-12-01 — Received in the Senate, read twice.
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10964)
+- 2010-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10964)
+- 2010-12-23 — Presented to President.
+- 2010-12-23 — Presented to President.
+- 2010-12-29 — Became Public Law No: 111-343.
+- 2010-12-29 — Became Public Law No: 111-343.
+- 2010-12-29 — Signed by President.
+- 2010-12-29 — Signed by President.
