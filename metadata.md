@@ -1,7 +1,7 @@
 ---
 measure: S. 987
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 987
@@ -73,3 +73,12 @@ International Protecting Girls by Preventing Child Marriage Act of 2010
 - 2010-10-26 — Committee on Foreign Relations. Reported by Senator Kerry under authority of the order of the Senate of 09/29/2010 with an amendment in the nature of a substitute. With written report No. 111-344.
 - 2010-10-26 — Committee on Foreign Relations. Reported by Senator Kerry under authority of the order of the Senate of 09/29/2010 with an amendment in the nature of a substitute. With written report No. 111-344.
 - 2010-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 637.
+- 2010-12-01 — Amendment SA 4725 agreed to in Senate by Unanimous Consent.
+- 2010-12-01 — Amendment SA 4725 proposed by Senator Whitehouse for Senator Durbin. (consideration: CR S8355) In the nature of a substitute.
+- 2010-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S8353-8355; text of measure as reported in Senate: CR S8353-8354)
+- 2010-12-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-01 — Senate amendment agreed to: Amendment SA 4725 agreed to in Senate by Unanimous Consent.
+- 2010-12-01 — Senate amendment proposed (on the floor): Amendment SA 4725 proposed by Senator Whitehouse for Senator Durbin.(consideration: CR S8355)
+- 2010-12-01 — Senate amendment submitted
+- 2010-12-01 — The committee substitute as amended agreed to by Unanimous Consent.
