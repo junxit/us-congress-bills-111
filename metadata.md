@@ -1,7 +1,7 @@
 ---
 measure: S. 3987
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3987
@@ -32,3 +32,16 @@ Red Flag Program Clarification Act of 2010
 - 2010-12-01 — Message on Senate action sent to the House.
 - 2010-12-01 — Received in the House.
 - 2010-12-01 — Referred to the House Committee on Financial Services.
+- 2010-12-07 — Cleared for White House.
+- 2010-12-07 — Considered under suspension of the rules. (consideration: CR H8059-8060)
+- 2010-12-07 — DEBATE - The House proceeded with forty minutes of debate on S. 3987.
+- 2010-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-07 — Mr. Adler (NJ) moved to suspend the rules and pass the bill.
+- 2010-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8059)
+- 2010-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8059)
+- 2010-12-09 — Presented to President.
+- 2010-12-09 — Presented to President.
+- 2010-12-18 — Became Public Law No: 111-319.
+- 2010-12-18 — Became Public Law No: 111-319.
+- 2010-12-18 — Signed by President.
+- 2010-12-18 — Signed by President.
