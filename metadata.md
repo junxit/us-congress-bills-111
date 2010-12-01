@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5758
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5758
@@ -53,3 +53,7 @@ To designate the facility of the United States Postal Service located at 2 Gover
 - 2010-11-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 574). (text: CR 11/16/2010 H7461)
 - 2010-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 574).(text: CR 11/16/2010 H7461)
 - 2010-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-11-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 666.
