@@ -2,7 +2,7 @@
 legis-num: H. RES. 1430
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1430
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Juan Antonio “Chi Chi” Rodriguez taught himself how to play golf;
 - Whereas Rodriguez’ strive for perfection, along with his uncompromising sportsmanship, resulted in a lifetime 38 professional wins, including 8 PGA Tour wins and 22 Senior PGA Tour wins;
 - Whereas Rodriguez was the first Puerto Rican inducted into the World Golf Hall of Fame and was elected to the World Humanitarian Sports Hall of Fame in 1994;
-- Whereas the Congressional Hispanic Caucus Institute (CHCI), the premier Latino youth leadership development and educational organization in the United States, honored Rodriguez with the CHCI Service Award for his ongoing commitment to providing opportunities for Latino youth to succeed;
+- Whereas the Congressional Hispanic Caucus Institute (CHCI), a Latino youth leadership development and educational organization in the United States, honored Rodriguez with the CHCI Service Award for his ongoing commitment to providing opportunities for Latino youth to succeed;
 - Whereas Rodriguez is a supporter of CHCI’s Fiesta de Golf Scholarship Challenge, and helped raise more than $824,000 for CHCI’s Scholarship Awards Program the past three years;
 - Whereas Rodriguez’ efforts resulted in financial support for more than 430 scholarships over the past three years to help Latino youth to attend institutions of higher education;
 - Whereas Rodriguez remains active with his own Chi Chi Rodriguez Youth Foundation, which funds the Chi Chi Rodriguez Academy, whose mission is to assist at-risk children by improving their self-esteem, character, work ethic, social adjustment, and academic performance, using the golf course as a living classroom;
