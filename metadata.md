@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1724
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1724
@@ -16,7 +16,7 @@ Commending the City of Jacksonville, Arkansas, for its outstanding support in cr
 
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 
-## Cosponsors (72)
+## Cosponsors (91)
 
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -90,13 +90,45 @@ Commending the City of Jacksonville, Arkansas, for its outstanding support in cr
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Garamendi, John [D-CA-10] (G000559)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2010-12-01 — [House 111-2-595](votes/house-111-2-0595.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (411–0)
 
 ## Actions
 
 - 2010-11-17 — Introduced in House
 - 2010-11-17 — Introduced in House
 - 2010-11-17 — Referred to the House Committee on Armed Services.
+- 2010-11-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Rogers (AL) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-11-30 — Considered under suspension of the rules. (consideration: CR H7699-7700)
+- 2010-11-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1724.
+- 2010-11-30 — Mr. Snyder moved to suspend the rules and agree to the resolution, as amended.
+- 2010-12-01 — Considered as unfinished business. (consideration: CR H7816-7817)
+- 2010-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-01 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 595). (text: CR 11/30/2010 H7699)
+- 2010-12-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 595).(text: CR 11/30/2010 H7699)
+- 2010-12-01 — The title of the measure was amended. Agreed to without objection.

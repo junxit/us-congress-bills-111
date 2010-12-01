@@ -2,12 +2,12 @@
 legis-num: H. RES. 1724
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1724
 
-> Commending the City of Jacksonville, Arkansas, for its outstanding support in creating a unique and lasting partnership with Little Rock Air Force Base, members of the Armed Forces stationed there and their families, and the Air Force.
+> Resolution Commending the City of Jacksonville, Arkansas, for its outstanding support in creating a unique and lasting partnership with Little Rock Air Force Base, members of the Armed Forces stationed there, and their families.
 
 ## Preamble
 
@@ -20,4 +20,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the community sponsors a quarterly dinner for families of deployed members and over 15,000 volunteer hours are provided by retirees at the Airman’s Attic, the Base Clinic, the Retirees Activities Office, and other base activities; and
 - Whereas, on March 3, 2009, the City of Jacksonville, Arkansas, was awarded the Abilene Trophy, which honors a civilian community for exceptional support of Air Mobility Command base at Little Rock Air Force Base: Now, therefore, be it
 
-That the House of Representatives commends the City of Jacksonville, Arkansas, for its outstanding support in creating a unique and lasting partnership with Little Rock Air Force Base, members of the Armed Forces stationed there and their families, and the Air Force.
+That the House of Representatives commends the City of Jacksonville, Arkansas, for its outstanding support in creating a unique and lasting partnership with Little Rock Air Force Base, members of the Armed Forces stationed there, and their families.
