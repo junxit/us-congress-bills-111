@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 101
-congress: 111th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 101

@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 101
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 101
@@ -41,3 +41,13 @@ Making further continuing appropriations for fiscal year 2011, and for other pur
 - 2010-12-01 — Rule H. Res. 1741 passed House.
 - 2010-12-01 — Rule provides for consideration of H.J. Res. 101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 9 or 10 of rule XXI. All points of order against provisions in the joint resolution are waived.
 - 2010-12-01 — The previous question was ordered pursuant to the rule. (consideration: CR H7778)
+- 2010-12-02 — Cleared for White House.
+- 2010-12-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8391)
+- 2010-12-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8391)
+- 2010-12-03 — Message on Senate action sent to the House.
+- 2010-12-03 — Presented to President.
+- 2010-12-03 — Presented to President.
+- 2010-12-04 — Became Public Law No: 111-290.
+- 2010-12-04 — Became Public Law No: 111-290.
+- 2010-12-04 — Signed by President.
+- 2010-12-04 — Signed by President.
