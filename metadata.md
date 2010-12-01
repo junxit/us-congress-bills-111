@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6398
@@ -36,3 +36,4 @@ To require the Federal Deposit Insurance Corporation to fully insure Interest on
 - 2010-11-30 — Mr. Doggett moved to suspend the rules and pass the bill, as amended.
 - 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7727)
 - 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7727)
+- 2010-12-01 — Received in the Senate, read twice.
