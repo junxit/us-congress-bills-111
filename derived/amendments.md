@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6184
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (a) by striking “permits under the jurisdiction” and inserting “permits of such entities related to projects for a public purpose under the jurisdiction”; | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (e); | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e) (as redesignated), by striking “2010” and inserting “2016”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e) (as redesignated) by striking “2010” and inserting “2016”. | the bill names no machine-readable US Code section |
