@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6118
@@ -66,3 +66,7 @@ To designate the facility of the United States Postal Service located at 2 Massa
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7036)
 - 2010-09-30 — The title of the measure was amended. Agreed to without objection.
 - 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-11-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2010-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-12-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2010-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 667.
