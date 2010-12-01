@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6184
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6184
@@ -49,3 +49,13 @@ To amend the Water Resources Development Act of 2000 to extend and modify the pr
 - 2010-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7823-7824)
 - 2010-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7823-7824)
 - 2010-12-01 — Received in the Senate.
+- 2010-12-07 — Cleared for White House.
+- 2010-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8605)
+- 2010-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8605)
+- 2010-12-08 — Message on Senate action sent to the House.
+- 2010-12-09 — Presented to President.
+- 2010-12-09 — Presented to President.
+- 2010-12-18 — Became Public Law No: 111-315.
+- 2010-12-18 — Became Public Law No: 111-315.
+- 2010-12-18 — Signed by President.
+- 2010-12-18 — Signed by President.
