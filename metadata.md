@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 686
 congress: 111
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 686
@@ -28,3 +28,7 @@ A resolution designating December 11, 2010, as "Wreaths Across America Day".
 
 - 2010-11-19 — Introduced in Senate
 - 2010-11-19 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8130)
+- 2010-12-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8356)
+- 2010-12-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8356)
+- 2010-12-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8355-8356)
+- 2010-12-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8355-8356)
