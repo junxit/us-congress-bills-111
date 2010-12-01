@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5866
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -38,9 +38,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “under subsection (a)” and inserting “under subsection (b)”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 951 of the Energy Policy Act of 2005 (42 U.S.C. 16271) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 951 of the Energy Policy Act of 2005 (42 U.S.C. 16271) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is amended by striking subsections (c) through (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in the section heading by striking “Advanced fuel cycle initiative” and inserting “Fuel cycle research and development”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (a); | the bill names no machine-readable US Code section |

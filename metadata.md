@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5866
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5866
@@ -23,9 +23,10 @@ Nuclear Energy Research and Development Act of 2010
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Nuclear Energy Research and Development Act of 2010
 - 2010-11-30 — Mr. Gordon (TN) moved to suspend the rules and pass the bill, as amended.
 - 2010-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7730-7732)
 - 2010-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7730-7732)
+- 2010-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
