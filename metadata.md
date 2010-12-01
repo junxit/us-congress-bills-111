@@ -1,7 +1,7 @@
 ---
 measure: S. 2802
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2802
@@ -28,3 +28,8 @@ Blackfoot River Land Settlement Act of 2009
 
 - 2009-11-19 — Introduced in Senate
 - 2009-11-19 — Read twice and referred to the Committee on Indian Affairs.
+- 2010-04-29 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 111-631.
+- 2010-06-10 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2010-12-01 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. Without written report.
+- 2010-12-01 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. Without written report.
+- 2010-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 664.

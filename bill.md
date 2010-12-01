@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2802
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -42,7 +42,7 @@ This Act may be cited as the “Blackfoot River Land Settlement Act of 2009”.
   - **(6)** beginning in 1999, the Cadastral Survey Office of the Bureau of Land Management conducted surveys of—
     - **(A)** 25 parcels of Indian land; and
     - **(B)** 19 parcels of non-Indian land;
-  - **(7)** in 1988, many non-Indian landowners and non-Indians acquiring Indian land filed claims in the Snake River Basin Adjudication seeking water rights that included a place of use on Indian land; and
+  - **(7)** in 1988, many non-Indian landowners and non-Indians acquiring Indian land have filed claims in the Snake River Basin Adjudication seeking water rights that included a place of use on Indian land; and
   - **(8)** the enactment of this Act and the distribution of funds in accordance with section 12(b) would represent an agreement among—
     - **(A)** the Tribes;
     - **(B)** the allottees;
@@ -62,18 +62,18 @@ In this Act:
 - **(2)** *Indian land* The term Indian land means any parcel of land that is—
   - **(A)** held in trust by the United States for the benefit of the Tribes or the allottees;
   - **(B)** located north of the Realigned River; and
-  - **(C)** identified in exhibit C of the survey of the Bureau of Land Management entitled “Survey of the Blackfoot River of 2002 to 2005”, which is located at—
+  - **(C)** identified in exhibit C exhibit A of the survey of the Bureau of Land Management entitled “Survey of the Blackfoot River of 2002 to 2005”, which is located at—
     - **(i)** the Fort Hall Indian Agency office of the Bureau of Indian Affairs; and
     - **(ii)** the Blackfoot River Flood Control District No. 7, 75 East Judicial, Blackfoot, Idaho.
 - **(3)** *Non-Indian acquiring Indian land* The term non-Indian acquiring Indian land means any individual or entity that—
   - **(A)** has acquired or plans to acquire Indian land; and
-  - **(B)** is included on the listed contained in exhibit C of the survey referred to in paragraph (2)(C).
+  - **(B)** is included on the listed list contained in exhibit C of the survey referred to in paragraph (2)(C).
 - **(4)** *Non-Indian land* The term non-Indian land means any parcel of fee land that is—
   - **(A)** located south of the Realigned River; and
   - **(B)** identified in exhibit B of the survey referred to in paragraph (2)(C).
 - **(5)** *Non-Indian landowner* The term non-Indian landowner means any individual who holds fee title to non-Indian land.
-- **(6)** *Realigned River* The term Realigned River means that portion of the River that was realigned by the Corps of Engineers during calendar year 1964 pursuant to the project described in section 2(a)(5).
-- **(7)** *Reservation* The term Reservation means the Fort Hall Reservation established by Executive order during calendar year 1867.
+- **(6)** *Realigned River* The term Realigned River means that portion of the River that was realigned by the Corps of Engineers during calendar year 1964 pursuant to the project described in section 2(a)(5) 2(a)(5)(A).
+- **(7)** *Reservation* The term Reservation means the Fort Hall Reservation established by Executive order during calendar year 1867 and confirmed by treaty during calendar year 1868.
 - **(8)** *River* The term River means the Blackfoot River located in the State of Idaho.
 - **(9)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(10)** *Tribes* The term Tribes means the Shoshone-Bannock Tribes.
@@ -129,7 +129,7 @@ Nothing in this Act—
 - **(1)** affects in any manner the sovereign claim of the State of Idaho to title in and to the beds and banks of the River under the equal footing doctrine of the Constitution of the United States;
 - **(2)** affects any action by the State of Idaho to establish that title under section 2409a of title 28, United States Code (commonly known as the “Quiet Title Act”);
 - **(3)** affects the ability of the Tribes or the United States to claim ownership of the beds and banks of the River; or
-- **(4)** extinguishes or conveys any water rights of non-Indian landowners or the claims of the landowners to water rights in the Snake River Basin Adjudication.
+- **(4)** extinguishes or conveys any water rights of non-Indian landowners or the claims of the claims of such landowners to water rights in the Snake River Basin Adjudication.
 
 ## § 12. Funding
 
