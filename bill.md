@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 527
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 527
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas the NATO School in Oberammergau, Germany is the North Atlantic Treaty Organization’s (NATO) premier operational-level education and training facility and has administered courses to over 185,000 officers, noncommissioned officers, and civilians from NATO allied and partner nations since its inception in 1953;
 - Whereas for 60 years, NATO has served as the bedrock of transatlantic security and defense, successfully defending the territories of its North American and European member states from a range of external threats and promoting democratic values throughout North America, Europe, and Eurasia;
-- Whereas since the fall of the Berlin Wall and the end of the Cold War, NATO has successfully adapted to address a range of new and emerging security challenges including transnational terrorism, the proliferation of weapons of mass destruction, the re-emergence of regional and local conflicts and conflicts outside the North Atlantic Treaty Area, instability caused by failed states, cyber attacks, piracy, and threats to global energy security;
+- Whereas since the fall of the Berlin Wall and the end of the Cold War, NATO has been adapting to address a range of new and emerging security challenges, including transnational terrorism, the proliferation of weapons of mass destruction, the re-emergence of regional and local conflicts, cyber attacks, piracy, and threats to global energy security;
 - Whereas while NATO transforms to address the emerging security challenges of the 21st century, the NATO School functions as the Alliance’s primary vehicle to educate and train the men and women serving in NATO missions to successfully carry out the full spectrum of crisis management operations, from combat and peacekeeping to logistics support, humanitarian relief and governance enhancement, institution building, and civil security;
 - Whereas the NATO School plays a crucial role in supporting NATO’s ongoing operations in Afghanistan, Iraq, Kosovo, the Mediterranean, and elsewhere, providing much of the training for NATO personnel serving in NATO’s core stabilization mission in Afghanistan and conducting almost all of NATO’s out-of-country training of Iraqi military officers;
 - Whereas NATO School efforts to support NATO’s ongoing mission in Afghanistan, including through its training for personnel in NATO’s Provincial Reconstruction Teams, are a particularly critical component of international efforts to combat transnational terrorism;
