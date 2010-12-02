@@ -1,7 +1,7 @@
 ---
 measure: S. 3998
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 3998
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3998
@@ -20,8 +20,15 @@ Criminal History Background Checks Pilot Extension Act of 2010
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2010-12-01 — Introduced in Senate
 - 2010-12-01 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S8353; text as passed Senate: CR S8353)
 - 2010-12-01 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8353; text as passed Senate: CR S8353)
+- 2010-12-02 — Message on Senate action sent to the House.
+- 2010-12-02 — Received in the House.
+- 2010-12-02 — Referred to the House Committee on the Judiciary.
