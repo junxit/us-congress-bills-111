@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-304 amendatory instructions. 0 executed, 304 stated and not applied.
+348 amendatory instructions. 0 executed, 348 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,19 +33,20 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “, and more than 34 percent of child fatalities in 2007 were attributed to neglect” after “maltreatment”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “60 percent” and inserting “59 percent”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “2001” and inserting “2007”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “19 percent” and inserting “11 percent”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “10 percent” and inserting “slightly less than 8 percent”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “and 7 percent suffered emotional maltreatment” and inserting “, 4 percent suffered psychological maltreatment, and 13 percent were victims of multiple maltreatments”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “and close to 1/3 of all child maltreatment-related fatalities in fiscal year 2008 were attributed to neglect alone” after “maltreatment”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “60 percent” and inserting “5971 percent”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “2001” and inserting “2007”“fiscal year 2008”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “19 percent” and inserting “1116 percent”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “10 percent” and inserting “slightly less than 8 percent”“9 percent”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “and 7 percent suffered emotional maltreatment” and inserting “, 4 percent suffered psychological maltreatment, and 13 percent were victims of multiple maltreatments7 percent suffered psychological maltreatment, 2 percent exp… | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A) by inserting “or neglect” after “abuse”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “2001, an estimated 1,300” and inserting “2007, an estimated 1,760”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “in 2007,” after “(C)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “41 percent” and inserting “42 percent”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “85 percent” and inserting “76 percent”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “2001, an estimated 1,300” and inserting “2007, an estimated 1,760”“fiscal year 2008, an estimated 1,740”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “in 2007fiscal year 2008,” after “(C)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “41 percent” and inserting “4245 percent”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “85 percent” and inserting “7672 percent”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “6 years” and inserting “4 years”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “abuse” each place it appears and inserting “maltreatment”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4)(B), by striking “slightly” and all that follows and inserting “approximately 38 percent of victims of child abuse did not receive post-investigation services in 2007;”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4)(B), by striking “slightly” and all that follows and inserting “approximately 3837 percent of victims of child abuse did not receive post-investigation services in 2007fiscal year 2008;”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (5) through (13) as paragraphs (6) through (11) and (13) through (15), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (4) of this section the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “domestic violence services,” after “mental health,”; and | the bill names no machine-readable US Code section |
@@ -70,8 +71,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B) of paragraph (7), as redesignated by subparagraph (A) of this paragraph, by striking “and child welfare personnel.” and inserting “child welfare, substance abuse treatment services, and domestic violence services pers… | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding clause (i), by inserting “tribal,” after “State,”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” at the end; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), by striking “abused or neglected children” and inserting “victims of child abuse or neglect”. | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “from abuse or neglect and to improve the well-being of abused or neglected children” and inserting “from child abuse or neglect and to improve the well-being of victims of child abus… | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “abuse and neglect on” and inserting “child abuse and neglect on”; | the bill names no machine-readable US Code section |
@@ -93,7 +95,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(A) The” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking all that precedes “later” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “than 2” and inserting “than 1”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Keeping Children and Families Safe Act of 2003” and inserting “CAPTA Reauthorization Act of 2010”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Keeping Children and Families Safe Act of 2003” and inserting “CAPTA Reauthorization Act of 2010”.; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “and providers of mental health, substance abuse treatment, and domestic violence prevention services” after “disabilities”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and child welfare personnel” and inserting “child welfare, substance abuse, and domestic violence services personnel”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subjected to abuse.” and inserting “subjected to, or whom the personnel suspect have been subjected to, child abuse or neglect.”. | the bill names no machine-readable US Code section |
@@ -125,6 +128,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “disabled infants” each place it appears and inserting “infants or toddlers with disabilities”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(C), by striking “where” and inserting “when”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “, leadership,” after “mutual support”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking all that precedes “Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “in not more than 10 States”; | the bill names no machine-readable US Code section |
@@ -159,7 +163,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “to provide” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “systems) and” and inserting “systems), and the use of differential response; and”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “to address” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “abused or neglected” and inserting “victims of child abuse or neglect”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “abused or neglected” and inserting “victims of child abuse or neglect; ”and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
@@ -180,8 +184,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “including training in early childhood, child, and adolescent development,” after “to the role,”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (xv)(II), by striking “abuse or neglect” and inserting “child abuse or neglect”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (xviii), by striking “abuse and” and inserting “abuse or”; | the bill names no machine-readable US Code section |
+| — | replace | in subclause (III), by striking “; or” and inserting “;”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (xxi), by striking “Act; and” and inserting “Act (20 U.S.C. 1431 et seq.);”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “not later” through “2003,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20))” after “checks”; and | the bill names no machine-readable US Code section |
 | — | amend | in clause (xxii), by adding “and” at the end; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “disabled infants with” each place it appears and inserting “infants with disabilities who have”; and | the bill names no machine-readable US Code section |
@@ -230,6 +237,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (6)(C), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 112(a)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106h(a)(1)) is amended by striking “$120,000,000” and all that follows and inserting “$132,000,000 for fiscal year 2011 and such sums as may be necessary for e… | the bill names no machine-readable US Code section |
+| — | replace | by striking “2004” and inserting “2010”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005 through 2008” and inserting “2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 113(a)(2) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106i(a)(2)) is amended by striking “abuse or neglect” and inserting “child abuse or neglect”. | the bill names no machine-readable US Code section |
 | — | amend | The title heading of title II of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (a)(1) and inserting the following: | the bill names no machine-readable US Code section |
@@ -240,8 +249,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (G) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting after “children and families” the following: “, including unaccompanied homeless youth,”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “substance abuse treatment services, domestic violence services,” after “mental health services,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “family resource and support program” and inserting “community-based child abuse and neglect prevention program”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “community-based family resource and support program” and inserting “community-based child abuse and neglect prevention programs”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and” after “reporting”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and reporting” after “information management”; | the bill names no machine-readable US Code section |
 | — | strike | by striking the comma after “prevention-focused”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “(through networks where appropriate)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “chief executive officer” each place it appears and inserting “Governor”; and | the bill names no machine-readable US Code section |
@@ -249,6 +260,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraphs (1), (2), and (3), by striking “(through networks where appropriate)” each place it appears; | the bill names no machine-readable US Code section |
 | — | replace | in paragraphs (2) and (3), in the matter preceding subparagraph (A), by striking “chief executive officer” and inserting “Governor”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraphs (A) and (B) of paragraph (2), by inserting “adult former victims of child abuse or neglect,” after “parents,”. | the bill names no machine-readable US Code section |
+| — | insert | in subparagraphs (A) and (B), by inserting “adult former victims of child abuse or neglect,” after “parents,”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C), by inserting a comma after “State”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking all that precedes “70” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking all that precedes “30” and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraphs (1) and (2), by striking “(through networks where appropriate)”; | the bill names no machine-readable US Code section |
@@ -297,16 +310,38 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (C), by striking “have” and all that follows and inserting “have disabilities or chronic or terminal illnesses.”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (5) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), and (5) as paragraphs (1) through (3), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | in the matter preceding subparagraph (A), by inserting “, including the services of crisis nurseries,” after “short term care services”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraphs (A) and (B), by striking “abuse or neglect” and inserting “child abuse or neglect”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “have” and all that follows and inserting “have disabilities or chronic or terminal illnesses.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 210 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116i) is amended by striking “$80,000,000” and all that follows and inserting “$88,000,000 for fiscal year 2011 and such sums as may be necessary for each of fiscal … | the bill names no machine-readable US Code section |
+| — | replace | by striking “2004” and inserting “2010”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005 through 2008” and inserting “2011 through 2015”. | the bill names no machine-readable US Code section |
 | — | redesignate | Title II of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116 et seq.) is amended by redesignating sections 205 through 210 as sections 204 through 209, respectively. | the bill names no machine-readable US Code section |
+| — | insert | The Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is amended by inserting after section 2 the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraphs (1), (2), (3), (5), (9), and (11) of section 111; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (7), (8), and (10) as paragraphs (1), (2), and (3), respectively, and inserting the paragraphs before paragraph (4); | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (3), as so redesignated, by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (4), by adding “and” at the end; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (5). | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the item relating to section 2 the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending the item relating to section 105 to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending the item relating to section 106 to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to the title heading of title II and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to sections 204 through 210 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | The Family Violence Prevention and Services Act (42 U.S.C. 10401 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 707(b)(2)(A)(ii)(I) of title 11, United States Code, is amended in the 4th sentence by striking “section 309 of the Family Violence Prevention and Services Act” and inserting “section 302 of the Family Violence Prevention and Ser… | the bill names no machine-readable US Code section |
+| — | replace | Section 635(c)(2)(G) of the Individuals with Disabilities Education Act (20 U.S.C. 1435(c)(2)(G)) is amended by striking “section 320 of the Family Violence Prevention and Services Act” and inserting “section 302 of the Family Violence P… | the bill names no machine-readable US Code section |
+| — | replace | Section 2001(c)(2)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796gg(c)(2)(A)) is amended by striking “through the Family Violence Prevention and Services Act (42 U.S.C. 10410 et seq.)” and inserting “under s… | the bill names no machine-readable US Code section |
+| — | replace | Section 40002(a)(26) of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)(26)) is amended by striking “under the Family Violence Prevention and Services Act (42 U.S.C. 10410(b))” and inserting “under sections 302 and 311 of the … | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (20), by striking “section 40211” and inserting “section 313 of the Family Violence Prevention and Services Act (relating to a hotline)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (22), by striking “section 40241” and inserting “sections 301 through 312 of the Family Violence Prevention and Services Act”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (24), by striking “section 40261” and inserting “section 314 of the Family Violence Prevention and Services Act (relating to community projects to prevent family violence, domestic violence, and dating violence)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “565,000” and inserting “506,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2001” and inserting “2005”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5)(A), by striking “131,000” and inserting “122,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “older children, minority children, and” after “particularly”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking all that follows “facilitate the adoption of” and inserting “older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening… | the bill names no machine-readable US Code section |
@@ -326,12 +361,21 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after clause (vi) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking the second sentence and all that follows; and | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting “, consistent with the purpose of this title” after “by the Secretary”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the 3rd sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the 3rdthird sentence and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B)(i), by inserting “older children, minority children, and” after “successful placement of”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “$40,000,000” and all that follows through “2008” and inserting “$40,000,000 for fiscal year 2011 and such sums as may be necessary for each of fiscal years 2012 through 2015”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “2004” and inserting “2010”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005 through 2008” and inserting “2011 through 2015”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “including those” and all that follows through “AIDS)” and inserting “including those with HIV/AIDS”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “acquired immune deficiency syndrome” and inserting “HIV/AIDS”. | the bill names no machine-readable US Code section |
+| — | repeal | Title II of the Abandoned Infants Assistance Act of 1988 (Public Law 100–505; 102 Stat. 2536) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 102(b)(2) of the Abandoned Infants Assistance Act of 1988 (42 U.S.C. 5117aa–12(b)(2)) is amended by striking “Keeping Children and Families Safe Act of 2003” and inserting “CAPTA Reauthorization Act of 2010”. | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1), by striking “$45,000,000” and all that follows and inserting “$45,000,000 for fiscal year 2011 and such sums as may be necessary for each of fiscal years 2012 through 2015.”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2004” and inserting “2010”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005 through 2008” and inserting “2011 through 2015”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(2), by striking “fiscal year 2003” and inserting “fiscal year 2010”. | the bill names no machine-readable US Code section |
