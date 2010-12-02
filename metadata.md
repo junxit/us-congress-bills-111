@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 4853
@@ -16,18 +16,30 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (5)
+## Cosponsors (13)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2010-12-02 — [House 111-2-604](votes/house-111-2-0604.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (234–188)
 
 ## Actions
 
@@ -56,3 +68,32 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-09-23 — Senate amendment agreed to: Amendment SA 4656 agreed to in Senate by Unanimous Consent.
 - 2010-09-23 — Senate amendment proposed (on the floor): Amendment SA 4656 proposed by Senator Dorgan for Senator Rockefeller.(consideration: CR S7389; text: CR S7389)
 - 2010-09-23 — Senate amendment submitted
+- 2010-12-01 — Rules Committee Resolution H. Res. 1745 Reported to House. It shall be in order to take from the Speaker's table the bill H.R. 4853, with the Senate amendment thereto, and to consider in the House a motion offered by the Chairman of the Committee on Ways and Means or his designee that the House concur in the amendment of the Senate with the amendment printed in the report of the Committee on Rules accompanying this resolution. The rule also provides suspension authority through the legislative day of December 3, 2010.
+- 2010-12-02 — Amendment SA 4727 proposed by Senator Reid for Senator Baucus. (consideration: CR S8391) To change the enactment date.
+- 2010-12-02 — Amendment SA 4728 proposed by Senator Reid for Senator Schumer to Amendment SA 4727. (consideration: CR S8391) Of a perfecting nature.
+- 2010-12-02 — Amendment SA 4729 proposed by Senator Reid. (consideration: CR S8391; text: CR S3891) To provide for a study.
+- 2010-12-02 — Amendment SA 4730 proposed by Senator Reid to Amendment SA 4729 to the instructions (SA 4729). (consideration: CR S8391; text: CR S3891) Of a perfecting nature.
+- 2010-12-02 — Amendment SA 4731 proposed by Senator Reid to Amendment SA 4730. (consideration: CR S8391; text: CR S3891) Of a perfecting nature.
+- 2010-12-02 — Cloture motion on amendment SA 4728 presented in Senate. (consideration: CR S8391; text: CR S3891)
+- 2010-12-02 — Cloture motion on the motion to concur in the House amendment to the Senate amendment with amendment (SA 4727) presented in Senate. (consideration: CR S8391; text: CR S8391)
+- 2010-12-02 — DEBATE - The House proceeded with one hour of debate on H.R. 4853.
+- 2010-12-02 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-12-02 — Motion by Senator Reid to refer to Senate Committee on Finance the House Message with instructions to report back forthwith with amendment SA 4729 made in Senate. (consideration: CR S8391)
+- 2010-12-02 — Motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4727) made in the Senate. (consideration: CR S8391-8392)
+- 2010-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-02 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 234 - 188 (Roll no. 604). (text as House agreed to Senate amendment with amendment: CR H7874-7876)
+- 2010-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on agreeing to the Senate amendment with an amendment to H.R 4853, the Chair postponed further proceedings until a time to be announced.
+- 2010-12-02 — Pursuant to the provisions of H. Res. 1745, the House moved to agree with an amendment to the Senate amendment. (consideration: CR H7874-7887, H7889-7890; text of Senate amendment as received in House: CR H7874)
+- 2010-12-02 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 234 - 188 (Roll no. 604).(text as House agreed to Senate amendment with amendment: CR H7874-7876)
+- 2010-12-02 — Rule H. Res. 1745 passed House.
+- 2010-12-02 — Senate amendment proposed (on the floor): Amendment SA 4727 proposed by Senator Reid for Senator Baucus.(consideration: CR S8391)
+- 2010-12-02 — Senate amendment proposed (on the floor): Amendment SA 4728 proposed by Senator Reid for Senator Schumer to Amendment SA 4727.(consideration: CR S8391)
+- 2010-12-02 — Senate amendment proposed (on the floor): Amendment SA 4729 proposed by Senator Reid.(consideration: CR S8391; text: CR S3891)
+- 2010-12-02 — Senate amendment proposed (on the floor): Amendment SA 4730 proposed by Senator Reid to Amendment SA 4729 to the instructions (SA 4729).(consideration: CR S8391; text: CR S3891)
+- 2010-12-02 — Senate amendment proposed (on the floor): Amendment SA 4731 proposed by Senator Reid to Amendment SA 4730.(consideration: CR S8391; text: CR S3891)
+- 2010-12-02 — Senate amendment submitted
+- 2010-12-02 — Senate amendment submitted
+- 2010-12-02 — Senate amendment submitted
+- 2010-12-02 — Senate amendment submitted
+- 2010-12-02 — Senate amendment submitted
+- 2010-12-02 — The previous question was ordered pursuant to the rule. (consideration: CR H7889)
