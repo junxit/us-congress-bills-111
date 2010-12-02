@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 6483
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6483
+
+> To amend title 23, United States Code, to revise certain infrastructure finance provisions.
+
+## § 1. Short title
+
+This Act may be cited as the “TIFIA Expansion Act of 2010”.
+
+## § 2. TIFIA funding of qualified transit capital projects
+
+- **(a)** *Definition of master credit agreement* Section 601(a) of title 23, United States Code, is amended—
+  - **(1)** in paragraph (8)—
+    - **(A)** by striking “and” at the end of subparagraph (C);
+    - **(B)** by striking the period at the end of subparagraph (D) and inserting a period; and
+    - **(C)** by adding at the end the following:
+      > - **(E)** a project or program of related projects that—
+      >   - **(i)** is for the design, acquisition, construction, or rehabilitation of one or more transportation projects that reduces emissions of greenhouse gases or has a positive impact on congestion; and
+      >   - **(ii)** receives not more than 30 percent of its funding for capital costs from Federal grant funds made available under this title or chapter 53 of title 49, United States Code.
+
+  - **(2)** by adding at the end the following:
+    > - **(15)** *Master credit agreement* The term “master credit agreement” means an agreement entered into by and between the Secretary and an obligor for a project defined in paragraph (9)(E) that—
+    >   - **(A)** makes contingent commitments of one or more secured loans or other Federal credit instruments at future dates;
+    >   - **(B)** establishes the amounts and general terms and conditions of such secured loans or other Federal credit instruments;
+    >   - **(C)** identifies the dedicated revenue sources that will secure the repayment of such secured loans or other Federal credit instruments; and
+    >   - **(D)** provides for the obligation of funds for such secured loans or other Federal credit instruments after all requirements under section 602(c) have been met for the project, including compliance with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 432i et seq.).
+
+- **(b)** *Eligibility and eligible projected costs* Section 602(a) of title 23, United States Code, is amended—
+  - **(1)** in paragraph (1) by adding before the period at the end the following:
+    > - **(1)** , including, in the case of a master credit agreement, at such time as the disbursement of loan proceeds or the provision of other credit assistance pursuant to the master credit agreement
+
+  - **(2)** in paragraph 3—
+    - **(A)** by striking “subparagraph (B)” in subparagraph (A) and inserting “subparagraphs (B) and (C)”; and
+    - **(B)** by adding at the end the following:
+      > - **(C)** *Mega Transportation Projects* In the case of a project defined in section 601(a)(8)(E), eligible project costs shall be reasonably anticipated to equal or exceed $1,000,000,000.
+
+- **(c)** *Secured loans* Section 603(b)(2) of title 23, United States Code, is amended by striking “33 percent” and inserting “49 percent”.
+- **(d)** *Lines of credit* Section 604(b)(2) of title 23, United States Code, is amended by striking “33 percent” and inserting “49 percent”.
+- **(e)** *Funding* Section 608(a) of title 23, United States Code, is amended—
+  - **(1)** in paragraph (1) by striking “$122,000,000 for each of fiscal years 2005 through 2009” and inserting “$375,000,000 for each of fiscal years 2011 through 2015”; and
+  - **(2)** in paragraph (3) by striking “$2,200,000 for each of fiscal years 2005 through 2009” and inserting “$5,000,000 for each of fiscal years 2011 through 2015”.
+- **(f)** *Conforming amendment* Section 603(a)(1) of title 23, United States Code, is amended by inserting after “into agreements” the following: “, including master credit agreements,”.
