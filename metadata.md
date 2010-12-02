@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1745
 congress: 111
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1745
@@ -20,6 +20,11 @@ Providing for consideration of the Senate amendment to the bill (H.R. 4853) to a
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2010-12-02 — [House 111-2-596](votes/house-111-2-0596.md) — On Ordering the Previous Question — **Passed** (224–186)
+- 2010-12-02 — [House 111-2-597](votes/house-111-2-0597.md) — On Agreeing to the Resolution — **Passed** (213–203)
+
 ## Actions
 
 - 2010-12-01 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the Senate amendment to the bill (H.R. 4853) to a
 - 2010-12-01 — Placed on the House Calendar, Calendar No. 249.
 - 2010-12-01 — The House Committee on Rules reported an original measure, H. Rept. 111-671, by Ms. Pingree (ME).
 - 2010-12-01 — The House Committee on Rules reported an original measure, H. Rept. 111-671, by Ms. Pingree (ME).
+- 2010-12-02 — Considered as privileged matter. (consideration: CR H7859-7864)
+- 2010-12-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 1745.
+- 2010-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 203 (Roll no. 597). (text: CR H7859)
+- 2010-12-02 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 186 (Roll no. 596). (consideration: CR H7863)
+- 2010-12-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 203 (Roll no. 597).(text: CR H7859)
