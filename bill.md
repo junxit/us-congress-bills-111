@@ -2,23 +2,23 @@
 legis-num: H. RES. 1576
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1576
 
-> Expressing the sense of the House of Representatives that a National Day of Recognition for Parents of Special Needs Children should be established.
+> Expressing the sense of the House of Representatives that a National Day of Recognition for Parents of Children with Special Needs should be established.
 
 ## Preamble
 
-- Whereas children with special health care needs are defined as those children who have a chronic physical, developmental, behavioral, or emotional condition that requires special health-related services of a type or amount beyond that required by children generally;
-- Whereas the Department of Health and Human Services most recent National Survey of Children with Special Health Care Needs estimates 14 percent of children between the ages of 0 and 17 in the United States are diagnosed as having special health care needs;
-- Whereas active and supportive parents serve a critical role in the development of special needs children and in preparing them to succeed in school and in life;
-- Whereas parents of special needs children deserve annual national recognition for their selfless dedication, compassion, and sacrifice; and
-- Whereas it is appropriate that the Nation reserve a special day each year to celebrate and honor the parents of special needs children across the United States: Now, therefore, be it
+- Whereas the reported prevalence of children with special needs, which may include children with healthcare needs, behavioral needs, learning needs, and mental health needs, has grown significantly throughout the last 50 years;
+- Whereas the Centers for Disease Control and Prevention estimates that an average of 1 in 110 children in the United States have an autism spectrum disorder and 1 in 1000 children are born with Down syndrome;
+- Whereas active and supportive parents serve a critical role in the development of children with special needs and in preparing them to succeed in school and in life;
+- Whereas parents of children with special needs deserve annual national recognition for their selfless dedication, compassion, and sacrifice; and
+- Whereas it is appropriate that the Nation reserve a special day each year to celebrate and honor the parents of children with special needs across the United States: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** recognizes the importance of honoring the Nation’s parents of special needs children;
-- **(2)** expresses its sense that a National Day of Recognition for Parents of Special Needs Children should be established to honor such parents; and
+- **(1)** recognizes the importance of honoring the Nation’s parents of children with special needs;
+- **(2)** expresses its sense that a National Day of Recognition for Parents of Children with Special Needs should be established to honor such parents; and
 - **(3)** urges the President to issue a proclamation calling on the people of the United States to observe such a day with appropriate ceremonies, programs, and activities.
