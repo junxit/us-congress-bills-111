@@ -1,7 +1,7 @@
 ---
 measure: S. 3998
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3998
@@ -24,6 +24,10 @@ Criminal History Background Checks Pilot Extension Act of 2010
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2010-12-08 — [House 111-2-624](votes/house-111-2-0624.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–2)
+
 ## Actions
 
 - 2010-12-01 — Introduced in Senate
@@ -32,3 +36,18 @@ Criminal History Background Checks Pilot Extension Act of 2010
 - 2010-12-02 — Message on Senate action sent to the House.
 - 2010-12-02 — Received in the House.
 - 2010-12-02 — Referred to the House Committee on the Judiciary.
+- 2010-12-07 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-12-07 — Considered under suspension of the rules. (consideration: CR H8062-8064)
+- 2010-12-07 — DEBATE - The House proceeded with forty minutes of debate on S. 3998.
+- 2010-12-07 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
+- 2010-12-08 — Cleared for White House.
+- 2010-12-08 — Considered as unfinished business. (consideration: CR H8222)
+- 2010-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-08 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 401 - 2 (Roll No. 624). (text: CR 12/7/2010 H8062)
+- 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 401 - 2 (Roll No. 624).(text: CR 12/7/2010 H8062)
+- 2010-12-10 — Presented to President.
+- 2010-12-10 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-341.
+- 2010-12-22 — Became Public Law No: 111-341.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
