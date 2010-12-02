@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6473
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6473
@@ -43,3 +43,13 @@ Airport and Airway Extension Act of 2010, Part IV
 - 2010-12-02 — Referred to House Transportation and Infrastructure
 - 2010-12-02 — Referred to House Ways and Means
 - 2010-12-02 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-12-18 — Cleared for White House.
+- 2010-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10696)
+- 2010-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10696)
+- 2010-12-20 — Message on Senate action sent to the House.
+- 2010-12-21 — Presented to President.
+- 2010-12-21 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-329.
+- 2010-12-22 — Became Public Law No: 111-329.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
