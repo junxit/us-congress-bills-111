@@ -1,7 +1,7 @@
 ---
 measure: S. 987
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 987
@@ -61,9 +61,10 @@ International Protecting Girls by Preventing Child Marriage Act of 2010
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Brown, Scott P. [R-MA] (B001268)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -82,3 +83,6 @@ International Protecting Girls by Preventing Child Marriage Act of 2010
 - 2010-12-01 — Senate amendment proposed (on the floor): Amendment SA 4725 proposed by Senator Whitehouse for Senator Durbin.(consideration: CR S8355)
 - 2010-12-01 — Senate amendment submitted
 - 2010-12-01 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2010-12-02 — Message on Senate action sent to the House.
+- 2010-12-02 — Received in the House.
+- 2010-12-02 — Referred to the House Committee on Foreign Affairs.
