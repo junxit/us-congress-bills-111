@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5281
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5281
@@ -43,3 +43,14 @@ Removal Clarification Act of 2010
 - 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6133)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6133)
 - 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-12-03 — Amendment SA 4732 agreed to in Senate by Unanimous Consent.
+- 2010-12-03 — Amendment SA 4732 proposed by Senator Durbin for Senator Leahy. (consideration: CR S8509-8510; text: CR S8509-8510) To improve the bill.
+- 2010-12-03 — Measure laid before Senate by unanimous consent. (consideration: CR S8508-8510)
+- 2010-12-03 — Message on Senate action sent to the House.
+- 2010-12-03 — Passed Senate with amendments by Unanimous Consent. (text: CR S8510)
+- 2010-12-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S8510)
+- 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-03 — Senate amendment agreed to: Amendment SA 4732 agreed to in Senate by Unanimous Consent.
+- 2010-12-03 — Senate amendment proposed (on the floor): Amendment SA 4732 proposed by Senator Durbin for Senator Leahy.(consideration: CR S8509-8510; text: CR S8509-8510)
+- 2010-12-03 — Senate amendment submitted
