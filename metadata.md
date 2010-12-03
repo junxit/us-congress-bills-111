@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3817
@@ -35,3 +35,5 @@ CAPTA Reauthorization Act of 2010
 - 2010-12-02 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with amendments. Without written report.
 - 2010-12-02 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with amendments. Without written report.
 - 2010-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 670.
+- 2010-12-03 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S8479-8508; text as passed Senate: CR S8479-8508)
+- 2010-12-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S8479-8508; text as passed Senate: CR S8479-8508)
