@@ -1,7 +1,7 @@
 ---
 measure: S. 3784
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3784
@@ -16,9 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2010-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 665.
 - 2010-12-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8443; text as passed Senate: CR S8443)
 - 2010-12-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8443; text as passed Senate: CR S8443)
+- 2010-12-03 — Message on Senate action sent to the House.
+- 2010-12-03 — Received in the House.
+- 2010-12-03 — Referred to the House Committee on Oversight and Government Reform.
