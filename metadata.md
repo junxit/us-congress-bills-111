@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 325
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 325
@@ -36,9 +36,10 @@ Supporting the goals and ideals of National Homeless Persons' Memorial Day.
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Supporting the goals and ideals of National Homeless Persons' Memorial Day.
 - 2010-12-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-12-02 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 11/30/2010 H7728-7729)
 - 2010-12-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 11/30/2010 H7728-7729)
+- 2010-12-03 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
