@@ -1,7 +1,7 @@
 ---
 measure: S. 1774
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1774
@@ -31,3 +31,14 @@ A bill for the relief of Hotaru Nakama Ferschke.
 - 2009-10-13 — Introduced in Senate
 - 2009-10-13 — Read twice and referred to the Committee on the Judiciary.
 - 2009-10-13 — Sponsor introductory remarks on measure. (CR S10366)
+- 2010-12-03 — Amendment SA 4733 agreed to in Senate by Unanimous Consent.
+- 2010-12-03 — Amendment SA 4733 proposed by Senator Durbin for Senator Webb. (consideration: CR S8510-8511; text: CR S8510-8511) To add PAYGO language.
+- 2010-12-03 — Measure laid before Senate by unanimous consent. (consideration: CR S8510-8511)
+- 2010-12-03 — Message on Senate action sent to the House.
+- 2010-12-03 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8511)
+- 2010-12-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S8511)
+- 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-03 — Senate amendment agreed to: Amendment SA 4733 agreed to in Senate by Unanimous Consent.
+- 2010-12-03 — Senate amendment proposed (on the floor): Amendment SA 4733 proposed by Senator Durbin for Senator Webb.(consideration: CR S8510-8511; text: CR S8510-8511)
+- 2010-12-03 — Senate amendment submitted

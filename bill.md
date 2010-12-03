@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1774
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,3 +15,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(b)** *Adjustment of Status* If Hotaru Nakama Ferschke enters the United States before the filing deadline specified in subsection (c), she shall be considered to have entered and remained lawfully and shall, if otherwise eligible, be eligible for adjustment of status under section 245 of the Immigration and Nationality Act as of the date of the enactment of this Act.
 - **(c)** *Deadline for Application and Payment of Fees* Subsections (a) and (b) shall apply only if the application for issuance of an immigrant visa or the application for adjustment of status is filed with appropriate fees within 2 years after the date of the enactment of this Act.
 - **(d)** *Reduction of Immigrant Visa Number* Upon the granting of an immigrant visa or permanent residence to Hotaru Nakama Ferschke, the Secretary of State shall instruct the proper officer to reduce by 1, during the current or next following fiscal year, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 203(a) of the Immigration and Nationality Act or, if applicable, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 202(e) of such Act.
+- **(e)** *PAYGO* The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
