@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2941
@@ -204,3 +204,7 @@ To reauthorize and enhance Johanna's Law to increase public awareness and knowle
 - 2010-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/28/2010 H7194)
 - 2010-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/28/2010 H7194)
 - 2010-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2010-12-01 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
+- 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
