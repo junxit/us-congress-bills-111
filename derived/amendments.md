@@ -1,7 +1,7 @@
 ---
 measure: S. 3199
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 7 executed, 5 stated and not applied.
+23 amendatory instructions. 14 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,6 +87,69 @@ to guess them.
 | Removed | `fiscal year 2002` |
 | Inserted | `fiscal years 2010 through 2015` |
 
+### 42 U.S.C. § 280g-1
+
+> in the section heading, by striking “infants” and inserting “newborns and infants”;
+
+| | |
+|---|---|
+| Removed | `infants` |
+| Inserted | `newborns and infants` |
+
+### 42 U.S.C. § 280g-1
+
+> in the matter preceding paragraph (1), by striking “screening, evaluation and intervention programs and systems” and inserting “screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,”;
+
+| | |
+|---|---|
+| Removed | `screening, evaluation and intervention programs and systems` |
+| Inserted | `screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,` |
+
+### 42 U.S.C. § 280g-1
+
+> in subsection (b)(1)(A), by striking “hearing loss screening, evaluation, and intervention programs” and inserting “hearing loss screening, evaluation, diagnosis, and intervention programs”;
+
+| | |
+|---|---|
+| Removed | `hearing loss screening, evaluation, and intervention programs` |
+| Inserted | `hearing loss screening, evaluation, diagnosis, and intervention programs` |
+
+### 42 U.S.C. § 280g-1
+
+> in paragraph (3), by striking “ensuring that families of the child” and all that follows and inserting “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.”; and
+
+| | |
+|---|---|
+| Removed | `ensuring that families of the child` |
+| Inserted | `ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.` |
+
+### 42 U.S.C. § 280g-1
+
+> in paragraph (1), by striking “fiscal year 2002” and inserting “fiscal years 2011 through 2015”;
+
+| | |
+|---|---|
+| Removed | `fiscal year 2002` |
+| Inserted | `fiscal years 2011 through 2015` |
+
+### 42 U.S.C. § 280g-1
+
+> in paragraph (2), by striking “fiscal year 2002” and inserting “fiscal years 2011 through 2015”; and
+
+| | |
+|---|---|
+| Removed | `fiscal year 2002` |
+| Inserted | `fiscal years 2011 through 2015` |
+
+### 42 U.S.C. § 280g-1
+
+> in paragraph (3), by striking “fiscal year 2002” and inserting “fiscal years 2011 through 2015”.
+
+| | |
+|---|---|
+| Removed | `fiscal year 2002` |
+| Inserted | `fiscal years 2011 through 2015` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -101,3 +164,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 280g-1` | replace | in paragraphs (2) and (3) of subsection (c), by striking the term “hearing screening, evaluation and intervention programs” each place such term appears and inserting “hearing screening, evaluation, diagnosis, and intervention programs”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g-1` | strike | in paragraph (6), by striking “, after rescreening,”; and | the bill quotes the text struck but describes what replaces it |
 | — | insert | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by inserting after section 399M the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 280g-1` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g-1` | replace | in paragraphs (2) and (3) of subsection (c), by striking the term “hearing screening, evaluation and intervention programs” each place such term appears and inserting “hearing screening, evaluation, diagnosis, and intervention programs”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280g-1` | strike | in paragraph (6), by striking “, after rescreening,”; and | the bill quotes the text struck but describes what replaces it |
