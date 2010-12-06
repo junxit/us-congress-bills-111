@@ -1,7 +1,7 @@
 ---
 measure: S. 3728
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3728
@@ -38,3 +38,7 @@ Innovative Design Protection and Piracy Prevention Act
 - 2010-08-05 — Introduced in Senate
 - 2010-08-05 — Read twice and referred to the Committee on the Judiciary.
 - 2010-08-05 — Sponsor introductory remarks on measure. (CR S6893-6894)
+- 2010-12-01 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-06 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-12-06 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.

@@ -1,7 +1,7 @@
 ---
 measure: S. 3728
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 0 executed, 26 stated and not applied.
+52 amendatory instructions. 0 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -57,3 +57,29 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (1), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “, or an article of apparel,” after “plug or mold”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(5)” and inserting “(5)(A) in the case of a design of a vessel hull,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1303 of title 17, United States Code, is amended by adding at the end the following: “The presence or absence of a particular color or colors or of a pictorial or graphic work imprinted on fabric shall not be considered in determ… | the bill names no machine-readable US Code section |
+| — | amend | Section 1305(a) of title 17, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “offer for sale, advertise,” after “sell,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “either actual or reasonably inferred from the totality of the circumstances,” after “created without knowledge”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (e) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Protection under this chapter” and inserting “In the case of a design of a vessel hull, protection under this chapter”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding “Registration shall not apply to fashion designs.” after “first made public.”. | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or for purposes of obtaining recovery based on a claim of infringement under this chapter” after “registration of a design under this chapter”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$500” and inserting “5,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$1,000” and inserting “$10,000”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), in the first sentence, by striking “The Secretary” and inserting “In the case of designs of vessel hulls protected under this chapter, the Secretary”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), in the first sentence, by striking “Articles” and inserting “In the case of designs of vessel hulls protected under this chapter, articles”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
