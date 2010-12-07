@@ -1,7 +1,7 @@
 ---
 measure: S. 3984
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -53,12 +53,12 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 209 (20 U.S.C. 9107) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 210 (20 U.S.C. 9108) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subtitle A (20 U.S.C. 9101 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Subtitle A (20 U.S.C. 9101 et seq.), as amended by section 107, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle A (20 U.S.C. 9101 et seq.), as amended by section 107, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “continuous ” after “promote”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c). | the bill names no machine-readable US Code section |
 | — | replace | by striking “$340,000” and inserting “$680,000”; and | the bill names no machine-readable US Code section |
@@ -75,7 +75,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraphs (1) and (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “digitization” and inserting “digitizing”; and | the bill names no machine-readable US Code section |
@@ -100,5 +100,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (b); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | The National Commission on Libraries and Information Science Act (20 U.S.C. 1501 et seq.) is repealed. | the bill names no machine-readable US Code section |
