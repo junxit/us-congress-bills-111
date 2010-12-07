@@ -1,7 +1,7 @@
 ---
 measure: S. 124
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 124
@@ -30,3 +30,5 @@ A bill for the relief of Shigeru Yamada.
 - 2010-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8511)
 - 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8510-8511)
 - 2010-12-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8510-8511)
+- 2010-12-07 — Received in the House.
+- 2010-12-07 — Referred to the House Committee on the Judiciary.
