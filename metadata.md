@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2142
@@ -99,3 +99,7 @@ GPRA Modernization Act of 2010
 - 2010-06-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4553-4556)
 - 2010-06-16 — The title of the measure was amended. Agreed to without objection.
 - 2010-06-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-09-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.

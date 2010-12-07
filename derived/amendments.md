@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 2 executed, 9 stated and not applied.
+25 amendatory instructions. 2 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,3 +60,17 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 1115` | strike | in paragraph (5), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 1115` | replace | in paragraph (6), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 1115` | insert | by inserting after paragraph (6) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Chapter 3 of title 5, United States Code, is amended by striking section 306 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Chapter 11 of title 31, United States Code, is amended by striking section 1115 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Chapter 11 of title 31, United States Code, is amended by striking section 1116 and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is amended by adding after section 1119 the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is amended by adding after section 1120 (as added by section 5 of this Act) the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is amended by adding after section 1121 (as added by section 6 of this Act) the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is amended by adding after section 1122 (as added by section 7 of this Act) the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is amended by adding after section 1123 (as added by section 8 of this Act) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating second paragraph (33) as paragraph (35); and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 11 of title 31, United States Code, is further amended by adding after section 1124 (as added by section 9 of this Act) the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for chapter 3 of title 5, United States Code, is amended by striking the item relating to section 306 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents for chapter 11 of title 31, United States Code, is amended by striking the items relating to section 1115 and 1116 and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of contents for chapter 11 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
