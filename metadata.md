@@ -1,7 +1,7 @@
 ---
 measure: S. 3860
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3860
@@ -32,9 +32,10 @@ A bill to require reports on the management of Arlington National Cemetery.
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ A bill to require reports on the management of Arlington National Cemetery.
 - 2010-12-04 — Senate amendment agreed to: Amendment SA 4734 agreed to in Senate by Unanimous Consent.
 - 2010-12-04 — Senate amendment proposed (on the floor): Amendment SA 4734 proposed by Senator McCaskill.(consideration: CR S8535-8536; text: CR S8535-8536)
 - 2010-12-04 — Senate amendment submitted
+- 2010-12-06 — Message on Senate action sent to the House.
+- 2010-12-07 — Received in the House.
+- 2010-12-07 — Referred to the House Committee on Veterans' Affairs.
