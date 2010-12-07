@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3655
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bereaved Consumer’s Bill of Rights Act of 2009”.
+This Act may be cited as the “Bereaved Consumer’s Bill of Rights Act of 2010”.
 
 ## § 2. Findings
 
@@ -30,29 +30,26 @@ Congress finds that—
 ## § 3. FTC rulemaking relating to unfair or deceptive acts or practices in the provision of funeral goods or services
 
 - **(a)** *In General* The Federal Trade Commission shall prescribe rules prohibiting unfair or deceptive acts or practices in the provision of funeral goods or services. Such rules shall include the following:
-  - **(1)** A requirement that providers of funeral goods or funeral services furnish accurate price information disclosing the cost to the purchaser for each of the specific funeral goods or funeral services provided or offered for sale.
+  - **(1)** A requirement that providers of funeral goods or funeral services furnish accurate price information disclosing clearly and conspicuously the cost to the purchaser for each of the specific funeral goods or funeral services provided or offered for sale.
   - **(2)** A prohibition on misrepresentations by such providers, including misrepresentations of the requirements of Federal, State, or local law.
   - **(3)** A prohibition on conditioning the provision of any funeral good or funeral service upon the purchase of any other funeral good or funeral service from that provider, except as required by law.
-  - **(4)** A requirement that contracts for funeral services or funeral goods be written clearly, stating the merchandise and services that purchasers are buying and their prices.
-  - **(5)** In the case of contracts for funeral services or funeral goods that are pre-paid in whole or in part, required disclosures in the contract regarding any penalties incurred if the consumer decides to cancel or transfer the contract to another provider of funeral services or funeral goods.
-  - **(6)** A requirement that contracts for funeral services or funeral goods disclose all fees and costs to be incurred in the future or at the time that the funeral services or funeral goods are provided.
+  - **(4)** A requirement that any presale disclosures and contracts for funeral services or funeral goods be written clearly, stating the merchandise and services that purchasers are buying and their prices.
+  - **(5)** In the case of contracts for funeral services or funeral goods that are pre-paid in whole or in part, a requirement for clear and conspicuous presale and contractual disclosure regarding any penalties incurred if the consumer decides to cancel or transfer the contract to another provider of funeral services or funeral goods.
+  - **(6)** A requirement that contracts for funeral services or funeral goods disclose clearly and conspicuously all fees and costs to be incurred in the future or at the time that the funeral services or funeral goods are provided.
   - **(7)** A requirement that cemeteries provide to consumers, in a timely manner, all written rules and regulations of the cemetery, and a clear explanation in writing of the interment, inurnment, or entombment right that has been purchased, and any material terms and conditions of that purchase, including any repurchase option by the cemetery or resale rights available to the consumer.
   - **(8)** A requirement that cemeteries—
     - **(A)** retain all records in existence on the date of enactment of this Act, including maps or other systems indicating the location and date of each interment, inurnment, or entombment;
-    - **(B)** accurately record and retain records of all interment, inurnment, or entombment rights sold after the effective date of the regulations issued under this subsection, in such manner and form as the Commission may prescribe in such regulations; and
+    - **(B)** accurately record and retain records of all interments, inurnments, or entombments occurring, as well as any internment, inurnment, or entombment rights sold, after the effective date of the regulations issued under this subsection, in such manner and form as the Commission may prescribe in such regulations; and
     - **(C)** make such records available to Federal, State, and local governments, as appropriate.
-- **(b)** *Rulemaking*
-  - **(1)** *In general* The Commission shall prescribe the rules under subsection (a) within 1 year after the date of enactment of this Act. Such rules, and any future rules or revision of rules prescribed by the Commission prohibiting unfair or deceptive acts or practices in the provision of funeral goods or services, shall be prescribed in accordance with section 553 of title 5, United States Code.
-  - **(2)** *Relationship to Funeral Rule* No rule prescribed pursuant to this Act shall be less protective of consumers than the Trade Regulation Rule on Funeral Industry Practices (16 C.F.R. part 453).
+- **(b)** *Rulemaking* The Commission shall prescribe the rules under subsection (a) within 1 year after the date of enactment of this Act. Such rules, and any future rules or revision of rules prescribed by the Commission prohibiting unfair or deceptive acts or practices in the provision of funeral goods or services, shall be prescribed in accordance with section 553 of title 5, United States Code.
 - **(c)** *Application of Rules to Tax Exempt Organizations and States* Notwithstanding the definition of corporation in section 4 of the Federal Trade Commission Act (15 U.S.C. 44), the rules prescribed under subsection (a), and any future rules or revision of rules prescribed by the Commission prohibiting unfair or deceptive acts or practices in the provision of funeral goods or funeral services, shall also apply to cemeteries organized or operated by—
-  - **(1)** organizations described in section 501(c) of the Internal Revenue Code of 1986 that are exempt from taxation under section 501(a) of such Code;
-  - **(2)** religious organizations (notwithstanding any contrary provisions of law set forth in the Religious Freedom Restoration Act, 42 U.S.C. 2000bb—2000bb–4); and
-  - **(3)** States or any political subdivision of a State.
+  - **(1)** organizations described in section 501(c) of the Internal Revenue Code of 1986 that are exempt from taxation under section 501(a) of such Code, except for cemeteries organized, operated, managed, and owned by a religious denomination, middle judicatory, house of worship, or similar religious organization, and that are not organized, operated, managed, or owned by contract or affiliation with a for-profit provider of funeral goods or services that offers those goods and services for sale to the public; and
+  - **(2)** States or any political subdivision of a State.
 - **(d)** *Enforcement* Any violation of any rule prescribed under this section shall be treated as a violation of a regulation prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive acts or practices. The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act. Any person who violates the regulations prescribed under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in that Act.
 
 ## § 4. Enforcement by states
 
-- **(a)** *In General* Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in an act or practice which violates any rule of the Commission issued under section 3 of this Act, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such violative act or practice, to enforce compliance with such rule of the Commission, to obtain damages, restitution, or other compensation on behalf of residents of such State, or to obtain such further and other relief as the court may determine appropriate.
+- **(a)** *In General* Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in an act or practice which violates any rule of the Commission issued under section 3 of this Act or the Trade Regulation Rule on Funeral Industry Practices (16 C.F.R. 453.1 et seq.), the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such violative act or practice, to enforce compliance with such rule of the Commission, to obtain damages, restitution, or other compensation on behalf of residents of such State, or to obtain such further and other relief as the court may determine appropriate.
 - **(b)** *Notice* The State shall provide prior written notice of any civil action under subsection (a) or (f)(2) to the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right—
   - **(1)** to intervene in such action;
   - **(2)** upon so intervening, to be heard on all matters arising therein;
@@ -67,7 +64,7 @@ Congress finds that—
 
 ## § 5. Effect on other law
 
-- **(a)** *No preemption* Nothing in this Act or the rules prescribed under this Act shall be construed to preempt any provision of any law of a State or political subdivision of that State that provides protections to consumers of funeral services or funeral goods, except to the extent that the provision of law is inconsistent with any provision of this Act or a rule prescribed under this Act, and then only to the extent of the inconsistency.
+Nothing in this Act or the rules prescribed under this Act shall be construed to preempt any provision of any law of a State or political subdivision of that State that provides protections to consumers of funeral services or funeral goods, except to the extent that the provision of law is inconsistent with any provision of this Act or a rule prescribed under this Act, and then only to the extent of the inconsistency.
 
 ## § 6. Definitions
 
