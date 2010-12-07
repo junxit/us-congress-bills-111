@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6400
@@ -41,8 +41,20 @@ To designate the facility of the United States Postal Service located at 111 Nor
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2010-12-07 — [House 111-2-608](votes/house-111-2-0608.md) — On Motion to Suspend the Rules and Pass — **Passed** (382–0)
+
 ## Actions
 
 - 2010-11-15 — Introduced in House
 - 2010-11-15 — Introduced in House
 - 2010-11-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-12-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-12-07 — Considered as unfinished business. (consideration: CR H8067)
+- 2010-12-07 — Considered under suspension of the rules. (consideration: CR H8040)
+- 2010-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6400.
+- 2010-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-07 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2010-12-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608). (text: CR H8040)
+- 2010-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608).(text: CR H8040)
