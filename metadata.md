@@ -1,7 +1,7 @@
 ---
 measure: S. 3860
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3860
@@ -16,7 +16,7 @@ A bill to require reports on the management of Arlington National Cemetery.
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -29,6 +29,7 @@ A bill to require reports on the management of Arlington National Cemetery.
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
@@ -36,6 +37,10 @@ A bill to require reports on the management of Arlington National Cemetery.
 
 - Senate — Veterans' Affairs Committee
 - House — Veterans' Affairs Committee
+
+## Recorded votes (1)
+
+- 2010-12-16 — [House 111-2-641](votes/house-111-2-0641.md) — On Motion to Suspend the Rules and Pass — **Passed** (407–3)
 
 ## Actions
 
@@ -54,3 +59,18 @@ A bill to require reports on the management of Arlington National Cemetery.
 - 2010-12-06 — Message on Senate action sent to the House.
 - 2010-12-07 — Received in the House.
 - 2010-12-07 — Referred to the House Committee on Veterans' Affairs.
+- 2010-12-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-12-15 — Considered under suspension of the rules. (consideration: CR H8452-8456)
+- 2010-12-15 — DEBATE - The House proceeded with forty minutes of debate on S. 3860.
+- 2010-12-15 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — Considered as unfinished business. (consideration: CR H8543-8544)
+- 2010-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 3 (Roll no. 641). (text: CR 12/15/2010 H8452-8453)
+- 2010-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 3 (Roll no. 641).(text: CR 12/15/2010 H8452-8453)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-339.
+- 2010-12-22 — Became Public Law No: 111-339.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
