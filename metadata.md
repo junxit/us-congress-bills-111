@@ -1,7 +1,7 @@
 ---
 measure: S. 3199
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3199
@@ -38,3 +38,5 @@ Early Hearing Detection and Intervention Act of 2010
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.
+- 2010-12-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8601-8602; text as passed Senate: CR S8602)
+- 2010-12-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8601-8602; text as passed Senate: CR S8602)
