@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3817
@@ -37,3 +37,6 @@ CAPTA Reauthorization Act of 2010
 - 2010-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 670.
 - 2010-12-03 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S8479-8508; text as passed Senate: CR S8479-8508)
 - 2010-12-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S8479-8508; text as passed Senate: CR S8479-8508)
+- 2010-12-06 — Message on Senate action sent to the House.
+- 2010-12-07 — Received in the House.
+- 2010-12-07 — Referred to the House Committee on Education and Labor.
