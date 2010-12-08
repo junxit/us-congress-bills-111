@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4994
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4994
@@ -48,9 +48,10 @@ Medicare and Medicaid Extenders Act of 2010
 - House — Ways and Means Committee
 - Senate — Finance Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2010-04-14 — [House 111-2-200](votes/house-111-2-0200.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–9)
+- 2010-12-09 — [House 111-2-626](votes/house-111-2-0626.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (409–2)
 
 ## Actions
 
@@ -84,3 +85,16 @@ Medicare and Medicaid Extenders Act of 2010
 - 2010-12-08 — Senate amendment proposed (on the floor): Amendment SA 4743 proposed by Senator Bennet for Senator Reid.(consideration: CR S8631; text: CR S8631)
 - 2010-12-08 — Senate amendment submitted
 - 2010-12-08 — Senate amendment submitted
+- 2010-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-12-09 — Cleared for White House.
+- 2010-12-09 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 4994.
+- 2010-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-09 — Mr. Stark moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8267-8273, H8274)
+- 2010-12-09 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 409 - 2 (Roll no. 626). (text as House agreed to Senate amendments: CR H8267-8269)
+- 2010-12-09 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 409 - 2 (Roll no. 626).(text as House agreed to Senate amendments: CR H8267-8269)
+- 2010-12-10 — Presented to President.
+- 2010-12-10 — Presented to President.
+- 2010-12-15 — Became Public Law No: 111-309.
+- 2010-12-15 — Became Public Law No: 111-309.
+- 2010-12-15 — Signed by President.
+- 2010-12-15 — Signed by President.
