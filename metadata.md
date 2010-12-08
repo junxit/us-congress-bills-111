@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3082
@@ -85,7 +85,7 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 
 - House — Appropriations Committee
 
-## Recorded votes (7)
+## Recorded votes (8)
 
 - 2009-07-10 — [House 111-1-528](votes/house-111-1-0528.md) — On Agreeing to the Amendment — **Failed** (62–358)
 - 2009-07-10 — [House 111-1-529](votes/house-111-1-0529.md) — On Passage — **Passed** (415–3)
@@ -94,6 +94,7 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2009-11-17 — [Senate 111-1-346](votes/senate-111-1-0346.md) — On the Amendment — **Amendment Agreed to** (98–1)
 - 2009-11-17 — [Senate 111-1-347](votes/senate-111-1-0347.md) — On the Motion to Table — **Motion to Table Agreed to** (57–43)
 - 2009-11-17 — [Senate 111-1-348](votes/senate-111-1-0348.md) — On Passage of the Bill — **Bill Passed** (100–0)
+- 2010-12-08 — [House 111-2-622](votes/house-111-2-0622.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (212–206)
 
 ## Actions
 
@@ -378,3 +379,13 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2009-11-17 — Senate amendment proposed (on the floor): Amendment SA 2783 proposed by Senator Johnson for Senator Boxer to Amendment SA 2730.(consideration: CR S11407)
 - 2009-11-17 — Senate amendment submitted
 - 2009-11-17 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson; Inouye; Landrieu; Byrd; Murray; Reed; Nelson NE; Pryor; Leahy; Hutchison; Brownback; McConnell; Collins; Murkowski; Cochran. (consideration: CR S11411)
+- 2009-11-18 — Message on Senate action sent to the House.
+- 2010-12-08 — DEBATE - The House proceeded with one hour of debate on agreeing to the Senate amendment with an amendment to H.R. 3082.
+- 2010-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-08 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 212 - 206 (Roll no. 622). (text as House agreed to Senate amendment with an amendment: CR H8152-8203)
+- 2010-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on agreeing to the Senate amendment with an amendment to H.R.3082, the Chair announced that further proceedings would be postponed.
+- 2010-12-08 — Pursuant to the provisions of H. Res. 1755, the House moved to agree with an amendment to the Senate amendment. (consideration: CR H8152-8213, H8220-8221)
+- 2010-12-08 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 212 - 206 (Roll no. 622).(text as House agreed to Senate amendment with an amendment: CR H8152-8203)
+- 2010-12-08 — Rule H. Res. 1755 passed House.
+- 2010-12-08 — Rules Committee Resolution H. Res. 1755 Reported to House. Rule provides for consideration of H.R. 3082 with 1 hour of general debate. The resolution makes in order a motion to concur in the Senate amendment to H.R. 3082. It waives all points of order against consideration of the motion. The resolution provides that the Senate amendment and the motion shall be considered as read.
+- 2010-12-08 — The previous question was ordered without objection. (consideration: CR H8220)
