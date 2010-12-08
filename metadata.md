@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6400
@@ -60,3 +60,15 @@ To designate the facility of the United States Postal Service located at 111 Nor
 - 2010-12-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608). (text: CR H8040)
 - 2010-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608).(text: CR H8040)
 - 2010-12-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10365-10366; text as passed Senate: CR S10366)
+- 2010-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10365-10366; text as passed Senate: CR S10366)
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-368.
+- 2011-01-04 — Became Public Law No: 111-368.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
