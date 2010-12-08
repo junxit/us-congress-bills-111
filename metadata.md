@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4994
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4994
@@ -16,7 +16,7 @@ Medicare and Medicaid Extenders Act of 2010
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (20)
+## Cosponsors (23)
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -38,6 +38,9 @@ Medicare and Medicaid Extenders Act of 2010
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (3)
 
@@ -65,3 +68,19 @@ Medicare and Medicaid Extenders Act of 2010
 - 2010-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200). (text: CR H2531-2533)
 - 2010-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 9 (Roll no. 200).(text: CR H2531-2533)
 - 2010-04-15 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2010-12-08 — Amendment SA 4742 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Amendment SA 4742 proposed by Senator Bennet for Senator Reid. (consideration: CR S8631) In the nature of a substitute.
+- 2010-12-08 — Amendment SA 4743 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Amendment SA 4743 proposed by Senator Bennet for Senator Reid. (consideration: CR S8631; text: CR S8631) To amend the title.
+- 2010-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S8631-8634)
+- 2010-12-08 — Message on Senate action sent to the House.
+- 2010-12-08 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S8632-8634)
+- 2010-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S8632-8634)
+- 2010-12-08 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S8631-8634)
+- 2010-12-08 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8631-8634)
+- 2010-12-08 — Senate amendment agreed to: Amendment SA 4742 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Senate amendment agreed to: Amendment SA 4743 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Senate amendment proposed (on the floor): Amendment SA 4742 proposed by Senator Bennet for Senator Reid.(consideration: CR S8631)
+- 2010-12-08 — Senate amendment proposed (on the floor): Amendment SA 4743 proposed by Senator Bennet for Senator Reid.(consideration: CR S8631; text: CR S8631)
+- 2010-12-08 — Senate amendment submitted
+- 2010-12-08 — Senate amendment submitted
