@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4337
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4337
@@ -50,3 +50,16 @@ Regulated Investment Company Modernization Act of 2010
 - 2010-12-08 — Senate amendment agreed to: Amendment SA 4744 agreed to in Senate by Unanimous Consent.
 - 2010-12-08 — Senate amendment proposed (on the floor): Amendment SA 4744 proposed by Senator Reid for Senator Bingaman.(consideration: CR S8651)
 - 2010-12-08 — Senate amendment submitted
+- 2010-12-09 — Message on Senate action sent to the House.
+- 2010-12-15 — Cleared for White House.
+- 2010-12-15 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 4337.
+- 2010-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-15 — Mr. Levin moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8472-8417)
+- 2010-12-15 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H8412-8417)
+- 2010-12-15 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H8412-8417)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-325.
+- 2010-12-22 — Became Public Law No: 111-325.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.

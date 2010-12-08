@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4337
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -64,11 +64,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 852 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 855(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 855(a) is amended by striking “the first regular dividend payment” and inserting “the first dividend payment of the same type of dividend”. | the bill names no machine-readable US Code section |
-| — | amend | Subsection (a) of section 855 is amended by adding at the end the following: “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company A… | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (a) of section 855 is amended by adding at the end the following: “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company A… | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b) of section 316 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | Subsection (b) of section 302 is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a) of section 302 is amended by striking “or (4)” and inserting “(4), or (5)”. | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (3) of section 267(f) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (3) of section 267(f) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (c) of section 562 is amended by striking “The amount” and inserting “Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount”. | the bill names no machine-readable US Code section |
 | — | insert | Section 562(c) is amended by inserting “(other than a publicly offered regulated investment company (as so defined))” after “regulated investment company” in the second sentence thereof. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (8) of section 852(b) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -82,7 +82,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking the period at the end of paragraph (2), and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e) of section 4982 is amended by striking paragraphs (5) and (6) and inserting the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (c) of section 4982 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (c) of section 4982 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 4982(b)(1) is amended by striking “98 percent” and inserting “98.2 percent”. | the bill names no machine-readable US Code section |
 | — | strike | Part I of subchapter B of chapter 68 is amended by striking section 6697 (and by striking the item relating to such section in the table of sections of such part). | the bill names no machine-readable US Code section |
 | — | strike | Section 860 is amended by striking subsection (j). | the bill names no machine-readable US Code section |
