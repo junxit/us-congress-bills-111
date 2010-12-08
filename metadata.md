@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 267
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 267
@@ -57,9 +57,10 @@ Congratulating the Baltic nations of Estonia, Latvia, and Lithuania on the 20th 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Congratulating the Baltic nations of Estonia, Latvia, and Lithuania on the 20th 
 - 2010-12-07 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H8057-8058)
 - 2010-12-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H8057-8058)
 - 2010-12-07 — The title of the measure was amended. Agreed to without objection.
+- 2010-12-08 — Received in the Senate and referred to the Committee on Foreign Relations.
