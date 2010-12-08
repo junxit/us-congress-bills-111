@@ -1,7 +1,7 @@
 ---
 measure: S. 3036
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3036
@@ -69,3 +69,16 @@ National Alzheimer's Project Act
 - 2010-12-08 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S8654-8655; text as passed Senate: CR S8654-8655)
 - 2010-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S8654-8655; text as passed Senate: CR S8654-8655)
 - 2010-12-08 — Received in the House.
+- 2010-12-15 — Cleared for White House.
+- 2010-12-15 — Considered under suspension of the rules. (consideration: CR H8369-8372)
+- 2010-12-15 — DEBATE - The House proceeded with forty minutes of debate on S. 3036.
+- 2010-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-15 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2010-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8369)
+- 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8369)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-375.
+- 2011-01-04 — Became Public Law No: 111-375.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
