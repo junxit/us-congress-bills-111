@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4337
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4337
@@ -16,12 +16,14 @@ Regulated Investment Company Modernization Act of 2010
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Neal, Richard E. [D-MA-2] (N000015)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kerry, John F. [D-MA] (K000148)
 
 ## Committees (1)
 
@@ -40,3 +42,11 @@ Regulated Investment Company Modernization Act of 2010
 - 2010-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7064-7069)
 - 2010-09-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.
+- 2010-12-08 — Amendment SA 4744 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Amendment SA 4744 proposed by Senator Reid for Senator Bingaman. (consideration: CR S8651) In the nature of a substitute.
+- 2010-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S8651)
+- 2010-12-08 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-08 — Senate amendment agreed to: Amendment SA 4744 agreed to in Senate by Unanimous Consent.
+- 2010-12-08 — Senate amendment proposed (on the floor): Amendment SA 4744 proposed by Senator Reid for Senator Bingaman.(consideration: CR S8651)
+- 2010-12-08 — Senate amendment submitted
