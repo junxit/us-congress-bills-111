@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3817
-congress: 111th CONGRESS
+congress: One Hundred Eleventh Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3817
 
-That the bill from the Senate (S. 3817) entitled “An Act to amend the Child Abuse Prevention and Treatment Act, the Family Violence Prevention and Services Act, the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, and the Abandoned Infants Assistance Act of 1988 to reauthorize the Acts, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Child Abuse Prevention and Treatment Act, the Family Violence Prevention and Services Act, the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, and the Abandoned Infants Assistance Act of 1988 to reauthorize the Acts, and for other purposes.
 
 ## § 1. Short title
 

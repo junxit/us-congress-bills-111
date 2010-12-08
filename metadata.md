@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3817
@@ -48,3 +48,15 @@ CAPTA Reauthorization Act of 2010
 - 2010-12-08 — Mr. Sablan moved to suspend the rules and pass the bill, as amended.
 - 2010-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8114-8128)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8114-8128)
+- 2010-12-10 — Cleared for White House.
+- 2010-12-10 — Resolving differences -- Senate actions: Senate agreed to House Amendment by Unanimous Consent.(consideration: CR S8807-8809; text as Senate agreed to House amendment: CR S8807)
+- 2010-12-10 — Senate agreed to House Amendment by Unanimous Consent. (consideration: CR S8807-8809; text as Senate agreed to House amendment: CR S8807)
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-14 — Presented to President.
+- 2010-12-14 — Presented to President.
+- 2010-12-18 — By Senator Harkin from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 111-378.
+- 2010-12-18 — By Senator Harkin from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 111-378.
+- 2010-12-20 — Became Public Law No: 111-320.
+- 2010-12-20 — Became Public Law No: 111-320.
+- 2010-12-20 — Signed by President.
+- 2010-12-20 — Signed by President.

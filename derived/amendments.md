@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
