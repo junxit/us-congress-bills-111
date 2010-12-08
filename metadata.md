@@ -1,7 +1,7 @@
 ---
 measure: S. 3984
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3984
@@ -44,3 +44,16 @@ Museum and Library Services Act of 2010
 - 2010-12-08 — Message on Senate action sent to the House.
 - 2010-12-08 — Received in the House.
 - 2010-12-08 — Referred to the House Committee on Education and Labor.
+- 2010-12-14 — Cleared for White House.
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8318-8321)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 3984.
+- 2010-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-14 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8318-8321)
+- 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8318-8321)
+- 2010-12-16 — Presented to President.
+- 2010-12-16 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-340.
+- 2010-12-22 — Became Public Law No: 111-340.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
