@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5281
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “that is” after “or criminal prosecution”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and that is” after “in a State court”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or directed to” after “against”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 504(b)(1) of title 10, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
