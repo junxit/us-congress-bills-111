@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6400
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6400
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 111 Nor
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To designate the facility of the United States Postal Service located at 111 Nor
 - 2010-12-07 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2010-12-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608). (text: CR H8040)
 - 2010-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 608).(text: CR H8040)
+- 2010-12-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
