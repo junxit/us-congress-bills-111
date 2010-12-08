@@ -27,7 +27,7 @@ Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) 
 >         - **(II)** a food bank or food pantry;
 >         - **(III)** a homeless shelter; and
 >         - **(IV)** such other type of emergency feeding agency as is approved by the Secretary.
->   - **(2)** *Establishment* The Secretary shall carry out a pilot program under which the Secretary shall provide commodities to eligible institutions to carry out projects to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.
+>   - **(2)** *Establishment* Subject to the availability of appropriations provided in advance in an appropriations Act specifically for the purpose of carrying out this subsection, the Secretary shall establish a program under which the Secretary shall provide commodities, on a competitive basis, to eligible institutions to provide nutritious food to at-risk children on weekends and during extended school holidays during the school year.
 >   - **(3)** *Eligibility*
 >     - **(A)** *In general* To be eligible to receive commodities under this subsection, an eligible institution shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may determine.
 >     - **(B)** *Plan* An application under subparagraph (A) shall include the plan of the eligible institution for the distribution of nutritious foods to at-risk school children, including—
@@ -57,8 +57,5 @@ Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) 
 >       - **(i)** an evaluation of the pilot program carried out under this subsection; and
 >       - **(ii)** any recommendations of the Secretary for legislative action.
 >   - **(7)** *Funding*
->     - **(A)** *In general* For each of fiscal years 2011 through 2015, the Secretary shall use such sums as are necessary, but not less than $10,000,000 of funds appropriated under section 3, to purchase commodities to carry out this subsection.
->     - **(B)** *Availability of funds* Funds made available under subparagraph (A) shall remain available—
->       - **(i)** until expended; or
->       - **(ii)** if the Secretary determines that unspent funds cannot be fully used for approved pilot projects, until September 30, 2015.
->     - **(C)** *Funding* Not more than 3 percent of the funds made available under subparagraph (A) may be used by the Secretary for expenses associated with review of the operations and evaluation of the projects carried out under this subsection.
+>     - **(A)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section such sums as are necessary, to remain available until expended.
+>     - **(B)** *Availability of funds* Not more than 3 percent of the funds made available under subparagraph (A) may be used by the Secretary for expenses associated with review of the operations and evaluation of the projects carried out under this subsection.
