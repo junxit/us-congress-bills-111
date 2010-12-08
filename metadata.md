@@ -1,7 +1,7 @@
 ---
 measure: S. 3036
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3036
@@ -64,3 +64,8 @@ National Alzheimer's Project Act
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.
+- 2010-12-08 — Held at the desk.
+- 2010-12-08 — Message on Senate action sent to the House.
+- 2010-12-08 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S8654-8655; text as passed Senate: CR S8654-8655)
+- 2010-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S8654-8655; text as passed Senate: CR S8654-8655)
+- 2010-12-08 — Received in the House.
