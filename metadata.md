@@ -1,7 +1,7 @@
 ---
 measure: S. 3984
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3984
@@ -25,9 +25,10 @@ Museum and Library Services Act of 2010
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ Museum and Library Services Act of 2010
 - 2010-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.
 - 2010-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8602-8605; text: CR S8602-8605)
 - 2010-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8602-8605; text: CR S8602-8605)
+- 2010-12-08 — Message on Senate action sent to the House.
+- 2010-12-08 — Received in the House.
+- 2010-12-08 — Referred to the House Committee on Education and Labor.
