@@ -1,7 +1,7 @@
 ---
 measure: S. 2902
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2902
@@ -16,10 +16,14 @@ Federal Acquisition Institute Act of 2010
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Brown, Scott P. [R-MA] (B001268)
 
 ## Committees (1)
 
@@ -29,3 +33,7 @@ Federal Acquisition Institute Act of 2010
 
 - 2009-12-17 — Introduced in Senate
 - 2009-12-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
