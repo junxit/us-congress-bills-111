@@ -1,7 +1,7 @@
 ---
 measure: S. 3817
 congress: 111
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 3817
@@ -23,9 +23,10 @@ CAPTA Reauthorization Act of 2010
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -40,3 +41,10 @@ CAPTA Reauthorization Act of 2010
 - 2010-12-06 — Message on Senate action sent to the House.
 - 2010-12-07 — Received in the House.
 - 2010-12-07 — Referred to the House Committee on Education and Labor.
+- 2010-12-08 — Considered under suspension of the rules. (consideration: CR H8114-8131)
+- 2010-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 3817.
+- 2010-12-08 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2010-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-08 — Mr. Sablan moved to suspend the rules and pass the bill, as amended.
+- 2010-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8114-8128)
+- 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8114-8128)
