@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5470
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5470
@@ -44,3 +44,13 @@ To exclude an external power supply for certain security or life safety alarms a
 - 2010-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8104-8105)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8104-8105)
 - 2010-12-09 — Received in the Senate, read twice.
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10933)
+- 2010-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10933)
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-360.
+- 2011-01-04 — Became Public Law No: 111-360.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
