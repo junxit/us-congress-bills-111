@@ -1,7 +1,7 @@
 ---
 measure: S. 2925
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2925
@@ -40,3 +40,17 @@ Domestic Minor Sex Trafficking Deterrence and Victims Support Act of 2010
 - 2010-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2010-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.
+- 2010-12-09 — Amendment SA 4751 agreed to in Senate by Unanimous Consent.
+- 2010-12-09 — Amendment SA 4751 proposed by Senator Wyden. (consideration: CR S8695-8696; text: CR S8695-8696) To strengthen the reporting requirement.
+- 2010-12-09 — Amendment SA 4752 agreed to in Senate by Unanimous Consent.
+- 2010-12-09 — Amendment SA 4752 proposed by Senator Wyden. (consideration: CR S8695-8695; text: CR S8696) To make technical corrections.
+- 2010-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S8692-8701; text of measure as reported in Senate: CR S8692-8696)
+- 2010-12-09 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8696-8700)
+- 2010-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S8696-8700)
+- 2010-12-09 — Senate amendment agreed to: Amendment SA 4751 agreed to in Senate by Unanimous Consent.
+- 2010-12-09 — Senate amendment agreed to: Amendment SA 4752 agreed to in Senate by Unanimous Consent.
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4751 proposed by Senator Wyden.(consideration: CR S8695-8696; text: CR S8695-8696)
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4752 proposed by Senator Wyden.(consideration: CR S8695-8695; text: CR S8696)
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — The committee substitute as amended agreed to by Unanimous Consent.
