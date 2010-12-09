@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3353
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3353
@@ -30,9 +30,10 @@ To provide for American Samoa and the Commonwealth of the Northern Marianas to b
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To provide for American Samoa and the Commonwealth of the Northern Marianas to b
 - 2010-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/7/2010 CR H8064)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/7/2010 CR H8064)
+- 2010-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
