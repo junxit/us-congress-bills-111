@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1275
@@ -41,3 +41,5 @@ National Foundation on Fitness, Sports, and Nutrition Establishment Act
 - 2010-12-07 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-07 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 677.
+- 2010-12-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8690-6892; text as passed Senate: CR S8691-8692)
+- 2010-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8690-6892; text as passed Senate: CR S8691-8692)
