@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5470
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5470
@@ -43,3 +43,4 @@ To exclude an external power supply for certain security or life safety alarms a
 - 2010-12-08 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2010-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8104-8105)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8104-8105)
+- 2010-12-09 — Received in the Senate, read twice.
