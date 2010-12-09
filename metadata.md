@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4501
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4501
@@ -16,9 +16,10 @@ Guarantee of a Legitimate Deal Act of 2010
 
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Guarantee of a Legitimate Deal Act of 2010
 - 2010-12-08 — Mr. Weiner moved to suspend the rules and pass the bill, as amended.
 - 2010-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 324 - 81 (Roll no. 620). (text: CR H8105-8106)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 324 - 81 (Roll no. 620).(text: CR H8105-8106)
+- 2010-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
