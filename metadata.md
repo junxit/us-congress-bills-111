@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5811
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5811
@@ -33,3 +33,7 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2010-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6821)
 - 2010-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6821)
 - 2010-09-23 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2010-11-18 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2010-12-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-359.
+- 2010-12-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-359.
+- 2010-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.
