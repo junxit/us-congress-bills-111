@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6412
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6412
