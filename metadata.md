@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6412
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6412
@@ -39,3 +39,15 @@ Access to Criminal History Records for State Sentencing Commissions Act of 2010
 - 2010-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 1 (Roll no. 627). (text: CR 12/7/2010 H8066)
 - 2010-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 1 (Roll no. 627).(text: CR 12/7/2010 H8066)
 - 2010-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-12-20 — Cleared for White House.
+- 2010-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2010-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10807)
+- 2010-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10807)
+- 2010-12-21 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-369.
+- 2011-01-04 — Became Public Law No: 111-369.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
