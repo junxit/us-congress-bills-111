@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5012
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1769` | add-at-end | Section 18 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -2,12 +2,12 @@
 legis-num: H.R. 5012
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5012
 
-> To amend the Richard B. Russell National School Lunch to establish a weekend and holiday feeding program to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.
+> To amend the Richard B. Russell National School Lunch Act to establish a weekend and holiday feeding program to provide nutritious food to at-risk school children on weekends and during extended school holidays during the school year.
 
 ## § 1. Short title
 

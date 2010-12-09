@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5012
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5012
@@ -48,9 +48,10 @@ Weekends Without Hunger Act
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Weekends Without Hunger Act
 - 2010-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8112)
 - 2010-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8112)
 - 2010-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2010-12-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
