@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1275
@@ -43,3 +43,19 @@ National Foundation on Fitness, Sports, and Nutrition Establishment Act
 - 2010-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 677.
 - 2010-12-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8690-6892; text as passed Senate: CR S8691-8692)
 - 2010-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8690-6892; text as passed Senate: CR S8691-8692)
+- 2010-12-10 — Message on Senate action sent to the House.
+- 2010-12-13 — Held at the desk.
+- 2010-12-13 — Received in the House.
+- 2010-12-14 — Cleared for White House.
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8321-8324)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 1275.
+- 2010-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-14 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8322-8323)
+- 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8322-8323)
+- 2010-12-16 — Presented to President.
+- 2010-12-16 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-332.
+- 2010-12-22 — Became Public Law No: 111-332.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
