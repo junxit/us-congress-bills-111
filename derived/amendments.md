@@ -1,7 +1,7 @@
 ---
 measure: S. 787
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 3 executed, 3 stated and not applied.
+12 amendatory instructions. 6 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 33 U.S.C. § 1251
+
+> by striking “navigable waters of the United States” each place it appears and inserting “waters of the United States”;
+
+| | |
+|---|---|
+| Removed | `navigable waters of the United States` |
+| Inserted | `waters of the United States` |
+
+### 33 U.S.C. § 1251
+
+> in section 304(l)(1) by striking “navigable waters” in the heading and inserting “waters of the united states”; and
+
+| | |
+|---|---|
+| Removed | `navigable waters` |
+| Inserted | `waters of the united states` |
+
+### 33 U.S.C. § 1251
+
+> by striking “navigable waters” each place it appears and inserting “waters of the United States”.
+
+| | |
+|---|---|
+| Removed | `navigable waters` |
+| Inserted | `waters of the United States` |
 
 ### 33 U.S.C. § 1251
 
@@ -63,3 +90,6 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1362` | strike | by striking paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1362` | redesignate | by redesignating paragraphs (8) through (25) as paragraphs (7) through (24), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1362` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1362` | strike | by striking paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1362` | redesignate | by redesignating paragraphs (8) through (25) as paragraphs (7) through (24), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1362` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
