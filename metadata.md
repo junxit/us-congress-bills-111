@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2941
@@ -208,3 +208,5 @@ To reauthorize and enhance Johanna's Law to increase public awareness and knowle
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-06 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
+- 2010-12-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8809; text as passed Senate: CR S8809)
+- 2010-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8809; text as passed Senate: CR S8809)

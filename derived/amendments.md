@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,11 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 247b-17` | insert | in paragraph (4), by inserting after “2009” the following: “and $18,000,000 for the period of fiscal years 2012 through 2014”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-17` | redesignate | by redesignating paragraph (4) as paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-17` | insert | Section 317P(d) of such Act (42 U.S.C. 247b–17(d)), as amended by subsection (a), is further amended by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-17` | insert | Section 317P(d) of the Public Health Service Act (42 U.S.C. 247b–17(d)), as amended by section 1, is further amended by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-17` | insert | Section 317P(d)(3)(A) of the Public Health Service Act (42 U.S.C. 247b–17(d)(3)(A)) is amended by inserting “(other than paragraph (5))” after “this section”. | the bill quotes the text inserted but describes where it goes |
 | — | insert | in paragraph (4), by inserting after “2009” the following: “and $18,000,000 for the period of fiscal years 2012 through 2014”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (6). | the bill names no machine-readable US Code section |
 | — | insert | Section 317P(d) of such Act (42 U.S.C. 247b–17(d)), as amended by subsection (a), is further amended by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
