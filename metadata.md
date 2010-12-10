@@ -1,7 +1,7 @@
 ---
 measure: S. 3806
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3806
@@ -31,3 +31,7 @@ SECURE Facilities Act of 2010
 - 2010-09-20 — Introduced in Senate
 - 2010-09-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S7211-7216)
 - 2010-09-20 — Sponsor introductory remarks on measure. (CR S7210-7211)
+- 2010-09-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2010-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.
