@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2941
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2941
@@ -210,3 +210,16 @@ To reauthorize and enhance Johanna's Law to increase public awareness and knowle
 - 2010-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
 - 2010-12-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8809; text as passed Senate: CR S8809)
 - 2010-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8809; text as passed Senate: CR S8809)
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 2941.
+- 2010-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-16 — Mrs. Capps moved that the House suspend the rules and agree to the Senate amendment.
+- 2010-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H8541-8543; text as House agreed to Senate amendment: CR H8541)
+- 2010-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H8541-8543; text as House agreed to Senate amendment: CR H8541)
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-324.
+- 2010-12-22 — Became Public Law No: 111-324.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
