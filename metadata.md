@@ -1,7 +1,7 @@
 ---
 measure: S. 2902
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2902
@@ -37,3 +37,5 @@ Federal Acquisition Institute Act of 2010
 - 2010-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2010-12-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2010-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
+- 2010-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8947-8948; text as passed Senate: CR S8947-8948)
+- 2010-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8947-8948; text as passed Senate: CR S8947-8948)
