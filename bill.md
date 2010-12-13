@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 628
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 628
 
-That the bill from the House of Representatives (H.R. 628) entitled “An Act to establish a pilot program in certain United States district courts to encourage enhancement of expertise in patent cases among district judges.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To establish a pilot program in certain United States district courts to encourage enhancement of expertise in patent cases among district judges.
 
 ## § 1. Pilot program in certain district courts
 

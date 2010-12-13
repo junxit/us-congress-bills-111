@@ -1,7 +1,7 @@
 ---
 measure: H.R. 628
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 628
@@ -28,9 +28,10 @@ To establish a pilot program in certain United States district courts to encoura
 - House — Judiciary Committee
 - Senate — Judiciary Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2009-03-17 — [House 111-1-130](votes/house-111-1-0130.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–7)
+- 2010-12-17 — [House 111-2-651](votes/house-111-2-0651.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (371–1)
 
 ## Actions
 
@@ -56,3 +57,18 @@ To establish a pilot program in certain United States district courts to encoura
 - 2010-12-13 — Senate amendment agreed to: Amendment SA 4801 agreed to in Senate by Unanimous Consent.
 - 2010-12-13 — Senate amendment proposed (on the floor): Amendment SA 4801 proposed by Senator Durbin for Senator Leahy.(consideration: CR S8946-8947; text: CR S8946-8947)
 - 2010-12-13 — Senate amendment submitted
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-16 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Chu objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-12-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 628.
+- 2010-12-16 — Ms. Chu moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8536-8539)
+- 2010-12-17 — Cleared for White House.
+- 2010-12-17 — Considered as unfinished business. (consideration: CR H8762-8763)
+- 2010-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-17 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 371 - 1 (Roll no. 651). (text as House agreed to Senate amendment: CR 12/16/2010 H8536-8537)
+- 2010-12-17 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 371 - 1 (Roll no. 651).(text as House agreed to Senate amendment: CR 12/16/2010 H8536-8537)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-349.
+- 2011-01-04 — Became Public Law No: 111-349.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
