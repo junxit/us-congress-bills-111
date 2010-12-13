@@ -1,7 +1,7 @@
 ---
 measure: S. 2925
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2925
@@ -26,9 +26,13 @@ Domestic Minor Sex Trafficking Deterrence and Victims Support Act of 2010
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Committees (1)
+## Committees (5)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Budget Committee
+- House — Oversight and Accountability Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -54,3 +58,10 @@ Domestic Minor Sex Trafficking Deterrence and Victims Support Act of 2010
 - 2010-12-09 — Senate amendment submitted
 - 2010-12-09 — Senate amendment submitted
 - 2010-12-09 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2010-12-10 — Message on Senate action sent to the House.
+- 2010-12-13 — Received in the House.
+- 2010-12-13 — Referred to House Budget
+- 2010-12-13 — Referred to House Judiciary
+- 2010-12-13 — Referred to House Oversight and Government Reform
+- 2010-12-13 — Referred to House Ways and Means
+- 2010-12-13 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Oversight and Government Reform, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
