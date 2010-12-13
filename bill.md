@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 628
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 628
 
-> To establish a pilot program in certain United States district courts to encourage enhancement of expertise in patent cases among district judges.
+That the bill from the House of Representatives (H.R. 628) entitled “An Act to establish a pilot program in certain United States district courts to encourage enhancement of expertise in patent cases among district judges.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Pilot program in certain district courts
 
@@ -22,20 +24,20 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(b)** *Designation*
   - **(1)** *In general* Not later than 6 months after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall designate not less than 6 United States district courts, in at least 3 different judicial circuits, in which the program established under subsection (a) will be carried out.
   - **(2)** *Criteria for designations*
-    - **(A)** *In general* Except as provided under subparagraph (B), the Director shall make designations under paragraph (1) from—
+    - **(A)** *In general* The Director shall make designations under paragraph (1) from—
       - **(i)** the 15 district courts in which the largest number of patent and plant variety protection cases were filed in the most recent calendar year that has ended; or
-      - **(ii)** the district courts that have adopted local rules for patent and plant variety protection cases.
-    - **(B)** *Exceptions* The Director may only designate a court in which—
-      - **(i)** at least 10 district judges are authorized to be appointed by the President, whether under section 133(a) of title 28, United States Code, or on a temporary basis under other provisions of law; and
-      - **(ii)** at least 3 judges of the court have made the request under subsection (a)(1)(A).
+      - **(ii)** the district courts that have adopted, or certified to the Director the intention to adopt, local rules for patent and plant variety protection cases.
+    - **(B)** *Selection of courts* From amongst the district courts that satisfy the criteria for designation under this subsection, the Director shall select—
+      - **(i)** 3 district courts that each have at least 10 district judges authorized to be appointed by the President, whether under section 133(a) of title 28, United States Code, or on a temporary basis under any other provision of law, and at least 3 judges of the court have made the request under subsection (a)(1)(A); and
+      - **(ii)** 3 district courts that each have fewer than 10 district judges authorized to be appointed by the President, whether under section 133(a) of title 28, United States Code, or on a temporary basis under any other provision of law, and at least 2 judges of the court have made the request under subsection (a)(1)(A).
 - **(c)** *Duration* The program established under subsection (a) shall terminate 10 years after the end of the 6-month period described in subsection (b).
 - **(d)** *Applicability* The program established under subsection (a) shall apply in a district court designated under subsection (b) only to cases commenced on or after the date of such designation.
-- **(e)** *Reports to Congress*
+- **(e)** *Reports to congress*
   - **(1)** *In general* At the times specified in paragraph (2), the Director of the Administrative Office of the United States Courts, in consultation with the chief judge of each of the district courts designated under subsection (b) and the Director of the Federal Judicial Center, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the pilot program established under subsection (a). The report shall include—
     - **(A)** an analysis of the extent to which the program has succeeded in developing expertise in patent and plant variety protection cases among the district judges of the district courts so designated;
     - **(B)** an analysis of the extent to which the program has improved the efficiency of the courts involved by reason of such expertise;
     - **(C)** with respect to patent cases handled by the judges designated pursuant to subsection (a)(1)(A) and judges not so designated, a comparison between the 2 groups of judges with respect to—
-      - **(i)** the rate of reversal, by the Court of Appeals for the Federal Circuit, of such cases on the issues of claim construction and substantive patent law; and
+      - **(i)** the rate of reversal by the Court of Appeals for the Federal Circuit, of such cases on the issues of claim construction and substantive patent law; and
       - **(ii)** the period of time elapsed from the date on which a case is filed to the date on which trial begins or summary judgment is entered;
     - **(D)** a discussion of any evidence indicating that litigants select certain of the judicial districts designated under subsection (b) in an attempt to ensure a given outcome; and
     - **(E)** an analysis of whether the pilot program should be extended to other district courts, or should be made permanent and apply to all district courts.
@@ -43,8 +45,3 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** not later than the date that is 5 years and 3 months after the end of the 6-month period described in subsection (b); and
     - **(B)** not later than 5 years after the date described in subparagraph (A).
   - **(3)** *Periodic reports* The Director of the Administrative Office of the United States Courts, in consultation with the chief judge of each of the district courts designated under subsection (b) and the Director of the Federal Judicial Center, shall keep the committees referred to in paragraph (1) informed, on a periodic basis while the pilot program is in effect, with respect to the matters referred to in subparagraphs (A) through (E) of paragraph (1).
-- **(f)** *Authorization for Training and Clerkships*
-  - **(1)** *In general* In addition to any other funds made available to carry out this section, there are authorized to be appropriated not less than $5,000,000 in each fiscal year for—
-    - **(A)** educational and professional development of those district judges designated under subsection (a)(1)(A) in matters relating to patents and plant variety protection; and
-    - **(B)** compensation of law clerks with expertise in technical matters arising in patent and plant variety protection cases, to be appointed by the courts designated under subsection (b) to assist those courts in such cases.
-  - **(2)** *Availability of funds* Amounts made available pursuant to this subsection shall remain available until expended.
