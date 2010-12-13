@@ -1,7 +1,7 @@
 ---
 measure: S. 3447
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3447
@@ -16,7 +16,7 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (27)
+## Cosponsors (35)
 
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
@@ -45,6 +45,14 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -60,3 +68,12 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - 2010-10-26 — Committee on Veterans' Affairs. Reported by Senator Akaka under authority of the order of the Senate of 09/29/2010 with an amendment in the nature of a substitute. With written report No. 111-346.
 - 2010-10-26 — Committee on Veterans' Affairs. Reported by Senator Akaka under authority of the order of the Senate of 09/29/2010 with an amendment in the nature of a substitute. With written report No. 111-346.
 - 2010-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.
+- 2010-12-13 — Amendment SA 4802 agreed to in Senate by Unanimous Consent.
+- 2010-12-13 — Amendment SA 4802 proposed by Senator Durbin for Senator Akaka. (consideration: CR S8953-8954; text: CR S8954) To improve the bill.
+- 2010-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S8948-8960; text of measure as reported in Senate: CR S8948-8953)
+- 2010-12-13 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8954-8960)
+- 2010-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S8954-8960)
+- 2010-12-13 — Senate amendment agreed to: Amendment SA 4802 agreed to in Senate by Unanimous Consent.
+- 2010-12-13 — Senate amendment proposed (on the floor): Amendment SA 4802 proposed by Senator Durbin for Senator Akaka.(consideration: CR S8953-8954; text: CR S8954)
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — The committee substitute as amended agreed to by Unanimous Consent.
