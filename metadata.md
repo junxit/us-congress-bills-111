@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Engrossed Amendment House
+version: Amendment Ordered to be Printed (Senate)
 ---
 
 # H.R. 3082
@@ -389,3 +389,7 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2010-12-08 — Rule H. Res. 1755 passed House.
 - 2010-12-08 — Rules Committee Resolution H. Res. 1755 Reported to House. Rule provides for consideration of H.R. 3082 with 1 hour of general debate. The resolution makes in order a motion to concur in the Senate amendment to H.R. 3082. It waives all points of order against consideration of the motion. The resolution provides that the Senate amendment and the motion shall be considered as read.
 - 2010-12-08 — The previous question was ordered without objection. (consideration: CR H8220)
+- 2010-12-09 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-12-14 — Amedment SA 4805 ordered to be printed.
+- 2010-12-14 — Senate amendment submitted
+- 2010-12-14 — Senate amendment submitted
