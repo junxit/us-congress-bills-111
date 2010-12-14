@@ -1,7 +1,7 @@
 ---
 measure: S. 2902
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2902
@@ -25,9 +25,10 @@ Federal Acquisition Institute Act of 2010
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Brown, Scott P. [R-MA] (B001268)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Federal Acquisition Institute Act of 2010
 - 2010-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
 - 2010-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8947-8948; text as passed Senate: CR S8947-8948)
 - 2010-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8947-8948; text as passed Senate: CR S8947-8948)
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-14 — Received in the House.
+- 2010-12-14 — Referred to the House Committee on Oversight and Government Reform.
