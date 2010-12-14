@@ -1,7 +1,7 @@
 ---
 measure: S. 3447
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3447
@@ -61,6 +61,10 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - House — Budget Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2010-12-16 — [House 111-2-642](votes/house-111-2-0642.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–3)
+
 ## Actions
 
 - 2010-05-27 — Introduced in Senate
@@ -86,3 +90,19 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - 2010-12-14 — Referred to House Budget
 - 2010-12-14 — Referred to House Veterans' Affairs
 - 2010-12-14 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-12-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2010-12-15 — Considered under suspension of the rules. (consideration: CR H8456-8466)
+- 2010-12-15 — DEBATE - The House proceeded with forty minutes of debate on S. 3447.
+- 2010-12-15 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2010-12-16 — Cleared for White House.
+- 2010-12-16 — Considered as unfinished business. (consideration: CR H8544-8545)
+- 2010-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 3 (Roll no. 642). (text: CR 12/15/2010 H8456-8461)
+- 2010-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 3 (Roll no. 642).(text: CR 12/15/2010 H8456-8461)
+- 2010-12-23 — Referred to the Subcommittee on Military Personnel.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-377.
+- 2011-01-04 — Became Public Law No: 111-377.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
