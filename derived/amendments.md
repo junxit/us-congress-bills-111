@@ -1,7 +1,7 @@
 ---
 measure: S. 674
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `In consultation with` |
 | Inserted | `(b) Under operating competencies promulgated by, and in consultation with,` |
 
+### 5 U.S.C. § 4121
+
+> by striking “In consultation with” and inserting “(b) Under operating competencies prescribed by, and in consultation with,”; and
+
+| | |
+|---|---|
+| Removed | `In consultation with` |
+| Inserted | `(b) Under operating competencies prescribed by, and in consultation with,` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -42,6 +51,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 4121` | insert | by inserting before “In consultation with” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 4121` | redesignate | by striking paragraph (2) (of the matter redesignated as subsection (b) as a result of the amendment under paragraph (2) of this subsection) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating section 4305 as section 4306; and | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 43 of title 5, United States Code, is amended by striking the item relating to section 4305 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 4304(b)(3) of title 5, United States Code, is amended by striking “section 4305” and inserting “section 4306”. | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 4121` | insert | by inserting before “In consultation with” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 4121` | redesignate | by striking paragraph (2) (of the matter redesignated as subsection (b) as a result of the amendment under paragraph (2) of this subsection) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating section 4305 as section 4306; and | the bill names no machine-readable US Code section |
