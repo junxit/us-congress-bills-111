@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6510
 congress: 111
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6510
@@ -29,9 +29,10 @@ To direct the Administrator of General Services to convey a parcel of real prope
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,15 @@ To direct the Administrator of General Services to convey a parcel of real prope
 - 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 363 - 0 (Roll no. 630). (text: CR H8326)
 - 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 363 - 0 (Roll no. 630).(text: CR H8326)
 - 2010-12-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-12-18 — Cleared for White House.
+- 2010-12-18 — Passed Senate without amendment by Unanimous Consent.
+- 2010-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2010-12-18 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S10695-10696)
+- 2010-12-18 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S10695-10696)
+- 2010-12-20 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-370.
+- 2011-01-04 — Became Public Law No: 111-370.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
