@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 34
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 34
@@ -29,3 +29,6 @@ A joint resolution relating to the approval of the proposed agreement for nuclea
 - 2010-06-21 — Introduced in Senate
 - 2010-06-21 — Read twice and referred to the Committee on Foreign Relations for a period not to exceed 45 session days pursuant to 42 U.S.C. 2159.
 - 2010-06-21 — Sponsor introductory remarks on measure. (CR S5211)
+- 2010-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 690.
+- 2010-12-14 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159. (consideration: CR S9021)
+- 2010-12-14 — Senate Committee on Foreign Relations discharged pursuant to 42 U.S.C. 2159.(consideration: CR S9021)
