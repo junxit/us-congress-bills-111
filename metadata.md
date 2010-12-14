@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6516
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6516
@@ -32,3 +32,13 @@ To make technical corrections to provisions of law enacted by the Coast Guard Au
 - 2010-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8328-8329)
 - 2010-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8328-8329)
 - 2010-12-14 — Received in the Senate, read twice.
+- 2010-12-15 — Cleared for White House.
+- 2010-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10308; text: CR 12/14/2010 H8328-8329))
+- 2010-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10308; text: CR 12/14/2010 H8328-8329))
+- 2010-12-16 — Message on Senate action sent to the House.
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-330.
+- 2010-12-22 — Became Public Law No: 111-330.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.
