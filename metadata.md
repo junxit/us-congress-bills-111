@@ -1,7 +1,7 @@
 ---
 measure: S. 3447
 congress: 111
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3447
@@ -54,9 +54,12 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - Sen. Udall, Mark [D-CO] (U000038)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Veterans' Affairs Committee
+- House — Armed Services Committee
+- House — Budget Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -77,3 +80,9 @@ Post-9/11 Veterans Educational Assistance Improvements Act of 2010
 - 2010-12-13 — Senate amendment proposed (on the floor): Amendment SA 4802 proposed by Senator Durbin for Senator Akaka.(consideration: CR S8953-8954; text: CR S8954)
 - 2010-12-13 — Senate amendment submitted
 - 2010-12-13 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-14 — Received in the House.
+- 2010-12-14 — Referred to House Armed Services
+- 2010-12-14 — Referred to House Budget
+- 2010-12-14 — Referred to House Veterans' Affairs
+- 2010-12-14 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
