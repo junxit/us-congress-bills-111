@@ -1,7 +1,7 @@
 ---
 measure: H.R. 848
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 848
@@ -16,7 +16,7 @@ Performance Rights Act
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (18)
+## Cosponsors (55)
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
@@ -36,6 +36,43 @@ Performance Rights Act
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Harman, Jane [D-CA-36] (H000213)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Adler, John H. [D-NJ-3] (A000364)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Garamendi, John [D-CA-10] (G000559)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 
 ## Committees (1)
 
@@ -47,3 +84,9 @@ Performance Rights Act
 - 2009-02-04 — Introduced in House
 - 2009-02-04 — Referred to the House Committee on the Judiciary.
 - 2009-02-04 — Sponsor introductory remarks on measure. (CR E202-203)
+- 2009-03-10 — Committee Hearings Held.
+- 2009-05-13 — Committee Consideration and Mark-up Session Held.
+- 2009-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 9.
+- 2010-12-14 — Placed on the Union Calendar, Calendar No. 405.
+- 2010-12-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-680.
+- 2010-12-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-680.
