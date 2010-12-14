@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5282
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5282
@@ -88,3 +88,7 @@ To provide funds to the Army Corps of Engineers to hire veterans and members of 
 - 2010-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6713)
 - 2010-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6713)
 - 2010-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-11-30 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-12-14 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-367.
+- 2010-12-14 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-367.
+- 2010-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.
