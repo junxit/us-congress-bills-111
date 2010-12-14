@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4973
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4973
@@ -51,3 +51,13 @@ National Wildlife Refuge Volunteer Improvement Act of 2010
 - 2010-12-14 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-366.
 - 2010-12-14 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-366.
 - 2010-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.
+- 2010-12-17 — Cleared for White House.
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10444)
+- 2010-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10444)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-357.
+- 2011-01-04 — Became Public Law No: 111-357.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
