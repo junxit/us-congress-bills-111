@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4973
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
