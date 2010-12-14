@@ -1,7 +1,7 @@
 ---
 measure: S. 1481
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 0 executed, 57 stated and not applied.
+59 amendatory instructions. 0 executed, 59 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,6 +36,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (d), by striking paragraph (4); and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (l), by striking paragraph (1). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 811 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 811(d)(4) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A) Initial project rental assistance contract.—” after “Project rental assistance.—”; | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence, by inserting after “shall” the following: “comply with subsection (e)(2) and shall”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “annual contract amount” each place such term appears and inserting “amount provided under the contract for each year covered by the contract”; and | the bill names no machine-readable US Code section |
@@ -59,7 +60,8 @@ complete account of the bill's effect, which it is not.
 | — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking the second sentence; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “(or such higher number of persons” and all that follows through “subsection (h)(6))”. | the bill names no machine-readable US Code section |
-| — | insert | Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 811(k)(1) is amended by adding the following after the second sentence: “Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, a… | the bill names no machine-readable US Code section |
+| — | insert | Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph:Paragraph (1) of section 811(l) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (k) through (n) as subsections (l) through (o), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |

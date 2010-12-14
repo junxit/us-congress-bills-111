@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1481
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; references
 
-- **(a)** *Short title* This Act may be cited as the “Frank Melville Supportive Housing Investment Act of 2009”.
+- **(a)** *Short title* This Act may be cited as the “Frank Melville Supportive Housing Investment Act of 20092010”.
 - **(b)** *References* Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, section 811 or any other provision of section 811, the reference shall be considered to be made to section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013).
 
 ## § 2. Tenant-based rental assistance through certificate fund
@@ -31,6 +31,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >   - **(1)** *In general* There is authorized to be appropriated for tenant-based rental assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) for persons with disabilities in fiscal year 2009 the amount necessary to provide a number of incremental vouchers under such section that is equal to the number of vouchers provided in fiscal year 2008 under the tenant-based rental assistance program under subsection (d)(4) of this section (as in effect before the date of the enactment of the Frank Melville Supportive Housing Investment Act of 2009).
   >   - **(2)** *Requirements upon turnover* The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incremental vouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
 
+## § 2. Tenant-based rental assistance
+
+- **(a)** *Renewal through section 8* Section 811(d)(4) is amended to read as follows:
+  > - **(4)** *Tenant-based rental assistance*
+  >   - **(A)** *In general* Tenant-based rental assistance provided under subsection (b)(1) shall be provided under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)).
+  >   - **(B)** *Conversion of existing assistance* There is authorized to be appropriated for tenant-based rental assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) for persons with disabilities an amount not less than the amount necessary to convert the number of authorized vouchers and funding under an annual contributions contract in effect on the date of enactment of the Frank Melville Supportive Housing Investment Act of 2010. Such converted vouchers may be administered by the entity administering the vouchers prior to conversion. For purposes of administering such converted vouchers, such entities shall be considered a “public housing agency” authorized to engage in the operation of tenant-based assistance under section 8 of the United States Housing Act of 1937 .
+  >   - **(C)** *Requirements upon turnover* The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incremental vouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
+
+- **(b)** *Provision of technical assistance* The Secretary is authorized to the extent amounts are made available in future appropriations Acts, to provide technical assistance to public housing agencies and other administering entities to facilitate using vouchers to provide permanent supportive housing for persons with disabilities, help States reduce reliance on segregated restrictive settings for people with disabilities to meet community care requirements, end chronic homelessness, as “chronically homeless” is defined in section 401 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361), and for other related purposes.
+
 ## § 3. Modernized capital advance program
 
 - **(a)** *Project rental assistance contracts* Section 811 is amended—
@@ -40,11 +50,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** by striking “annual contract amount” each place such term appears and inserting “amount provided under the contract for each year covered by the contract”; and
     - **(D)** by adding at the end the following new subparagraph:
       > - **(B)** *Renewal of and increases in contract amounts*
-      >   - **(i)** *Expiration of contract term* Upon the expiration of each contract term, subject to the availability of amounts made available in appropriation Acts, the Secretary shall adjust the annual contract amount to provide for reasonable project costs, and any increases, including adequate reserves and service coordinators, except that any contract amounts not used by a project during a contract term shall not be available for such adjustments upon renewal.
+      >   - **(i)** *Expiration of contract term* Upon the expiration of each contract term, subject to the availability of amounts made available in appropriation Acts, the Secretary shall adjust the annual contract amount to provide for reasonable project costs, and any increases, including adequate reserves and service coordinators as appropriate, except that any contract amounts not used by a project during a contract term shall not be available for such adjustments upon renewal.
       >   - **(ii)** *Emergency situations* In the event of emergency situations that are outside the control of the owner, the Secretary shall increase the annual contract amount, subject to reasonable review and limitations as the Secretary shall provide.
 
   - **(2)** in subsection (e)(2)—
-    - **(A)** in the first sentence, by inserting before the period at the end the following: “, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 or with any tax-exempt housing bonds, the contract shall have an initial term of not be less than 360 months and shall provide funding for a term of 60 months”; and
+    - **(A)** in the first sentence, by inserting before the period at the end the following: “, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 or with any tax-exempt housing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months”; and
     - **(B)** by striking “extend any expiring contract” and insert “upon expiration of a contract (or any renewed contract), renew such contract”.
 - **(b)** *Program requirements* Section 811 is amended—
   - **(1)** in subsection (e)—
@@ -57,7 +67,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** by adding at the end the following new paragraphs:
       > - **(3)** *Limitation on use of funds* No assistance received under this section (or any State or local government funds used to supplement such assistance) may be used to replace other State or local funds previously used, or designated for use, to assist persons with disabilities.
       > - **(4)** *Multifamily projects*
-      >   - **(A)** *Limitation* Except as provided in subparagraph (B), of the total number of dwelling units in any multifamily housing project (including any condominium or cooperative housing project) containing any unit for which assistance is provided from a capital grant under subsection (d)(1) made after the date of the enactment of the Frank Melville Supportive Housing Investment Act of 2009, the aggregate number that are used for persons with disabilities, including supportive housing for persons with disabilities, or to which any occupancy preference for persons with disabilities applies, may not exceed 25 percent of such total.
+      >   - **(A)** *Limitation* Except as provided in subparagraph (B), of the total number of dwelling units in any multifamily housing project (including any condominium or cooperative housing project) containing any unit for which assistance is provided from a capital grant under subsection (d)(1) made after the date of the enactment of the Frank Melville Supportive Housing Investment Act of 20092010, the aggregate number that are used for persons with disabilities, including supportive housing for persons with disabilities, or to which any occupancy preference for persons with disabilities applies, may not exceed 25 percent of such total.
       >   - **(B)** *Exception* Subparagraph (A) shall not apply in the case of any project that is a group home or independent living facility.
 
   - **(2)** in subsection (l), by striking paragraph (4).
@@ -71,9 +81,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >     - **(ii)** has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
     >     - **(iii)** may or may not be providing low-income housing tax credits in combination with the capital advance under this section; and
     >     - **(iv)** agrees to issue a firm commitment within 12 months of delegation.
-    >   - **(B)** The Secretary shall retain the authority to process capital advances in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
-    >   - **(C)** An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary. The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
-    >   - **(D)** Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in capital advance amounts or project rental assistance and such reductions shall be subject to appeal.
+    >   - **(B)** The Secretary shall retain the authority to process capital advances in cases in which no State or local housing agency has applied tois sufficiently qualified to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
+    >   - **(C)** The Secretary shall—
+    >     - **(i)** develop criteria and a timeline to periodically assess the performance of State and local housing agencies in carrying out the duties delegated to such agencies pursuant to subparagraph (A); and
+    >     - **(ii)** retain the authority to review and process projects financed by a capital advance in the event that, after a review and assessment, a State or local housing agency is determined to have failed to satisfy the criteria established pursuant to clause (i).
+    >   - **(CD)** An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary. The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
+    >   - **(DE)** Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in capital advance amounts or project rental assistance and such reductions shall be subject to appeal.
 
 - **(d)** *Leveraging other resources* Paragraph (1) of section 811(g) (as so designated by subsection (c)(1) of this section) is amended by inserting after subparagraph (E) (as so redesignated by subsection (c)(2) of this section) the following new subparagraph:
   > - **(F)** the extent to which the per-unit cost of units to be assisted under this section will be supplemented with resources from other public and private sources;
@@ -102,7 +115,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** by adding at the end the following new paragraph:
     > - **(6)** *Applicability of HOME program cost limitations*
     >   - **(A)** *In general* The provisions of section 212(e) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742(e)) and the cost limits established by the Secretary pursuant to such section with respect to the amount of funds under subtitle A of title II of such Act that may be invested on a per unit basis, shall apply to supportive housing assisted with a capital advance under subsection (d)(1) and the amount of funds under such subsection that may be invested on a per unit basis.
-    >   - **(B)** *Waivers* The Secretary shall provide for waiver of the cost limits applicable pursuant to subparagraph (A)—
+    >   - **(B)** *Waivers* The Secretary shallmay provide for waiver of the cost limits applicable pursuant to subparagraph (A)—
     >     - **(i)** in the cases in which the cost limits established pursuant to section 212(e) of the Cranston-Gonzalez National Affordable Housing Act may be waived; and
     >     - **(ii)** to provide for—
     >       - **(I)** the cost of special design features to make the housing accessible to persons with disabilities;
@@ -112,7 +125,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(g)** *Repeal of authority To waive size limitations* Paragraph (1) of section 811(k) is amended—
   - **(1)** in paragraph (1), by striking the second sentence; and
   - **(2)** in paragraph (4), by striking “(or such higher number of persons” and all that follows through “subsection (h)(6))”.
-- **(h)** *Minimum allocation for multifamily projects* Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph:
+- **(g)** *Congressional notification of waiver* Section 811(k)(1) is amended by adding the following after the second sentence: “Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver.”.
+- **(h)** *Minimum allocation for multifamily projects* Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph:Paragraph (1) of section 811(l) is amended to read as follows:
   > - **(1)** *Minimum allocation for multifamily projects* The Secretary shall establish a minimum percentage of the amount made available for each fiscal year for capital advances under subsection (d)(1) that shall be used for multifamily projects subject to subsection (e)(4).
 
 ## § 4. Project rental assistance competitive demonstration program
@@ -141,7 +155,8 @@ Section 811, as amended by the preceding provisions of this Act, is further amen
   >     - **(B)** to set forth methods for outreach and referral; and
   >     - **(C)** to make available appropriate services for tenants of the project.
   >   - **(5)** *Use requirements* In the case of any project for which project rental assistance is provided under the demonstration program under this subsection, the dwelling units assisted pursuant to paragraph (2) shall be operated for not less than 30 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary, and such dwelling units shall, during such period, be made available for occupancy only by persons and households described in paragraph (2)(D).
-  >   - **(6)** *Report* Upon the expiration of the 5-year period beginning on the date of the enactment of the Frank Melville Supportive Housing Investment Act of 2009, the Secretary shall submit to the Congress a report describing the demonstration program under this subsection, analyzing the effectiveness of the program, including the effectiveness of the program compared to the program for capital advances in accordance with subsection (d)(1) (as in effect pursuant to the amendments made by such Act), and making recommendations regarding future models for assistance under this section based upon the experiences under the program.
+  >   - **(6)** *Duration of demonstration* The Secretary may provide new project rental assistance contracts pursuant to the demonstration program established under this subsection for a period of not more than 5 years.
+  >   - **(67)** *Report* Upon the expiration of the 5-year period beginning on the date of the enactment of the Frank Melville Supportive Housing Investment Act of 2009set forth in paragraph (6), the Secretary shall submit to the Congress a report describing the demonstration program under this subsection, analyzing the effectiveness of the program, including the effectiveness of the program compared to the program for capital advances in accordance with subsection (d)(1) (as in effect pursuant to the amendments made by such Act), and making recommendations regarding future models for assistance under this section based upon the experiences under the program.
 
 ## § 5. Technical corrections
 
@@ -213,9 +228,9 @@ Section 811 is amended—
 
 Subsection (n) of section 811 (as so redesignated by section 4(1) of this Act) is amended to read as follows:
 
-> - **(n)** *Authorization of appropriations* There is authorized to be appropriated for each of fiscal years 2009 through 2012 the following amounts:
+> - **(n)** *Authorization of appropriations* There is authorized to be appropriated for each of fiscal years 2009 through 20122011 through 2015 the following amounts:
 >   - **(1)** *Capital advance/PRAC program* For providing assistance pursuant to subsection (b), such sums as may be necessary.
->   - **(2)** *Demonstration program* For carrying out the demonstration program under subsection (k), such sums as may be necessary to provide 2,500 incremental dwelling units under such program in fiscal year 2009 and 5,000 incremental dwelling units under such program in each of fiscal years 2010, 2011, and 2012.
+>   - **(2)** *Demonstration program* For carrying out the demonstration program under subsection (k), such sums as may be necessary to provide 2,500 incremental dwelling units under such program in fiscal year 20092011 and 5,000 incremental dwelling units under such program in each of fiscal years 2010, 2011, and 20122012, 2013, 2014, and 2015.
 
 ## § 7. New regulations and program guidance
 
