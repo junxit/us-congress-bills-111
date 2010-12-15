@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 111
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2965
@@ -33,13 +33,15 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
 
-## Recorded votes (5)
+## Recorded votes (7)
 
 - 2009-07-08 — [House 111-1-483](votes/house-111-1-0483.md) — On Agreeing to the Amendment — **Agreed to** (427–4)
 - 2009-07-08 — [House 111-1-484](votes/house-111-1-0484.md) — On Agreeing to the Amendment — **Passed** (411–15)
 - 2009-07-08 — [House 111-1-485](votes/house-111-1-0485.md) — Table Appeal of the Ruling of the Chair — **Passed** (246–181)
 - 2009-07-08 — [House 111-1-486](votes/house-111-1-0486.md) — On Passage — **Passed** (386–41)
 - 2010-12-15 — [House 111-2-638](votes/house-111-2-0638.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (250–175)
+- 2010-12-18 — [Senate 111-2-279](votes/senate-111-2-0279.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–33)
+- 2010-12-18 — [Senate 111-2-281](votes/senate-111-2-0281.md) — On the Motion — **Motion Agreed to** (65–31)
 
 ## Actions
 
@@ -136,3 +138,50 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - 2010-12-15 — Pursuant to the provisions of H.Res. 1764, the Chair recognized Mrs. Davis of California for a motion.
 - 2010-12-15 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 250- 175 (Roll no. 638)(text as House agreed to Senate amendment with an amendment: CR H8390-8396)
 - 2010-12-15 — The previous question was ordered pursuant to the rule. (consideration: CR H8410)
+- 2010-12-16 — Amendment SA 4827 proposed by Senator Reid. (consideration: CR S10386; text: CR S10386) Of a perfecting nature.
+- 2010-12-16 — Amendment SA 4828 proposed by Senator Reid to Amendment SA 4827. (consideration: CR S10386; text: CR S10386) Of a perfecting nature.
+- 2010-12-16 — Amendment SA 4829 proposed by Senator Reid. (consideration: CR S10386; text: CR S10386) Of a perfecting nature.
+- 2010-12-16 — Amendment SA 4830 proposed by Senator Reid to Amendment SA 4829. (consideration: CR S10386-10387; text: CR S10387) Of a perfecting nature.
+- 2010-12-16 — Amendment SA 4831 proposed by Senator Reid to Amendment SA 4830. (consideration: CR S10387; text: CR S10387) Of a perfecting nature.
+- 2010-12-16 — Cloture motion on the motion to agree to the House amendment to Senate amendment presented in Senate. (consideration: CR S10386; text: CR S10386)
+- 2010-12-16 — Considered by Senate. (consideration: CR S10386-10387)
+- 2010-12-16 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2010-12-16 — Motion by Senator Reid to refer to Senate Committee on Armed Services the House message to accompany the bill (HR 2965) with instructions to report back forthwith with amendment SA 4829 made in Senate.
+- 2010-12-16 — Reid motion to agree to House amendment to Senate amendment made in Senate.
+- 2010-12-16 — Reid motion to concur in the House amendment to Senate amendment with an amendment (SA 4827) made in Senate.
+- 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4827 proposed by Senator Reid.(consideration: CR S10386; text: CR S10386)
+- 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4828 proposed by Senator Reid to Amendment SA 4827.(consideration: CR S10386; text: CR S10386)
+- 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4829 proposed by Senator Reid.(consideration: CR S10386; text: CR S10386)
+- 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4830 proposed by Senator Reid to Amendment SA 4829.(consideration: CR S10386-10387; text: CR S10387)
+- 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4831 proposed by Senator Reid to Amendment SA 4830.(consideration: CR S10387; text: CR S10387)
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-17 — Senate amendment submitted
+- 2010-12-17 — Senate amendment submitted
+- 2010-12-18 — Cleared for White House.
+- 2010-12-18 — Cloture on the motion to agree to the House amendment to Senate amendment invoked in Senate by Yea-Nay Vote. 63 - 33. Record Vote Number: 279. (consideration: CR S10666-10667; text: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666)
+- 2010-12-18 — Considered by Senate. (consideration: CR S10666-10667, S10668-10684)
+- 2010-12-18 — Message on Senate action sent to the House.
+- 2010-12-18 — Motion by Senator Reid to refer to Senate Committee on Armed Services the House message to accompany the bill (HR 2965) with instructions to report back forthwith with amendment SA 4829 fell when cloture was invoked on the motion to agree to the House amendment to Senate amendment in Senate.
+- 2010-12-18 — Proposed amendment SA 4827 withdrawn in Senate. (consideration: CR S10684)
+- 2010-12-18 — Reid motion to concur in the House amendment to Senate amendment with an amendment (SA 4827) withdrawn in Senate. (consideration: CR S10684)
+- 2010-12-18 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment by Yea-Nay Vote. 65 - 31. Record Vote Number: 281.(consideration: CR S10684)
+- 2010-12-18 — SA 4828 fell when SA 4827 withdrawn. (consideration: CR S10684)
+- 2010-12-18 — SA 4829 fell when cloture invoked on the motion to agree to the House amendment to Senate amendment. (consideration: CR S10666)
+- 2010-12-18 — SA 4830 fell when SA 4829 fell. (consideration: CR S10666)
+- 2010-12-18 — SA 4831 fell when SA 4830 fell. (consideration: CR S10666)
+- 2010-12-18 — Senate agreed to House amendment to Senate amendment by Yea-Nay Vote. 65 - 31. Record Vote Number: 281. (consideration: CR S10684)
+- 2010-12-21 — Presented to President.
+- 2010-12-21 — Presented to President.
+- 2010-12-22 — Became Public Law No: 111-321.
+- 2010-12-22 — Became Public Law No: 111-321.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.

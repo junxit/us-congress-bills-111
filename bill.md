@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2965
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2965
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2965) entitled “An Act to amend the Small Business Act with respect to the Small Business Innovation Research Program and the Small Business Technology Transfer Program, and for other purposes. ”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To amend the Small Business Act with respect to the Small Business Innovation Research Program and the Small Business Technology Transfer Program, and for other purposes.
 
 ## § 1. Short title
 
