@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6205
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6205
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1449 We
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Cosponsors (26)
+## Cosponsors (27)
 
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
@@ -44,13 +44,26 @@ To designate the facility of the United States Postal Service located at 1449 We
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Reed, Tom [R-NY-29] (R000585)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2010-12-15 — [House 111-2-634](votes/house-111-2-0634.md) — On Motion to Suspend the Rules and Pass — **Passed** (399–0)
 
 ## Actions
 
 - 2010-09-23 — Introduced in House
 - 2010-09-23 — Introduced in House
 - 2010-09-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2010-12-14 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Chu objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2010-12-14 — Considered under suspension of the rules. (consideration: CR H8306-8307)
+- 2010-12-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6205.
+- 2010-12-14 — Ms. Chu moved to suspend the rules and pass the bill.
+- 2010-12-15 — Considered as unfinished business. (consideration: CR H8382-8383)
+- 2010-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 634). (text: CR 12/14/2010 H8307)
+- 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 634).(text: CR 12/14/2010 H8307)
