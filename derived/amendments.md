@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6494
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “ten Littoral Combat Ships and 15 Littoral Combat Ship ship control and weapon systems” and inserting “20 Littoral Combat Ships, including any ship control and weapon systems the Secretary determines necessary for such ships,… | the bill names no machine-readable US Code section |
 | — | replace | by striking “a contract” and inserting “one or more contracts”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “liability to” and inserting “liability of”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (b)(2)(A) of such section is amended by striking “a second shipyard, as soon as practicable” and inserting “another shipyard to be built to a design specification for that Littoral Combat Ship”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (b)(2)(A) of such section is amended by striking “a second shipyard, as soon as practicable” and inserting “another shipyard to build a design specification for that Littoral Combat Ship”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (c)(1) of such section is amended by striking “awarded to a contractor selected as part of a procurement” and inserting “under a contract”. | the bill names no machine-readable US Code section |
