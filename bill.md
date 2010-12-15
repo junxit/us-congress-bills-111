@@ -2,7 +2,7 @@
 legis-num: H. RES. 1743
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1743
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas upon moving to the United States, Mrs. Weissmann Klein worked vigilantly to promote Holocaust education and remembrance, teach tolerance, and combat hunger;
 - Whereas Mrs. Weissmann Klein’s first book, All But My Life, was published in 1957, and chronicles her courageous struggle for survival during the Holocaust;
 - Whereas One Survivor Remembers, a documentary about Mrs. Weissmann Klein’s experiences during the Holocaust, won an Academy Award in 1996;
-- Whereas the Gerda and Kurt Klein Foundation, a public non-profit foundation, promotes education which teaches tolerance, respect for others, and the value of community service;
+- Whereas Mrs. Weissmann Klein’s lifelong work has been to repay this country for her freedom and the boundless opportunities given to her, she founded Citizenship Counts, a nonprofit organization that teaches today’s youth to appreciate and celebrate the majesty of their American citizenship;
 - Whereas Mrs. Weissmann Klein’s life and work have inspired generations of Americans and countless individuals from around the world; and
 - Whereas, on November 17, 2010, President Barack Obama announced that Gerda Weissmann Klein would be awarded the Presidential Medal of Freedom: Now, therefore, be it
 
