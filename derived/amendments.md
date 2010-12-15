@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6517
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-356 amendatory instructions. 0 executed, 356 stated and not applied.
+350 amendatory instructions. 0 executed, 350 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,7 +36,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 236(a)(2)(A) of the Trade Act of 1974 (19 U.S.C. 2296(a)(2)(A)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 245(a) of the Trade Act of 1974 (19 U.S.C. 2317(a)) is amended by striking “December 31, 2010” and inserting “June 30, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 246(b)(1) of the Trade Act of 1974 (19 U.S.C. 2318(b)(1)) is amended by striking “December 31, 2010” and inserting “June 30, 2012”. | the bill names no machine-readable US Code section |
-| — | amend | Section 255(a) of the Trade Act of 1974 (19 U.S.C. 2345(a)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “December 31, 2010” and inserting “June 30, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 275(f) of the Trade Act of 1974 (19 U.S.C. 2371d(f)) is amended by striking “2011” and inserting “2013”. | the bill names no machine-readable US Code section |
 | — | amend | Section 276(c)(2) of the Trade Act of 1974 (19 U.S.C. 2371e(c)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
@@ -65,10 +65,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 35(e)(1)(K) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2011” and inserting “July 1, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7527(d)(2) of the Internal Revenue Code of 1986 is amended by striking “January 1, 2011” and inserting “July 1, 2012”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 278(a) of the Trade Act of 1974 (19 U.S.C. 2372(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 102” and inserting “section 101(a)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “1002” and inserting “1001(a)”. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking the last sentence; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 505 of the Trade Act of 1974 (19 U.S.C. 2465) is amended by striking “December 31, 2010” and inserting “June 30, 2012”. | the bill names no machine-readable US Code section |
 | — | amend | Section 208(a)(1) of the Andean Trade Preference Act (19 U.S.C. 3206(a)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 208(a)(2) of the Andean Trade Preference Act (19 U.S.C. 3206(a)(2)) is amended by striking “December 31, 2010” and inserting “June 30, 2012”. | the bill names no machine-readable US Code section |
@@ -376,14 +374,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the date in the effective period column and inserting “12/31/2012”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the article description and inserting the following: “Barium magnesium aluminate phosphor with a median particle size between 2.2 and 3.0 microns, containing europium or manganese, used as a luminophore (CAS Nos. 63774–55–0 a… | the bill names no machine-readable US Code section |
 | — | replace | by striking the date in the effective period column and inserting “12/31/2012”. | the bill names no machine-readable US Code section |
-| — | replace | Each of the following headings is amended by striking the date in the effective date column and inserting “12/31/2013”: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “amounts determined by the Secretary” and all that follows through “5208.59.80” and inserting “amounts received in the general fund that are attributable to duties received since January 1, 2004, on articles… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “October 1, 2008” and inserting “December 31, 2013”; | the bill names no machine-readable US Code section |
-| — | insert | in the matter preceding paragraph (1), by inserting “annually” after “provided”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “during the year in which the affidavit is filed and” after “imported cotton fabric”; and | the bill names no machine-readable US Code section |
-| — | insert | in the matter preceding paragraph (1), by inserting “annually” after “provided”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “during the year in which the affidavit is filed and” after “United States”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4002(c)(2)(A) of the Miscellaneous Trade and Technical Corrections Act of 2004 (Public Law 108–429; 118 Stat. 2600) is amended by striking “chapter 51” and inserting “chapter 62”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “subject to the limitation in subparagraph (B)” and inserting “subject to subparagraphs (B) and (C)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Heading 9902.23.09 is amended in the article description column by striking “3904.90.50” and inserting “3904.50.00”. | the bill names no machine-readable US Code section |
 | — | replace | Heading 9902.40.94 is amended in the article description column by striking “9902.01.50” and inserting “8409.91.50”. | the bill names no machine-readable US Code section |
 | — | replace | Heading 9902.25.75 is amended by striking the article description and inserting the following: “Biaxially oriented polypropylene film, certified by the importer as intended for metallization and use in capacitors, or certified by the imp… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “September 30, 2019” and inserting “September 30, 2020”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(i), by striking “September 30, 2019” and inserting “May 23, 2020”. | the bill names no machine-readable US Code section |

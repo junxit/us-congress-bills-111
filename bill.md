@@ -18,4 +18,5 @@ This Act may be cited as the “Omnibus Trade Act of 2010”.
 - **(a)** *Divisions* This Act is organized into three divisions as follows:
   - **(1)** Division A—Extension of Trade Adjustment Assistance and certain trade preference programs.
   - **(2)** Division B—Tariff and related provisions.
+  - **(3)** Division C—Offsets.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
