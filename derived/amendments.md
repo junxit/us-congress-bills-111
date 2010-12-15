@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -80,7 +80,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (B) of section 1400N(d)(3) is amended by striking “January 1, 2011” and inserting “January 1, 2013”. | the bill names no machine-readable US Code section |
 | — | replace | Section 179(b)(1) is amended by striking “and” at the end of subparagraph (B) and by striking subparagraph (C) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 179(b)(2) is amended by striking “and” at the end of subparagraph (B) and by striking subparagraph (C) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (b) of section 179 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 179 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 179(d)(1)(A)(ii) is amended by striking “2012” and inserting “2013”. | the bill names no machine-readable US Code section |
 | — | replace | Section 179(c)(2) is amended by striking “2012” and inserting “2013”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “November 30, 2010” each place it appears and inserting “January 3, 2012”; | the bill names no machine-readable US Code section |
@@ -144,14 +144,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (F) of section 408(d)(8) is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (3) of section 2105(d) is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 132(f) is amended by striking “January 1, 2011” and inserting “January 1, 2012”. | the bill names no machine-readable US Code section |
-| — | amend | Subchapter A of chapter 65 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter A of chapter 65 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for such subchapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 41(h)(1) is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (D) of section 45C(b)(1) is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (f) of section 45A is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (E), | the bill names no machine-readable US Code section |
 | — | strike | by striking the period at the end of subparagraph (F), and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (3) of section 45D(f) is amended by striking “2014” and inserting “2016”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (f) of section 45G is amended by striking “January 1, 2010” and inserting “January 1, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e) of section 45N is amended by striking “December 31, 2009” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |

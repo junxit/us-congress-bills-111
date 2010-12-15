@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4853
@@ -126,7 +126,7 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - House — Transportation and Infrastructure Committee
 - House — Ways and Means Committee
 
-## Recorded votes (9)
+## Recorded votes (11)
 
 - 2010-12-02 — [House 111-2-604](votes/house-111-2-0604.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (234–188)
 - 2010-12-04 — [Senate 111-2-258](votes/senate-111-2-0258.md) — On the Cloture Motion — **Cloture Motion Rejected** (53–36)
@@ -137,6 +137,8 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-12-15 — [Senate 111-2-274](votes/senate-111-2-0274.md) — On the Motion — **Motion Rejected** (37–63)
 - 2010-12-15 — [Senate 111-2-275](votes/senate-111-2-0275.md) — On the Motion — **Motion Rejected** (43–57)
 - 2010-12-15 — [Senate 111-2-276](votes/senate-111-2-0276.md) — On the Motion — **Motion Agreed to** (81–19)
+- 2010-12-16 — [House 111-2-646](votes/house-111-2-0646.md) — On Agreeing to the Amendment — **Failed** (194–233)
+- 2010-12-17 — [House 111-2-647](votes/house-111-2-0647.md) — On Motion to Concur in the Senate Amdt to the House Amdt to the Senate Amdt — **Passed** (277–148)
 
 ## Actions
 
@@ -315,3 +317,31 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-12-15 — Sanders motion to suspend Rule XXII to permit the consideration of amendment SA 4809 not agreed to by Yea-Nay Vote. 43 - 57. Record Vote Number: 275.
 - 2010-12-15 — Senate amendment agreed to: Amendment SA 4753 as modified agreed to in Senate by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
 - 2010-12-15 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4753) by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
+- 2010-12-16 — Amendment (A001) offered by Mr. Levin. (consideration: CR H8593-8594; text: CR H8593-8594)
+- 2010-12-16 — Amendment failed in Committee of the Whole
+- 2010-12-16 — At the conclusion of general debate, and pursuant to the provisions of H. Res. 1766, the Chair announced that the Senate amendment would be considered for amendment under the five-minute rule and directed the Clerk to designate the Senate amendment. The Chair then announced that it was in order for Mr. Levin or his designee to be recognized for the purpose of offering the amendment printed in House Report 111-682 to the Senate amendment.
+- 2010-12-16 — DEBATE - Pending any declaration of the House into the Committee of the Whole pursuant to House Resolution 1766 the Chair would note that the Senate amendment to the House amendment to the Senate amendment to the bill H.R. 4853 contains; an emergency designation for purposes of pay-as-you-go principles under clause 10(c) of rule 21; and an emergency designation pursuant to section 4(g)(1) of the Statutory Pay-As-You-Go Act of 2010. Accordingly, the Chair must put the question of consideration under section of the Statutory Pay-As-You-Go Act of 2010.
+- 2010-12-16 — GENERAL DEBATE - The Committee of the Whole proceeded with three hours of general debate on the Senate amendment to the House amendment to the Senate amendment to H.R. 4853.
+- 2010-12-16 — House amendment not agreed to: On agreeing to the Levin amendment (A001) Failed by recorded vote: 194 - 233, 1 Present (Roll no. 646).
+- 2010-12-16 — House amendment offered
+- 2010-12-16 — House amendment offered/reported by : Amendment (A001) offered by Mr. Levin.(consideration: CR H8593-8594; text: CR H8593-8594)
+- 2010-12-16 — Mr. Levin moved that the House agree to the Senate amendment to the House amendment to the Senate amendment.
+- 2010-12-16 — On agreeing to the Levin amendment (A001) Failed by recorded vote: 194 - 233, 1 Present (Roll no. 646).
+- 2010-12-16 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by recorded vote: 277 - 148 (Roll No. 647). (consideration: CR H8552-8595; text as House agreed to the Senate amendment to the House amendment to the Senate amendment: CR H8585-8593)
+- 2010-12-16 — On motion to consider the Senate amendment to the House amendment to the Senate amendment Agreed to by voice vote. (consideration: CR H8552-8595)
+- 2010-12-16 — Pursuant to the provisions of H. Res. 1766, the Chair declared the House resolved into the Committee of the Whole House on the state of the Union for the consideration of the Senate amendment to the House amendment to the Senate amendment to H.R. 4853.
+- 2010-12-16 — Pursuant to the provisions of H. Res. 1766, the amendment offered by Mr. Levin is not debatable.
+- 2010-12-16 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by recorded vote: 277 - 148 (Roll No. 647).(consideration: CR H8552-8595; text as House agreed to the Senate amendment to the House amendment to the Senate amendment: CR H8585-8593)
+- 2010-12-16 — Resolving differences -- House actions: On motion to consider the Senate amendment to the House amendment to the Senate amendment Agreed to by voice vote.(consideration: CR H8552-8595)
+- 2010-12-16 — Roll call votes on amendments in House
+- 2010-12-16 — Rule H. Res. 1766 passed House.
+- 2010-12-16 — The Chair put the question on consideration of the Senate amendment to the House amendment to the Senate amendment.
+- 2010-12-16 — The House rose from the Committee of the Whole House on the state of the Union to report the Senate amendment to the House amendment to the Senate amendment to H.R. 4853.
+- 2010-12-16 — The Speaker designated the Honorable Gregorio Kilili Camacho Sablan to act as Chairman of the Committee.
+- 2010-12-17 — Became Public Law No: 111-312.
+- 2010-12-17 — Became Public Law No: 111-312.
+- 2010-12-17 — Cleared for White House.
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Presented to President.
+- 2010-12-17 — Signed by President.
+- 2010-12-17 — Signed by President.
