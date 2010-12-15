@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 111
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2965
@@ -33,12 +33,13 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2009-07-08 — [House 111-1-483](votes/house-111-1-0483.md) — On Agreeing to the Amendment — **Agreed to** (427–4)
 - 2009-07-08 — [House 111-1-484](votes/house-111-1-0484.md) — On Agreeing to the Amendment — **Passed** (411–15)
 - 2009-07-08 — [House 111-1-485](votes/house-111-1-0485.md) — Table Appeal of the Ruling of the Chair — **Passed** (246–181)
 - 2009-07-08 — [House 111-1-486](votes/house-111-1-0486.md) — On Passage — **Passed** (386–41)
+- 2010-12-15 — [House 111-2-638](votes/house-111-2-0638.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (250–175)
 
 ## Actions
 
@@ -127,3 +128,11 @@ Don't Ask, Don't Tell Repeal Act of 2010
 - 2009-07-13 — Passed/agreed to in Senate: Passed Senate in lieu of S. 1233 with an amendment by Unanimous Consent.(text: CR S7433-7439)
 - 2009-07-13 — See also S. 1233.
 - 2009-07-13 — Senate struck all after the Enacting Clause and substituted the language of S. 1233 amended.
+- 2009-07-14 — Message on Senate action sent to the House.
+- 2010-12-15 — DEBATE - Pursuant to the provisions of H.Res. 1764, the House proceeded with 1 hour of debate on the motion to agree to the Senate amendment to H.R. 2965 with an amendment.
+- 2010-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-15 — Mrs. Davis (CA) moved that the House agree with an amendment to the Senate amendment. (consideration: CR H8390-8410)
+- 2010-12-15 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 250- 175 (Roll no. 638) (text as House agreed to Senate amendment with an amendment: CR H8390-8396)
+- 2010-12-15 — Pursuant to the provisions of H.Res. 1764, the Chair recognized Mrs. Davis of California for a motion.
+- 2010-12-15 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 250- 175 (Roll no. 638)(text as House agreed to Senate amendment with an amendment: CR H8390-8396)
+- 2010-12-15 — The previous question was ordered pursuant to the rule. (consideration: CR H8410)
