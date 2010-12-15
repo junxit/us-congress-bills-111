@@ -1,0 +1,93 @@
+---
+legis-num: H.R. 6522
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6522
+
+> To prevent pending tax increases and to permanently repeal estate and gift taxes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “End Tax Uncertainty Act of 2010”.
+
+## § 2. EGTRRA and JGTRRA tax relief made permanent
+
+- **(a)** *Economic growth and tax relief reconciliation act of 2001* Title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 is hereby repealed.
+- **(b)** *Income tax rates on dividends and net capital gain* Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 is hereby repealed.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
+
+## § 3. Estate and gift tax permanently repealed
+
+Effective for estates of decedents dying, gifts made, or generation skipping transfers, after December 31, 2010, subtitle B of the Internal Revenue Code of 1986 is repealed.
+
+## § 4. Permanent individual AMT relief
+
+- **(a)** *Modification of alternative minimum tax exemption amount*
+  - **(1)** *In general* Paragraph (1) of section 55(d) of the Internal Revenue Code of 1986 (relating to exemption amount) is amended to read as follows:
+    > - **(1)** *Exemption amount for taxpayers other than corporations* In the case of a taxpayer other than a corporation, the term exemption amount means—
+    >   - **(A)** the dollar amount for taxable years beginning in the calendar year as specified in the table contained in paragraph (4)(A) in the case of—
+    >     - **(i)** a joint return, or
+    >     - **(ii)** a surviving spouse,
+    >   - **(B)** the dollar amount for taxable years beginning in the calendar year as specified in the table contained in paragraph (4)(B) in the case of an individual who—
+    >     - **(i)** is not a married individual, and
+    >     - **(ii)** is not a surviving spouse,
+    >   - **(C)** 50 percent of the dollar amount applicable under paragraph (1)(A) in the case of a married individual who files a separate return, and
+    >   - **(D)** $22,500 in the case of an estate or trust.
+
+  - **(2)** *Specified exemption amounts* Section 55(d) of such Code is amended by adding at the end the following new paragraph:
+    > - **(4)** *Specified exemption amounts*
+    >   - **(A)** *Taxpayers described in paragraph (1)(A)* For purposes of paragraph (1))(A)—
+    >   - **(B)** *Taxpayers described in paragraph (1)(B)* For purposes of paragraph (1))(B)—
+
+- **(b)** *Alternative minimum tax relief for nonrefundable credits*
+  - **(1)** *In general* Subsection (a) of section 26 of the Internal Revenue Code of 1986 is amended to read as follows:
+    > - **(a)** *Limitation based on amount of tax* The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
+    >   - **(1)** the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
+    >   - **(2)** the tax imposed by section 55(a) for the taxable year.
+
+  - **(2)** *Conforming amendments*
+    - **(A)** *Adoption credit*
+      - **(i)** Section 23(b) of such Code, as in effect on December 31, 2009, is amended by striking paragraph (4).
+      - **(ii)** Section 23(c) of such Code, as in effect on December 31, 2009, is amended by striking paragraphs (1) and (2) and inserting the following:
+        > - **(1)** *In general* If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D and 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+
+      - **(iii)** Section 23(c) of such Code, as in effect on December 31, 2009 amended by redesignating paragraph (3) as paragraph (2).
+    - **(B)** *Child tax credit*
+      - **(i)** Section 24(b) of such Code is amended by striking paragraph (3).
+      - **(ii)** Section 24(d)(1) of such Code is amended—
+        - **(I)** by striking “section 26(a)(2) or subsection (b)(3), as the case may be,” each place it appears in subparagraphs (A) and (B) and inserting “section 26(a)”, and
+        - **(II)** by striking “section 26(a)(2) or subsection (b)(3), as the case may be” in the second last sentence and inserting “section 26(a)”.
+    - **(C)** *Credit for interest on certain home mortgages* Section 25(e)(1)(C) of such Code is amended to read as follows:
+      > - **(C)** *Applicable tax limit* For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C).
+
+    - **(D)** *Savers' credit* Section 25B of such Code is amended by striking subsection (g).
+    - **(E)** *Residential energy efficient property* Section 25D(c) of such Code is amended to read as follows:
+      > - **(c)** *Carryforward of unused credit* If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+
+    - **(F)** *Certain plug-in electric vehicles* Section 30(c)(2) of such Code is amended to read as follows:
+      > - **(2)** *Personal credit* For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+
+    - **(G)** *Alternative motor vehicle credit* Section 30B(g)(2) of such Code is amended to read as follows:
+      > - **(2)** *Personal credit* For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+
+    - **(H)** *New qualified plug-in electric vehicle credit* Section 30D(c)(2) of such Code is amended to read as follows:
+      > - **(2)** *Personal credit* For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+
+    - **(I)** *Cross references* Section 55(c)(3) of such Code is amended by striking “26(a), 30C(d)(2),” and inserting “30C(d)(2)”.
+    - **(J)** *Foreign tax credit* Section 904 of such Code is amended by striking subsection (i) and by redesignating subsections (j) , (k), and (l) as subsections (i), (j), and (k), respectively.
+    - **(K)** *First-time home buyer credit for the District of Columbia* Section 1400C(d) of such Code is amended to read as follows:
+      > - **(d)** *Carryforward of unused credit* If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2009.
+
+## § 5. Maximum corporate income tax rate reduced to 25 percent
+
+- **(a)** *In general* Paragraph (1) of section 11(b) of the Internal Revenue Code of 1986 is amended by striking “but does not exceed $75,000” and all that follows and inserting a period.
+- **(b)** *Personal Service Corporations* Paragraph (2) of section 11(b) of such Code is amended by striking “35 percent” and inserting “25 percent”.
+- **(c)** *Conforming Amendments*
+  - **(1)** Subsection (a) of section 1201 of such Code is amended by striking “35 percent” each place it appears and inserting “25 percent”.
+  - **(2)** Paragraphs (1) and (2) of section 1445(e) of such Code are each amended by striking “35 percent” and inserting “25 percent”.
+- **(d)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2010.
