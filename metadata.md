@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4853
 congress: 111
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4853
@@ -16,13 +16,101 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (13)
+## Cosponsors (102)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. LeMieux, George S. [R-FL] (L000572)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
@@ -31,15 +119,24 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
 
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (9)
 
 - 2010-12-02 — [House 111-2-604](votes/house-111-2-0604.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (234–188)
+- 2010-12-04 — [Senate 111-2-258](votes/senate-111-2-0258.md) — On the Cloture Motion — **Cloture Motion Rejected** (53–36)
+- 2010-12-04 — [Senate 111-2-259](votes/senate-111-2-0259.md) — On the Cloture Motion — **Cloture Motion Rejected** (53–37)
+- 2010-12-09 — [Senate 111-2-271](votes/senate-111-2-0271.md) — On the Motion to Table — **Motion to Table Agreed to** (65–11)
+- 2010-12-13 — [Senate 111-2-272](votes/senate-111-2-0272.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–15)
+- 2010-12-15 — [Senate 111-2-273](votes/senate-111-2-0273.md) — On the Motion — **Motion Rejected** (47–52)
+- 2010-12-15 — [Senate 111-2-274](votes/senate-111-2-0274.md) — On the Motion — **Motion Rejected** (37–63)
+- 2010-12-15 — [Senate 111-2-275](votes/senate-111-2-0275.md) — On the Motion — **Motion Rejected** (43–57)
+- 2010-12-15 — [Senate 111-2-276](votes/senate-111-2-0276.md) — On the Motion — **Motion Agreed to** (81–19)
 
 ## Actions
 
@@ -97,3 +194,124 @@ Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010
 - 2010-12-02 — Senate amendment submitted
 - 2010-12-02 — Senate amendment submitted
 - 2010-12-02 — The previous question was ordered pursuant to the rule. (consideration: CR H7889)
+- 2010-12-04 — Cloture on amendment SA 4728 not invoked in Senate by Yea-Nay Vote. 53 - 37. Record Vote Number: 259. (consideration: CR S8529-8530; text: CR S8529)
+- 2010-12-04 — Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4727) not invoked in Senate by Yea-Nay Vote. 53 - 36. Record Vote Number: 258. (consideration: CR S8528-8529; text: CR S8528)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514)
+- 2010-12-04 — Considered by Senate. (consideration: CR S8514-8530)
+- 2010-12-04 — Roll call votes on amendments in Senate: Cloture on amendment SA 4728 not invoked in Senate by Yea-Nay Vote. 53 - 37. Record Vote Number: 259.(consideration: CR S8529-8530; text: CR S8529)
+- 2010-12-04 — Roll call votes on amendments in Senate: Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4727) not invoked in Senate by Yea-Nay Vote. 53 - 36. Record Vote Number: 258.(consideration: CR S8528-8529; text: CR S8528)
+- 2010-12-09 — Amendment SA 4753 proposed by Senator Reid. (consideration: CR S8702) In the nature of a substitute.
+- 2010-12-09 — Amendment SA 4754 proposed by Senator Reid to Amendment SA 4753. (consideration: CR S8702) To change the enactment date.
+- 2010-12-09 — Amendment SA 4755 proposed by Senator Reid. (consideration: CR S8702; text: CR S8702) To provide for a study.
+- 2010-12-09 — Amendment SA 4756 proposed by Senator Reid to Amendment SA 4755 to the instructions (SA 4755). (consideration: CR S8702; text: CR S8702) Of a perfecting nature.
+- 2010-12-09 — Amendment SA 4757 proposed by Senator Reid to Amendment SA 4756. (consideration: CR S8702; text: CR S8702) Of a perfecting nature.
+- 2010-12-09 — Cloture motion on the motion to concur in the House amendment to the Senate amendment with amendment (SA 4753) presented in Senate. (consideration: CR S8702; text: CR S8702)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701)
+- 2010-12-09 — Considered by Senate. (consideration: CR S8701-8708)
+- 2010-12-09 — Motion by Senator Reid to refer to Senate Committee on Finance the House Message with instructions to report back forthwith with amendment SA 4729 tabled in Senate by Yea-Nay Vote. 65 - 11. Record Vote Number: 271. (consideration: CR S8701-8702)
+- 2010-12-09 — Motion by Senator Reid to refer to Senate Committee on Finance the House Message with instructions to report back forthwith with amendment SA 4755 made in Senate.
+- 2010-12-09 — Motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4727) withdrawn in the Senate by Unanimous Consent.
+- 2010-12-09 — Motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4753) made in the Senate.
+- 2010-12-09 — SA 4727 fell when the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4727) was withdrawn in the Senate. (consideration: CR S8702)
+- 2010-12-09 — SA 4728 fell when SA 4727 withdrawn. (consideration: CR S8702)
+- 2010-12-09 — SA 4729 (the instructions to the motion to refer) tabled when the motion to refer the House message to accompany H.R. 4853 to the Committee on Finance was tabled.
+- 2010-12-09 — SA 4730 fell when SA 4729 tabled.
+- 2010-12-09 — SA 4731 fell when SA 4730 tabled.
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4753 proposed by Senator Reid.(consideration: CR S8702)
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4754 proposed by Senator Reid to Amendment SA 4753.(consideration: CR S8702)
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4755 proposed by Senator Reid.(consideration: CR S8702; text: CR S8702)
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4756 proposed by Senator Reid to Amendment SA 4755 to the instructions (SA 4755).(consideration: CR S8702; text: CR S8702)
+- 2010-12-09 — Senate amendment proposed (on the floor): Amendment SA 4757 proposed by Senator Reid to Amendment SA 4756.(consideration: CR S8702; text: CR S8702)
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-09 — Senate amendment submitted
+- 2010-12-10 — Senate amendment submitted
+- 2010-12-10 — Senate amendment submitted
+- 2010-12-10 — Senate amendment submitted
+- 2010-12-10 — Senate amendment submitted
+- 2010-12-13 — Amendment SA 4753 was modified by Unanimous Consent.
+- 2010-12-13 — Cloture on the motion to concur in the House amendment to the Senate amendment with amendment (SA 4753) invoked in Senate by Yea-Nay Vote. 83 - 15. Record Vote Number: 272. (consideration: CR S8846-8847; text: CR S8846)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840, S8846)
+- 2010-12-13 — Considered by Senate. (consideration: CR S8840-8847)
+- 2010-12-13 — Motion by Senator Reid to refer to Senate Committee on Finance the House message with instructions to report back forthwith with amendment SA 4755 fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment with amendment (SA 4753) in Senate.
+- 2010-12-13 — SA 4755 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment with amendment (SA 4753).
+- 2010-12-13 — SA 4756 fell when SA 4755 fell.
+- 2010-12-13 — SA 4757 fell when SA 4756 fell.
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — Senate amendment submitted
+- 2010-12-13 — The motion to concur in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4753) was modified by Unanimous Consent. (text as modified Senate: CR S8846-8847)
+- 2010-12-14 — Considered by Senate. (consideration: CR S8964)
+- 2010-12-14 — Considered by Senate. (consideration: CR S8964)
+- 2010-12-14 — Considered by Senate. (consideration: CR S8964, S8965-8966, S8969-8972, S8976-8979, S8985-8986, S8992-8993, S8994-8999, S9001-9021)
+- 2010-12-14 — Senate amendment submitted
+- 2010-12-14 — Senate amendment submitted
+- 2010-12-14 — Senate amendment submitted
+- 2010-12-14 — Senate amendment submitted
+- 2010-12-15 — Amendment SA 4753 as modified agreed to in Senate by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
+- 2010-12-15 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4765 made in Senate.
+- 2010-12-15 — Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 4765 not agreed to by Yea-Nay Vote. 47 - 52. Record Vote Number: 273.
+- 2010-12-15 — Considered by Senate. (consideration: CR S10244)
+- 2010-12-15 — Considered by Senate. (consideration: CR S10244, S10251)
+- 2010-12-15 — Considered by Senate. (consideration: CR S10244-10256)
+- 2010-12-15 — DeMint motion to suspend Rule XXII to permit the consideration of amendment SA 4804 made in Senate.
+- 2010-12-15 — DeMint motion to suspend Rule XXII to permit the consideration of amendment SA 4804 not agreed to by Yea-Nay Vote. 37 - 63. Record Vote Number: 274.
+- 2010-12-15 — Message on Senate action sent to the House.
+- 2010-12-15 — Proposed amendment SA 4754 withdrawn in Senate. (consideration: CR S10251)
+- 2010-12-15 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4753) by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
+- 2010-12-15 — Roll call votes on amendments in Senate: Amendment SA 4753 as modified agreed to in Senate by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
+- 2010-12-15 — Rules Committee Resolution H. Res. 1766 Reported to House. Makes in order a motion offered by the chair of the Committee on Ways and Means that the House concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 4853 with the amendment printed in the report from the Committee on Rules. The resolution waives all points of order against consideration of the motion except those arising under clause 10 of rule XXI.
+- 2010-12-15 — Sanders motion to suspend Rule XXII to permit the consideration of amendment SA 4809 made in Senate.
+- 2010-12-15 — Sanders motion to suspend Rule XXII to permit the consideration of amendment SA 4809 not agreed to by Yea-Nay Vote. 43 - 57. Record Vote Number: 275.
+- 2010-12-15 — Senate amendment agreed to: Amendment SA 4753 as modified agreed to in Senate by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
+- 2010-12-15 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 4853) with an amendment (SA 4753) by Yea-Nay Vote. 81 - 19. Record Vote Number: 276.
