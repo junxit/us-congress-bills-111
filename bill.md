@@ -1,0 +1,60 @@
+---
+legis-num: H.R. 6539
+congress: 111th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6539
+
+> To amend the Food and Nutrition Act of 2008 to promote nutrition, to increase access to food, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Reducing American Hunger Act”.
+
+## § 2. Discount purchase of produce
+
+- **(a)** *Amendment* The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended—
+  - **(1)** in the last sentence of section 4(a) by inserting “(increased by an amount equal to 100 percent of benefits used to purchase produce)” after “value”, and
+  - **(2)** in section 7(b) by inserting “, but at 50 percent of the prevailing prices for produce purchased in such stores” after “stores”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect on the 1st day of the 1st month that begins more than 180 days after the date of the enactment of this Act.
+
+## § 3. Fingerprinting prohibited
+
+Section 11(e)(2)(D) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(e)(2)(D)) is amended by inserting the following before the semicolon at the end: “, and the fingerprint or any other form of biometic testing of any member of a household shall not be required for the purpose of participating in the supplemental nutrition assistance program or for issuance of benefits for which the household would otherwise be eligible”.
+
+## § 4. Expanded eligibility in high unemployment areas
+
+Section 6(o) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(o)) is amended—
+
+- **(1)** in paragraph (2) by striking “3 months” and inserting “12 months”, and
+- **(2)** in paragraph 4(A) by striking “On the request of a State agency, the Secretary may” and inserting “The Secretary shall”.
+
+## § 5. Participation in supplemental nutrition assistance program in cities
+
+- **(a)** *Reports* The Secretary of Agriculture shall—
+  - **(1)** require the appropriate States to submit to the Secretary reports identifying the levels of participation in the supplemental nutrition assistance program by eligible households located in the 25 largest cities in the United States, and
+  - **(2)** submit to the Congress a report identifying the results contained in the reports required by paragraph (1).
+- **(b)** *Activities To increase participation*
+  - **(1)** *Requirement* If a State submits a report under subsection (a)(1) that identifies a city in which the participation rate of eligible households in the supplemental nutrition assistance program is less than 85 percent, the Secretary of Agriculture shall require such State to implement practices to increase such participation rate.
+  - **(2)** *Definition* The term “practices” means telephone interviews, educational public service announcements, town halls, and other services that the State deems fit to increase the participation rate to more than 85 percent of eligible households.
+
+## § 6. Grants to improve access to benefits
+
+Section 11(t) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(t)) is amended—
+
+- **(1)** in paragraph (1) by striking “$5,000,000” and inserting “$15,000,000”, and
+- **(2)** in paragraph (5)—
+  - **(A)** in subparagraph (A) by striking “and” at the end,
+  - **(B)** in subparagraph (B) by striking the period at the end and inserting “and”, and
+  - **(C)** by adding at the end the following:
+    > - **(C)** shall give special consideration to eligible entities that are nonprofit organizations that provide on site at the locations of such organizations online application support to eligible households.
+
+## § 7. Encourage better nutrition
+
+- **(a)** *EBT card access at farmers’ markets* The Secretary of Agriculture shall carry out a program to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets by means of installing or modernizing electronic benefit transfer equipment at such markets and by providing educational forums on the benefits of nutrition program participation at such markets.
+- **(b)** *Limitations* Funds available to carry out this section—
+  - **(1)** may not be used for the ongoing cost of carrying out any project, and
+  - **(2)** shall only be provided to eligible entities that demonstrate a plan to continue to provide electronic benefit transfer card access at 1 or more farmers’ markets following the receipt of such funds.
+- **(c)** *Authorization of appropriations* There is authorized to be appropriated $25,000,000 to carry out this section.
