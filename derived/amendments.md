@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2868
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 101` | strike | The Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) is amended by striking section 550. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300i-2` | amend | Section 1433 of the Safe Drinking Water Act (42 U.S.C. 300i–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1281` | add-at-end | Title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) is amended by striking “October 4, 2010” and inserting “October 4, 2013”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 2022 the following: | the bill names no machine-readable US Code section |

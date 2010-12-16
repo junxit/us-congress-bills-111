@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2868
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2868
@@ -178,3 +178,8 @@ Continuing Chemical Facilities Antiterrorism Security Act of 2010
 - 2009-11-06 — The title of the measure was amended. Agreed to without objection.
 - 2009-11-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2009-11-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-03-03 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2010-07-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-370.
+- 2010-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 111-370.
+- 2010-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 700.
