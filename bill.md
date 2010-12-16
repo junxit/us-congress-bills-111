@@ -36,7 +36,7 @@ Section 216(o)(2) of the Federal Credit Union Act (12 U.S.C. 1790d(o)(2)) is ame
 ## § 4. Study of National Credit Union Administration
 
 - **(a)** *Study* The Comptroller General of the United States shall conduct a study of the National Credit Union Administration’s supervision of corporate credit unions and implementation of prompt corrective action.
-- **(b)** *Issues to be studied* In conducting the study required under subsection (a), the Comptroller General shall–
+- **(b)** *Issues To be studied* In conducting the study required under subsection (a), the Comptroller General shall–
   - **(1)** determine the reasons for the failure of any corporate credit union since 2008;
   - **(2)** evaluate the adequacy of the National Credit Union Administration’s response to the failures of corporate credit unions, including with respect to protecting taxpayers, avoiding moral hazard, minimizing the costs of resolving such corporate credit unions, and the ability of insured credit unions to bear any assessments levied to cover such costs;
   - **(3)** evaluate the effectiveness of implementation of prompt corrective action by the National Credit Union Administration for both insured credit unions and corporate credit unions; and
