@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 20
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 20
@@ -14,14 +14,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Secretary of State, under the International Religious Freedom Act of 1998 (IRFA) and its amendment in 1999, and under authority delegated by the President, designates nations found guilty of “particularly severe violations of religious freedom as “Countries of Particular Concern”” (CPC);
 - Whereas when the United States designates a nation as a CPC, the intent is to place protection and promotion of religious freedom as a diplomatic priority in bilateral relations, including taking actions specified in section 405 (a)(b)(c) of the IRFA;
 - Whereas in November 2006, the State Department announced that the CPC designation was lifted from the Socialist Republic of Vietnam;
-- Whereas in explaining the lifting of the designation, State Department officials have stated that Vietnam “has turned a corner … and has what looks like religious freedom” and that Vietnam “does not meet the criteria for a severe violator of religious freedom” under terms set by the IRFA;
+- Whereas in explaining the lifting of the designation, State Department officials have stated that Vietnam “has turned a corner * * * and has what looks like religious freedom” and that Vietnam “does not meet the criteria for a severe violator of religious freedom” under terms set by the IRFA;
 - Whereas the criteria for designating countries as a CPC, as set forth in section 3(11) of the IRFA, are for “systematic, ongoing, and egregious violations of religious freedom including violations, such as—A) torture or cruel, inhuman, or degrading treatment of punishment; B) prolonged detention without charges; C) causing the disappearance of persons by the abduction or clandestine detention of those persons; and D) other flagrant denial of the right of life, liberty, or the security of persons.”;
 - Whereas in 2004, the Vietnamese National Assembly issued Directive 21/2004/PL–UBTVQH11 to regulate religious activities;
 - Whereas this directive contains several articles that seriously interfere with religious freedom and impose heavy government control on religious activities;
-- Whereas, on September 15, 2004, the State Department added Vietnam to the CPC list and Ambassador at Large for International Religious Freedom, John Hanford, stated, “at least 45 religious believers remain imprisoned … Protestants have been pressured by authorities to renounce their faith, and some have been subjected to physical abuse.”;
+- Whereas, on September 15, 2004, the State Department added Vietnam to the CPC list and Ambassador at Large for International Religious Freedom, John Hanford, stated, “at least 45 religious believers remain imprisoned * * * Protestants have been pressured by authorities to renounce their faith, and some have been subjected to physical abuse.”;
 - Whereas to avoid possible sanctions or other “commensurate actions” recommended by section 405 (a)(b) of the IRFA, in May 2005 the United States and Vietnam reached a “binding agreement” consistent with section 405 (c) of the IRFA;
 - Whereas although the terms of that “binding agreement” have never been fully publicized, the United States Commission on International Religious Freedom 2006 Annual Report stated that the United States agreed to lift the CPC designation if the Government of Vietnam fully implemented legislation on religious freedom and rendered previous contradictory regulations obsolete, instructed local authorities strictly and completely to adhere to the new legislation to ensure compliance, facilitated the process by which religious congregations are able to open houses of worship, and gave special consideration to prisoners and cases of concern raised by the United States during the granting of prisoner amnesties;
 - Whereas the Unified Buddhist Church of Vietnam (UBCV), the Hoa Hao Buddhists, and the Cao Dai groups continue to face unwarranted abuses because of their attempts to organize independently of the Vietnamese Government, including the detention and imprisonment of individual members of these religious communities;
+- Whereas villagers of Con Dau, Da Nang, have suffered severe violence, including beatings with batons and electric rods during a May 2010 incident, at the hands of Vietnamese Government officials for attempting to protect their historic Catholic cemetery and other parish properties from an attempted government forced sale of these properties;
 - Whereas over the last 3 years, 18 Hoa Hao Buddhists have been arrested for distributing sacred texts or publically protesting the religious restrictions placed on them by the Vietnamese Government, at least 12 remain in prison, including 4 sentenced in 2007 for staging a peaceful hunger strike;
 - Whereas five members of the Cao Dai religious community remain in prison for distributing materials in Cambodia critical of the Vietnamese Government’s restrictions on Cao Dai religious practice, for this action they were sentenced to up to 13 years imprisonment;
 - Whereas five Khmer Buddhists were arrested in February 2007 for organizing peaceful demonstrations opposing the restriction of language training and ordination ceremonies for Khmer Buddhist monks;
