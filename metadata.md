@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2142
@@ -103,3 +103,7 @@ GPRA Modernization Act of 2010
 - 2010-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2010-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2010-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.
+- 2010-12-16 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 111-372.
+- 2010-12-16 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 111-372.
+- 2010-12-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S10359-10364; text as passed Senate: CR S10359-10364)
+- 2010-12-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S10359-10364; text as passed Senate: CR S10359-10364)
