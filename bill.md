@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5809
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5809
 
-That the bill from the House of Representatives (H.R. 5809) entitled “An Act to amend the Controlled Substances Act to provide for take-back disposal of controlled substances in certain instances, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Energy Policy Act of 2005 to reauthorize and modify provisions relating to the diesel emissions reduction program.
 
 ## § 1. Short title
 

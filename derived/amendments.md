@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -68,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (1), by inserting “, rebate,” after “grant”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “, rebates,” after “grants”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), in the matter preceding subparagraph (A), by striking “grant or loan provided under this section may be used” and inserting “grant, rebate, or loan provided under this section shall be used”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in each of paragraphs (2) through (5) by inserting “, rebate,” after “grant” each place it appears; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |

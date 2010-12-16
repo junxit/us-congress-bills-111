@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5809
@@ -112,3 +112,16 @@ Diesel Emissions Reduction Act of 2010
 - 2010-12-16 — Senate amendment proposed (on the floor): Amendment SA 4819 proposed by Senator Dorgan for Senator Voinovich.(consideration: CR S10364)
 - 2010-12-16 — Senate amendment submitted
 - 2010-12-16 — Senate amendment submitted
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to concur in the Senate amendments to H.R. 5809.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Waxman moved that the House suspend the rules and agree to the Senate amendments. (consideration: H8792-8798)
+- 2010-12-21 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: H8792-8793)
+- 2010-12-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: H8792-8793)
+- 2010-12-29 — Presented to President.
+- 2010-12-29 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-364.
+- 2011-01-04 — Became Public Law No: 111-364.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
