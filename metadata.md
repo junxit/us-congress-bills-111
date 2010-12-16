@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2142
@@ -79,6 +79,11 @@ GPRA Modernization Act of 2010
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (2)
+
+- 2010-12-17 — [House 111-2-654](votes/house-111-2-0654.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Failed** (212–131)
+- 2010-12-21 — [House 111-2-660](votes/house-111-2-0660.md) — On Motion to Concur in the Senate Amendment — **Passed** (216–139)
+
 ## Actions
 
 - 2009-04-28 — Introduced in House
@@ -107,3 +112,26 @@ GPRA Modernization Act of 2010
 - 2010-12-16 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 111-372.
 - 2010-12-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S10359-10364; text as passed Senate: CR S10359-10364)
 - 2010-12-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S10359-10364; text as passed Senate: CR S10359-10364)
+- 2010-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2010-12-17 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 2142.
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-17 — Mr. Cuellar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8603-8609, H8766-8767)
+- 2010-12-17 — On motion that the House suspend the rules and agree to the Senate amendment Failed by the Yeas and Nays: (2/3 required): 212 - 131 (Roll no. 654). (text: CR H8603-8608)
+- 2010-12-17 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Failed by the Yeas and Nays: (2/3 required): 212 - 131 (Roll no. 654).(text: CR H8603-8608)
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Considered as unfinished business. (consideration: CR H8891-8892)
+- 2010-12-21 — DEBATE - The House continued with further debate on the motion to agree to the Senate amendment to H.R. 2142.
+- 2010-12-21 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 2142.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Cuellar moved that the House agree to the Senate amendment. (consideration: CR H8852-8861)
+- 2010-12-21 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 139 (Roll no. 660). (text as House agreed to Senate amendment: CR H8852-8857)
+- 2010-12-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendment to H.R. 2142, the Chair announced that pursuant to the order of the House of December 21, 2010, further proceedings on the motion would be postponed until a time to be announced.
+- 2010-12-21 — Pursuant to the provisions of H.Res. 1781, the Chair recognized Mr. Cuellar for a motion.
+- 2010-12-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 139 (Roll no. 660).(text as House agreed to Senate amendment: CR H8852-8857)
+- 2010-12-21 — The previous question was ordered pursuant to the rule. (consideration: CR H8861)
+- 2010-12-29 — Presented to President.
+- 2010-12-29 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-352.
+- 2011-01-04 — Became Public Law No: 111-352.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.

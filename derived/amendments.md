@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
