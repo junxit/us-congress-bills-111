@@ -1,7 +1,7 @@
 ---
 measure: S. 3903
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3903
@@ -28,3 +28,7 @@ A bill to authorize leases of up to 99 years for lands held in trust for Ohkay O
 
 - 2010-09-29 — Introduced in Senate
 - 2010-09-29 — Read twice and referred to the Committee on Indian Affairs.
+- 2010-11-18 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2010-12-16 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-371.
+- 2010-12-16 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 111-371.
+- 2010-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
