@@ -1,7 +1,7 @@
 ---
 measure: S. 3874
 congress: 111
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3874
