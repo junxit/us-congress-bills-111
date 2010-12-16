@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6517
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6517
@@ -36,3 +36,4 @@ Omnibus Trade Act of 2010
 - 2010-12-15 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
 - 2010-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8418-8448)
 - 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8418-8448)
+- 2010-12-16 — Received in the Senate, read twice.
