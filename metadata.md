@@ -1,7 +1,7 @@
 ---
 measure: S. 3592
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3592
@@ -28,3 +28,8 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2010-07-15 — Introduced in Senate
 - 2010-07-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-09-21 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2010-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10365-10366; text as passed Senate: CR S10365)
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
