@@ -2,49 +2,137 @@
 legis-num: H.R. 5809
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5809
 
-> To amend the Controlled Substances Act to provide for take-back disposal of controlled substances in certain instances, and for other purposes.
+That the bill from the House of Representatives (H.R. 5809) entitled “An Act to amend the Controlled Substances Act to provide for take-back disposal of controlled substances in certain instances, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Safe Drug Disposal Act of 2010”.
+This Act may be cited as the “Diesel Emissions Reduction Act of 2010”.
 
-## § 2. Delivery of controlled substances by ultimate users for disposal
+## § 2. Diesel emissions reduction program
 
-- **(a)** *Regulatory authority* Section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by adding at the end the following:
-  > - **(g)**
-  >   - **(1)** An ultimate user who has lawfully obtained a controlled substance in accordance with this title may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—
-  >     - **(A)** the person receiving the controlled substance is authorized under this title to receive and dispose of the controlled substance; and
-  >     - **(B)** the delivery and disposal takes place in accordance with regulations issued by the Attorney General to prevent diversion of controlled substances.
-  >   - **(2)** The Attorney General shall, by regulation, authorize long-term care facilities, as defined by the Attorney General by regulation, to deliver for disposal controlled substances on behalf of ultimate users in a manner that the Attorney General determines will provide effective controls against diversion and be consistent with the public health and safety.
-  >   - **(3)** If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent’s property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
+- **(a)** *Definitions* Section 791 of the Energy Policy Act of 2005 (42 U.S.C. 16131) is amended—
+  - **(1)** in paragraph (3)—
+    - **(A)** in subparagraph (A), by striking “and” at the end;
+    - **(B)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(C)** any private individual or entity that—
+      >   - **(i)** is the owner of record of a diesel vehicle or fleet operated pursuant to a contract, license, or lease with a Federal department or agency or an entity described in subparagraph (A); and
+      >   - **(ii)** meets such timely and appropriate requirements as the Administrator may establish for vehicle use and for notice to and approval by the Federal department or agency or entity described in subparagraph (A) with respect to which the owner has entered into a contract, license, or lease as described in clause (i).
 
-- **(b)** *Conforming Amendment* Section 308(b) of the Controlled Substances Act (21 U.S.C. 828(b)) is amended—
-  - **(1)** by striking the period at the end of paragraph (2) and inserting “; or”; and
-  - **(2)** by adding at the end the following:
-    > - **(3)** the delivery of such a substance for the purpose of disposal by an ultimate user, long-term care facility, or other person acting in accordance with section 302(g).
+  - **(2)** in paragraph (4), by inserting “currently, or has not been previously,” after “that is not”;
+  - **(3)** by striking paragraph (9);
+  - **(4)** by redesignating paragraph (8) as paragraph (9);
+  - **(5)** in paragraph (9) (as so redesignated), in the matter preceding subparagraph (A), by striking “, advanced truckstop electrification system,”; and
+  - **(6)** by inserting after paragraph (7) the following:
+    > - **(8)** *State* The term State means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-## § 3. Public education campaign
+- **(b)** *National grant, rebate, and loan programs* Section 792 of the Energy Policy Act of 2005 (42 U.S.C. 16132) is amended—
+  - **(1)** in the section heading, by inserting “, rebate,” after “grant”;
+  - **(2)** in subsection (a)—
+    - **(A)** in the matter preceding paragraph (1), by striking “to provide grants and low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities” and inserting “to provide grants, rebates, or low-cost revolving loans, as determined by the Administrator, on a competitive basis, to eligible entities, including through contracts entered into under subsection (e) of this section,”; and
+    - **(B)** in paragraph (1), by striking “tons of”;
+  - **(3)** in subsection (b)—
+    - **(A)** by striking paragraph (2);
+    - **(B)** by redesignating paragraph (3) as paragraph (2); and
+    - **(C)** in paragraph (2) (as so redesignated)—
+      - **(i)** in subparagraph (A), in the matter preceding clause (i), by striking “90” and inserting “95”;
+      - **(ii)** in subparagraph (B)(i), by striking “10 percent” and inserting “5 percent”; and
+      - **(iii)** in subparagraph (B)(ii), by striking “the application under subsection (c)” and inserting “a verification application”;
+  - **(4)** in subsection (c)—
+    - **(A)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;
+    - **(B)** by striking paragraph (1) and inserting the following:
+      > - **(1)** *Expedited process*
+      >   - **(A)** *In general* The Administrator shall develop a simplified application process for all applicants under this section to expedite the provision of funds.
+      >   - **(B)** *Requirements* In developing the expedited process under subparagraph (A), the Administrator—
+      >     - **(i)** shall take into consideration the special circumstances affecting small fleet owners; and
+      >     - **(ii)** to avoid duplicative procedures, may require applicants to include in an application under this section the results of a competitive bidding process for equipment and installation.
+      > - **(2)** *Eligibility*
+      >   - **(A)** *Grants* To be eligible to receive a grant under this section, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require.
+      >   - **(B)** *Rebates and low-cost loans* To be eligible to receive a rebate or a low-cost loan under this section, an eligible entity shall submit an application in accordance with such guidance as the Administrator may establish—
+      >     - **(i)** to the Administrator; or
+      >     - **(ii)** to an entity that has entered into a contract under subsection (e).
 
-The Director of National Drug Control Policy, in consultation with the Administrator of the Environmental Protection Agency, shall carry out a public education and outreach campaign to increase awareness of how ultimate users may lawfully and safely dispose of prescription drugs, including controlled substances, through drug take-back programs and other appropriate means.
+    - **(C)** in paragraph (3)(G) (as redesignated by subparagraph (A)), by inserting “in the case of an application relating to nonroad engines or vehicles,” before “a description of the diesel”; and
+    - **(D)** in paragraph (4) (as redesignated by subparagraph (A))—
+      - **(i)** in the matter preceding subparagraph (A)—
+        - **(I)** by inserting “, rebate,” after “grant”; and
+        - **(II)** by inserting “highest” after “shall give”;
+      - **(ii)** in subparagraph (C)(iii)—
+        - **(I)** by striking “a diesel fleets” and inserting “diesel fleets”; and
+        - **(II)** by inserting “construction sites, schools,” after “terminals,”;
+      - **(iii)** in subparagraph (E), by adding “and” at the end;
+      - **(iv)** in subparagraph (F), by striking “; and” and inserting a period; and
+      - **(v)** by striking subparagraph (G);
+  - **(5)** in subsection (d)—
+    - **(A)** in paragraph (1), in the matter preceding subparagraph (A), by inserting “, rebate,” after “grant”; and
+    - **(B)** in paragraph (2)(A)—
+      - **(i)** by striking “grant or loan provided” and inserting “grant, rebate, or loan provided, or contract entered into,”; and
+      - **(ii)** by striking “Federal, State or local law” and inserting “any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act”; and
+  - **(6)** by adding at the end the following:
+    > - **(e)** *Contract programs*
+    >   - **(1)** *Authority* In addition to the use of contracting authority otherwise available to the Administrator, the Administrator may enter into contracts with eligible contractors described in paragraph (2) for the administration of programs for providing rebates or loans, subject to the requirements of this subtitle.
+    >   - **(2)** *Eligible contractors* The Administrator may enter into a contract under this subsection with a for-profit or nonprofit entity that has the capacity—
+    >     - **(A)** to sell diesel vehicles or equipment to, or to arrange financing for, individuals or entities that own a diesel vehicle or fleet; or
+    >     - **(B)** to upgrade diesel vehicles or equipment with verified or Environmental Protection Agency-certified engines or technologies, or to arrange financing for such upgrades.
+    > - **(f)** *Public notification* Not later than 60 days after the date of the award of a grant, rebate, or loan, the Administrator shall publish on the website of the Environmental Protection Agency—
+    >   - **(1)** for rebates and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates or loans provided, as well as a breakdown of the technologies funded through the rebates or loans; and
+    >   - **(2)** for other rebates and loans, and for grants, a description of each application for which the grant, rebate, or loan is provided.
 
-## § 4. GAO report
+- **(c)** *State grant, rebate, and loan programs* Section 793 of the Energy Policy Act of 2005 (42 U.S.C. 16133) is amended—
+  - **(1)** in the section heading, by inserting “, rebate,” after “grant”;
+  - **(2)** in subsection (a), by inserting “, rebate,” after “grant”;
+  - **(3)** in subsection (b)(1), by inserting “, rebate,” after “grant”;
+  - **(4)** by amending subsection (c)(2) to read as follows:
+    > - **(2)** *Allocation*
+    >   - **(A)** *In general* Except as provided in subparagraphs (B) and (C), using not more than 20 percent of the funds made available to carry out this subtitle for a fiscal year, the Administrator shall provide to each State qualified for an allocation for the fiscal year an allocation equal to 1/53 of the funds made available for that fiscal year for distribution to States under this paragraph.
+    >   - **(B)** *Certain territories*
+    >     - **(i)** *In general* Except as provided in clause (ii), Guam, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands shall collectively receive an allocation equal to 1/53 of the funds made available for that fiscal year for distribution to States under this subsection, divided equally among those 4 States.
+    >     - **(ii)** *Exception* If any State described in clause (i) does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under clause (i) shall be reallocated pursuant to subparagraph (C).
+    >   - **(C)** *Reallocation* If any State does not qualify for an allocation under this paragraph, the share of funds otherwise allocated for that State under this paragraph shall be reallocated to each remaining qualified State in an amount equal to the product obtained by multiplying—
+    >     - **(i)** the proportion that the population of the State bears to the population of all States described in paragraph (1); by
+    >     - **(ii)** the amount otherwise allocatable to the nonqualifying State under this paragraph.
 
-The Comptroller General of the United States shall—
+  - **(5)** in subsection (d)—
+    - **(A)** in paragraph (1), by inserting “, rebate,” after “grant”;
+    - **(B)** in paragraph (2), by inserting “, rebates,” after “grants”;
+    - **(C)** in paragraph (3), in the matter preceding subparagraph (A), by striking “grant or loan provided under this section may be used” and inserting “grant, rebate, or loan provided under this section shall be used”; and
+    - **(D)** by adding at the end the following:
+      > - **(4)** *Priority* In providing grants, rebates, and loans under this section, a State shall use the priorities in section 792(c)(4).
+      > - **(5)** *Public notification* Not later than 60 days after the date of the award of a grant, rebate, or loan by a State, the State shall publish on the Web site of the State—
+      >   - **(A)** for rebates, grants, and loans provided to the owner of a diesel vehicle or fleet, the total number and dollar amount of rebates, grants, or loans provided, as well as a breakdown of the technologies funded through the rebates, grants, or loans; and
+      >   - **(B)** for other rebates, grants, and loans, a description of each application for which the grant, rebate, or loan is provided.
 
-- **(1)** collect data on the delivery, transfer, and disposal of controlled substances under section 302(g) of the Controlled Substances Act, as added by section 2; and
-- **(2)** not later than 4 years after the date of the enactment of this Act, submit findings and recommendations to the Congress regarding use, effectiveness, and accessibility of disposal programs.
+- **(d)** *Evaluation and report* Section 794(b) of the Energy Policy Act of 2005 (42 U.S.C. 16134(b)) is amended—
+  - **(1)** in each of paragraphs (2) through (5) by inserting “, rebate,” after “grant” each place it appears;
+  - **(2)** in paragraph (5), by striking “and” at the end;
+  - **(3)** in paragraph (6), by striking the period at the end and inserting “; and”; and
+  - **(4)** by adding at the end the following new paragraph:
+    > - **(7)** in the last report sent to Congress before January 1, 2016, an analysis of the need to continue the program, including an assessment of the size of the vehicle and engine fleet that could provide benefits from being retrofit under this program and a description of the number and types of applications that were not granted in the preceding year.
 
-## § 5. EPA study of environmental impacts
+- **(e)** *Authorization of appropriations* Section 797 of the Energy Policy Act of 2005 (42 U.S.C. 16137) is amended to read as follows:
+  > ## § 797. Authorization of appropriations
+  >
+  > - **(a)** *In general* There is authorized to be appropriated to carry out this subtitle $100,000,000 for each of fiscal years 2012 through 2016, to remain available until expended.
+  > - **(b)** *Management and oversight* The Administrator may use not more than 1 percent of the amounts made available under subsection (a) for each fiscal year for management and oversight purposes.
 
-- **(a)** *Study* The Administrator of the Environmental Protection Agency (in this section referred to as the “Administrator”) shall—
-  - **(1)** in consultation with relevant State and local officials and other sources of relevant technical expertise, conduct a study to—
-    - **(A)** examine the environmental impacts resulting from the ultimate disposal of controlled substances through existing methods;
-    - **(B)** taking into consideration such impacts, and the ease and cost of implementation of drug take-back programs and participation in such programs by various communities, formulate appropriate recommendations on the destruction or ultimate disposal of prescription drugs, including controlled substances; and
-    - **(C)** identify additional authority needed to carry out such recommendations if the Administrator determines that the Administrator’s existing legal authorities are insufficient to implement such recommendations; and
-  - **(2)** not later than 18 months after the date of the enactment of this Act, submit a report to the Congress on the results of such study.
-- **(b)** *Rule of construction* Nothing in this section shall be construed to affect the Administrator’s authority under other provisions of law.
+## § 3. Audit
+
+- **(a)** *In general* Not later than 360 days after the date of enactment of this Act, the Comptroller General of the United States shall carry out an audit to identify—
+  - **(1)** all Federal mobile source clean air grant, rebate, or low cost revolving loan programs under the authority of the Administrator of the Environmental Protection Agency, the Secretary of Transportation, or other relevant Federal agency heads that are designed to address diesel emissions from, or reduce diesel fuel usage by, diesel engines and vehicles; and
+  - **(2)** whether, and to what extent, duplication or overlap among, or gaps between, these Federal mobile source clean air programs exists.
+- **(b)** *Report* The Comptroller General of the United States shall—
+  - **(1)** submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a copy of the audit under subsection (a); and
+  - **(2)** make a copy of the audit under subsection (a) available on a publicly accessible Internet site.
+- **(c)** *Offset* All unobligated amounts provided to carry out the pilot program under title I of division G of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 123 Stat. 814) under the heading “miscellaneous items” are rescinded.
+
+## § 4. Effective date
+
+- **(a)** *General rule* Except as provided in subsection (b), the amendments made by section 2 shall take effect on October 1, 2011.
+- **(b)** *Exception* The amendments made by subsections (a)(4) and (6) and (c)(4) of section 2 shall take effect on the date of enactment of this Act.
