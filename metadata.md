@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 336
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 336
@@ -29,3 +29,6 @@ Providing for the sine die adjournment of the second session of the One Hundred 
 - 2010-12-17 — On agreeing to the resolution Agreed to by the Yeas and Nays: 196 - 153 (Roll no. 652). (text: CR H8765)
 - 2010-12-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 196 - 153 (Roll no. 652).(text: CR H8765)
 - 2010-12-17 — Received in the Senate.
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Voice Vote.(consideration: CR S10999; text as passed Senate: CR S10999)
+- 2010-12-22 — Resolution agreed to in Senate without amendment by Voice Vote. (consideration: CR S10999; text as passed Senate: CR S10999)
