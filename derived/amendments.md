@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6533
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 301` | amend | Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows: | the bill names no machine-readable US Code section |
