@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 105
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 105
@@ -39,3 +39,7 @@ Making further continuing appropriations for fiscal year 2011, and for other pur
 - 2010-12-17 — Rule H. Res. 1776 passed House.
 - 2010-12-17 — Rule provides for consideration of H.J. Res. 105 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 10 of rule XXI.
 - 2010-12-17 — Rules Committee Resolution H. Res. 1776 Reported to House. Rule provides for consideration of H.J. Res. 105 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 10 of rule XXI.
+- 2010-12-18 — Became Public Law No: 111-317.
+- 2010-12-18 — Became Public Law No: 111-317.
+- 2010-12-18 — Signed by President.
+- 2010-12-18 — Signed by President.
