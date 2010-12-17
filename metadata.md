@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2062
@@ -62,3 +62,7 @@ Migratory Bird Treaty Act Penalty and Enforcement Act of 2009
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-355.
 - 2009-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-355.
 - 2009-12-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2010-04-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-12-17 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-375. Minority views filed.
+- 2010-12-17 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-375. Minority views filed.
+- 2010-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 714.
