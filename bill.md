@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3890
 congress: 111th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,27 +28,33 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
 - **(3)** in subsection (c)—
   - **(A)** paragraph (2)—
     - **(i)** in the second sentence by inserting “including the requirements of this section,” after “Notwithstanding any other provision of law,”; and
-    - **(ii)** by inserting before the period at the end of the last sentence “, provided that this paragraph does not afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provision of the securities laws”; and
+    - **(ii)** by inserting before the period at the end of the last sentence “, provided that this paragraph does not afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provision of the securities laws”;
   - **(B)** by adding at the end the following new paragraph:
     > - **(3)** *Review of internal processes for determining credit ratings*
-    >   - **(A)** *In general* The Commission shall review credit ratings issued by, and the policies, procedures, and methodologies employed by, each nationally recognized statistical rating organization to ensure that—
+    >   - **(A)** *In general* The Commission shall examine credit ratings issued by, and the policies, procedures, and methodologies employed by, each nationally recognized statistical rating organization to review whether—
     >     - **(i)** the nationally recognized statistical rating organization has established and documented a system of internal controls, due diligence and implementation of methodologies for determining credit ratings, taking into consideration such factors as the Commission may prescribe by rule;
     >     - **(ii)** the nationally recognized statistical rating organization adheres to such system; and
-    >     - **(iii)** the public disclosures of the nationally recognized statistical rating organization required under this section about its ratings, methodologies, and procedures are consistent with such system.
+    >     - **(iii)** the public disclosures of the nationally recognized statistical rating organization required under this section about its credit ratings, methodologies, and procedures are consistent with such system.
     >   - **(B)** *Manner and frequency* The Commission shall conduct reviews required by this paragraph no less frequently than annually in a manner to be determined by the Commission.
     > - **(4)** *Provision of information to the commission* Each nationally recognized statistical rating organization shall make available and maintain such records and information, for such a period of time, as the Commission may prescribe, by rule, as necessary for the Commission to conduct the reviews under paragraph (3).
+    > - **(5)** *Disclosures with respect to structured securities*
+    >   - **(A)** *Regulations required* The rules and regulations prescribed by the Commission pursuant to this section with respect to nationally recognized statistical rating organizations shall, with respect to the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings for structured securities—
+    >     - **(i)** specify the information required to be disclosed to such rating organizations by the sponsor, issuers, and underwriters of such structured securities on the collateral underlying such structured securities; and
+    >     - **(ii)** establish and implement procedures to collect and disclose information about the processes used by such sponsor, issuers, and underwriters to assess the accuracy and integrity of their data and fraud detection.
+    >   - **(B)** *Definition* For purposes of this paragraph, the Commission shall, by rule or regulation, define the term “structured securities” as appropriate in the public interest and for the protection of investors.
+    > - **(6)** *Historical default rate disclosures* The rules and regulations prescribed by the Commission pursuant to this section with respect to nationally recognized statistical rating organizations shall require each nationally recognized statistical rating organization to establish and maintain, on a publicly accessible Internet site, a facility to disclose, in a central database, the historical default rates of all classes of financial products rated by such organization.
 
 - **(4)** in subsection (d)—
   - **(A)** in the heading, by inserting “Fine,” after “Censure,”;
   - **(B)** by striking “shall censure” and all that follows through “revocation” and inserting the following: “shall censure, fine in accordance with section 21B(a), place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or revoke the registration of any nationally recognized statistical rating organization (or with respect to any person who is associated, who is seeking to become associated, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, fine in accordance with section 21B(a), place limitations on the activities or functions of such person, suspend for a period not exceeding 12 months, or bar such person from being associated with a nationally recognized statistical rating organization), if the Commission finds, on the record after notice and opportunity for hearing, that such censure, fine, placing of limitations, bar, suspension, or revocation”;
   - **(C)** in paragraph (2), by striking “furnished to” and inserting “filed with”;
   - **(D)** in paragraph (4)—
-    - **(i)** by striking “furnish” and inserting “file”; and
+    - **(i)** by striking “furnish” and inserting “file”;
     - **(ii)** by striking “or” at the end;
-  - **(E)** in paragraph (5), by striking the period at the end; and
+  - **(E)** in paragraph (5), by striking the period at the end and inserting a semicolon; and
   - **(F)** by adding at the end the following:
-    > - **(6)** has failed reasonably to supervise another person who commits a violation of the securities laws or any rules of the Municipal Securities Rulemaking Board if such other person is subject to his or her supervision, except that no person shall be deemed to have failed reasonably to supervise any other person under this paragraph, if—
-    >   - **(A)** there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person; and
+    > - **(6)** has failed reasonably to supervise another person who commits a violation of the securities laws, the rules or regulations thereunder, or any rules of the Municipal Securities Rulemaking Board if such other person is subject to his or her supervision, except that no person shall be deemed to have failed reasonably to supervise any other person under this paragraph, if—
+    >   - **(A)** there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person, and
     >   - **(B)** such person has reasonably discharged the duties and obligations incumbent upon him or her by reason of such procedures and system without reasonable cause to believe that such procedures and system were not being complied with; or
     > - **(7)** fails to conduct sufficient surveillance to ensure that credit ratings remain current and reliable, as applicable.
 
@@ -58,7 +64,7 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
 - **(6)** by amending subsection (h) to read as follows:
   > - **(h)** *Corporate governance, organization, and management of conflicts of interest*
   >   - **(1)** *Board of directors*
-  >     - **(A)** *In general* Each nationally recognized statistical rating organization or its parent entity shall have a board of directors.
+  >     - **(A)** *In general* Each nationally recognized statistical rating organization or its ultimate holding company shall have a board of directors.
   >     - **(B)** *Independent directors* At least 1/3 of such board, but no less than 2 of the members of the board of directors, shall be independent directors. In order to be considered independent for purposes of this subsection, a director of a nationally recognized statistical rating organization may not, other than in his or her capacity as a member of the board of directors or any committee thereof—
   >       - **(i)** accept any consulting, advisory, or other compensatory fee from the nationally recognized statistical rating organization; or
   >       - **(ii)** be a person associated with the nationally recognized statistical rating organization or with any affiliated company thereof.
@@ -69,17 +75,16 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >       - **(iii)** the effectiveness of the internal control system with respect to policies and procedures for determining credit ratings; and
   >       - **(iv)** the compensation and promotion policies and practices of the nationally recognized statistical rating organization.
   >   - **(2)** *Organization policies and procedures* Each nationally recognized statistical rating organization shall establish, maintain, and enforce written policies and procedures reasonably designed, taking into consideration the nature of the business of the nationally recognized statistical rating organization and affiliated persons and affiliated companies thereof, to address, manage, and disclose any conflicts of interest that can arise from such business.
-  >   - **(3)** *Commission rules* The Commission shall issue rules to prohibit, or require the management and disclosure of, any conflicts of interest relating to the issuance of credit ratings by a nationally recognized statistical rating organization, including—
+  >   - **(3)** *Commission rules* The Commission shall issue rules to prohibit, or require the management and disclosure of, any conflicts of interest relating to the issuance of credit ratings by a nationally recognized statistical rating organization, including rules regarding—
   >     - **(A)** conflicts of interest relating to the manner in which a nationally recognized statistical rating organization is compensated by the obligor, or any affiliate of the obligor, for issuing credit ratings or providing related services;
-  >     - **(B)** conflicts of interest relating to the provision of consulting, advisory, or other services by a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
-  >     - **(C)** disclosure of conflicts of interests relating to business relationships, ownership interests, and affiliations of nationally recognized statistical rating organization board members with obligors, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
-  >     - **(D)** disclosure of conflicts of interests relating to any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person who underwrites securities, money market instruments, or other instruments that are the subject of a credit rating;
-  >     - **(E)** a requirement that each nationally recognized statistical rating organization disclose on such organization’s website a consolidated report at the end of each fiscal year that shows—
+  >     - **(B)** conflicts of interest relating to business relationships, ownership interests, and affiliations of nationally recognized statistical rating organization board members with obligors, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
+  >     - **(C)** conflicts of interest relating to any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person who underwrites securities, money market instruments, or other instruments that are the subject of a credit rating;
+  >     - **(D)** a requirement that each nationally recognized statistical rating organization disclose on such organization’s website a consolidated report at the end of each fiscal year that shows—
   >       - **(i)** the percent of net revenue earned by the nationally recognized statistical rating organization or an affiliate of a nationally recognized statistical rating organization, or any person associated with a nationally recognized statistical rating organization, to the extent determined appropriate by the Commission, for that fiscal year for providing services and products other than credit rating services to each person who paid for a credit rating; and
   >       - **(ii)** the relative standing of each person who paid for a credit rating that was outstanding as of the end of the fiscal year in terms of the amount of net revenue earned by the nationally recognized statistical rating organization attributable to each such person and classified by the highest 5, 10, 25, and 50 percentiles and lowest 50 and 25 percentiles;
-  >     - **(F)** rules providing for the establishment of a system of payment for each nationally recognized statistical rating organization that requires that payments are structured in a manner designed to ensure that the nationally recognized statistical rating organization conducts accurate and reliable surveillance of ratings over time, as applicable, and that incentives for reliable ratings are in place;
-  >     - **(G)** a requirement that a nationally recognized statistical rating organization disclose with the publication of a credit rating the type and number of credit ratings it has provided to the person being rated or affiliates of such person, the fees it has billed for the credit rating, and the aggregate amount of net revenue earned by the nationally recognized statistical rating in the preceding 2 fiscal years attributable to the person being rated and its affiliates; and
-  >     - **(H)** any other potential conflict of interest, as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+  >     - **(E)** the establishment of a system of payment for credit ratings issued by each nationally recognized statistical rating organization that requires that payments are structured in a manner designed to ensure that the nationally recognized statistical rating organization conducts accurate and reliable surveillance of credit ratings over time, as applicable, and that incentives for reliable credit ratings are in place;
+  >     - **(F)** a requirement that a nationally recognized statistical rating organization disclose with the publication of a credit rating the type and number of credit ratings it has provided to the person being rated or affiliates of such person, the fees it has billed for the credit rating, and the aggregate amount of net revenue earned by the nationally recognized statistical rating organization in the preceding 2 fiscal years attributable to the person being rated and its affiliates; and
+  >     - **(G)** any other potential conflict of interest, as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
   >   - **(4)** *Look-back requirement*
   >     - **(A)** *Review by the nationally recognized statistical rating organization* Each nationally recognized statistical rating organization shall establish, maintain, and enforce policies and procedures reasonably designed to ensure that, in any case in which an employee of a person subject to a credit rating of the nationally recognized statistical rating organization or the issuer, underwriter, or sponsor of a security or money market instrument subject to a credit rating of the nationally recognized statistical rating organization was employed by the nationally recognized statistical rating organization and participated in any capacity in determining credit ratings for the person or the securities or money market instruments during the 1-year period preceding the date an action was taken with respect to the credit rating, the nationally recognized statistical rating organization shall—
   >       - **(i)** conduct a review to determine whether any conflicts of interest of the employee influenced the credit rating; and
@@ -90,10 +95,10 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >         - **(I)** not less frequently than annually; and
   >         - **(II)** whenever such policies are materially modified or amended.
   >   - **(5)** *Report to Commission on certain employment transitions*
-  >     - **(A)** *Report required* Each nationally recognized statistical rating organization shall report to the Commission any case such organization knows or can reasonably be expected to know where a former employee of such organization obtains employment with any issuer, underwriter, or sponsor of a security or money market instrument for which the organization issued a credit rating during the 12-month period prior to such employment, if such employee—
-  >       - **(i)** was an officer of such organization;
-  >       - **(ii)** participated in any capacity in determining credit ratings for such issuer, underwriter, or sponsor; or
-  >       - **(iii)** supervised an employee described un subparagraph (B).
+  >     - **(A)** *Report required* Each nationally recognized statistical rating organization shall report to the Commission any case such organization knows or can reasonably be expected to know where a person associated with such organization within the previous 5 years obtains employment with any obligor, issuer, underwriter, or sponsor of a security or money market instrument for which the organization issued a credit rating during the 12-month period prior to such employment, if such employee—
+  >       - **(i)** was a senior officer of such organization;
+  >       - **(ii)** participated in any capacity in determining credit ratings for such obligor, issuer, underwriter, or sponsor; or
+  >       - **(iii)** supervised an employee described in clause (ii).
   >     - **(B)** *Public disclosure* Upon receiving such a report, the Commission shall make such information publicly available.
 
 - **(7)** by amending subsection (j) to read as follows:
@@ -102,33 +107,40 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >   - **(2)** *Duties* The compliance officer shall—
   >     - **(A)** report directly to the board of the nationally recognized statistical rating organization;
   >     - **(B)** review compliance with policies and procedures to manage conflicts of interest and assess the risk that the compliance (or lack of such compliance) may compromise the integrity of the credit rating process;
-  >     - **(C)** review compliance with internal controls with respect to the procedures and methodologies for determining credit ratings, including quantitative models and qualitative inputs used in the rating process, and assess the risk that such compliance with the internal controls (or lack of such compliance) may compromise the integrity and quality of the credit rating process;
+  >     - **(C)** review compliance with the internal control system with respect to the procedures and methodologies for determining credit ratings, including qualitative methodologies and quantitative inputs used in the rating process, and assess the risk that such internal control system is reasonably designed to ensure the integrity and quality of the credit rating process;
   >     - **(D)** in consultation with the board of the nationally recognized statistical rating organization, resolve any conflicts of interest that may arise;
   >     - **(E)** be responsible for administering the policies and procedures required to be established pursuant to this section;
   >     - **(F)** ensure compliance with securities laws and the rules and regulations issued thereunder, including rules prescribed by the Commission pursuant to this section; and
-  >     - **(G)** shall establish procedures—
+  >     - **(G)** establish procedures—
   >       - **(i)** for the receipt, retention, and treatment of complaints regarding credit ratings, models, methodologies, and compliance with the securities laws and the policies and procedures required under this section;
-  >       - **(ii)** for the receipt, retention, and treatment of confidential, anonymous complaints by employees, issuers, and investors;
+  >       - **(ii)** for the receipt, retention, and treatment of confidential, anonymous complaints by employees, obligors, issuers, and investors;
   >       - **(iii)** for the remediation of non-compliance issues found during compliance office reviews, the reviews required under paragraph (7), internal or external audit findings, self-reported errors, or through validated complaints; and
-  >       - **(iv)** designed so that ratings that the nationally recognized statistical rating organization disseminates reflect consideration of all information that comes to the attention of and is believed by the nationally recognized statistical rating organization to be relevant, in a manner generally consistent with the nationally recognized statistical rating organization’s published rating methodology, including information which is provided, received, or otherwise obtained from issuer and non-issuer sources, such as investors, the media, and other interested or informed parties.
+  >       - **(iv)** designed so that ratings that the nationally recognized statistical rating organization disseminates reflect consideration of all information in a manner generally consistent with the nationally recognized statistical rating organization’s published rating methodology, including information which is provided, received, or otherwise obtained from obligor, issuer and non-issuer sources, such as investors, the media, and other interested or informed parties.
   >   - **(3)** *Limitations* The compliance officer shall not, while serving in that capacity—
   >     - **(A)** determine credit ratings;
-  >     - **(B)** participate in the establishment of the procedures and methodologies or the quantitative models and qualitative inputs used to determine credit ratings;
+  >     - **(B)** participate in the establishment of the procedures and methodologies or the qualitative methodologies and quantitative inputs used to determine credit ratings;
   >     - **(C)** perform marketing or sales functions; or
   >     - **(D)** participate in establishing compensation levels, other than for employees working for the compliance officer.
   >   - **(4)** *Annual reports required* The compliance officer shall annually prepare and sign a report on the compliance of the nationally recognized statistical rating organization with the securities laws and such organization’s internal policies and procedures, including its code of ethics and conflict of interest policies, in accordance with rules prescribed by the Commission. Such compliance report shall accompany the financial reports of the nationally recognized statistical rating organization that are required to be filed with the Commission pursuant to this section and shall include a certification that, under penalty of law, the report is accurate and complete.
+  >   - **(5)** *Compensation* The compensation of the compliance officer shall not be linked to the business performance of the nationally recognized statistical rating organization and shall be arranged so as to ensure the independence of the officer’s judgment.
 
 - **(8)** in subsection (k)—
   - **(A)** by striking “, on a confidential basis,”;
-  - **(B)** by striking “Each nationally” and inserting the following:
+  - **(B)** by striking “furnish to” and inserting “file with”;
+  - **(C)** by striking “Each nationally” and inserting the following:
     > - **(1)** *In general* Each nationally
 
-  - **(C)** by adding at the end the following new paragraph:
-    > - **(2)** *Exception* The Commission may treat as confidential any item filed with the Commission under paragraph (1), the publication of which the Commission determines may have a harmful effect on a nationally recognized statistical rating organization.
+  - **(D)** by adding at the end the following new paragraph:
+    > - **(2)** *Exception* The Commission may treat as confidential any information provided by a nationally recognized statistical rating organization under this section consistent with applicable Federal laws or Commission rules.
 
 - **(9)** in subsection (l)(2)(A)(i), by striking “furnished” and inserting “filed”;
 - **(10)** by amending subsection (p) to read as follows:
-  > - **(p)** *Establishment of SEC office* The Commission shall establish an office that administers the rules of the Commission with respect to the practices of nationally recognized statistical rating organizations in determining ratings, in the public interest and for the protection of investors, including rules designed to ensure that credit ratings issued by such registrants are accurate and not unduly influenced by conflicts of interest.
+  > - **(p)** *Establishment of SEC office*
+  >   - **(1)** *In general* The Commission shall establish an office that administers the rules of the Commission with respect to the practices of nationally recognized statistical rating organizations.
+  >   - **(2)** *Staffing* The office of the Commission established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section.
+  >   - **(3)** *Rulemaking authority* The Commission shall—
+  >     - **(A)** establish, by rule, fines and other penalties for any nationally recognized statistical rating organization that violates the applicable requirements of this title; and
+  >     - **(B)** issue such rules as may be necessary to carry out this section with respect to nationally recognized statistical rating organizations.
 
 - **(11)** by adding after subsection (p) the following new subsections:
   > - **(q)** *Transparency of ratings performance*
@@ -136,14 +148,15 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >   - **(2)** *Content* The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
   >     - **(A)** are comparable among nationally recognized statistical rating organizations, so that investors can compare rating performance across rating organizations;
   >     - **(B)** are clear and informative for a wide range of investor sophistication;
-  >     - **(C)** include performance information over a range of years and for a variety of classes of credit ratings, as determined by the Commission; and
-  >     - **(D)** are published and made freely available by the nationally recognized statistical rating organization, on an easily accessible portion of its website and in written form when requested by investors.
+  >     - **(C)** include performance information over a range of years and for a variety of classes of credit ratings, as determined by the Commission;
+  >     - **(D)** are published and made freely available by the nationally recognized statistical rating organization, on an easily accessible portion of its website and in written form when requested by investors; and
+  >     - **(E)** each nationally recognized statistical rating organization include an attestation with any credit rating it issues affirming that no part of the rating was influenced by any other business activities, that the rating was based solely on the merits of the instruments being rated, and that such rating was an independent evaluation of the risks and merits of the instrument.
   > - **(r)** *Credit ratings methodologies*
-  >   - **(1)** *In general* The Commission shall prescribe rules, in the public interest and for the protection of investors, that require each nationally recognized statistical rating organization to establish, maintain, and enforce written procedures and methodologies that are reasonably designed to—
-  >     - **(A)** ensure that credit ratings are determined using procedures and methodologies, including quantitative models and qualitative inputs that are determined in accordance with the policies and procedures of the nationally recognized statistical rating organization for developing and modifying credit rating procedures and methodologies;
-  >     - **(B)** ensure that when major changes to credit rating procedures and methodologies, including to quantitative models and qualitative inputs, are made, that the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply and, to the extent the changes are made to credit rating surveillance procedures and methodologies, they are applied to current credit ratings within a time period to be determined by the Commission by rule, and that the reason for the change is publicly disclosed;
-  >     - **(C)** notify persons who have access to the credit ratings of the nationally recognized statistical rating organization, regardless of whether they are made readily accessible for free or a reasonable fee, of the version of a procedure or methodology, including quantitative models and qualitative inputs, used with respect to a particular credit rating;
-  >     - **(D)** notify persons who have access to the credit ratings of the nationally recognized statistical rating organization, regardless of whether they are made readily accessible for free or a reasonable fee, when a change is made to a procedure or methodology, including to quantitative models and qualitative inputs, or an error is identified in a procedure or methodology that may result in credit rating actions, and the likelihood of the change resulting in current credit ratings being subject to rating actions; and
+  >   - **(1)** *In general* The Commission shall prescribe rules, in the public interest and for the protection of investors, that require each nationally recognized statistical rating organization to establish, maintain, and enforce written procedures and methodologies and an internal control system with respect to such procedures and methodologies that are reasonably designed to—
+  >     - **(A)** ensure that credit ratings are determined using procedures and methodologies, including qualitative methodologies and quantitative inputs that are determined in accordance with the policies and procedures of the nationally recognized statistical rating organization for developing and modifying credit rating procedures and methodologies;
+  >     - **(B)** ensure that when major changes to credit rating procedures and methodologies, including to qualitative methodologies and quantitative inputs, are made, that the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply and, to the extent the changes are made to credit rating surveillance procedures and methodologies, they are applied to current credit ratings within a time period to be determined by the Commission by rule, and that the reason for the change is publicly disclosed;
+  >     - **(C)** notify persons who have access to the credit ratings of the nationally recognized statistical rating organization, regardless of whether they are made readily accessible for free or a reasonable fee, of the procedure or methodology, including qualitative methodologies and quantitative inputs, used with respect to a particular credit rating;
+  >     - **(D)** notify persons who have access to the credit ratings of the nationally recognized statistical rating organization, regardless of whether they are made readily accessible for free or a reasonable fee, when a change is made to a procedure or methodology, including to qualitative methodologies and quantitative inputs, or an error is identified in a procedure or methodology that may result in credit rating actions, and the likelihood of the change resulting in current credit ratings being subject to rating actions; and
   >     - **(E)** use credit rating symbols that distinguish credit ratings for structured products from credit ratings for other products that the Commission determines appropriate or necessary in the public interest and for the protection of investors.
   >   - **(2)** *Rating clarity and consistency*
   >     - **(A)** *Commission obligation* Subject to subparagraphs (B) and (C), the Commission shall require, by rule, each nationally recognized statistical rating organization to establish, maintain, and enforce written policies and procedures reasonably designed—
@@ -152,7 +165,7 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >       - **(iii)** to apply such credit rating symbol in a consistent manner for all types of securities and money market instruments.
   >     - **(B)** *Additional credit factors* Nothing in subparagraph (A)—
   >       - **(i)** prohibits a nationally recognized statistical rating organization from using additional credit factors that are documented and disclosed by the organization and that have a demonstrated impact on the risk an investor in a security or money market instrument will not receive repayment in accordance with the terms of issuance;
-  >       - **(ii)** prohibits a nationally recognized statistical rating organization from considering credit factors that are unique to municipal securities that are not backed by the issuer’s full faith and credit in its assessment of the risk an investor in a security or money market instrument will not receive repayment in accordance with the terms of issuance; or
+  >       - **(ii)** prohibits a nationally recognized statistical rating organization from considering credit factors that are unique to municipal securities; or
   >       - **(iii)** prohibits a nationally recognized statistical rating organization from using an additional symbol with respect to the ratings described in subparagraph (A)(i) for the purpose of distinguishing the ratings of a certain type of security or money market instrument from ratings of any other types of securities or money market instruments.
   >     - **(C)** *Complementary ratings* The Commission shall not impose any requirement under subparagraph (A) that prevents nationally recognized statistical rating organizations from establishing ratings that are complementary to the ratings described in subparagraph (A)(i) and that are created to measure a discrete aspect of the security’s or instrument’s risk.
   > - **(s)** *Transparency of credit rating methodologies and information reviewed*
@@ -161,9 +174,9 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >     - **(A)** is designed in a user-friendly and helpful manner for investors to understand the information contained in the report;
   >     - **(B)** requires the nationally recognized statistical rating organization to provide the content, as required by paragraph (3), in a manner that is directly comparable across securities; and
   >     - **(C)** the nationally recognized statistical rating organization certifies the information on the form as true and accurate.
-  >   - **(3)** *Content* The Commission shall prescribe a form that requires a nationally recognized statistical rating organization to disclose—
-  >     - **(A)** the main assumptions included in constructing procedures and methodologies, including quantitative models and qualitative inputs and assumptions about the correlation of defaults across obligors used in rating certain structured products;
-  >     - **(B)** the potential shortcomings of the credit ratings, and the types of risks not measured in the credit ratings that the registrant is not commenting on, such as liquidity, market, and other risks;
+  >   - **(3)** *Content* The Commission shall prescribe a form that requires a nationally recognized statistical rating organization to disclose —
+  >     - **(A)** the main assumptions included in constructing procedures and methodologies, including qualitative methodologies and quantitative inputs and assumptions about the correlation of defaults across underlying assets used in rating certain structured products;
+  >     - **(B)** the potential shortcomings of the credit ratings, and the types of risks not measured in the credit ratings that the nationally recognized statistical rating organization is not commenting on, such as liquidity, market, and other risks;
   >     - **(C)** information on the certainty of the rating, including information on the reliability, accuracy, and quality of the data relied on in determining the ultimate credit rating and a statement on the extent to which key data inputs for the credit rating were reliable or limited, including any limits on the reach of historical data, limits in accessibility to certain documents or other forms of information that would have better informed the credit rating, and the completeness of certain information considered;
   >     - **(D)** whether and to what extent third party due diligence services have been utilized, and a description of the information that such third party reviewed in conducting due diligence services;
   >     - **(E)** a description of relevant data about any obligor, issuer, security, or money market instrument that was used and relied on for the purpose of determining the credit rating;
@@ -172,51 +185,147 @@ Section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) is amende
   >     - **(H)** information on the content of the credit rating, including—
   >       - **(i)** the expected default probability; and
   >       - **(ii)** the loss given default;
-  >     - **(I)** information on the sensitivity of the rating to assumptions made by the nationally recognized statistical rating organization;
+  >     - **(I)** information on the sensitivity of the rating to assumptions made by the nationally recognized statistical rating organization, including—
+  >       - **(i)** 5 assumptions made in the ratings process that, without accounting for any other factor, would have the greatest impact on a rating if such assumptions were proven false or inaccurate; and
+  >       - **(ii)** an analysis, using concrete examples, on how each of the 5 assumptions identified under clause (i) impacts a rating.
   >     - **(J)** where applicable, how the nationally recognized statistical rating organization used servicer or remittance reports, and with what frequency, to conduct surveillance of the credit rating; and
   >     - **(K)** such additional information as may be required by the Commission.
   >   - **(4)** *Due diligence services*
-  >     - **(A)** *Certification required* In any case in which third-party due diligence services are employed by a nationally recognized statistical rating organization or an issuer or underwriter in connection with the issuance of a credit rating, the firm providing the due diligence services shall provide to the nationally recognized statistical rating organization written certification of such due diligence, which shall be subject to review by the Commission, and the issuer or underwriter shall provide any reports issued by the provider of such due diligence services to the nationally recognized statistical rating organization.
+  >     - **(A)** *Certification required* In any case in which third-party due diligence services are employed by a nationally recognized statistical rating organization or an issuer, underwriter, or sponsor in connection with the issuance of a credit rating, the firm providing the due diligence services shall provide to the nationally recognized statistical rating organization written certification of such due diligence, which shall be subject to review by the Commission, and the issuer, underwriter, or sponsor shall provide any reports issued by the provider of such due diligence services to the nationally recognized statistical rating organization.
   >     - **(B)** *Format and content* The Commission shall establish the appropriate format and content for written certifications required under subparagraph (A) to ensure that providers of due diligence services have conducted a thorough review of data, documentation, and other relevant information necessary for the nationally recognized statistical rating organization to provide an reliable rating.
   >     - **(C)** *Disclosure of certification* The Commission shall adopt rules requiring a nationally recognized statistical rating organization to disclose to persons who have access to the credit ratings of the nationally recognized statistical rating organization regardless of whether they are made readily accessible for free or a reasonable fee the certification described in subparagraph (A) with the publication of the applicable credit rating in a manner that may permit the persons to determine the adequacy and level of due diligence services provided by the third party.
-  > - **(t)** *Prohibited activities*
-  >   - **(1)** *In general* Except as provided in paragraph (2), beginning 180 days from the date of enactment of the Accountability, Reliability, and Transparency in Rating Agencies Act, it shall be unlawful for a nationally recognized statistical rating organization, or an affiliate of a nationally recognized statistical rating organization, or any person associated with a nationally recognized statistical rating organization, to the extent determined appropriate by the Commission, that provides a rating for an issuer, underwriter, or placement agent of a security to provide to that issuer, underwriter, or placement agent, any non-rating service that preceded the retention of the nationally recognized statistical rating organization by the issuer, underwriter, or placement agent to provide a rating for the security in question or any assistance provided after such point for which additional compensation is paid directly or indirectly, including—
-  >     - **(A)** risk management advisory services;
-  >     - **(B)** advice or consultation relating to any merger, sales, or disposition of assets of the issuer;
-  >     - **(C)** ancillary assistance, advice, or consulting services unrelated to any specific credit rating issuance; and
-  >     - **(D)** such further activities or services as the Commission may determine as necessary or appropriate in the public interest or for the protection of investors.
-  >   - **(2)** *Exemption authority* The Commission may, on a case by case basis, exempt any person, issuer, underwriter, placement agent, or nationally recognized statistical rating organization from the prohibition in subsection (t), to the extent that such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors, and subject to review by the Commission.
+  > - **(t)** *Prohibited activities* Beginning 180 days from the date of enactment of the Accountability, Reliability, and Transparency in Rating Agencies Act, it shall be unlawful for a nationally recognized statistical rating organization, or an affiliate of a nationally recognized statistical rating organization, or any person associated with a nationally recognized statistical rating organization, that provides a credit rating for an issuer, underwriter, or placement agent of a security to provide any non-rating service, including—
+  >   - **(1)** risk management advisory services;
+  >   - **(2)** advice or consultation relating to any merger, sales, or disposition of assets of the issuer;
+  >   - **(3)** ancillary assistance, advice, or consulting services unrelated to any specific credit rating issuance; and
+  >   - **(4)** such further activities or services as the Commission may determine as necessary or appropriate in the public interest or for the protection of investors.
 
 ## § 3. Standards for private actions
 
-- **(a)** *In general* Section 21D(b)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–4(b)(2)) is amended by inserting before the period at the end of the following: “, and in the case of an action brought under this title for money damages against a nationally recognized statistical rating organization, it shall be sufficient for purposes of pleading any required state of mind for purposes of such action that the complaint shall state with particularity facts giving rise to a strong inference that the nationally recognized statistical rating organization knowingly or recklessly violated the securities laws.”.
-- **(b)** *Pleading standard* Section 15E(m) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7(m)) amended to read as follows:
+- **(a)** *In general* Section 21D(b)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u-4(b)(2)) is amended by inserting before the period at the end of the following: “, and in the case of an action brought under this title for money damages against a nationally recognized statistical rating organization, it shall be sufficient for purposes of pleading any required state of mind for purposes of such action that the complaint shall state with particularity facts giving rise to a strong inference that the nationally recognized statistical rating organization knowingly or recklessly violated the securities laws”.
+- **(b)** *Pleading standard* Section 15E(m) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-7(m)) amended to read as follows:
   > - **(m)** *application of enforcement provisions; pleading standard in private rights of action* Statements made by nationally recognized statistical rating organizations shall not be deemed forward looking statements for purposes of section 21E. In any private right of action commenced against a nationally recognized statistical rating organization under this title, the same pleading standards with respect to knowledge and recklessness shall apply to the nationally recognized statistical rating organization as would apply to any other person in the same or a similar private right of action against such person.
 
 ## § 4. Issuer disclosure of preliminary ratings
 
 The Securities and Exchange Commission shall adopt rules under authority of the Securities Act of 1933 (15 U.S.C. 77a, et seq.) to require issuers to disclose preliminary credit ratings received from nationally recognized statistical rating agencies on structured products and all forms of corporate debt.
 
-## § 5. Timeline for Regulations
+## § 5. Change to designation
+
+The Securities Act of 1933 and the Securities Exchange Act of 1934 are each amended by striking “nationally recognized statistical rating” each place it appears and inserting “nationally registered statistical rating”.
+
+## § 6. Timeline for Regulations
 
 Unless otherwise specified in this Act, the Securities and Exchange Commission shall adopt rules and regulations, as required by the amendments made by this Act, not later than 365 days after the date of enactment.
 
-## § 6. Federal agency review of reliance on ratings
+## § 7. Elimination of exemption from fair disclosure rule
 
-- **(a)** *Review* Not later than 1 year after the date of the enactment of this Act, each Federal agency and department shall, to the extent applicable, review—
-  - **(1)** any regulation issued by such agency or department that requires the use of an assessment of the creditworthiness of a security or money market instrument; and
-  - **(2)** its policies and practices with regard to such ratings,
-- **(b)** *Report* Upon conclusion of the review required under subsection (a), each Federal agency and department shall submit a report to the Congress containing a description of—
-  - **(1)** any modification of any regulation such agency or department made following the review required by subsection (a); and
-  - **(2)** each regulation issued by such agency or department that requires the use of an assessment of the creditworthiness of a security or money market instrument that such agency or department did not modify pursuant to subsection (a), accompanied by an explanation of why such modification could not be made.
+Not later than 90 days after the date of enactment of this Act, the Securities Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).
 
-## § 7. Studies and reports
+## § 8. Advisory Board
+
+- **(a)** *Establishment* Not later than 90 days after the date of the enactment of this Act, the Securities and Exchange Commission shall establish an advisory board to be known as the Credit Ratings Agency Advisory Board (in this section referred to as “the Board”).
+- **(b)** *Appointment and terms of service* The Board shall consist of 7 members appointed by the Commission, no more than 2 of whom may be former employees of a credit rating agency. Members of the Board shall be prominent individuals of integrity and reputation who have a demonstrated commitment to the interests of investors and the public, and an understanding of the role that credit ratings play to a broad range of investors. Terms of service shall be staggered as determined by the Commission.
+- **(c)** *Duties* The Board shall—
+  - **(1)** advise the Commission concerning the rules and regulations required by the amendments made by this Act;
+  - **(2)** insure that the Commission properly and fully executes its oversight functions and responsibilities with the respect to nationally recognized statistical rating organizations and individual participants; and
+  - **(3)** issue an annual report to Congress detailing its work and recommending any additional Congressional actions necessary to aid the Commission and such additional reports from time to time as appropriate when it feels that the Commission is not properly executing its oversight functions.
+
+## § 9. Removal of statutory references to credit ratings
+
+- **(a)** *Federal Deposit Insurance Act* The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended—
+  - **(1)** in section 28(d)—
+    - **(A)** in the subsection heading, by striking “not of investment grade”;
+    - **(B)** in paragraph (1), by striking “not of investment grade” and inserting “that does not meet standards of credit-worthiness as established by the Corporation”;
+    - **(C)** in paragraph (2), by striking “not of investment grade”;
+    - **(D)** by striking paragraph (3) and redesignating paragraph (4) as paragraph (3); and
+    - **(E)** in paragraph (3) (as so redesignated)—
+      - **(i)** by striking subparagraph (A) and redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and
+      - **(ii)** in subparagraph (B) (as so redesignated), by striking “not of investment grade” and inserting “that does not meet standards of credit-worthiness as established by the Corporation”;
+  - **(2)** in section 28(e)—
+    - **(A)** in the subsection heading, by striking “not of investment grade”;
+    - **(B)** in paragraph (1), by striking “not of investment grade” and inserting “that does not meet standards of credit-worthiness as established by the Corporation”; and
+    - **(C)** in paragraphs (2) and (3), by striking “not of investment grade” each place that it appears and inserting “that does not meet standards of credit-worthiness established by the Corporation”; and
+  - **(3)** in section 7(b)(1)(E)(i), by striking “credit rating entities, and other private economic” and insert “private economic, credit,”.
+- **(b)** *Federal Housing Enterprises Financial Safety and Soundness Act of 1992* Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519) is amended—
+  - **(1)** in the section heading, by striking “by rating organization”; and
+  - **(2)** by striking “that is a nationally recognized statistical rating organization, as such term is defined in section 3(a) of the Securities Exchange Act of 1934,”.
+- **(c)** *Investment Company Act of 1940* Section 6(a)(5)(A)(iv)(I) Investment Company Act of 1940 (15 U.S.C. 80a-6(a)(5)(A)(iv)(I)) is amended by striking “is rated investment grade by not less than 1 nationally recognized statistical rating organization” and inserting “meets such standards of credit-worthiness that the Commission shall adopt”.
+- **(d)** *Revised Statutes* Section 5136A of title LXII of the Revised Statutes of the United States (12 U.S.C. 24a) is amended—
+  - **(1)** in subsection (a)(2)(E), by striking “any applicable rating” and inserting “standards of credit-worthiness established by the Comptroller of the Currency”;
+  - **(2)** in the heading for subsection (a)(3) by striking “Rating or comparable requirement” and inserting “Requirement”;
+  - **(3)** subsection (a)(3), by amending subparagraph (A) to read as follows:
+    > - **(A)** *In general* A national bank meets the requirements of this paragraph if the bank is one of the 100 largest insured banks and has not fewer than 1 issue of outstanding debt that meets standards of credit-worthiness or other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish.
+
+  - **(4)** in the heading for subsection (f), by striking “maintain public rating or” and inserting “meet standards of credit-worthiness”; and
+  - **(5)** in subsection (f)(1), by striking “any applicable rating” and inserting “standards of credit-worthiness established by the Comptroller of the Currency”.
+- **(e)** *Securities Exchange Act of 1934* Section 3(a) Securities Exchange Act of 1934 (15 U.S.C. 78a(3)(a)) is amended—
+  - **(1)** in paragraph (41), by striking “is rated in one of the two highest rating categories by at least one nationally recognized statistical rating organization” and inserting “meets standards of credit-worthiness as defined by the Commission”; and
+  - **(2)** in paragraph (53)(A), by striking “is rated in 1 of the 4 highest rating categories by at least 1 nationally recognized statistical rating organization” and inserting “meets standards of credit-worthiness as defined by the Commission”.
+- **(f)** *World Bank discussions* Section 3(a)(6) of the amendment in the nature of a substitute to the text of H.R. 4645, as ordered reported from the Committee on Banking, Finance and Urban Affairs on September 22, 1988, as enacted into law by section 555 of Public Law 100-461, (22 U.S.C. 286hh(a)(6)), is amended by striking “rating” and inserting “worthiness”.
+- **(g)** *Effective date* The amendments made by this section shall take effect after the end of the 6-month period beginning on the date of the enactment of this Act.
+
+## § 10. Review of reliance on ratings
+
+- **(a)** *Agency Review*
+  - **(1)** *Review* Not later than 1 year after the date of the enactment of this Act, each Federal agency listed in paragraph (4) shall, to the extent applicable, review—
+    - **(A)** any regulation issued by such agency that requires the use of an assessment of the credit-worthiness of a security or money market instrument, and
+    - **(B)** any references to or requirements in such regulations regarding credit ratings.
+  - **(2)** *Modifications required* Each such agency shall modify any such regulations identified by the review conducted under paragraph (1) to remove any reference to or requirement of reliance on credit ratings and to substitute in such regulations such standard of credit-worthiness as each respective agency shall determine as appropriate for such regulations. In making such determination, such agencies shall seek to establish, to the extent feasible, uniform standards of credit-worthiness for use by each such agency, taking into account the entities regulated by each such agency and the purposes for which such entities would rely on such standards of credit-worthiness.
+  - **(3)** *Report* Upon conclusion of the review required under paragraph (1), each Federal agency listed in paragraph (4) shall transmit a report to Congress containing a description of any modification of any regulation such agency made pursuant to paragraph (2).
+  - **(4)** *Applicable agencies* The agencies required to conduct the review and report required by this subsection are—
+    - **(A)** the Securities and Exchange Commission;
+    - **(B)** the Federal Deposit Insurance Corporation;
+    - **(C)** the Office of Thrift Supervision;
+    - **(D)** the Office of the Comptroller of the Currency;
+    - **(E)** the Board of Governors of the Federal Reserve;
+    - **(F)** the National Credit Union Administration; and
+    - **(G)** the Federal Housing Finance Agency.
+- **(b)** *GAO review of other agencies*
+  - **(1)** *Review* The Comptroller General shall conduct a comprehensive review of the use of credit ratings by Federal agencies other than those listed in subsection (a)(3), including an analysis of the provisions of law or regulation applicable to each such agency that refer to and require the use of credit ratings by the agency, and the policies and practices of each agency with respect to credit ratings.
+  - **(2)** *Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall transmit to Congress a report on the findings of the study conducted pursuant to paragraph (1), including recommendations for any legislation or rulemaking necessary or appropriate in order for such agencies to reduce their reliance on credit ratings.
+
+## § 11. Publication of rating histories on the EDGAR system
+
+Not later than 180 days after the date of the enactment of this Act, the Securities and Exchange Commission shall revise its rules in section 240.17g-2(a) and (d) of title 17, Code of Federal Regulations, to require that the random sample of ratings histories of credit ratings required under such rules to be disclosed on the website of a nationally recognized statistical rating organization also be provided to the Commission in a format consistent with publication by the Commission on the EDGAR system.
+
+## § 12. Effect of Rule 436(g)
+
+Rule 436(g), promulgated by the Securities and Exchange Commission under the Securities Act of 1933, shall have no force or effect.
+
+## § 13. Studies
 
 - **(a)** *GAO Study*
   - **(1)** *In general* The Comptroller General shall conduct a study of—
     - **(A)** the implementation of this Act and the amendments made by this Act by the Securities and Exchange Commission;
-    - **(B)** the appropriateness of relying on ratings for use in Federal, State, and local securities and banking regulations, including for determining capital requirements;
-    - **(C)** the effect of liability in private actions arising under the Securities Exchange Act of 1934; and
-    - **(D)** alternative means for compensating credit rating agencies that would create incentives for accurate credit ratings and what, if any, statutory changes would be required to permit or facilitate the use of such alternative means of compensation.
+    - **(B)** the appropriateness of relying on ratings for use in Federal, State, and local securities and banking regulations, including for determining capital requirements; and
+    - **(C)** the effect of liability in private actions arising under the Securities Exchange Act of 1934;
+    - **(D)** alternative means for compensating credit rating agencies that would create incentives for accurate credit ratings and what, if any, statutory changes would be required to permit or facilitate the use of such alternative means of compensation; and
+    - **(E)** alternative methodologies to assess credit risk, including market-based measures.
   - **(2)** *Report* Not later than 30 months after the date of enactment of this Act, the Comptroller General shall submit to Congress and the Securities Exchange Commission, a report containing the findings under the study required by subsection (a).
-- **(b)** *SEC Study* The Securities and Exchange Commission shall undertake a study on creating a system whereby nationally recognized statistical rating organizations are assigned on a rotating basis to issuers seeking a credit rating. Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall transmit to Congress a report containing the findings of the study.
+- **(b)** *SEC Study on assigning credit rating agencies on a rotating basis* The Securities and Exchange Commission shall undertake a study on creating a system whereby nationally recognized statistical rating organizations are assigned on a rotating basis to issuers and obligors seeking a credit rating. Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall transmit to Congress a report containing the findings of the study.
+- **(c)** *SEC Study on effect of new requirements on NRSRO registration* The Securities and Exchange Commission shall conduct a study on the effect of the amendments made by section 2 on credit rating agencies seeking to register as nationally recognized statistical rating organizations, including whether the new requirements in such amendments deter credit rating agencies from registering as nationally recognized statistical rating organizations. Not later than 1 year after the date of enactment of this Act, the Commission shall transmit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the findings of such study.
+- **(d)** *Study of credit ratings of different classes of bonds*
+  - **(1)** *Study* The Securities and Exchange Commission shall conduct a study of the treatment of different classes of bonds (municipal versus corporate) by the nationally recognized statistical rating organizations. Such study shall examine—
+    - **(A)** whether there are fundamental differences in the treatment of different classes of bonds by such rating organizations that cause some classes of bonds to suffer from undue discrimination;
+    - **(B)** if there are such differences, what are the causes of such differences and how can they be alleviated;
+    - **(C)** whether there are factors other than risk of loss that are appropriate for the credit ratings agencies to consider when rating bonds, and do those factors vary across different sectors
+    - **(D)** the types of financing arrangement used by municipal issuers
+    - **(E)** the differing legal and regulatory regimes governing disclosures for corporate bonds and municipal bonds;
+    - **(F)** the extent to which retail investors could be disadvantaged by a single ratings scale; and
+    - **(G)** practices, policies, and methodologies by the nationally recognized statistical rating organizations with respect to rating municipal bonds.
+  - **(2)** *Report* Within 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall submit a report on the results of the study required by paragraph (1) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Development of the Senate. Such report shall include as assessment of each of the issues and subjects described in subparagraphs (A) through (G) of paragraph (1).
+- **(e)** *SEC study on Meaningful Multi Digit Rating Symbols*
+  - **(1)** *Study* The Securities and Exchange Commission shall conduct a study on the feasibility and desirability of implementing a standardized rating system whereby ratings symbols contain multiple characters, each representing a range of default probabilities and loss expectations under standardized and increasingly severe levels of market stress. The study shall optimize the definitions of the symbols to maximize their overall usefulness for users of credit ratings.
+  - **(2)** *Initial example for guidance* An example to provide initial guidance for the study is a ratings symbol consisting of three digits, each of which corresponds to default probabilities under different levels of market stress as follows:
+    - **(A)** The first digit represents the default probability under “normal” market stress, characterized by normal economic fluctuations in addition to a 5 percent decline in asset value and 2 percent increase in unemployment.
+    - **(B)** The second digit represents the default probability under more severe market stress, characterized a 20 percent decline in asset value and 5 percent increase in unemployment.
+    - **(C)** The third digit represents the default probability under extreme market stress, characterized by a 50 percent decline in asset value and 10 percent increase in unemployment.
+  - **(3)** *Report* Not later than 1 year after the date of the enactment of this Act, the Commission shall transmit to Congress a report of the study conducted pursuant to paragraph (1), including recommendations on whether the system similar to that described in paragraph (2) should be implemented and, if so, any necessary legislation required to implement such a system.
+- **(f)** *SEC Study on ratings standardization*
+  - **(1)** *In general* The Securities and Exchange Commission shall undertake a study on the feasability and desirability of—
+    - **(A)** standardizing credit ratings terminology, so that all credit rating agencies issue credit ratings using identical terms;
+    - **(B)** standardizing the market stress conditions under which ratings are evaluated;
+    - **(C)** requiring a quantitative correspondence between credit ratings and a range of default probabilities and loss expectations under standardized conditions of economic stress; and
+    - **(D)** standardizing credit rating terminology across asset classes, so that named ratings shall correspond to a standard range of default probabilities and expected losses independent of asset class and issuing entity.
+  - **(2)** *Report* Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall transmit to Congress a report containing the findings of the study and the recommendations of the Commission.
