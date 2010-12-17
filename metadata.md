@@ -1,7 +1,7 @@
 ---
 measure: S. 4036
 congress: 111
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 4036
@@ -28,3 +28,17 @@ A bill to clarify the National Credit Union Administration authority to make sta
 - 2010-12-17 — Message on Senate action sent to the House.
 - 2010-12-17 — Received in the House.
 - 2010-12-17 — Referred to the House Committee on Financial Services.
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Committee on Financial Services discharged.
+- 2010-12-22 — Committee on Financial Services discharged.
+- 2010-12-22 — Considered by unanimous consent. (consideration: CR H8975-8976)
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Klein (FL) asked unanimous consent to discharge from committee and consider.
+- 2010-12-22 — On passage Passed without objection. (text: CR H8975-8976)
+- 2010-12-22 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8975-8976)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-382.
+- 2011-01-04 — Became Public Law No: 111-382.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
