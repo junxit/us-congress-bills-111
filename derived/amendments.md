@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3818
 congress: 111
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,16 +31,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 202(a) of the Investment Advisers Act of 1934 (15 U.S.C. 80b–2(a)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2(a)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “, except an investment adviser who acts as an investment adviser to any private fund,” after “any investment adviser”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (5), by striking “or” at the end; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (5), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “or”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking the period at the end and adding “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | Section 210 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–10) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | Section 210 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-10) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-3), as amended by section 6, is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 205(e) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-5(e)) is amended by adding at the end the following: “With respect to any factor used by the Commission in making a determination under this subsection, if the Commissi… | the bill names no machine-readable US Code section |
