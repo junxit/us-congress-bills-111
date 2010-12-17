@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 105
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
