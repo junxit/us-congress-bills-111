@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 335
-congress: 111th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 335
@@ -17,7 +17,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas from 1970 to 1972 Ambassador Holbrooke served as the Peace Corps Director in Morocco;
 - Whereas Ambassador Holbrooke was the only person to have served as Assistant Secretary of State for two regions of the world, having served as Assistant Secretary of State for East Asian and Pacific Affairs from 1977 to 1981, during which he was a tireless advocate for the expanded admission of tens of thousands of Indochinese refugees to the United States, and as Assistant Secretary of State for European and Canadian Affairs from 1994 to 1996;
 - Whereas Ambassador Holbrooke brokered the 1995 Dayton Accords which ended over 3 years of bloody sectarian war that took the lives of more than 100,000 Bosnians;
-- Whereas Ambassador Holbrooke marshaled many diplomatic and military tool and deftly negotiated concessions from all warring factions that created the conditions for peace;
+- Whereas Ambassador Holbrooke marshaled many diplomatic and military tools and deftly negotiated concessions from all warring factions that created the conditions for peace;
 - Whereas Ambassador Holbrooke’s relentless pursuit of a negotiated solution to ethnic and religious conflict in Bosnia saved tens of thousands of innocent lives;
 - Whereas Ambassador Holbrooke served as United States Ambassador to Germany from 1993 to 1994, where he helped to found the American Academy of Berlin, a center for United States-German cultural exchange;
 - Whereas from 1999 to 2001, Ambassador Holbrooke served as the United States Permanent Representative to the United Nations where he was a critical partner in the implementation of Congressionally-led efforts to lower the dues the United States paid to the United Nations, to implement certain reforms to the United Nations financial system, to settle substantial and longstanding United States arrears to the United Nations, to improve management within the United Nations, to include Israel in the United Nations’ Western European and Others Group, to end Israel’s longtime exclusion from regional deliberations, to render more effective the United Nations' efforts to address conflicts and save lives in Africa and East Timor, and to raise the profile of public health as a matter of global security, including through debate and passage of United Nations Security Council Resolution 1308 on HIV/AIDS;

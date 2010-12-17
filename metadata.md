@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 335
 congress: 111
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 335
@@ -38,3 +38,6 @@ Honoring the exceptional achievements of Ambassador Richard Holbrooke and recogn
 - 2010-12-17 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H8613)
 - 2010-12-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H8613)
 - 2010-12-17 — Received in the Senate.
+- 2010-12-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10696-10697)
+- 2010-12-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10696-10697)
+- 2010-12-20 — Message on Senate action sent to the House.
