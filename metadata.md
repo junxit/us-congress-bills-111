@@ -1,7 +1,7 @@
 ---
 measure: S. 1481
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1481
@@ -51,3 +51,16 @@ Frank Melville Supportive Housing Investment Act of 2010
 - 2010-12-17 — Senate amendment agreed to: Amendment SA 4836 agreed to in Senate by Unanimous Consent.
 - 2010-12-17 — Senate amendment proposed (on the floor): Amendment SA 4836 proposed by Senator Kerry for Senator Johanns.(consideration: CR S10447-10448; text: CR S10447-10448)
 - 2010-12-17 — Senate amendment submitted
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Considered under suspension of the rules. (consideration: CR H8806-8811)
+- 2010-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 1481.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Murphy (CT) moved to suspend the rules and pass the bill.
+- 2010-12-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8806-8809)
+- 2010-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8806-8809)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-374.
+- 2011-01-04 — Became Public Law No: 111-374.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
