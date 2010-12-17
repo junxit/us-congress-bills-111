@@ -2,56 +2,40 @@
 legis-num: H.R. 5901
 congress: 111th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5901
 
-> To amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investment in United States real property interests, and for other purposes.
+That the bill from the House of Representatives (H.R. 5901) entitled “An Act to amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investment in United States real property interests, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the enacting clause and insert the following:*
 
-This Act may be cited as the “Real Estate Jobs and Investment Act of 2010”.
+## § 1. Authority of tax court to appoint employees
 
-## § 2. Exception from FIRPTA for certain stock of real estate investment trusts
+- **(a)** *In general* Subsection (a) of section 7471 of the Internal Revenue Code of 1986 (relating to employees) is amended to read as follows:
+  > - **(a)** *Appointment and compensation*
+  >   - **(1)** *Clerk* The Tax Court may appoint a clerk without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. The clerk shall serve at the pleasure of the Tax Court.
+  >   - **(2)** *Judge-appointed employees*
+  >     - **(A)** *In general* The judges and special trial judges of the Tax Court may appoint employees, in such numbers as the Tax Court may approve, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Any such employee shall serve at the pleasure of the appointing judge.
+  >     - **(B)** *Exemption from federal leave provisions* A law clerk appointed under this subsection shall be exempt from the provisions of subchapter I of chapter 63 of title 5, United States Code. Any unused sick leave or annual leave standing to the law clerk’s credit as of the effective date of this subsection shall remain credited to the law clerk and shall be available to the law clerk upon separation from the Federal Government.
+  >   - **(3)** *Other employees* The Tax Court may appoint necessary employees without regard to the provisions of title 5, United States Code, governing appointments in the competitive service. Such employees shall be subject to removal by the Tax Court.
+  >   - **(4)** *Pay* The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
+  >   - **(5)** *Programs* The Tax Court may establish programs for employee evaluations, incentive awards, flexible work schedules, premium pay, and resolution of employee grievances.
+  >   - **(6)** *Discrimination prohibited* The Tax Court shall—
+  >     - **(A)** prohibit discrimination on the basis of race, color, religion, age, sex, national origin, political affiliation, marital status, or handicapping condition; and
+  >     - **(B)** promulgate procedures for resolving complaints of discrimination by employees and applicants for employment.
+  >   - **(7)** *Experts and consultants* The Tax Court may procure the services of experts and consultants under section 3109 of title 5, United States Code.
+  >   - **(8)** *Rights to certain appeals reserved* Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date of this subsection and who, as of that day, was entitled to—
+  >     - **(A)** appeal a reduction in grade or removal to the Merit Systems Protection Board under chapter 43 of title 5, United States Code,
+  >     - **(B)** appeal an adverse action to the Merit Systems Protection Board under chapter 75 of title 5, United States Code,
+  >     - **(C)** appeal a prohibited personnel practice described under section 2302(b) of title 5, United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
+  >     - **(D)** make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
+  >     - **(E)** file an appeal with the Equal Employment Opportunity Commission under part 1614 of title 29 of the Code of Federal Regulations,
+  >   - **(9)** *Competitive status* Notwithstanding any other provision of law, any employee of the Tax Court who has completed at least 1 year of continuous service under a non-temporary appointment with the Tax Court acquires a competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications.
+  >   - **(10)** *Merit system principles, prohibited personnel practices, and preference eligibles* Any personnel management system of the Tax Court shall—
+  >     - **(A)** include the principles set forth in section 2301(b) of title 5, United States Code;
+  >     - **(B)** prohibit personnel practices prohibited under section 2302(b) of title 5, United States Code; and
+  >     - **(C)** in the case of any individual who would be a preference eligible in the executive branch, provide preference for that individual in a manner and to an extent consistent with preference accorded to preference eligibles in the executive branch.
 
-- **(a)** *In general* Paragraph (3) of section 897(c) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by striking all that precedes “If any class” and inserting the following:
-    > - **(3)** *Exceptions for certain stock dispositions*
-    >   - **(A)** *Exception for stock regularly traded on established securities markets*
-
-  - **(2)** by adding at the end of subparagraph (A) (as added by paragraph (1)) the following: “In the case of any class of stock of a real estate investment trust, the preceding sentence shall be applied by substituting “10 percent” for “5 percent”.”, and
-  - **(3)** by adding at the end the following new subparagraph:
-    > - **(B)** *Exception for certain stock in real estate investment trusts*
-    >   - **(i)** *In general* Stock of a real estate investment trust held by a qualified shareholder shall not be treated as a United States real property interest except to the extent that an investor in the qualified shareholder holds (directly or indirectly through the qualified shareholder) more than 10 percent of the stock of such real estate investment trust.
-    >   - **(ii)** *Qualified shareholder* For purposes of this subparagraph, the term “qualified shareholder” means a shareholder—
-    >     - **(I)** which would be eligible for a reduced rate of withholding under any income tax treaty of the United States with respect to ordinary dividends paid by the real estate investment trust even if such shareholder holds more than 10 percent of the stock of such real estate investment trust, and
-    >     - **(II)** whose principal class of interests is listed and regularly traded on one or more recognized stock exchanges (as defined in the relevant income tax treaty referred to in subclause (I)).
-
-- **(b)** *Distributions of real estate investment trusts* Paragraph (1) of section 897(h) of such Code is amended—
-  - **(1)** by inserting “(10 percent in the case of stock of a real estate investment trust)” after “5 percent of such class of stock”, and
-  - **(2)** by inserting “, and any distribution to a qualified shareholder (as defined in subsection (c)(3)(B)(ii)) shall not be treated as gain recognized from the sale or exchange of a United States real property interest to the extent that the stock of the real estate investment trust held by such qualified shareholder is not treated as a United States real property interest under subsection (c)(3)(B)” before the period at the end.
-- **(c)** *Conforming amendment* Subparagraph (C) of section 897(c)(6) of such Code is amended by striking “more than 5 percent” and inserting “more than a particular percentage”.
-- **(d)** *Effective date*
-  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to dispositions made after the date of the enactment of this Act.
-  - **(2)** *Distributions of real estate investment trusts* The amendments made by subsection (b) shall apply to distributions made after the date of the enactment of this Act.
-
-## § 3. Application of continuous levy to tax liabilities of certain Federal contractors
-
-- **(a)** *In general* Subsection (f) of section 6330 of the Internal Revenue Code of 1986 is amended by striking “or” at the end of paragraph (2), by inserting “or” at the end of paragraph (3), and by inserting after paragraph (3) the following new paragraph:
-  > - **(4)** the Secretary has served a Federal contractor levy,
-
-- **(b)** *Federal contractor levy* Subsection (h) of section 6330 of such Code is amended—
-  - **(1)** by striking all that precedes “any levy in connection with the collection” and inserting the following:
-    > - **(h)** *Definitions related to exceptions* For purposes of subsection (f)—
-    >   - **(1)** *Disqualified employment tax levy* A disqualified employment tax levy is
-
-  - **(2)** by adding at the end the following new paragraph:
-    > - **(2)** *Federal contractor levy* A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor of such person) is a Federal contractor.
-
-- **(c)** *Conforming amendment* The heading of subsection (f) of section 6330 of such Code is amended by striking “Jeopardy and State refund collection” and inserting “Exceptions”.
-- **(d)** *Effective date* The amendments made by this section shall apply to levies issued after December 31, 2010.
-
-## § 4. Paygo compliance
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+- **(b)** *Effective date* The amendments made by this section shall take effect on the date the United States Tax Court adopts a personnel management system after the date of the enactment of this Act.

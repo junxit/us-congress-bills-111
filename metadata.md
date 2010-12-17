@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5901
@@ -42,3 +42,17 @@ An act to amend the Internal Revenue Code of 1986 to authorize the tax court to 
 - 2010-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 11 (Roll no. 502).(text: CR H6429-6430)
 - 2010-08-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2010-08-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
+- 2010-12-17 — Amendment SA 4834 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Amendment SA 4834 proposed by Senator Kerry for Senator Baucus. (consideration: CR S10443-10444; text: CR S10443-10444) In the nature of a substitute.
+- 2010-12-17 — Amendment SA 4835 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Amendment SA 4835 proposed by Senator Kerry for Senator Baucus. (consideration: CR S10444; text: CR S10444) To amend the title.
+- 2010-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S10443-10444)
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-17 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-12-17 — Senate amendment agreed to: Amendment SA 4834 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Senate amendment agreed to: Amendment SA 4835 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Senate amendment proposed (on the floor): Amendment SA 4834 proposed by Senator Kerry for Senator Baucus.(consideration: CR S10443-10444; text: CR S10443-10444)
+- 2010-12-17 — Senate amendment proposed (on the floor): Amendment SA 4835 proposed by Senator Kerry for Senator Baucus.(consideration: CR S10444; text: CR S10444)
+- 2010-12-17 — Senate amendment submitted
+- 2010-12-17 — Senate amendment submitted
