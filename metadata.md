@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5901
@@ -56,3 +56,14 @@ An act to amend the Internal Revenue Code of 1986 to authorize the tax court to 
 - 2010-12-17 — Senate amendment proposed (on the floor): Amendment SA 4835 proposed by Senator Kerry for Senator Baucus.(consideration: CR S10444; text: CR S10444)
 - 2010-12-17 — Senate amendment submitted
 - 2010-12-17 — Senate amendment submitted
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. McDermott asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H8977-8978)
+- 2010-12-22 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendments: CR H8977-8978)
+- 2010-12-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendments: CR H8977-8978)
+- 2010-12-29 — Presented to President.
+- 2010-12-29 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-366.
+- 2011-01-04 — Became Public Law No: 111-366.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.

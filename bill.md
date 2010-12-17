@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5901
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5901
 
-That the bill from the House of Representatives (H.R. 5901) entitled “An Act to amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investment in United States real property interests, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Internal Revenue Code of 1986 to authorize the tax court to appoint employees.
 
 ## § 1. Authority of tax court to appoint employees
 
