@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6533
 congress: 111
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6533
