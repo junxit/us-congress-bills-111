@@ -1,7 +1,7 @@
 ---
 measure: S. 1481
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1481
@@ -40,3 +40,14 @@ Frank Melville Supportive Housing Investment Act of 2010
 - 2010-12-14 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with amendments. Without written report.
 - 2010-12-14 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with amendments. Without written report.
 - 2010-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 689.
+- 2010-12-17 — Amendment SA 4836 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Amendment SA 4836 proposed by Senator Kerry for Senator Johanns. (consideration: CR S10447-10448; text: CR S10447-10448) To improve the bill.
+- 2010-12-17 — Held at the desk.
+- 2010-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S10444-10451; text of measure as reported in Senate: CR S10444-10447)
+- 2010-12-17 — Message on Senate action sent to the House.
+- 2010-12-17 — Passed Senate with amendments by Unanimous Consent. (text: CR S10448-10451)
+- 2010-12-17 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S10448-10451)
+- 2010-12-17 — Received in the House.
+- 2010-12-17 — Senate amendment agreed to: Amendment SA 4836 agreed to in Senate by Unanimous Consent.
+- 2010-12-17 — Senate amendment proposed (on the floor): Amendment SA 4836 proposed by Senator Kerry for Senator Johanns.(consideration: CR S10447-10448; text: CR S10447-10448)
+- 2010-12-17 — Senate amendment submitted
