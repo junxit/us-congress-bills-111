@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4915
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4915
@@ -45,3 +45,18 @@ An Act to amend the Internal Revenue Code of 1986 to make technical corrections 
 - 2010-03-24 — Received in the Senate.
 - 2010-03-24 — Referred to the Subcommittee on Aviation.
 - 2010-03-26 — Read twice and referred to the Committee on Finance.
+- 2010-12-18 — Amendment SA 4848 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Amendment SA 4848 proposed by Senator Brown OH for Senator Baucus. (consideration: CR S10696) In the nature of a substitute.
+- 2010-12-18 — Amendment SA 4849 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Amendment SA 4849 proposed by Senator Brown OH for Senator Baucus. (consideration: CR S10696) To amend the title.
+- 2010-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S10696)
+- 2010-12-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2010-12-18 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-12-18 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2010-12-18 — Senate amendment agreed to: Amendment SA 4848 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Senate amendment agreed to: Amendment SA 4849 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Senate amendment proposed (on the floor): Amendment SA 4848 proposed by Senator Brown OH for Senator Baucus.(consideration: CR S10696)
+- 2010-12-18 — Senate amendment proposed (on the floor): Amendment SA 4849 proposed by Senator Brown OH for Senator Baucus.(consideration: CR S10696)
+- 2010-12-18 — Senate amendment submitted
+- 2010-12-18 — Senate amendment submitted
