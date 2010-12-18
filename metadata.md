@@ -1,7 +1,7 @@
 ---
 measure: S. 118
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 118
@@ -44,3 +44,12 @@ Section 202 Supportive Housing for the Elderly Act of 2010
 - 2010-11-30 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment in the nature of a substitute. Without written report.
 - 2010-11-30 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment in the nature of a substitute. Without written report.
 - 2010-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 657.
+- 2010-12-18 — Amendment SA 4850 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Amendment SA 4850 proposed by Senator Brown OH for Senator Dodd. (consideration: CR S10700; text: CR S10700) To comply with the Statutory Pay-As-You-Go-Act of 2010.
+- 2010-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S10698-10703)
+- 2010-12-18 — Passed Senate with an amendment by Unanimous Consent. (text: CR S10701-10703)
+- 2010-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S10701-10703)
+- 2010-12-18 — Senate amendment agreed to: Amendment SA 4850 agreed to in Senate by Unanimous Consent.
+- 2010-12-18 — Senate amendment proposed (on the floor): Amendment SA 4850 proposed by Senator Brown OH for Senator Dodd.(consideration: CR S10700; text: CR S10700)
+- 2010-12-18 — Senate amendment submitted
+- 2010-12-18 — The committee substitute as amended agreed to by Unanimous Consent. (text of amendment in the nature of a substitute: CR S10698-10700)
