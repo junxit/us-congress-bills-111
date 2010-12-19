@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6523
 congress: 111
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6523
@@ -42,3 +42,4 @@ Ike Skelton National Defense Authorization Act for Fiscal Year 2011
 - 2010-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 48 (Roll no. 650).(text: CR H8629-8750)
 - 2010-12-17 — Received in the Senate.
 - 2010-12-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 6523.
+- 2010-12-19 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.
