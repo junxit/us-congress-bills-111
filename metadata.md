@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2751
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2751
@@ -103,3 +103,16 @@ FDA Food Safety Modernization Act
 - 2009-06-09 — Referred to the Subcommittee on Energy and Environment.
 - 2009-06-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2009-06-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
+- 2010-12-19 — Amendment SA 4890 agreed to in Senate by Unanimous Consent.
+- 2010-12-19 — Amendment SA 4890 proposed by Senator Reid for Senator Harkin. (consideration: CR S10770) In the nature of a substitute.
+- 2010-12-19 — Amendment SA 4891 agreed to in Senate by Unanimous Consent.
+- 2010-12-19 — Amendment SA 4891 proposed by Senator Reid for Senator Harkin. (consideration: CR S10770; text: CR S10770) To amend the title.
+- 2010-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S10770)
+- 2010-12-19 — Passed Senate with an amendment and an amendment to the Title by Voice Vote. (text: CR 12/20/2010 S10824-10847)
+- 2010-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.(text: CR 12/20/2010 S10824-10847)
+- 2010-12-19 — Senate amendment agreed to: Amendment SA 4890 agreed to in Senate by Unanimous Consent.
+- 2010-12-19 — Senate amendment agreed to: Amendment SA 4891 agreed to in Senate by Unanimous Consent.
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4890 proposed by Senator Reid for Senator Harkin.(consideration: CR S10770)
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4891 proposed by Senator Reid for Senator Harkin.(consideration: CR S10770; text: CR S10770)
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-19 — Senate amendment submitted
