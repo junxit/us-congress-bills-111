@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2751
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2751
@@ -83,9 +83,10 @@ FDA Food Safety Modernization Act
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2009-06-09 — [House 111-1-314](votes/house-111-1-0314.md) — On Motion to Suspend the Rules and Pass — **Passed** (298–119)
+- 2010-12-21 — [House 111-2-661](votes/house-111-2-0661.md) — On Motion to Concur in the Senate Amendments — **Passed** (215–144)
 
 ## Actions
 
@@ -116,3 +117,21 @@ FDA Food Safety Modernization Act
 - 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4891 proposed by Senator Reid for Senator Harkin.(consideration: CR S10770; text: CR S10770)
 - 2010-12-19 — Senate amendment submitted
 - 2010-12-19 — Senate amendment submitted
+- 2010-12-20 — Message on Senate action sent to the House.
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Considered as unfinished business. (consideration: CR H8892)
+- 2010-12-21 — DEBATE - The House proceeded with one hour of debate on motion to agree to the Senate amendments to H.R. 2751.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Dingell moved that the House agree to the Senate amendments. (consideration: CR H8861-8890)
+- 2010-12-21 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 215 - 144 (Roll no. 661). (text as House agreed to Senate amendment: CR H8861-8884)
+- 2010-12-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendments to H.R. 2751, the Chair announced that pursuant to the order of the House of December 21, 2010, further proceedings on the motion would be postponed until a time to be announced.
+- 2010-12-21 — Pursuant to the provisions of H.Res. 1781, the Chair recognized Mr. Dingell for a motion.
+- 2010-12-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 215 - 144 (Roll no. 661).(text as House agreed to Senate amendment: CR H8861-8884)
+- 2010-12-21 — Rules Committee Resolution H. Res. 1781 Reported to House. Rule provides for consideration of H.R. 5116, H.R. 2751 and H.R. 5142. Providing for consideration of the Senate amendment to H.R. 5116, consideration of the Senate amendments to H.R. 2751, and consideration of the Senate amendment H.R. 2142
+- 2010-12-21 — The previous question was ordered pursuant to the rule. (consideration: CR H8890)
+- 2010-12-29 — Presented to President.
+- 2010-12-29 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-353.
+- 2011-01-04 — Became Public Law No: 111-353.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
