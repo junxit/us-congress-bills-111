@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1746
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1746
 
-That the bill from the House of Representatives (H.R. 1746) entitled “An Act to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster mitigation program of the Federal Emergency Management Agency.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster mitigation program of the Federal Emergency Management Agency.
 
 ## § 1. Short title
 
