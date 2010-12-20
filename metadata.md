@@ -1,7 +1,7 @@
 ---
 measure: S. 3973
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3973
@@ -16,7 +16,7 @@ Diesel Emissions Reduction Act of 2010
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (29)
+## Cosponsors (32)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -47,8 +47,19 @@ Diesel Emissions Reduction Act of 2010
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+
+## Committees (1)
+
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
 - 2010-11-18 — Introduced in Senate
 - 2010-11-18 — Read twice and referred to the Committee on Environment and Public Works.
+- 2010-11-30 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2010-12-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2010-12-20 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2010-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.
