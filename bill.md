@@ -19,8 +19,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the remaining tiger habitat in Asia represents some of the largest intact storehouses of terrestrial carbon on Earth, containing an average of 31/2 times more carbon than areas outside of tiger habitat;
 - Whereas the tiger, an iconic species worldwide, can act as both a catalyst and a symbol for the conservation of the last great forests of Asia;
 - Whereas 2010, the “Year of the Tiger” in the Chinese calendar and beyond, presents a global opportunity to commit to halting the decline in tigers and to ensuring the doubling of the numbers of tigers by the next “Year of the Tiger” in 2022;
-- Whereas the Government of Russia is hosting the Global Tiger Summit in St. Petersburg, Russia, on November 22 through 24, 2010;
-- Whereas at the Summit, all 13 countries with remaining wild tiger populations are expected to commit to a Global Tiger Recovery Program;
+- Whereas the Government of Russia is hostinghosted the Global Tiger Summit in St. Petersburg, Russia, on November 22 through 24, 2010;
+- Whereas at the Summit, all 13 countries with remaining wild tiger populations are expected to commitcommitted to a Global Tiger Recovery Program;
 - Whereas the remaining tiger habitat is located in remote transnational areas, providing an opportunity for transboundary cooperation among countries with remaining wild tiger populations;
 - Whereas countries with remaining wild tiger populations need the support and cooperation of the global community to protect and restore wild tiger populations;
 - Whereas the United States has been a consistent leader in supporting international tiger conservation; and
@@ -33,7 +33,7 @@ That the Senate—
 - **(3)** supports the efforts of the United States Government to protect tigers in the wild and the habitat of tigers through direct conservation assistance;
 - **(4)** acknowledges the important role that tiger habitats play in conserving biodiversity, securing forest carbon, protecting critical watersheds, providing buffers against natural disasters, and supporting livelihoods and human well-being in countries with remaining wild tiger populations;
 - **(5)** applauds the work of multilateral institutions, governmental, and nongovernmental conservation and environmental organizations working to recover tiger populations in the wild;
-- **(6)** commends the Government of Russia for its leadership in hosting the Tiger Summit, which brings global attention to this important issue and launches the immediate implementation of National Tiger Recovery Priorities in each of the 13 countries with remaining wild tiger populations;
+- **(6)** commends the Government of Russia for its leadership in hosting the Tiger Summit, which bringsbrought global attention to this important issue and launcheslaunched the immediate implementation of National Tiger Recovery Priorities in each of the 13 countries with remaining wild tiger populations;
 - **(7)** reaffirms the commitment of the United States Government to tiger conservation;
-- **(8)** encourages the highest level of United States engagement in the Tiger Summit and in the outcomes of the Tiger Summit, including the provision of support to countries with remaining wild tiger populations in implementing the National Tiger Recovery Priorities and the Global Tiger Recovery Program; and
+- **(8)** encourages the highest level of United States engagement in the Tiger Summit and insupport of the outcomes of the Tiger Summit, including the provision of support to countries with remaining wild tiger populations in implementing the National Tiger Recovery Priorities and the Global Tiger Recovery Program; and
 - **(9)** urges concerted coordination among all relevant United States agencies to provide support to countries with remaining wild tiger populations in a manner that enables United States resources to provide maximum conservation benefits.
