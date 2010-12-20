@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4445
@@ -50,3 +50,7 @@ Indian Pueblo Cultural Center Clarification Act
 - 2010-06-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 414). (text: CR 6/29/2010 H4928-4929)
 - 2010-06-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 411 - 0 (Roll no. 414).(text: CR 6/29/2010 H4928-4929)
 - 2010-07-12 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2010-11-18 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-379.
+- 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-379.
+- 2010-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 720.
