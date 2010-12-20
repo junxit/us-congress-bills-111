@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4748
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4748
@@ -16,7 +16,7 @@ Northern Border Counternarcotics Strategy Act of 2010
 
 - Rep. Owens, William L. [D-NY-23] (O000169)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
@@ -25,6 +25,9 @@ Northern Border Counternarcotics Strategy Act of 2010
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Conrad, Kent [D-ND] (C000705)
 
 ## Committees (3)
 
@@ -53,3 +56,13 @@ Northern Border Counternarcotics Strategy Act of 2010
 - 2010-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 475). (text: CR H6104)
 - 2010-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 475).(text: CR H6104)
 - 2010-07-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2010-12-20 — Amendment SA 4915 agreed to in Senate by Unanimous Consent.
+- 2010-12-20 — Amendment SA 4915 proposed by Senator Kerry for Senator Schumer. (consideration: CR S10805-10806; text: CR S10805-10806) In the nature of a substitute.
+- 2010-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S10805-10806)
+- 2010-12-20 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2010-12-20 — Senate amendment agreed to: Amendment SA 4915 agreed to in Senate by Unanimous Consent.
+- 2010-12-20 — Senate amendment proposed (on the floor): Amendment SA 4915 proposed by Senator Kerry for Senator Schumer.(consideration: CR S10805-10806; text: CR S10805-10806)
+- 2010-12-20 — Senate amendment submitted
