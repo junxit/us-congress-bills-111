@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4748
-congress: 111th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eleventh Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4748
 
-That the bill from the House of Representatives (H.R. 4748) entitled “An Act to amend the Office of National Drug Control Policy Reauthorization Act of 2006 to require a northern border counternarcotics strategy, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Office of National Drug Control Policy Reauthorization Act of 2006 to require a northern border counternarcotics strategy, and for other purposes.
 
 ## § 1. Short title
 
@@ -35,7 +33,7 @@ The Office of National Drug Control Policy Reauthorization Act of 2006 (Public L
 >   - **(1)** a strategy to end the illegal trafficking of drugs to or through Indian reservations on or near the international border between the United States and Canada; and
 >   - **(2)** recommendations for additional assistance, if any, needed by tribal law enforcement agencies relating to the strategy, including an evaluation of Federal technical and financial assistance, infrastructure capacity building, and interoperability deficiencies.
 > - **(e)** *Limitation*
->   - **(1)** *In general* The Northern Border Counternarcotics Strategy shall not change the exiting agency authorities and this section shall not be construed to amend or modify any law governing interagency relationships.
+>   - **(1)** *In general* The Northern Border Counternarcotics Strategy shall not change the existing agency authorities and this section shall not be construed to amend or modify any law governing interagency relationships.
 >   - **(2)** *Legitimate trade and travel* The Northern Border Counternarcotics Strategy shall be designed to promote, and not hinder, legitimate trade and travel.
 > - **(f)** *Treatment of classified or law enforcement sensitive information*
 >   - **(1)** *In general* The Northern Border Counternarcotics Strategy shall be submitted in unclassified form and shall be available to the public.

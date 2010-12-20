@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4748
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4748
@@ -66,3 +66,16 @@ Northern Border Counternarcotics Strategy Act of 2010
 - 2010-12-20 — Senate amendment agreed to: Amendment SA 4915 agreed to in Senate by Unanimous Consent.
 - 2010-12-20 — Senate amendment proposed (on the floor): Amendment SA 4915 proposed by Senator Kerry for Senator Schumer.(consideration: CR S10805-10806; text: CR S10805-10806)
 - 2010-12-20 — Senate amendment submitted
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to concur in the Senate amendment to H.R. 4748.
+- 2010-12-21 — Message on Senate action sent to the House.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Scott (VA) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8813-8814)
+- 2010-12-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H8813)
+- 2010-12-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H8813)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-356.
+- 2011-01-04 — Became Public Law No: 111-356.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
