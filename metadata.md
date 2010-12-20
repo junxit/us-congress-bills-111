@@ -1,7 +1,7 @@
 ---
 measure: S. 3235
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3235
@@ -16,11 +16,14 @@ HEARTH Act of 2010
 
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ HEARTH Act of 2010
 
 - 2010-04-20 — Introduced in Senate
 - 2010-04-20 — Read twice and referred to the Committee on Indian Affairs.
+- 2010-06-30 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment. Without written report.
+- 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment. Without written report.
+- 2010-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 719.

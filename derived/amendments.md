@@ -1,7 +1,7 @@
 ---
 measure: S. 3235
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 0 executed, 24 stated and not applied.
+32 amendatory instructions. 0 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,3 +55,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “of the Navajo Nation” and inserting “of the applicable Indian tribe”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Navajo Nation tribal” and inserting “tribal”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(B), by striking “Navajo Nation” each place it appears and inserting “applicable Indian tribe”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “the Navajo Nation” and inserting “an applicable Indian tribe”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking “the Navajo Nation” and inserting “an Indian tribe”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (7), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
+| — | strike | by striking “the Navajo Nation”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “with Navajo Nation law” and inserting “with applicable tribal law”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
