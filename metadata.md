@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 111
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4445
@@ -54,3 +54,13 @@ Indian Pueblo Cultural Center Clarification Act
 - 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-379.
 - 2010-12-20 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-379.
 - 2010-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 720.
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10933-10934)
+- 2010-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10933-10934)
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-354.
+- 2011-01-04 — Became Public Law No: 111-354.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
