@@ -1,19 +1,31 @@
 ---
 legis-num: H.R. 1746
 congress: 111th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1746
 
-> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster mitigation program of the Federal Emergency Management Agency.
+That the bill from the House of Representatives (H.R. 1746) entitled “An Act to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster mitigation program of the Federal Emergency Management Agency.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Pre-Disaster Mitigation Act of 2009”.
+This Act may be cited as the “Predisaster Hazard Mitigation Act of 2010”.
 
-## § 2. Pre-disaster hazard mitigation
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The predisaster hazard mitigation program has been successful and cost-effective. Funding from the predisaster hazard mitigation program has successfully reduced loss of life, personal injuries, damage to and destruction of property, and disruption of communities from disasters.
+- **(2)** The predisaster hazard mitigation program has saved Federal taxpayers from spending significant sums on disaster recovery and relief that would have been otherwise incurred had communities not successfully applied mitigation techniques.
+- **(3)** A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds.
+- **(4)** A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years.
+- **(5)** Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment.
+
+## § 3. Predisaster hazard mitigation
 
 - **(a)** *Allocation of funds* Section 203(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(f)) is amended to read as follows:
   > - **(f)** *Allocation of funds*
@@ -21,14 +33,30 @@ This Act may be cited as the “Pre-Disaster Mitigation Act of 2009”.
   >   - **(2)** *Minimum and maximum amounts* In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made available to a State (including amounts made available to local governments of the State) for a fiscal year—
   >     - **(A)** is not less than the lesser of—
   >       - **(i)** $575,000; or
-  >       - **(ii)** the amount that is equal to one percent of the total funds appropriated to carry out this section for the fiscal year; and
+  >       - **(ii)** the amount that is equal to 1 percent of the total funds appropriated to carry out this section for the fiscal year; and
   >     - **(B)** does not exceed the amount that is equal to 15 percent of the total funds appropriated to carry out this section for the fiscal year.
 
-- **(b)** *Authorization of appropriations* Section 203(m) of such Act (42 U.S.C. 5133(m)) is amended to read as follows:
-  > - **(m)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2010, 2011, and 2012.
+- **(b)** *Authorization of appropriations* Section 203(m) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(m)) is amended to read as follows:
+  > - **(m)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
+  >   - **(1)** $180,000,000 for fiscal year 2011;
+  >   - **(2)** $200,000,000 for fiscal year 2012; and
+  >   - **(3)** $200,000,000 for fiscal year 2013.
 
-- **(c)** *References* Section 203 of such Act (42 U.S.C. 5133) is amended—
-  - **(1)** in the section heading by striking “Predisaster” and inserting “Pre-Disaster”;
-  - **(2)** in the heading for subsection (i) by striking “Predisaster” and inserting “Pre-Disaster”;
-  - **(3)** by striking “Predisaster” each place it appears and inserting “Pre-Disaster”; and
-  - **(4)** by striking “predisaster” each place it appears and inserting “pre-disaster”.
+- **(c)** *Technical corrections to references* The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) is amended—
+  - **(1)** in section 602(a) (42 U.S.C. 5195a(a)), by striking paragraph (7) and inserting the following:
+    > - **(7)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
+
+  - **(2)** by striking “Director” each place it appears and inserting “Administrator”, except—
+    - **(A)** in section 622 (42 U.S.C. 5197a)—
+      - **(i)** in the second and fourth places it appears in subsection (c); and
+      - **(ii)** in subsection (d); and
+    - **(B)** in section 626(b) (42 U.S.C. 5197e(b)).
+
+## § 4. Prohibition on earmarks
+
+Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following:
+
+> - **(n)** *Prohibition on earmarks*
+>   - **(1)** *Definition* In this subsection, the term congressionally directed spending means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
+>   - **(2)** *Prohibition* None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending.
+>   - **(3)** *Certification to Congress* The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.

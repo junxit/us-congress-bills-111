@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1746
 congress: 111
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1746
@@ -16,16 +16,18 @@ Predisaster Hazard Mitigation Act of 2010
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +55,13 @@ Predisaster Hazard Mitigation Act of 2010
 - 2009-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208). (text: CR H4747)
 - 2009-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 56 (Roll no. 208).(text: CR H4747)
 - 2009-04-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2010-12-20 — Amendment SA 4916 agreed to in Senate by Unanimous Consent.
+- 2010-12-20 — Amendment SA 4916 proposed by Senator Kerry for Senator Lieberman. (consideration: CR S10806; text: CR S10806) In the nature of a substitute.
+- 2010-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S10806)
+- 2010-12-20 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2010-12-20 — Senate amendment agreed to: Amendment SA 4916 agreed to in Senate by Unanimous Consent.
+- 2010-12-20 — Senate amendment proposed (on the floor): Amendment SA 4916 proposed by Senator Kerry for Senator Lieberman.(consideration: CR S10806; text: CR S10806)
+- 2010-12-20 — Senate amendment submitted
