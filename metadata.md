@@ -1,7 +1,7 @@
 ---
 measure: S. 3481
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3481
@@ -50,3 +50,15 @@ A bill to amend the Federal Water Pollution Control Act to clarify Federal respo
 - 2010-12-21 — Senate amendment agreed to: Amendment SA 4917 agreed to in Senate by Unanimous Consent.
 - 2010-12-21 — Senate amendment proposed (on the floor): Amendment SA 4917 proposed by Senator Harkin for Senator Cardin.(consideration: CR S10933; text: CR S10933)
 - 2010-12-21 — Senate amendment submitted
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Considered by unanimous consent. (consideration: CR H8978-8980)
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Perriello asked unanimous consent to take from the Speaker's table and consider.
+- 2010-12-22 — On passage Passed without objection. (text: CR H8978)
+- 2010-12-22 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8978)
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-378.
+- 2011-01-04 — Became Public Law No: 111-378.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
