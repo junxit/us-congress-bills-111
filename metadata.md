@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Amendment Ordered to be Printed (Senate)
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3082
@@ -16,8 +16,17 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
-## Cosponsors (62)
+## Cosponsors (71)
 
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Thune, John [R-SD] (T000250)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
@@ -85,7 +94,7 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 
 - House — Appropriations Committee
 
-## Recorded votes (8)
+## Recorded votes (11)
 
 - 2009-07-10 — [House 111-1-528](votes/house-111-1-0528.md) — On Agreeing to the Amendment — **Failed** (62–358)
 - 2009-07-10 — [House 111-1-529](votes/house-111-1-0529.md) — On Passage — **Passed** (415–3)
@@ -95,6 +104,9 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2009-11-17 — [Senate 111-1-347](votes/senate-111-1-0347.md) — On the Motion to Table — **Motion to Table Agreed to** (57–43)
 - 2009-11-17 — [Senate 111-1-348](votes/senate-111-1-0348.md) — On Passage of the Bill — **Bill Passed** (100–0)
 - 2010-12-08 — [House 111-2-622](votes/house-111-2-0622.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (212–206)
+- 2010-12-21 — [House 111-2-662](votes/house-111-2-0662.md) — On Motion to Concur in the Senate amendment to House amendment to Senate amendment — **Passed** (193–165)
+- 2010-12-21 — [Senate 111-2-288](votes/senate-111-2-0288.md) — On the Cloture Motion — **Cloture Motion Agreed to** (82–14)
+- 2010-12-21 — [Senate 111-2-289](votes/senate-111-2-0289.md) — On the Motion — **Motion Agreed to** (79–16)
 
 ## Actions
 
@@ -393,3 +405,57 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2010-12-14 — Amedment SA 4805 ordered to be printed.
 - 2010-12-14 — Senate amendment submitted
 - 2010-12-14 — Senate amendment submitted
+- 2010-12-15 — Senate amendment submitted
+- 2010-12-15 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-16 — Senate amendment submitted
+- 2010-12-19 — Amendment SA 4885 proposed by Senator Reid. (consideration: CR S10770) In the nature of a substitute.
+- 2010-12-19 — Amendment SA 4886 proposed by Senator Reid to Amendment SA 4885. (consideration: CR S10771; text: CR S10771) To change the enactment date.
+- 2010-12-19 — Amendment SA 4887 proposed by Senator Reid. (consideration: CR S10771; text: CR S10771) To provide for a study.
+- 2010-12-19 — Amendment SA 4888 proposed by Senator Reid to Amendment SA 4887. (consideration: CR S10771; text: CR S10771) Of a perfecting nature.
+- 2010-12-19 — Amendment SA 4889 proposed by Senator Reid to Amendment SA 4888. (consideration: CR S10771; text: CR S10771) Of a perfecting nature.
+- 2010-12-19 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) presented in Senate. (consideration: CR S10770-10771; text: CR S10771)
+- 2010-12-19 — Motion by Senator Reid to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) made in the Senate. (consideration: CR S10770-10771)
+- 2010-12-19 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 3082) with instructions to report back forthwith with an amendment (SA 4887) made in Senate.
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4885 proposed by Senator Reid.(consideration: CR S10770)
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4886 proposed by Senator Reid to Amendment SA 4885.(consideration: CR S10771; text: CR S10771)
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4887 proposed by Senator Reid.(consideration: CR S10771; text: CR S10771)
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4888 proposed by Senator Reid to Amendment SA 4887.(consideration: CR S10771; text: CR S10771)
+- 2010-12-19 — Senate amendment proposed (on the floor): Amendment SA 4889 proposed by Senator Reid to Amendment SA 4888.(consideration: CR S10771; text: CR S10771)
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-19 — Senate amendment submitted
+- 2010-12-21 — Amendment SA 4885 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
+- 2010-12-21 — Cleared for White House.
+- 2010-12-21 — Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) invoked in Senate by Yea-Nay Vote. 82 - 14. Record Vote Number: 288. (consideration: CR S10853; text: CR S10853)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10852)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10852)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10852, S10868)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10852, S10885)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10852-10853, S10853, S10868, S10885)
+- 2010-12-21 — Considered by Senate. (consideration: CR S10853)
+- 2010-12-21 — DEBATE - The House proceeded with 1 hour of debate on the motion to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 3082.
+- 2010-12-21 — Message on Senate action sent to the House.
+- 2010-12-21 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 3082) with instructions to report back forthwith with an amendment (SA 4887) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) in Senate.
+- 2010-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-21 — Mr. Obey moved that the House agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H8905-8915)
+- 2010-12-21 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 193 - 165 (Roll no. 662). (text as House agreed to Senate amendment to House amendment to Senate amendment: CR H8905-8908)
+- 2010-12-21 — Presented to President.
+- 2010-12-21 — Presented to President.
+- 2010-12-21 — Proposed amendment SA 4886 withdrawn in Senate. (consideration: CR S10885)
+- 2010-12-21 — Pursuant to the provisions of H.Res. 1782, the Chair recognized Mr. Obey for a motion.
+- 2010-12-21 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 193 - 165 (Roll no. 662).(text as House agreed to Senate amendment to House amendment to Senate amendment: CR H8905-8908)
+- 2010-12-21 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
+- 2010-12-21 — Roll call votes on amendments in Senate: Amendment SA 4885 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
+- 2010-12-21 — Roll call votes on amendments in Senate: Cloture on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) invoked in Senate by Yea-Nay Vote. 82 - 14. Record Vote Number: 288.(consideration: CR S10853; text: CR S10853)
+- 2010-12-21 — SA 4887 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885).
+- 2010-12-21 — SA 4888 fell when SA 4887 fell.
+- 2010-12-21 — SA 4889 fell when SA 4888 fell.
+- 2010-12-21 — Senate amendment agreed to: Amendment SA 4885 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
+- 2010-12-21 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
+- 2010-12-21 — The previous question was ordered pursuant to the rule. (consideration: CR H8914)
