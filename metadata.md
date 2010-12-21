@@ -1,7 +1,7 @@
 ---
 measure: S. 3903
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3903
@@ -34,3 +34,18 @@ A bill to authorize leases of up to 99 years for lands held in trust for Ohkay O
 - 2010-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
 - 2010-12-21 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S10934; text as passed Senate: CR S10934)
 - 2010-12-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S10934; text as passed Senate: CR S10934)
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Considered by unanimous consent. (consideration: CR H8980)
+- 2010-12-22 — Held at the desk.
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Lujan asked unanimous consent to take from the Speaker's table and consider.
+- 2010-12-22 — On passage Passed without objection. (text: CR H8980)
+- 2010-12-22 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8980)
+- 2010-12-22 — Received in the House.
+- 2010-12-28 — Presented to President.
+- 2010-12-28 — Presented to President.
+- 2011-01-04 — Became Public Law No: 111-381.
+- 2011-01-04 — Became Public Law No: 111-381.
+- 2011-01-04 — Signed by President.
+- 2011-01-04 — Signed by President.
