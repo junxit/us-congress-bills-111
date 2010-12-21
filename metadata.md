@@ -1,7 +1,7 @@
 ---
 measure: S. 3481
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3481
@@ -16,11 +16,15 @@ A bill to amend the Federal Water Pollution Control Act to clarify Federal respo
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -35,3 +39,14 @@ A bill to amend the Federal Water Pollution Control Act to clarify Federal respo
 - 2010-12-17 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-12-17 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2010-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 715.
+- 2010-12-21 — Amendment SA 4917 agreed to in Senate by Unanimous Consent.
+- 2010-12-21 — Amendment SA 4917 proposed by Senator Harkin for Senator Cardin. (consideration: CR S10933; text: CR S10933) In the nature of a substitute.
+- 2010-12-21 — Held at the desk.
+- 2010-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S10933)
+- 2010-12-21 — Message on Senate action sent to the House.
+- 2010-12-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-21 — Received in the House.
+- 2010-12-21 — Senate amendment agreed to: Amendment SA 4917 agreed to in Senate by Unanimous Consent.
+- 2010-12-21 — Senate amendment proposed (on the floor): Amendment SA 4917 proposed by Senator Harkin for Senator Cardin.(consideration: CR S10933; text: CR S10933)
+- 2010-12-21 — Senate amendment submitted
