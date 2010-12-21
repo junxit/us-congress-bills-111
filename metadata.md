@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3082
@@ -459,3 +459,7 @@ Continuing Appropriations and Surface Transportation Extensions Act, 2011
 - 2010-12-21 — Senate amendment agreed to: Amendment SA 4885 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
 - 2010-12-21 — Senate concurred in the House amendment to the Senate amendment to the bill (H.R. 3082) with an amendment (SA 4885) by Yea-Nay Vote. 79 - 16. Record Vote Number: 289.
 - 2010-12-21 — The previous question was ordered pursuant to the rule. (consideration: CR H8914)
+- 2010-12-22 — Became Public Law No: 111-322.
+- 2010-12-22 — Became Public Law No: 111-322.
+- 2010-12-22 — Signed by President.
+- 2010-12-22 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3082
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -100,7 +100,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (E) by striking “$750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010” and inserting “$1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4… | the bill names no machine-readable US Code section |
 | — | amend | Section 5311(c)(1)(F) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 5337(g) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | By amending paragraph (1)(F) as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1)(F) as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “$28,375,000 for the period beginning October 1, 2010, and ending December 31, 2010” and by inserting “$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “$1,040,091,250 for the period beginning October 1, 2010, and ending December 31, 2010” and inserting “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “$12,875,000 for the period beginning October 1, 2010, and ending December 31, 2010” and by inserting “$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011”; | the bill names no machine-readable US Code section |
@@ -125,8 +125,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 3009(i)(1) of SAFETEA–LU (Public Law 109–59; 119 Stat. 1572) is amended by striking “December 31, 2010” and inserting “March 4, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(5), by striking “December 31, 2010” and inserting “March 4, 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “December 31, 2010” and inserting “March 4, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3012(b)(8) of the SAFETEA–LU (49 U.S.C. 5310 note) is amended by striking “December 31, 2010” and inserting “March 4, 2011”. | the bill names no machine-readable US Code section |
-| — | amend | Section 3040(7) of the SAFETEA–LU (Public Law 109–59; 119 Stat. 1639, is amended to read as follows— | the bill names no machine-readable US Code section |
+| — | replace | Section 3012(b)(8) of SAFETEA–LU (49 U.S.C. 5310 note) is amended by striking “December 31, 2010” and inserting “March 4, 2011”. | the bill names no machine-readable US Code section |
+| — | amend | Section 3040(7) of SAFETEA–LU (Public Law 109–59; 119 Stat. 1639, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 3043 of SAFETEA–LU (Public Law 109–59; 119 Stat. 1640) is amended in subsections (b) and (c) by striking “December 31, 2010” and inserting “March 4, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2), by striking “December 31, 2010” and inserting “March 4, 2011”, and by striking “25 percent” and inserting “155/365ths”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
