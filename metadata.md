@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 37
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 37
@@ -16,11 +16,12 @@ A joint resolution calling upon the President to issue a proclamation recognizin
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ A joint resolution calling upon the President to issue a proclamation recognizin
 - 2010-08-02 — Introduced in Senate
 - 2010-08-02 — Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6585-6586)
 - 2010-08-02 — Sponsor introductory remarks on measure. (CR S6585)
+- 2010-12-14 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2010-12-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 726.
