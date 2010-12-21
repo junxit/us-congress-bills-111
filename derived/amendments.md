@@ -1,7 +1,7 @@
 ---
 measure: S. 2982
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (11)(C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (11)(C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following: | the bill names no machine-readable US Code section |
