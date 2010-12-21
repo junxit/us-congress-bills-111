@@ -1,7 +1,7 @@
 ---
 measure: S. 3798
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3798
@@ -29,3 +29,7 @@ Foreign Prison Conditions Improvement Act of 2010
 - 2010-09-16 — Introduced in Senate
 - 2010-09-16 — Read twice and referred to the Committee on Foreign Relations.
 - 2010-09-16 — Sponsor introductory remarks on measure. (CR S7176-7177)
+- 2010-12-14 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. Without written report.
+- 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. Without written report.
+- 2010-12-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 724.
