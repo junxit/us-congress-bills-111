@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6523
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6523
@@ -61,3 +61,9 @@ Ike Skelton National Defense Authorization Act for Fiscal Year 2011
 - 2010-12-22 — Senate amendment agreed to: Amendment SA 4921 agreed to in Senate by Unanimous Consent.
 - 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4921 proposed by Senator Levin.(consideration: CR S10936; text: CR S10936)
 - 2010-12-22 — Senate amendment submitted
+- 2010-12-29 — Presented to President.
+- 2010-12-29 — Presented to President.
+- 2011-01-07 — Became Public Law No: 111-383.
+- 2011-01-07 — Became Public Law No: 111-383.
+- 2011-01-07 — Signed by President.
+- 2011-01-07 — Signed by President.
