@@ -1,7 +1,7 @@
 ---
 measure: S. 3688
 congress: 111
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3688
@@ -24,3 +24,7 @@ International Professional Exchange Act of 2010
 
 - 2010-08-02 — Introduced in Senate
 - 2010-08-02 — Read twice and referred to the Committee on Foreign Relations.
+- 2010-12-14 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2010-12-22 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 111-383.
+- 2010-12-22 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 111-383.
+- 2010-12-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 727.
