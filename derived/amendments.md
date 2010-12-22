@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6547
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subpart 2 of part E of title IX of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7901 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 7901` | add-at-end | Subpart 2 of part E of title IX of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7901 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 2 of the Elementary and Secondary Education Act of 1965 is amended by adding after the item relating to section 9536 the following: | the bill names no machine-readable US Code section |
