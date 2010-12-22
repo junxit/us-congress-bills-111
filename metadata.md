@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 847
@@ -219,3 +219,9 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4923 proposed by Senator Reid for Senator Gillibrand.(consideration: CR S10980)
 - 2010-12-22 — Senate amendment submitted
 - 2010-12-22 — The previous question was ordered pursuant to a previous special order. (consideration: CR H8965)
+- 2010-12-23 — Presented to President.
+- 2010-12-23 — Presented to President.
+- 2011-01-02 — Became Public Law No: 111-347.
+- 2011-01-02 — Became Public Law No: 111-347.
+- 2011-01-02 — Signed by President.
+- 2011-01-02 — Signed by President.
