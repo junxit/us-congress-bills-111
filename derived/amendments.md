@@ -1,7 +1,7 @@
 ---
 measure: S. 4053
 congress: 111
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -66,11 +66,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (11), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (15); | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (16), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (16) as paragraph (15); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 9 of the Small Business Act (15 U.S.C. 638) is amended by inserting after subsection (r) the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking section 34 (15 U.S.C. 657d); | the bill names no machine-readable US Code section |
@@ -78,7 +78,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 9(k)(1)(D) (15 U.S.C. 638(k)(1)(D)), by striking “section 35(d)” and inserting “section 34(d)”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1), by striking “section 34(c)(1)(E)(ii)” and inserting “section 9(s)(3)(A)(v)(II)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 34” each place it appears and inserting “section 9(s)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 36(d) (15 U.S.C. 657i(d)), as so redesignated, by striking “section 43” and inserting “section 42”; | the bill names no machine-readable US Code section |
 | — | replace | in section 39(d) (15 U.S.C. 657l(d)), as so redesignated, by striking “section 43” and inserting “section 42”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 40(b) (15 U.S.C. 657m(b)), as so redesignated, by striking “section 43” and inserting “section 42”. | the bill names no machine-readable US Code section |
@@ -106,7 +106,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (6)(C), in the matter preceding clause (i), by inserting “for work that derives from, extends, or completes efforts made under prior funding agreements under the STTR program” after “phase”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (8), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4)(C)(ii), by striking “scientific review criteria” and inserting “merit-based selection procedures”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking “the second or the third phase” and inserting “Phase II or Phase III”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -180,7 +180,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by inserting after subparagraph (C), as so redesignated, the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (E), as so redesignated, by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (F), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (3), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 108 of the Small Business Reauthorization Act of 2000 (15 U.S.C. 638 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -191,15 +191,15 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively. | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “broad research topics and to topics that further 1 or more critical technologies” and inserting “applications to the Federal agency for support of projects relating to nanotechnology… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “or” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding after paragraph (12), as added by section 111(a) of this Act, the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “broad research topics and to topics that further 1 or more critical technologies” and inserting “applications to the Federal agency for support of projects relating to nanotechnology… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “or” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (15), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (16), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
