@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6397
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 101(a)(35) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(35)) is amended by inserting before the period at the end “(except for failure to consummate the marriage caused by physical separation due to the service abroad… | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1101` | insert | Section 101(a)(35) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(35)) is amended by inserting before the period at the end “(except for failure to consummate the marriage caused by physical separation due to the service abroad… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

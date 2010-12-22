@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6397
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6397
@@ -22,10 +22,11 @@ Marine Sergeant Michael H. Ferschke, Jr. Memorial Act
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ Marine Sergeant Michael H. Ferschke, Jr. Memorial Act
 - 2010-11-15 — Referred to House Budget
 - 2010-11-15 — Referred to House Judiciary
 - 2010-11-15 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-11-17 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on the Judiciary.
