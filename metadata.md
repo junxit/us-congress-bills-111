@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 847
@@ -16,7 +16,7 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Cosponsors (115)
+## Cosponsors (116)
 
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. King, Peter T. [R-NY-3] (K000210)
@@ -133,17 +133,20 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (2)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (3)
+## Recorded votes (5)
 
 - 2010-07-29 — [House 111-2-491](votes/house-111-2-0491.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (255–159)
 - 2010-09-29 — [House 111-2-549](votes/house-111-2-0549.md) — On Motion to Recommit with Instructions — **Failed** (185–244)
 - 2010-09-29 — [House 111-2-550](votes/house-111-2-0550.md) — On Passage — **Passed** (268–160)
+- 2010-12-09 — [Senate 111-2-269](votes/senate-111-2-0269.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (57–42)
+- 2010-12-22 — [House 111-2-664](votes/house-111-2-0664.md) — On Motion to Concur in the Senate Amendment — **Passed** (206–60)
 
 ## Actions
 
@@ -194,3 +197,25 @@ James Zadroga 9/11 Health and Compensation Act of 2010
 - 2010-09-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7256)
 - 2010-09-29 — The previous question was ordered pursuant to the rule. (consideration: CR H7252)
 - 2010-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 641.
+- 2010-12-06 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S8552; text: CR S8552)
+- 2010-12-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S8552)
+- 2010-12-09 — Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 269. (consideration: CR S8668-8669; text: CR S8669)
+- 2010-12-09 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the bill (Roll Call Vote No. 269) made in Senate. (consideration: CR S8669)
+- 2010-12-22 — Amendment SA 4923 agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Amendment SA 4923 proposed by Senator Reid for Senator Gillibrand. (consideration: CR S10980) In the nature of a substitute.
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — DEBATE - The House proceeded further with debate on agreeing to the Senate amendment to H.R. 847.
+- 2010-12-22 — DEBATE - The House proceeded with 30 minutes of debate on agreeing to the Senate amendment to H.R. 847.
+- 2010-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S10980-10982)
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — ORDER OF PROCEDURE - Mr. Arcuri asked unanimous consent that it be in order at any time to take from the Speaker's table the bill H.R. 847, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order except those arising under clause 10 or rule 21, a motion offered by the chair of the Committee on Energy and Commerce or his designee that the House concur in the Senate amendment; that the Senate amendment be considered as read; that the motion be debatable for 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce and; that the previous question be considered as ordered on the motion to final adoption with intervening motion. Agree to without objection.
+- 2010-12-22 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 206 - 60 (Roll no. 664). (text as House agreed to Senate amendment: CR H8947-8958)
+- 2010-12-22 — Passed Senate with an amendment by Voice Vote.
+- 2010-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2010-12-22 — Pursuant to a previous special order the House moved to agree to the Senate amendment. (consideration: CR H8947-8966)
+- 2010-12-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 206 - 60 (Roll no. 664).(text as House agreed to Senate amendment: CR H8947-8958)
+- 2010-12-22 — Senate amendment agreed to: Amendment SA 4923 agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4923 proposed by Senator Reid for Senator Gillibrand.(consideration: CR S10980)
+- 2010-12-22 — Senate amendment submitted
+- 2010-12-22 — The previous question was ordered pursuant to a previous special order. (consideration: CR H8965)
