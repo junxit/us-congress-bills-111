@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6494
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6494
@@ -34,9 +34,10 @@ To amend the National Defense Authorization Act for Fiscal Year 2010 to improve 
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -50,3 +51,5 @@ To amend the National Defense Authorization Act for Fiscal Year 2010 to improve 
 - 2010-12-15 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2010-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8359)
 - 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8359)
+- 2010-12-16 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on Armed Services.
