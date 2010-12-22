@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5493
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5493
@@ -16,9 +16,10 @@ To provide for the furnishing of statues by the District of Columbia and territo
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ To provide for the furnishing of statues by the District of Columbia and territo
 - 2010-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8492-8493)
 - 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8492-8493)
 - 2010-12-15 — The title of the measure was amended. Agreed to without objection.
+- 2010-12-16 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on Rules and Administration.
