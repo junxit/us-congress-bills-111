@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 71
 congress: 111
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 71
@@ -52,3 +52,5 @@ A concurrent resolution recognizing the United States national interest in helpi
 - 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2010-12-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2010-12-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.
+- 2010-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S11054-11057; text of measure as reported in Senate: CR S11054-11056; text as passed Senate: CR S11056-11057)
+- 2010-12-22 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S11054-11057; text of measure as reported in Senate: CR S11054-11056; text as passed Senate: CR S11056-11057)
