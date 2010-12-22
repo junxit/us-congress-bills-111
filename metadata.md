@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6517
 congress: 111
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6517
@@ -15,6 +15,13 @@ Omnibus Trade Act of 2010
 ## Sponsor
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
+
+## Cosponsors (4)
+
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Kyl, Jon [R-AZ] (K000352)
 
 ## Committees (3)
 
@@ -37,3 +44,17 @@ Omnibus Trade Act of 2010
 - 2010-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8418-8448)
 - 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8418-8448)
 - 2010-12-16 — Received in the Senate, read twice.
+- 2010-12-22 — Amendment SA 4924 proposed by Senator Brown OH. (consideration: CR S11011) In the nature of a substitute.
+- 2010-12-22 — Amendment agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S11011)
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. McDermott asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H8982-8983)
+- 2010-12-22 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H8982-8983)
+- 2010-12-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H8982-8983)
+- 2010-12-22 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4924 proposed by Senator Brown OH.(consideration: CR S11011)
+- 2010-12-22 — Senate amendment submitted
