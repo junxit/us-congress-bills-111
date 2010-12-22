@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6523
 congress: 111
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6523
@@ -15,6 +15,10 @@ Ike Skelton National Defense Authorization Act for Fiscal Year 2011
 ## Sponsor
 
 - Rep. Skelton, Ike [D-MO-4] (S000465)
+
+## Cosponsors (1)
+
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (2)
 
@@ -43,3 +47,17 @@ Ike Skelton National Defense Authorization Act for Fiscal Year 2011
 - 2010-12-17 — Received in the Senate.
 - 2010-12-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 6523.
 - 2010-12-19 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.
+- 2010-12-22 — Amendment SA 4921 agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Amendment SA 4921 proposed by Senator Levin. (consideration: CR S10936; text: CR S10936) To strike title XVII.
+- 2010-12-22 — Cleared for White House.
+- 2010-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S10936-10938)
+- 2010-12-22 — Message on Senate action sent to the House.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Skelton asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H8944-8945)
+- 2010-12-22 — On motion that the House agree to the Senate amendments Agreed to without objection.
+- 2010-12-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2010-12-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.
+- 2010-12-22 — Senate amendment agreed to: Amendment SA 4921 agreed to in Senate by Unanimous Consent.
+- 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4921 proposed by Senator Levin.(consideration: CR S10936; text: CR S10936)
+- 2010-12-22 — Senate amendment submitted
