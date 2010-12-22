@@ -1,7 +1,7 @@
 ---
 measure: S. 4058
 congress: 111
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4058
@@ -30,3 +30,9 @@ Helping Heroes Keep Their Homes Act of 2010
 - 2010-12-22 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8980)
 - 2010-12-22 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10990; text as passed Senate: CR S10990)
 - 2010-12-22 — Received in the House.
+- 2010-12-23 — Presented to President.
+- 2010-12-23 — Presented to President.
+- 2010-12-29 — Became Public Law No: 111-346.
+- 2010-12-29 — Became Public Law No: 111-346.
+- 2010-12-29 — Signed by President.
+- 2010-12-29 — Signed by President.
