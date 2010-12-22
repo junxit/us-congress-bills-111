@@ -1,7 +1,7 @@
 ---
 measure: S. 372
 congress: 111
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 372
@@ -61,3 +61,18 @@ Whistleblower Protection Enhancement Act of 2010
 - 2010-12-10 — Senate amendment proposed (on the floor): Amendment SA 4760 proposed by Senator Gillibrand for Senator Akaka.(consideration: CR S8817)
 - 2010-12-10 — Senate amendment submitted
 - 2010-12-10 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S8817)
+- 2010-12-14 — Held at the desk.
+- 2010-12-14 — Message on Senate action sent to the House.
+- 2010-12-14 — Received in the House.
+- 2010-12-22 — Amendment (A001) offered by Mr. Van Hollen. (consideration: CR H8973; text: CR H8973)
+- 2010-12-22 — Amendment agreed to by House: On agreeing to the Van Hollen amendment (A001) Agreed to without objection.
+- 2010-12-22 — Considered by unanimous consent. (consideration: CR H8966-8974; text as received in House: CR H8966-8973)
+- 2010-12-22 — House amendment agreed to: On agreeing to the Van Hollen amendment (A001) Agreed to without objection.
+- 2010-12-22 — House amendment offered
+- 2010-12-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. Van Hollen.(consideration: CR H8973; text: CR H8973)
+- 2010-12-22 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2010-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2010-12-22 — Mr. Van Hollen asked unanimous consent to take from the Speaker's table and consider.
+- 2010-12-22 — On agreeing to the Van Hollen amendment (A001) Agreed to without objection.
+- 2010-12-22 — On passage Passed without objection.
+- 2010-12-22 — Passed/agreed to in House: On passage Passed without objection.
