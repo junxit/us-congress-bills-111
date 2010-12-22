@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5446
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5446
@@ -42,9 +42,10 @@ To designate the facility of the United States Postal Service located at 600 Flo
 - Rep. Buchanan, Vern [R-FL-13] (B001260)
 - Rep. Mack, Connie [R-FL-14] (M001155)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,5 @@ To designate the facility of the United States Postal Service located at 600 Flo
 - 2010-12-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2010-12-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 631). (text: 12/14/2010 H8310)
 - 2010-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 631).(text: 12/14/2010 H8310)
+- 2010-12-16 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
