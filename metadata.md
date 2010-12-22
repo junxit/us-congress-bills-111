@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1064
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1064
@@ -16,7 +16,7 @@ Youth Prison Reduction through Opportunities, Mentoring, Intervention, Support, 
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (69)
+## Cosponsors (235)
 
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Larson, John B. [D-CT-1] (L000557)
@@ -87,6 +87,172 @@ Youth Prison Reduction through Opportunities, Mentoring, Intervention, Support, 
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Delahunt, Bill [D-MA-10] (D000210)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Driehaus, Steve [D-OH-1] (D000609)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Perriello, Thomas S.P. [D-VA-5] (P000600)
+- Rep. Nye, Glenn C. [D-VA-2] (N000183)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Tonko, Paul [D-NY-21] (T000469)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Mollohan, Alan B. [D-WV-1] (M000844)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Kilroy, Mary Jo [D-OH-15] (K000372)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Maffei, Daniel B. [D-NY-25] (M001171)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Griffith, Parker [D-AL-5] (G000557)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Grayson, Alan [D-FL-8] (G000556)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. McMahon, Michael E. [D-NY-13] (M001174)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Kosmas, Suzanne M. [D-FL-24] (K000370)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Titus, Dina [D-NV-3] (T000468)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Dahlkemper, Kathleen A. [D-PA-3] (D000608)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Speier, Jackie [D-CA-12] (S001175)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Boccieri, John A. [D-OH-16] (B001263)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Markey, Betsy [D-CO-4] (M001172)
+- Rep. Peters, Gary C. [D-MI-9] (P000595)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Chu, Judy [D-CA-32] (C001080)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Massa, Eric J. J. [D-NY-29] (M001173)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Garamendi, John [D-CA-10] (G000559)
 
 ## Committees (4)
 
@@ -105,3 +271,28 @@ Youth Prison Reduction through Opportunities, Mentoring, Intervention, Support, 
 - 2009-02-13 — Referred to House Judiciary
 - 2009-02-13 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2009-02-13 — Sponsor introductory remarks on measure. (CR E285-287)
+- 2009-02-23 — Referred to the Subcommittee on Health.
+- 2009-03-30 — Referred to the Subcommittee on Healthy Families and Communities.
+- 2009-07-10 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2009-07-15 — Subcommittee Hearings Held.
+- 2009-11-03 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2009-12-02 — Committee Consideration and Mark-up Session Held.
+- 2009-12-02 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 14.
+- 2010-12-16 — House Committee on Education and Labor Granted an extension for further consideration ending not later than Dec. 17, 2010.
+- 2010-12-16 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 17, 2010.
+- 2010-12-16 — House Committee on Financial Services Granted an extension for further consideration ending not later than Dec. 17, 2010.
+- 2010-12-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-688, Part I.
+- 2010-12-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 111-688, Part I.
+- 2010-12-17 — House Committee on Education and Labor Granted an extension for further consideration ending not later than Dec. 21, 2010.
+- 2010-12-17 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 21, 2010.
+- 2010-12-17 — House Committee on Financial Services Granted an extension for further consideration ending not later than Dec. 21, 2010.
+- 2010-12-21 — House Committee on Education and Labor Granted an extension for further consideration ending not later than Dec. 22, 2010.
+- 2010-12-21 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 22, 2010.
+- 2010-12-21 — House Committee on Financial Services Granted an extension for further consideration ending not later than Dec. 22, 2010.
+- 2010-12-22 — Committee on Education and Labor discharged.
+- 2010-12-22 — Committee on Education and Labor discharged.
+- 2010-12-22 — Committee on Energy and Commerce discharged.
+- 2010-12-22 — Committee on Energy and Commerce discharged.
+- 2010-12-22 — Committee on Financial Services discharged.
+- 2010-12-22 — Committee on Financial Services discharged.
+- 2010-12-22 — Placed on the Union Calendar, Calendar No. 417.
