@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6560
 congress: 111
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “that is” after “or criminal prosecution”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and that is” after “in a State court”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or directed to” after “against”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “capacity for” and inserting “capacity, for or relating to”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “sued”; and | the bill names no machine-readable US Code section |
 | — | insert | in each of paragraphs (3) and (4), by inserting “or relating to” after “for”. | the bill names no machine-readable US Code section |

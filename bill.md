@@ -21,7 +21,7 @@ This Act may be cited as the “Removal Clarification Act of 2010”.
     - **(B)** by inserting “and that is” after “in a State court”; and
     - **(C)** by inserting “or directed to” after “against”; and
   - **(2)** by adding at the end the following:
-    > - **(c)** As used in subsection (a), the terms civil action and criminal prosecution include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
+    > - **(c)** As used in subsection (a), the terms “civil action” and “criminal prosecution” include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.
 
 - **(b)** *Conforming amendments* Section 1442(a) of title 28, United States Code, is amended—
   - **(1)** in paragraph (1)—
