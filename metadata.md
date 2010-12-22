@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5702
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5702
@@ -16,9 +16,10 @@ To amend the District of Columbia Home Rule Act to reduce the waiting period for
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ To amend the District of Columbia Home Rule Act to reduce the waiting period for
 - 2010-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7463-7464)
 - 2010-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7463-7464)
 - 2010-11-16 — The title of the measure was amended. Agreed to without objection.
+- 2010-11-17 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
