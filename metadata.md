@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6540
 congress: 111
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6540
@@ -24,9 +24,10 @@ Defense Level Playing Field Act
 - Rep. Blunt, Roy [R-MO-7] (B000575)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Defense Level Playing Field Act
 - 2010-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 325 - 23 (Roll no. 658). (text: CR H8798)
 - 2010-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 325 - 23 (Roll no. 658).(text: CR H8798)
 - 2010-12-21 — Received in the Senate.
+- 2010-12-22 — Read twice and referred to the Committee on Armed Services.
