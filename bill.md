@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. CON. RES. 78
 
-> Honoring the work and mission of the Delta Regional Authority on the occasion of the 10th anniversary of the Federal-State partnership created to uplift the 8–State Delta region.
+> Honoring the work and mission of the Delta Regional Authority on the occasion of the 10th anniversary of the Federal-State partnership created to uplift the 8-State Delta region.
 
 ## Preamble
 
@@ -22,11 +22,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Delta Regional Authority is working with partners to create or retain approximately 19,000 jobs and is bringing the critical infrastructure to sustain new water and sewer services for more than 43,000 families;
 - Whereas an independent report from the Department of Agriculture’s Economic Research Service found that per capita income grew more rapidly in counties and parishes where the Delta Regional Authority had the greatest investment, showing that each additional dollar of Delta Regional Authority's per capita spending results in a $15 increase in personal income;
 - Whereas the Delta Regional Authority has developed a culture of transparency, passing 9 independent audits showing tangible results;
-- Whereas during its first 10 years, the Delta Regional Authority has laid a strong foundation for working with State Governors, Federal partners, community leaders, and private sector investors to capitalize on the region’s strong points and serve as an economic multiplier for the 8–State region, helping communities tackle challenges and cultivating a climate conducive to job creation;
+- Whereas during its first 10 years, the Delta Regional Authority has laid a strong foundation for working with State Governors, Federal partners, community leaders, and private sector investors to capitalize on the region’s strong points and serve as an economic multiplier for the 8-State region, helping communities tackle challenges and cultivating a climate conducive to job creation;
 - Whereas the Delta Regional Authority has expanded its regional initiatives in the areas of health care, transportation, leadership training, and information technology, and is also increasing efforts in the areas of small business development, entrepreneurship, and alternative energy jobs; and
 - Whereas the Delta Regional Authority stands prepared to use the groundwork established during its first decade as a springboard to create new opportunities for Delta communities in the future: Now, therefore, be it
 
 That the Congress—
 
 - **(1)** recognizes the 10th anniversary of the founding of the Delta Regional Authority; and
-- **(2)** honors and celebrates the Delta Regional Authority's first decade of work to improve the economy and well-being of the 8–State Delta region, and the promise of the Delta Regional Authority's continued work in the future.
+- **(2)** honors and celebrates the Delta Regional Authority's first decade of work to improve the economy and well-being of the 8-State Delta region, and the promise of the Delta Regional Authority's continued work in the future.

@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 78
 congress: 111
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 78
@@ -28,3 +28,7 @@ A concurrent resolution honoring the work and mission of the Delta Regional Auth
 
 - 2010-12-17 — Introduced in Senate
 - 2010-12-17 — Referred to the Committee on Environment and Public Works.
+- 2010-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S11053-11054)
+- 2010-12-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S11053-11054)
+- 2010-12-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S11053-11054)
+- 2010-12-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S11053-11054)
