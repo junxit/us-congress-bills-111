@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6517
 congress: 111
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6517
@@ -58,3 +58,9 @@ Omnibus Trade Act of 2010
 - 2010-12-22 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
 - 2010-12-22 — Senate amendment proposed (on the floor): Amendment SA 4924 proposed by Senator Brown OH.(consideration: CR S11011)
 - 2010-12-22 — Senate amendment submitted
+- 2010-12-23 — Presented to President.
+- 2010-12-23 — Presented to President.
+- 2010-12-29 — Became Public Law No: 111-344.
+- 2010-12-29 — Became Public Law No: 111-344.
+- 2010-12-29 — Signed by President.
+- 2010-12-29 — Signed by President.
