@@ -26,6 +26,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(7)** Serving as the principal point of contact within the Department with respect to veterinary homeland security issues for the Department of Agriculture, the Department of Defense, the Department of Health and Human Services, and other Federal departments and agencies.
   >   - **(8)** Serving as the principal point of contact within the Department with respect to veterinary homeland security issues for State, local, and tribal governments, the veterinary community, and other entities within and outside the Department.
   >   - **(9)** Performing such other duties relating to such responsibilities as the Secretary may require.
-  > - **(d)** *Advance notice of reorganization required* Not later than 180 days before carrying out any reorganization within the Department that would affect any responsibility of the Chief Veterinary Officer, the Secretary shall submit to the appropriate congressional committees a report on the proposed reorganization.
+  > - **(d)** *Report to Congress* Not later than 30 days after the last day of each fiscal year, the Chief Veterinary Officer shall submit to Congress a report on the state of the Department’s working animals during that fiscal year. Each such report shall include—
+  >   - **(1)** the number of animals in service to the Department during the fiscal year, including the component and mission of each such animal and the homeland security activities conducted by such animal;
+  >   - **(2)** an assessment of the overall health and welfare of the Department’s working animals during the fiscal year; and
+  >   - **(3)** a description of the activities of the Office during the fiscal year, including a description of any animal initiative or program conducted during such fiscal year, and for each such initiative or program—
+  >     - **(A)** the objectives of the initiative or program;
+  >     - **(B)** the species or genus of animals that are subject of the initiative or program;
+  >     - **(C)** the amount of resources used (including capital and human resources) for such initiative or program;
+  >     - **(D)** when the initiative or program will conclude or terminate; and
+  >     - **(E)** the degree of completion of the initiative or program.
+  > - **(e)** *Advance notice of reorganization required* Not later than 180 days before carrying out any reorganization within the Department that would affect any responsibility of the Chief Veterinary Officer, the Secretary shall submit to the appropriate congressional committees a report on the proposed reorganization.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to title III the following new item:

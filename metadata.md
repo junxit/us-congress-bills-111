@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5105
 congress: 111
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5105
@@ -37,3 +37,17 @@ To establish a Chief Veterinary Officer in the Department of Homeland Security, 
 - 2010-04-21 — Referred to House Agriculture
 - 2010-04-21 — Referred to House Homeland Security
 - 2010-04-21 — Referred to the Committee on Homeland Security, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2010-04-28 — Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.
+- 2010-06-18 — Referred to the Subcommittee on Horticulture and Organic Agriculture.
+- 2010-06-23 — Committee Consideration and Mark-up Session Held.
+- 2010-06-23 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2010-06-23 — Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology Discharged.
+- 2010-11-30 — House Committee on Agriculture Granted an extension for further consideration ending not later than Dec. 10, 2010.
+- 2010-11-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-668, Part I.
+- 2010-11-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-668, Part I.
+- 2010-12-10 — House Committee on Agriculture Granted an extension for further consideration ending not later than Dec. 17, 2010.
+- 2010-12-17 — House Committee on Agriculture Granted an extension for further consideration ending not later than Dec. 21, 2010.
+- 2010-12-21 — House Committee on Agriculture Granted an extension for further consideration ending not later than Dec. 22, 2010.
+- 2010-12-22 — Committee on Agriculture discharged.
+- 2010-12-22 — Committee on Agriculture discharged.
+- 2010-12-22 — Placed on the Union Calendar, Calendar No. 412.
